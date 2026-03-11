@@ -210,7 +210,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (isArticle) {
                 // Wrap article in editorial components
                 const readingTime = pageData.readingTime || Math.max(1, Math.ceil(pageData.content.split(' ').length / 200));
-                progressBarContainer.style.display = "block";
+                progressBarContainer.style.display = "none";
                 readingProgressBar.style.width = "0%";
                 
                 appContainer.innerHTML = `
