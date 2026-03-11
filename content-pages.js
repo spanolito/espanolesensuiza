@@ -34,8 +34,8 @@ window.siteContent.es.pages = {
                     </div>
 
                     <div class="hero-actions">
-                        <a href="#/tramites" class="btn btn-primary">Unirse a la Comunidad</a>
-                        <a href="#/vivir-en-suiza" class="btn btn-secondary">Explorar Guías</a>
+                        <a href="#/tramites" class="btn btn-primary">UNIRSE A LA COMUNIDAD <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg></a>
+                        <a href="#/vivir-en-suiza" class="btn btn-secondary">EXPLORAR GUÍAS</a>
                     </div>
                 </div>
             </section>
