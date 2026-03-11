@@ -11,7 +11,7 @@ window.siteContent.de = window.siteContent.de || { global: {}, pages: {}, articl
 window.siteContent.it = window.siteContent.it || { global: {}, pages: {}, articles: {} };
 
 
-window.siteContent.es.pages = {
+window.siteContent.fr.pages = {
     "home": {
         title: "Españoles en Suiza | Guía práctica para vivir y trabajar",
         description: "Plataforma editorial sobre la vida en Suiza: permisos, trabajo, vivienda, seguros e impuestos. Toda la información contrastada.",

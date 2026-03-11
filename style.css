@@ -246,8 +246,8 @@ strong, b {
 }
 
 .logo-link .flag-es {
-    width: 21px;
-    height: 14px;
+    width: 24px;
+    height: 16px;
     opacity: 0.95;
 }
 
@@ -296,6 +296,59 @@ strong, b {
 .nav-link.active {
     color: var(--text-primary);
     font-weight: 600;
+}
+
+/* Language Switcher */
+.lang-switcher.dropdown {
+    margin-left: 1rem;
+    padding-left: 1rem;
+    border-left: 1px solid var(--border-medium);
+}
+
+.lang-btn-icon {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text-secondary);
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 4px;
+    transition: color var(--transition-smooth);
+}
+
+.lang-btn-icon:hover,
+.lang-switcher.dropdown.open .lang-btn-icon {
+    color: var(--swiss-red);
+}
+
+.lang-switcher .dropdown-menu {
+    min-width: 140px;
+}
+
+.lang-btn {
+    background: none;
+    border: none;
+    width: 100%;
+    text-align: left;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    cursor: pointer;
+    padding: 0.5rem 1.25rem;
+    transition: all var(--transition-fast);
+    font-family: inherit;
+}
+
+.lang-btn:hover {
+    color: var(--text-primary);
+}
+
+.lang-btn.active {
+    color: var(--swiss-red);
+    font-weight: 700;
 }
 
 .nav-link.active::after {
