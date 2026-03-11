@@ -16,39 +16,37 @@ window.siteContent.fr.articles = {
         readingTime: 4,
         dateUpdated: "Actualizado frecuentemente",
         summary: "Guide complet pour comprendre les titres de séjour suisses : L (courte durée), B (résident) et C (établissement).",
-        content: `
-            <div class="page-header">
-                <h1>Permisos de residencia en Suiza: permit L, B, C y sus diferencias</h1>
-            </div>
-            <div class="article-content">
-                <p>Mudarse a Suiza implica registrarse y obtener un título de residencia. Si procedes de un país de la UE/EFTA (incluyendo España), el proceso está facilitado por el Acuerdo de Libre Circulación de Personas (ALCP).</p>
-                
-                <h2>Permiso L (Corta Duración)</h2>
-                <p>Dirigido a las personas que permanecen en Suiza por un periodo inferior a 12 meses.</p>
-                <ul>
-                    <li><strong>Contratos temporales:</strong> Si tienes un contrato de entre 3 y 12 meses, se te asignará este permiso.</li>
-                    <li><strong>Buscadores de empleo:</strong> Tras 3 meses buscando empleo, puedes solicitar un Permiso L para seguir buscando, que se renueva bajo ciertas condiciones probando que tienes medios económicos.</li>
-                </ul>
+        content: `<div class="page-header">
+<h1>Permis de séjour en Suisse : permis L, B, C et leurs différences</h1>
+</div>
+<div class="article-content">
+<p>S'installer en Suisse implique de s'inscrire et d'obtenir un permis de séjour. Si vous venez d'un pays de l'UE/AELE (y compris l'Espagne), la démarche est facilitée par l'Accord sur la libre circulation des personnes (ALCP).</p>
 
-                <h2>Permiso B (Permiso de Residencia / Livret B)</h2>
-                <p>Para residentes con contratos de larga duración o indefinidos.</p>
-                <ul>
-                    <li><strong>Validez:</strong> 5 años para ciudadanos de la UE/EFTA si tienen contrato de al menos 12 meses o indefinido.</li>
-                    <li><strong>Derechos:</strong> Permite movilidad cantonal y cambio de empleador fácilmente dentro del país.</li>
-                </ul>
+<h2>Permis L (court terme)</h2>
+<p>Destiné aux personnes séjournant en Suisse pour une durée inférieure à 12 mois.</p>
+<ul>
+<li><strong>Contrats temporaires :</strong> Si vous disposez d'un contrat compris entre 3 et 12 mois, ce permis vous sera attribué.</li>
+<li><strong>Demandeurs d'emploi :</strong> Après 3 mois de recherche d'emploi, vous pouvez demander un Permis L pour poursuivre vos recherches, qui se renouvelle sous certaines conditions en justifiant de vos moyens financiers.</li>
+</ul>
 
-                <h2>Permiso C (Permiso de Establecimiento / Livret C)</h2>
-                <p>Equivale a la residencia permanente y no depende de condiciones laborales.</p>
-                <ul>
-                    <li><strong>Obtención:</strong> Se otorga tras 5 años de residencia ininterrumpida y regular para ciudadanos españoles (y de la UE-15).</li>
-                    <li><strong>Ventajas:</strong> Mismos derechos que los suizos (excepto voto), puedes abrir tu empresa libremente y los impuestos ya no se retienen a la fuente (Quellensteuer), sino mediante declaración anual normal.</li>
-                </ul>
+<h2>Permis B (Permis de Séjour / Livret B)</h2>
+<p>Pour les résidents ayant des contrats à long terme ou à durée indéterminée.</p>
+<ul>
+<li><strong>Validité :</strong> 5 ans pour les citoyens de l'UE/AELE s'ils ont un contrat d'au moins 12 mois ou à durée indéterminée.</li>
+<li><strong>Droits :</strong> Permet la mobilité cantonale et un changement facile d'employeur à l'intérieur du pays.</li>
+</ul>
 
-                <div class="callout info">
-                    <strong>Fuente Oficial:</strong> Verifica las condiciones de renovación en el portal de la <a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank">Secretaría de Estado de Migración</a>.
-                </div>
-            </div>
-        `
+<h2>Permis C (Permis d'établissement / Livret C)</h2>
+<p>Cela équivaut à la résidence permanente et ne dépend pas des conditions de travail.</p>
+<ul>
+<li><strong>Obtenu :</strong> Il est accordé après 5 ans de résidence ininterrompue et régulière pour les citoyens espagnols (et UE-15).</li>
+<li><strong>Avantages :</strong> Mêmes droits que les Suisses (sauf vote), vous pouvez ouvrir votre entreprise librement et les impôts ne sont plus retenus à la source (Quellensteuer), mais via une déclaration annuelle normale.</li>
+</ul>
+
+<div class="informations sur l'appel">
+<strong>Source officielle :</strong> Vérifiez les conditions de renouvellement sur le portail du <a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank">Secrétariat d'État aux migrations</a>. 
+</div>
+</div>`
     },
 
     // 2. Registro en la comuna
@@ -60,33 +58,31 @@ window.siteContent.fr.articles = {
         hub: "tramites",
         readingTime: 3,
         summary: "Vous devez vous inscrire dans votre commune dans les 14 jours.",
-        content: `
-            <div class="page-header">
-                <h1>Cómo registrarse cuando llegas a Suiza (inscripción en la comuna)</h1>
-            </div>
-            <div class="article-content">
-                <p>El primer trámite obligatorio y el más importante al llegar a vivir en Suiza es el registro en la oficina de Control de Habitantes (<i>Contrôle des habitants / Einwohnerkontrolle</i>) del municipio donde vas a residir (comuna/Gemeinde).</p>
+        content: `<div class="page-header">
+<h1>Comment s'inscrire à votre arrivée en Suisse (inscription dans la commune)</h1>
+</div>
+<div class="article-content">
+<p>La première démarche obligatoire et la plus importante lorsque vous arrivez pour vivre en Suisse est l'inscription au bureau de contrôle des habitants (<i>Contrôle des habitants / Einwohnerkontrolle</i>) de la commune où vous allez résider (commune/Gemeinde).</p>
 
-                <h2>Plazos Importantes</h2>
-                <p><strong>Tienes un máximo de 14 días</strong> desde tu fecha de llegada para registrarte (incluso si es 8 días en algunos cantones, siempre revisa el plazo local). Además, siempre debes registrarte <strong>antes de tu primer día de trabajo</strong>.</p>
+<h2>Délais importants</h2>
+<p><strong>Vous disposez d'un délai maximum de 14 jours</strong> à compter de votre date d'arrivée pour vous inscrire (même si c'est 8 jours dans certains cantons, vérifiez toujours le délai local). De plus, vous devez toujours vous inscrire <strong>avant votre premier jour de travail</strong>.</p>
 
-                <h2>Documentos Necesarios</h2>
-                <ul>
-                    <li>Pasaporte o Documento de Identidad (DNI) válido.</li>
-                    <li>Contrato de trabajo firmado, o documento que acredite la admisión a un centro de estudios (para estudiantes).</li>
-                    <li>Contrato de alquiler firmado, o en su defecto, un certificado de alojamiento (si te hospedas en casa de un familiar o amigo, firmado por el titular del alquiler).</li>
-                    <li>Fotografía tamaño carnet (dependiendo del cantón).</li>
-                    <li>Acta de estado civil (certificado de matrimonio o nacimiento) si aplica.</li>
-                </ul>
+<h2>Documents nécessaires</h2>
+<ul>
+<li>Passeport ou document d'identité (DNI) valide</li>
+<li>Contrat de travail signé ou document prouvant l'admission dans un centre d'études (pour les étudiants).</li>
+<li>Contrat de location signé, ou à défaut, une attestation d'hébergement (si vous séjournez chez un membre de la famille ou un ami, signée par le propriétaire de la location).</li>
+<li>Photographie au format passage (selon le canton).</li>
+<li>Acte d'état civil (acte de mariage ou de naissance), le cas échéant.</li>
+</ul>
 
-                <h2>El Proceso</h2>
-                <p>Una vez presentados los documentos, pagarás una tasa por la expedición del permiso (suele rondar los 65-100 CHF según el tipo y el cantón). Recibirás un certificado temporal ("Attestation de résidence") mientras se emite la tarjeta física de tu permiso por parte del servicio de migración.</p>
+<h2>Le processus</h2>
+<p>Une fois les documents soumis, vous paierez des frais pour la délivrance du permis (généralement environ 65 à 100 CHF selon le type et le canton). Vous recevrez une attestation temporaire ("Attestation de résidence") pendant que votre carte de permis physique est délivrée par le service des migrations.</p>
 
-                <div class="callout">
-                    <strong>Nota para familias:</strong> Si llegáis con hijos, deberéis aportar certificados de nacimiento plurilingües y libro de familia.
-                </div>
-            </div>
-        `
+<div class="callout">
+<strong>Remarque pour les familles :</strong> Si vous arrivez avec des enfants, vous devez fournir des actes de naissance multilingues et un livret de famille. 
+</div>
+</div>`
     },
 
     // 3. Seguro de salud (LAMal)
@@ -98,32 +94,30 @@ window.siteContent.fr.articles = {
         hub: "salud",
         readingTime: 5,
         summary: "La LAMal est obligatoire et privée. Vous avez 3 mois pour l'obtenir.",
-        content: `
-            <div class="page-header">
-                <h1>Seguro de salud en Suiza (LAMal): cómo funciona</h1>
-            </div>
-            <div class="article-content">
-                <p>A diferencia de España, en Suiza no existe un sistema de Seguridad Social que cubra directamente la atención sanitaria general. La salud es privada, pero regulada de forma obligatoria por la Ley Federal del Seguro de Enfermedad, conocida como <strong>LAMal</strong> (KVG en alemán).</p>
+        content: `<div class="page-header">
+<h1>Assurance maladie en Suisse (LAMal) : comment ça marche</h1>
+</div>
+<div class="article-content">
+<p>Contrairement à l'Espagne, en Suisse, il n'existe pas de système de sécurité sociale couvrant directement les soins de santé généraux. La santé est privée, mais réglementée obligatoirement par la loi fédérale sur l'assurance maladie, connue sous le nom de <strong>LAMal</strong> (LAMal en allemand).</p>
 
-                <h2>Obligatoriedad y Plazos</h2>
-                <p>Toda persona residente en Suiza debe contratar un seguro médico básico (LAMal) en un plazo máximo de <strong>3 meses</strong> desde su llegada o fecha de registro. El seguro tendrá efecto retroactivo; pagarás las primas desde el primer día que pisaste el país.</p>
+<h2>Obligation et délais</h2>
+<p>Toute personne résidant en Suisse doit souscrire une assurance maladie de base (LAMal) dans un délai maximum de <strong>3 mois</strong> à compter de son arrivée ou de sa date d'inscription. L'assurance aura un effet rétroactif ; Vous paierez les primes dès le premier jour de votre arrivée dans le pays.</p>
 
-                <h2>¿Qué cubre el Seguro Básico (LAMal)?</h2>
-                <p>El seguro básico es idéntico por ley en todas las aseguradoras (Cajas de Compensación o <i>Caisses-maladie / Krankenkassen</i>). Cubre:</p>
-                <ul>
-                    <li>Consultas médicas generales y especialistas.</li>
-                    <li>Medicamentos prescritos en la lista oficial.</li>
-                    <li>Estancias en hospitales (sala general en tu cantón de residencia).</li>
-                    <li>Gastos de maternidad.</li>
-                </ul>
+<h2>Que couvre l'assurance de base (LAMal) ?</h2>
+<p>L'assurance de base est légalement identique chez tous les assureurs (Caisses-maladie / Krankenkassen</i>). Couvertures :</p>
+<ul>
+<li>Consultations médicales générales et spécialisées.</li>
+<li>Médicaments prescrits sur la liste officielle.</li>
+<li>Séjours à l'hôpital (division commune de votre canton de résidence).</li>
+<li>Frais de maternité.</li>
+</ul>
 
-                <h2>¿Qué NO cubre el seguro básico?</h2>
-                <p>Generalmente, el seguro básico <strong>no cubre cuidados dentales</strong> rutinarios (las visitas al dentista se pagan del bolsillo a menos que contrates un seguro complementario LCA), ni gafas u hospitalización en habitación privada.</p>
+<h2>Qu'est-ce que l'assurance de base NE couvre PAS ?</h2>
+<p>De manière générale, l'assurance de base <strong>ne couvre pas les soins dentaires courants (les visites chez le dentiste sont payées de votre poche sauf si vous souscrivez une assurance complémentaire LCA), les lunettes ou l'hospitalisation en chambre privée.</p>
 
-                <h2>¿Cómo elegir aseguradora?</h2>
-                <p>Aunque las coberturas de la LAMal son idénticas, las primas mensuales varían sustancialmente entre compañías y según tu lugar de residencia. Puedes comparar las ofertas oficiales en <a href="https://www.priminfo.admin.ch/" target="_blank">Priminfo</a> (sitio de la Confederación).</p>
-            </div>
-        `
+<h2>Comment choisir une compagnie d'assurance ?</h2>
+<p>Bien que la couverture LAMal soit identique, les primes mensuelles varient considérablement selon les compagnies et selon votre lieu de résidence. Vous pouvez comparer les offres officielles sur <a href="https://www.priminfo.admin.ch/" target="_blank">Priminfo</a> (site de la Confédération).</p>
+</div>`
     },
 
     // 4. Franquicia y copago en el sistema de salud
@@ -136,30 +130,28 @@ window.siteContent.fr.articles = {
         hub: 'salud',
         readingTime: 4,
         summary: `Pourquoi l\'assurance maladie peut devenir chère si vous ne choisissez pas bien votre franchise de base (300 CHF vs 2500 CHF).`,
-        content: `
-            <div class="page-header">
-                <h1>Franquicia y copago en el sistema de salud suizo</h1>
-            </div>
-            <div class="article-content">
-                <p>Incluso después de pagar tus primas mensuales del seguro básico (LAMal), tú eres responsable de una parte de los gastos médicos generados. Estos gastos se dividen en Franquicia y Cuota Parte (Copago).</p>
+        content: `<div class="page-header">
+<h1>Franchise et ticket modérateur dans le système de santé suisse</h1>
+</div>
+<div class="article-content">
+<p>Même après avoir payé vos primes mensuelles d'assurance de base (LAMal), vous êtes responsable d'une partie des frais médicaux générés. Ces dépenses sont divisées en frais excédentaires et partiels (co-paiement).</p>
 
-                <h2>La Franquicia (Franchise)</h2>
-                <p>La franquicia es la cantidad anual que debes pagar íntegramente de tu propio bolsillo para visitas médicas y medicamentos antes de que el seguro comience a reembolsar.</p>
-                <ul>
-                    <li>El mínimo legal para adultos es de <strong>300 CHF</strong>.</li>
-                    <li>El máximo para adultos es de <strong>2500 CHF</strong>.</li>
-                    <li>Si eliges una franquicia baja (300 CHF), tu prima mensual será alta. Si eliges la más alta (2500 CHF), pagarás menos cada mes por el seguro, con la esperanza de no enfermar.</li>
-                </ul>
-                <p><em>Consejo estadístico:</em> No suele ser rentable coger las franquicias intermedias. Por lo general, se opta por 300 (si crees que tendrás muchos gastos) o 2500 (si eres muy sano).</p>
+<h2>La Franchise (Franchise)</h2>
+<p>La franchise est le montant annuel que vous devez payer entièrement de votre poche pour les visites médicales et les médicaments avant que l'assurance ne commence à rembourser.</p>
+<ul>
+<li>Le minimum légal pour les adultes est de <strong>300 CHF</strong>.</li>
+<li>Le maximum pour les adultes est de <strong>2 500 CHF</strong>.</li>
+<li>Si vous choisissez une franchise faible (300 CHF), votre prime mensuelle sera élevée. Si vous choisissez le montant le plus élevé (2'500 CHF), vous paierez chaque mois moins d'assurance, dans l'espoir de ne pas tomber malade.</li>
+</ul>
+<p><em>Conseil statistique :</em> Il n'est généralement pas rentable de prendre des franchises intermédiaires. Généralement, vous optez pour 300 (si vous pensez avoir beaucoup de dépenses) ou 2500 (si vous êtes en très bonne santé).</p>
 
-                <h2>El Copago (Quote-part / Selbstbehalt)</h2>
-                <p>Una vez que agotas tu franquicia (por ejemplo, ya has gastado 2500 CHF en médicos), el seguro asume los gastos, pero tú debes pagar el <strong>10% del importe restante</strong>. Este es el copago.</p>
-                <p>Afortunadamente, este 10% tiene un tope máximo anual de <strong>700 CHF</strong> para adultos (350 CHF para niños).</p>
+<h2>Co-paiement (partie devis / Selbstbehalt)</h2>
+<p>Une fois que vous avez épuisé votre franchise (par exemple, vous avez déjà dépensé 2'500 CHF pour des médecins), l'assurance prend en charge les frais, mais vous devez payer <strong>10% du montant restant</strong>. Il s'agit du ticket modérateur.</p>
+<p>Heureusement, ces 10% sont plafonnés annuellement à <strong>700 CHF</strong> pour les adultes (350 CHF pour les enfants).</p>
 
-                <h2>Gastos Hospitalarios</h2>
-                <p>Si eres hospitalizado, tendrás un cargo fijo adicional de 15 CHF por día de hospitalización (contribución a los gastos de manutención), aplicable independientemente de la franquicia o copago.</p>
-            </div>
-        `
+<h2>Frais d'hospitalisation</h2>
+<p>Si vous êtes hospitalisé, vous bénéficierez d'un forfait supplémentaire de 15 CHF par jour d'hospitalisation (participation aux frais de subsistance), applicable quelle que soit la franchise ou le ticket modérateur.</p>
+</div>`
     },
 
     // 5. Impuestos en Suiza: federal, cantonal y comunal
@@ -172,27 +164,25 @@ window.siteContent.fr.articles = {
         hub: 'impuestos',
         readingTime: 5,
         summary: `En Suisse, vous payez des impôts à 3 niveaux.`,
-        content: `
-            <div class="page-header">
-                <h1>Impuestos en Suiza: fiscalidad federal, cantonal y comunal</h1>
-            </div>
-            <div class="article-content">
-                <p>Suiza es un país federal, por lo cual cuenta con un sistema fiscal a tres niveles. A diferencia de muchos países donde se recauda a nivel nacional y luego se distribuye, en Suiza los ciudadanos tributan en tres esferas diferentes.</p>
+        content: `<div class="page-header">
+<h1>Impôts en Suisse : fiscalité fédérale, cantonale et communale</h1>
+</div>
+<div class="article-content">
+<p>La Suisse est un pays fédéral, c'est pourquoi elle dispose d'un système fiscal à trois niveaux. Contrairement à de nombreux pays où l'argent est collecté au niveau national puis distribué, les citoyens suisses paient des impôts dans trois domaines différents.</p>
 
-                <h2>1. El Impuesto Federal Directo</h2>
-                <p>Es igual en toda Suiza y es recaudado por la Confederación. Grava los ingresos de las personas físicas (pero no su patrimonio) y el beneficio de las empresas. Tiene tarifas marcadamente progresivas, pero en general no excede el 11.5% de los ingresos.</p>
+<h2>1. L'impôt fédéral direct</h2>
+<p>Il est le même dans toute la Suisse et est collecté par la Confédération. Elle taxe les revenus des particuliers (mais pas leurs actifs) et les bénéfices des entreprises. Il a des taux nettement progressifs, mais en général il ne dépasse pas 11,5% du revenu.</p>
 
-                <h2>2. El Impuesto Cantonal</h2>
-                <p>Cada uno de los 26 cantones tiene su propia legislación fiscal. Ellos fijan los baremos, las deducciones y la escala de progresividad. Debido a esto, la carga fiscal varía inmensamente si vives en Ginebra (alta fiscalidad) versus si vives en Zug o Schwyz (baja fiscalidad). Los cantones gravan tanto la renta (ingresos) como la fortuna (patrimonio).</p>
+<h2>2. L'impôt cantonal</h2>
+<p>Chacun des 26 cantons possède sa propre législation fiscale. Ils fixent les barèmes, les déductions et l'échelle de progressivité. Pour cette raison, la charge fiscale varie énormément si vous habitez à Genève (impôt élevé) et si vous habitez à Zoug ou à Schwyz (impôt faible). Les cantons imposent à la fois le revenu (revenu) et la fortune (richesse).</p>
 
-                <h2>3. El Impuesto Comunal</h2>
-                <p>Los más de 2000 ayuntamientos en Suiza determinan cada año su coeficiente impositivo, a menudo expresado como un porcentaje o multiplicador basado en el impuesto cantonal básico. Por ello, mudarse apenas unos kilómetros a la comuna vecina puede aumentar o reducir tus impuestos significativamente.</p>
+<h2>3. La Taxe Communale</h2>
+<p>Les plus de 2000 communes de Suisse déterminent chaque année leur coefficient fiscal, souvent exprimé en pourcentage ou en multiplicateur basé sur l'impôt cantonal de base. Ainsi, déménager quelques kilomètres seulement vers la commune voisine peut augmenter ou réduire considérablement vos impôts.</p>
 
-                <div class="callout">
-                    <strong>Pilar importante:</strong> En Suiza prima el "Federalismo fiscal de competencia". Los cantones compiten entre sí atrayendo empresas y contribuyentes a través de las tasas impositivas.
-                </div>
-            </div>
-        `
+<div class="callout">
+<strong>Pilier important</strong> : En Suisse, le "fédéralisme de la concurrence fiscale" prévaut. Les cantons se font concurrence en attirant les entreprises et les contribuables grâce aux taux d'imposition. 
+</div>
+</div>`
     },
 
     // 6. Impuesto a la fuente
@@ -206,24 +196,22 @@ window.siteContent.fr.articles = {
         readingTime: 3,
         dateUpdated: 'Actualizado recientemente',
         summary: `Comment fonctionne le prélèvement des impôts directement sur le salaire mensuel pour les étrangers et travailleurs frontaliers.`,
-        content: `
-            <div class="page-header">
-                <h1>Impuesto a la fuente (Quellensteuer / Impôt à la source)</h1>
-            </div>
-            <div class="article-content">
-                <p>La mayoría de los ciudadanos suizos y residentes permanentes (Permiso C) rellenan una vez al año su declaración de la renta y pagan los impuestos a posteriori. Sin embargo, para los extranjeros recién llegados existe el <strong>Impuesto a la Fuente</strong>.</p>
+        content: `<div class="page-header">
+<h1>Taxe à la source (Quellensteuer / Impôt à la source)</h1>
+</div>
+<div class="article-content">
+<p>La majorité des citoyens suisses et des résidents permanents (permis C) remplissent leur déclaration de revenus une fois par an et paient ensuite des impôts. Cependant, pour les étrangers nouvellement arrivés, il existe la <strong>Taxe à la Source</strong>.</p>
 
-                <h2>¿Quiénes están sometidos?</h2>
-                <p>Principalmente afecta a los trabajadores extranjeros que poseen un permiso de residencia <strong>L o B</strong> y a los trabajadores fronterizos (Permiso G) de algunos países.</p>
+<h2>Qui est soumis ?</h2>
+<p>Elle touche principalement les travailleurs étrangers titulaires d'un titre de séjour <strong>L ou B</strong> et les travailleurs frontaliers (permis G) en provenance de certains pays.</p>
 
-                <h2>¿Cómo funciona?</h2>
-                <p>Tu empleador suizo deduce este impuesto directamente de tu salario bruto cada mes, de la misma forma que en España funciona la retención del IRPF en la nómina. Luego, el empleador transfiere ese dinero a la administración fiscal del cantón. Las tarifas aplicadas dependen de tu Estado Civil, el número de hijos a cargo, si tu cónyuge trabaja, y las tablas del cantón correspondiente (tarifas A, B, C...).</p>
+<h2>Comment ça marche ?</h2>
+<p>Votre employeur suisse déduit cet impôt directement de votre salaire brut chaque mois, de la même manière que fonctionne en Espagne la retenue à la source de l'impôt sur le revenu des personnes physiques sur la masse salariale. L'employeur transfère ensuite cet argent à l'administration fiscale du canton. Les tarifs appliqués dépendent de votre Situation Civile, du nombre d'enfants à charge, du travail de votre conjoint et des barèmes du canton correspondant (tarifs A, B, C...).</p>
 
-                <h2>Declaración de impuestos rectificativa</h2>
-                <p>Dependiendo de tu cantón, hasta marzo del año siguiente podrías tener derecho a solicitar una <em>corrección del impuesto a la fuente</em> si has incurrido en gastos que son deducibles (como planes de pensiones 3er pilar, gastos de cuidado de hijos, donaciones, reciclaje educacional).<br/>
-                <strong>Límite importante:</strong> Aquellas personas con permiso B que superen un umbral de sueldo bruto anual de 120.000 CHF están obligadas por defecto a realizar la declaración de la renta ordinaria, aunque se les siga reteniendo mes a mes a cuenta de lo definitivo.</p>
-            </div>
-        `
+<h2>Modification de déclaration de revenus</h2>
+<p>Selon votre canton, jusqu'en mars de l'année suivante, vous pouvez avoir le droit de demander une <em>rectification de l'impôt à la source</em> si vous avez engagé des dépenses déductibles (telles que la prévoyance du 3e pilier, les frais de garde d'enfants, les dons, le recyclage éducatif).<br/>
+<strong>Limite importante :</strong> Les titulaires d'un permis B qui dépassent un seuil de salaire brut annuel de 120'000 CHF sont tenus par défaut de déposer une déclaration d'impôt sur le revenu ordinaire, même s'ils continuent à être retenus mois par mois en raison du définitif.</p>
+</div>`
     },
 
     // 7. Seguros Sociales
@@ -236,28 +224,26 @@ window.siteContent.fr.articles = {
         hub: 'trabajo',
         readingTime: 6,
         summary: `Le système de retraite suisse repose sur 3 piliers.`,
-        content: `
-            <div class="page-header">
-                <h1>Seguros sociales y el sistema de previdencia suizo</h1>
-            </div>
-            <div class="article-content">
-                <p>Parte del salario bruto se destina obligatoriamente al sistema de seguridad social. Suiza basa su previsión para la vejez en un peculiar modelo de <strong>tres pilares</strong>.</p>
+        content: `<div class="page-header">
+<h1>Assurances sociales et système de retraite suisse</h1>
+</div>
+<div class="article-content">
+<p>Une partie du salaire brut est obligatoirement affectée au système de sécurité sociale. La Suisse fonde sa prévoyance vieillesse sur un modèle particulier à trois piliers.</p>
 
-                <h2>1er Pilar: AVS e AI (Seguro de Vejez y Supervivencia, Seguro de Invalidez)</h2>
-                <p>Se trata de una cuota de reparto estatal, obligatoria para todos los residentes o trabajadores. Tiene como fin garantizar el mínimo vital en la vejez o en caso de fallecimiento e invalidez.<br/>
-                <strong>Aportación:</strong> Por normal general, está en torno al 10.6% de tu salario, pero el empleador asume la mitad (5.3%) y tú la otra mitad. Aparece descontado directo en nómina.</p>
+<h2>1er pilier : AVS et AI (Assurance vieillesse et survie, Assurance invalidité)</h2>
+<p>Il s'agit d'une taxe de distribution de l'État, obligatoire pour tous les résidents ou travailleurs. Son objectif est de garantir le minimum vital en cas de vieillesse ou en cas de décès et d'invalidité.<br/>
+<strong>Cotisation :</strong> En règle générale, elle s'élève à environ 10,6 % de votre salaire, mais l'employeur en assume la moitié (5,3%) et vous l'autre moitié. Il apparaît directement déduit de la masse salariale.</p>
 
-                <h2>2do Pilar: LPP o Caja de Pensiones (Previsión Profesional)</h2>
-                <p>A partir del 1 de enero posterior a cumplir los 17 (para riesgos) y los 24 (para ahorro de vejez), y siempre que el salario supere cierto umbral, los empleados cotizan a este fondo privado de capitalización. 
-                El objetivo es que, sumado al primer pilar, mantengas en la jubilidad un nivel de vida cercano a tus últimos años laborales. Este dinero es tuyo y se va acumulando en tu cuenta individual con rendimientos. Si dejas el país definitivamente fuera de Europa, a veces puedes recuperar parte de este fondo.</p>
+<h2>2e pilier : LPP ou Caisse de pension (prévoyance professionnelle)</h2>
+<p>A partir du 1er janvier après avoir atteint 17 ans (pour les risques) et 24 ans (pour l'épargne vieillesse), et tant que le salaire dépasse un certain seuil, les salariés cotisent à ce fonds de capitalisation privé. 
+L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un niveau de vie proche de vos dernières années d'activité. Cet argent vous appartient et il s’accumule sur votre compte individuel avec des retours. Si vous quittez définitivement le pays hors d'Europe, vous pouvez parfois récupérer une partie de ce fonds.</p>
 
-                <h2>Seguro de Desempleo (ALV/AC - Paro)</h2>
-                <p>La aportación al seguro de paro también es obligatoria (mitad a cargo del empleado y mitad del empleador). Si lamentablemente pierdes tu empleo despues de haber cotizado al menos 12 meses, este organismo pagará alrededor del 70% u 80% (si tienes hijos) de tu último salario, sujeto a tu esfuerzo activo y demostrado en la búsqueda de un nuevo trabajo.</p>
+<h2>Assurance chômage (ALV/AC - Chômage)</h2>
+<p>La cotisation à l'assurance chômage est également obligatoire (payée pour moitié par le salarié et pour moitié par l'employeur). Si vous perdez malheureusement votre emploi après avoir cotisé au moins 12 mois, cet organisme paiera environ 70% ou 80% (si vous avez des enfants) de votre dernier salaire, sous réserve de vos efforts actifs et démontrés dans la recherche d'un nouvel emploi.</p>
 
-                <h2>Resumen general:</h2>
-                <p>Al llegar tu contrato con un número bruto al mes, el sueldo neto se percibe tras descontar el AVS/AI, la pensión profesional, seguro de paro y (en muchos casos) el impuesto en origen.</p>
-            </div>
-        `
+<h2>Résumé général :</h2>
+<p>Lorsque votre contrat arrive avec un chiffre brut par mois, le salaire net est perçu après déduction de l'AVS/AI, de la pension professionnelle, de l'assurance chômage et (dans de nombreux cas) de l'impôt à la source.</p>
+</div>`
     },
 
     // 8. Salarios por sector y región
@@ -269,28 +255,26 @@ window.siteContent.fr.articles = {
         hub: 'trabajo',
         readingTime: 5,
         summary: `La Suisse a des salaires très élevés mais des coûts proportionnels.`,
-        summary: `Suiza tiene salarios muy altos pero costos en proporción. Solo unos pocos cantones (ej. Ginebra, Neuchâtel) tienen salario mínimo legal.`,
-        content: `
-            <div class="page-header">
-                <h1>Salarios en Suiza por sector y cantón</h1>
-            </div>
-            <div class="article-content">
-                <p>Los salarios en Suiza se encuentran entre los más altos del mundo, pero también lo es el coste de vida. Es crucial entender que tu poder adquisitivo real dependerá de lo que ganes frente a los gastos fijos de tu cantón.</p>
+        
+        content: `<div class="page-header">
+<h1>Salaire en Suisse par secteur et canton</h1>
+</div>
+<div class="article-content">
+<p>Les salaires en Suisse sont parmi les plus élevés au monde, tout comme le coût de la vie. Il est crucial de comprendre que votre pouvoir d'achat réel dépendra de ce que vous gagnerez par rapport aux dépenses fixes de votre canton.</p>
 
-                <h2>¿Existe un salario mínimo legal en Suiza?</h2>
-                <p>A nivel federal <strong>no existe</strong> un salario mínimo interprofesional. Sin embargo, algunos cantones han introducido sus propios salarios mínimos por hora. Por ejemplo, Ginebra o Neuchâtel tienen salarios mínimos legales que rondan los 23-24 CHF la hora (unos 4.000 CHF brutos al mes a tiempo completo).</p>
+<h2>Existe-t-il un salaire minimum légal en Suisse ?</h2>
+<p>Au niveau fédéral <strong>il n'existe pas</strong> de salaire minimum interprofessionnel. Certains cantons ont toutefois introduit leur propre salaire horaire minimum. Par exemple, Genève ou Neuchâtel ont un salaire minimum légal d'environ 23-24 CHF de l'heure (environ 4'000 CHF brut par mois à temps plein).</p>
 
-                <h2>El calculador Salarium</h2>
-                <p>Si quieres saber si una oferta de trabajo es justa para tu sector, experiencia, edad y cantón, la herramienta más fiable es el <strong>Salarium</strong>, un calculador estadístico oficial mantenido por la Oficina Federal de Estadística (OFS).</p>
-                
-                <div class="callout info">
-                    <strong>Enlace útil:</strong> <a href="https://www.bfs.admin.ch/bfs/es/home/estadisticas/trabajo-remuneracion/salarios-ingresos-costo-trabajo/nivel-salarial-suiza/salarium.html" target="_blank">Calculador de Salarios Salarium</a>
-                </div>
+<h2>Le calculateur Salarium</h2>
+<p>Si vous souhaitez savoir si une offre d'emploi est équitable pour votre secteur, votre expérience, votre âge et votre canton, l'outil le plus fiable est le <strong>Salarium</strong>, un calculateur statistique officiel géré par l'Office fédéral de la statistique (OFS).</p>
 
-                <h2>Los Convenios Colectivos (CCT)</h2>
-                <p>Muchos sectores (hostelería, construcción, peluquería) están regidos por Contratos Colectivos de Trabajo (CCT / GAV). Estos contratos establecen salarios mínimos obligatorios, número de días de vacaciones y pago de horas extra, ofreciendo una sólida protección al trabajador.</p>
-            </div>
-        `
+<div class="informations sur l'appel">
+<strong>Lien utile :</strong> <a href="https://www.bfs.admin.ch/bfs/es/home/statistics/labor-remuneration/salaries- Income-cost-work/salary-level-switzerland/salarium.html" target="_blank">Calculateur de salaire</a>
+</div>
+
+<h2>Conventions Collectives (CCT)</h2>
+<p>De nombreux secteurs (hôtellerie, bâtiment, coiffure) sont régis par des Conventions Collectives de Travail (CCT/GAV). Ces contrats établissent un salaire minimum obligatoire, le nombre de jours de vacances et le paiement des heures supplémentaires, offrant ainsi une solide protection au travailleur.</p>
+</div>`
     },
 
     // 9. Contratos de trabajo
@@ -302,28 +286,26 @@ window.siteContent.fr.articles = {
         hub: 'trabajo',
         readingTime: 4,
         summary: `Le marché du travail est très libéral. Le licenciement est libre.`,
-        summary: `El mercado laboral suizo es muy liberal. El despido es libre (respetando los plazos de preaviso) y las vacaciones mínimas son 4 semanas semanales.`,
-        content: `
-            <div class="page-header">
-                <h1>Contratos de trabajo en Suiza: derechos y obligaciones</h1>
-            </div>
-            <div class="article-content">
-                <p>El mercado laboral suizo es muy flexible y las condiciones se rigen fundamentalmente por el Código de Obligaciones (CO) y los Convenios Colectivos de Trabajo (CCT).</p>
+        
+        content: `<div class="page-header">
+<h1>Contrats de travail en Suisse : droits et obligations</h1>
+</div>
+<div class="article-content">
+<p>Le marché du travail suisse est très flexible et les conditions sont fondamentalement régies par le Code des obligations (CO) et les conventions collectives de travail (CCT).</p>
 
-                <h2>Tipos de contrato</h2>
-                <ul>
-                    <li><strong>Contrato Indefinido (CDI):</strong> El más común. No tiene fecha de finalización y permite al empleador o empleado rescindirlo respetando siempre el periodo de preaviso pactado o legal.</li>
-                    <li><strong>Contrato de Duración Determinada (CDD):</strong> Se firma por una duración específica (ej. temporada de invierno, sustitución por maternidad).</li>
-                    <li><strong>Trabajo Temporal:</strong> A través de agencias (Adecco, Manpower...), sujeto a reglas específicas sobre cotizaciones y preaviso muy flexible.</li>
-                </ul>
+<h2>Types de contrat</h2>
+<ul>
+<li><strong>Contrat à durée indéterminée (CDI) :</strong> le plus courant. Il n'a pas de date de fin et permet à l'employeur ou au salarié d'y mettre fin, toujours en respectant le délai de préavis convenu ou légal.</li>
+<li><strong>Contrat à Durée Déterminée (CDD) :</strong> Il est signé pour une durée déterminée (par exemple saison d'hiver, remplacement de maternité).</li>
+<li><strong>Travail temporaire :</strong> Par l'intermédiaire d'agences (Adecco, Manpower...), soumis à des règles spécifiques en matière de cotisations et à un préavis très souple.</li>
+</ul>
 
-                <h2>Jornada y Vacaciones</h2>
-                <p>Por ley, todo trabajador en Suiza tiene derecho a un <strong>mínimo de 4 semanas</strong> de vacaciones pagadas al año (5 semanas si es menor de 20 años). La jornada laboral "a tiempo completo" suele oscilar entre las 40 y las 45 horas semanales.</p>
+<h2>Jour et vacances</h2>
+<p>En vertu de la loi, tout travailleur en Suisse a droit à un <strong>minimum de 4 semaines</strong> de congés payés par an (5 semaines s'il a moins de 20 ans). La journée de travail « à temps plein » varie généralement entre 40 et 45 heures par semaine.</p>
 
-                <h2>Enfermedad y Accidentes</h2>
-                <p>Casi todos los empleadores grandes cuentan con un seguro por pérdida de ganancias en caso de enfermedad que te asegura el cobro de tu sueldo mientras te recuperas. Además, el empleador abona obligatoriamente el <strong>seguro de accidentes profesionales</strong>.</p>
-            </div>
-        `
+<h2>Maladie et accidents</h2>
+<p>Presque tous les grands employeurs disposent d'une assurance perte de gain en cas de maladie qui garantit que vous recevez votre salaire pendant votre convalescence. De plus, l'employeur paie obligatoirement une <strong>assurance contre les accidents du travail</strong>.</p>
+</div>`
     },
 
     // 10. Periodo de prueba
@@ -336,28 +318,26 @@ window.siteContent.fr.articles = {
         hub: 'trabajo',
         readingTime: 3,
         summary: `La période d'essai standard est de 1 à 3 mois.`,
-        content: `
-            <div class="page-header">
-                <h1>Periodo de prueba y plazos de preaviso</h1>
-            </div>
-            <div class="article-content">
-                <h2>El Periodo de Prueba (Probezeit / Temps d'essai)</h2>
-                <p>El primer mes de un contrato por tiempo indeterminado siempre se considera periodo de prueba por ley, a no ser que el contrato especifique otra cosa. Este periodo puede extenderse por escrito hasta un <strong>máximo de tres meses</strong>.</p>
-                <p>Durante este tiempo, ambas partes pueden cancelar el contrato con un <strong>preaviso de siete días</strong> (naturales) y no es necesario dar mayor justificación.</p>
+        content: `<div class="page-header">
+<h1>Période d'essai et délais de préavis</h1>
+</div>
+<div class="article-content">
+<h2>La période probatoire (Probezeit / Temps d'essai)</h2>
+<p>Le premier mois d'un contrat à durée indéterminée est toujours considéré comme une période d'essai par la loi, sauf disposition contraire du contrat. Ce délai peut être prolongé par écrit jusqu'à un maximum de trois mois.</p>
+<p>Pendant ce délai, les deux parties peuvent résilier le contrat avec <strong>un préavis de sept jours</strong> (calendrier) et il n'est pas nécessaire de fournir de justification supplémentaire.</p>
 
-                <h2>Los Plazos de Preaviso (Kündigungsfrist / Délai de congé)</h2>
-                <p>Una vez superado el periodo de prueba, se aplican los plazos legales o los convenidos por contrato escrito (o CCT). Según el Código de Obligaciones, el marco general es:</p>
-                <ul>
-                    <li><strong>1er año de servicio:</strong> 1 mes (cancelación para finales de mes).</li>
-                    <li><strong>Del 2º al 9º año de servicio:</strong> 2 meses (cancelación para finales de mes).</li>
-                    <li><strong>A partir del 10º año de servicio:</strong> 3 meses (cancelación para finales de mes).</li>
-                </ul>
+<h2>Délais de préavis (Kündigungsfrist / Délai de congé)</h2>
+<p>Une fois la période d'essai passée, les délais légaux ou ceux convenus par contrat écrit (ou CCT) s'appliquent. Selon le Code des Obligations, le cadre général est :</p>
+<ul>
+<li><strong>1ère année de service :</strong> 1 mois (annulation avant la fin du mois).</li>
+<li><strong>De la 2ème à la 9ème année de service :</strong> 2 mois (annulation avant la fin du mois).</li>
+<li><strong>A partir de la 10ème année de service :</strong> 3 mois (annulation avant la fin du mois).</li>
+</ul>
 
-                <div class="callout info">
-                    <strong>Importante:</strong> El preaviso debe llegar siempre a manos de tu jefe ANTES del último día laboral del mes para que comience a contar el mes siguiente.
-                </div>
-            </div>
-        `
+<div class="informations sur l'appel">
+<strong>Important :</strong> La convocation doit toujours parvenir à votre patron AVANT le dernier jour ouvrable du mois afin que le mois suivant commence à compter. 
+</div>
+</div>`
     },
 
     // 11. Búsqueda de empleo
@@ -369,33 +349,31 @@ window.siteContent.fr.articles = {
         hub: 'trabajo',
         readingTime: 4,
         summary: `Le CV suisse doit inclure une photo et date de naissance.`,
-        summary: `El CV al estilo suizo debe incluir foto, fecha de nacimiento y estado civil. Las plataformas más usadas son Jobup, Jobs.ch y LinkedIn.`,
-        content: `
-            <div class="page-header">
-                <h1>Cómo buscar empleo en Suiza</h1>
-            </div>
-            <div class="article-content">
-                <p>Suiza tiene un mercado laboral dinámico, impulsado no sólo por grandes farmacéuticas, bancos y relojería, sino también por miles de pymes.</p>
+        
+        content: `<div class="page-header">
+<h1>Comment chercher un emploi en Suisse</h1>
+</div>
+<div class="article-content">
+<p>La Suisse dispose d'un marché du travail dynamique, tiré non seulement par les grandes entreprises pharmaceutiques, les banques et les horlogers, mais aussi par des milliers de PME.</p>
 
-                <h2>El Currículum (Dossier de Candidatura)</h2>
-                <p>El modelo suizo tradicionalmente es formal y completo. Un dossier estándar suizo debe incluir, si se solicita:</p>
-                <ul>
-                    <li>Tu CV (con fotografía profesional, datos de nacimiento y permiso de residencia si lo tienes).</li>
-                    <li>Una carta de motivación estructurada y en el idioma de la oferta.</li>
-                    <li>Copias de diplomas formativos.</li>
-                    <li><strong>Certificados de trabajo previos</strong> (Arbeitszeugnis). Son importantísimos en Suiza; son cartas de tus anteriores jefes evaluando cualitativamente tus aptitudes en un formato estandarizado.</li>
-                </ul>
+<h2>Le Curriculum (Dossier de Candidature)</h2>
+<p>Le modèle suisse est traditionnellement formel et complet. Un dossier standard suisse doit comprendre, sur demande :</p>
+<ul>
+<li>Votre CV (avec photo professionnelle, informations de naissance et titre de séjour si vous en possédez un).</li>
+<li>Une lettre de motivation structurée dans la langue de l'offre.</li>
+<li>Copies des diplômes de formation.</li>
+<li><strong>Certificats de travail antérieurs</strong> (Arbeitszeugnis). Ils sont très importants en Suisse ; Il s'agit de lettres de vos anciens patrons évaluant qualitativement vos compétences dans un format standardisé.</li>
+</ul>
 
-                <h2>Principales Plataformas de Empleo</h2>
-                <ul>
-                    <li><a href="https://www.jobs.ch/" target="_blank">jobs.ch</a> - El mayor portal a nivel nacional.</li>
-                    <li><a href="https://www.jobup.ch/" target="_blank">jobup.ch</a> - Especialmente fuerte en la zona de la Suiza romanda (francesa).</li>
-                    <li><a href="https://ch.indeed.com/" target="_blank">Indeed Suiza</a> - Muy usado para todo el país.</li>
-                    <li><strong>LinkedIn</strong> - Fundamental para perfiles técnicos, ingenieros e IT.</li>
-                </ul>
-                <p>Si tu búsqueda es para hostelería o empleos temporales, inscribirte presencialmente en Agencias de Trabajo Temporal (Adecco, Kelly Services) al llegar es muy efectivo.</p>
-            </div>
-        `
+<h2>Principales plateformes d'emploi</h2>
+<ul>
+<li><a href="https://www.jobs.ch/" target="_blank">jobs.ch</a> - Le plus grand portail national.</li>
+<li><a href="https://www.jobup.ch/" target="_blank">jobup.ch</a> - Particulièrement fort dans la région de la Suisse romaine (française).</li>
+<li><a href="https://ch.indeed.com/" target="_blank">Indeed Suisse</a> - Largement utilisé dans tout le pays.</li>
+<li><strong>LinkedIn</strong> – Indispensable pour les profils techniques, d'ingénierie et informatiques.</li>
+</ul>
+<p>Si vous recherchez un emploi dans l'hôtellerie ou un emploi temporaire, vous inscrire en personne auprès des agences de travail temporaire (Adecco, Kelly Services) à votre arrivée est très efficace.</p>
+</div>`
     },
 
     // 12. Alquiler de vivienda
@@ -407,27 +385,25 @@ window.siteContent.fr.articles = {
         hub: 'vivienda',
         readingTime: 5,
         summary: `Le marché est très compétitif. Il vous faut un dossier impeccable.`,
-        summary: `El mercado de alquiler es muy competitivo. Necesitas un dosier impecable: extracto de no deudas (poursuites), contrato y 3 últimas nóminas.`,
-        content: `
-            <div class="page-header">
-                <h1>Cómo alquilar un piso en Suiza</h1>
-            </div>
-            <div class="article-content">
-                <p>Buscar alojamiento en ciudades como Zúrich, Ginebra o Lausana es notoriamente difícil por la falta de vivienda y la altísima demanda. Ser rápido y tener un dosier completo es esencial.</p>
+        
+        content: `<div class="page-header">
+<h1>Comment louer un appartement en Suisse</h1>
+</div>
+<div class="article-content">
+<p>La recherche d'un logement dans des villes comme Zurich, Genève ou Lausanne est notoirement difficile en raison du manque de logements et de la très forte demande. Être rapide et avoir un dossier complet est essentiel.</p>
 
-                <h2>El Dosier del Inquilino</h2>
-                <p>No basta con tener ingresos; las inmobiliarias (Régies / Verwaltungen) piden comprobar la solvencia y antecedentes con documentación exacta. Tu dosier en la solicitud, habitualmente digital mediante portales como <a href="https://www.homegate.ch/" target="_blank">Homegate</a> o <a href="https://www.immoscout24.ch/" target="_blank">ImmoScout24</a>, debe incluir:</p>
-                <ul>
-                    <li>Copia del DNI / Pasaporte y del permiso de residencia (o contrato de trabajo que pruebe tu solvencia inminente).</li>
-                    <li>Tus las tres últimas nóminas mensuales.</li>
-                    <li><strong>Extracto del registro de deudas (Betreibungsauszug / Extrait de l'Office des Poursuites)</strong>: Certificado, usualmente por los últimos 3 meses, demostrando que no debes dinero en Suiza. Puedes solicitarlo en tu comuna o digitalmente.</li>
-                    <li>Copia de un seguro de Responsabilidad Civil (<i>RC / Privathaftpflichtversicherung</i>) si lo solicitan de antemano.</li>
-                </ul>
+<h2>Le dossier du locataire</h2>
+<p>Il ne suffit pas d'avoir un revenu ; Les agences immobilières (Régies / Verwaltungen) demandent de vérifier la solvabilité et les antécédents avec une documentation exacte. Votre dossier de candidature, généralement numérique via des portails tels que <a href="https://www.homegate.ch/" target="_blank">Homegate</a> ou <a href="https://www.immoscout24.ch/" target="_blank">ImmoScout24</a>, doit inclure :</p>
+<ul>
+<li>Copie de la pièce d'identité/passeport et permis de séjour (ou contrat de travail prouvant votre solvabilité imminente).</li>
+<li>Vos trois dernières fiches de paie mensuelles.</li>
+<li><strong>Extrait du registre des dettes (Betreibungsauszug / Extrait de l'Office des Poursuites)</strong> : attestation, généralement des 3 derniers mois, prouvant que vous ne devez pas d'argent en Suisse. Vous pouvez en faire la demande dans votre communauté ou par voie numérique.</li>
+<li>Copie de l'assurance responsabilité civile (<i>RC / Privathaftpflichtversicherung</i>) sur demande préalable.</li>
+</ul>
 
-                <h2>Regla de oro de los ingresos</h2>
-                <p>Como estándar general de cualquier agencia suiza, <strong>el alquiler mensual bruto no puede representar más de un tercio (1/3) del sueldo bruto del hogar</strong>.</p>
-            </div>
-        `
+<h2>Règle d'or du revenu</h2>
+<p>Comme norme générale de toute agence suisse, <strong>le loyer mensuel brut ne peut représenter plus d'un tiers (1/3) du salaire brut du ménage</strong>.</p>
+</div>`
     },
 
     // 13. Fianzas de alquiler
@@ -440,22 +416,20 @@ window.siteContent.fr.articles = {
         hub: 'vivienda',
         readingTime: 3,
         summary: `La garantie maximale légale est de 3 mois de loyer.`,
-        content: `
-            <div class="page-header">
-                <h1>Fianzas, cuenta de garantía y protección del inquilino</h1>
-            </div>
-            <div class="article-content">
-                <h2>La Fianza (Garantie de Loyer / Mietkaution)</h2>
-                <p>Por ley, un propietario puede pedir hasta un <strong>máximo de 3 meses de alquiler</strong> de fondo como fianza para una vivienda (en locales comerciales no hay límite). Este dinero no se le entrega nunca en mano al arrendador.</p>
-                <p>El dinero se deposita en una "Cuenta bancaria de garantía de alquiler" que está a tu nombre, pero bloqueada. Solo podrá liberarse con la firma conjunta del inquilino y el arrendador tras la entrega de llaves o rescisión de contrato.</p>
+        content: `<div class="page-header">
+<h1>Garanties, compte de garantie et protection des locataires</h1>
+</div>
+<div class="article-content">
+<h2>Le Caution (Garantie de Loyer / Mietkaution)</h2>
+<p>Selon la loi, un propriétaire peut demander jusqu'à un maximum de 3 mois de loyer à titre de caution pour un logement (dans les locaux commerciaux, il n'y a pas de limite). Cet argent n'est jamais remis au propriétaire.</p>
+<p>L'argent est déposé sur un "Compte Bancaire de Garantie de Loyer" qui est à votre nom, mais bloqué. Elle ne peut être libérée qu'avec la signature conjointe du locataire et du propriétaire après la remise des clés ou la résiliation du contrat.</p>
 
-                <h2>Seguros de Caución (Alternativa a depositar capital)</h2>
-                <p>Si no dispones de los 3 meses en efectivo (lo que podría representar 6.000 o 9.000 CHF de golpe), existen empresas como <a href="https://www.swisscaution.ch/" target="_blank">SwissCaution</a> que actúan como avalistas. Tú les pagas una prima anual no reembolsable (normalmente el 5% de la fianza), y ellos emiten a la agencia el certificado de cobertura como si fuera dinero real.</p>
+<h2>Assurance judiciaire (Alternative au dépôt de capital)</h2>
+<p>Si vous n'avez pas les 3 mois en espèces (ce qui pourrait représenter 6'000 ou 9'000 CHF à la fois), il existe des sociétés comme <a href="https://www.swisscaution.ch/" target="_blank">SwissCaution</a> qui se portent garants. Vous leur payez une prime annuelle non remboursable (normalement 5 % du dépôt) et ils délivrent le certificat de couverture à l'agence comme s'il s'agissait d'argent réel.</p>
 
-                <h2>Defensa de tus derechos: ASLOCA / Mieterverband</h2>
-                <p>El sistema protege bastante al inquilino pero puede ser complejo. Si tu agencia trata de imputar te gastos abusivos al abando ar el piso o se niega a devolver la fianza, es muy recomendable estar afiliado a la <a href="https://www.asloca.ch/" target="_blank">Asociación Suiza de Inquilinos</a> (ASLOCA en la zona francesa, Mieterverband en la alemana) por una pequeña cuota anual (aprox. 85 CHF). Ellos ofrecen revisión de contratos gratuita y apoyo judicial si fuera necesario.</p>
-            </div>
-        `
+<h2>Défense de vos droits : ASLOCA / Mieterverband</h2>
+<p>Le système protège beaucoup le locataire mais peut s'avérer complexe. Si votre agence tente de vous facturer des dépenses abusives lorsque vous quittez l'appartement ou refuse de restituer la caution, il est fortement recommandé de s'affilier à l'<a href="https://www.asloca.ch/" target="_blank">Association suisse des locataires</a> (ASLOCA en zone française, Mieterverband en zone allemande) moyennant une petite cotisation annuelle (environ 85 CHF). Ils offrent une révision gratuite des contrats et une assistance judiciaire si nécessaire.</p>
+</div>`
     },
 
     // 14. Costo de vida
@@ -467,28 +441,26 @@ window.siteContent.fr.articles = {
         hub: 'vivir-en-suiza',
         readingTime: 4,
         summary: `Un salaire de 5000 CHF peut sembler élevé, mais les frais fixes sont importants.`,
-        summary: `Un sueldo de 5000 CHF puede parecer alto, pero tras seguros, impuestos y alquiler, el margen de maniobra se reduce significativamente.`,
-        content: `
-            <div class="page-header">
-                <h1>El coste real de vivir en Suiza</h1>
-            </div>
-            <div class="article-content">
-                <p>Si bien los salarios suizos son los más altos de Europa Occidental, los precios de los bienes y servicios también están a la par (la llamada "Ilot de cherté suisse").</p>
+        
+        content: `<div class="page-header">
+<h1>Le coût réel de la vie en Suisse</h1>
+</div>
+<div class="article-content">
+<p>Alors que les salaires suisses sont les plus élevés d'Europe occidentale, les prix des biens et des services sont également à égalité (ce qu'on appelle "l'Ilot de cherté suisse").</p>
 
-                <h2>Presupuesto Orientativo Mensual (1 persona)</h2>
-                <p>Gastos medios para una persona soltera viviendo en un núcleo urbano promedio (fuera del centro súper exclusivo o campo lejano):</p>
-                <ul>
-                    <li><strong>Alquiler mensual (incluidos gastos carga, internet):</strong> 1.500 - 2.200 CHF (los precios en Ginebra y Zúrich son notablemente mayores a la media nacional).</li>
-                    <li><strong>Seguro de Salud Obligatorio (LAMal):</strong> 350 - 450 CHF.</li>
-                    <li><strong>La cesta de la compra y supermercado:</strong> 400 - 600 CHF (Migros, Coop, Aldi, Lidl).</li>
-                    <li><strong>Transporte (Abono mensual zona centro):</strong> 70 - 150 CHF.</li>
-                    <li><strong>Impuestos y Previsión Social (AVS/LPP/Quellensteuer):</strong> Ya están deducidos de tu sueldo bruto, representan aproximadamente el 15-25% antes de pagarte en cuenta (dependiendo del cantón).</li>
-                </ul>
+<h2>Budget Orientatif Mensuel (1 personne)</h2>
+<p>Dépenses moyennes pour une personne seule vivant dans un centre urbain moyen (hors centre super exclusif ou campagne éloignée) :</p>
+<ul>
+<li><strong>Loyer mensuel (y compris frais de recharge, internet) :</strong> 1'500 - 2'200 CHF (les prix à Genève et à Zurich sont nettement plus élevés que la moyenne nationale).</li>
+<li><strong>Assurance maladie obligatoire (LAMal) :</strong> 350 - 450 CHF.</li>
+<li><strong>Panier de courses et supermarché :</strong> 400 - 600 CHF (Migros, Coop, Aldi, Lidl).</li>
+<li><strong>Transport (Pass mensuel centre-ville) :</strong> 70 - 150 CHF.</li>
+<li><strong>Impôts et Sécurité Sociale (AVS/LPP/Quellensteuer) :</strong> Ils sont déjà déduits de votre salaire brut, ils représentent environ 15-25% avant de vous acompter (selon les cantons).</li>
+</ul>
 
-                <h2>¿Se vive mejor?</h2>
-                <p>Pese a lo caro, el <em>poder adquisitivo disponible</em> al final de mes es en general superior al del resto de Europa. El sobrante económico real tras cubrir las altas necesidades básicas permite tener capacidad de ahorro, si el estilo de vida no es desmedido.</p>
-            </div>
-        `
+<h2>La vie est-elle meilleure ?</h2>
+<p>Malgré son prix, le <em>pouvoir d'achat disponible</em> à la fin du mois est généralement supérieur à celui du reste de l'Europe. Le surplus économique réel après avoir couvert les besoins de base élevés permet d'avoir la capacité d'épargner, si le style de vie n'est pas excessif.</p>
+</div>`
     },
 
     // 15. Trabajadores fronterizos (frontaliers)
@@ -500,28 +472,26 @@ window.siteContent.fr.articles = {
         hub: 'fronterizos',
         readingTime: 4,
         summary: `Le permis G vous permet de vivre en France et travailler en Suisse.`,
-        summary: `El Permiso G te permite vivir en Francia/Alemania y trabajar en Suiza. Debes elegir entre la LAMal o el seguro de tu país (derecho de opción).`,
-        content: `
-            <div class="page-header">
-                <h1>Trabajadores fronterizos (Frontaliers): Permiso G y fiscalidad</h1>
-            </div>
-            <div class="article-content">
-                <p>Los <em>frontaliers</em> son personas que residen de forma permanente en un país vecino (principalmente Francia, Alemania e Italia) y cruzan la frontera para trabajar en Suiza.</p>
+        
+        content: `<div class="page-header">
+<h1>Travailleurs frontaliers (Frontaliers) : Permis G et fiscalité</h1>
+</div>
+<div class="article-content">
+<p>Les <em>frontaliers</em> sont des personnes qui résident de manière permanente dans un pays voisin (principalement la France, l'Allemagne et l'Italie) et traversent la frontière pour travailler en Suisse.</p>
 
-                <h2>El Permiso G</h2>
-                <p>Para trabajar en esta modalidad, necesitas un <strong>Permiso G (Permiso de trabajo fronterizo)</strong>. Una condición clave para mantenerlo es que debes retornar a tu residencia principal en el extranjero al menos una vez por semana (la mayoría lo hace a diario).</p>
+<h2>Le permis G</h2>
+<p>Pour travailler dans cette modalité, vous avez besoin d'un <strong>permis G (permis de travail frontalier)</strong>. Une condition essentielle pour le conserver est que vous deviez retourner à votre résidence principale à l'étranger au moins une fois par semaine (la plupart le font quotidiennement).</p>
 
-                <h2>Fiscalidad del Frontalier</h2>
-                <p>Las reglas impositivas varían enormemente según el cantón donde trabajes y tu país de residencia (debido a los tratados de doble imposición).</p>
-                <ul>
-                    <li><strong>Ginebra:</strong> Si vives en Francia y trabajas en Ginebra, el cantón de Ginebra te retiene el impuesto a la fuente directamente.</li>
-                    <li><strong>Vaud, Neuchâtel, Jura:</strong> En estos cantones, generalmente el impuesto se paga íntegramente en Francia y el empleador suizo no te retiene impuestos a la fuente (si entregas a tiempo el certificado de residencia fiscal).</li>
-                </ul>
+<h2>Fiscalité frontalière</h2>
+<p>Les règles fiscales varient considérablement selon le canton où vous travaillez et votre pays de résidence (en raison des conventions de double imposition).</p>
+<ul>
+<li><strong>Genève :</strong> si vous résidez en France et travaillez à Genève, le canton de Genève vous prélève directement l'impôt.</li>
+<li><strong>Vaud, Neuchâtel, Jura :</strong> Dans ces cantons, l'impôt est généralement payé intégralement en France et l'employeur suisse ne vous prélève pas d'impôt à la source (si vous présentez l'attestation de résidence fiscale à temps).</li>
+</ul>
 
-                <h2>Seguro de Salud (El Derecho de Opción)</h2>
-                <p>Al comenzar a trabajar en Suiza, tienes 3 meses para ejercer tu "Derecho de opción". Puedes elegir asegurarte en el sistema suizo (LAMal frontalier) o en el sistema de tu país de residencia (ej. CMU francesa). <strong>Atención:</strong> Esta decisión es irrevocable. Si no eliges, se te afiliará automáticamente a la LAMal suiza.</p>
-            </div>
-        `
+<h2>Assurance maladie (le droit d'option)</h2>
+<p>Lorsque vous commencez à travailler en Suisse, vous disposez de 3 mois pour exercer votre "Droit d'option". Vous pouvez choisir de vous assurer dans le système suisse (LAMal frontalier) ou dans le système de votre pays de résidence (par exemple la CMU française). <strong>Attention :</strong> Cette décision est irrévocable. Si vous ne choisissez pas, vous serez automatiquement affilié à la LAMal suisse.</p>
+</div>`
     },
 
     // 16. Reconocimiento de diplomas
@@ -534,28 +504,26 @@ window.siteContent.fr.articles = {
         hub: 'tramites',
         readingTime: 3,
         summary: `Seules les professions réglementées nécessitent une reconnaissance.`,
-        content: `
-            <div class="page-header">
-                <h1>Reconocimiento de diplomas extranjeros</h1>
-            </div>
-            <div class="article-content">
-                <p>Si tienes una titulación extranjera y quieres ejercer en Suiza, el primer paso es saber si tu profesión está regulada (ej. medicina, enfermería, abogacía, docencia). Si no está regulada, no es obligatorio el reconocimiento oficial, y el mercado laboral decidirá el valor de tu título.</p>
+        content: `<div class="page-header">
+<h1>Reconnaissance des diplômes étrangers</h1>
+</div>
+<div class="article-content">
+<p>Si vous possédez un diplôme étranger et souhaitez exercer en Suisse, la première étape est de savoir si votre profession est réglementée (par exemple médecine, soins infirmiers, droit, enseignement). Si elle n'est pas réglementée, la reconnaissance officielle n'est pas obligatoire et le marché du travail décidera de la valeur de votre diplôme.</p>
 
-                <h2>Profesiones Reguladas y Entidades Competentes</h2>
-                <p>Para las profesiones reguladas, el reconocimiento es imperativo. Dependiendo de tu sector, el reconocimiento se solicita a una entidad distinta:</p>
-                <ul>
-                    <li><strong>SEFRI (Secretaría de Estado para la Formación, la Investigación y la Innovación):</strong> Para profesiones de formación profesional, comercio y educación pedagógica (muchos grados universitarios).</li>
-                    <li><strong>MEBEKO (Comisión de Profesiones Médicas):</strong> Para médicos, odontólogos, veterinarios y farmacéuticos. Requiere el dominio de un idioma nacional (B2/C1).</li>
-                    <li><strong>Cruz Roja Suiza (CRS):</strong> Para profesiones paramédicas y de salud no universitaria (enfermería, fisioterapia).</li>
-                </ul>
+<h2>Professions réglementées et entités compétentes</h2>
+<p>Pour les professions réglementées, la reconnaissance est impérative. Selon votre secteur, la reconnaissance est demandée auprès d'une entité différente :</p>
+<ul>
+<li><strong>SEFRI (Secrétaire d'État chargé de la Formation, de la Recherche et de l'Innovation) :</strong> Pour les métiers de la formation professionnelle, du commerce et de l'enseignement pédagogique (nombreux diplômes universitaires).</li>
+<li><strong>MEBEKO (Commission des Professions Médicales) :</strong> Pour les médecins, dentistes, vétérinaires et pharmaciens. Nécessite la maîtrise d'une langue nationale (B2/C1).</li>
+<li><strong>Croix-Rouge suisse (CRS) :</strong> Pour les professions de santé paramédicales et non universitaires (soins infirmiers, physiothérapie).</li>
+</ul>
 
-                <p>Los trámites incurren en gastos administrativos (centenares de francos) y suelen requerir traducciones juradas de tu expediente académico.</p>
+<p>Les démarches entraînent des frais administratifs (des centaines de francs) et nécessitent généralement des traductions assermentées de votre dossier académique.</p>
 
-                <div class="callout info">
-                    <strong>Fuente:</strong> Comprueba qué autoridad evalúa tu diploma en el <a href="https://www.sbfi.admin.ch/sbfi/en/home/education/recognition-of-foreign-qualifications.html" target="_blank">portal del SEFRI</a>.
-                </div>
-            </div>
-        `
+<div class="informations sur l'appel">
+<strong>Source :</strong> Vérifiez quelle autorité évalue votre diplôme sur le <a href="https://www.sbfi.admin.ch/sbfi/fr/home/education/recognition-of-foreign-qualifications.html" target="_blank">portail SEFRI</a>. 
+</div>
+</div>`
     },
 
     // 17. Sistema escolar suizo
@@ -568,29 +536,27 @@ window.siteContent.fr.articles = {
         hub: 'tramites',
         readingTime: 5,
         summary: `Le système scolaire oriente les élèves tôt vers l'apprentissage.`,
-        content: `
-            <div class="page-header">
-                <h1>El sistema educativo público suizo</h1>
-            </div>
-            <div class="article-content">
-                <p>La educación pública en Suiza es gratuita, obligatoria integralmente durante 11 años y de excelente calidad. Sin embargo, su estructura es muy cantonal (cada cantón define su plan de estudios) y tiene una particularidad: la orientación profesional temprana.</p>
+        content: `<div class="page-header">
+<h1>Le système éducatif public suisse</h1>
+</div>
+<div class="article-content">
+<p>L'enseignement public en Suisse est gratuit, entièrement obligatoire pendant 11 ans et d'excellente qualité. Sa structure est cependant très cantonale (chaque canton définit son plan d'études) et présente une particularité : une orientation professionnelle précoce.</p>
 
-                <h2>Estructura General (Modelo HarmoS)</h2>
-                <ul>
-                    <li><strong>Escuela Infantil (Ecole Enfantine / Kindergarten):</strong> Empieza a los 4 años. Son 2 años obligatorios de preparación.</li>
-                    <li><strong>Escuela Primaria (Ecole Primaire / Primarschule):</strong> De los 6 a los 12 años (grados 3 a 8). Se introduce rápidamente un segundo y tercer idioma (otro idioma nacional e inglés).</li>
-                    <li><strong>Grado Secundario I (Cycle d'Orientation / Sekundarstufe I):</strong> De los 12 a los 15 años (grados 9 a 11).</li>
-                </ul>
+<h2>Structure générale (modèle HarmoS)</h2>
+<ul>
+<li><strong>Préscolaire (Ecole Enfantine / Kindergarten) :</strong> Commence à 4 ans. Il y a 2 années de préparation obligatoires.</li>
+<li><strong>École primaire (Ecole Primaire / Primarschule) :</strong> De 6 à 12 ans (3e à 8e années). Une deuxième et une troisième langue (une autre langue nationale et l'anglais) sont rapidement introduites.</li>
+<li><strong>Secondaire Grade I (Cycle d'Orientation / Sekundarstufe I) :</strong> De 12 à 15 ans (niveaux 9 à 11).</li>
+</ul>
 
-                <h2>La Segregación o "Filières"</h2>
-                <p>A diferencia de España, en Suiza entorno a los 12 o 15 años los alumnos son orientados ("segregados") según sus calificaciones y aptitudes hacia dos vías muy diferenciadas:</p>
-                <ol>
-                    <li><strong>La vía vocacional (Formación Profesional / Aprendizaje dual):</strong> Más del 60% de los jóvenes suizos optan por hacer un "CFC" (Certificado Federal de Capacidad). Trabajan 3 o 4 días en una empresa aprendiendo un oficio y van 1 o 2 días a clase. Es una vía muy prestigiosa y remunerada desde el inicio.</li>
-                    <li><strong>La vía académica (Gimnasio / Collège / Maturité / Matura):</strong> Para aquellos con mejores notas académicas, preparándolos para entrar directamente a la Universidad o a las Escuelas Politécnicas Federales.</li>
-                </ol>
-                <p><em>Nota:</em> El sistema es permeable; un estudiante de formación profesional puede acabar logrando accesos a la universidad en el futuro mediante "pasarelas".</p>
-            </div>
-        `
+<h2>Ségrégation ou "Filières"</h2>
+<p>Contrairement à l'Espagne, en Suisse vers 12 ou 15 ans, les étudiants sont orientés ("ségrégés") selon leurs notes et leurs aptitudes vers deux parcours très différents :</p>
+<ol>
+<li><strong>La voie professionnelle (Formation professionnelle / Dual Learning) :</strong> Plus de 60% des jeunes Suisses choisissent de faire un "CFC" (Certificat fédéral de capacité). Ils travaillent 3 ou 4 jours dans une entreprise pour apprendre un métier et vont en cours 1 ou 2 jours. C'est un parcours très prestigieux et rémunérateur dès le départ.</li>
+<li><strong>Le parcours académique (Gymnasium / Collège / Maturité / Matura) :</strong> Pour ceux qui ont de meilleurs résultats académiques, les préparant à entrer directement à l'Université ou aux Ecoles Polytechniques Fédérales.</li>
+</ol>
+<p><em>Remarque :</em> Le système est perméable ; Un étudiant en formation professionnelle peut à l'avenir accéder à l'université grâce à des « passerelles ».</p>
+</div>`
     },
 
     // 18. Sistema de salud (médicos y urgencias)
@@ -603,27 +569,25 @@ window.siteContent.fr.articles = {
         hub: 'salud',
         readingTime: 4,
         summary: `Évitez les urgences pour les maux mineurs, privilégiez les permanences.`,
-        content: `
-            <div class="page-header">
-                <h1>Médicos, Urgencias y Facturas en Suiza</h1>
-            </div>
-            <div class="article-content">
-                <p>Entender cómo navegar por la práctica diaria de la sanidad suiza te ahorrará problemas (y sustos económicos).</p>
+        content: `<div class="page-header">
+<h1>Médecins, urgences et factures en Suisse</h1>
+</div>
+<div class="article-content">
+<p>Comprendre comment naviguer dans la pratique quotidienne des soins de santé en Suisse vous évitera des ennuis (et des frayeurs financières).</p>
 
-                <h2>Elegir un médico según tu modelo de seguro</h2>
-                <p>El modelo más barato de la LAMal suele ser el "Modelo HMO" o "Médico de Familia". Esto significa que no puedes ir directamente a un especialista u hospital sin llamar primero a una línea centralizada, o sin pasar estrictamente por tu médico de cabecera asignado. Si te saltas esto, el seguro puede rehusar pagar la factura.</p>
-                
-                <h2>Las Urgencias (Urgences / Notfall)</h2>
-                <p>Ir a urgencias de un hospital debe ser genuinamente para casos graves. Para atenciones rápidas pero no vitales, lo habitual en Suiza es acudir a la "Permanence Médicale" (Policlínicas), donde te atienden rápido por orden de llegada con un coste mucho menor que el hospital.</p>
+<h2>Choisissez un médecin selon votre modèle d'assurance</h2>
+<p>Le modèle LAMal le moins cher est généralement le « Modèle HMO » ou « Family Doctor ». Cela signifie que vous ne pouvez pas vous rendre directement chez un spécialiste ou un hôpital sans appeler au préalable une ligne centralisée, ou sans passer strictement par votre médecin généraliste attitré. Si vous sautez cette étape, votre assurance pourrait refuser de payer la facture.</p>
 
-                <h2>El sistema de pago: El Tiers-garant vs Tiers-payant</h2>
-                <p>Cuando vas a la farmacia o recibes una factura médica, te enfrentarás a dos modelos:</p>
-                <ul>
-                    <li><strong>Tiers-garant (Pago directo):</strong> Te llega la factura a casa (o tú la pagas en la farmacia), tú la adelantas de tu bolsillo, y luego envías el código QR o justificante a tu seguro. Si ya superaste tu franquicia, el seguro te reingresará el dinero a ti.</li>
-                    <li><strong>Tiers-payant:</strong> El médico o la farmacia envía la factura directamente a la aseguradora. La aseguradora lo paga, y si no has superado tu franquicia, la aseguradora te emitirá una factura a ti para que le pagues lo correspondiente.</li>
-                </ul>
-            </div>
-        `
+<h2>Les Urgences (Urgences / Non-Chute)</h2>
+<p>Se rendre aux urgences d'un hôpital devrait être réservé aux cas graves. Pour des soins rapides mais non vitaux, l'usage en Suisse est de se rendre à la "Permanence Médicale" (Polycliniques), où l'on vous soigne rapidement par ordre d'arrivée à un coût bien inférieur à celui de l'hôpital.</p>
+
+<h2>Le système de paiement : le Tiers-garant vs le Tiers-payant</h2>
+<p>Lorsque vous vous rendez à la pharmacie ou recevez une facture médicale, vous serez confronté à deux modèles :</p>
+<ul>
+<li><strong>Tiers-garant (Paiement direct) :</strong> Vous recevez la facture à domicile (ou vous la payez à la pharmacie), vous la payez de votre poche, puis vous envoyez le QR code ou le reçu à votre assurance. Si vous avez déjà dépassé votre franchise, l'assurance vous restituera l'argent.</li>
+<li><strong>Tier-payant :</strong> Le médecin ou la pharmacie envoie la facture directement à l'assureur. La compagnie d'assurance le paie, et si vous n'avez pas dépassé votre franchise, la compagnie d'assurance vous établira une facture afin que vous puissiez payer le montant correspondant.</li>
+</ul>
+</div>`
     },
 
     // 19. Transporte público y abonos
@@ -635,28 +599,26 @@ window.siteContent.fr.articles = {
         hub: 'vivir-en-suiza',
         readingTime: 4,
         summary: `L'abonnement Demi-tarif est presque obligatoire pour tout résident.`,
-        summary: `El abono Demi-tarif / Halbtax (mitad de precio) es casi obligatorio para cualquier residente si planea usar el transporte público ocasionalmente.`,
-        content: `
-            <div class="page-header">
-                <h1>Transporte público suizo y los abonos SBB/CFF/FFS</h1>
-            </div>
-            <div class="article-content">
-                <p>La Confederación Suiza está orgullosa de poseer uno de los sistemas de transporte público más densos, puntuales e integrados del mundo (trenes, autobuses, tranvías y barcos están en un solo reloj).</p>
+        
+        content: `<div class="page-header">
+<h1>Transports publics suisses et abonnements SBB/CFF/FFS</h1>
+</div>
+<div class="article-content">
+<p>La Confédération suisse est fière de posséder l'un des systèmes de transports publics les plus denses, ponctuels et intégrés au monde (trains, bus, tramways et bateaux sont tous dans une seule horloge).</p>
 
-                <h2>El Swisspass</h2>
-                <p>Es una tarjeta roja física (y digital en la app SBB Mobile) que actúa como soporte para todos tus abonos y forfaits de esquí.</p>
+<h2>Le Swisspass</h2>
+<p>Il s'agit d'un carton rouge physique (et numérique dans l'application Mobile CFF) qui fait office de support pour tous vos forfaits et abonnements de ski.</p>
 
-                <h2>La suscripción imprescindible: El Demi-tarif / Halbtax</h2>
-                <p>Comprar un billete de tren suelto es muy caro. La inmensa mayoría de residentes compra un <strong>abono de medio precio anual (Demi-tarif)</strong>. Cuesta poco menos de 200 CHF al año y te da derecho a comprar billetes al 50% de descuento en trenes suizos, autobuses, barcos y en el transporte urbano de casi todas las ciudades. Se amortiza muy fácilmente.</p>
+<h2>L'abonnement incontournable : Le Demi-tarif / Halbtax</h2>
+<p>L'achat d'un billet de train simple coûte très cher. La grande majorité des résidents achètent un <strong>abonnement annuel (Demi-tarif) à moitié prix</strong>. Il coûte un peu moins de 200 CHF par an et vous donne le droit d'acheter des billets avec une réduction de 50% sur les trains, bus, bateaux et transports urbains suisses dans presque toutes les villes. Cela se rentabilise très facilement.</p>
 
-                <h2>El Abono General (AG / GA)</h2>
-                <p>Si eres un <em>commuter</em> extremo que viaja en tren para ir al trabajo cada día, el <strong>Abono General</strong> te permite viajar ilimitadamente en cualquier tren interurbano, urbano, barcos y postbus del país. Es caro (casi 4.000 CHF anuales para adultos en 2ª clase, pero los empleadores a veces subvencionan parte), pero ofrece libertad total ("Sube al tren y olvídate del billete").</p>
+<h2>L'Abonnement Général (AG/GA)</h2>
+<p>Si vous êtes un <em>banlieusard</em> extrême qui prend le train tous les jours pour aller au travail, l'<strong>Abonnement général</strong> vous permet de voyager de manière illimitée dans n'importe quel train interurbain, train urbain, bateau et car postal du pays. C'est cher (près de 4000 CHF par an pour les adultes en 2e classe, mais les employeurs en subventionnent parfois une partie), mais cela offre une liberté totale ("Montez dans le train et oubliez le billet").</p>
 
-                <h2>Billetes Super Saver y Billetes de Comunidad</h2>
-                <p>Si compras tus billetes de tren en la app (SBB Mobile) con varias semanas de antelación, puedes encontrar <em>billetes super-réduits / supersaver tickets</em> con hasta un 70% de descuento, válidos exclusivamente para la hora exacta marcada.</p>
-                <p>Además, muchas comunas venden localmente <em>Cartes Journalières / Tageskarten</em> muy subvencionadas para sus vecinos.</p>
-            </div>
-        `
+<h2>Billets super économiques et billets communautaires</h2>
+<p>Si vous achetez vos billets de train dans l'application (Mobile CFF) plusieurs semaines à l'avance, vous trouverez des <em>billets super-réduits / billets superspargés</em> avec jusqu'à 70% de réduction, valables exclusivement pour l'heure exacte indiquée.</p>
+<p>De plus, de nombreuses communes vendent localement des <em>Cartes Journalières / Tageskarten</em> hautement subventionnées à leurs voisins.</p>
+</div>`
     },
 
     // 20. Ciudadanía suiza
@@ -669,31 +631,29 @@ window.siteContent.fr.articles = {
         hub: 'tramites',
         readingTime: 5,
         summary: `La naturalisation nécessite 10 ans de résidence et un permis C.`,
-        content: `
-            <div class="page-header">
-                <h1>Ciudadanía suiza y proceso de naturalización</h1>
-            </div>
-            <div class="article-content">
-                <p>Obtener el pasaporte con la cruz blanca no es un trámite puramente burocrático, sino que los suizos lo entienden como la constatación final de un nivel de integración óptimo.</p>
+        content: `<div class="page-header">
+<h1>Processus de citoyenneté et de naturalisation suisses</h1>
+</div>
+<div class="article-content">
+<p>L'obtention d'un passeport avec la croix blanche n'est pas une procédure purement bureaucratique, mais les Suisses le considèrent plutôt comme la confirmation définitive d'un niveau optimal d'intégration.</p>
 
-                <h2>Requisitos de la Naturalización Ordinaria</h2>
-                <p>Si no estás casado con un/una ciudadana suiza, deberás seguir la ruta de naturalización ordinaria, cuyo principal requisito son <strong>10 años de residencia en Suiza</strong> (los años entre los 8 y los 18 años cuentan el doble).</p>
+<h2>Conditions requises pour la naturalisation ordinaire</h2>
+<p>Si vous n'êtes pas marié à un citoyen suisse, vous devez suivre la voie ordinaire de naturalisation dont la principale condition est de <strong>10 ans de résidence en Suisse</strong> (les années entre 8 et 18 comptent double).</p>
 
-                <ul>
-                    <li>Poseer un Permiso de Establecimiento (<strong>Permiso C</strong>).</li>
-                    <li>Haber residido ininterrumpidamente en el mismo cantón o en la misma comuna por el tiempo mínimo específico que ellos marquen (varía entre 2 y 5 años según la región).</li>
-                    <li><strong>Integración y dominio del idioma:</strong> Demostrar capacidad escrita y oral en el idioma nacional del cantón (normalmente nivel B1 en habla y A2 en escritura acreditado).</li>
-                    <li>No haber dependido de la asistencia social en los últimos 3 años (o haber restituido el dinero).</li>
-                    <li>No tener antecedentes penales ni deudas (los impagos o Betreibung paralizan el proceso).</li>
-                </ul>
+<ul>
+<li>Posséder un permis d'établissement (<strong>permis C).</li>
+<li>Avoir résidé de manière ininterrompue dans le même canton ou dans la même commune pendant la durée minimale précise qu'ils fixent (varie entre 2 et 5 ans selon les régions).</li>
+<li><strong>Intégration et maîtrise de la langue :</strong> Démontrer une capacité écrite et orale dans la langue nationale du canton (normalement niveau B1 à l'oral et A2 à l'écrit accrédité).</li>
+<li>Ne pas avoir dépendu de l'aide sociale au cours des trois dernières années (ou avoir remboursé l'argent).</li>
+<li>Ne pas avoir de casier judiciaire ni de dettes (les non-paiements ou les Betreibung paralysent le processus).</li>
+</ul>
 
-                <h2>El proceso de examen</h2>
-                <p>El trámite involucra tres niveles de gobierno (Comuna, Cantón y Confederación). En la mayoría de las comunas, debes realizar un examen escrito y una entrevista oral donde se evalúa tu conocimiento cívico suizo, geografía, cultura cantonal y, en ocasiones, tu relación con los vecinos. Es en la comuna donde se decide fundamentalmente si tu "grado de asimilación e integración local" es suficiente.</p>
-                
-                <div class="callout info">
-                    <strong>Información del SEM:</strong> Todos los cantones tienen sus propios procedimientos pero respetan la ley federal de la <a href="https://www.sem.admin.ch/sem/es/home/themen/buergerrecht/einbuergerung/ordentliche_einbuergerung.html" target="_blank">SEM</a>.
-                </div>
-            </div>
-        `
+<h2>Le processus d'examen</h2>
+<p>La procédure implique trois niveaux de gouvernement (Communauté, Canton et Confédération). Dans la plupart des communes, vous devez passer un examen écrit et un entretien oral où sont évaluées vos connaissances de l'éducation civique suisse, de la géographie, de la culture cantonale et, parfois, de vos relations avec le voisinage. C'est dans la commune qu'il est fondamentalement décidé si votre "degré d'assimilation et d'intégration locale" est suffisant.</p>
+
+<div class="informations sur l'appel">
+<strong>Informations SEM :</strong> Tous les cantons ont leurs propres procédures mais respectent la loi fédérale du <a href="https://www.sem.admin.ch/sem/fr/home/themen/buergerrecht/einbuergerung/ordentliche_einbuergerung.html" target="_blank">SEM</a>. 
+</div>
+</div>`
     }
 };
