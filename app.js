@@ -59,24 +59,62 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     // Dropdown Logic
-    const dropdownToggles = document.querySelectorAll(".dropdown-toggle");
-    dropdownToggles.forEach(toggle => {
-        toggle.addEventListener("click", (e) => {
-            e.preventDefault();
-            e.stopPropagation();
-            const parent = toggle.parentElement;
-            const expanded = toggle.getAttribute("aria-expanded") === "true";
-            toggle.setAttribute("aria-expanded", !expanded);
-            parent.classList.toggle("open");
+    const dropdowns = document.querySelectorAll(".dropdown");
 
-            // Close other open dropdowns
-            document.querySelectorAll(".dropdown").forEach(dropdown => {
-                if (dropdown !== parent) {
+    dropdowns.forEach(dropdown => {
+        const toggle = dropdown.querySelector(".dropdown-toggle");
+        let timeoutId;
+
+        const openMenu = () => {
+            clearTimeout(timeoutId);
+            dropdown.classList.add("open");
+            if (toggle) toggle.setAttribute("aria-expanded", "true");
+        };
+
+        const closeMenu = () => {
+            // Delay closing to allow cursor to bridge any gap
+            timeoutId = setTimeout(() => {
+                dropdown.classList.remove("open");
+                if (toggle) toggle.setAttribute("aria-expanded", "false");
+            }, 150);
+        };
+
+        if (toggle) {
+            toggle.addEventListener("click", (e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                
+                const isOpen = dropdown.classList.contains("open");
+                
+                // Close other open dropdowns
+                document.querySelectorAll(".dropdown.open").forEach(other => {
+                    if (other !== dropdown) {
+                        other.classList.remove("open");
+                        const otherToggle = other.querySelector(".dropdown-toggle");
+                        if (otherToggle) otherToggle.setAttribute("aria-expanded", "false");
+                    }
+                });
+
+                if (isOpen) {
                     dropdown.classList.remove("open");
-                    const otherToggle = dropdown.querySelector(".dropdown-toggle");
-                    if (otherToggle) otherToggle.setAttribute("aria-expanded", "false");
+                    toggle.setAttribute("aria-expanded", "false");
+                } else {
+                    openMenu();
                 }
             });
+        }
+
+        // Desktop hover logic
+        dropdown.addEventListener("mouseenter", () => {
+            if (window.innerWidth > 768) {
+                openMenu();
+            }
+        });
+
+        dropdown.addEventListener("mouseleave", () => {
+            if (window.innerWidth > 768) {
+                closeMenu();
+            }
         });
     });
 
@@ -86,6 +124,18 @@ document.addEventListener("DOMContentLoaded", () => {
                 dropdown.classList.remove("open");
                 const toggle = dropdown.querySelector(".dropdown-toggle");
                 if (toggle) toggle.setAttribute("aria-expanded", "false");
+            });
+        }
+    });
+
+    // Close dropdown with Escape key for accessibility
+    document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") {
+            document.querySelectorAll(".dropdown.open").forEach(dropdown => {
+                dropdown.classList.remove("open");
+                const toggle = dropdown.querySelector(".dropdown-toggle");
+                if (toggle) toggle.setAttribute("aria-expanded", "false");
+                if (toggle) toggle.focus();
             });
         }
     });
