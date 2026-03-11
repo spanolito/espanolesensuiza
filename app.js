@@ -290,6 +290,40 @@ document.addEventListener("DOMContentLoaded", () => {
 
         setTimeout(() => {
             if (isArticle) {
+                // Find Related Guides
+                const relatedKeys = Object.keys(langData.articles)
+                    .filter(k => k !== routeKey && langData.articles[k].hub === pageData.hub)
+                    .slice(0, 3);
+                
+                let relatedHTML = '';
+                if (relatedKeys.length > 0) {
+                    relatedHTML = `
+                        <div class="related-articles-footer" style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border-light);">
+                            <h3>Sigue explorando guías sobre ${pageData.category || pageData.hub}</h3>
+                            <div class="featured-grid" style="margin-top: 2rem; margin-bottom: 2rem;">
+                                ${relatedKeys.map(k => {
+                                    const r = langData.articles[k];
+                                    return `
+                                    <a href="#/articulo/${k}" class="card-article" style="min-height: auto;">
+                                        <div class="card-meta">${r.category || 'Guía'}</div>
+                                        <h3 style="font-size: 1.125rem;">${r.title}</h3>
+                                        <span class="btn-secondary" style="margin-top:1rem; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600; font-size: 0.9rem;">Leer guía &rarr;</span>
+                                    </a>
+                                    `;
+                                }).join('')}
+                            </div>
+                            <a href="#/${pageData.hub}" class="btn btn-secondary" style="width: 100%;">Ver todas las guías de la sección</a>
+                        </div>
+                    `;
+                } else {
+                    relatedHTML = `
+                        <div class="related-articles-footer" style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border-light);">
+                            <h3>Explora otras guías</h3>
+                            <a href="#/${pageData.hub}" class="btn btn-secondary" style="margin-top: 1rem;">Ver sección ${pageData.category || pageData.hub}</a>
+                        </div>
+                    `;
+                }
+
                 // Wrap article in editorial components
                 const readingTime = pageData.readingTime || Math.max(1, Math.ceil(pageData.content.split(' ').length / 200));
                 progressBarContainer.style.display = "block";
@@ -321,17 +355,14 @@ document.addEventListener("DOMContentLoaded", () => {
                                 ${pageData.content}
                             </article>
                             
-                            <div class="related-articles-footer" style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border-light);">
-                                <h3>Explora otras guías de ${pageData.category}</h3>
-                                <a href="#/${pageData.hub}" class="btn btn-secondary" style="margin-top: 1rem;">Ver todas las guías</a>
-                            </div>
+                            ${relatedHTML}
                         </main>
                         
                         <aside class="sidebar">
                             <div class="toc">
                                 <h4>Navegación</h4>
                                 <ul>
-                                    <li><a href="#/${pageData.hub}">&larr; Volver a ${pageData.category}</a></li>
+                                    <li><a href="#/${pageData.hub}">&larr; Volver a ${pageData.category || 'la sección'}</a></li>
                                     <!-- Extracted dynamically or hardcoded in content -->
                                     <li style="margin-top:1rem; padding-top:1rem; border-top:1px solid var(--border-light);"><a href="#app-container">Volver arriba &uarr;</a></li>
                                 </ul>
