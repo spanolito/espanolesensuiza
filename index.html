@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Españoles en Suiza | Información Práctica y Ayuda</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" id="meta-description" content="Información práctica, clara y estructurada para españoles e hispanohablantes que viven o planean mudarse a Suiza.">
+    <meta name="keywords" id="meta-keywords" content="España, españoles en Suiza, vivir en Suiza, trabajar en Suiza, Suiza, Ginebra, permisos Suiza, sistema suizo, impuestos Suiza">
+    <meta name="author" content="Comunidad Españoles en Suiza que realmente se ayudan">
+    
+    <!-- Fonts: Inter for Swiss Minimalist Vibe -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <!-- Skip to main content for accessibility -->
+    <a href="#main-content" class="skip-link">Saltar al contenido principal</a>
+
+    <!-- Header & Navigation -->
+    <header class="site-header">
+        <div class="container header-inner">
+            <div class="logo">
+                <a href="#home" class="logo-link">
+                    <span class="cross">+</span> Españoles en Suiza
+                </a>
+            </div>
+            
+            <button class="mobile-menu-toggle" aria-label="Abrir menú" aria-expanded="false">
+                <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="3" y1="12" x2="21" y2="12"></line>
+                    <line x1="3" y1="6" x2="21" y2="6"></line>
+                    <line x1="3" y1="18" x2="21" y2="18"></line>
+                </svg>
+            </button>
+
+            <nav class="main-nav" id="main-nav">
+                <ul class="nav-list">
+                    <li><a href="#home" class="nav-link">Inicio</a></li>
+                    <li><a href="#vivir" class="nav-link">Vivir en Suiza</a></li>
+                    <li><a href="#tramites" class="nav-link">Trámites</a></li>
+                    <li><a href="#trabajo" class="nav-link">Trabajo</a></li>
+                    <li><a href="#vivienda" class="nav-link">Vivienda</a></li>
+                    <li><a href="#frontaliers" class="nav-link">Fronterizos</a></li>
+                    <li class="dropdown">
+                        <button class="dropdown-toggle" aria-expanded="false">Más <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg></button>
+                        <ul class="dropdown-menu">
+                            <li><a href="#recursos" class="nav-link">Recursos Útiles</a></li>
+                            <li><a href="#comunidad" class="nav-link">Comunidad</a></li>
+                            <li><a href="#contacto" class="nav-link">Contacto</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="lang-switcher">
+                    <button class="lang-btn active" data-lang="es">ES</button>
+                    <!-- Future languages -->
+                    <!-- <button class="lang-btn" data-lang="fr">FR</button>
+                    <button class="lang-btn" data-lang="de">DE</button>
+                    <button class="lang-btn" data-lang="en">EN</button> -->
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content Area (Dynamic) -->
+    <main id="main-content" class="main-content">
+        <div class="container" id="app-container">
+            <!-- Content injected via JS -->
+            <div class="loader">Cargando...</div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="container footer-inner">
+            <div class="footer-col">
+                <h3>Españoles en Suiza</h3>
+                <p>Información práctica y fiable para la comunidad hispanohablante residente o con planes de residencia en Suiza.</p>
+                <a href="#comunidad" class="fb-link">Únete a nuestro grupo en Facebook &rarr;</a>
+            </div>
+            <div class="footer-col">
+                <h4>Enlaces Rápidos</h4>
+                <ul>
+                    <li><a href="#tramites">Trámites Administrativos</a></li>
+                    <li><a href="#trabajo">Trabajar en Suiza</a></li>
+                    <li><a href="#vivienda">Buscar Vivienda</a></li>
+                    <li><a href="#seguro-salud">Seguro de Salud (LAMal)</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Fuentes Oficiales</h4>
+                <ul>
+                    <li><a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">ch.ch (Portal Suizo)</a></li>
+                    <li><a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">Secretaría de Estado de Migración</a></li>
+                    <li><a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">Oficina Federal de Estadística</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <p>&copy; <span id="current-year"></span> Comunidad Españoles en Suiza que realmente se ayudan. Creado con un propósito informativo.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="content-pages.js"></script>
+    <script src="content-articles.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

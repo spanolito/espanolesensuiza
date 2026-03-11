@@ -1,0 +1,246 @@
+/**
+ * app.js
+ * Advanced Vanilla JS SPA Router with Search, Reading Progress, and Component Logic.
+ */
+
+document.addEventListener("DOMContentLoaded", () => {
+    
+    // UI Elements
+    const appContainer = document.getElementById("app-container");
+    const navLinks = document.querySelectorAll(".nav-link");
+    const mobileToggle = document.querySelector(".mobile-menu-toggle");
+    const mainNav = document.getElementById("main-nav");
+    const langBtns = document.querySelectorAll(".lang-btn");
+    const yearSpan = document.getElementById("current-year");
+    
+    // Inject Reading Progress Bar
+    const progressBarContainer = document.createElement("div");
+    progressBarContainer.className = "reading-progress-container";
+    progressBarContainer.innerHTML = '<div class="reading-progress-bar" id="reading-progress-bar"></div>';
+    document.querySelector('.site-header').appendChild(progressBarContainer);
+    const readingProgressBar = document.getElementById("reading-progress-bar");
+
+    // Set current year
+    if (yearSpan) yearSpan.textContent = new Date().getFullYear();
+
+    let currentLang = "es";
+    
+    // Header Scroll Effect
+    window.addEventListener('scroll', () => {
+        const header = document.querySelector('.site-header');
+        if (window.scrollY > 10) {
+            header.classList.add('scrolled');
+        } else {
+            header.classList.remove('scrolled');
+        }
+        
+        // Reading Progress Tracking
+        if (appContainer.querySelector('.article-layout')) {
+            const documentHeight = document.documentElement.scrollHeight - window.innerHeight;
+            const scrollPercent = (window.scrollY / documentHeight) * 100;
+            readingProgressBar.style.width = scrollPercent + "%";
+        }
+    });
+
+    // Mobile Menu
+    mobileToggle.addEventListener("click", () => {
+        const isExpanded = mobileToggle.getAttribute("aria-expanded") === "true";
+        mobileToggle.setAttribute("aria-expanded", !isExpanded);
+        mainNav.classList.toggle("open");
+    });
+
+    navLinks.forEach(link => {
+        link.addEventListener("click", () => {
+            if (window.innerWidth <= 768) {
+                mainNav.classList.remove("open");
+                mobileToggle.setAttribute("aria-expanded", "false");
+            }
+        });
+    });
+
+    // Language switcher
+    langBtns.forEach(btn => {
+        btn.addEventListener("click", (e) => {
+            const lang = e.target.getAttribute("data-lang");
+            if (window.siteContent[lang]) {
+                currentLang = lang;
+                langBtns.forEach(b => b.classList.remove("active"));
+                e.target.classList.add("active");
+                renderRoute();
+            } else {
+                alert("This language is not yet available.");
+            }
+        });
+    });
+
+    /**
+     * Component Logic Initializer
+     */
+    function initializeComponents() {
+        // Accordions
+        const accordions = appContainer.querySelectorAll('.accordion-header');
+        accordions.forEach(acc => {
+            acc.addEventListener('click', function() {
+                const parent = this.parentElement;
+                parent.classList.toggle('active');
+                const content = this.nextElementSibling;
+                if (parent.classList.contains('active')) {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                } else {
+                    content.style.maxHeight = "0";
+                }
+            });
+        });
+
+        // Search Logic
+        const searchInput = document.getElementById('global-search');
+        if (searchInput) {
+            searchInput.addEventListener('input', (e) => {
+                const term = e.target.value.toLowerCase().trim();
+                const displayArea = document.getElementById('search-results');
+                
+                if (term.length < 3) {
+                    displayArea.innerHTML = '';
+                    return;
+                }
+                
+                const langData = window.siteContent[currentLang].articles;
+                const results = Object.keys(langData).filter(key => {
+                    const article = langData[key];
+                    return (article.title && article.title.toLowerCase().includes(term)) || 
+                           (article.keywords && article.keywords.toLowerCase().includes(term)) ||
+                           (article.description && article.description.toLowerCase().includes(term));
+                }).map(key => ({ id: key, ...langData[key] }));
+
+                if (results.length > 0) {
+                    displayArea.innerHTML = `
+                        <div class="featured-grid" style="margin-top: 2rem;">
+                            ${results.map(r => `
+                                <a href="#${r.id}" class="card-article">
+                                    <div class="card-meta">${r.category || 'Guía'}</div>
+                                    <h3>${r.title}</h3>
+                                    <p>${r.description}</p>
+                                    <span class="btn-secondary" style="margin-top:auto; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600;">Leer guía &rarr;</span>
+                                </a>
+                            `).join('')}
+                        </div>
+                    `;
+                } else {
+                    displayArea.innerHTML = `<p style="margin-top:2rem;">No se encontraron resultados para "${term}".</p>`;
+                }
+            });
+        }
+    }
+
+    /**
+     * Router Logic
+     */
+    function renderRoute() {
+        const hash = window.location.hash.substring(1) || "home";
+        let pageData;
+        const langData = window.siteContent[currentLang];
+        
+        let isArticle = false;
+
+        if (hash.startsWith("articulo-")) {
+            pageData = langData.articles[hash];
+            isArticle = true;
+        } else {
+            pageData = langData.pages[hash];
+        }
+
+        if (!pageData) {
+            appContainer.innerHTML = langData.pages["home"].content; // default fallback
+            return;
+        }
+
+        // Apply transition effects
+        appContainer.classList.add("page-transitioning");
+        
+        setTimeout(() => {
+            if (isArticle) {
+                // Wrap article in editorial components
+                const readingTime = pageData.readingTime || Math.max(1, Math.ceil(pageData.content.split(' ').length / 200));
+                progressBarContainer.style.display = "block";
+                readingProgressBar.style.width = "0%";
+                
+                appContainer.innerHTML = `
+                    <div class="article-layout fade-in-up">
+                        <main>
+                            <article>
+                                <div class="article-header">
+                                    <nav class="breadcrumbs">
+                                        <a href="#home">Inicio</a> > 
+                                        <a href="#${pageData.hub || 'home'}">${pageData.category || 'Guías'}</a> > 
+                                        <span>${pageData.title}</span>
+                                    </nav>
+                                    <h1>${pageData.title}</h1>
+                                    <div class="article-meta">
+                                        <span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> ${readingTime} min lectura</span>
+                                        ${pageData.dateUpdated ? `<span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> Actualizado: ${pageData.dateUpdated}</span>` : ''}
+                                    </div>
+                                </div>
+                                
+                                ${pageData.summary ? `
+                                <div class="box-summary">
+                                    <h4>Puntos Clave</h4>
+                                    <p>${pageData.summary}</p>
+                                </div>` : ''}
+                                
+                                ${pageData.content}
+                            </article>
+                        </main>
+                        
+                        <aside class="sidebar">
+                            <div class="toc">
+                                <h4>Índice</h4>
+                                <!-- Extracted dynamically or hardcoded in content -->
+                                <ul>
+                                    <li><a href="#top">Volver arriba &uarr;</a></li>
+                                </ul>
+                            </div>
+                        </aside>
+                    </div>
+                `;
+            } else {
+                progressBarContainer.style.display = "none";
+                appContainer.innerHTML = `<div class="fade-in-up">${pageData.content}</div>`;
+            }
+
+            // Update Meta & Title
+            document.title = pageData.title + langData.global.titleSuffix;
+            if(document.getElementById("meta-description")) document.getElementById("meta-description").setAttribute("content", pageData.description);
+            if(document.getElementById("meta-keywords")) document.getElementById("meta-keywords").setAttribute("content", pageData.keywords);
+
+            // Set active Nav link
+            navLinks.forEach(link => {
+                link.classList.remove("active");
+                if (link.getAttribute("href") === `#${hash}`) {
+                    link.classList.add("active");
+                }
+            });
+
+            initializeComponents();
+            
+            // Re-bind contact form if exists (prevent default submit behavior)
+            const form = document.getElementById("contact-form");
+            if (form) {
+                form.addEventListener("submit", (e) => {
+                    e.preventDefault();
+                    alert("Mensaje enviado correctamente al equipo editorial.");
+                    form.reset();
+                });
+            }
+
+            appContainer.classList.remove("page-transitioning");
+            window.scrollTo(0, 0);
+
+        }, 200); // match CSS transiton time
+    }
+
+    // Hash Listeners
+    window.addEventListener("hashchange", renderRoute);
+
+    // Initial load
+    renderRoute();
+});
