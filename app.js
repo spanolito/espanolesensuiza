@@ -105,18 +105,25 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
                 
                 const langData = window.siteContent[currentLang].articles;
+                const filterAudience = document.getElementById('search-filter-audience') ? document.getElementById('search-filter-audience').value : '';
+                
                 const results = Object.keys(langData).filter(key => {
                     const article = langData[key];
-                    return (article.title && article.title.toLowerCase().includes(term)) || 
-                           (article.keywords && article.keywords.toLowerCase().includes(term)) ||
-                           (article.description && article.description.toLowerCase().includes(term));
+                    
+                    const termMatch = (article.title && article.title.toLowerCase().includes(term)) || 
+                                      (article.keywords && article.keywords.toLowerCase().includes(term)) ||
+                                      (article.description && article.description.toLowerCase().includes(term));
+                    
+                    const audienceMatch = filterAudience === '' || article.audience === filterAudience;
+                    
+                    return termMatch && audienceMatch;
                 }).map(key => ({ id: key, ...langData[key] }));
 
                 if (results.length > 0) {
                     displayArea.innerHTML = `
                         <div class="featured-grid" style="margin-top: 2rem;">
                             ${results.map(r => `
-                                <a href="#${r.id}" class="card-article">
+                                <a href="#/articulo/${r.id}" class="card-article">
                                     <div class="card-meta">${r.category || 'Guía'}</div>
                                     <h3>${r.title}</h3>
                                     <p>${r.description}</p>
@@ -133,25 +140,67 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     /**
+     * Inject Articles into Category Hub Pages
+     */
+    function injectCategoryArticles(hubKey) {
+        const container = document.getElementById("category-articles-container");
+        if (!container) return;
+
+        const langData = window.siteContent[currentLang].articles;
+        
+        // Find all articles that belong to this hub
+        const hubArticles = Object.keys(langData).filter(key => langData[key].hub === hubKey).map(key => ({ id: key, ...langData[key] }));
+
+        if (hubArticles.length > 0) {
+            container.innerHTML = `
+                <div class="featured-grid">
+                    ${hubArticles.map(r => `
+                        <a href="#/articulo/${r.id}" class="card-article">
+                            <div class="card-meta">${r.category || 'Guía'} ${r.readingTime ? `· ${r.readingTime} min` : ''}</div>
+                            <h3>${r.title}</h3>
+                            <p>${r.description}</p>
+                            <span class="btn-secondary" style="margin-top:auto; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600;">Leer guía &rarr;</span>
+                        </a>
+                    `).join('')}
+                </div>
+            `;
+        } else {
+            container.innerHTML = `<p style="color: var(--text-light); margin-top: 2rem;">No hay artículos publicados en esta categoría todavía.</p>`;
+        }
+    }
+
+    /**
      * Router Logic
      */
     function renderRoute() {
-        const hash = window.location.hash.substring(1) || "home";
-        let pageData;
+        let hash = window.location.hash.substring(1) || "/";
         const langData = window.siteContent[currentLang];
         
         let isArticle = false;
+        let pageData;
+        let routeKey = hash;
 
-        if (hash.startsWith("articulo-")) {
-            pageData = langData.articles[hash];
+        // Clean up hash route parsing
+        if (hash === "/" || hash === "") {
+            routeKey = "home";
+        } else if (hash.startsWith("/articulo/")) {
+            // e.g. /articulo/articulo-permisos
+            routeKey = hash.replace("/articulo/", "");
+            pageData = langData.articles[routeKey];
             isArticle = true;
-        } else {
-            pageData = langData.pages[hash];
+        } else if (hash.startsWith("/")) {
+            // e.g. /tramites
+            routeKey = hash.substring(1);
         }
 
+        if (!isArticle) {
+            pageData = langData.pages[routeKey];
+        }
+
+        // 404 Fallback
         if (!pageData) {
-            appContainer.innerHTML = langData.pages["home"].content; // default fallback
-            return;
+            pageData = langData.pages["home"];
+            routeKey = "home";
         }
 
         // Apply transition effects
@@ -170,8 +219,8 @@ document.addEventListener("DOMContentLoaded", () => {
                             <article>
                                 <div class="article-header">
                                     <nav class="breadcrumbs">
-                                        <a href="#home">Inicio</a> > 
-                                        <a href="#${pageData.hub || 'home'}">${pageData.category || 'Guías'}</a> > 
+                                        <a href="#/">Inicio</a> > 
+                                        <a href="#/${pageData.hub || ''}">${pageData.category || 'Guías'}</a> > 
                                         <span>${pageData.title}</span>
                                     </nav>
                                     <h1>${pageData.title}</h1>
@@ -189,14 +238,20 @@ document.addEventListener("DOMContentLoaded", () => {
                                 
                                 ${pageData.content}
                             </article>
+                            
+                            <div class="related-articles-footer" style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border-light);">
+                                <h3>Explora otras guías de ${pageData.category}</h3>
+                                <a href="#/${pageData.hub}" class="btn btn-secondary" style="margin-top: 1rem;">Ver todas las guías</a>
+                            </div>
                         </main>
                         
                         <aside class="sidebar">
                             <div class="toc">
-                                <h4>Índice</h4>
-                                <!-- Extracted dynamically or hardcoded in content -->
+                                <h4>Navegación</h4>
                                 <ul>
-                                    <li><a href="#top">Volver arriba &uarr;</a></li>
+                                    <li><a href="#/${pageData.hub}">&larr; Volver a ${pageData.category}</a></li>
+                                    <!-- Extracted dynamically or hardcoded in content -->
+                                    <li style="margin-top:1rem; padding-top:1rem; border-top:1px solid var(--border-light);"><a href="#app-container">Volver arriba &uarr;</a></li>
                                 </ul>
                             </div>
                         </aside>
@@ -205,17 +260,28 @@ document.addEventListener("DOMContentLoaded", () => {
             } else {
                 progressBarContainer.style.display = "none";
                 appContainer.innerHTML = `<div class="fade-in-up">${pageData.content}</div>`;
+                
+                // If it's a category page, trigger injection
+                if (pageData.isCategoryHub) {
+                    // routeKey matches exactly the hub property in articles (e.g. "tramites")
+                    injectCategoryArticles(routeKey);
+                }
             }
 
             // Update Meta & Title
-            document.title = pageData.title + langData.global.titleSuffix;
-            if(document.getElementById("meta-description")) document.getElementById("meta-description").setAttribute("content", pageData.description);
-            if(document.getElementById("meta-keywords")) document.getElementById("meta-keywords").setAttribute("content", pageData.keywords);
+            document.title = pageData.title + (langData.global && langData.global.titleSuffix ? langData.global.titleSuffix : ' | Españoles en Suiza');
+            if(document.getElementById("meta-description")) document.getElementById("meta-description").setAttribute("content", pageData.description || "");
+            if(document.getElementById("meta-keywords")) document.getElementById("meta-keywords").setAttribute("content", pageData.keywords || "");
 
-            // Set active Nav link
+            // Set active Nav link based on Route Key
             navLinks.forEach(link => {
                 link.classList.remove("active");
-                if (link.getAttribute("href") === `#${hash}`) {
+                const href = link.getAttribute("href");
+                // Exact match or partial match for article hubs
+                if (href === `#/${routeKey}` || (isArticle && href === `#/${pageData.hub}`)) {
+                    link.classList.add("active");
+                }
+                if (routeKey === "home" && href === "#/") {
                     link.classList.add("active");
                 }
             });
