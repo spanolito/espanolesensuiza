@@ -1448,3 +1448,59 @@ mark {
         width: 44px;
     }
 }
+
+/* STEP 4 - Header logo refinement */
+
+.logo-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--text-primary);
+}
+
+.logo-title {
+    display: inline-block;
+    line-height: 1;
+    white-space: nowrap;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+
+.logo-link svg {
+    flex-shrink: 0;
+    display: block;
+}
+
+.flag-ch {
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.06);
+}
+
+.flag-es {
+    width: 20px;
+    height: 14px;
+    border-radius: 2px;
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.06);
+}
+
+@media (max-width: 768px) {
+    .logo-link {
+        gap: 8px;
+    }
+
+    .logo-title {
+        font-size: 1rem;
+    }
+
+    .flag-ch {
+        width: 18px;
+        height: 18px;
+    }
+
+    .flag-es {
+        width: 18px;
+        height: 12px;
+    }
+}
