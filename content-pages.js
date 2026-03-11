@@ -21,24 +21,22 @@ window.siteContent.es.pages = {
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             const arts = window.siteContent[currentLang]?.articles || window.siteContent['es'].articles;
             return `
-            <!-- Editorial Hero Section -->
-            <section class="hero-section" style="padding: 0; margin-bottom: var(--space-xl);">
-                <h1 class="sr-only">Españoles en Suiza: Guía práctica para vivir y trabajar</h1>
-                <p class="sr-only">Información clara, oficial y estructurada sobre permisos, trabajo, vivienda, seguros y vida diaria en la Confederación Helvética.</p>
-                
-                <div style="width: 100%; max-width: 1000px; margin: 0 auto; line-height: 0;">
-                    <img src="media/banner.jpg" alt="Españoles que realmente se ayudan en Suiza. Guía práctica para vivir y trabajar." style="width: 100%; height: auto; display: block; filter: contrast(1.05);">
-                </div>
+            <!-- Premium Hero Section -->
+            <section class="hero-premium">
+                <div class="hero-glass-card">
+                    <h1>Tu Comunidad en Suiza</h1>
+                    <p class="hero-subtitle">Guía esencial para españoles: trabajo, trámites y vida social</p>
+                    
+                    <div class="search-container">
+                        <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                        <input type="text" id="global-search" class="search-input" placeholder="${ui['search-placeholder']}" autocomplete="off">
+                        <div id="search-results"></div>
+                    </div>
 
-                <div class="search-container" style="margin-top: -30px; position: relative; z-index: 10;">
-                    <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-                    <input type="text" id="global-search" class="search-input" placeholder="${ui['search-placeholder']}" autocomplete="off">
-                    <div id="search-results"></div>
-                </div>
-
-                <div class="hero-actions">
-                    <a href="#/tramites" class="btn btn-primary">${ui['cat-tramites']}</a>
-                    <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" class="btn btn-secondary">Solicitar acceso al grupo</a>
+                    <div class="hero-actions">
+                        <a href="#/tramites" class="btn btn-primary">Unirse a la Comunidad</a>
+                        <a href="#/vivir-en-suiza" class="btn btn-secondary">Explorar Guías</a>
+                    </div>
                 </div>
             </section>
 
