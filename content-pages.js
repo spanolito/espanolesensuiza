@@ -474,11 +474,14 @@ window.siteContent.es.pages = {
     "contacto": {
         title: "Contacto",
         isCategoryHub: false,
-        content: `
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
-                    <a href="#/">Inicio</a> > 
-                    <span>Contacto</span>
+                    <a href="#/">${ui['nav-inicio']}</a> > 
+                    <span>${ui['nav-contacto']}</span>
                 </nav>
                 <h1>Contacto Editorial</h1>
                 <p style="font-size: 1.25rem; max-width: 800px;">¿Has encontrado un error o una normativa que ha sido modificada por la asamblea en tu cantón? Contáctanos para actualizar las guías.</p>
@@ -503,6 +506,12 @@ window.siteContent.es.pages = {
                     <button type="submit" class="btn btn-primary">Enviar mensaje a edición</button>
                 </form>
             </div>
-        `
+            `;
+        }
     }
 };
+
+window.siteContent.en.pages = window.siteContent.es.pages;
+window.siteContent.fr.pages = window.siteContent.es.pages;
+window.siteContent.de.pages = window.siteContent.es.pages;
+window.siteContent.it.pages = window.siteContent.es.pages;
