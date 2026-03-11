@@ -8,14 +8,14 @@ window.siteContent = window.siteContent || { es: { global: {}, pages: {}, articl
 window.siteContent.it.articles = {
     // 1. Permisos de residencia
     "articulo-permisos": {
-        title: "Permisos de residencia en Suiza: L, B, C y diferencias",
+        title: "Permessi di soggiorno in Svizzera: L, B, C e differenze",
         description: "Todo sobre los permisos suizos para residentes extranjeros. Conoce las diferencias entre permiso L, B y C.",
         keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
-        category: "Trámites Ordinarios",
+        category: "Procedure Ordinarie",
         hub: "tramites",
         readingTime: 4,
         dateUpdated: "Actualizado frecuentemente",
-        summary: "Existen tres permisos principales (L, B, C). Tu nacionalidad (UE vs Terceros Países) y duración del contrato dictan cuál recibes.",
+        summary: "Guida completa per comprendere i permessi di soggiorno svizzeri: L (breve durata), B (dimorante) e C (domiciliato).",
         content: `
             <div class="page-header">
                 <h1>Permisos de residencia en Suiza: permit L, B, C y sus diferencias</h1>
@@ -128,14 +128,14 @@ window.siteContent.it.articles = {
 
     // 4. Franquicia y copago en el sistema de salud
     "articulo-franquicia": {
-        title: "Franquicia y copago en el sistema de salud suizo",
+        title: "Franchigia e Ticket nel sistema sanitario svizzero",
         description: "Explicación detallada de la franquicia y el copago en los seguros médicos suizos (LAMal).",
         keywords: "franquicia LAMal, copago suiza, quote-part, seguro medico",
         audience: 'resident',
-        category: 'Costos Médicos',
+        category: 'Costi Medici',
         hub: 'salud',
         readingTime: 4,
-        summary: 'En Suiza tú pagas el 100% de los primeros gastos médicos hasta cubrir tu Franquicia elegida. Después, pagas un 10% de copago.',
+        summary: 'Perché l\'assicurazione sanitaria può diventare molto costosa se non scegli bene la tua franchigia di base (300 CHF vs 2500 CHF).',
         content: `
             <div class="page-header">
                 <h1>Franquicia y copago en el sistema de salud suizo</h1>
@@ -197,15 +197,15 @@ window.siteContent.it.articles = {
 
     // 6. Impuesto a la fuente
     "articulo-impuesto-fuente": {
-        title: "El impuesto a la fuente (Quellensteuer) explicado",
+        title: "L'imposta alla fonte (Quellensteuer) spiegata",
         description: "Qué es el impuesto a la fuente, a quiénes afecta y cómo se calcula en Suiza para extranjeros.",
         keywords: "impuesto fuente suiza, quellensteuer, impot a la source",
         audience: 'worker',
-        category: 'Retenciones',
+        category: 'Ritenute',
         hub: 'impuestos',
         readingTime: 3,
-        dateUpdated: 'Actualizado recientemente',
-        summary: 'Si tienes Permiso B o L, la empresa descuenta tu impuesto a la fuente directamente. La tarifa depende del cantón, estado civil e hijos.',
+        dateUpdated: 'Actualizado recentemente',
+        summary: 'Come funziona la trattenuta sulle tasse direttamente dalla busta paga mensile per stranieri e frontalieri.',
         content: `
             <div class="page-header">
                 <h1>Impuesto a la fuente (Quellensteuer / Impôt à la source)</h1>

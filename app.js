@@ -100,7 +100,17 @@ document.addEventListener("DOMContentLoaded", () => {
             "faq-q2": "¿Cómo funciona el seguro médico si me equivoco de aseguradora?",
             "faq-a2": "El seguro básico LAMal tiene exactamente las mismas coberturas médicas obligatorias independientemente de la caja de salud que elijas. Solo tu prima mensual variará. Puedes cambiar de seguro una vez al año (antes del 30 de noviembre).",
             "faq-q3": "¿Qué cambia según el cantón donde viva?",
-            "faq-a3": "Casi todo en Suiza varía por cantón: la carga de los impuestos, el costo de las primas del seguro médico, las vacaciones escolares y las festividades locales. Cada cantón define sus propias regulaciones de convivencia básica."
+            "faq-a3": "Casi todo en Suiza varía por cantón: la carga de los impuestos, el costo de las primas del seguro médico, las vacaciones escolares y las festividades locales. Cada cantón define sus propias regulaciones de convivencia básica.",
+            "community-title": "De la comunidad, a la plataforma pública",
+            "community-desc": "Todo el conocimiento de esta plataforma nace de las respuestas expertas compartidas durante años en nuestra comunidad oficial de Facebook: \"Españoles en Suiza que realmente se ayudan\".",
+            "community-faq-title": "¿Por qué el grupo es privado?",
+            "community-faq-desc": "Mantenemos el grupo cerrado al público para evitar spam, perfiles falsos y proteger la privacidad de miembros reales al hablar sobre contratos u ofertas de alquiler.",
+            "community-btn": "Solicitar acceso a la comunidad",
+            "official-title": "Información oficial y verificable",
+            "official-desc": "Nuestras guías se basan en la experiencia real, pero siempre refiriendo directamente a los portales federales.",
+            "official-ch": "Portal Federal",
+            "official-sem": "Sec. Migración",
+            "official-bfs": "Oficina Estadística"
         },
         en: {
             "nav-inicio": "Home",
@@ -185,7 +195,17 @@ document.addEventListener("DOMContentLoaded", () => {
             "faq-q2": "How does health insurance work if I choose the wrong provider?",
             "faq-a2": "The basic LAMal insurance has exactly the same mandatory medical coverage regardless of the health fund you choose. Only your monthly premium will vary. You can change your insurance once a year (before November 30).",
             "faq-q3": "What changes depending on the canton I live in?",
-            "faq-a3": "Almost everything in Switzerland varies by canton: tax burdens, health insurance premiums, school holidays, and local public holidays. Each canton defines its own basic living regulations."
+            "faq-a3": "Almost everything in Switzerland varies by canton: tax burden, health insurance premium costs, school holidays, and local public holidays. Each canton defines its own basic living regulations.",
+            "community-title": "From the community, to the public platform",
+            "community-desc": "All the knowledge on this platform stems from expert answers shared for years in our official Facebook community: \"Españoles en Suiza que realmente se ayudan\".",
+            "community-faq-title": "Why is the group private?",
+            "community-faq-desc": "We keep the group closed to the public to prevent spam, fake profiles, and protect the privacy of real members when discussing contracts or rental offers.",
+            "community-btn": "Request community access",
+            "official-title": "Official and verifiable information",
+            "official-desc": "Our guides are based on real experience, but always referring directly to federal portals.",
+            "official-ch": "Federal Portal",
+            "official-sem": "Sec. Migration",
+            "official-bfs": "Statistical Office"
         },
         fr: {
             "nav-inicio": "Accueil",
@@ -262,7 +282,17 @@ document.addEventListener("DOMContentLoaded", () => {
             "faq-q2": "Comment fonctionne l'assurance maladie si je me trompe d'assureur ?",
             "faq-a2": "L'assurance de base LAMal offre exactement la même couverture médicale obligatoire, quelle que soit la caisse maladie choisie. Seule votre prime mensuelle varie. Vous pouvez changer d'assurance une fois par an (avant le 30 novembre).",
             "faq-q3": "Qu'est-ce qui change selon le canton où je vis ?",
-            "faq-a3": "Presque tout en Suisse varie selon le canton : la charge fiscale, le coût des primes d'assurance maladie, les vacances scolaires et les jours fériés. Chaque canton définit ses propres règles de coexistence de base."
+            "faq-a3": "Presque tout en Suisse varie selon les cantons : la charge fiscale, le coût des primes d'assurance maladie, les vacances scolaires et les jours fériés locaux. Chaque canton définit ses propres règles de base en matière de vie.",
+            "community-title": "De la communauté à la plateforme publique",
+            "community-desc": "Toutes les connaissances de cette plateforme proviennent des réponses d'experts partagées pendant des années dans notre communauté Facebook officielle : \"Españoles en Suiza que realmente se ayudan\".",
+            "community-faq-title": "Pourquoi le groupe est-il privé ?",
+            "community-faq-desc": "Nous gardons le groupe fermé au public pour éviter le spam, les faux profils et protéger la vie privée des vrais membres lors des discussions sur les contrats ou les offres de location.",
+            "community-btn": "Demander l'accès à la communauté",
+            "official-title": "Informations officielles et vérifiables",
+            "official-desc": "Nos guides sont basés sur l'expérience réelle, mais font toujours référence directement aux portails fédéraux.",
+            "official-ch": "Portail Fédéral",
+            "official-sem": "Sec. Migration",
+            "official-bfs": "Office de la Statistique"
         },
         de: {
             "nav-inicio": "Startseite",
@@ -338,8 +368,18 @@ document.addEventListener("DOMContentLoaded", () => {
             "faq-a1": "Ja. Wenn Sie EU/EFTA-Bürger sind, haben Sie ab dem Moment der Anmeldung bei der Gemeinde das gesetzliche Recht zu arbeiten, noch bevor der Plastikausweis per Post ankommt.",
             "faq-q2": "Wie funktioniert die Krankenversicherung, wenn ich den falschen Anbieter wähle?",
             "faq-a2": "Die LAMal-Grundversicherung bietet genau denselben obligatorischen medizinischen Schutz, unabhängig von der gewählten Krankenkasse. Nur Ihre monatliche Prämie variiert. Sie können die Versicherung einmal im Jahr (bis zum 30. November) wechseln.",
-            "faq-q3": "Was ändert sich je nach Kanton, in dem ich lebe?",
-            "faq-a3": "Fast alles in der Schweiz variiert je nach Kanton: Steuerbelastung, Krankenversicherungsprämien, Schulferien und lokale Feiertage. Jeder Kanton definiert seine eigenen grundlegenden Regeln des Zusammenlebens."
+            "faq-q3": "Was ändert sich je nach dem Kanton, in dem ich lebe?",
+            "faq-a3": "Fast alles in der Schweiz variiert von Kanton zu Kanton: Steuerbelastung, Kosten der Krankenversicherungsprämien, Schulferien und lokale Feiertage. Jeder Kanton definiert seine eigenen grundlegenden Lebensregeln.",
+            "community-title": "Von der Community auf die öffentliche Plattform",
+            "community-desc": "Das gesamte Wissen auf dieser Plattform stammt aus fachkundigen Antworten, die jahrelang in unserer offiziellen Facebook-Community geteilt wurden: \"Españoles en Suiza que realmente se ayudan\".",
+            "community-faq-title": "Warum ist die Gruppe privat?",
+            "community-faq-desc": "Wir halten die Gruppe für die Öffentlichkeit geschlossen, um Spam und gefälschte Profile zu vermeiden und die Privatsphäre echter Mitglieder zu schützen, wenn Verträge oder Mietangebote besprochen werden.",
+            "community-btn": "Zugang zur Community anfordern",
+            "official-title": "Offizielle und überprüfbare Informationen",
+            "official-desc": "Unsere Leitfäden basieren auf echten Erfahrungen, verweisen aber immer direkt auf die Bundesportale.",
+            "official-ch": "Bundesportal",
+            "official-sem": "Sek. Migration",
+            "official-bfs": "Bundesamt für Statistik"
         },
         it: {
             "nav-inicio": "Inizio",
@@ -416,7 +456,17 @@ document.addEventListener("DOMContentLoaded", () => {
             "faq-q2": "Come funziona l'assicurazione sanitaria se scelgo il fornitore sbagliato?",
             "faq-a2": "L'assicurazione di base LAMal ha esattamente la stessa copertura medica obbligatoria, indipendentemente dalla cassa malati scelta. Solo il tuo premio mensile varierà. Puoi cambiare assicurazione una volta all'anno (prima del 30 novembre).",
             "faq-q3": "Cosa cambia a seconda del cantone in cui vivo?",
-            "faq-a3": "Quasi tutto in Svizzera varia per cantone: il carico fiscale, il costo dei premi dell'assicurazione sanitaria, le vacanze scolastiche e le festività locali. Ogni cantone definisce le proprie regole di convivenza di base."
+            "faq-a3": "Quasi tutto in Svizzera varia da cantone a cantone: carico fiscale, costo dei premi dell'assicurazione sanitaria, vacanze scolastiche e festività locali. Ogni cantone definisce le proprie regole di base per la convivenza.",
+            "community-title": "Dalla comunità, alla piattaforma pubblica",
+            "community-desc": "Tutte le conoscenze di questa piattaforma nascono dalle risposte degli esperti condivise per anni nella nostra comunità Facebook ufficiale: \"Españoles en Suiza che realmente se ayudan\".",
+            "community-faq-title": "Perché il gruppo è privato?",
+            "community-faq-desc": "Manteniamo il gruppo chiuso al pubblico per evitare spam, profili falsi e proteggere la privacy dei membri reali quando si discutono contratti o offerte di affitto.",
+            "community-btn": "Richiedi accesso alla community",
+            "official-title": "Informazioni ufficiali e verificabili",
+            "official-desc": "Le nostre guide si basano sull'esperienza reale, ma fanno sempre riferimento direttamente ai portali federali.",
+            "official-ch": "Portale Federale",
+            "official-sem": "Seg. Migrazione",
+            "official-bfs": "Ufficio di Statistica"
         }
     };
 

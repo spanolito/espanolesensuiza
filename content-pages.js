@@ -186,33 +186,33 @@ window.siteContent.es.pages = {
             <!-- Community Section -->
             <section class="community-section">
                 <div class="container">
-                    <h2>De la comunidad, a la plataforma pública</h2>
-                    <p style="max-width: 600px; margin: 0 auto; margin-bottom: 2rem;">Todo el conocimiento de esta plataforma nace de las respuestas expertas compartidas durante años en nuestra comunidad oficial de Facebook: "Españoles en Suiza que realmente se ayudan".</p>
+                    <h2>${ui['community-title']}</h2>
+                    <p style="max-width: 600px; margin: 0 auto; margin-bottom: 2rem;">${ui['community-desc']}</p>
                     
                     <div class="callout" style="background: rgba(255,255,255,0.1); border-color: white; color: white;">
-                        <h4 style="color: white; margin-top: 0;">¿Por qué el grupo es privado?</h4>
-                        <p style="color: rgba(255,255,255,0.9); margin-bottom: 0;">Mantenemos el grupo cerrado al público para evitar spam, perfiles falsos y proteger la privacidad de miembros reales al hablar sobre contratos u ofertas de alquiler.</p>
+                        <h4 style="color: white; margin-top: 0;">${ui['community-faq-title']}</h4>
+                        <p style="color: rgba(255,255,255,0.9); margin-bottom: 0;">${ui['community-faq-desc']}</p>
                     </div>
-                    <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" class="btn btn-primary" style="background: white; color: var(--text-primary);">Solicitar acceso a la comunidad</a>
+                    <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" class="btn btn-primary" style="background: white; color: var(--text-primary);">${ui['community-btn']}</a>
                 </div>
             </section>
 
             <!-- Official Sources Section -->
             <section style="margin: var(--space-xl) 0; text-align: center; border-top: 1px solid var(--border-light); padding-top: var(--space-xl);">
-                <h2 style="border: none; margin-bottom: 0.5rem;">Información oficial y verificable</h2>
-                <p style="max-width: 600px; margin: 0 auto 2rem;">Nuestras guías se basan en la experiencia real, pero siempre refiriendo directamente a los portales federales.</p>
+                <h2 style="border: none; margin-bottom: 0.5rem;">${ui['official-title']}</h2>
+                <p style="max-width: 600px; margin: 0 auto 2rem;">${ui['official-desc']}</p>
                 <div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;">
                     <a href="https://www.ch.ch" target="_blank" style="padding: 1rem 2rem; background: var(--bg-surface); border-radius: var(--radius-sm); border: 1px solid var(--border-light); font-weight: 500;">
                         ch.ch
-                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">Portal Federal</span>
+                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">${ui['official-ch']}</span>
                     </a>
                     <a href="https://www.sem.admin.ch" target="_blank" style="padding: 1rem 2rem; background: var(--bg-surface); border-radius: var(--radius-sm); border: 1px solid var(--border-light); font-weight: 500;">
                         SEM
-                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">Sec. Migración</span>
+                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">${ui['official-sem']}</span>
                     </a>
                     <a href="https://www.bfs.admin.ch" target="_blank" style="padding: 1rem 2rem; background: var(--bg-surface); border-radius: var(--radius-sm); border: 1px solid var(--border-light); font-weight: 500;">
                         OFS
-                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">Oficina Estadística</span>
+                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">${ui['official-bfs']}</span>
                     </a>
                 </div>
             </section>
