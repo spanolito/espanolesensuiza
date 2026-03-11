@@ -53,13 +53,13 @@ window.siteContent.fr.articles = {
 
     // 2. Registro en la comuna
     "articulo-registro": {
-        title: "Cómo registrarse al llegar a Suiza (Control de Habitantes)",
-        description: "Guía paso a paso sobre el registro en tu nueva comuna (Contrôle des habitants) tras mudarte a Suiza.",
+        title: "Comment s'inscrire à l'arrivée en Suisse",
+        description: "Guide étape par étape sur l'inscription dans votre nouvelle commune après votre déménagement in Suisse.",
         keywords: "registro comuna suiza, empadronamiento suiza, controle des habitants, vivir en Suiza",
-        category: "Trámites Iniciales",
+        category: "Démarches Initiales",
         hub: "tramites",
         readingTime: 3,
-        summary: "Debes registrarte en tu comuna obligatoriamente durante los primeros 14 días. Lleva siempre pasaporte, foto y contrato de alquiler/trabajo.",
+        summary: "Vous devez vous inscrire dans votre commune dans les 14 jours.",
         content: `
             <div class="page-header">
                 <h1>Cómo registrarse cuando llegas a Suiza (inscripción en la comuna)</h1>
@@ -91,13 +91,13 @@ window.siteContent.fr.articles = {
 
     // 3. Seguro de salud (LAMal)
     "articulo-lamal": {
-        title: "Seguro de salud en Suiza (LAMal): cómo funciona",
-        description: "El seguro médico es obligatorio en Suiza. Descubre cómo funciona la LAMal o seguro básico para residentes.",
+        title: "Assurance maladie en Suisse (LAMal)",
+        description: "L'assurance maladie est obligatoire. Découvrez comment fonctionne la LAMal.",
         keywords: "seguro medico suiza, LAMal, KVG, vivir en Suiza, sistema salud suizo",
-        category: "Seguro Médico",
+        category: "Assurance Maladie",
         hub: "salud",
         readingTime: 5,
-        summary: "La LAMal es obligatoria y privada, no te cubre automáticamente el Estado. Tienes 3 meses para tramitarla, pagando atrasos desde el día 1.",
+        summary: "La LAMal est obligatoire et privée. Vous avez 3 mois pour l'obtenir.",
         content: `
             <div class="page-header">
                 <h1>Seguro de salud en Suiza (LAMal): cómo funciona</h1>
@@ -132,10 +132,10 @@ window.siteContent.fr.articles = {
         description: "Explicación detallada de la franquicia y el copago en los seguros médicos suizos (LAMal).",
         keywords: "franquicia LAMal, copago suiza, quote-part, seguro medico",
         audience: 'resident',
-        category: 'Coûts Médicaux',
+        category: `Coûts Médicaux`,
         hub: 'salud',
         readingTime: 4,
-        summary: 'Pourquoi l\'assurance maladie peut devenir chère si vous ne choisissez pas bien votre franchise de base (300 CHF vs 2500 CHF).',
+        summary: `Pourquoi l\'assurance maladie peut devenir chère si vous ne choisissez pas bien votre franchise de base (300 CHF vs 2500 CHF).`,
         content: `
             <div class="page-header">
                 <h1>Franquicia y copago en el sistema de salud suizo</h1>
@@ -164,14 +164,14 @@ window.siteContent.fr.articles = {
 
     // 5. Impuestos en Suiza: federal, cantonal y comunal
     "articulo-impuestos": {
-        title: "Impuestos en Suiza: federal, cantonal y comunal",
-        description: "Comprende el sistema de triple imposición en Suiza: de la Confederación, de los cantones y de las comunas.",
+        title: "Impôts en Suisse : fédéral, cantonal et communal",
+        description: "Comprendre le système de triple imposition en Suisse.",
         keywords: "impuestos suiza, fiscalidad Suiza, cantones impuestos",
         audience: 'worker',
-        category: 'Sistema Tributario',
+        category: `Système Fiscal`,
         hub: 'impuestos',
         readingTime: 5,
-        summary: 'En Suiza pagas impuestos a 3 niveles. El cantonal y comunal suponen la mayor carga y varían drásticamente incluso cruzando la calle.',
+        summary: `En Suisse, vous payez des impôts à 3 niveaux.`,
         content: `
             <div class="page-header">
                 <h1>Impuestos en Suiza: fiscalidad federal, cantonal y comunal</h1>
@@ -201,11 +201,11 @@ window.siteContent.fr.articles = {
         description: "Qué es el impuesto a la fuente, a quiénes afecta y cómo se calcula en Suiza para extranjeros.",
         keywords: "impuesto fuente suiza, quellensteuer, impot a la source",
         audience: 'worker',
-        category: 'Retenues',
+        category: `Retenues`,
         hub: 'impuestos',
         readingTime: 3,
         dateUpdated: 'Actualizado recientemente',
-        summary: 'Comment fonctionne le prélèvement des impôts directement sur le salaire mensuel pour les étrangers et travailleurs frontaliers.',
+        summary: `Comment fonctionne le prélèvement des impôts directement sur le salaire mensuel pour les étrangers et travailleurs frontaliers.`,
         content: `
             <div class="page-header">
                 <h1>Impuesto a la fuente (Quellensteuer / Impôt à la source)</h1>
@@ -228,14 +228,14 @@ window.siteContent.fr.articles = {
 
     // 7. Seguros Sociales
     "articulo-seguros-sociales": {
-        title: "Seguros sociales en Suiza: AVS, AI, LPP y Seguro de Desempleo (Paro)",
-        description: "Desglose de los seguros sociales suizos: primer pilar (AVS/AI), segundo pilar (LPP/Caja de Pensiones) y paro.",
+        title: "Assurances sociales : AVS, AI, LPP et Chômage",
+        description: "Aperçu des assurances sociales suisses : 1er pilier (AVS), 2ème pilier (LPP) et chômage.",
         keywords: "AVS suiza, LPP, paro suiza, sistema pensiones suizo",
         audience: 'worker',
-        category: 'Trabajo',
+        category: `Travail`,
         hub: 'trabajo',
         readingTime: 6,
-        summary: 'El sistema de pensiones suizo se basa en 3 pilares: el AVS (estatal), la LPP (seguro profesional obligatorio) y el 3er pilar (ahorro privado).',
+        summary: `Le système de retraite suisse repose sur 3 piliers.`,
         content: `
             <div class="page-header">
                 <h1>Seguros sociales y el sistema de previdencia suizo</h1>
@@ -262,14 +262,14 @@ window.siteContent.fr.articles = {
 
     // 8. Salarios por sector y región
     "articulo-salarios": {
-        title: "Salarios en Suiza por sector y región: ¿Cuánto se gana?",
-        description: "Descubre cuál es el salario medio en Suiza, diferencias por cantón, el calculador Salarium y si existe el salario mínimo.",
+        title: "Salaires en Suisse par secteur et région",
+        description: "Découvrez le salaire moyen en Suisse, les différences cantonales et le Salarium.",
         keywords: "salario suiza, sueldo medio suiza, salarium, salario minimo ginebra",
-        category: 'Mercado Laboral',
+        category: `Marché du Travail`,
         hub: 'trabajo',
         readingTime: 5,
-        summary: 'Suiza tiene salarios muy altos pero costos en proporción. Solo unos pocos cantones (ej. Ginebra, Neuchâtel) tienen salario mínimo legal.',
-        summary: 'Suiza tiene salarios muy altos pero costos en proporción. Solo unos pocos cantones (ej. Ginebra, Neuchâtel) tienen salario mínimo legal.',
+        summary: `La Suisse a des salaires très élevés mais des coûts proportionnels.`,
+        summary: `Suiza tiene salarios muy altos pero costos en proporción. Solo unos pocos cantones (ej. Ginebra, Neuchâtel) tienen salario mínimo legal.`,
         content: `
             <div class="page-header">
                 <h1>Salarios en Suiza por sector y cantón</h1>
@@ -295,14 +295,14 @@ window.siteContent.fr.articles = {
 
     // 9. Contratos de trabajo
     "articulo-contratos": {
-        title: "Contratos de trabajo en Suiza: derechos y obligaciones",
-        description: "Todo sobre el contrato de trabajo suizo (CDI, CDD), las vacaciones legales y el pago de sueldo completo en caso de enfermedad.",
+        title: "Contrats de travail en Suisse : droits et obligations",
+        description: "Tout sur le contrat de travail suisse (CDI, CDD) et les vacances légales.",
         keywords: "contrato trabajo suiza, derechos trabajador suiza, vacaciones suiza, code des obligations",
-        category: 'Contratos',
+        category: `Contrats`,
         hub: 'trabajo',
         readingTime: 4,
-        summary: 'El mercado laboral suizo es muy liberal. El despido es libre (respetando los plazos de preaviso) y las vacaciones mínimas son 4 semanas semanales.',
-        summary: 'El mercado laboral suizo es muy liberal. El despido es libre (respetando los plazos de preaviso) y las vacaciones mínimas son 4 semanas semanales.',
+        summary: `Le marché du travail est très libéral. Le licenciement est libre.`,
+        summary: `El mercado laboral suizo es muy liberal. El despido es libre (respetando los plazos de preaviso) y las vacaciones mínimas son 4 semanas semanales.`,
         content: `
             <div class="page-header">
                 <h1>Contratos de trabajo en Suiza: derechos y obligaciones</h1>
@@ -328,14 +328,14 @@ window.siteContent.fr.articles = {
 
     // 10. Periodo de prueba
     "articulo-periodo-prueba": {
-        title: "El periodo de prueba y los plazos de preaviso en Suiza",
-        description: "Conoce tus derechos durante el periodo de prueba suizo y cuánto tiempo de preaviso necesitas para renunciar o ser despedido.",
+        title: "Période d'essai et délais de congé en Suisse",
+        description: "Connaissez vos droits pendant la période d'essai et les délais de préavis.",
         keywords: "periodo prueba suiza, preaviso despido suiza, probezeit",
         audience: 'worker',
-        category: 'Trabajo',
+        category: `Travail`,
         hub: 'trabajo',
         readingTime: 3,
-        summary: 'El periodo de prueba estándar es de 1 a 3 meses. Durante este tiempo, cualquiera de las partes puede rescindir el contrato con 7 días de preaviso.',
+        summary: `La période d'essai standard est de 1 à 3 mois.`,
         content: `
             <div class="page-header">
                 <h1>Periodo de prueba y plazos de preaviso</h1>
@@ -362,14 +362,14 @@ window.siteContent.fr.articles = {
 
     // 11. Búsqueda de empleo
     "articulo-buscar-empleo": {
-        title: "Búsqueda de empleo en Suiza: Plataformas y Estrategias",
-        description: "Dónde buscar trabajo, cómo hacer tu CV estilo suizo (foto, certificados) y principales portales de empleo.",
+        title: "Recherche d'emploi : plateformes et stratégies",
+        description: "Où chercher du travail, comment faire votre CV suisse et les principaux portails.",
         keywords: "buscar empleo suiza, cv suiza, jobup, jobs.ch",
-        category: 'Candidaturas',
+        category: `Candidatures`,
         hub: 'trabajo',
         readingTime: 4,
-        summary: 'El CV al estilo suizo debe incluir foto, fecha de nacimiento y estado civil. Las plataformas más usadas son Jobup, Jobs.ch y LinkedIn.',
-        summary: 'El CV al estilo suizo debe incluir foto, fecha de nacimiento y estado civil. Las plataformas más usadas son Jobup, Jobs.ch y LinkedIn.',
+        summary: `Le CV suisse doit inclure une photo et date de naissance.`,
+        summary: `El CV al estilo suizo debe incluir foto, fecha de nacimiento y estado civil. Las plataformas más usadas son Jobup, Jobs.ch y LinkedIn.`,
         content: `
             <div class="page-header">
                 <h1>Cómo buscar empleo en Suiza</h1>
@@ -400,14 +400,14 @@ window.siteContent.fr.articles = {
 
     // 12. Alquiler de vivienda
     "articulo-alquiler": {
-        title: "Alquilar una vivienda en Suiza: el proceso paso a paso",
-        description: "Documentos necesarios (Betreibungsauszug) y el dosier que necesitas para conseguir un alquiler suizo en un mercado competitivo.",
+        title: "Louer un appartement : le processus",
+        description: "Documents nécessaires (poursuites) et le dossier pour obtenir un appartement.",
         keywords: "alquilar piso suiza, apartamento ginebra zarich, dossier alquiler suiza",
-        category: 'Contrato de Alquiler',
+        category: `Contrat de Location`,
         hub: 'vivienda',
         readingTime: 5,
-        summary: 'El mercado de alquiler es muy competitivo. Necesitas un dosier impecable: extracto de no deudas (poursuites), contrato y 3 últimas nóminas.',
-        summary: 'El mercado de alquiler es muy competitivo. Necesitas un dosier impecable: extracto de no deudas (poursuites), contrato y 3 últimas nóminas.',
+        summary: `Le marché est très compétitif. Il vous faut un dossier impeccable.`,
+        summary: `El mercado de alquiler es muy competitivo. Necesitas un dosier impecable: extracto de no deudas (poursuites), contrato y 3 últimas nóminas.`,
         content: `
             <div class="page-header">
                 <h1>Cómo alquilar un piso en Suiza</h1>
@@ -432,14 +432,14 @@ window.siteContent.fr.articles = {
 
     // 13. Fianzas de alquiler
     "articulo-fianzas": {
-        title: "Fianzas de alquiler y derechos del inquilino (ASLOCA/MV)",
-        description: "Descubre cómo funcionan las garantías de alquiler suizas, alternativas con aseguradoras (SwissCaution) y asociaciones de defensa del inquilino.",
+        title: "Garanties de loyer et droits des locataires",
+        description: "Fonctionnement des garanties de loyer (SwissCaution) et de l'ASLOCA.",
         keywords: "fianza alquiler suiza, swisscaution, asloca, mieterverband",
         audience: 'resident',
-        category: 'Vivienda',
+        category: `Logement`,
         hub: 'vivienda',
         readingTime: 3,
-        summary: 'La fianza máxima legal es de 3 meses de alquiler. Puedes depositarla en un banco o usar seguros como SwissCaution.',
+        summary: `La garantie maximale légale est de 3 mois de loyer.`,
         content: `
             <div class="page-header">
                 <h1>Fianzas, cuenta de garantía y protección del inquilino</h1>
@@ -460,14 +460,14 @@ window.siteContent.fr.articles = {
 
     // 14. Costo de vida
     "articulo-costo-vida": {
-        title: "Costo de vida en Suiza: vivienda, alimentación e impuestos",
-        description: "Ejemplo de presupuesto mensual suizo desglosado. ¿Es caro vivir en Suiza si vienes con salario suizo?",
+        title: "Coût de la vie en Suisse : logement, nourriture, impôts",
+        description: "Exemple de budget mensuel détaillé. Est-ce cher de vivre en Suisse ?",
         keywords: "presupuesto suiza, el costo de vivir en suiza, precios suiza",
-        category: 'Costo de Vida',
+        category: `Coût de la Vie`,
         hub: 'vivir-en-suiza',
         readingTime: 4,
-        summary: 'Un sueldo de 5000 CHF puede parecer alto, pero tras seguros, impuestos y alquiler, el margen de maniobra se reduce significativamente.',
-        summary: 'Un sueldo de 5000 CHF puede parecer alto, pero tras seguros, impuestos y alquiler, el margen de maniobra se reduce significativamente.',
+        summary: `Un salaire de 5000 CHF peut sembler élevé, mais les frais fixes sont importants.`,
+        summary: `Un sueldo de 5000 CHF puede parecer alto, pero tras seguros, impuestos y alquiler, el margen de maniobra se reduce significativamente.`,
         content: `
             <div class="page-header">
                 <h1>El coste real de vivir en Suiza</h1>
@@ -493,14 +493,14 @@ window.siteContent.fr.articles = {
 
     // 15. Trabajadores fronterizos (frontaliers)
     "articulo-frontaliers": {
-        title: "Trabajadores fronterizos (frontaliers): reglas y fiscalidad",
-        description: "Todo lo que necesitas saber si vives en Francia, Alemania o Italia y trabajas en Suiza como frontalier (Permiso G).",
+        title: "Travailleurs frontaliers : règles et fiscalité",
+        description: "Tout ce qu'il faut savoir si vous vivez en France/Allemagne et travaillez en Suisse.",
         keywords: "frontalier suiza, permiso G, impuestos fronterizos suiza, vivir en francia trabajar en suiza",
-        category: 'Fronterizos',
+        category: `Frontaliers`,
         hub: 'fronterizos',
         readingTime: 4,
-        summary: 'El Permiso G te permite vivir en Francia/Alemania y trabajar en Suiza. Debes elegir entre la LAMal o el seguro de tu país (derecho de opción).',
-        summary: 'El Permiso G te permite vivir en Francia/Alemania y trabajar en Suiza. Debes elegir entre la LAMal o el seguro de tu país (derecho de opción).',
+        summary: `Le permis G vous permet de vivre en France et travailler en Suisse.`,
+        summary: `El Permiso G te permite vivir en Francia/Alemania y trabajar en Suiza. Debes elegir entre la LAMal o el seguro de tu país (derecho de opción).`,
         content: `
             <div class="page-header">
                 <h1>Trabajadores fronterizos (Frontaliers): Permiso G y fiscalidad</h1>
@@ -526,14 +526,14 @@ window.siteContent.fr.articles = {
 
     // 16. Reconocimiento de diplomas
     "articulo-diplomas": {
-        title: "Reconocimiento de diplomas extranjeros en Suiza",
-        description: "Cómo convalidar tu título universitario o de formación profesional español o latinoamericano en Suiza (SEFRI, Cruz Roja).",
+        title: "Reconnaissance des diplômes étrangers en Suisse",
+        description: "Comment valider votre diplôme universitaire ou professionnel (SEFRI, Croix-Rouge).",
         keywords: "homologar titulo suiza, reconocimiento diplomas suiza, sefri, convalidar titulo",
         audience: 'newcomer',
-        category: 'Trámites Orientales',
+        category: `Démarches Administratives`,
         hub: 'tramites',
         readingTime: 3,
-        summary: 'Solo las profesiones reguladas (médicos, profesores) necesitan reconocimiento obligatorio ante el SEFRI o MEBEKO.',
+        summary: `Seules les professions réglementées nécessitent une reconnaissance.`,
         content: `
             <div class="page-header">
                 <h1>Reconocimiento de diplomas extranjeros</h1>
@@ -560,14 +560,14 @@ window.siteContent.fr.articles = {
 
     // 17. Sistema escolar suizo
     "articulo-sistema-escolar": {
-        title: "El sistema escolar en Suiza explicado",
-        description: "Guía sobre cómo funciona el colegio en Suiza, la escuela pública, los idiomas y la segregación temprana (filières).",
+        title: "Le système scolaire en Suisse expliqué",
+        description: "Guide sur le fonctionnement de l'école en Suisse et les filières.",
         keywords: "colegio suiza, educacion suiza, sistema escolar suizo, escuela infantil suiza",
         audience: 'family',
-        category: 'Familia',
+        category: `Famille`,
         hub: 'tramites',
         readingTime: 5,
-        summary: 'El sistema escolar orienta (segrega) a los alumnos rápido: más del 60% hace formación profesional dual (CFC) en lugar de bachillerato.',
+        summary: `Le système scolaire oriente les élèves tôt vers l'apprentissage.`,
         content: `
             <div class="page-header">
                 <h1>El sistema educativo público suizo</h1>
@@ -595,14 +595,14 @@ window.siteContent.fr.articles = {
 
     // 18. Sistema de salud (médicos y urgencias)
     "articulo-sistema-salud": {
-        title: "Sistema de salud en Suiza: médicos, hospitales y urgencias",
-        description: "Cómo encontrar médico de cabecera en Suiza, cómo funcionan las urgencias (Urgences / Notfall) y cómo pagar las facturas médicas.",
+        title: "Système de santé : médecins et urgences",
+        description: "Trouver un médecin, fonctionner des urgences et payer les factures médicales.",
         keywords: "medico cabecera suiza, urgencias suiza, pediatra suiza, sistema salud suizo",
         audience: 'resident',
-        category: 'Red Médica',
+        category: `Réseau Médical`,
         hub: 'salud',
         readingTime: 4,
-        summary: 'Evita ir a las urgencias de un hospital por dolencias leves. Usa las Permanences Médicales o llama antes a tu seguro si tienes modelo HMO.',
+        summary: `Évitez les urgences pour les maux mineurs, privilégiez les permanences.`,
         content: `
             <div class="page-header">
                 <h1>Médicos, Urgencias y Facturas en Suiza</h1>
@@ -628,14 +628,14 @@ window.siteContent.fr.articles = {
 
     // 19. Transporte público y abonos
     "articulo-transporte": {
-        title: "Transporte público en Suiza: CFF/SBB, Halbtax y Abono General (AG)",
-        description: "Suiza tiene la red de trenes más densa y puntual. Descubre los abonos Demi-tarif / Halbtax, el Abono general y cómo moverte.",
+        title: "Transports publics : CFF, Demi-tarif et AG",
+        description: "La Suisse possède le réseau de trains le plus dense. Découvrez les abonnements.",
         keywords: "trenes suiza, SBB CFF FFS, abono medio precio suiza, halbtax, demi tarif, abono general AG",
-        category: 'Transporte Público',
+        category: `Transports Publics`,
         hub: 'vivir-en-suiza',
         readingTime: 4,
-        summary: 'El abono Demi-tarif / Halbtax (mitad de precio) es casi obligatorio para cualquier residente si planea usar el transporte público ocasionalmente.',
-        summary: 'El abono Demi-tarif / Halbtax (mitad de precio) es casi obligatorio para cualquier residente si planea usar el transporte público ocasionalmente.',
+        summary: `L'abonnement Demi-tarif est presque obligatoire pour tout résident.`,
+        summary: `El abono Demi-tarif / Halbtax (mitad de precio) es casi obligatorio para cualquier residente si planea usar el transporte público ocasionalmente.`,
         content: `
             <div class="page-header">
                 <h1>Transporte público suizo y los abonos SBB/CFF/FFS</h1>
@@ -661,14 +661,14 @@ window.siteContent.fr.articles = {
 
     // 20. Ciudadanía suiza
     "articulo-ciudadania": {
-        title: "Ciudadanía suiza y el proceso de naturalización por residencia",
-        description: "Requisitos para conseguir el pasaporte suizo. Años de residencia, nivel de idioma y la prueba de integración (la naturalización ordinaria).",
+        title: "Citoyenneté suisse et naturalisation",
+        description: "Exigences pour obtenir le passeport suisse. Années de résidence et examen.",
         keywords: "nacionalidad suiza, naturalizacion suiza, ciudadania suiza, pasaporte suizo",
         audience: 'newcomer',
-        category: 'Trámites Orientales',
+        category: `Démarches Administratives`,
         hub: 'tramites',
         readingTime: 5,
-        summary: 'La naturalización ordinaria requiere 10 años de residencia, un Permiso C, nivel de idioma (B1/A2) y superar un examen comunal de integración.',
+        summary: `La naturalisation nécessite 10 ans de résidence et un permis C.`,
         content: `
             <div class="page-header">
                 <h1>Ciudadanía suiza y proceso de naturalización</h1>

@@ -308,7 +308,7 @@ window.siteContent.es.pages = {
                 <p style="font-size: 1.25rem; max-width: 800px;">${ui['cat-desc-vivir']}</p>
                 
                 <div class="callout info" style="margin-top: 1.5rem; padding: 1rem; background: var(--bg-surface); border-left: 3px solid var(--text-secondary);">
-                    <strong>Nota sobre diferencias cantonales:</strong> Recuerda que Suiza es una federación fuertemente descentralizada. Aunque las reglas básicas sean iguales, cada cantón define sus vacaciones escolares, sus festivos y muchos de sus reglamentos de convivencia.
+                    <strong>${ui['hub-note-title']}</strong> ${ui['hub-note-desc']}
                 </div>
             </div>
             
@@ -400,75 +400,74 @@ window.siteContent.es.pages = {
     "recursos": {
         title: "Recursos y Vínculos Oficiales",
         isCategoryHub: false,
-        content: `
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
-                    <a href="#/">Inicio</a> > 
-                    <span>Recursos Útiles</span>
+                    <a href="#/">${ui['nav-inicio']}</a> > 
+                    <span>${ui['rec-title']}</span>
                 </nav>
-                <h1>Recursos Oficiales</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">Directorio verificado de la administración suiza y portales clave para emigrantes.</p>
+                <h1>${ui['rec-h1']}</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">${ui['rec-desc']}</p>
             </div>
             
             <div class="topic-hub-grid">
                 <div class="card-hub">
                     <h3>ch.ch</h3>
-                    <p>El portal nacional suizo administrado por el gobierno federal en 5 idiomas. La principal fuente de verdad inicial.</p>
-                    <a href="https://www.ch.ch" target="_blank" class="read-more">Visitar ch.ch &rarr;</a>
+                    <p>${ui['rec-ch-p']}</p>
+                    <a href="https://www.ch.ch" target="_blank" class="read-more">${ui['rec-ch-link']}</a>
                 </div>
                 <div class="card-hub">
                     <h3>SEM</h3>
-                    <p>Secretaría de Estado de Migración. Directivas federales sobre la expedición de tipos de permiso y naturalización.</p>
-                    <a href="https://www.sem.admin.ch/sem/es/home.html" target="_blank" class="read-more">Visitar SEM &rarr;</a>
+                    <p>${ui['rec-sem-p']}</p>
+                    <a href="https://www.sem.admin.ch/sem/es/home.html" target="_blank" class="read-more">${ui['rec-sem-link']}</a>
                 </div>
                 <div class="card-hub">
                     <h3>Comparis</h3>
-                    <p>Plataforma para comparar los precios de las primas del seguro médico cantón por cantón, así como seguros de coche y fianzas de alquiler.</p>
-                    <a href="https://www.comparis.ch" target="_blank" class="read-more">Visitar Comparis &rarr;</a>
+                    <p>${ui['rec-comp-p']}</p>
+                    <a href="https://www.comparis.ch" target="_blank" class="read-more">${ui['rec-comp-link']}</a>
                 </div>
                 <div class="card-hub">
-                    <h3>Página web de tu cantón</h3>
-                    <p>La estructura descentralizada indica que tu cantón gestiona el cobro de impuestos, el paro y la expedición del permiso. Por ejemplo vd.ch (Vaud), ge.ch (Ginebra).</p>
+                    <h3>${ui['rec-canton-title']}</h3>
+                    <p>${ui['rec-canton-p']}</p>
                 </div>
             </div>
-        `
+            `;
+        }
     },
 
     "comunidad": {
         title: "Unete a la Comunidad Facebook | Españoles en Suiza",
         isCategoryHub: false,
-        content: `
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
-                    <a href="#/">Inicio</a> > 
-                    <span>Comunidad</span>
+                    <a href="#/">${ui['nav-inicio']}</a> > 
+                    <span>${ui['com-nav']}</span>
                 </nav>
-                <h1>De un grupo de ayuda, a esta plataforma de conocimiento.</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">Nuestra web extrae el conocimiento verídico y los problemas más recurrentes que surgen a diario de nuestra vibrante comunidad en Facebook.</p>
+                <h1>${ui['com-h1']}</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">${ui['com-desc']}</p>
             </div>
 
             <section class="article-layout" style="padding:0; margin-top:2rem;">
-                <main>
-                    <h2>Por qué el grupo de Facebook es privado</h2>
-                    <p>El grupo "Españoles en Suiza que realmente se ayudan" es **estrictamente privado** para salvaguardar la experiencia de nuestros usuarios. A lo largo de los años, hemos visto grupos de expatriados inundados por anunciantes no deseados, bots que roban depósitos de alquiler falsos (el temido "Scam de la caution"), y consejos financieros dudosos.</p>
-                    <p>Manteniendo la puerta cerrada y aprobando perfiles reales uno a uno, fomentamos un espacio seguro donde alguien puede preguntar sobre su contrato de trabajo real, su salario, o sus dudas legales sobre impuestos sin temor a que su vida quede expuesta al público o a bots maliciosos.</p>
-                    
-                    <h2>De los comentarios a la web pública</h2>
-                    <p>El origen de esta plataforma web es precisamente descongestionar el grupo y ayudar al resto de la comunidad externa. Si diez personas distintas preguntan cada semana sobre el impuesto a la fuente, los moderadores transforman esas respuestas expertas recurrentes en las Guías estructuradas que lees en este sitio.</p>
-                    <p>Aquí obtienes la información pura. En el grupo, obtienes la compañía, la empatía y la resolución de tu caso particular.</p>
-                    
-                    <div class="callout" style="background:var(--bg-surface); border-color:var(--text-primary); max-width:400px; margin-top: 3rem;">
-                        <h4 style="margin-top:0;">Normas para unirte</h4>
-                        <ul>
-                            <li>Sé respetuoso.</li>
-                            <li>Usa el buscador del grupo antes de preguntar algo genérico.</li>
-                            <li>No hagas SPAM de tus negocios (taxis, re-ventas de envíos a España).</li>
-                        </ul>
-                        <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" class="btn btn-primary" style="margin-top: 1rem; width:100%;">Solicitar Acceso ahora</a>
-                    </div>
-                </main>
+                <div class="article-body">
+                    <p>${ui['com-p1']}</p>
+                    <p>${ui['com-p2']}</p>
+                    <ul>
+                        <li>${ui['com-li1']}</li>
+                        <li>${ui['com-li2']}</li>
+                        <li>${ui['com-li3']}</li>
+                    </ul>
+                    <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" class="btn btn-primary" style="margin-top:2rem;">${ui['com-btn']}</a>
+                </div>
             </section>
-        `
+            `;
+        }
     },
 
     "contacto": {
@@ -481,31 +480,75 @@ window.siteContent.es.pages = {
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
-                    <span>${ui['nav-contacto']}</span>
+                    <span>${ui['cont-title']}</span>
                 </nav>
-                <h1>Contacto Editorial</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">¿Has encontrado un error o una normativa que ha sido modificada por la asamblea en tu cantón? Contáctanos para actualizar las guías.</p>
+                <h1>${ui['cont-h1']}</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">${ui['cont-desc']}</p>
             </div>
 
-            <div style="max-width: 500px;">
-                <form id="contact-form">
-                    <input type="text" name="_gotcha" style="display:none" />
-                    <div id="form-status" style="margin-bottom: 1rem; padding: 1rem; border-radius: var(--radius-sm); font-weight: 500; display: none;"></div>
-                    <div class="form-group">
-                        <label class="form-label" for="name">Nombre</label>
-                        <input type="text" id="name" name="name" class="form-control" required>
-                    </div>
-                    <div class="form-group">
-                        <label class="form-label" for="email">E-mail</label>
-                        <input type="email" id="email" name="email" class="form-control" required>
-                    </div>
-                    <div class="form-group">
-                        <label class="form-label" for="message">Mensaje / Corrección de guía</label>
-                        <textarea id="message" name="message" rows="5" class="form-control" required></textarea>
-                    </div>
-                    <button type="submit" class="btn btn-primary">Enviar mensaje a edición</button>
-                </form>
-            </div>
+            <section class="article-layout" style="padding:0; margin-top:2rem;">
+                <div style="background: var(--bg-surface); padding: 2rem; border-radius: var(--radius-md); max-width: 600px; margin: 0 auto;">
+                    <form id="contact-form" action="https://formspree.io/f/mqkenawv" method="POST">
+                        <div style="margin-bottom: 1.5rem;">
+                            <label for="name" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">${ui['cont-lbl-name']}</label>
+                            <input type="text" id="name" name="name" required style="width: 100%; padding: 0.75rem; border: 1px solid var(--border-light); border-radius: var(--radius-sm); font-family: inherit;">
+                        </div>
+                        <div style="margin-bottom: 1.5rem;">
+                            <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">${ui['cont-lbl-email']}</label>
+                            <input type="email" id="email" name="_replyto" required style="width: 100%; padding: 0.75rem; border: 1px solid var(--border-light); border-radius: var(--radius-sm); font-family: inherit;">
+                        </div>
+                        <div style="margin-bottom: 1.5rem;">
+                            <label for="message" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">${ui['cont-lbl-msg']}</label>
+                            <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 0.75rem; border: 1px solid var(--border-light); border-radius: var(--radius-sm); font-family: inherit; resize: vertical;"></textarea>
+                        </div>
+                        <!-- Honeypot -->
+                        <input type="text" name="_gotcha" style="display:none">
+                        <!-- Redirect -->
+                        <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center;">${ui['cont-btn']}</button>
+                    </form>
+                    <div id="form-status" style="margin-top: 1rem; text-align: center; font-weight: 500;"></div>
+                </div>
+            </section>
+            
+            <script>
+                (function() {
+                    const form = document.getElementById("contact-form");
+                    const status = document.getElementById("form-status");
+                    
+                    if (form) {
+                        form.addEventListener("submit", function(ev) {
+                            ev.preventDefault();
+                            var data = new FormData(form);
+                            fetch(form.action, {
+                                method: form.method,
+                                body: data,
+                                headers: {
+                                    'Accept': 'application/json'
+                                }
+                            }).then(response => {
+                                if (response.ok) {
+                                    status.innerHTML = "${ui['cont-success']}";
+                                    status.style.color = "var(--swiss-red)";
+                                    form.reset();
+                                } else {
+                                    response.json().then(data => {
+                                        if (Object.hasOwn(data, 'errors')) {
+                                            status.innerHTML = data["errors"].map(error => error["message"]).join(", ");
+                                            status.style.color = "var(--text-primary)";
+                                        } else {
+                                            status.innerHTML = "${ui['cont-error']}";
+                                            status.style.color = "var(--text-primary)";
+                                        }
+                                    })
+                                }
+                            }).catch(error => {
+                                status.innerHTML = "${ui['cont-error']}";
+                                status.style.color = "var(--text-primary)";
+                            });
+                        });
+                    }
+                })();
+            <\/script>
             `;
         }
     }
