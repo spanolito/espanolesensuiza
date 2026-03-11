@@ -13,11 +13,15 @@ window.siteContent.es.pages = {
         isCategoryHub: false,
         content: `
             <!-- Editorial Hero Section -->
-            <section class="hero-section">
-                <h1>Guía práctica para vivir y trabajar en Suiza</h1>
-                <p class="hero-subtitle">Información clara, oficial y estructurada sobre permisos, trabajo, vivienda, seguros y vida diaria en la Confederación Helvética.</p>
+            <section class="hero-section" style="padding: 0; margin-bottom: var(--space-xl);">
+                <h1 class="sr-only">Españoles en Suiza: Guía práctica para vivir y trabajar</h1>
+                <p class="sr-only">Información clara, oficial y estructurada sobre permisos, trabajo, vivienda, seguros y vida diaria en la Confederación Helvética.</p>
                 
-                <div class="search-container">
+                <div style="width: 100%; max-width: 1000px; margin: 0 auto; line-height: 0;">
+                    <img src="media/banner.jpg" alt="Españoles que realmente se ayudan en Suiza. Guía práctica para vivir y trabajar." style="width: 100%; height: auto; display: block; filter: contrast(1.05);">
+                </div>
+
+                <div class="search-container" style="margin-top: -30px; position: relative; z-index: 10;">
                     <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
                     <input type="text" id="global-search" class="search-input" placeholder="Buscar guías, trámites, impuestos..." autocomplete="off">
                     <div id="search-results"></div>
