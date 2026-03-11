@@ -17,7 +17,10 @@ window.siteContent.es.pages = {
         description: "Plataforma editorial sobre la vida en Suiza: permisos, trabajo, vivienda, seguros e impuestos. Toda la información contrastada.",
         keywords: "vivir en suiza, permisos suiza, trabajar en suiza, guía suiza",
         isCategoryHub: false,
-        content: `
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
             <!-- Editorial Hero Section -->
             <section class="hero-section" style="padding: 0; margin-bottom: var(--space-xl);">
                 <h1 class="sr-only">Españoles en Suiza: Guía práctica para vivir y trabajar</h1>
@@ -29,20 +32,20 @@ window.siteContent.es.pages = {
 
                 <div class="search-container" style="margin-top: -30px; position: relative; z-index: 10;">
                     <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-                    <input type="text" id="global-search" class="search-input" placeholder="Buscar guías, trámites, impuestos..." autocomplete="off">
+                    <input type="text" id="global-search" class="search-input" placeholder="${ui['search-placeholder']}" autocomplete="off">
                     <div id="search-results"></div>
                 </div>
 
                 <div class="hero-actions">
-                    <a href="#/tramites" class="btn btn-primary">Leer guías principales</a>
+                    <a href="#/tramites" class="btn btn-primary">${ui['cat-tramites']}</a>
                     <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" class="btn btn-secondary">Solicitar acceso al grupo</a>
                 </div>
             </section>
 
             <!-- Quick Start Cards -->
             <section style="margin-top: var(--space-xl);">
-                <h2 style="border-bottom:none; margin-bottom: 0;">Empezar aquí</h2>
-                <p style="font-size: 1.125rem; margin-bottom: 2rem;">Si acabas de llegar o planeas mudarte, revisa estas guías esenciales.</p>
+                <h2 style="border-bottom:none; margin-bottom: 0;">${ui['home-title-start']}</h2>
+                <p style="font-size: 1.125rem; margin-bottom: 2rem;">${ui['home-desc-start']}</p>
                 <div class="quick-start-grid">
                     <a href="#/articulo/articulo-registro" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
@@ -74,75 +77,75 @@ window.siteContent.es.pages = {
 
             <!-- Main Topic Hubs -->
             <section style="margin-top: var(--space-xl);">
-                <h2>Temas Principales</h2>
+                <h2>${ui['home-title-hubs']}</h2>
                 <div class="topic-hub-grid">
                     <div class="card-hub">
-                        <h3>Trámites y Permisos <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">4 guías</span></h3>
+                        <h3>${ui['cat-tramites']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">4 ${ui['lbl-guides-plural']}</span></h3>
                         <p>Residencia L, B, C, registro en comunas y la burocracia básica del día a día.</p>
-                        <a href="#/tramites" class="read-more">Explorar guías &rarr;</a>
+                        <a href="#/tramites" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
-                        <h3>Trabajo y Salarios <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">5 guías</span></h3>
+                        <h3>${ui['cat-trabajo']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">5 ${ui['lbl-guides-plural']}</span></h3>
                         <p>Contratos suizos, cálculo del salario, derechos laborales y desempleo.</p>
-                        <a href="#/trabajo" class="read-more">Explorar guías &rarr;</a>
+                        <a href="#/trabajo" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
-                        <h3>Vivir en Suiza <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">5 guías</span></h3>
+                        <h3>${ui['cat-vivir']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">5 ${ui['lbl-guides-plural']}</span></h3>
                         <p>El sistema escolar, transporte, seguros sociales, reconocimiento de diplomas y costo de vida real.</p>
-                        <a href="#/vivir-en-suiza" class="read-more">Explorar guías &rarr;</a>
+                        <a href="#/vivir-en-suiza" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
-                        <h3>Vivienda <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">3 guías</span></h3>
+                        <h3>${ui['cat-vivienda']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">3 ${ui['lbl-guides-plural']}</span></h3>
                         <p>Cómo postular a un apartamento suizo, crear el dosier y los derechos del inquilino (ASLOCA).</p>
-                        <a href="#/vivienda" class="read-more">Explorar guías &rarr;</a>
+                        <a href="#/vivienda" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
-                        <h3>Salud y LAMal <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">3 guías</span></h3>
+                        <h3>${ui['cat-salud']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">3 ${ui['lbl-guides-plural']}</span></h3>
                         <p>Funcionamiento del seguro médico básico, elección de franquicia y copagos hospitalarios.</p>
-                        <a href="#/salud" class="read-more">Explorar guías &rarr;</a>
+                        <a href="#/salud" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
-                        <h3>Impuestos <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">2 guías</span></h3>
+                        <h3>${ui['cat-impuestos']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">2 ${ui['lbl-guides-plural']}</span></h3>
                         <p>Diferencias entre impuesto cantonal y federal, e impuestos retenidos en la fuente.</p>
-                        <a href="#/impuestos" class="read-more">Explorar guías &rarr;</a>
+                        <a href="#/impuestos" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
-                        <h3>Frontaliers <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">1 guía</span></h3>
+                        <h3>${ui['cat-fronterizos']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">1 ${ui['lbl-guides-singular']}</span></h3>
                         <p>Normativas fiscales y de seguros para aquellos que cruzan la frontera a diario.</p>
-                        <a href="#/fronterizos" class="read-more">Explorar guías &rarr;</a>
+                        <a href="#/fronterizos" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                 </div>
             </section>
 
             <!-- Featured / Most Read Articles -->
             <section style="margin-top: var(--space-xl);">
-                <h2>Guías Destacadas</h2>
+                <h2>${ui['home-title-featured']}</h2>
                 <div class="featured-grid">
                     <a href="#/articulo/articulo-permisos" class="card-article">
                         <div class="card-meta">Trámites Ordinarios</div>
                         <h3>Diferencias entre Permiso L, B, y C</h3>
                         <p>Guía de comprensión completa sobre los títulos de residencia suizos.</p>
-                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 4 min de lectura</span>
+                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 4 min ${ui['lbl-read-time']}</span>
                     </a>
                     <a href="#/articulo/articulo-impuesto-fuente" class="card-article">
                         <div class="card-meta">Impuestos</div>
                         <h3>El impuesto a la fuente (Quellensteuer)</h3>
                         <p>Cómo funciona el cobro de impuestos directamente en la nómina para extranjeros.</p>
-                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 3 min de lectura</span>
+                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 3 min ${ui['lbl-read-time']}</span>
                     </a>
                     <a href="#/articulo/articulo-franquicia" class="card-article">
                         <div class="card-meta">Seguro de Salud</div>
                         <h3>Franquicia y Copago en Suiza</h3>
                         <p>Por qué el seguro médico puede encarecerse si no eliges bien tu franquicia básica.</p>
-                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 3 min de lectura</span>
+                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 3 min ${ui['lbl-read-time']}</span>
                     </a>
                 </div>
             </section>
 
             <!-- FAQ Accordion section -->
             <section style="margin-top: var(--space-xl);">
-                <h2>Preguntas Frecuentes</h2>
-                <p>Respuestas rápidas basadas en las discusiones más comunes de nuestra comunidad.</p>
+                <h2>${ui['home-title-faq']}</h2>
+                <p>${ui['home-desc-faq']}</p>
                 <div class="accordion">
                     <div class="accordion-item">
                         <button class="accordion-header">
@@ -213,83 +216,96 @@ window.siteContent.es.pages = {
                     </a>
                 </div>
             </section>
-        `
+        \`;
+        }
     },
 
     // Category Hub Pages (Dynamically populated by app.js)
     "tramites": {
         title: "Trámites en Suiza",
         isCategoryHub: true,
-        content: `
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
-                    <a href="#/">Inicio</a> > 
-                    <span>Trámites</span>
+                    <a href="#/">${ui['nav-inicio']}</a> > 
+                    <span>${ui['cat-tramites']}</span>
                 </nav>
-                <h1>Trámites Administrativos</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">Comprende los procesos burocráticos suizos: desde el alta en tu comuna hasta las diferencias entre los permisos L, B y C. Información paso a paso basándonos en la experiencia real.</p>
+                <h1>${ui['cat-tramites']}</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">${ui['cat-desc-tramites']}</p>
             </div>
             
             <section>
-                <h2>Guías de Trámites</h2>
                 <div id="category-articles-container">
                     <!-- Javascript injectCategoryArticles('tramites') will populate this -->
                 </div>
             </section>
-        `
+            `;
+        }
     },
 
     "trabajo": {
         title: "Trabajar en Suiza",
         isCategoryHub: true,
-        content: `
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
-                    <a href="#/">Inicio</a> > 
-                    <span>Trabajo</span>
+                    <a href="#/">${ui['nav-inicio']}</a> > 
+                    <span>${ui['cat-trabajo']}</span>
                 </nav>
-                <h1>Trabajo y Salarios</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">El mercado laboral suizo es altamente cualificado, competitivo y liberal. Descubre tus derechos laborales, el tiempo de preaviso y las expectativas salariales justas.</p>
+                <h1>${ui['cat-trabajo']}</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">${ui['cat-desc-trabajo']}</p>
             </div>
             
             <section>
-                <h2>Guías Laborales</h2>
                 <div id="category-articles-container"></div>
             </section>
-        `
+            `;
+        }
     },
 
     "vivienda": {
         title: "Vivienda y Alquiler",
         isCategoryHub: true,
-        content: `
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
-                    <a href="#/">Inicio</a> > 
-                    <span>Vivienda</span>
+                    <a href="#/">${ui['nav-inicio']}</a> > 
+                    <span>${ui['cat-vivienda']}</span>
                 </nav>
-                <h1>Vivienda: Alquiler y fianzas</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">El mercado de alquiler suizo es muy tenso, con vacantes inferiores al 1% en las grandes ciudades. Aprende a crear un dosier inmaculado y conoce tus derechos como inquilino.</p>
+                <h1>${ui['cat-vivienda']}</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">${ui['cat-desc-vivienda']}</p>
             </div>
             
             <section>
-                <h2>Guías de Vivienda</h2>
                 <div id="category-articles-container"></div>
             </section>
-        `
+            `;
+        }
     },
 
     "vivir-en-suiza": {
         title: "Vivir en Suiza (Transporte, Educación, Costo de Vida)",
         isCategoryHub: true,
-        content: `
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
-                    <a href="#/">Inicio</a> > 
-                    <span>Vivir en Suiza</span>
+                    <a href="#/">${ui['nav-inicio']}</a> > 
+                    <span>${ui['cat-vivir']}</span>
                 </nav>
-                <h1>Vida de residente</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">Todo lo que conforma tu día a día: el excelente pero caro transporte público, el sistema escolar cantonal, seguros sociales y la realidad del costo de vida suizo.</p>
+                <h1>${ui['cat-vivir']}</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">${ui['cat-desc-vivir']}</p>
                 
                 <div class="callout info" style="margin-top: 1.5rem; padding: 1rem; background: var(--bg-surface); border-left: 3px solid var(--text-secondary);">
                     <strong>Nota sobre diferencias cantonales:</strong> Recuerda que Suiza es una federación fuertemente descentralizada. Aunque las reglas básicas sean iguales, cada cantón define sus vacaciones escolares, sus festivos y muchos de sus reglamentos de convivencia.
@@ -297,23 +313,26 @@ window.siteContent.es.pages = {
             </div>
             
             <section>
-                <h2>Guías Generales de Vida</h2>
                 <div id="category-articles-container"></div>
             </section>
-        `
+            `;
+        }
     },
 
     "salud": {
         title: "Salud y Seguro Médico (LAMal)",
         isCategoryHub: true,
-        content: `
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
-                    <a href="#/">Inicio</a> > 
-                    <span>Salud (LAMal)</span>
+                    <a href="#/">${ui['nav-inicio']}</a> > 
+                    <span>${ui['cat-salud']}</span>
                 </nav>
-                <h1>Sistema de Salud Suizo</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">La sanidad suiza es excelente pero privada y de afiliación obligatoria. Comprende cómo funciona el seguro LAMal, las franquicias, los copagos y cómo navegar entre médicos y urgencias.</p>
+                <h1>${ui['cat-salud']}</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">${ui['cat-desc-salud']}</p>
                 
                 <div class="callout info" style="margin-top: 1.5rem; padding: 1rem; background: var(--bg-surface); border-left: 3px solid var(--text-secondary);">
                     <strong>Enlaces Oficiales Útiles:</strong> 
@@ -322,23 +341,26 @@ window.siteContent.es.pages = {
             </div>
             
             <section>
-                <h2>Guías de Salud</h2>
                 <div id="category-articles-container"></div>
             </section>
-        `
+            `;
+        }
     },
 
     "impuestos": {
         title: "Impuestos en Suiza",
         isCategoryHub: true,
-        content: `
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
-                    <a href="#/">Inicio</a> > 
-                    <span>Impuestos</span>
+                    <a href="#/">${ui['nav-inicio']}</a> > 
+                    <span>${ui['cat-impuestos']}</span>
                 </nav>
-                <h1>Fiscalidad e Impuestos</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">Entiende el sistema fiscal suizo a tres niveles (federal, cantonal, comunal), el impuesto a la fuente para extranjeros (Quellensteuer) y las declaraciones de la renta.</p>
+                <h1>${ui['cat-impuestos']}</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">${ui['cat-desc-impuestos']}</p>
                 
                 <div class="callout info" style="margin-top: 1.5rem; padding: 1rem; background: var(--bg-surface); border-left: 3px solid var(--text-secondary);">
                     <strong>Aviso Cantonal:</strong> Las tasas impositivas varían radicalmente no solo de un cantón a otro, sino de un municipio (comuna) a otro, separados por apenas unos kilómetros.
@@ -346,30 +368,33 @@ window.siteContent.es.pages = {
             </div>
             
             <section>
-                <h2>Guías de Impuestos</h2>
                 <div id="category-articles-container"></div>
             </section>
-        `
+            `;
+        }
     },
 
     "fronterizos": {
         title: "Trabajadores Fronterizos (Permiso G)",
         isCategoryHub: true,
-        content: `
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
-                    <a href="#/">Inicio</a> > 
-                    <span>Fronterizos</span>
+                    <a href="#/">${ui['nav-inicio']}</a> > 
+                    <span>${ui['cat-fronterizos']}</span>
                 </nav>
-                <h1>Frontaliers</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">Regulación fiscal especial, derecho a la opción en el seguro médico (LAMal vs CMU) y normativas de vida para aquellos que cruzan la frontera a diario.</p>
+                <h1>${ui['cat-fronterizos']}</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">${ui['cat-desc-fronterizos']}</p>
             </div>
             
             <section>
-                <h2>Guías de Fronterizos</h2>
                 <div id="category-articles-container"></div>
             </section>
-        `
+            `;
+        }
     },
 
     "recursos": {
