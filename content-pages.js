@@ -77,14 +77,24 @@ window.siteContent.es.pages = {
                         <a href="#/trabajo" class="read-more">Explorar guías &rarr;</a>
                     </div>
                     <div class="card-hub">
-                        <h3>Vivir en Suiza <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">6 guías</span></h3>
-                        <p>El seguro básico LAMal, impuestos, franquicias y sistema escolar.</p>
+                        <h3>Vivir en Suiza <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">5 guías</span></h3>
+                        <p>El sistema escolar, transporte, seguros sociales, reconocimiento de diplomas y costo de vida real.</p>
                         <a href="#/vivir-en-suiza" class="read-more">Explorar guías &rarr;</a>
                     </div>
                     <div class="card-hub">
                         <h3>Vivienda <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">3 guías</span></h3>
                         <p>Cómo postular a un apartamento suizo, crear el dosier y los derechos del inquilino (ASLOCA).</p>
                         <a href="#/vivienda" class="read-more">Explorar guías &rarr;</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>Salud y LAMal <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">3 guías</span></h3>
+                        <p>Funcionamiento del seguro médico básico, elección de franquicia y copagos hospitalarios.</p>
+                        <a href="#/salud" class="read-more">Explorar guías &rarr;</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>Impuestos <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">2 guías</span></h3>
+                        <p>Diferencias entre impuesto cantonal y federal, e impuestos retenidos en la fuente.</p>
+                        <a href="#/impuestos" class="read-more">Explorar guías &rarr;</a>
                     </div>
                     <div class="card-hub">
                         <h3>Frontaliers <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">1 guía</span></h3>
@@ -159,6 +169,40 @@ window.siteContent.es.pages = {
                     </div>
                 </div>
             </section>
+
+            <!-- Community Section -->
+            <section class="community-section">
+                <div class="container">
+                    <h2>De la comunidad, a la plataforma pública</h2>
+                    <p style="max-width: 600px; margin: 0 auto; margin-bottom: 2rem;">Todo el conocimiento de esta plataforma nace de las respuestas expertas compartidas durante años en nuestra comunidad oficial de Facebook: "Españoles en Suiza que realmente se ayudan".</p>
+                    
+                    <div class="callout" style="background: rgba(255,255,255,0.1); border-color: white; color: white;">
+                        <h4 style="color: white; margin-top: 0;">¿Por qué el grupo es privado?</h4>
+                        <p style="color: rgba(255,255,255,0.9); margin-bottom: 0;">Mantenemos el grupo cerrado al público para evitar spam, perfiles falsos y proteger la privacidad de miembros reales al hablar sobre contratos u ofertas de alquiler.</p>
+                    </div>
+                    <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" class="btn btn-primary" style="background: white; color: var(--text-primary);">Solicitar acceso a la comunidad</a>
+                </div>
+            </section>
+
+            <!-- Official Sources Section -->
+            <section style="margin: var(--space-xl) 0; text-align: center; border-top: 1px solid var(--border-light); padding-top: var(--space-xl);">
+                <h2 style="border: none; margin-bottom: 0.5rem;">Información oficial y verificable</h2>
+                <p style="max-width: 600px; margin: 0 auto 2rem;">Nuestras guías se basan en la experiencia real, pero siempre refiriendo directamente a los portales federales.</p>
+                <div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;">
+                    <a href="https://www.ch.ch" target="_blank" style="padding: 1rem 2rem; background: var(--bg-surface); border-radius: var(--radius-sm); border: 1px solid var(--border-light); font-weight: 500;">
+                        ch.ch
+                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">Portal Federal</span>
+                    </a>
+                    <a href="https://www.sem.admin.ch" target="_blank" style="padding: 1rem 2rem; background: var(--bg-surface); border-radius: var(--radius-sm); border: 1px solid var(--border-light); font-weight: 500;">
+                        SEM
+                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">Sec. Migración</span>
+                    </a>
+                    <a href="https://www.bfs.admin.ch" target="_blank" style="padding: 1rem 2rem; background: var(--bg-surface); border-radius: var(--radius-sm); border: 1px solid var(--border-light); font-weight: 500;">
+                        OFS
+                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">Oficina Estadística</span>
+                    </a>
+                </div>
+            </section>
         `
     },
 
@@ -226,7 +270,7 @@ window.siteContent.es.pages = {
     },
 
     "vivir-en-suiza": {
-        title: "Vivir en Suiza (Sanidad, Impuestos, Educación)",
+        title: "Vivir en Suiza (Transporte, Educación, Costo de Vida)",
         isCategoryHub: true,
         content: `
             <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
@@ -235,11 +279,64 @@ window.siteContent.es.pages = {
                     <span>Vivir en Suiza</span>
                 </nav>
                 <h1>Vida de residente</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">Todo lo que conforma tu día a día: cómo funciona realmente la triple imposición, el sistema escolar cantonal, y el delicado funcionamiento del seguro médico LAMal.</p>
+                <p style="font-size: 1.25rem; max-width: 800px;">Todo lo que conforma tu día a día: el excelente pero caro transporte público, el sistema escolar cantonal, seguros sociales y la realidad del costo de vida suizo.</p>
+                
+                <div class="callout info" style="margin-top: 1.5rem; padding: 1rem; background: var(--bg-surface); border-left: 3px solid var(--text-secondary);">
+                    <strong>Nota sobre diferencias cantonales:</strong> Recuerda que Suiza es una federación fuertemente descentralizada. Aunque las reglas básicas sean iguales, cada cantón define sus vacaciones escolares, sus festivos y muchos de sus reglamentos de convivencia.
+                </div>
             </div>
             
             <section>
-                <h2>Guías de Vida Diaria</h2>
+                <h2>Guías Generales de Vida</h2>
+                <div id="category-articles-container"></div>
+            </section>
+        `
+    },
+
+    "salud": {
+        title: "Salud y Seguro Médico (LAMal)",
+        isCategoryHub: true,
+        content: `
+            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+                <nav class="breadcrumbs">
+                    <a href="#/">Inicio</a> > 
+                    <span>Salud (LAMal)</span>
+                </nav>
+                <h1>Sistema de Salud Suizo</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">La sanidad suiza es excelente pero privada y de afiliación obligatoria. Comprende cómo funciona el seguro LAMal, las franquicias, los copagos y cómo navegar entre médicos y urgencias.</p>
+                
+                <div class="callout info" style="margin-top: 1.5rem; padding: 1rem; background: var(--bg-surface); border-left: 3px solid var(--text-secondary);">
+                    <strong>Enlaces Oficiales Útiles:</strong> 
+                    <a href="https://www.priminfo.admin.ch" target="_blank" style="margin-left:8px;text-decoration:underline;">Priminfo (Calculadora Oficial de Primas)</a>
+                </div>
+            </div>
+            
+            <section>
+                <h2>Guías de Salud</h2>
+                <div id="category-articles-container"></div>
+            </section>
+        `
+    },
+
+    "impuestos": {
+        title: "Impuestos en Suiza",
+        isCategoryHub: true,
+        content: `
+            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+                <nav class="breadcrumbs">
+                    <a href="#/">Inicio</a> > 
+                    <span>Impuestos</span>
+                </nav>
+                <h1>Fiscalidad e Impuestos</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">Entiende el sistema fiscal suizo a tres niveles (federal, cantonal, comunal), el impuesto a la fuente para extranjeros (Quellensteuer) y las declaraciones de la renta.</p>
+                
+                <div class="callout info" style="margin-top: 1.5rem; padding: 1rem; background: var(--bg-surface); border-left: 3px solid var(--text-secondary);">
+                    <strong>Aviso Cantonal:</strong> Las tasas impositivas varían radicalmente no solo de un cantón a otro, sino de un municipio (comuna) a otro, separados por apenas unos kilómetros.
+                </div>
+            </div>
+            
+            <section>
+                <h2>Guías de Impuestos</h2>
                 <div id="category-articles-container"></div>
             </section>
         `
