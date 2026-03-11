@@ -182,6 +182,84 @@ window.siteContent.es.pages = {
                     </div>
                 </div>
             </section>
+            
+            <!-- Most Consulted Guides -->
+            <section style="margin-top: var(--space-xl);">
+                <h2>Guías más consultadas</h2>
+                <p style="font-size: 1.1rem; margin-bottom: 2rem;">Los temas que más interesan a quienes llegan a Suiza o ya viven aquí.</p>
+                <div class="featured-grid">
+                    <a href="#articulo-permisos" class="card-article">
+                        <div class="card-meta">Trámites</div>
+                        <h3>Permisos L, B y C</h3>
+                        <p>Todo lo esencial para entender qué permiso corresponde según tu situación.</p>
+                        <span style="margin-top:auto; font-size:0.85rem; color:var(--text-light);">⏱ 4 min de lectura</span>
+                    </a>
+                    <a href="#articulo-lamal" class="card-article">
+                        <div class="card-meta">Salud</div>
+                        <h3>Seguro médico LAMal</h3>
+                        <p>Cómo funciona el seguro obligatorio y qué debes hacer al llegar.</p>
+                        <span style="margin-top:auto; font-size:0.85rem; color:var(--text-light);">⏱ 5 min de lectura</span>
+                    </a>
+                    <a href="#articulo-impuesto-fuente" class="card-article">
+                        <div class="card-meta">Impuestos</div>
+                        <h3>Impuesto a la fuente</h3>
+                        <p>Qué te descuentan en nómina y cuándo puedes corregirlo.</p>
+                        <span style="margin-top:auto; font-size:0.85rem; color:var(--text-light);">⏱ 3 min de lectura</span>
+                    </a>
+                    <a href="#articulo-alquiler" class="card-article">
+                        <div class="card-meta">Vivienda</div>
+                        <h3>Cómo alquilar en Suiza</h3>
+                        <p>Documentos, dosier y claves para no perder tiempo con las agencias.</p>
+                        <span style="margin-top:auto; font-size:0.85rem; color:var(--text-light);">⏱ 5 min de lectura</span>
+                    </a>
+                </div>
+            </section>
+
+            <!-- Official Sources -->
+            <section style="margin-top: var(--space-xl);">
+                <h2>Fuentes oficiales</h2>
+                <p style="font-size: 1.1rem; margin-bottom: 2rem;">Cuando una regla cambia según el cantón o la situación personal, lo prudente es comprobar siempre la fuente oficial.</p>
+                <div class="featured-grid">
+                    <a href="https://www.ch.ch/es/" target="_blank" class="card-article">
+                        <div class="card-meta">Portal oficial</div>
+                        <h3>ch.ch</h3>
+                        <p>Información práctica de la Confederación sobre vida diaria, permisos y administración.</p>
+                    </a>
+                    <a href="https://www.sem.admin.ch/" target="_blank" class="card-article">
+                        <div class="card-meta">Migración</div>
+                        <h3>SEM</h3>
+                        <p>Secretaría de Estado de Migración: residencia, libre circulación y nacionalidad.</p>
+                    </a>
+                    <a href="https://www.bfs.admin.ch/" target="_blank" class="card-article">
+                        <div class="card-meta">Estadística</div>
+                        <h3>BFS / OFS</h3>
+                        <p>Datos oficiales sobre salarios, población, vivienda, empleo y mucho más.</p>
+                    </a>
+                </div>
+            </section>
+
+            <!-- Community Inspired -->
+            <section style="margin-top: var(--space-xl);">
+                <h2>Inspirado en preguntas reales de la comunidad</h2>
+                <p style="font-size: 1.1rem; margin-bottom: 2rem;">Esta web nace de dudas que aparecen una y otra vez entre hispanohablantes que viven en Suiza o preparan su llegada.</p>
+                <div class="topic-hub-grid">
+                    <div class="card-hub">
+                        <h3>¿Puedo trabajar antes de recibir el permiso físico?</h3>
+                        <p>Una de las preguntas más repetidas. La respuesta depende del trámite ya iniciado y de tu situación concreta.</p>
+                        <a href="#articulo-registro" class="read-more">Ver guía relacionada &rarr;</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>¿Qué cambia según el cantón?</h3>
+                        <p>Impuestos, primas de seguro, escolaridad, plazos y trámites pueden variar bastante.</p>
+                        <a href="#hub-tramites" class="read-more">Explorar trámites &rarr;</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>¿Qué errores cometen más los recién llegados?</h3>
+                        <p>No comparar seguros, llegar sin dosier de alquiler o no entender bien el impuesto a la fuente.</p>
+                        <a href="#articulo-lamal" class="read-more">Leer guía útil &rarr;</a>
+                    </div>
+                </div>
+            </section>
 
             <!-- Community Section -->
             <section class="community-section">
