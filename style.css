@@ -1253,6 +1253,14 @@ strong, b {
 .card-article:hover::before {
     opacity: 1;
 }
+.card {
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
 
 /* Better topic cards */
 .card-hub h3 {
