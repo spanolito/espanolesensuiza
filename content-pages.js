@@ -216,7 +216,7 @@ window.siteContent.es.pages = {
                     </a>
                 </div>
             </section>
-        \`;
+        `;
         }
     },
 
