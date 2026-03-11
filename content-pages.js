@@ -16,10 +16,10 @@ window.siteContent.es.pages = {
         title: "Españoles en Suiza | Guía práctica para vivir y trabajar",
         description: "Plataforma editorial sobre la vida en Suiza: permisos, trabajo, vivienda, seguros e impuestos. Toda la información contrastada.",
         keywords: "vivir en suiza, permisos suiza, trabajar en suiza, guía suiza",
-        isCategoryHub: false,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            const arts = window.siteContent[currentLang]?.articles || window.siteContent['es'].articles;
             return `
             <!-- Editorial Hero Section -->
             <section class="hero-section" style="padding: 0; margin-bottom: var(--space-xl);">
@@ -49,28 +49,28 @@ window.siteContent.es.pages = {
                 <div class="quick-start-grid">
                     <a href="#/articulo/articulo-registro" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                        <h3>Llegar a Suiza</h3>
-                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">Registro y control</span>
+                        <h3>${ui['start-card-1-title']}</h3>
+                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">${ui['start-card-1-desc']}</span>
                     </a>
                     <a href="#/articulo/articulo-permisos" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
-                        <h3>Primeros trámites</h3>
-                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">Permisos de residencia</span>
+                        <h3>${ui['start-card-2-title']}</h3>
+                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">${ui['start-card-2-desc']}</span>
                     </a>
                     <a href="#/articulo/articulo-buscar-empleo" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
-                        <h3>Encontrar trabajo</h3>
-                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">Mercado y salarios</span>
+                        <h3>${ui['start-card-3-title']}</h3>
+                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">${ui['start-card-3-desc']}</span>
                     </a>
                     <a href="#/articulo/articulo-lamal" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg>
-                        <h3>Seguro médico</h3>
-                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">Sistema LAMal</span>
+                        <h3>${ui['start-card-4-title']}</h3>
+                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">${ui['start-card-4-desc']}</span>
                     </a>
                     <a href="#/articulo/articulo-alquiler" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
-                        <h3>Encontrar vivienda</h3>
-                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">Alquiler y agencias</span>
+                        <h3>${ui['start-card-5-title']}</h3>
+                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">${ui['start-card-5-desc']}</span>
                     </a>
                 </div>
             </section>
@@ -81,37 +81,37 @@ window.siteContent.es.pages = {
                 <div class="topic-hub-grid">
                     <div class="card-hub">
                         <h3>${ui['cat-tramites']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">4 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>Residencia L, B, C, registro en comunas y la burocracia básica del día a día.</p>
+                        <p>${ui['cat-desc-tramites']}</p>
                         <a href="#/tramites" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
                         <h3>${ui['cat-trabajo']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">5 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>Contratos suizos, cálculo del salario, derechos laborales y desempleo.</p>
+                        <p>${ui['cat-desc-trabajo']}</p>
                         <a href="#/trabajo" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
                         <h3>${ui['cat-vivir']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">5 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>El sistema escolar, transporte, seguros sociales, reconocimiento de diplomas y costo de vida real.</p>
+                        <p>${ui['cat-desc-vivir']}</p>
                         <a href="#/vivir-en-suiza" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
                         <h3>${ui['cat-vivienda']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">3 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>Cómo postular a un apartamento suizo, crear el dosier y los derechos del inquilino (ASLOCA).</p>
+                        <p>${ui['cat-desc-vivienda']}</p>
                         <a href="#/vivienda" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
                         <h3>${ui['cat-salud']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">3 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>Funcionamiento del seguro médico básico, elección de franquicia y copagos hospitalarios.</p>
+                        <p>${ui['cat-desc-salud']}</p>
                         <a href="#/salud" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
                         <h3>${ui['cat-impuestos']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">2 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>Diferencias entre impuesto cantonal y federal, e impuestos retenidos en la fuente.</p>
+                        <p>${ui['cat-desc-impuestos']}</p>
                         <a href="#/impuestos" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                     <div class="card-hub">
                         <h3>${ui['cat-fronterizos']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">1 ${ui['lbl-guides-singular']}</span></h3>
-                        <p>Normativas fiscales y de seguros para aquellos que cruzan la frontera a diario.</p>
+                        <p>${ui['cat-desc-fronterizos']}</p>
                         <a href="#/fronterizos" class="read-more">${ui['lbl-explore-guides']}</a>
                     </div>
                 </div>
@@ -122,22 +122,22 @@ window.siteContent.es.pages = {
                 <h2>${ui['home-title-featured']}</h2>
                 <div class="featured-grid">
                     <a href="#/articulo/articulo-permisos" class="card-article">
-                        <div class="card-meta">Trámites Ordinarios</div>
-                        <h3>Diferencias entre Permiso L, B, y C</h3>
-                        <p>Guía de comprensión completa sobre los títulos de residencia suizos.</p>
-                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 4 min ${ui['lbl-read-time']}</span>
+                        <div class="card-meta">${ui['cat-tramites']}</div>
+                        <h3>${arts['articulo-permisos']?.title || 'Diferencias entre Permiso L, B, y C'}</h3>
+                        <p>${arts['articulo-permisos']?.summary || 'Guía de comprensión completa sobre los títulos de residencia suizos.'}</p>
+                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 4 ${ui['lbl-read-time']}</span>
                     </a>
                     <a href="#/articulo/articulo-impuesto-fuente" class="card-article">
-                        <div class="card-meta">Impuestos</div>
-                        <h3>El impuesto a la fuente (Quellensteuer)</h3>
-                        <p>Cómo funciona el cobro de impuestos directamente en la nómina para extranjeros.</p>
-                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 3 min ${ui['lbl-read-time']}</span>
+                        <div class="card-meta">${ui['cat-impuestos']}</div>
+                        <h3>${arts['articulo-impuesto-fuente']?.title || 'El impuesto a la fuente (Quellensteuer)'}</h3>
+                        <p>${arts['articulo-impuesto-fuente']?.summary || 'Cómo funciona el cobro de impuestos directamente en la nómina para extranjeros.'}</p>
+                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 3 ${ui['lbl-read-time']}</span>
                     </a>
                     <a href="#/articulo/articulo-franquicia" class="card-article">
-                        <div class="card-meta">Seguro de Salud</div>
-                        <h3>Franquicia y Copago en Suiza</h3>
-                        <p>Por qué el seguro médico puede encarecerse si no eliges bien tu franquicia básica.</p>
-                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 3 min ${ui['lbl-read-time']}</span>
+                        <div class="card-meta">${ui['cat-salud']}</div>
+                        <h3>${arts['articulo-franquicia']?.title || 'Franquicia y Copago en Suiza'}</h3>
+                        <p>${arts['articulo-franquicia']?.summary || 'Por qué el seguro médico puede encarecerse si no eliges bien tu franquicia básica.'}</p>
+                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 3 ${ui['lbl-read-time']}</span>
                     </a>
                 </div>
             </section>
@@ -149,34 +149,34 @@ window.siteContent.es.pages = {
                 <div class="accordion">
                     <div class="accordion-item">
                         <button class="accordion-header">
-                            ¿Puedo trabajar antes de recibir mi permiso físico?
+                            ${ui['faq-q1']}
                             <span class="accordion-icon"></span>
                         </button>
                         <div class="accordion-content">
                             <div class="accordion-content-inner">
-                                Sí. Si eres ciudadano de la UE/EFTA, desde el momento en el que entregas todos tus documentos en la comuna y expiden el resguardo de registro ("Attestation d'établissement"), tienes el derecho legal de comenzar a trabajar incluso antes de que el plástico del permiso te llegue por correo (suele tardar de 2 a 4 semanas).
+                                ${ui['faq-a1']}
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <button class="accordion-header">
-                            ¿Cómo funciona el seguro médico si me equivoco de aseguradora?
+                            ${ui['faq-q2']}
                             <span class="accordion-icon"></span>
                         </button>
                         <div class="accordion-content">
                             <div class="accordion-content-inner">
-                                El seguro básico LAMal tiene exactamente las mismas coberturas médicas obligatorias por ley independientemente de la caja de salud que elijas (Assura, CSS, Swica, etc.). Solo tu prima mensual variará. Si no estás satisfecho con la prima, sólo puedes cambiar de seguro una vez al año (antes del 30 de noviembre para el año natural siguiente).
+                                ${ui['faq-a2']}
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <button class="accordion-header">
-                            ¿Qué cambia según el cantón donde viva?
+                            ${ui['faq-q3']}
                             <span class="accordion-icon"></span>
                         </button>
                         <div class="accordion-content">
                             <div class="accordion-content-inner">
-                                Casi todo en Suiza varía por cantón: la carga de los impuestos sobre la renta, el costo de las primas del seguro médico, las vacaciones escolares, las festividades locales y las autoridades a contactar. El sistema educativo público también tiene pequeñas variaciones. Por ello, las guías de esta web establecen el marco federal y avisan de las diferencias cantonales.
+                                ${ui['faq-a3']}
                             </div>
                         </div>
                     </div>
