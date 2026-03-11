@@ -4,7 +4,7 @@
  */
 
 document.addEventListener("DOMContentLoaded", () => {
-    
+
     // UI Elements
     const appContainer = document.getElementById("app-container");
     const navLinks = document.querySelectorAll(".nav-link");
@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const mainNav = document.getElementById("main-nav");
     const langBtns = document.querySelectorAll(".lang-btn");
     const yearSpan = document.getElementById("current-year");
-    
+
     // Inject Reading Progress Bar
     const progressBarContainer = document.createElement("div");
     progressBarContainer.className = "reading-progress-container";
@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (yearSpan) yearSpan.textContent = new Date().getFullYear();
 
     let currentLang = "es";
-    
+
     // Header Scroll Effect
     window.addEventListener('scroll', () => {
         const header = document.querySelector('.site-header');
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             header.classList.remove('scrolled');
         }
-        
+
         // Reading Progress Tracking
         if (appContainer.querySelector('.article-layout')) {
             const documentHeight = document.documentElement.scrollHeight - window.innerHeight;
@@ -58,6 +58,38 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 
+    // Dropdown Logic
+    const dropdownToggles = document.querySelectorAll(".dropdown-toggle");
+    dropdownToggles.forEach(toggle => {
+        toggle.addEventListener("click", (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            const parent = toggle.parentElement;
+            const expanded = toggle.getAttribute("aria-expanded") === "true";
+            toggle.setAttribute("aria-expanded", !expanded);
+            parent.classList.toggle("open");
+
+            // Close other open dropdowns
+            document.querySelectorAll(".dropdown").forEach(dropdown => {
+                if (dropdown !== parent) {
+                    dropdown.classList.remove("open");
+                    const otherToggle = dropdown.querySelector(".dropdown-toggle");
+                    if (otherToggle) otherToggle.setAttribute("aria-expanded", "false");
+                }
+            });
+        });
+    });
+
+    document.addEventListener("click", (e) => {
+        if (!e.target.closest(".dropdown")) {
+            document.querySelectorAll(".dropdown.open").forEach(dropdown => {
+                dropdown.classList.remove("open");
+                const toggle = dropdown.querySelector(".dropdown-toggle");
+                if (toggle) toggle.setAttribute("aria-expanded", "false");
+            });
+        }
+    });
+
     // Language switcher
     langBtns.forEach(btn => {
         btn.addEventListener("click", (e) => {
@@ -80,7 +112,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // Accordions
         const accordions = appContainer.querySelectorAll('.accordion-header');
         accordions.forEach(acc => {
-            acc.addEventListener('click', function() {
+            acc.addEventListener('click', function () {
                 const parent = this.parentElement;
                 parent.classList.toggle('active');
                 const content = this.nextElementSibling;
@@ -98,24 +130,24 @@ document.addEventListener("DOMContentLoaded", () => {
             searchInput.addEventListener('input', (e) => {
                 const term = e.target.value.toLowerCase().trim();
                 const displayArea = document.getElementById('search-results');
-                
+
                 if (term.length < 3) {
                     displayArea.innerHTML = '';
                     return;
                 }
-                
+
                 const langData = window.siteContent[currentLang].articles;
                 const filterAudience = document.getElementById('search-filter-audience') ? document.getElementById('search-filter-audience').value : '';
-                
+
                 const results = Object.keys(langData).filter(key => {
                     const article = langData[key];
-                    
-                    const termMatch = (article.title && article.title.toLowerCase().includes(term)) || 
-                                      (article.keywords && article.keywords.toLowerCase().includes(term)) ||
-                                      (article.description && article.description.toLowerCase().includes(term));
-                    
+
+                    const termMatch = (article.title && article.title.toLowerCase().includes(term)) ||
+                        (article.keywords && article.keywords.toLowerCase().includes(term)) ||
+                        (article.description && article.description.toLowerCase().includes(term));
+
                     const audienceMatch = filterAudience === '' || article.audience === filterAudience;
-                    
+
                     return termMatch && audienceMatch;
                 }).map(key => ({ id: key, ...langData[key] }));
 
@@ -147,7 +179,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!container) return;
 
         const langData = window.siteContent[currentLang].articles;
-        
+
         // Find all articles that belong to this hub
         const hubArticles = Object.keys(langData).filter(key => langData[key].hub === hubKey).map(key => ({ id: key, ...langData[key] }));
 
@@ -175,7 +207,7 @@ document.addEventListener("DOMContentLoaded", () => {
     function renderRoute() {
         let hash = window.location.hash.substring(1) || "/";
         const langData = window.siteContent[currentLang];
-        
+
         let isArticle = false;
         let pageData;
         let routeKey = hash;
@@ -205,14 +237,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Apply transition effects
         appContainer.classList.add("page-transitioning");
-        
+
         setTimeout(() => {
             if (isArticle) {
                 // Wrap article in editorial components
                 const readingTime = pageData.readingTime || Math.max(1, Math.ceil(pageData.content.split(' ').length / 200));
-                progressBarContainer.style.display = "none";
+                progressBarContainer.style.display = "block";
                 readingProgressBar.style.width = "0%";
-                
+
                 appContainer.innerHTML = `
                     <div class="article-layout fade-in-up">
                         <main>
@@ -260,7 +292,7 @@ document.addEventListener("DOMContentLoaded", () => {
             } else {
                 progressBarContainer.style.display = "none";
                 appContainer.innerHTML = `<div class="fade-in-up">${pageData.content}</div>`;
-                
+
                 // If it's a category page, trigger injection
                 if (pageData.isCategoryHub) {
                     // routeKey matches exactly the hub property in articles (e.g. "tramites")
@@ -270,8 +302,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
             // Update Meta & Title
             document.title = pageData.title + (langData.global && langData.global.titleSuffix ? langData.global.titleSuffix : ' | Españoles en Suiza');
-            if(document.getElementById("meta-description")) document.getElementById("meta-description").setAttribute("content", pageData.description || "");
-            if(document.getElementById("meta-keywords")) document.getElementById("meta-keywords").setAttribute("content", pageData.keywords || "");
+            if (document.getElementById("meta-description")) document.getElementById("meta-description").setAttribute("content", pageData.description || "");
+            if (document.getElementById("meta-keywords")) document.getElementById("meta-keywords").setAttribute("content", pageData.keywords || "");
 
             // Set active Nav link based on Route Key
             navLinks.forEach(link => {
@@ -287,14 +319,59 @@ document.addEventListener("DOMContentLoaded", () => {
             });
 
             initializeComponents();
-            
+
             // Re-bind contact form if exists (prevent default submit behavior)
             const form = document.getElementById("contact-form");
             if (form) {
-                form.addEventListener("submit", (e) => {
+                form.addEventListener("submit", async (e) => {
                     e.preventDefault();
-                    alert("Mensaje enviado correctamente al equipo editorial.");
-                    form.reset();
+                    const status = document.getElementById("form-status");
+                    const submitBtn = form.querySelector('button[type="submit"]');
+                    const originalBtnText = submitBtn.textContent;
+
+                    submitBtn.textContent = "Enviando...";
+                    submitBtn.disabled = true;
+                    status.style.display = "none";
+                    status.className = "";
+
+                    try {
+                        const response = await fetch("https://formspree.io/f/mlgpjykp", {
+                            method: "POST",
+                            body: new FormData(form),
+                            headers: {
+                                'Accept': 'application/json'
+                            }
+                        });
+
+                        if (response.ok) {
+                            status.textContent = "¡Gracias! Tu mensaje ha sido enviado correctamente.";
+                            status.style.display = "block";
+                            status.style.backgroundColor = "rgba(40, 167, 69, 0.1)";
+                            status.style.borderLeft = "4px solid #28a745";
+                            status.style.color = "var(--text-primary)";
+                            form.reset();
+                        } else {
+                            const data = await response.json();
+                            if (Object.hasOwn(data, 'errors')) {
+                                status.textContent = data["errors"].map(error => error["message"]).join(", ");
+                            } else {
+                                status.textContent = "Oops! Hubo un problema al enviar tu mensaje.";
+                            }
+                            status.style.display = "block";
+                            status.style.backgroundColor = "rgba(213, 43, 30, 0.05)";
+                            status.style.borderLeft = "4px solid var(--swiss-red)";
+                            status.style.color = "var(--text-primary)";
+                        }
+                    } catch (error) {
+                        status.textContent = "Oops! Hubo un problema de conexión al enviar tu mensaje.";
+                        status.style.display = "block";
+                        status.style.backgroundColor = "rgba(213, 43, 30, 0.05)";
+                        status.style.borderLeft = "4px solid var(--swiss-red)";
+                        status.style.color = "var(--text-primary)";
+                    } finally {
+                        submitBtn.textContent = originalBtnText;
+                        submitBtn.disabled = false;
+                    }
                 });
             }
 

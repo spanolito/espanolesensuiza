@@ -25,12 +25,12 @@ const metadataMap = {
 
 for (const [key, meta] of Object.entries(metadataMap)) {
     // We target the keywords line to inject right after it
-    const regex = new RegExp(\`("\\\$\{key\}": \\{[^:]+:[^:]+:[^:]+:[^:]+keywords: "[^"]+",)\`);
-    content = content.replace(regex, \`$1\\n        \$\{meta\}\`);
+    const regex = new RegExp(`("${key}": \\{[^:]+:[^:]+:[^:]+:[^:]+keywords: "[^"]+",)`);
+    content = content.replace(regex, `$1\n        ${meta}`);
 }
 
 // Since article 5 has key articulo-impuestos (metadataMap has typo articulo-impostos)
-content = content.replace(/("articulo-impuestos": \{[^:]+:[^:]+:[^:]+:[^:]+keywords: "[^"]+",)/, \`$1\\n        category: 'Impuestos',\\n        hub: 'hub-impuestos',\\n        readingTime: 5,\\n        summary: 'En Suiza pagas impuestos a 3 niveles. El cantonal y comunal suponen la mayor carga y varían drásticamente incluso cruzando la calle.',\`);
+content = content.replace(/("articulo-impuestos": \{[^:]+:[^:]+:[^:]+:[^:]+keywords: "[^"]+",)/, `$1\n        category: 'Impuestos',\n        hub: 'hub-impuestos',\n        readingTime: 5,\n        summary: 'En Suiza pagas impuestos a 3 niveles. El cantonal y comunal suponen la mayor carga y varían drásticamente incluso cruzando la calle.',`);
 
 
 fs.writeFileSync(file, content);

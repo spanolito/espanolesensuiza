@@ -354,17 +354,19 @@ window.siteContent.es.pages = {
 
             <div style="max-width: 500px;">
                 <form id="contact-form">
+                    <input type="text" name="_gotcha" style="display:none" />
+                    <div id="form-status" style="margin-bottom: 1rem; padding: 1rem; border-radius: var(--radius-sm); font-weight: 500; display: none;"></div>
                     <div class="form-group">
                         <label class="form-label" for="name">Nombre</label>
-                        <input type="text" id="name" class="form-control" required>
+                        <input type="text" id="name" name="name" class="form-control" required>
                     </div>
                     <div class="form-group">
                         <label class="form-label" for="email">E-mail</label>
-                        <input type="email" id="email" class="form-control" required>
+                        <input type="email" id="email" name="email" class="form-control" required>
                     </div>
                     <div class="form-group">
                         <label class="form-label" for="message">Mensaje / Corrección de guía</label>
-                        <textarea id="message" rows="5" class="form-control" required></textarea>
+                        <textarea id="message" name="message" rows="5" class="form-control" required></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary">Enviar mensaje a edición</button>
                 </form>
