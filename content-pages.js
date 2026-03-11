@@ -43,7 +43,7 @@ window.siteContent.es.pages = {
             </section>
 
             <!-- Quick Start Cards -->
-            <section style="margin-top: var(--space-xl);">
+            <section class="animate-fade-up delay-100" style="margin-top: var(--space-xl);">
                 <h2 style="border-bottom:none; margin-bottom: 0;">${ui['home-title-start']}</h2>
                 <p style="font-size: 1.125rem; margin-bottom: 2rem;">${ui['home-desc-start']}</p>
                 <div class="quick-start-grid">
@@ -76,7 +76,7 @@ window.siteContent.es.pages = {
             </section>
 
             <!-- Main Topic Hubs -->
-            <section style="margin-top: var(--space-xl);">
+            <section class="animate-fade-up delay-200" style="margin-top: var(--space-xl); padding: var(--space-lg) 0; position: relative;">
                 <h2>${ui['home-title-hubs']}</h2>
                 <div class="topic-hub-grid">
                     <div class="card-hub">
@@ -118,8 +118,8 @@ window.siteContent.es.pages = {
             </section>
 
             <!-- Featured / Most Read Articles -->
-            <section style="margin-top: var(--space-xl);">
-                <h2>${ui['home-title-featured']}</h2>
+            <section class="animate-fade-up delay-300" style="margin-top: var(--space-xl); padding: var(--space-xl) var(--space-md); background-color: var(--bg-surface); border-radius: var(--radius-lg); margin-left: calc(-1 * var(--space-md)); margin-right: calc(-1 * var(--space-md));">
+                <h2 style="border-bottom: none;">${ui['home-title-featured']}</h2>
                 <div class="featured-grid">
                     <a href="#/articulo/articulo-permisos" class="card-article">
                         <div class="card-meta">${ui['cat-tramites']}</div>
@@ -143,7 +143,7 @@ window.siteContent.es.pages = {
             </section>
 
             <!-- FAQ Accordion section -->
-            <section style="margin-top: var(--space-xl);">
+            <section class="animate-fade-up delay-100" style="margin-top: var(--space-xl);">
                 <h2>${ui['home-title-faq']}</h2>
                 <p>${ui['home-desc-faq']}</p>
                 <div class="accordion">
@@ -262,7 +262,7 @@ window.siteContent.es.pages = {
             </section>
 
             <!-- Community Section -->
-            <section class="community-section">
+            <section class="community-section animate-fade-up delay-200">
                 <div class="container">
                     <h2>${ui['community-title']}</h2>
                     <p style="max-width: 600px; margin: 0 auto; margin-bottom: 2rem;">${ui['community-desc']}</p>
@@ -276,7 +276,7 @@ window.siteContent.es.pages = {
             </section>
 
             <!-- Official Sources Section -->
-            <section style="margin: var(--space-xl) 0; text-align: center; border-top: 1px solid var(--border-light); padding-top: var(--space-xl);">
+            <section class="animate-fade-up delay-300" style="margin: var(--space-xl) 0; text-align: center; border-top: 1px solid var(--border-light); padding-top: var(--space-xl);">
                 <h2 style="border: none; margin-bottom: 0.5rem;">${ui['official-title']}</h2>
                 <p style="max-width: 600px; margin: 0 auto 2rem;">${ui['official-desc']}</p>
                 <div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;">
@@ -306,7 +306,7 @@ window.siteContent.es.pages = {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             return `
-            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
                     <span>${ui['cat-tramites']}</span>
@@ -331,7 +331,7 @@ window.siteContent.es.pages = {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             return `
-            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
                     <span>${ui['cat-trabajo']}</span>
@@ -354,7 +354,7 @@ window.siteContent.es.pages = {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             return `
-            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
                     <span>${ui['cat-vivienda']}</span>
@@ -377,7 +377,7 @@ window.siteContent.es.pages = {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             return `
-            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
                     <span>${ui['cat-vivir']}</span>
@@ -404,7 +404,7 @@ window.siteContent.es.pages = {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             return `
-            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
                     <span>${ui['cat-salud']}</span>
@@ -432,7 +432,7 @@ window.siteContent.es.pages = {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             return `
-            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
                     <span>${ui['cat-impuestos']}</span>
@@ -459,7 +459,7 @@ window.siteContent.es.pages = {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             return `
-            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
                     <span>${ui['cat-fronterizos']}</span>
@@ -482,7 +482,7 @@ window.siteContent.es.pages = {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             return `
-            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
                     <span>${ui['rec-title']}</span>
@@ -523,7 +523,7 @@ window.siteContent.es.pages = {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             return `
-            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
                     <span>${ui['com-nav']}</span>
@@ -555,7 +555,7 @@ window.siteContent.es.pages = {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             return `
-            <div class="page-header" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
                     <span>${ui['cont-title']}</span>
@@ -564,27 +564,27 @@ window.siteContent.es.pages = {
                 <p style="font-size: 1.25rem; max-width: 800px;">${ui['cont-desc']}</p>
             </div>
 
-            <section class="article-layout" style="padding:0; margin-top:2rem;">
-                <div style="background: var(--bg-surface); padding: 2rem; border-radius: var(--radius-md); max-width: 600px; margin: 0 auto;">
+            <section class="article-layout animate-fade-up delay-100" style="padding:0; margin-top:2rem;">
+                <div style="background: var(--bg-surface); padding: var(--space-md); border-radius: var(--radius-md); max-width: 700px; margin: 0 auto; width: 100%;">
                     <form id="contact-form" action="https://formspree.io/f/mqkenawv" method="POST">
-                        <div style="margin-bottom: 1.5rem;">
-                            <label for="name" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">${ui['cont-lbl-name']}</label>
-                            <input type="text" id="name" name="name" required style="width: 100%; padding: 0.75rem; border: 1px solid var(--border-light); border-radius: var(--radius-sm); font-family: inherit;">
+                        <div class="form-group">
+                            <label for="name" class="form-label">${ui['cont-lbl-name']}</label>
+                            <input type="text" id="name" name="name" class="form-control" required>
                         </div>
-                        <div style="margin-bottom: 1.5rem;">
-                            <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">${ui['cont-lbl-email']}</label>
-                            <input type="email" id="email" name="_replyto" required style="width: 100%; padding: 0.75rem; border: 1px solid var(--border-light); border-radius: var(--radius-sm); font-family: inherit;">
+                        <div class="form-group">
+                            <label for="email" class="form-label">${ui['cont-lbl-email']}</label>
+                            <input type="email" id="email" name="_replyto" class="form-control" required>
                         </div>
-                        <div style="margin-bottom: 1.5rem;">
-                            <label for="message" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">${ui['cont-lbl-msg']}</label>
-                            <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 0.75rem; border: 1px solid var(--border-light); border-radius: var(--radius-sm); font-family: inherit; resize: vertical;"></textarea>
+                        <div class="form-group">
+                            <label for="message" class="form-label">${ui['cont-lbl-msg']}</label>
+                            <textarea id="message" name="message" class="form-control" required></textarea>
                         </div>
                         <!-- Honeypot -->
                         <input type="text" name="_gotcha" style="display:none">
                         <!-- Redirect -->
-                        <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center;">${ui['cont-btn']}</button>
+                        <button type="submit" class="btn btn-primary btn-form">${ui['cont-btn']}</button>
                     </form>
-                    <div id="form-status" style="margin-top: 1rem; text-align: center; font-weight: 500;"></div>
+                    <div id="form-status" style="margin-top: 1.5rem; text-align: center; font-weight: 500; font-size: 1.125rem;"></div>
                 </div>
             </section>
             

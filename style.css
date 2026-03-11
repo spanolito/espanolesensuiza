@@ -936,30 +936,49 @@ strong, b {
 
 /* Form Styles */
 .form-group {
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
 }
 
 .form-label {
     display: block;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
     font-weight: 600;
+    font-size: 1.05rem;
 }
 
 .form-control {
     width: 100%;
-    padding: 0.875rem 1rem;
+    padding: 1.25rem 1.5rem;
     border: 1px solid var(--border-medium);
-    border-radius: var(--radius-sm);
+    border-radius: var(--radius-md);
     font-family: inherit;
-    font-size: 1rem;
-    transition: border-color var(--transition-fast);
+    font-size: 1.125rem;
+    transition: all var(--transition-fast);
     background: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02) inset;
 }
 
 .form-control:focus {
     outline: none;
     border-color: var(--text-primary);
-    box-shadow: 0 0 0 3px rgba(17, 17, 17, 0.1);
+    box-shadow: 0 0 0 4px rgba(17, 17, 17, 0.1);
+}
+
+textarea.form-control {
+    min-height: 200px;
+    resize: vertical;
+}
+
+.btn-form {
+    padding: 1.25rem 2.5rem;
+    font-size: 1.125rem;
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .btn-form {
+        width: auto;
+    }
 }
 
 /* Footer (Editorial) */
@@ -1131,384 +1150,66 @@ strong, b {
     box-shadow: 0 0 0 4px rgba(213, 43, 30, 0.1);
 }
 
-/* ---------------------------------------------------
-   STEP 2 - Visual density, section rhythm, soft motion
---------------------------------------------------- */
-
-/* Softer page rhythm */
-.main-content section {
-    position: relative;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-
-/* Alternate section feeling without making it busy */
-.main-content section:nth-of-type(even) {
-    background: linear-gradient(to bottom, rgba(248, 249, 250, 0.55), rgba(248, 249, 250, 0.55));
-    border-radius: var(--radius-lg);
-    padding: 2.5rem 2rem;
-}
-
-@media (max-width: 768px) {
-    .main-content section:nth-of-type(even) {
-        padding: 1.75rem 1rem;
-    }
-}
-
-/* Improve hero balance */
-.hero-section {
-    position: relative;
-    padding-top: 5rem;
-    padding-bottom: 4rem;
-}
-
-.hero-section::after {
-    content: "";
-    position: absolute;
-    inset: auto 50% -10px 50%;
-    transform: translateX(-50%);
-    width: 120px;
-    height: 3px;
-    background: linear-gradient(90deg, transparent, var(--swiss-red), transparent);
-    border-radius: 999px;
-    opacity: 0.7;
-}
-
-.hero-section h1 {
-    max-width: 900px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.hero-subtitle {
-    max-width: 760px;
-}
-
-/* Slightly richer section headers */
-.main-content section > h2 {
-    position: relative;
-    display: inline-block;
-    padding-bottom: 0.35rem;
-    margin-bottom: 0.75rem;
-    border-bottom: none;
-}
-
-.main-content section > h2::after {
-    content: "";
-    display: block;
-    width: 56px;
-    height: 3px;
-    margin-top: 0.5rem;
-    background: var(--swiss-red);
-    border-radius: 999px;
-    opacity: 0.9;
-}
-
-/* Better vertical rhythm for intro texts under section titles */
-.main-content section > p {
-    max-width: 780px;
-    color: var(--text-secondary);
-}
-
-/* Card polish */
-.card-icon,
-.card-hub,
-.card-article {
-    will-change: transform, box-shadow, border-color;
-}
-
-.card-icon:hover,
-.card-hub:hover,
-.card-article:hover {
-    transform: translateY(-4px);
-}
-
-/* Make card interiors feel less empty */
-.card-hub,
-.card-article {
-    min-height: 220px;
-}
-
-.card-icon {
-    min-height: 180px;
-    justify-content: center;
-}
-
-/* Refine article cards */
-.card-article {
-    position: relative;
-    overflow: hidden;
-}
-
-.card-article::before {
-    content: "";
-    position: absolute;
-    inset: 0 auto 0 0;
-    width: 3px;
-    background: var(--swiss-red);
+/* Animation System */
+.animate-fade-up {
     opacity: 0;
-    transition: opacity var(--transition-smooth);
+    transform: translateY(30px);
+    transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: opacity, transform;
 }
 
-.card-article:hover::before {
-    opacity: 1;
-}
-.card {
-    transition: transform 0.25s ease, box-shadow 0.25s ease;
-}
-
-.card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-}
-
-/* Better topic cards */
-.card-hub h3 {
-    line-height: 1.25;
-}
-
-.card-hub p,
-.card-article p {
-    color: var(--text-secondary);
-}
-
-/* Search area more substantial */
-.search-container {
-    margin-top: 2rem;
-    margin-bottom: 2.5rem;
-}
-
-.search-input {
-    background: white;
-    border: 1px solid var(--border-light);
-}
-
-/* Elegant mark highlight for search */
-mark {
-    background: var(--swiss-red-light);
-    color: var(--text-primary);
-    padding: 0 0.15em;
-    border-radius: 2px;
-}
-
-/* Community section refinement */
-.community-section {
-    box-shadow: var(--shadow-md);
-    overflow: hidden;
-}
-
-.community-section .container {
-    position: relative;
-}
-
-.community-section .container::before {
-    content: "";
-    position: absolute;
-    top: -20px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 90px;
-    height: 3px;
-    background: rgba(255,255,255,0.75);
-    border-radius: 999px;
-}
-
-/* Softer FAQ block feel */
-.accordion {
-    margin-top: 2rem;
-    background: white;
-    border: 1px solid var(--border-light);
-    border-radius: var(--radius-md);
-    padding: 0 1.25rem;
-}
-
-.accordion-item:first-child {
-    border-top: none;
-}
-
-.accordion-header {
-    font-size: 1.05rem;
-}
-
-/* Better footer density */
-.site-footer {
-    margin-top: 5rem;
-}
-
-/* -----------------------------
-   Soft reveal animations
------------------------------- */
-.reveal-on-scroll {
+.animate-fade-in {
     opacity: 0;
-    transform: translateY(22px);
-    transition:
-        opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1),
-        transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+    transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: opacity;
 }
 
-.reveal-on-scroll.is-visible {
+.is-visible {
     opacity: 1;
     transform: translateY(0);
 }
 
-/* Slight stagger support */
-.reveal-delay-1 { transition-delay: 0.06s; }
-.reveal-delay-2 { transition-delay: 0.12s; }
-.reveal-delay-3 { transition-delay: 0.18s; }
-.reveal-delay-4 { transition-delay: 0.24s; }
+/* Delay modifiers */
+.delay-100 { transition-delay: 100ms; }
+.delay-200 { transition-delay: 200ms; }
+.delay-300 { transition-delay: 300ms; }
+.delay-400 { transition-delay: 400ms; }
+.delay-500 { transition-delay: 500ms; }
 
-/* Back to top button (prepared for step 3 if needed) */
+/* Go to Top Button */
 .back-to-top {
     position: fixed;
-    right: 20px;
-    bottom: 24px;
-    width: 44px;
-    height: 44px;
-    border: none;
-    border-radius: 999px;
-    background: var(--text-primary);
+    bottom: 30px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    background-color: var(--text-primary);
     color: white;
-    box-shadow: var(--shadow-md);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     cursor: pointer;
     opacity: 0;
-    visibility: hidden;
-    transform: translateY(10px);
-    transition: all var(--transition-smooth);
-    z-index: 999;
+    transform: translateY(20px);
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    z-index: 1000;
+    box-shadow: var(--shadow-md);
+    border: none;
 }
 
 .back-to-top.visible {
     opacity: 1;
-    visibility: visible;
     transform: translateY(0);
 }
 
 .back-to-top:hover {
-    background: var(--swiss-red);
-    transform: translateY(-2px);
+    background-color: var(--swiss-red);
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-hover);
 }
 
-/* Improve dropdown visual feel */
-.dropdown {
-    position: relative;
-}
-
-.dropdown-menu {
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(10px);
-    transition:
-        opacity var(--transition-smooth),
-        transform var(--transition-smooth),
-        visibility var(--transition-smooth);
-    background: white;
-    border: 1px solid var(--border-light);
-    box-shadow: var(--shadow-md);
-    border-radius: var(--radius-sm);
-    padding: 0.5rem 0;
-    min-width: 220px;
-    z-index: 1001;
-}
-
-.dropdown.open .dropdown-menu {
-    opacity: 1;
-    visibility: visible;
-    transform: translateY(0);
-}
-
-.dropdown-menu li {
-    list-style: none;
-    margin: 0;
-}
-
-.dropdown-menu a {
-    display: block;
-    padding: 0.7rem 1rem;
-    font-size: 0.95rem;
-    color: var(--text-secondary);
-}
-
-.dropdown-menu a:hover {
-    background: var(--bg-surface);
-    color: var(--text-primary);
-}
-
-/* Mobile spacing refinements */
-@media (max-width: 768px) {
-    .hero-section {
-        padding-top: 3.5rem;
-        padding-bottom: 2.5rem;
-    }
-
-    .featured-grid,
-    .topic-hub-grid,
-    .quick-start-grid {
-        gap: 1rem;
-    }
-
-    .card-hub,
-    .card-article,
-    .card-icon {
-        min-height: unset;
-    }
-
-    .main-content section > h2::after {
-        width: 44px;
-    }
-}
-
-/* STEP 4 - Header logo refinement */
-
-.logo-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    color: var(--text-primary);
-}
-
-.logo-title {
-    display: inline-block;
-    line-height: 1;
-    white-space: nowrap;
-    font-weight: 700;
-    letter-spacing: -0.02em;
-}
-
-.logo-link svg {
-    flex-shrink: 0;
-    display: block;
-}
-
-.flag-ch {
-    width: 20px;
-    height: 20px;
-    border-radius: 2px;
-    box-shadow: 0 0 0 1px rgba(0,0,0,0.06);
-}
-
-.flag-es {
-    width: 20px;
-    height: 14px;
-    border-radius: 2px;
-    box-shadow: 0 0 0 1px rgba(0,0,0,0.06);
-}
-
-@media (max-width: 768px) {
-    .logo-link {
-        gap: 8px;
-    }
-
-    .logo-title {
-        font-size: 1rem;
-    }
-
-    .flag-ch {
-        width: 18px;
-        height: 18px;
-    }
-
-    .flag-es {
-        width: 18px;
-        height: 12px;
-    }
+.back-to-top svg {
+    width: 24px;
+    height: 24px;
 }

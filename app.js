@@ -19,43 +19,6 @@ document.addEventListener("DOMContentLoaded", () => {
     progressBarContainer.innerHTML = '<div class="reading-progress-bar" id="reading-progress-bar"></div>';
     document.querySelector('.site-header').appendChild(progressBarContainer);
     const readingProgressBar = document.getElementById("reading-progress-bar");
-        // Back to top button
-    const backToTopBtn = document.createElement("button");
-    backToTopBtn.className = "back-to-top";
-    backToTopBtn.setAttribute("aria-label", "Volver arriba");
-    backToTopBtn.innerHTML = "↑";
-    document.body.appendChild(backToTopBtn);
-
-    backToTopBtn.addEventListener("click", () => {
-        window.scrollTo({ top: 0, behavior: "smooth" });
-    });
-
-    // Reveal on scroll
-    function setupRevealOnScroll() {
-        const revealElements = appContainer.querySelectorAll(
-            "section, .card-icon, .card-hub, .card-article, .accordion, .article-layout, .page-header"
-        );
-
-        revealElements.forEach((el, index) => {
-            el.classList.add("reveal-on-scroll");
-            const delayClass = `reveal-delay-${(index % 4) + 1}`;
-            el.classList.add(delayClass);
-        });
-
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    entry.target.classList.add("is-visible");
-                    observer.unobserve(entry.target);
-                }
-            });
-        }, {
-            threshold: 0.08,
-            rootMargin: "0px 0px -40px 0px"
-        });
-
-        revealElements.forEach(el => observer.observe(el));
-    }
 
     // Set current year
     if (yearSpan) yearSpan.textContent = new Date().getFullYear();
@@ -699,11 +662,15 @@ document.addEventListener("DOMContentLoaded", () => {
             const scrollPercent = (window.scrollY / documentHeight) * 100;
             readingProgressBar.style.width = scrollPercent + "%";
         }
-    // Back to top visibility
-        if (window.scrollY > 450) {
-            backToTopBtn.classList.add("visible");
-        } else {
-            backToTopBtn.classList.remove("visible");
+        
+        // Back to top visibility
+        const backToTop = document.getElementById('back-to-top-btn');
+        if (backToTop) {
+            if (window.scrollY > 500) {
+                backToTop.classList.add('visible');
+            } else {
+                backToTop.classList.remove('visible');
+            }
         }
     });
 
@@ -857,6 +824,36 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
             });
         });
+
+        // Trigger animations on scroll
+        const observeElements = document.querySelectorAll('.animate-fade-up, .animate-fade-in');
+        if (observeElements.length > 0) {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, { threshold: 0.1, rootMargin: "0px 0px -50px 0px" });
+
+            observeElements.forEach(el => observer.observe(el));
+        }
+
+        // Back to top button logic
+        let backToTop = document.getElementById('back-to-top-btn');
+        if (!backToTop) {
+            backToTop = document.createElement('button');
+            backToTop.id = 'back-to-top-btn';
+            backToTop.className = 'back-to-top';
+            backToTop.setAttribute('aria-label', 'Volver arriba');
+            backToTop.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>';
+            document.body.appendChild(backToTop);
+
+            backToTop.addEventListener('click', () => {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+        }
 
         // Search Logic
         const searchInput = document.getElementById('global-search');
@@ -1087,7 +1084,6 @@ document.addEventListener("DOMContentLoaded", () => {
             });
 
             initializeComponents();
-            setupRevealOnScroll();
 
             // Re-bind contact form if exists (prevent default submit behavior)
             const form = document.getElementById("contact-form");
@@ -1145,8 +1141,8 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             appContainer.classList.remove("page-transitioning");
-            window.scrollTo({ top: 0, behavior: "smooth" });
-            
+            window.scrollTo(0, 0);
+
         }, 200); // match CSS transiton time
     }
 
