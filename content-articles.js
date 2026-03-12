@@ -16,10 +16,13 @@ window.siteContent.es.articles = {
         slug: "permisos-suiza",
         readingTime: 7,
         dateUpdated: "Marzo 2026",
+        featuredImage: "media/permiso-residencia-suiza.png",
+        imageAlt: "Oficina del Contrôle des habitants en Suiza: persona recibiendo su permiso de residencia",
         summary: "Existen tres permisos principales (L, B, C). Tu nacionalidad (UE vs Terceros Países) y duración del contrato dictan cuál recibes. Puedes trabajar antes de tener la tarjeta física.",
         content: `
             <div class="page-header">
                 <h1>Permisos de residencia en Suiza: permit L, B, C y sus diferencias</h1>
+                <img src="media/permiso-residencia-suiza.png" alt="Oficina del Contrôle des habitants en Suiza" class="article-featured-image" loading="lazy">
             </div>
             <div class="article-content">
                 <p>Mudarse a Suiza implica registrarse y obtener un título de residencia. Si procedes de un país de la UE/EFTA (incluyendo España), el proceso está facilitado por el Acuerdo de Libre Circulación de Personas (ALCP). Esto significa que llegar con un contrato de trabajo en mano es suficiente para iniciar el proceso.</p>
@@ -85,10 +88,13 @@ window.siteContent.es.articles = {
         hub: "tramites",
         slug: "registrarse-en-suiza",
         readingTime: 5,
+        featuredImage: "media/registro-comuna-suiza.png",
+        imageAlt: "Persona llegando al Rathaus (ayuntamiento) suizo para registrarse con su maleta",
         summary: "Debes registrarte en tu comuna obligatoriamente durante los primeros 14 días. Con el justificante ya puedes trabajar. Lleva pasaporte, foto y contrato de alquiler o trabajo.",
         content: `
             <div class="page-header">
                 <h1>Cómo registrarse cuando llegas a Suiza (inscripción en la comuna)</h1>
+                <img src="media/registro-comuna-suiza.png" alt="Persona llegando al ayuntamiento suizo para registrarse" class="article-featured-image" loading="lazy">
             </div>
             <div class="article-content">
                 <p>El primer trámite obligatorio al llegar a Suiza es el registro en la oficina de Control de Habitantes (<i>Contrôle des habitants / Einwohnerkontrolle</i>) de tu municipio. Sin este paso no existes legalmente en el país y no puedes empezar a trabajar ni abrir una cuenta bancaria.</p>
@@ -146,10 +152,13 @@ window.siteContent.es.articles = {
         slug: "tramites-llegada-suiza",
         readingTime: 7,
         dateUpdated: "Marzo 2026",
+        featuredImage: "media/tramites-llegada-suiza.png",
+        imageAlt: "Documentos suizos: permiso de residencia, tarjeta de seguro médico, llaves y checklist",
         summary: "Los primeros 30 días en Suiza son críticos. Hay trámites con plazos estrictos: registro en 14 días, seguro médico en 3 meses. Esta guía te dice qué hacer, cuándo y en qué orden.",
         content: `
             <div class="page-header">
                 <h1>Checklist de trámites al llegar a Suiza: el primer mes</h1>
+                <img src="media/tramites-llegada-suiza.png" alt="Documentos y checklist para los primeros trámites en Suiza" class="article-featured-image" loading="lazy">
             </div>
             <div class="article-content">
                 <p>Los primeros días en Suiza pueden ser abrumadores. Hay mucho que hacer, algunos trámites tienen plazos estrictos y hacerlos en el orden equivocado puede complicar todo. Esta lista te dice qué hacer primero.</p>
@@ -216,6 +225,8 @@ window.siteContent.es.articles = {
         slug: "trabajar-antes-permiso-fisico-suiza",
         readingTime: 3,
         dateUpdated: "Marzo 2026",
+        featuredImage: "media/permiso-residencia-suiza.png",
+        imageAlt: "Certificado provisional de residencia suiza entregado en el mostrador del Contrôle des habitants",
         summary: "Puedes empezar a trabajar desde el primer día tras registrarte en la comuna. El permiso físico puede tardar semanas, pero el comprobante de registro ya tiene validez legal.",
         content: `
             <div class="page-header">
@@ -262,10 +273,13 @@ window.siteContent.es.articles = {
         slug: "reagrupacion-familiar-suiza",
         readingTime: 5,
         dateUpdated: "Marzo 2026",
+        featuredImage: "media/reagrupacion-familiar-suiza.png",
+        imageAlt: "Familia feliz llegando a Suiza con maletas en una estación de tren con los Alpes de fondo",
         summary: "Si tienes Permiso B o C puedes traer a tu cónyuge e hijos menores de 18 años. Los familiares obtienen su propio permiso y tienen derecho a trabajar desde el primer día.",
         content: `
             <div class="page-header">
                 <h1>Reagrupación familiar en Suiza: cómo funciona y qué necesitas</h1>
+                <img src="media/reagrupacion-familiar-suiza.png" alt="Familia llegando a Suiza en tren con los Alpes de fondo" class="article-featured-image" loading="lazy">
             </div>
             <div class="article-content">
                 <p>Uno de los momentos más importantes en la vida de un emigrante es poder traer a su familia. En Suiza, el proceso de reagrupación familiar está bien regulado y es factible para ciudadanos de la UE, pero tiene sus propias reglas y plazos.</p>
@@ -330,11 +344,13 @@ window.siteContent.es.articles = {
         hub: "salud",
         slug: "seguro-medico-lamal-suiza",
         readingTime: 5,
+        featuredImage: "media/seguro-medico-lamal.png",
+        imageAlt: "Persona revisando su tarjeta de seguro médico suizo junto a documentos de la Krankenkasse",
         summary: "La LAMal es obligatoria y privada, no te cubre automáticamente el Estado. Tienes 3 meses para tramitarla, pagando atrasos desde el día 1.",
         content: `
             <div class="page-header">
                 <h1>Seguro de salud en Suiza (LAMal): cómo funciona</h1>
-            </div>
+                <img src="media/seguro-medico-lamal.png" alt="Persona revisando tarjeta de seguro médico suizo" class="article-featured-image" loading="lazy">
             <div class="article-content">
                 <p>A diferencia de España, en Suiza no existe un sistema de Seguridad Social que cubra directamente la atención sanitaria general. La salud es privada, pero regulada de forma obligatoria por la Ley Federal del Seguro de Enfermedad, conocida como <strong>LAMal</strong> (KVG en alemán).</p>
 
@@ -406,11 +422,13 @@ window.siteContent.es.articles = {
         hub: 'impuestos',
         slug: "impuestos-en-suiza",
         readingTime: 5,
+        featuredImage: "media/impuestos-suiza.png",
+        imageAlt: "Persona revisando documentación fiscal con mapa de cantones suizos al fondo",
         summary: 'En Suiza pagas impuestos a 3 niveles. El cantonal y comunal suponen la mayor carga y varían drásticamente incluso cruzando la calle.',
         content: `
             <div class="page-header">
                 <h1>Impuestos en Suiza: fiscalidad federal, cantonal y comunal</h1>
-            </div>
+                <img src="media/impuestos-suiza.png" alt="Revisión fiscal con mapa de Suiza y cantones" class="article-featured-image" loading="lazy">
             <div class="article-content">
                 <p>Suiza es un país federal, por lo cual cuenta con un sistema fiscal a tres niveles. A diferencia de muchos países donde se recauda a nivel nacional y luego se distribuye, en Suiza los ciudadanos tributan en tres esferas diferentes.</p>
 
@@ -540,12 +558,13 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "contratos-de-trabajo-suiza",
         readingTime: 4,
-        summary: 'El mercado laboral suizo es muy liberal. El despido es libre (respetando los plazos de preaviso) y las vacaciones mínimas son 4 semanas semanales.',
-        summary: 'El mercado laboral suizo es muy liberal. El despido es libre (respetando los plazos de preaviso) y las vacaciones mínimas son 4 semanas semanales.',
+        featuredImage: "media/contrato-trabajo-suiza.png",
+        imageAlt: "Dos personas firmándose el contrato de trabajo en una oficina moderna con vistas a Zúrich",
+        summary: 'El mercado laboral suizo es muy liberal. El despido es libre (respetando los plazos de preaviso) y las vacaciones mínimas son 4 semanas.',
         content: `
             <div class="page-header">
                 <h1>Contratos de trabajo en Suiza: derechos y obligaciones</h1>
-            </div>
+                <img src="media/contrato-trabajo-suiza.png" alt="Firma de contrato de trabajo en Suiza" class="article-featured-image" loading="lazy">
             <div class="article-content">
                 <p>El mercado laboral suizo es muy flexible y las condiciones se rigen fundamentalmente por el Código de Obligaciones (CO) y los Convenios Colectivos de Trabajo (CCT).</p>
 
@@ -609,12 +628,13 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "buscar-empleo-suiza",
         readingTime: 4,
-        summary: 'El CV al estilo suizo debe incluir foto, fecha de nacimiento y estado civil. Las plataformas más usadas son Jobup, Jobs.ch y LinkedIn.',
+        featuredImage: "media/buscar-empleo-suiza.png",
+        imageAlt: "Persona buscando trabajo en Suiza en un café con vistas a Zúrich repasando su CV",
         summary: 'El CV al estilo suizo debe incluir foto, fecha de nacimiento y estado civil. Las plataformas más usadas son Jobup, Jobs.ch y LinkedIn.',
         content: `
             <div class="page-header">
                 <h1>Cómo buscar empleo en Suiza</h1>
-            </div>
+                <img src="media/buscar-empleo-suiza.png" alt="Persona buscando empleo en Suiza revisando su CV" class="article-featured-image" loading="lazy">
             <div class="article-content">
                 <p>Suiza tiene un mercado laboral dinámico, impulsado no sólo por grandes farmacéuticas, bancos y relojería, sino también por miles de pymes.</p>
 
@@ -648,12 +668,13 @@ window.siteContent.es.articles = {
         hub: 'vivienda',
         slug: "alquilar-vivienda-suiza",
         readingTime: 5,
-        summary: 'El mercado de alquiler es muy competitivo. Necesitas un dosier impecable: extracto de no deudas (poursuites), contrato y 3 últimas nóminas.',
+        featuredImage: "media/alquiler-vivienda-suiza.png",
+        imageAlt: "Persona recibiendo las llaves de su apartamento de manos de un agente inmobiliario en Suiza",
         summary: 'El mercado de alquiler es muy competitivo. Necesitas un dosier impecable: extracto de no deudas (poursuites), contrato y 3 últimas nóminas.',
         content: `
             <div class="page-header">
                 <h1>Cómo alquilar un piso en Suiza</h1>
-            </div>
+                <img src="media/alquiler-vivienda-suiza.png" alt="Persona recibiendo las llaves del apartamento de un agente inmobiliario suizo" class="article-featured-image" loading="lazy">
             <div class="article-content">
                 <p>Buscar alojamiento en ciudades como Zúrich, Ginebra o Lausana es notoriamente difícil por la falta de vivienda y la altísima demanda. Ser rápido y tener un dosier completo es esencial.</p>
 
