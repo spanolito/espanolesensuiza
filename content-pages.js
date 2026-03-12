@@ -22,10 +22,10 @@ window.siteContent.es.pages = {
             return `
             <!-- SECCIÓN 1: Hero -->
             <section class="hero-section" style="padding: 0; margin-bottom: var(--space-xl);">
-                <h1 class="sr-only">Españoles en Suiza: Guía práctica para vivir y trabajar</h1>
-                <p class="sr-only">Información clara, oficial y estructurada sobre permisos, trabajo, vivienda, seguros y vida diaria en la Confederación Helvética.</p>
+                <h1 class="sr-only">${ui['home-sr-title']}</h1>
+                <p class="sr-only">${ui['home-sr-desc']}</p>
                 <div style="width: 100%; max-width: 1000px; margin: 0 auto; line-height: 0;">
-                    <img src="media/banner.jpg" alt="Españoles que realmente se ayudan en Suiza." style="width: 100%; height: auto; display: block; filter: contrast(1.05);">
+                    <img src="media/banner.jpg" alt="${ui['home-banner-alt']}" style="width: 100%; height: auto; display: block; filter: contrast(1.05);">
                 </div>
                 <div class="search-container" style="margin-top: -30px;">
                     <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
@@ -36,7 +36,7 @@ window.siteContent.es.pages = {
                     <a href="#/tramites" class="btn btn-primary">${ui['cat-tramites']}</a>
                     <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" rel="noopener noreferrer" class="btn" style="background:#1877F2; color:white; display:inline-flex; align-items:center; gap:8px;">
                         <svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
-                        Solicitar acceso al grupo
+                        ${ui['home-hero-group-cta']}
                     </a>
                 </div>
             </section>
@@ -69,7 +69,7 @@ window.siteContent.es.pages = {
                     <a href="#/impuesto-fuente-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
                         <h3>${ui['cat-impuestos']}</h3>
-                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">Quellensteuer</span>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['home-tax-topic-label']}</span>
                     </a>
                 </div>
             </section>
@@ -101,17 +101,17 @@ window.siteContent.es.pages = {
                     </a>
                     <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">${ui['fuente-label-consulado']} · GE · VD · VS · NE · FR · JU</div>
-                        <h3>Consulado de Ginebra</h3>
+                        <h3>${ui['home-consulate-geneva']}</h3>
                         <p>85 Rue de Lausanne, 1202 Ginebra · +41 22 731 25 30</p>
                     </a>
                     <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">${ui['fuente-label-consulado']} · BE · SO · FR · VS</div>
-                        <h3>Consulado de Berna</h3>
+                        <h3>${ui['home-consulate-bern']}</h3>
                         <p>Kalcheggweg 24, 3006 Berna · +41 31 352 04 12</p>
                     </a>
                     <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">${ui['fuente-label-consulado']} · ZH · BS · LU · AG · TI ···</div>
-                        <h3>Consulado de Zúrich</h3>
+                        <h3>${ui['home-consulate-zurich']}</h3>
                         <p>Tödistrasse 60, 8002 Zúrich · +41 44 202 89 89</p>
                     </a>
                 </div>
@@ -312,8 +312,8 @@ window.siteContent.es.pages = {
                 <p style="font-size: 1.25rem; max-width: 800px;">${ui['cat-desc-salud']}</p>
                 
                 <div class="callout info" style="margin-top: 1.5rem; padding: 1rem; background: var(--bg-surface); border-left: 3px solid var(--text-secondary);">
-                    <strong>Enlaces Oficiales Útiles:</strong> 
-                    <a href="https://www.priminfo.admin.ch" target="_blank" style="margin-left:8px;text-decoration:underline;">Priminfo (Calculadora Oficial de Primas)</a>
+                    <strong>${ui['home-health-official-links']}</strong> 
+                    <a href="https://www.priminfo.admin.ch" target="_blank" style="margin-left:8px;text-decoration:underline;">${ui['home-health-priminfo-label']}</a>
                 </div>
             </div>
             
@@ -342,7 +342,7 @@ window.siteContent.es.pages = {
                 <p style="font-size: 1.25rem; max-width: 800px;">${ui['cat-desc-impuestos']}</p>
                 
                 <div class="callout info" style="margin-top: 1.5rem; padding: 1rem; background: var(--bg-surface); border-left: 3px solid var(--text-secondary);">
-                    <strong>Aviso Cantonal:</strong> Las tasas impositivas varían radicalmente no solo de un cantón a otro, sino de un municipio (comuna) a otro, separados por apenas unos kilómetros.
+                    <strong>${ui['home-tax-cantonal-warning-title']}</strong> ${ui['home-tax-cantonal-warning-body']}
                 </div>
             </div>
             

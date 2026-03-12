@@ -709,6 +709,110 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
+    const uiOverrides = {
+        es: {
+            "home-sr-title": "Espanoles en Suiza: guia practica para vivir y trabajar",
+            "home-sr-desc": "Informacion clara, oficial y estructurada sobre permisos, trabajo, vivienda, seguros y vida diaria en Suiza.",
+            "home-banner-alt": "Espanoles en Suiza que realmente se ayudan",
+            "home-hero-group-cta": "Solicitar acceso a la comunidad",
+            "home-tax-topic-label": "Quellensteuer",
+            "home-consulate-geneva": "Consulado de Ginebra",
+            "home-consulate-bern": "Consulado de Berna",
+            "home-consulate-zurich": "Consulado de Zúrich",
+            "home-health-official-links": "Enlaces oficiales útiles:",
+            "home-health-priminfo-label": "Priminfo (calculadora oficial de primas)",
+            "home-tax-cantonal-warning-title": "Aviso cantonal:",
+            "home-tax-cantonal-warning-body": "Las tasas impositivas varían radicalmente no solo de un cantón a otro, sino de un municipio (comuna) a otro, separados por apenas unos kilómetros.",
+            "lbl-guide": "Guía",
+            "lbl-guides": "Guías",
+            "lbl-section": "la sección",
+            "lbl-back-top-aria": "Volver arriba",
+            "cont-sending": "Enviando..."
+        },
+        en: {
+            "home-sr-title": "Spaniards in Switzerland: practical guide to live and work",
+            "home-sr-desc": "Clear, official and structured information on permits, work, housing, insurance and daily life in Switzerland.",
+            "home-banner-alt": "Spaniards in Switzerland who really help each other",
+            "home-hero-group-cta": "Request access to the community",
+            "home-tax-topic-label": "Withholding tax",
+            "home-consulate-geneva": "Geneva Consulate",
+            "home-consulate-bern": "Bern Consulate",
+            "home-consulate-zurich": "Zurich Consulate",
+            "home-health-official-links": "Useful official links:",
+            "home-health-priminfo-label": "Priminfo (official premium calculator)",
+            "home-tax-cantonal-warning-title": "Cantonal notice:",
+            "home-tax-cantonal-warning-body": "Tax rates vary sharply not only between cantons, but also between municipalities (communes) just a few kilometers apart.",
+            "lbl-guide": "Guide",
+            "lbl-guides": "Guides",
+            "lbl-section": "the section",
+            "lbl-back-top-aria": "Back to top",
+            "cont-sending": "Sending..."
+        },
+        fr: {
+            "home-sr-title": "Espagnols en Suisse : guide pratique pour vivre et travailler",
+            "home-sr-desc": "Informations claires, officielles et structurees sur les permis, le travail, le logement, les assurances et la vie quotidienne en Suisse.",
+            "home-banner-alt": "Espagnols en Suisse qui s'entraident vraiment",
+            "home-hero-group-cta": "Demander l'acces a la communaute",
+            "home-tax-topic-label": "Impot a la source",
+            "home-consulate-geneva": "Consulat de Geneve",
+            "home-consulate-bern": "Consulat de Berne",
+            "home-consulate-zurich": "Consulat de Zurich",
+            "home-health-official-links": "Liens officiels utiles :",
+            "home-health-priminfo-label": "Priminfo (calculateur officiel des primes)",
+            "home-tax-cantonal-warning-title": "Avis cantonal :",
+            "home-tax-cantonal-warning-body": "Les taux d'imposition varient fortement non seulement d'un canton a l'autre, mais aussi d'une commune a l'autre, parfois a quelques kilometres de distance.",
+            "lbl-guide": "Guide",
+            "lbl-guides": "Guides",
+            "lbl-section": "la section",
+            "lbl-back-top-aria": "Retour en haut",
+            "cont-sending": "Envoi..."
+        },
+        de: {
+            "home-sr-title": "Spanier in der Schweiz: praktischer Leitfaden fur Leben und Arbeit",
+            "home-sr-desc": "Klare, offizielle und strukturierte Informationen zu Bewilligungen, Arbeit, Wohnen, Versicherungen und Alltag in der Schweiz.",
+            "home-banner-alt": "Spanier in der Schweiz, die sich wirklich gegenseitig helfen",
+            "home-hero-group-cta": "Zugang zur Community anfragen",
+            "home-tax-topic-label": "Quellensteuer",
+            "home-consulate-geneva": "Konsulat Genf",
+            "home-consulate-bern": "Konsulat Bern",
+            "home-consulate-zurich": "Konsulat Zurich",
+            "home-health-official-links": "Nutzliche offizielle Links:",
+            "home-health-priminfo-label": "Priminfo (offizieller Pramienrechner)",
+            "home-tax-cantonal-warning-title": "Kantonaler Hinweis:",
+            "home-tax-cantonal-warning-body": "Die Steuersatze unterscheiden sich nicht nur zwischen den Kantonen stark, sondern auch zwischen Gemeinden, die nur wenige Kilometer voneinander entfernt sind.",
+            "lbl-guide": "Leitfaden",
+            "lbl-guides": "Leitfaden",
+            "lbl-section": "dem Bereich",
+            "lbl-back-top-aria": "Nach oben",
+            "cont-sending": "Wird gesendet..."
+        },
+        it: {
+            "home-sr-title": "Spagnoli in Svizzera: guida pratica per vivere e lavorare",
+            "home-sr-desc": "Informazioni chiare, ufficiali e strutturate su permessi, lavoro, alloggio, assicurazioni e vita quotidiana in Svizzera.",
+            "home-banner-alt": "Spagnoli in Svizzera che si aiutano davvero",
+            "home-hero-group-cta": "Richiedi accesso alla community",
+            "home-tax-topic-label": "Imposta alla fonte",
+            "home-consulate-geneva": "Consolato di Ginevra",
+            "home-consulate-bern": "Consolato di Berna",
+            "home-consulate-zurich": "Consolato di Zurigo",
+            "home-health-official-links": "Link ufficiali utili:",
+            "home-health-priminfo-label": "Priminfo (calcolatore ufficiale dei premi)",
+            "home-tax-cantonal-warning-title": "Avviso cantonale:",
+            "home-tax-cantonal-warning-body": "Le aliquote fiscali variano molto non solo da un cantone all'altro, ma anche da un comune all'altro, spesso a pochi chilometri di distanza.",
+            "lbl-guide": "Guida",
+            "lbl-guides": "Guide",
+            "lbl-section": "la sezione",
+            "lbl-back-top-aria": "Torna su",
+            "cont-sending": "Invio in corso..."
+        }
+    };
+
+    Object.keys(uiOverrides).forEach((lang) => {
+        if (window.siteContent.ui[lang]) {
+            Object.assign(window.siteContent.ui[lang], uiOverrides[lang]);
+        }
+    });
+
     let currentLang = localStorage.getItem("lang") || "es";
     document.documentElement.lang = currentLang;
 
@@ -894,6 +998,8 @@ document.addEventListener("DOMContentLoaded", () => {
      * Component Logic Initializer
      */
     function initializeComponents() {
+        const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+
         // Accordions
         const accordions = appContainer.querySelectorAll('.accordion-header');
         accordions.forEach(acc => {
@@ -930,7 +1036,7 @@ document.addEventListener("DOMContentLoaded", () => {
             backToTop = document.createElement('button');
             backToTop.id = 'back-to-top-btn';
             backToTop.className = 'back-to-top';
-            backToTop.setAttribute('aria-label', 'Volver arriba');
+            backToTop.setAttribute('aria-label', ui['lbl-back-top-aria'] || 'Back to top');
             backToTop.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>';
             document.body.appendChild(backToTop);
 
@@ -972,7 +1078,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         <div class="featured-grid" style="margin-top: 2rem;">
                             ${results.map(r => `
                                 <a href="#/${r.slug || 'articulo/' + r.id}" class="card-article">
-                                    <div class="card-meta">${r.category || 'Guía'}</div>
+                                    <div class="card-meta">${r.category || ui['lbl-guide']}</div>
                                     <div class="card-content">
                                         <h3>${r.title}</h3>
                                         <p>${r.description}</p>
@@ -1006,7 +1112,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <div class="featured-grid">
                     ${hubArticles.map(r => `
                         <a href="#/${r.slug || 'articulo/' + r.id}" class="card-article">
-                            <div class="card-meta">${r.category || 'Guía'} ${r.readingTime ? `· ${r.readingTime} min` : ''}</div>
+                            <div class="card-meta">${r.category || ui['lbl-guide']} ${r.readingTime ? `· ${r.readingTime} min` : ''}</div>
                             <h3>${r.title}</h3>
                             <p>${r.description}</p>
                             <span class="btn-secondary" style="margin-top:auto; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600;">${ui['btn-read-guide']}</span>
@@ -1110,11 +1216,80 @@ document.addEventListener("DOMContentLoaded", () => {
      */
     function updateMetaTags(pageData, isArticle, routeKey) {
         const langData = window.siteContent[currentLang] || window.siteContent['es'];
+        const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
         const baseUrl = "https://www.espanolesensuiza.ch";
         
+        let resolvedTitle = pageData.title || "";
+        let resolvedDescription = pageData.description || "";
+
+        // Localized metadata for shared pages (all langs currently point to es.pages)
+        if (!isArticle) {
+            const pageMetaByRoute = {
+                "home": {
+                    title: ui['home-sr-title'],
+                    description: ui['home-sr-desc']
+                },
+                "tramites": {
+                    title: ui['cat-tramites'],
+                    description: ui['cat-desc-tramites']
+                },
+                "trabajo": {
+                    title: ui['cat-trabajo'],
+                    description: ui['cat-desc-trabajo']
+                },
+                "vivienda": {
+                    title: ui['cat-vivienda'],
+                    description: ui['cat-desc-vivienda']
+                },
+                "vivir-en-suiza": {
+                    title: ui['cat-vivir'],
+                    description: ui['cat-desc-vivir']
+                },
+                "salud": {
+                    title: ui['cat-salud'],
+                    description: ui['cat-desc-salud']
+                },
+                "impuestos": {
+                    title: ui['cat-impuestos'],
+                    description: ui['cat-desc-impuestos']
+                },
+                "fronterizos": {
+                    title: ui['cat-fronterizos'],
+                    description: ui['cat-desc-fronterizos']
+                },
+                "recursos": {
+                    title: ui['rec-h1'],
+                    description: ui['rec-desc']
+                },
+                "comunidad": {
+                    title: ui['com-h1'],
+                    description: ui['com-desc']
+                },
+                "contacto": {
+                    title: ui['cont-h1'],
+                    description: ui['cont-desc']
+                }
+            };
+
+            const routeMeta = pageMetaByRoute[routeKey];
+            if (routeMeta) {
+                resolvedTitle = routeMeta.title || resolvedTitle;
+                resolvedDescription = routeMeta.description || resolvedDescription;
+            }
+        }
+
         // 1. Update Title
-        const suffix = (langData.global && langData.global.titleSuffix) ? langData.global.titleSuffix : ' | Españoles en Suiza';
-        const fullTitle = pageData.title + suffix;
+        const defaultSuffixByLang = {
+            es: ' | Españoles en Suiza',
+            en: ' | Spaniards in Switzerland',
+            fr: ' | Espagnols en Suisse',
+            de: ' | Spanier in der Schweiz',
+            it: ' | Spagnoli in Svizzera'
+        };
+        const suffix = (langData.global && langData.global.titleSuffix)
+            ? langData.global.titleSuffix
+            : (defaultSuffixByLang[currentLang] || defaultSuffixByLang.es);
+        const fullTitle = resolvedTitle + suffix;
         document.title = fullTitle;
 
         // 2. Determine clean path for Search Engines (No hash)
@@ -1131,7 +1306,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // 3. Update Meta Description and Keywords
         const metaDesc = document.getElementById("meta-description");
-        if (metaDesc) metaDesc.setAttribute("content", pageData.description || "");
+        if (metaDesc) metaDesc.setAttribute("content", resolvedDescription);
         
         const metaKeywords = document.getElementById("meta-keywords");
         if (metaKeywords) metaKeywords.setAttribute("content", pageData.keywords || "");
@@ -1148,14 +1323,14 @@ document.addEventListener("DOMContentLoaded", () => {
         if (ogUrl) ogUrl.setAttribute("content", fullUrl);
         
         const ogDesc = document.getElementById("og-description");
-        if (ogDesc) ogDesc.setAttribute("content", pageData.description || "");
+        if (ogDesc) ogDesc.setAttribute("content", resolvedDescription);
 
         // 6. Update Twitter Card
         const twTitle = document.getElementById("twitter-title");
         if (twTitle) twTitle.setAttribute("content", fullTitle);
 
         const twDesc = document.getElementById("twitter-description");
-        if (twDesc) twDesc.setAttribute("content", pageData.description || "");
+        if (twDesc) twDesc.setAttribute("content", resolvedDescription);
     }
 
     /**
@@ -1188,7 +1363,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                     const r = langData.articles[k];
                                     return `
                                     <a href="#/${r.slug || 'articulo/' + k}" class="card-article" style="min-height: auto;">
-                                        <div class="card-meta">${r.category || 'Guía'}</div>
+                                        <div class="card-meta">${r.category || ui['lbl-guide']}</div>
                                         <h3 style="font-size: 1.125rem;">${r.title}</h3>
                                         <span class="btn-secondary" style="margin-top:1rem; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600; font-size: 0.9rem;">${ui['btn-read-guide']}</span>
                                     </a>
@@ -1219,7 +1394,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                 <div class="article-header">
                                     <nav class="breadcrumbs">
                                         <a href="#/">${ui['nav-inicio']}</a> > 
-                                        <a href="#/${pageData.hub || ''}">${pageData.category || 'Guías'}</a> > 
+                                        <a href="#/${pageData.hub || ''}">${pageData.category || ui['lbl-guides']}</a> > 
                                         <span>${pageData.title}</span>
                                     </nav>
                                     <h1>${pageData.title}</h1>
@@ -1245,7 +1420,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             <div class="toc">
                                 <h4>${ui['lbl-nav-sidebar']}</h4>
                                 <ul>
-                                    <li><a href="#/${pageData.hub}">&larr; ${ui['lbl-back']} ${pageData.category || 'la sección'}</a></li>
+                                    <li><a href="#/${pageData.hub}">&larr; ${ui['lbl-back']} ${pageData.category || ui['lbl-section']}</a></li>
                                     <!-- Extracted dynamically or hardcoded in content -->
                                     <li style="margin-top:1rem; padding-top:1rem; border-top:1px solid var(--border-light);"><a href="#app-container">${ui['lbl-back-top']}</a></li>
                                 </ul>
@@ -1291,7 +1466,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     const submitBtn = form.querySelector('button[type="submit"]');
                     const originalBtnText = submitBtn.textContent;
 
-                    submitBtn.textContent = "Enviando...";
+                    submitBtn.textContent = ui['cont-sending'] || "Sending...";
                     submitBtn.disabled = true;
                     status.style.display = "none";
                     status.className = "";
@@ -1306,7 +1481,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         });
 
                         if (response.ok) {
-                            status.textContent = "¡Gracias! Tu mensaje ha sido enviado correctamente.";
+                            status.textContent = ui['cont-success'] || "Message sent successfully.";
                             status.style.display = "block";
                             status.style.backgroundColor = "rgba(40, 167, 69, 0.1)";
                             status.style.borderLeft = "4px solid #28a745";
@@ -1317,7 +1492,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             if (Object.hasOwn(data, 'errors')) {
                                 status.textContent = data["errors"].map(error => error["message"]).join(", ");
                             } else {
-                                status.textContent = "Oops! Hubo un problema al enviar tu mensaje.";
+                                status.textContent = ui['cont-error'] || "There was an error sending your message.";
                             }
                             status.style.display = "block";
                             status.style.backgroundColor = "rgba(213, 43, 30, 0.05)";
@@ -1325,7 +1500,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             status.style.color = "var(--text-primary)";
                         }
                     } catch (error) {
-                        status.textContent = "Oops! Hubo un problema de conexión al enviar tu mensaje.";
+                        status.textContent = ui['cont-error'] || "There was an error sending your message.";
                         status.style.display = "block";
                         status.style.backgroundColor = "rgba(213, 43, 30, 0.05)";
                         status.style.borderLeft = "4px solid var(--swiss-red)";
