@@ -261,19 +261,6 @@ window.siteContent.es.pages = {
                 </div>
             </section>
 
-            <!-- Community Section -->
-            <section class="community-section animate-fade-up delay-200">
-                <div class="container">
-                    <h2>${ui['community-title']}</h2>
-                    <p style="max-width: 600px; margin: 0 auto; margin-bottom: 2rem;">${ui['community-desc']}</p>
-                    
-                    <div class="callout" style="background: rgba(255,255,255,0.1); border-color: white; color: white;">
-                        <h4 style="color: white; margin-top: 0;">${ui['community-faq-title']}</h4>
-                        <p style="color: rgba(255,255,255,0.9); margin-bottom: 0;">${ui['community-faq-desc']}</p>
-                    </div>
-                    <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" class="btn btn-primary" style="background: white; color: var(--text-primary);">${ui['community-btn']}</a>
-                </div>
-            </section>
 
             <!-- Official Sources Section -->
             <section class="animate-fade-up delay-300" style="margin: var(--space-xl) 0; text-align: center; border-top: 1px solid var(--border-light); padding-top: var(--space-xl);">
