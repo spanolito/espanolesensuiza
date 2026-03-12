@@ -715,5 +715,226 @@ window.siteContent.es.articles = {
                 </div>
             </div>
         `
+    },
+
+    // 21. Subalquiler
+    "articulo-subalquiler": {
+        title: "Subalquiler de habitación o piso en Suiza: guía legal",
+        description: "Todo sobre el subalquiler en Suiza: contratos, fianzas, derechos y obligaciones para inquilinos y subinquilinos.",
+        keywords: "subalquiler suiza, alquiler habitacion suiza, contrato subarriendo, fianza subalquiler",
+        category: "Vivienda",
+        hub: "vivienda",
+        slug: "subalquiler-vivienda-suiza",
+        readingTime: 4,
+        dateUpdated: "Marzo 2026",
+        summary: "El subalquiler es legal y común en Suiza. Requiere autorización del propietario y, preferiblemente, un contrato por escrito para evitar malentendidos.",
+        content: `
+            <div class="page-header">
+                <h1>Subalquiler en Suiza: lo que debes saber desde el primer día</h1>
+            </div>
+            <div class="article-content">
+                <p>El subalquiler es una práctica muy extendida en Suiza, permitiendo que un inquilino principal arriende una habitación o la totalidad de la vivienda a un tercero. Sin embargo, para que sea seguro y legal, deben seguirse unas reglas claras.</p>
+                
+                <h2>1. El Contrato de Subalquiler</h2>
+                <p>Aunque en Suiza los contratos verbales pueden tener validez, <strong>un contrato por escrito es imprescindible</strong> para evitar disputas. Debe incluir:</p>
+                <ul>
+                    <li>Identidad del inquilino principal y del subinquilino.</li>
+                    <li>Objeto: ¿Es una habitación o el piso entero? Especificar zonas comunes.</li>
+                    <li>Duración: Fecha de inicio y fin (si es determinado).</li>
+                    <li>Precio y gastos: Especificar si incluye electricidad, internet, etc.</li>
+                    <li>Preaviso: Tiempo necesario para rescindir el contrato.</li>
+                </ul>
+
+                <h2>2. La Fianza (Garantía)</h2>
+                <p>Es habitual pedir entre 1 y 2 meses de fianza. Es importante recordar que:</p>
+                <ul>
+                    <li>La fianza <strong>no puede usarse como pago del último mes</strong>.</li>
+                    <li>Debe devolverse íntegramente si no hay daños ni deudas pendientes.</li>
+                    <li>Se recomienda realizar un pequeño inventario con fotos al entrar para evitar discusiones al salir.</li>
+                </ul>
+
+                <h2>3. Autorización del Propietario</h2>
+                <p>Este es el punto más crítico: <strong>el subalquiler debe estar autorizado por el propietario del inmueble</strong>. Aunque no suele oponerse si no hay abuso (como subalquilar por un precio muy superior al original), hacerlo a escondidas puede ser motivo de rescisión del contrato principal.</p>
+
+                <div class="callout info">
+                    <strong>Consejo:</strong> Siempre deja todo "negro sobre blanco". En Suiza, la ambigüedad suele jugar en contra de quien no tiene pruebas por escrito.
+                </div>
+            </div>
+        `
+    },
+
+    // 22. Jubilación (AVS / LPP)
+    "articulo-jubilacion": {
+        title: "Jubilación en Suiza: cuánto cobrarás según tu edad de llegada",
+        description: "Análisis de la jubilación en Suiza (AVS y LPP) con ejemplos reales para quienes llegan con 30, 40 o 50 años.",
+        keywords: "jubilacion suiza, pension suiza, AVS, LPP, cuanto cobro jubilacion suiza",
+        category: "Previsión Social",
+        hub: "trabajo",
+        slug: "jubilacion-pension-suiza",
+        readingTime: 5,
+        dateUpdated: "Marzo 2026",
+        summary: "La jubilación suiza se basa en tres pilares. Los años cotizados marcan la diferencia: cuanto antes llegues, más sólida será tu pensión.",
+        content: `
+            <div class="page-header">
+                <h1>¿Cuánto se cobra al jubilarse en Suiza? Escenarios reales</h1>
+            </div>
+            <div class="article-content">
+                <p>Una de las preguntas más frecuentes es qué pensión queda tras una vida laboral en Suiza. El sistema se apoya principalmente en dos pilares (AVS y LPP).</p>
+                
+                <h2>Los Pilares Fundamentales</h2>
+                <ul>
+                    <li><strong>1er Pilar (AVS):</strong> Pensión estatal. El mínimo ronda los 1.200 CHF y el máximo los 2.450 CHF mensuales. Depende de los años cotizados sin interrupciones.</li>
+                    <li><strong>2do Pilar (LPP):</strong> Caja de pensiones profesional. Capital acumulado durante tu empleo. Al jubilarte puedes elegir entre una renta mensual o retirar el capital.</li>
+                </ul>
+
+                <h2>Ejemplos según edad de llegada</h2>
+                <p>Las expectativas cambian drásticamente dependiendo de cuándo empieces a cotizar en el país:</p>
+                <ul>
+                    <li><strong>Llegada a los 30 años:</strong> Escenario ideal. Tras 35 años cotizados, es realista aspirar a una pensión total de entre 4.000 y 5.500 CHF (AVS + LPP).</li>
+                    <li><strong>Llegada a los 40 años:</strong> El tiempo empieza a apretar. La AVS será parcial y el LPP más reducido. La pensión podría rondar los 3.000 - 4.000 CHF.</li>
+                    <li><strong>Llegada a los 50 años:</strong> Caso delicado. Sin salarios muy altos, la pensión total podría quedarse entre 2.000 y 3.000 CHF, haciendo necesario el ahorro privado adicional.</li>
+                </ul>
+
+                <div class="callout tip">
+                    <strong>Nota sobre convenios:</strong> Los años trabajados en España no se pierden; cada país pagará su parte proporcional al llegar la edad de jubilación.
+                </div>
+            </div>
+        `
+    },
+
+    // 23. Vivir sin trabajar
+    "articulo-vivir-sin-trabajar": {
+        title: "Vivir en Suiza sin trabajar: requisitos para residentes UE",
+        description: "Guía sobre cómo residir en Suiza sin actividad lucrativa (ahorros, rentas o jubilación) y qué permisos necesitas.",
+        keywords: "vivir en suiza sin trabajar, permiso residencia ahorros, permiso B no lucrativo",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "residir-en-suiza-sin-trabajo",
+        readingTime: 4,
+        dateUpdated: "Marzo 2026",
+        summary: "Es posible vivir en Suiza sin trabajar, pero debes demostrar medios económicos suficientes y disponer de un seguro médico completo (LAMal).",
+        content: `
+            <div class="page-header">
+                <h1>Vivir en Suiza sin trabajar: lo que dice la ley</h1>
+            </div>
+            <div class="article-content">
+                <p>Muchos se preguntan si es posible establecerse en Suiza sin tener un contrato de trabajo. La respuesta es sí, especialmente para ciudadanos de la UE/AELC, pero bajo condiciones estrictas.</p>
+                
+                <h2>Normas para Ciudadanos UE/AELC</h2>
+                <p>Si eres español o de otro país de la UE y planeas quedarte más de 90 días sin trabajar, debes registrarte y solicitar un permiso de residencia demostrando:</p>
+                <ul>
+                    <li><strong>Medios económicos suficientes:</strong> Debes probar que tienes recursos (ahorros, rentas, pensión externa) para vivir sin recurrir a la ayuda social suiza.</li>
+                    <li><strong>Seguro Médico (LAMal):</strong> Es obligatorio contratar un seguro de salud suizo completo. No sirven seguros de viaje temporales.</li>
+                    <li><strong>Registro oficial:</strong> Debes inscribirte en el Control de Habitantes de tu comuna de residencia.</li>
+                </ul>
+
+                <h2>¿Y para ciudadanos extra-comunitarios?</h2>
+                <p>En este caso las normas son mucho más restrictivas. Generalmente solo se autoriza la residencia sin actividad lucrativa en casos muy específicos como jubilación, estudios o motivos médicos justificados, siempre con garantías financieras elevadas.</p>
+
+                <div class="callout warning">
+                    <strong>Importante:</strong> Estar empadronado en casa de un amigo no sustituye al permiso de residencia. Los controles pueden derivar en multas o salidas forzadas si no se cumple el trámite.
+                </div>
+            </div>
+        `
+    },
+
+    // 24. AI (Assurance-invalidité)
+    "articulo-ai-invalidez": {
+        title: "La AI suiza (Assurance-invalidité): ayuda y reincorporación",
+        description: "Comprende cómo funciona el seguro de invalidez en Suiza. Su objetivo principal es la reinserción laboral antes que la renta.",
+        keywords: "AI suiza, invalidez suiza, seguro incapacidad, renta AI",
+        category: "Seguros Sociales",
+        hub: "salud",
+        slug: "seguro-invalidez-ai-suiza",
+        readingTime: 4,
+        dateUpdated: "Marzo 2026",
+        summary: "La AI no es una jubilación anticipada. Su filosofía es: 'primero rehabilitación, después la renta'. Busca que el trabajador siga siendo activo.",
+        content: `
+            <div class="page-header">
+                <h1>El Seguro de Invalidez (AI) en Suiza: más que una pensión</h1>
+            </div>
+            <div class="article-content">
+                <p>La <i>Assurance-invalidité</i> (AI) es una parte fundamental del sistema de seguridad social suizo. Sin embargo, su funcionamiento suele malinterpretarse por quienes vienen de otros sistemas.</p>
+                
+                <h2>Rehabilitación antes que Renta</h2>
+                <p>A diferencia de otros países, el objetivo principal de la AI no es pagar una pensión vitalicia de inmediato, sino intentar que la persona recupere su capacidad laboral. Las medidas incluyen:</p>
+                <ul>
+                    <li>Rehabilitación médica y profesional.</li>
+                    <li>Adaptación del puesto de trabajo o ayudas técnicas.</li>
+                    <li>Reciclaje profesional (formación para un nuevo oficio).</li>
+                </ul>
+
+                <h2>¿Cuándo se cobra la renta?</h2>
+                <p>La renta de invalidez solo se concede cuando se demuestra que, tras agotar las medidas de rehabilitación, la persona sigue teniendo una incapacidad de ganancia duradera. Esta renta puede ser parcial o total dependiendo del grado de invalidez determinado por los expertos.</p>
+
+                <h2>Solicitud temprana</h2>
+                <p>Es vital solicitar la AI en cuanto se prevea que una enfermedad o accidente causará una incapacidad larga (más de un año). No esperes a que tu situación sea crítica; el trámite es largo y requiere múltiples evaluaciones médicas y laborales.</p>
+            </div>
+        `
+    },
+
+    // 25. Vacunas en Suiza
+    "articulo-vacunas": {
+        title: "Vacunas en Suiza: recomendaciones y libertad de elección",
+        description: "Todo sobre el calendario de vacunación suizo. No son obligatorias por ley, pero sí recomendadas oficialmente.",
+        keywords: "vacunas suiza, calendario vacunacion suiza, BAG vacunas, colegio vacunas suiza",
+        category: "Salud Pública",
+        hub: "salud",
+        slug: "vacunacion-en-suiza",
+        readingTime: 4,
+        dateUpdated: "Marzo 2026",
+        summary: "En Suiza no existen las vacunas obligatorias. El sistema se basa en las recomendaciones de la Oficina Federal de Salud Pública (BAG) y la responsabilidad individual.",
+        content: `
+            <div class="page-header">
+                <h1>Vacunas en Suiza: sin imposición, con recomendación</h1>
+            </div>
+            <div class="article-content">
+                <p>Al llegar a Suiza, muchas familias se sorprenden al descubrir que el sistema de vacunación funciona de forma distinta a la de otros países europeos. Aquí prima la libertad de elección del ciudadano.</p>
+                
+                <h2>¿Son obligatorias las vacunas?</h2>
+                <p><strong>No. En Suiza no hay vacunas obligatorias</strong>, ni para niños ni para adultos. Ni siquiera para entrar en la escuela pública. El sistema se apoya en que las familias se informen con su pediatra y decidan basándose en las recomendaciones oficiales.</p>
+
+                <h2>Recomendaciones del BAG (OFSP)</h2>
+                <p>La Oficina Federal de Salud Pública emite un calendario recomendado que incluye las vacunas estándar (Difteria, Tétanos, Tos Ferina, Polio, Sarampión, etc.). Además, en Suiza se recomienda especialmente:</p>
+                <ul>
+                    <li><strong>Encefalitis por garrapatas:</strong> Muy importante si realizas actividades al aire libre o en bosques.</li>
+                    <li><strong>Gripe y HPV:</strong> Según grupos de riesgo y edad.</li>
+                </ul>
+
+                <h2>Coste y Seguro</h2>
+                <p>Las vacunas recomendadas en el calendario oficial están cubiertas por el seguro básico (LAMal), aunque pueden estar sujetas a la franquicia elegida por el asegurado.</p>
+            </div>
+        `
+    },
+
+    // 26. Curiosidad: Danza de los patos
+    "articulo-danza-patos": {
+        title: "¿Sabías que la danza de los patos es de origen suizo?",
+        description: "Descubre la historia de 'Der Ententanz', la pegadiza canción que nació en Suiza y conquistó el mundo.",
+        keywords: "danza de los patos suiza, bobby setter, Werner Thomas, curiosidades suiza",
+        category: "Cultura y Vida",
+        hub: "vivir",
+        slug: "origen-danza-de-los-patos-suiza",
+        readingTime: 3,
+        dateUpdated: "Marzo 2026",
+        summary: "Aunque parezca una canción genérica, la famosa danza de los patos fue compuesta por un acordeonista suizo en Davos en los años 50.",
+        content: `
+            <div class="page-header">
+                <h1>El origen suizo de la Danza de los Patos</h1>
+            </div>
+            <div class="article-content">
+                <p>Es imposible no haberla escuchado en una boda, una fiesta de pueblo o en el Oktoberfest. Pero lo que pocos saben es que la <strong>Danza de los Patos</strong> (<i>Der Ententanz</i>) tiene un pasaporte 100% suizo.</p>
+                
+                <h2>Werner Thomas: El padre de la criatura</h2>
+                <p>La melodía fue compuesta a finales de los años 50 por <strong>Werner Thomas</strong>, un acordeonista de Davos. Originalmente la llamó "Der Ententanz" (La danza del pato) inspirándose en el movimiento de las aves mientras tocaba en hoteles y restaurantes de la zona de esquí.</p>
+
+                <h2>De Davos al mundo entero</h2>
+                <p>Curiosamente, la canción no se hizo famosa de inmediato. Fue en los años 70 y 80 cuando diversos grupos europeos empezaron a versionarla, convirtiéndola en un hit global bajo nombres como "The Birdie Song" o "La danse des canards".</p>
+
+                <div class="callout info">
+                    <strong>¿Sabías que...?</strong> Werner Thomas compuso la canción simplemente para animar a la gente a bailar de forma divertida y sin complicaciones. ¡Misión cumplida!
+                </div>
+            </div>
+        `
     }
 };
