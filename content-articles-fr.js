@@ -683,28 +683,28 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
                 <h2>Les 3 consulats généraux d'Espagne en Suisse</h2>
 
                 <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr)); gap:1.25rem; margin:1.5rem 0;">
-                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
-                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Genève</h3>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Genève, Vaud, Valais, Fribourg, Neuchâtel, Jura</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> 85 Rue de Lausanne, 1202 Genève</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 22 731 25 30</p>
-                        <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
-                    </div>
-                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
-                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Berne</h3>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Berne, Soleure, Fribourg (partie), Valais (partie)</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> Kalcheggweg 24, 3006 Berne</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 31 352 04 12</p>
-                        <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
-                    </div>
-                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
-                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Zurich</h3>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Zurich, Argovie, Bâle, Lucerne, Saint-Gall, Grisons, Schaffhouse, Thurgovie, Tessin, Zoug et autres</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> Tödistrasse 60, 8002 Zurich</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 44 202 89 89</p>
-                        <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
-                    </div>
-                </div>
+	                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+	                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Genève</h3>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Genève, Vaud, Valais, Fribourg, Neuchâtel, Jura</p>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> Avenue Blanc 53, 1202 Genève</p>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 22 749 14 60</p>
+	                        <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
+	                    </div>
+	                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+	                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Berne</h3>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Berne, Soleure, Fribourg (partie), Valais (partie)</p>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> Marienstrasse 12, 3005 Berne</p>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 31 356 22 20</p>
+	                        <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
+	                    </div>
+	                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+	                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Zurich</h3>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Zurich, Argovie, Bâle, Lucerne, Saint-Gall, Grisons, Schaffhouse, Thurgovie, Tessin, Zoug et autres</p>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> Riedtlistrasse 17, 8006 Zurich</p>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 44 368 61 00</p>
+	                        <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
+	                    </div>
+	                </div>
 
                 <h2>Quelles démarches pouvez-vous faire au consulat ?</h2>
 
@@ -733,12 +733,14 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
                 <h3>Assistance consulaire</h3>
                 <p>En cas d'urgence (vol de documents, accident grave, décès), le consulat peut fournir une assistance consulaire d'urgence. En dehors des horaires, chaque consulat dispose d'une ligne de garde.</p>
 
-                <h2>Comment prendre rendez-vous au consulat</h2>
-                <p>Toutes les démarches sont gérées exclusivement sur rendez-vous via le système officiel :</p>
-                <ul>
-                    <li><a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer">citaconsular.es</a> — Système officiel de prise de rendez-vous (MAEC)</li>
-                    <li>Vous pouvez aussi contacter directement le consulat pour les urgences.</li>
-                </ul>
+	                <h2>Comment prendre rendez-vous au consulat</h2>
+	                <p>La plupart des démarches se font uniquement sur rendez-vous. Consultez les pages officielles de chaque consulat pour les instructions à jour :</p>
+	                <ul>
+	                    <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Consulat à Genève</a></li>
+	                    <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Consulat a Berne</a></li>
+	                    <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Consulat a Zurich</a></li>
+	                    <li>Pour les urgences, contactez directement votre consulat.</li>
+	                </ul>
 
                 <h2>Portail du Ministère des Affaires étrangères</h2>
                 <p>Toutes les informations à jour sur les démarches, les conditions et les actualités pour les Espagnols en Suisse se trouvent ici :</p>

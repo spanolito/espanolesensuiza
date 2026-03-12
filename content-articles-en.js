@@ -1015,7 +1015,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     "articulo-consulados": {
         title: "Spanish consulates in Switzerland: where they are and what they do",
         description: "Guide to the Spanish consular network in Switzerland (Geneva, Bern, Zurich): services, registration, passports/ID, civil registry and appointments.",
-        keywords: "spanish consulate switzerland, consular registration, passport renewal, citaconsular",
+        keywords: "spanish consulate switzerland, consular registration, passport renewal",
         audience: "newcomer",
         category: "Resources",
         hub: "tramites",
@@ -1027,6 +1027,13 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 <div class="article-content">
 <p>Spain has three main consular offices in Switzerland (Geneva, Bern, Zurich). They handle key services for residents.</p>
 
+<h2>Addresses and phones</h2>
+<ul>
+  <li><strong>Geneva:</strong> Avenue Blanc 53, 1202 Geneva · +41 22 749 14 60</li>
+  <li><strong>Bern:</strong> Marienstrasse 12, 3005 Bern · +41 31 356 22 20</li>
+  <li><strong>Zurich:</strong> Riedtlistrasse 17, 8006 Zurich · +41 44 368 61 00</li>
+</ul>
+
 <h2>Main services</h2>
 <ul>
   <li><strong>Consular registration (RECA/CERA)</strong> for residents abroad</li>
@@ -1036,7 +1043,12 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 </ul>
 
 <h2>Appointments</h2>
-<p>Most procedures require an appointment via the official system: <a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer">citaconsular.es</a>.</p>
+<p>Most procedures require an appointment. Please check the official consulate pages for up-to-date instructions:</p>
+<ul>
+  <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Consulate in Geneva</a></li>
+  <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Consulate in Bern</a></li>
+  <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Consulate in Zurich</a></li>
+</ul>
 </div>`
     }
 };

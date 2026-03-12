@@ -974,7 +974,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
     "articulo-consulados": {
         title: "Spanische Konsulate in der Schweiz: Standorte und Dienstleistungen",
         description: "Leitfaden zu den spanischen Konsulaten (Genf, Bern, Zürich): Dienstleistungen, Registrierung, Pass/DNI, Personenstand und Terminbuchung.",
-        keywords: "spanisches konsulat schweiz, konsularische registrierung, pass erneuern, citaconsular",
+        keywords: "spanisches konsulat schweiz, konsularische registrierung, pass erneuern",
         audience: "newcomer",
         category: "Ressourcen",
         hub: "tramites",
@@ -986,6 +986,13 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
 <div class="article-content">
 <p>In der Schweiz gibt es mehrere spanische Konsularstellen (u.a. Genf, Bern, Zürich). Viele Vorgänge funktionieren nur mit Termin.</p>
 
+<h2>Adresse und Telefon</h2>
+<ul>
+  <li><strong>Genf:</strong> Avenue Blanc 53, 1202 Genf · +41 22 749 14 60</li>
+  <li><strong>Bern:</strong> Marienstrasse 12, 3005 Bern · +41 31 356 22 20</li>
+  <li><strong>Zürich:</strong> Riedtlistrasse 17, 8006 Zürich · +41 44 368 61 00</li>
+</ul>
+
 <h2>Wichtige Dienste</h2>
 <ul>
   <li>Konsularische Registrierung (RECA/CERA)</li>
@@ -995,7 +1002,12 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
 </ul>
 
 <h2>Terminvereinbarung</h2>
-<p>Offizielles System: <a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer">citaconsular.es</a></p>
+<p>Für die meisten Vorgänge ist ein Termin erforderlich. Aktuelle Hinweise stehen auf den offiziellen Seiten:</p>
+<ul>
+  <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Konsulat in Genf</a></li>
+  <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Konsulat in Bern</a></li>
+  <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Konsulat in Zürich</a></li>
+</ul>
 </div>`
     }
 };

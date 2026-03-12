@@ -1712,22 +1712,22 @@ window.siteContent.es.articles = {
                     <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
                         <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulado General en Ginebra</h3>
                         <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantones:</strong> Ginebra, Vaud, Valais, Friburgo, Neuchâtel, Jura</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> 85 Rue de Lausanne, 1202 Ginebra</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 22 731 25 30</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> Avenue Blanc 53, 1202 Ginebra</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 22 749 14 60</p>
                         <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portal oficial →</a>
                     </div>
                     <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
                         <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulado General en Berna</h3>
                         <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantones:</strong> Berna, Solothurn, Friburgo (parte), Valais (parte)</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> Kalcheggweg 24, 3006 Berna</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 31 352 04 12</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> Marienstrasse 12, 3005 Berna</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 31 356 22 20</p>
                         <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portal oficial →</a>
                     </div>
                     <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
                         <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulado General en Zúrich</h3>
                         <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantones:</strong> Zúrich, Argovia, Basilea, Lucerna, San Galo, Grisones, Schaffhausen, Turgovia, Ticino, Zug y otros</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> Tödistrasse 60, 8002 Zúrich</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 44 202 89 89</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> Riedtlistrasse 17, 8006 Zúrich</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 44 368 61 00</p>
                         <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portal oficial →</a>
                     </div>
                 </div>
@@ -1760,10 +1760,11 @@ window.siteContent.es.articles = {
                 <p>En caso de emergencia (robo de documentos, accidente grave, fallecimiento), el consulado puede proporcionar asistencia consular de emergencia. Para urgencias fuera de horario, cada consulado tiene una línea de guardia.</p>
 
                 <h2>Cómo pedir cita consular</h2>
-                <p>Todos los trámites se gestionan exclusivamente por cita previa a través del sistema oficial:</p>
+                <p>La mayoría de trámites se gestionan exclusivamente con cita previa. Consulta los enlaces oficiales de cada consulado para instrucciones actualizadas:</p>
                 <ul>
-                    <li><a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer">citaconsular.es</a> — Portal oficial de cita previa del MAEC</li>
-                    <li>También puedes llamar directamente al consulado para trámites urgentes.</li>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Consulado en Ginebra</a></li>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Consulado en Berna</a></li>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Consulado en Zúrich</a></li>
                 </ul>
 
                 <h2>Portal del Ministerio de Exteriores</h2>

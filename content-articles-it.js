@@ -963,7 +963,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
     "articulo-consulados": {
         title: "Consolati spagnoli in Svizzera: dove sono e cosa fanno",
         description: "Guida ai consolati spagnoli (Ginevra, Berna, Zurigo): servizi, iscrizione consolare, passaporti/DNI e appuntamenti.",
-        keywords: "consolato spagnolo svizzera, iscrizione consolare, rinnovo passaporto, citaconsular",
+        keywords: "consolato spagnolo svizzera, iscrizione consolare, rinnovo passaporto",
         audience: "newcomer",
         category: "Risorse",
         hub: "tramites",
@@ -973,6 +973,13 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 <h1>Consolati spagnoli in Svizzera</h1>
 </div>
 <div class="contenuto-articolo">
+<h2>Indirizzi e telefoni</h2>
+<ul>
+  <li><strong>Ginevra:</strong> Avenue Blanc 53, 1202 Ginevra · +41 22 749 14 60</li>
+  <li><strong>Berna:</strong> Marienstrasse 12, 3005 Berna · +41 31 356 22 20</li>
+  <li><strong>Zurigo:</strong> Riedtlistrasse 17, 8006 Zurigo · +41 44 368 61 00</li>
+</ul>
+
 <h2>Servizi principali</h2>
 <ul>
   <li>Iscrizione consolare (RECA/CERA)</li>
@@ -982,7 +989,12 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 </ul>
 
 <h2>Appuntamenti</h2>
-<p>Sistema ufficiale: <a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer">citaconsular.es</a></p>
+<p>Per la maggior parte delle pratiche serve un appuntamento. Consulta le pagine ufficiali per istruzioni aggiornate:</p>
+<ul>
+  <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Consolato a Ginevra</a></li>
+  <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Consolato a Berna</a></li>
+  <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Consolato a Zurigo</a></li>
+</ul>
 </div>`
     }
 };

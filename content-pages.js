@@ -102,22 +102,21 @@ window.siteContent.es.pages = {
                     <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">${ui['fuente-label-consulado']} · GE · VD · VS · NE · FR · JU</div>
                         <h3>${ui['home-consulate-geneva']}</h3>
-                        <p>85 Rue de Lausanne, 1202 Ginebra · +41 22 731 25 30</p>
+                        <p>${ui['home-consulate-geneva-details']}</p>
                     </a>
                     <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">${ui['fuente-label-consulado']} · BE · SO · FR · VS</div>
                         <h3>${ui['home-consulate-bern']}</h3>
-                        <p>Kalcheggweg 24, 3006 Berna · +41 31 352 04 12</p>
+                        <p>${ui['home-consulate-bern-details']}</p>
                     </a>
                     <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">${ui['fuente-label-consulado']} · ZH · BS · LU · AG · TI ···</div>
                         <h3>${ui['home-consulate-zurich']}</h3>
-                        <p>Tödistrasse 60, 8002 Zúrich · +41 44 202 89 89</p>
+                        <p>${ui['home-consulate-zurich-details']}</p>
                     </a>
                 </div>
                 <p style="margin-top:0.75rem; font-size:0.85rem; color:var(--text-light);">
-                    👉 ${ui['home-consulados-note']} <a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">citaconsular.es</a>
-                    &nbsp;·&nbsp; <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red);">${ui['home-consulados-link']}</a>
+                    👉 <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red);">${ui['home-consulados-link']}</a>
                 </p>
             </section>
 
