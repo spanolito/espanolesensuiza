@@ -384,6 +384,19 @@ window.siteContent.es.pages = {
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            const formatConsulateDetails = (details) => {
+                const raw = String(details || "");
+                const parts = raw.split(" · ").map(s => s.trim()).filter(Boolean);
+                if (parts.length >= 2) {
+                    const phone = parts.pop();
+                    const address = parts.join(" · ");
+                    return { address, phone };
+                }
+                return { address: raw, phone: "" };
+            };
+            const geneva = formatConsulateDetails(ui['home-consulate-geneva-details']);
+            const bern = formatConsulateDetails(ui['home-consulate-bern-details']);
+            const zurich = formatConsulateDetails(ui['home-consulate-zurich-details']);
             return `
             <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
@@ -415,6 +428,32 @@ window.siteContent.es.pages = {
                     <p>${ui['rec-canton-p']}</p>
                 </div>
             </div>
+
+            <section style="margin-top: var(--space-xl);">
+                <h2 style="margin-top:0;">${ui['rec-consulates-title']}</h2>
+                <p style="color: var(--text-secondary); margin-bottom: 1.25rem;">
+                    ${ui['rec-consulates-desc']}
+                    <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red); font-weight:600;">${ui['home-consulados-link']}</a>
+                </p>
+
+                <div class="topic-hub-grid" style="margin-top: 0;">
+                    <div class="card-hub">
+                        <h3>${ui['home-consulate-geneva']}</h3>
+                        <p>${geneva.address}${geneva.phone ? `<br>${geneva.phone}` : ''}</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" class="read-more">${ui['rec-official-portal']}</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>${ui['home-consulate-bern']}</h3>
+                        <p>${bern.address}${bern.phone ? `<br>${bern.phone}` : ''}</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" class="read-more">${ui['rec-official-portal']}</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>${ui['home-consulate-zurich']}</h3>
+                        <p>${zurich.address}${zurich.phone ? `<br>${zurich.phone}` : ''}</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="read-more">${ui['rec-official-portal']}</a>
+                    </div>
+                </div>
+            </section>
             `;
         }
     },
