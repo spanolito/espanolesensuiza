@@ -832,8 +832,8 @@ window.siteContent.es.articles = {
         keywords: "colegio suiza, educacion suiza, sistema escolar suizo, escuela infantil suiza",
         audience: 'family',
         category: 'Familia',
-        hub: 'tramites',
-        slug: "sistema-educativo-suizo",
+        hub: 'vivir-en-suiza',
+        slug: "sistema-escolar-suiza",
         readingTime: 5,
         summary: 'El sistema escolar orienta (segrega) a los alumnos rápido: más del 60% hace formación profesional dual (CFC) en lugar de bachillerato.',
         content: `
@@ -909,6 +909,17 @@ window.siteContent.es.articles = {
         content: `
             <div class="page-header">
                 <h1>Transporte público suizo y los abonos SBB/CFF/FFS</h1>
+            </div>
+            <figure style="margin: 1rem 0 2rem; text-align:center;">
+                <img src="images/suiza/mapa-red-ferroviaria.png"
+                     alt="Mapa de la red ferroviaria nacional suiza SBB CFF FFS con líneas intercity y regionales"
+                     style="max-width:100%; border-radius:var(--radius-sm); border:1px solid var(--border-light);"
+                     loading="lazy">
+                <figcaption style="margin-top:0.5rem; font-size:0.85rem; color:var(--text-light);">
+                    Red ferroviaria nacional SBB/CFF/FFS. Líneas rojo = Intercity principales. Líneas azul = regionales.
+                </figcaption>
+            </figure>
+            <div class="article-content" style="display:contents;">
             </div>
             <div class="article-content">
                 <p>La Confederación Suiza está orgullosa de poseer uno de los sistemas de transporte público más densos, puntuales e integrados del mundo (trenes, autobuses, tranvías y barcos están en un solo reloj).</p>
@@ -1410,6 +1421,248 @@ window.siteContent.es.articles = {
                     <a href="#/sistema-educativo-suizo" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🎓 Sistema educativo</a>
                     <a href="#/costo-de-vida-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💶 Costo de vida</a>
                 </div>
+            </div>
+        `
+    }
+
+    // 27. Cantones de Suiza
+    "articulo-cantones": {
+        title: "Los 26 cantones de Suiza: mapa, capitales e idiomas",
+        description: "Guía completa de los 26 cantones suizos: mapa político, capital, idioma oficial y particularidades. Esencial para entender Suiza antes de instalarse.",
+        keywords: "cantones suiza, mapa cantones suiza, 26 cantones, canton suizo, diferencias cantones",
+        audience: 'newcomer',
+        category: 'Organización Territorial',
+        hub: 'vivir-en-suiza',
+        slug: "cantones-suiza",
+        readingTime: 7,
+        dateUpdated: "Marzo 2026",
+        summary: "Suiza está formada por 26 cantones autónomos, cada uno con su propio sistema fiscal, educativo y administrativo. El cantón donde vives lo cambia casi todo.",
+        content: `
+            <div class="page-header">
+                <h1>Los 26 cantones de Suiza: guía completa</h1>
+            </div>
+            <div class="article-content">
+                <p>En Suiza, el cantón donde te instalas es tan importante como el país en sí. Cada uno de los 26 cantones tiene su propio gobierno, sus propias leyes fiscales, su propio sistema educativo y su propia identidad cultural. Entender esta estructura es esencial antes de decidir dónde vivir.</p>
+
+                <figure style="margin: 1.5rem 0; text-align:center;">
+                    <img src="images/suiza/mapa-politico-cantones.png"
+                         alt="Mapa político de Suiza con los 26 cantones y sus abreviaturas oficiales"
+                         style="max-width:100%; border-radius:var(--radius-sm); border:1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top:0.5rem; font-size:0.85rem; color:var(--text-light);">
+                        Mapa político de Suiza con los 26 cantones y sus abreviaturas oficiales.
+                    </figcaption>
+                </figure>
+
+                <h2>¿Qué es un cantón?</h2>
+                <p>Un cantón es la unidad territorial base de la Confederación Helvética. Equivale a lo que en España sería una comunidad autónoma, pero con muchos más poderes. Los cantones existían antes que la Confederación: se unieron por pacta de defensa mutua, no por imposición central. Esto explica por qué cada uno mantiene tanta autonomía.</p>
+
+                <p>Cada cantón tiene:</p>
+                <ul>
+                    <li>Su propio gobierno (<em>Conseil d'État / Regierungsrat</em>) y parlamento cantonal</li>
+                    <li>Sus propias leyes y tasas fiscales (cantonal + comunal)</li>
+                    <li>Su sistema de educación pública</li>
+                    <li>Su policía cantonal</li>
+                    <li>Sus propias normas sobre trámites de residencia</li>
+                </ul>
+
+                <h2>Los 26 cantones: tabla completa</h2>
+
+                <div style="overflow-x:auto;">
+                <table style="width:100%; border-collapse:collapse; font-size:0.9rem; margin:1rem 0;">
+                    <thead>
+                        <tr style="background:var(--bg-surface); border-bottom:2px solid var(--border-light);">
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Cantón</th>
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Abbr.</th>
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Capital</th>
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Idioma(s)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${[
+                            ['Argovia','AG','Aarau','Alemán'],
+                            ['Appenzell Rodas Exteriores','AR','Herisau','Alemán'],
+                            ['Appenzell Rodas Interiores','AI','Appenzell','Alemán'],
+                            ['Basilea-Ciudad','BS','Basilea','Alemán'],
+                            ['Basilea-Campo','BL','Liestal','Alemán'],
+                            ['Berna','BE','Berna','Alemán / Francés'],
+                            ['Friburgo','FR','Friburgo','Francés / Alemán'],
+                            ['Ginebra','GE','Ginebra','Francés'],
+                            ['Glaris','GL','Glaris','Alemán'],
+                            ['Grisones','GR','Coira','Alemán / Romanche / Italiano'],
+                            ['Jura','JU','Delémont','Francés'],
+                            ['Lucerna','LU','Lucerna','Alemán'],
+                            ['Neuchâtel','NE','Neuchâtel','Francés'],
+                            ['Nidwalden','NW','Stans','Alemán'],
+                            ['Obwalden','OW','Sarnen','Alemán'],
+                            ['Schaffhausen','SH','Schaffhausen','Alemán'],
+                            ['Schwyz','SZ','Schwyz','Alemán'],
+                            ['Solothurn','SO','Solothurn','Alemán'],
+                            ['San Galo','SG','San Galo','Alemán'],
+                            ['Turgovia','TG','Frauenfeld','Alemán'],
+                            ['Ticino','TI','Bellinzona','Italiano'],
+                            ['Uri','UR','Altdorf','Alemán'],
+                            ['Valais / Wallis','VS','Sion','Francés / Alemán'],
+                            ['Vaud','VD','Lausana','Francés'],
+                            ['Zug','ZG','Zug','Alemán'],
+                            ['Zúrich','ZH','Zúrich','Alemán'],
+                        ].map(([name, abbr, capital, lang]) =>
+                            '<tr style="border-bottom:1px solid var(--border-light);">' +
+                            '<td style="padding:0.5rem 0.75rem; font-weight:500;">' + name + '</td>' +
+                            '<td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">' + abbr + '</td>' +
+                            '<td style="padding:0.5rem 0.75rem;">' + capital + '</td>' +
+                            '<td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">' + lang + '</td>' +
+                            '</tr>'
+                        ).join('')}
+                    </tbody>
+                </table>
+                </div>
+
+                <h2>¿Por qué importa el cantón donde vives?</h2>
+
+                <h3>Impuestos</h3>
+                <p>Es la diferencia más importante. La carga fiscal total varía drásticamente entre cantones. Un ejemplo real: una persona soltera con 80.000 CHF de salario bruto anual paga aproximadamente:</p>
+                <ul>
+                    <li><strong>Zug:</strong> ~12.000 CHF en impuestos totales</li>
+                    <li><strong>Ginebra:</strong> ~22.000 CHF en impuestos totales</li>
+                </ul>
+                <p>La misma persona, la misma nómina, pero casi el doble de impuestos según donde vive.</p>
+                <p>→ <a href="#/impuesto-fuente-suiza">Leer: Cómo funciona el impuesto a la fuente</a></p>
+
+                <h3>Seguro médico (primas LAMal)</h3>
+                <p>Las primas del seguro obligatorio también varían por cantón y por región del cantón. Las más caras: Basilea-Ciudad, Ginebra, Vaud. Las más baratas: Appenzell Rodas Interiores, Glaris, Nidwalden.</p>
+                <p>→ <a href="#/seguro-medico-lamal-suiza">Leer: El seguro médico LAMal</a></p>
+
+                <h3>Educación</h3>
+                <p>El sistema escolar está completamente en manos de los cantones. El calendario escolar, la edad de inicio de la escolarización, las asignaturas y el sistema de orientación profesional varían entre cantones.</p>
+                <p>→ <a href="#/sistema-escolar-suiza">Leer: El sistema educativo suizo</a></p>
+
+                <h3>Trámites de residencia y administración</h3>
+                <p>El registro de habitantes, los plazos, los formularios disponibles en línea y los horarios de atención varían de una commune a otra dentro de cada cantón.</p>
+                <p>→ <a href="#/registrarse-en-suiza">Leer: Cómo registrarse al llegar</a></p>
+
+                <h2>Cantones con particularidades destacadas</h2>
+                <ul>
+                    <li><strong>Zug:</strong> El cantón con menor carga fiscal del país. Sede de muchas multinacionales y gestoras de inversión.</li>
+                    <li><strong>Ginebra:</strong> Ciudad internacional, sede de la ONU, la OMS y la Cruz Roja. Alta presencia de funcionarios internacionales. Primas médicas y alquileres muy elevados.</li>
+                    <li><strong>Zúrich:</strong> La ciudad más poblada y el principal centro financiero. Muy alto nivel de vida pero también los salarios más altos del país.</li>
+                    <li><strong>Ticino:</strong> El cantón italófono. Muchos trabajadores fronterizos. Clima mediterráneo y coste de vida algo inferior al norte.</li>
+                    <li><strong>Grisones:</strong> El cantón más grande, trilingüe (alemán, romanche, italiano). Economía basada en turismo alpino y agricultura.</li>
+                    <li><strong>Berna:</strong> Capital federal. Bilingüe (alemán con minoría francófona). Sede del parlamento y del gobierno federal.</li>
+                </ul>
+
+                <div class="callout info">
+                    <strong>Consejo práctico:</strong> Antes de decidir dónde instalarte, compara la carga fiscal del cantón, las primas del seguro médico y la oferta de trabajo en tu sector. A veces, cambiar de cantón puede suponer miles de francos al año de diferencia.
+                </div>
+
+                <h2>Acceder al portal oficial de cada cantón</h2>
+                <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem; margin-top:1rem;">
+                    ${[['Argovia','https://www.ag.ch'],['App. I.Rh.','https://www.ai.ch'],['App. A.Rh.','https://www.ar.ch'],['Basilea-Ciudad','https://www.bs.ch'],['Basilea-Campo','https://www.bl.ch'],['Berna','https://www.be.ch'],['Friburgo','https://www.fr.ch'],['Ginebra','https://www.ge.ch'],['Glaris','https://www.gl.ch'],['Grisones','https://www.gr.ch'],['Jura','https://www.jura.ch'],['Lucerna','https://www.lu.ch'],['Neuchâtel','https://www.ne.ch'],['Nidwalden','https://www.nw.ch'],['Obwalden','https://www.ow.ch'],['Schaffhausen','https://www.sh.ch'],['Schwyz','https://www.sz.ch'],['Solothurn','https://www.so.ch'],['San Galo','https://www.sg.ch'],['Turgovia','https://www.tg.ch'],['Ticino','https://www.ti.ch'],['Uri','https://www.ur.ch'],['Valais/Wallis','https://www.vs.ch'],['Vaud','https://www.vd.ch'],['Zug','https://www.zg.ch'],['Zúrich','https://www.zh.ch']].map(([n,u]) => '<a href="' + u + '" target="_blank" rel="noopener noreferrer" class="canton-link">' + n + '</a>').join('')}
+                </div>
+            </div>
+        `
+    },
+
+    // 28. Lenguas en Suiza
+    "articulo-lenguas": {
+        title: "Las lenguas en Suiza: alemán, francés, italiano y romanche",
+        description: "Guía sobre las 4 lenguas nacionales de Suiza: regiones lingüísticas, cantones bilingües y consejos para hispanohablantes que llegan al país.",
+        keywords: "lenguas suiza, idiomas suiza, aleman suiza, frances suiza, italiano ticino, romanche, regiones linguisticas",
+        audience: 'newcomer',
+        category: 'Cultura e Idiomas',
+        hub: 'vivir-en-suiza',
+        slug: "lenguas-suiza",
+        readingTime: 5,
+        dateUpdated: "Marzo 2026",
+        summary: "Suiza tiene 4 lenguas nacionales. El idioma que deberás aprender depende completamente del cantón donde te instales: alemán en el este y centro, francés en el oeste, italiano en el Ticino.",
+        content: `
+            <div class="page-header">
+                <h1>Las lenguas en Suiza: guía para hispanohablantes</h1>
+            </div>
+            <div class="article-content">
+                <p>Suiza es uno de los pocos países del mundo con cuatro lenguas nacionales oficiales. Pero hay un error muy común al llegar: creer que el inglés es suficiente para integrarse. No lo es. El idioma de tu cantón de residencia es la clave para el trabajo, los trámites y la integración social.</p>
+
+                <figure style="margin: 1.5rem 0; text-align:center;">
+                    <img src="images/suiza/mapa-linguistico.png"
+                         alt="Mapa lingüístico de Suiza con las 4 regiones de lenguas: alemán, francés, italiano y romanche"
+                         style="max-width:100%; border-radius:var(--radius-sm); border:1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top:0.5rem; font-size:0.85rem; color:var(--text-light);">
+                        Mapa lingüístico de Suiza. La región azul habla alemán, la verde francés, la naranja italiano y la morada romanche.
+                    </figcaption>
+                </figure>
+
+                <h2>Las 4 lenguas nacionales</h2>
+
+                <h3>🇩🇪 Alemán — Suiza alemana (Deutschschweiz)</h3>
+                <p>Hablado por aproximadamente el <strong>63%</strong> de la población. Abarca una gran franja central y oriental del país: Zúrich, Berna, Basilea, Lucerna, Zug, Schwyz, San Galo y la mayoría de cantones del interior.</p>
+
+                <p>Pero hay un matiz fundamental: en el día a día, los suizos de habla alemana no hablan alemán estándar. Hablan <strong>Schweizerdeutsch</strong>, un conjunto de dialectos orales que varía de cantón a cantón y que puede ser completamente ininteligible para alguien que ha aprendido alemán estándar. Los textos escritos (contratos, cartas, formularios) sí se redactan en alemán estándar (<em>Hochdeutsch</em>).</p>
+
+                <div class="callout">
+                    <strong>Para hispanohablantes:</strong> El alemán es difícil pero totalmente alcanzable. Con un nivel B1 ya puedes trabajar en la mayoría de empleos no especializados. Muchos cursos de alemán en Suiza son gratuitos o subvencionados para residentes.
+                </div>
+
+                <h3>🇫🇷 Francés — La Romandie</h3>
+                <p>Hablado por aproximadamente el <strong>23%</strong> de la población. Corresponde a los cantones del oeste: Ginebra, Vaud, Neuchâtel, Jura, y de forma parcial Valais, Friburgo y Berna. Esta zona se llama informalmente <em>La Romandie</em>.</p>
+
+                <p>El francés suizo es muy similar al francés estándar, con algunas diferencias léxicas que no suponen una barrera real. Por ejemplo, usan <em>huitante</em> en lugar de <em>quatre-vingts</em> (80) en algunos cantones de la Romandie.</p>
+
+                <div class="callout info">
+                    <strong>Para hispanohablantes:</strong> El francés es la opción más accesible. Comparte raíces latinas con el español y el tiempo de aprendizaje es significativamente menor que el alemán. Muchos hispanohablantes eligen la Romandie precisamente por esto.
+                </div>
+
+                <h3>🇮🇹 Italiano — El Ticino</h3>
+                <p>Hablado por aproximadamente el <strong>8%</strong> de la población, principalmente en el cantón del Ticino (TI) y en algunos valles del sur del cantón de los Grisones. El Ticino es el único cantón completamente italófono y tiene una identidad cultural muy mediterránea.</p>
+
+                <p>Para hispanohablantes, el italiano es la lengua suiza más cercana al español. Sin embargo, el mercado laboral del Ticino es más pequeño y muchos puestos requieren también el alemán o el inglés para trabajar con el resto del país.</p>
+
+                <h3>🏔️ Romanche (Rumantsch)</h3>
+                <p>Hablado por menos del <strong>1%</strong> de la población, exclusivamente en partes del cantón de los Grisones. Es una lengua románica con cinco variantes escritas diferentes, fruto de siglos de aislamiento en valles alpinos. Tiene estatus de lengua nacional y co-oficial en las regiones donde se habla, pero no es de uso administrativo a nivel federal excepto para comunicarse con los ciudadanos romanches.</p>
+
+                <h2>Cantones bilingües y trilingüe</h2>
+
+                <p>Tres cantones tienen dos o más lenguas oficiales:</p>
+
+                <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(200px, 1fr)); gap:1rem; margin:1.5rem 0;">
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1rem;">
+                        <strong>Friburgo (FR)</strong>
+                        <p style="font-size:0.9rem; margin:0.5rem 0 0; color:var(--text-secondary);">Bilingüe Francés / Alemán. La administración opera en ambas lenguas. La ciudad de Friburgo misma es un punto de contacto entre las dos culturas.</p>
+                    </div>
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1rem;">
+                        <strong>Valais / Wallis (VS)</strong>
+                        <p style="font-size:0.9rem; margin:0.5rem 0 0; color:var(--text-secondary);">Bilingüe Francés / Alemán según la zona. El Valais romando es francófono (Sion, Martigny), el Haut-Valais es germanófono.</p>
+                    </div>
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1rem;">
+                        <strong>Grisones (GR)</strong>
+                        <p style="font-size:0.9rem; margin:0.5rem 0 0; color:var(--text-secondary);">Trilingüe Alemán / Romanche / Italiano. El único cantón con tres lenguas oficiales. Cada valle puede tener una lengua dominante diferente.</p>
+                    </div>
+                </div>
+
+                <h2>¿Qué idioma aprender?</h2>
+
+                <p>La respuesta es siempre la misma: <strong>el idioma del cantón donde vives</strong>. Pero si aún no has decidido dónde instalarte, aquí van algunas orientaciones:</p>
+
+                <ul>
+                    <li><strong>Francés:</strong> Mejor punto de partida para hispanohablantes. Más fácil y rápido de aprender. Te da acceso a la Romandie y a ciudades internacionales como Ginebra y Lausana.</li>
+                    <li><strong>Alemán:</strong> La lengua que abre más puertas en términos de mercado laboral (abarca el 63% del país). Es más difícil pero la formación es abundante y los suizos valoran mucho el esfuerzo.</li>
+                    <li><strong>Italiano:</strong> Si ya lo hablas, el Ticino puede ser una entrada suave. Si no, el mercado laboral local es más limitado.</li>
+                </ul>
+
+                <div class="callout">
+                    <strong>Inversión clave:</strong> Muchos cantones ofrecen cursos de idiomas subvencionados o incluso gratuitos para residentes extranjeros. Algunos empleadores también pagan cursos de idiomas. Infórmate desde el primer mes en tu commune.
+                </div>
+
+                <h2>El inglés en Suiza</h2>
+                <p>El inglés está muy extendido en entornos técnicos, financieros e internacionales (especialmente en Zúrich y Ginebra). Muchas multinacionales trabajan exclusivamente en inglés. Sin embargo, para trámites administrativos, buscar empleo en el sector público o en pymes, y para la integración social real, el idioma local es imprescindible.</p>
+
+                <h2>Artículos relacionados</h2>
+                <ul>
+                    <li><a href="#/introduccion-suiza-como-funciona">Cómo funciona Suiza</a></li>
+                    <li><a href="#/cantones-suiza">Los 26 cantones de Suiza</a></li>
+                    <li><a href="#/registrarse-en-suiza">Registrarse en Suiza al llegar</a></li>
+                    <li><a href="#/buscar-empleo-suiza">Buscar empleo en Suiza</a></li>
+                </ul>
             </div>
         `
     }
