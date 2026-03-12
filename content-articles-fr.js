@@ -756,5 +756,306 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
                 </ul>
             </div>
         `
+    },
+
+    // Traductions manquantes ajoutées (2026-03-12)
+    "articulo-tramites-llegada": {
+        title: "Checklist : démarches du premier mois en Suisse",
+        description: "Checklist pratique des 30 premiers jours : inscription à la commune, compte bancaire, assurance maladie (LAMal), transports, courrier, déchets, etc.",
+        keywords: "checklist arrivée suisse, inscription commune, assurance lamal, premier mois suisse",
+        category: "Démarches Initiales",
+        hub: "tramites",
+        readingTime: 6,
+        summary: "Délais clés : inscription à la commune (souvent 14 jours) et assurance maladie dans les 3 mois (rétroactive). Faire les choses dans le bon ordre évite des blocages.",
+        content: `<div class="page-header">
+<h1>Arriver en Suisse : checklist du premier mois</h1>
+</div>
+<div class="article-content">
+<p>Les premiers jours peuvent être stressants. Certaines démarches ont des délais stricts : mieux vaut les faire dans le bon ordre.</p>
+
+<h2>Semaine 1</h2>
+<ul>
+  <li><strong>Inscription à la commune (Contrôle des habitants) :</strong> vous recevez souvent une attestation provisoire.</li>
+  <li><strong>Ouvrir un compte bancaire suisse :</strong> indispensable pour le salaire (IBAN CH).</li>
+</ul>
+
+<h2>Premières 2 semaines</h2>
+<ul>
+  <li><strong>Assurance maladie (LAMal) :</strong> en général 3 mois, mais avec effet rétroactif dès le 1er jour.</li>
+  <li><strong>Données familiales pour l’employeur :</strong> utiles pour la taxation à la source.</li>
+</ul>
+
+<h2>Premier mois</h2>
+<ul>
+  <li><strong>Transports :</strong> le <em>Demi-tarif</em> est souvent rentable.</li>
+  <li><strong>Nom sur la boîte aux lettres :</strong> de nombreux courriers officiels arrivent par la poste.</li>
+  <li><strong>Déchets :</strong> certaines communes exigent des sacs officiels taxés.</li>
+</ul>
+</div>`
+    },
+
+    "articulo-trabajar-sin-permiso-fisico": {
+        title: "Travailler avant de recevoir la carte de permis ?",
+        description: "Oui. Après l’inscription à la commune, une attestation provisoire permet généralement de travailler pendant l’attente de la carte.",
+        keywords: "travailler sans carte permis, attestation de résidence, inscription commune suisse",
+        category: "Démarches Administratives",
+        hub: "tramites",
+        readingTime: 3,
+        summary: "La carte plastifiée peut mettre plusieurs semaines. L’attestation provisoire obtenue à l’inscription a une valeur légale pour l’employeur.",
+        content: `<div class="page-header">
+<h1>Travailler en Suisse sans la carte de permis</h1>
+</div>
+<div class="article-content">
+<p><strong>Oui</strong> : dans beaucoup de cantons, vous pouvez commencer à travailler dès l’inscription. La carte arrive ensuite par courrier.</p>
+
+<h2>Le document provisoire</h2>
+<p>À l’inscription, vous recevez souvent une <strong>attestation provisoire</strong> (nom variable). Elle prouve que vous êtes enregistré.</p>
+
+<div class="callout info">
+<strong>Conseil :</strong> mettez votre nom sur la boîte aux lettres pour éviter des retours de courrier.
+</div>
+</div>`
+    },
+
+    "articulo-reagrupacion-familiar": {
+        title: "Regroupement familial en Suisse : faire venir sa famille",
+        description: "Conditions, documents et délais pour le regroupement familial (conjoint/partenaire et enfants) selon votre statut et votre canton.",
+        keywords: "regroupement familial suisse, faire venir conjoint enfants, apostille traduction documents",
+        category: "Démarches Administratives",
+        hub: "tramites",
+        readingTime: 5,
+        summary: "Avec un permis B ou C, le regroupement familial est souvent possible si vous avez un logement adapté et des moyens suffisants.",
+        content: `<div class="page-header">
+<h1>Regroupement familial en Suisse</h1>
+</div>
+<div class="article-content">
+<h2>Qui peut être regroupé ?</h2>
+<ul>
+  <li>Conjoint ou partenaire enregistré</li>
+  <li>Enfants de moins de 18 ans</li>
+</ul>
+
+<h2>Conditions typiques</h2>
+<ul>
+  <li><strong>Logement adapté</strong></li>
+  <li><strong>Moyens financiers suffisants</strong> (pas d’aide sociale)</li>
+  <li><strong>Statut de séjour valable</strong> (souvent B ou C)</li>
+</ul>
+
+<h2>Documents (souvent)</h2>
+<ul>
+  <li>Passeports/ID</li>
+  <li>Acte de mariage/partenariat, actes de naissance</li>
+  <li><strong>Apostille + traductions certifiées</strong> si nécessaire</li>
+  <li>Bail + preuves de revenus</li>
+</ul>
+</div>`
+    },
+
+    "articulo-subalquiler": {
+        title: "Sous-location en Suisse : bases légales et conseils",
+        description: "Les points clés de la sous-location : contrat écrit, caution, et autorisation du bailleur pour éviter les problèmes.",
+        keywords: "sous-location suisse, contrat sous-location, caution, autorisation bailleur",
+        category: "Logement",
+        hub: "vivienda",
+        readingTime: 4,
+        summary: "La sous-location est courante et légale, mais il faut l’accord du bailleur et idéalement un contrat écrit (prix, durée, charges, préavis).",
+        content: `<div class="page-header">
+<h1>Sous-location en Suisse : checklist</h1>
+</div>
+<div class="article-content">
+<h2>1) Contrat écrit</h2>
+<ul>
+  <li>Qui loue à qui, ce qui est inclus (chambre/appartement, communs)</li>
+  <li>Prix + charges, durée, préavis, inventaire</li>
+</ul>
+
+<h2>2) Caution</h2>
+<p>Souvent 1 à 2 mois. Faites des photos à l’entrée/sortie.</p>
+
+<h2>3) Accord du bailleur</h2>
+<p><strong>Indispensable</strong>. Une sous-location cachée peut mettre en danger le bail principal.</p>
+</div>`
+    },
+
+    "articulo-jubilacion": {
+        title: "Retraite en Suisse : comprendre AVS et LPP (3 piliers)",
+        description: "Comprendre le système de retraite suisse (3 piliers) et l’impact de l’âge d’arrivée (30/40/50 ans).",
+        keywords: "retraite suisse avs, lpp, 3e pilier 3a, pension suisse",
+        category: "Prévoyance Sociale",
+        hub: "trabajo",
+        readingTime: 5,
+        summary: "Le système suisse repose sur 3 piliers. Les années de cotisation comptent beaucoup ; le 2e et le 3e pilier sont souvent essentiels pour les nouveaux arrivants.",
+        content: `<div class="page-header">
+<h1>Retraite en Suisse : les 3 piliers</h1>
+</div>
+<div class="article-content">
+<h2>1er pilier : AVS</h2>
+<p>Pension de base. Des années manquantes peuvent réduire le montant.</p>
+
+<h2>2e pilier : LPP</h2>
+<p>Prévoyance professionnelle via l’employeur.</p>
+
+<h2>3e pilier : 3a (volontaire)</h2>
+<p>Épargne avec avantages fiscaux pour compléter la retraite.</p>
+</div>`
+    },
+
+    "articulo-vivir-sin-trabajar": {
+        title: "Vivre en Suisse sans travailler (UE/AELE) : conditions",
+        description: "Résider sans activité lucrative : moyens suffisants, assurance maladie et inscription officielle.",
+        keywords: "vivre en suisse sans travailler, moyens suffisants, permis sans activité lucrative",
+        category: "Démarches Administratives",
+        hub: "tramites",
+        readingTime: 4,
+        summary: "Possible pour certains profils, mais il faut prouver des ressources financières et une assurance maladie adéquate, puis s’inscrire à la commune.",
+        content: `<div class="page-header">
+<h1>Résider en Suisse sans contrat de travail</h1>
+</div>
+<div class="article-content">
+<ul>
+  <li><strong>Moyens financiers suffisants</strong> (épargne, revenus, pension)</li>
+  <li><strong>Assurance maladie</strong> (LAMal ou équivalent accepté selon le statut)</li>
+  <li><strong>Inscription</strong> à la commune pour un séjour prolongé</li>
+</ul>
+</div>`
+    },
+
+    "articulo-ai-invalidez": {
+        title: "Assurance invalidité (AI/IV) : réinsertion avant rente",
+        description: "Comment fonctionne l’assurance invalidité en Suisse : priorité à la réadaptation et à la réinsertion, avant une rente éventuelle.",
+        keywords: "assurance invalidité suisse, ai iv, réinsertion, rente invalidité",
+        category: "Assurances Sociales",
+        hub: "salud",
+        readingTime: 4,
+        summary: "Principe suisse : « réinsertion avant rente ». L’AI finance des mesures pour revenir au travail (adaptations, formation, etc.).",
+        content: `<div class="page-header">
+<h1>AI/IV : soutien et réinsertion en Suisse</h1>
+</div>
+<div class="article-content">
+<h2>Mesures possibles</h2>
+<ul>
+  <li>Réadaptation médicale et professionnelle</li>
+  <li>Adaptation du poste, aides techniques</li>
+  <li>Reconversion / formation</li>
+</ul>
+
+<h2>Quand parle-t-on de rente ?</h2>
+<p>En général après avoir tenté les mesures de réinsertion et si la perte de capacité de gain persiste.</p>
+</div>`
+    },
+
+    "articulo-vacunas": {
+        title: "Vaccins en Suisse : recommandations, pas d’obligation générale",
+        description: "En Suisse, la vaccination repose surtout sur des recommandations officielles de l’OFSP/BAG, avec une grande liberté individuelle.",
+        keywords: "vaccins suisse, calendrier vaccinal ofsp, bag, encéphalite tiques",
+        category: "Santé Publique",
+        hub: "salud",
+        readingTime: 4,
+        summary: "Le système suisse privilégie les recommandations. L’encéphalite à tiques est souvent mise en avant pour les activités en extérieur.",
+        content: `<div class="page-header">
+<h1>Vaccination en Suisse</h1>
+</div>
+<div class="article-content">
+<p>En Suisse, les vaccins sont généralement <strong>non obligatoires</strong> par la loi. L’OFSP/BAG publie un calendrier recommandé.</p>
+<ul>
+  <li>Vaccins standards (DTP, polio, ROR…)</li>
+  <li><strong>Encéphalite à tiques (FSME/TBE) :</strong> recommandée selon régions/activités</li>
+</ul>
+<p>Les vaccins recommandés sont en principe couverts par l’assurance de base, selon franchise.</p>
+</div>`
+    },
+
+    "articulo-danza-patos": {
+        title: "Le saviez-vous ? La “danse des canards” est d’origine suisse",
+        description: "L’histoire de “Der Ententanz”, mélodie née en Suisse et devenue un classique des fêtes.",
+        keywords: "danse des canards origine suisse, der ententanz, werner thomas davos",
+        category: "Culture & Vie",
+        hub: "vivir",
+        readingTime: 3,
+        summary: "La mélodie a été composée par l’accordéoniste suisse Werner Thomas à la fin des années 1950 dans la région de Davos.",
+        content: `<div class="page-header">
+<h1>L’origine suisse de la danse des canards</h1>
+</div>
+<div class="article-content">
+<p>Vous l’avez sûrement entendue à un mariage ou une fête de village. Mais <strong>“Der Ententanz”</strong> a un passeport suisse.</p>
+<p>La mélodie est attribuée à <strong>Werner Thomas</strong> et s’est répandue mondialement via de nombreuses reprises.</p>
+</div>`
+    },
+
+    "articulo-introduccion-suiza": {
+        title: "Comment fonctionne la Suisse : l’essentiel pour les nouveaux résidents",
+        description: "Introduction pratique : fédéralisme, 26 cantons, démocratie directe, langues – et pourquoi votre canton impacte impôts, école et démarches.",
+        keywords: "comment fonctionne la suisse, cantons, fédéralisme, démocratie directe, langues suisse",
+        audience: "newcomer",
+        category: "Pays",
+        hub: "vivir-en-suiza",
+        readingTime: 7,
+        summary: "La Suisse est très fédérale : cantons et communes ont une grande autonomie. Beaucoup de règles du quotidien dépendent du lieu de résidence.",
+        content: `<div class="page-header">
+<h1>Comment fonctionne la Suisse (simplement)</h1>
+</div>
+<div class="article-content">
+<p>La Suisse est un pays <strong>décentralisé</strong>. Les cantons et les communes ont de vraies compétences.</p>
+
+<h2>Pourquoi c’est important</h2>
+<ul>
+  <li><strong>Impôts :</strong> variations importantes selon cantons et communes</li>
+  <li><strong>École :</strong> organisation principalement cantonale</li>
+  <li><strong>Administration :</strong> procédures et délais peuvent changer</li>
+</ul>
+
+<h2>Langues</h2>
+<p>Quatre langues nationales : allemand, français, italien, romanche.</p>
+</div>`
+    },
+
+    "articulo-cantones": {
+        title: "Les 26 cantons suisses : ce qui change d’un canton à l’autre",
+        description: "Les cantons ne sont pas que des régions : ils influencent impôts, école et de nombreuses démarches. Guide rapide pour nouveaux arrivants.",
+        keywords: "26 cantons suisse, différences cantonales, impôts canton, système scolaire",
+        audience: "newcomer",
+        category: "Organisation Territoriale",
+        hub: "vivir-en-suiza",
+        readingTime: 6,
+        summary: "Choisir un canton, c’est choisir beaucoup de règles : fiscalité, école et pratiques administratives varient fortement.",
+        content: `<div class="page-header">
+<h1>Les cantons suisses : à retenir</h1>
+</div>
+<div class="article-content">
+<h2>Ce qui varie souvent</h2>
+<ul>
+  <li>Charge fiscale et déductions</li>
+  <li>Structure scolaire et calendrier</li>
+  <li>Pratiques administratives (rendez-vous, formulaires, délais)</li>
+  <li>Langue(s) officielle(s)</li>
+</ul>
+</div>`
+    },
+
+    "articulo-lenguas": {
+        title: "Langues en Suisse : allemand, français, italien, romanche",
+        description: "Guide pour nouveaux résidents : régions linguistiques, suisse allemand, cantons bilingues et quelle langue prioriser.",
+        keywords: "langues suisse, suisse allemand, romandie, ticino, romanche",
+        audience: "newcomer",
+        category: "Culture & Langues",
+        hub: "vivir-en-suiza",
+        readingTime: 5,
+        summary: "La langue dépend du canton. En Suisse alémanique, on parle souvent des dialectes (Schweizerdeutsch) à l’oral ; l’administration utilise généralement l’allemand standard.",
+        content: `<div class="page-header">
+<h1>Les langues en Suisse : ce qu’il faut savoir</h1>
+</div>
+<div class="article-content">
+<p>La Suisse a <strong>4 langues nationales</strong>. Pour l’intégration, la langue du canton de résidence est la plus importante.</p>
+
+<h2>Suisse alémanique</h2>
+<p>À l’oral : dialectes (Schweizerdeutsch) ; à l’écrit : allemand standard.</p>
+
+<h2>Romandie</h2>
+<p>Français.</p>
+
+<h2>Tessin</h2>
+<p>Italien.</p>
+</div>`
     }
 };

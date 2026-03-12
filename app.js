@@ -1189,8 +1189,6 @@ document.addEventListener("DOMContentLoaded", () => {
         let isArticle = false;
         let routeKey = path;
         let pageData;
-        let missingTranslation = false;
-        let missingTranslationEs = null;
 
         // Standardize clean path behavior for resolution
         const cleanPath = path.startsWith('/') ? path : '/' + path;
@@ -1224,22 +1222,10 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!pageData && currentLang !== 'es') {
             const esArticles = window.siteContent['es'] && window.siteContent['es'].articles;
             if (esArticles) {
-                // Direct article key (legacy /articulo/<key>) exists only in ES
-                if (routeKey && esArticles[routeKey] && (!langData.articles || !langData.articles[routeKey])) {
-                    missingTranslation = true;
-                    missingTranslationEs = esArticles[routeKey];
-                    isArticle = true;
-                }
-
                 const esKeyBySlug = Object.keys(esArticles).find(key => esArticles[key].slug === routeKey);
                 if (esKeyBySlug) {
                     routeKey = esKeyBySlug;
-                    if (langData.articles && langData.articles[esKeyBySlug]) {
-                        pageData = langData.articles[esKeyBySlug];
-                    } else {
-                        missingTranslation = true;
-                        missingTranslationEs = esArticles[esKeyBySlug];
-                    }
+                    pageData = langData.articles && langData.articles[esKeyBySlug];
                     isArticle = true;
                 }
             }
@@ -1250,13 +1236,13 @@ document.addEventListener("DOMContentLoaded", () => {
             pageData = langData.pages[routeKey];
         }
 
-        // 404 Fallback to Home
-        if (!pageData && !missingTranslation) {
+        // 404 / missing translation fallback to Home
+        if (!pageData) {
             pageData = langData.pages["home"];
             routeKey = "home";
         }
 
-        return { routeKey, pageData, isArticle, missingTranslation, missingTranslationEs };
+        return { routeKey, pageData, isArticle };
     }
 
     /**
@@ -1399,54 +1385,16 @@ document.addEventListener("DOMContentLoaded", () => {
     function renderRoute() {
         const path = getCurrentPath();
         const langData = window.siteContent[currentLang];
-        const { routeKey, pageData, isArticle, missingTranslation, missingTranslationEs } = resolveRoute(path);
+        const { routeKey, pageData, isArticle } = resolveRoute(path);
 
         // Apply transition effects
         appContainer.classList.add("page-transitioning");
 
         setTimeout(() => {
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
-            const hubForNav = isArticle ? ((pageData && pageData.hub) || (missingTranslationEs && missingTranslationEs.hub)) : null;
+            const hubForNav = isArticle ? (pageData && pageData.hub) : null;
 
-            if (isArticle && missingTranslation) {
-                progressBarContainer.style.display = "none";
-
-                const esArticle = missingTranslationEs || {};
-                const esArticleHref = esArticle.slug ? `#/${esArticle.slug}` : `#/articulo/${routeKey}`;
-                const hubHref = hubForNav ? `#/${hubForNav}` : "#/";
-                const metaData = {
-                    title: ui["i18n-missing-title"] || "Not available",
-                    description: ui["i18n-missing-desc"] || "",
-                    keywords: "",
-                    slug: esArticle.slug,
-                    hub: hubForNav
-                };
-
-                appContainer.innerHTML = `
-                    <div class="article-layout fade-in-up">
-                        <main>
-                            <article>
-                                <div class="article-header">
-                                    <nav class="breadcrumbs">
-                                        <a href="#/">${ui['nav-inicio']}</a> > 
-                                        ${hubForNav ? `<a href="${hubHref}">${ui['lbl-guides']}</a> > ` : ``}
-                                        <span>${ui["i18n-missing-title"] || ""}</span>
-                                    </nav>
-                                    <h1>${ui["i18n-missing-title"] || ""}</h1>
-                                    <p style="font-size: 1.125rem; color: var(--text-secondary); margin-top: 0.75rem;">${ui["i18n-missing-desc"] || ""}</p>
-
-                                    <div class="hero-actions" style="margin-top: 1.5rem;">
-                                        <a href="${esArticleHref}" class="btn btn-primary" onclick="window.setLanguage && window.setLanguage('es'); return false;">${ui["i18n-missing-btn-es"] || "Read in Spanish"}</a>
-                                        <a href="${hubHref}" class="btn">${ui["i18n-missing-btn-back"] || "Back"}</a>
-                                    </div>
-                                </div>
-                            </article>
-                        </main>
-                    </div>
-                `;
-
-                updateMetaTags(metaData, true, routeKey);
-            } else if (isArticle) {
+            if (isArticle) {
                 // Find Related Guides
                 const relatedKeys = Object.keys(langData.articles)
                     .filter(k => k !== routeKey && langData.articles[k].hub === pageData.hub)
@@ -1539,9 +1487,7 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             // Update Meta & Title dynamically for SEO
-            if (!(isArticle && missingTranslation)) {
-                updateMetaTags(pageData, isArticle, routeKey);
-            }
+            updateMetaTags(pageData, isArticle, routeKey);
 
             // Set active Nav link based on Route Key
             navLinks.forEach(link => {

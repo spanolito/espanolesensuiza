@@ -655,5 +655,347 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
 <strong>SEM-Informationen:</strong> Alle Kantone haben ihre eigenen Verfahren, respektieren jedoch das Bundesrecht der <a href="https://www.sem.admin.ch/sem/en/home/themen/buergerrecht/einbuergerung/ordentliche_einbuergerung.html" target="_blank">SEM</a>. 
 </div>
 </div>`
+    },
+
+    // Fehlende Übersetzungen ergänzt (2026-03-12)
+    "articulo-tramites-llegada": {
+        title: "Checkliste: die wichtigsten Schritte im ersten Monat in der Schweiz",
+        description: "Praktische Checkliste für die ersten 30 Tage: Anmeldung, Bankkonto, Krankenversicherung (LAMal/KVG), ÖV, Post, Abfallregeln und mehr.",
+        keywords: "checkliste ankunft schweiz, anmeldung gemeinde, krankenversicherung kvg, erster monat",
+        category: "Erste Schritte",
+        hub: "tramites",
+        readingTime: 6,
+        summary: "Wichtige Fristen: Anmeldung in der Gemeinde (oft innerhalb von 14 Tagen) und Krankenversicherung innerhalb von 3 Monaten (rückwirkend). Die Reihenfolge der Schritte spart Zeit und Stress.",
+        content: `<div class="page-header">
+<h1>Ankommen in der Schweiz: Checkliste für den ersten Monat</h1>
+</div>
+<div class="article-content">
+<p>Die ersten Tage können überwältigend sein. Einige Dinge haben klare Fristen – und in der falschen Reihenfolge kann es schnell kompliziert werden. Hier eine einfache, praxisnahe Checkliste.</p>
+
+<h2>Woche 1 — vor / zum Arbeitsstart</h2>
+<ul>
+  <li><strong>Anmeldung bei der Gemeinde (Einwohnerkontrolle):</strong> Sie erhalten meist eine provisorische Bestätigung, die vieles freischaltet.</li>
+  <li><strong>Schweizer Bankkonto eröffnen:</strong> Für den Lohn brauchen viele Arbeitgeber eine Schweizer IBAN.</li>
+</ul>
+
+<h2>Erste 2 Wochen</h2>
+<ul>
+  <li><strong>Krankenversicherung (KVG/LAMal) wählen:</strong> oft bis zu 3 Monate Zeit, aber rückwirkend ab Tag 1 – daher nicht warten.</li>
+  <li><strong>Zivilstand/Kinderdaten dem Arbeitgeber melden:</strong> relevant für Quellensteuer/Payroll.</li>
+</ul>
+
+<h2>Erster Monat</h2>
+<ul>
+  <li><strong>ÖV:</strong> Wenn Sie viel Zug fahren, lohnt sich oft das <em>Halbtax</em>.</li>
+  <li><strong>Name am Briefkasten:</strong> Viele Behördenbriefe kommen per Post (Bewilligung, Kasse, Steuern).</li>
+  <li><strong>Abfallregeln lernen:</strong> In vielen Gemeinden sind offizielle Gebühren-Säcke Pflicht.</li>
+</ul>
+</div>`
+    },
+
+    "articulo-trabajar-sin-permiso-fisico": {
+        title: "Arbeiten, bevor die Bewilligungskarte da ist?",
+        description: "Ja. Nach der Anmeldung erhalten Sie eine provisorische Bestätigung, die rechtlich gilt, bis die Karte per Post eintrifft.",
+        keywords: "arbeiten ohne ausweiskarte, provisorische meldebestätigung, bewilligung karte warten",
+        category: "Verwaltungsverfahren",
+        hub: "tramites",
+        readingTime: 3,
+        summary: "Die Plastikkarte kann Wochen dauern. Die provisorische Meldebestätigung reicht in der Regel für Arbeitgeber und Lohnabrechnung.",
+        content: `<div class="page-header">
+<h1>Arbeiten ohne die physische Bewilligungskarte</h1>
+</div>
+<div class="article-content">
+<p><strong>Ja</strong> – in vielen Kantonen können Sie nach der Anmeldung direkt starten. Die physische Karte kommt später per Post.</p>
+
+<h2>Welches Dokument zählt?</h2>
+<p>Bei der Anmeldung erhalten Sie oft eine <strong>provisorische Bestätigung</strong> (Bezeichnungen variieren). Sie belegt, dass Sie korrekt gemeldet sind.</p>
+
+<div class="callout info">
+<strong>Tipp:</strong> Name am Briefkasten anbringen, damit die Karte zugestellt werden kann.
+</div>
+</div>`
+    },
+
+    "articulo-reagrupacion-familiar": {
+        title: "Familiennachzug in der Schweiz: Partner und Kinder nachholen",
+        description: "Kurzguide zum Familiennachzug: Voraussetzungen, Unterlagen, Fristen und Rechte für Ehepartner/Partner und Kinder.",
+        keywords: "familiennachzug schweiz, partner kinder nachholen, apostille übersetzung dokumente",
+        category: "Verwaltungsverfahren",
+        hub: "tramites",
+        readingTime: 5,
+        summary: "Mit einer gültigen B- oder C-Bewilligung ist Familiennachzug oft möglich – mit geeigneter Wohnung, ausreichenden Mitteln und korrekten Dokumenten.",
+        content: `<div class="page-header">
+<h1>Familiennachzug in der Schweiz</h1>
+</div>
+<div class="article-content">
+<p>Familiennachzug ist kantonal geregelt. Die Details hängen vom Status und vom Kanton ab, das Grundprinzip ist aber ähnlich.</p>
+
+<h2>Wer kann nachziehen?</h2>
+<ul>
+  <li>Ehepartner oder eingetragener Partner</li>
+  <li>Kinder unter 18 Jahren</li>
+</ul>
+
+<h2>Typische Voraussetzungen</h2>
+<ul>
+  <li><strong>Angemessener Wohnraum</strong></li>
+  <li><strong>Ausreichende finanzielle Mittel</strong> (keine Sozialhilfe)</li>
+  <li><strong>Gültiger Aufenthaltstitel</strong> (oft B oder C)</li>
+</ul>
+
+<h2>Unterlagen (häufig)</h2>
+<ul>
+  <li>Pässe/IDs</li>
+  <li>Heirats-/Partnerschaftsurkunde, Geburtsurkunden</li>
+  <li><strong>Apostille + beglaubigte Übersetzungen</strong> (je nach Kanton)</li>
+  <li>Mietvertrag + Einkommensnachweis</li>
+</ul>
+</div>`
+    },
+
+    "articulo-subalquiler": {
+        title: "Untermiete in der Schweiz: das Wichtigste (rechtlich & praktisch)",
+        description: "Grundlagen zur Untermiete: schriftlicher Vertrag, Kaution und Zustimmung der Vermietung – so vermeiden Sie Probleme.",
+        keywords: "untermiete schweiz, untermietvertrag, kaution, zustimmung vermieter",
+        category: "Wohnen",
+        hub: "vivienda",
+        readingTime: 4,
+        summary: "Untermiete ist verbreitet und erlaubt – aber idealerweise mit schriftlichem Vertrag und ausdrücklicher Zustimmung der Vermietung.",
+        content: `<div class="page-header">
+<h1>Untermiete in der Schweiz: Checkliste</h1>
+</div>
+<div class="article-content">
+<h2>1) Schriftlicher Vertrag</h2>
+<ul>
+  <li>Wer (Hauptmieter/Untermieter), was (Zimmer/Wohnung), Dauer</li>
+  <li>Miete + Nebenkosten, Inventar, Kündigungsfrist</li>
+</ul>
+
+<h2>2) Kaution</h2>
+<p>1–2 Monatsmieten sind üblich. Zustand mit Fotos dokumentieren.</p>
+
+<h2>3) Zustimmung der Vermietung</h2>
+<p><strong>Unbedingt</strong> schriftlich klären. Heimliche Untermiete kann den Hauptmietvertrag gefährden.</p>
+</div>`
+    },
+
+    "articulo-jubilacion": {
+        title: "Rente in der Schweiz: was Sie erwarten können (AHV/AVS, BVG/LPP)",
+        description: "Das 3-Säulen-System verständlich erklärt und warum das Ankunftsalter (30/40/50) einen Unterschied macht.",
+        keywords: "rente schweiz ahv, bvg berufliche vorsorge, säule 3a, pension",
+        category: "Sozialversicherung",
+        hub: "trabajo",
+        readingTime: 5,
+        summary: "Die Schweizer Altersvorsorge basiert auf 3 Säulen. Wer später kommt, sollte Säule 2 und 3 besonders aktiv planen.",
+        content: `<div class="page-header">
+<h1>Altersvorsorge in der Schweiz: die 3 Säulen</h1>
+</div>
+<div class="article-content">
+<p>Die Rente in der Schweiz wird oft als <strong>3-Säulen-System</strong> beschrieben. Ihr Ergebnis hängt stark von Beitragsjahren und Lohn ab.</p>
+
+<h2>Säule 1: AHV/AVS</h2>
+<p>Staatliche Grundrente. Beitragslücken können die Rente reduzieren.</p>
+
+<h2>Säule 2: BVG/LPP</h2>
+<p>Berufliche Vorsorge über den Arbeitgeber – für viele der größte Teil der späteren Rente.</p>
+
+<h2>Säule 3: 3a (freiwillig)</h2>
+<p>Steuerbegünstigtes Sparen, hilfreich um Lücken zu schließen.</p>
+</div>`
+    },
+
+    "articulo-vivir-sin-trabajar": {
+        title: "In der Schweiz leben ohne zu arbeiten (EU/EFTA): Voraussetzungen",
+        description: "Wie EU/EFTA-Bürger ohne Erwerbstätigkeit in der Schweiz wohnen können: Nachweis Mittel, Versicherung und Anmeldung.",
+        keywords: "in der schweiz leben ohne arbeit, ausreichende mittel, aufenthalt ohne erwerbstätigkeit",
+        category: "Verwaltungsverfahren",
+        hub: "tramites",
+        readingTime: 4,
+        summary: "Grundsätzlich möglich, aber Sie müssen ausreichende finanzielle Mittel und eine passende Krankenversicherung nachweisen und sich offiziell anmelden.",
+        content: `<div class="page-header">
+<h1>In der Schweiz wohnen ohne Job: was gilt?</h1>
+</div>
+<div class="article-content">
+<h2>Typische Anforderungen</h2>
+<ul>
+  <li><strong>Ausreichende finanzielle Mittel</strong> (Ersparnisse, Einkommen, Rente)</li>
+  <li><strong>Krankenversicherung</strong> (KVG/LAMal oder anerkannte Alternative je nach Status)</li>
+  <li><strong>Anmeldung</strong> bei der Gemeinde bei längerem Aufenthalt</li>
+</ul>
+</div>`
+    },
+
+    "articulo-ai-invalidez": {
+        title: "IV/AI in der Schweiz: Unterstützung und Wiedereingliederung",
+        description: "Wie die Invalidenversicherung funktioniert: Fokus auf Rehabilitation und Rückkehr in den Beruf, bevor eine Rente geprüft wird.",
+        keywords: "invalidenversicherung iv ai, invalidenrente, wiedereingliederung",
+        category: "Sozialversicherung",
+        hub: "salud",
+        readingTime: 4,
+        summary: "Die IV/AI verfolgt das Prinzip «Eingliederung vor Rente». Eine Rente kommt meist erst nach ausgeschöpften Maßnahmen in Betracht.",
+        content: `<div class="page-header">
+<h1>Invalidenversicherung (IV/AI): Eingliederung vor Rente</h1>
+</div>
+<div class="article-content">
+<p>Die Schweizer IV/AI versucht in erster Linie, die Erwerbsfähigkeit zu erhalten oder wiederherzustellen.</p>
+
+<h2>Typische Maßnahmen</h2>
+<ul>
+  <li>Medizinische und berufliche Rehabilitation</li>
+  <li>Anpassungen am Arbeitsplatz, Hilfsmittel</li>
+  <li>Umschulung</li>
+</ul>
+</div>`
+    },
+
+    "articulo-vacunas": {
+        title: "Impfungen in der Schweiz: Empfehlungen statt Pflicht",
+        description: "Wie das Impfsystem funktioniert: meist keine gesetzliche Pflicht, aber offizielle Empfehlungen des BAG.",
+        keywords: "impfen schweiz, bag impfplan, zecken encephalitis, impfempfehlung",
+        category: "Öffentliche Gesundheit",
+        hub: "salud",
+        readingTime: 4,
+        summary: "Die Schweiz arbeitet überwiegend mit Empfehlungen. Standardimpfungen werden empfohlen; FSME (Zecken) ist für Outdoor-Aktivitäten oft besonders relevant.",
+        content: `<div class="page-header">
+<h1>Impfungen in der Schweiz</h1>
+</div>
+<div class="article-content">
+<p>In der Schweiz sind Impfungen in der Regel <strong>nicht gesetzlich verpflichtend</strong>. Das BAG veröffentlicht jedoch klare Empfehlungen.</p>
+
+<h2>BAG-Empfehlungen</h2>
+<ul>
+  <li>Standardimpfungen (z.B. DTP, Polio, MMR)</li>
+  <li><strong>FSME:</strong> je nach Region/Outdoor-Aktivität empfohlen</li>
+</ul>
+</div>`
+    },
+
+    "articulo-danza-patos": {
+        title: "Kuriosität: Der «Ententanz» hat Schweizer Ursprung",
+        description: "Die Geschichte von «Der Ententanz», komponiert in der Schweiz und später weltweit als Partyhit bekannt.",
+        keywords: "ententanz schweiz ursprung, werner thomas davos, birdie song",
+        category: "Kultur & Alltag",
+        hub: "vivir",
+        readingTime: 3,
+        summary: "Die bekannte Melodie stammt von einem Schweizer Akkordeonisten aus der Davoser Region (späte 1950er).",
+        content: `<div class="page-header">
+<h1>Der Schweizer Ursprung des Ententanz</h1>
+</div>
+<div class="article-content">
+<p>Viele kennen den Song von Hochzeiten oder Dorffesten. Weniger bekannt: <strong>«Der Ententanz»</strong> hat Schweizer Wurzeln.</p>
+<p>Komponiert wurde die Melodie von <strong>Werner Thomas</strong> und verbreitete sich später international in zahlreichen Versionen.</p>
+</div>`
+    },
+
+    "articulo-introduccion-suiza": {
+        title: "Wie die Schweiz funktioniert: das Wichtigste für Neuankömmlinge",
+        description: "Kurze Einführung: Föderalismus, 26 Kantone, direkte Demokratie, Sprachen – und warum Ihr Wohnkanton Steuern, Schule und Verfahren prägt.",
+        keywords: "wie funktioniert die schweiz, kantone, föderalismus, direkte demokratie, sprachen",
+        audience: "newcomer",
+        category: "Land",
+        hub: "vivir-en-suiza",
+        readingTime: 7,
+        summary: "Die Schweiz ist föderal organisiert. Viele Regeln, die Ihren Alltag betreffen, hängen von Kanton und Gemeinde ab.",
+        content: `<div class="page-header">
+<h1>Wie die Schweiz funktioniert (kurz & praktisch)</h1>
+</div>
+<div class="article-content">
+<p>Die Schweiz ist stark <strong>dezentral</strong>. Kantone und Gemeinden haben echte Zuständigkeiten – das merken Sie sofort.</p>
+
+<h2>Warum das wichtig ist</h2>
+<ul>
+  <li><strong>Steuern:</strong> Unterschiede zwischen Kantonen und sogar Gemeinden</li>
+  <li><strong>Schule:</strong> Bildung ist weitgehend kantonal</li>
+  <li><strong>Verwaltung:</strong> Prozesse/Fristen können je nach Kanton variieren</li>
+</ul>
+
+<h2>Direkte Demokratie</h2>
+<p>Es gibt regelmäßige Abstimmungen auf Bundes-, Kantons- und Gemeindeebene.</p>
+
+<h2>Sprachen</h2>
+<p>Vier Landessprachen: Deutsch, Französisch, Italienisch, Romanisch. Die Kantonsprache ist zentral für Integration und Job.</p>
+</div>`
+    },
+
+    "articulo-cantones": {
+        title: "Die 26 Kantone der Schweiz: was sich von Kanton zu Kanton ändert",
+        description: "Kantone sind mehr als Regionen: Sie prägen Steuern, Schule und viele Verfahren. Ein kurzer Guide für Neuankömmlinge.",
+        keywords: "26 kantone schweiz, kantonale unterschiede, steuern kanton, schulsystem kanton",
+        audience: "newcomer",
+        category: "Territoriale Organisation",
+        hub: "vivir-en-suiza",
+        readingTime: 6,
+        summary: "Ein Kanton ist wie ein eigenes Regelwerk. Informieren Sie sich früh über Steuern, Schule und Verwaltung in Ihrem Wohnkanton.",
+        content: `<div class="page-header">
+<h1>Die Schweizer Kantone: was Sie wissen sollten</h1>
+</div>
+<div class="article-content">
+<p>Die Schweiz besteht aus <strong>26 Kantonen</strong>. Viele praktische Dinge unterscheiden sich je nach Wohnort.</p>
+
+<h2>Typische Unterschiede</h2>
+<ul>
+  <li>Steuersätze und Abzüge</li>
+  <li>Schulstruktur und Ferien</li>
+  <li>Verwaltungspraxis (Termine, Formulare, Bearbeitungszeiten)</li>
+  <li>Amtssprache(n)</li>
+</ul>
+</div>`
+    },
+
+    "articulo-lenguas": {
+        title: "Sprachen in der Schweiz: Deutsch, Französisch, Italienisch, Romanisch",
+        description: "Ein Guide zu den Landessprachen, Schweizerdeutsch, zweisprachigen Kantonen und welche Sprache Sie priorisieren sollten.",
+        keywords: "sprachen schweiz, schweizerdeutsch, romandie, ticino, romanisch",
+        audience: "newcomer",
+        category: "Kultur & Sprachen",
+        hub: "vivir-en-suiza",
+        readingTime: 5,
+        summary: "Welche Sprache Sie brauchen, hängt vom Kanton ab. In der Deutschschweiz wird oft Schweizerdeutsch gesprochen, schriftlich meist Hochdeutsch.",
+        content: `<div class="page-header">
+<h1>Sprachen in der Schweiz: was Neuankömmlinge erwartet</h1>
+</div>
+<div class="article-content">
+<p>Die Schweiz hat <strong>vier Landessprachen</strong>. Für Alltag und Arbeit zählt die Sprache Ihres Kantons.</p>
+
+<h2>Deutschschweiz</h2>
+<p>Im Alltag häufig Schweizerdeutsch (Dialekte), schriftlich meist Hochdeutsch.</p>
+
+<h2>Romandie</h2>
+<p>Französisch, nahe am Standardfranzösisch.</p>
+
+<h2>Ticino</h2>
+<p>Italienisch.</p>
+
+<h2>Zweisprachige Kantone</h2>
+<p>Einige Kantone arbeiten offiziell mit zwei (oder drei) Sprachen.</p>
+</div>`
+    },
+
+    "articulo-consulados": {
+        title: "Spanische Konsulate in der Schweiz: Standorte und Dienstleistungen",
+        description: "Leitfaden zu den spanischen Konsulaten (Genf, Bern, Zürich): Dienstleistungen, Registrierung, Pass/DNI, Personenstand und Terminbuchung.",
+        keywords: "spanisches konsulat schweiz, konsularische registrierung, pass erneuern, citaconsular",
+        audience: "newcomer",
+        category: "Ressourcen",
+        hub: "tramites",
+        readingTime: 5,
+        summary: "Für Spanier in der Schweiz ist die konsularische Registrierung wichtig. Termine für Pass/DNI frühzeitig buchen.",
+        content: `<div class="page-header">
+<h1>Spanische Konsulate in der Schweiz</h1>
+</div>
+<div class="article-content">
+<p>In der Schweiz gibt es mehrere spanische Konsularstellen (u.a. Genf, Bern, Zürich). Viele Vorgänge funktionieren nur mit Termin.</p>
+
+<h2>Wichtige Dienste</h2>
+<ul>
+  <li>Konsularische Registrierung (RECA/CERA)</li>
+  <li>Pass- und DNI-Angelegenheiten</li>
+  <li>Personenstand (Geburt, Heirat, Todesfall)</li>
+  <li>Notfallhilfe</li>
+</ul>
+
+<h2>Terminvereinbarung</h2>
+<p>Offizielles System: <a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer">citaconsular.es</a></p>
+</div>`
     }
 };

@@ -655,5 +655,334 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 <strong>Informazioni SEM:</strong> Tutti i cantoni hanno le proprie procedure, ma rispettano la legge federale del <a href="https://www.sem.admin.ch/sem/en/home/themen/buergerrecht/einbuergerung/ordentliche_einbuergerung.html" target="_blank">SEM</a>. 
 </div>
 </div>`
+    },
+
+    // Traduzioni mancanti aggiunte (2026-03-12)
+    "articulo-tramites-llegada": {
+        title: "Checklist: pratiche essenziali nel primo mese in Svizzera",
+        description: "Checklist pratica per i primi 30 giorni: registrazione, conto bancario, assicurazione malattia (LAMal), trasporti, posta, rifiuti e altro.",
+        keywords: "checklist arrivo svizzera, registrazione comune, assicurazione lamal, primo mese svizzera",
+        category: "Primi Passi",
+        hub: "tramites",
+        readingTime: 6,
+        summary: "Scadenze chiave: registrazione in comune (spesso entro 14 giorni) e assicurazione malattia entro 3 mesi (retroattiva). Seguire l’ordine giusto evita ritardi.",
+        content: `<div class="page-header">
+<h1>Arrivo in Svizzera: checklist del primo mese</h1>
+</div>
+<div class="contenuto-articolo">
+<p>I primi giorni in Svizzera possono essere intensi. Alcune pratiche hanno scadenze precise e conviene farle nell’ordine corretto.</p>
+
+<h2>Settimana 1 — prima / all’inizio del lavoro</h2>
+<ul>
+  <li><strong>Registrazione al comune (controllo abitanti):</strong> spesso ricevi subito un attestato provvisorio.</li>
+  <li><strong>Apri un conto bancario svizzero:</strong> di solito serve un IBAN CH per lo stipendio.</li>
+</ul>
+
+<h2>Prime 2 settimane</h2>
+<ul>
+  <li><strong>Assicurazione malattia (LAMal):</strong> spesso hai fino a 3 mesi, ma è retroattiva dal giorno 1.</li>
+  <li><strong>Comunica lo stato civile al datore di lavoro:</strong> può influire sulla tassazione alla fonte.</li>
+</ul>
+
+<h2>Primo mese</h2>
+<ul>
+  <li><strong>Trasporti:</strong> se usi spesso i treni, valuta l’<em>Halbtax / Demi-tarif</em>.</li>
+  <li><strong>Nome sulla cassetta postale:</strong> molte comunicazioni ufficiali arrivano per posta.</li>
+  <li><strong>Regole rifiuti:</strong> in molti comuni servono sacchi ufficiali a tassa inclusa.</li>
+</ul>
+</div>`
+    },
+
+    "articulo-trabajar-sin-permiso-fisico": {
+        title: "Posso lavorare prima di ricevere il permesso fisico?",
+        description: "Sì. Dopo la registrazione al comune ricevi un certificato provvisorio valido mentre la tessera del permesso arriva per posta.",
+        keywords: "lavorare senza permesso fisico, attestato provvisorio, permesso svizzera tessera",
+        category: "Procedure Ordinarie",
+        hub: "tramites",
+        readingTime: 3,
+        summary: "La tessera plastificata può richiedere settimane. Il certificato provvisorio di registrazione è di norma sufficiente per il datore di lavoro.",
+        content: `<div class="page-header">
+<h1>Lavorare in Svizzera senza tessera del permesso</h1>
+</div>
+<div class="contenuto-articolo">
+<p><strong>Sì</strong>: in molti cantoni puoi iniziare a lavorare dopo la registrazione. La tessera del permesso arriva più tardi.</p>
+
+<h2>Documento provvisorio</h2>
+<p>Quando ti registri, spesso ricevi un <strong>attestato provvisorio</strong> (il nome cambia a seconda del cantone). Ha valore legale.</p>
+
+<div class="informazioni callout">
+<strong>Consiglio:</strong> metti il tuo nome sulla cassetta postale per ricevere la tessera senza problemi.
+</div>
+</div>`
+    },
+
+    "articulo-reagrupacion-familiar": {
+        title: "Ricongiungimento familiare in Svizzera: come portare la famiglia",
+        description: "Guida breve: requisiti, documenti, tempi e diritti per coniuge/partner e figli.",
+        keywords: "ricongiungimento familiare svizzera, portare coniuge figli, apostille traduzioni",
+        category: "Procedure Ordinarie",
+        hub: "tramites",
+        readingTime: 5,
+        summary: "Con un permesso B o C spesso è possibile ricongiungere coniuge/partner e figli minori, con alloggio adeguato e mezzi sufficienti.",
+        content: `<div class="page-header">
+<h1>Ricongiungimento familiare in Svizzera</h1>
+</div>
+<div class="contenuto-articolo">
+<h2>Chi può essere ricongiunto?</h2>
+<ul>
+  <li>Coniuge o partner registrato</li>
+  <li>Figli sotto i 18 anni</li>
+</ul>
+
+<h2>Requisiti tipici</h2>
+<ul>
+  <li><strong>Alloggio adeguato</strong> per la famiglia</li>
+  <li><strong>Mezzi economici sufficienti</strong></li>
+  <li><strong>Permesso valido</strong> (spesso B o C)</li>
+</ul>
+
+<h2>Documenti (di solito)</h2>
+<ul>
+  <li>Passaporti/ID</li>
+  <li>Certificati di matrimonio/partnership e nascita</li>
+  <li><strong>Apostille + traduzioni</strong> dove richiesto</li>
+  <li>Contratto di affitto + prove di reddito</li>
+</ul>
+</div>`
+    },
+
+    "articulo-subalquiler": {
+        title: "Sublocazione in Svizzera: guida pratica e legale",
+        description: "Basi della sublocazione: contratto scritto, deposito e autorizzazione del proprietario/agenzia.",
+        keywords: "sublocazione svizzera, contratto subaffitto, deposito cauzione, autorizzazione proprietario",
+        category: "Alloggio",
+        hub: "vivienda",
+        readingTime: 4,
+        summary: "La sublocazione è comune e legale, ma serve (meglio) un contratto scritto e l’autorizzazione del locatore.",
+        content: `<div class="page-header">
+<h1>Sublocazione in Svizzera: cosa controllare</h1>
+</div>
+<div class="contenuto-articolo">
+<h2>1) Contratto scritto</h2>
+<ul>
+  <li>Chi affitta a chi, cosa è incluso, durata</li>
+  <li>Canone + spese, preavviso, inventario</li>
+</ul>
+
+<h2>2) Deposito</h2>
+<p>Spesso 1–2 mensilità. Foto all’ingresso/uscita aiutano a evitare dispute.</p>
+
+<h2>3) Autorizzazione del locatore</h2>
+<p><strong>Da ottenere per iscritto</strong>. Sublocare di nascosto può mettere a rischio il contratto principale.</p>
+</div>`
+    },
+
+    "articulo-jubilacion": {
+        title: "Pensione in Svizzera: cosa aspettarsi (AVS/AHV, LPP/BVG)",
+        description: "Sistema dei 3 pilastri spiegato in modo semplice e perché l’età di arrivo (30/40/50) cambia le prospettive.",
+        keywords: "pensione svizzera AVS, LPP previdenza professionale, pilastro 3a, retirement",
+        category: "Previdenza Sociale",
+        hub: "trabajo",
+        readingTime: 5,
+        summary: "La previdenza svizzera si basa su tre pilastri. Arrivare prima significa più anni di contributi; pilastro 2 e 3 sono spesso cruciali.",
+        content: `<div class="page-header">
+<h1>Previdenza in Svizzera: i 3 pilastri</h1>
+</div>
+<div class="contenuto-articolo">
+<h2>Pilastro 1: AVS/AHV</h2>
+<p>Pensione statale di base. Anni mancanti possono ridurre l’importo.</p>
+
+<h2>Pilastro 2: LPP/BVG</h2>
+<p>Previdenza professionale tramite datore di lavoro.</p>
+
+<h2>Pilastro 3: 3a (volontario)</h2>
+<p>Risparmio volontario con vantaggi fiscali per colmare eventuali gap.</p>
+</div>`
+    },
+
+    "articulo-vivir-sin-trabajar": {
+        title: "Vivere in Svizzera senza lavorare (UE/AELS): requisiti",
+        description: "Come risiedere senza attività lucrativa: mezzi sufficienti, assicurazione sanitaria e registrazione.",
+        keywords: "vivere in svizzera senza lavoro, mezzi sufficienti, permesso senza attività lucrativa",
+        category: "Procedure Ordinarie",
+        hub: "tramites",
+        readingTime: 4,
+        summary: "È possibile in alcuni casi, ma devi dimostrare risorse economiche e un’assicurazione sanitaria adeguata e registrarti ufficialmente.",
+        content: `<div class="page-header">
+<h1>Residenza in Svizzera senza contratto di lavoro</h1>
+</div>
+<div class="contenuto-articolo">
+<ul>
+  <li><strong>Mezzi economici sufficienti</strong> (risparmi, rendite, pensione)</li>
+  <li><strong>Assicurazione sanitaria</strong> (LAMal o equivalente accettato a seconda dello status)</li>
+  <li><strong>Registrazione</strong> al comune per soggiorni prolungati</li>
+</ul>
+</div>`
+    },
+
+    "articulo-ai-invalidez": {
+        title: "Assicurazione invalidità (AI/IV) in Svizzera: reinserimento prima della rendita",
+        description: "Come funziona l’AI/IV: priorità a riabilitazione e reinserimento lavorativo; la rendita arriva solo se necessario.",
+        keywords: "AI IV svizzera, invalidità, reinserimento, rendita invalidità",
+        category: "Assicurazioni Sociali",
+        hub: "salud",
+        readingTime: 4,
+        summary: "Il principio è «reinserimento prima della rendita». L’AI finanzia misure di riabilitazione e adattamenti per tornare al lavoro.",
+        content: `<div class="page-header">
+<h1>AI/IV in Svizzera: supporto e reinserimento</h1>
+</div>
+<div class="contenuto-articolo">
+<h2>Misure possibili</h2>
+<ul>
+  <li>Riabilitazione medica e professionale</li>
+  <li>Adattamenti sul posto di lavoro e ausili</li>
+  <li>Riqualificazione / formazione</li>
+</ul>
+
+<h2>Quando si parla di rendita?</h2>
+<p>Di solito dopo aver tentato le misure di reinserimento e se permane una perdita di capacità di guadagno a lungo termine.</p>
+</div>`
+    },
+
+    "articulo-vacunas": {
+        title: "Vaccini in Svizzera: raccomandazioni, non obblighi",
+        description: "In generale non sono obbligatori per legge, ma sono raccomandati dall’Ufficio federale della sanità pubblica (UFSP/BAG).",
+        keywords: "vaccini svizzera, calendario vaccinale UFSP BAG, encefalite da zecche",
+        category: "Salute Pubblica",
+        hub: "salud",
+        readingTime: 4,
+        summary: "Il sistema svizzero si basa soprattutto su raccomandazioni ufficiali e scelta informata. L’encefalite da zecche è spesso evidenziata per chi fa attività all’aperto.",
+        content: `<div class="page-header">
+<h1>Vaccinazioni in Svizzera</h1>
+</div>
+<div class="contenuto-articolo">
+<p>In Svizzera i vaccini sono in genere <strong>non obbligatori per legge</strong>. L’UFSP/BAG pubblica un calendario raccomandato.</p>
+
+<ul>
+  <li>Vaccini standard (DTP, polio, MPR, ecc.)</li>
+  <li><strong>Encefalite da zecche (FSME/TBE):</strong> spesso raccomandata in alcune zone e per attività outdoor</li>
+</ul>
+
+<p>I vaccini raccomandati sono generalmente coperti dall’assicurazione di base, secondo franchigia/deduzione.</p>
+</div>`
+    },
+
+    "articulo-danza-patos": {
+        title: "Curiosità: la “Danza dei anatroccoli” è di origine svizzera",
+        description: "La storia di “Der Ententanz”, melodia nata in Svizzera e diventata un classico mondiale delle feste.",
+        keywords: "danza dei anatroccoli origine svizzera, der ententanz, werner thomas davos",
+        category: "Cultura e Vita",
+        hub: "vivir",
+        readingTime: 3,
+        summary: "La famosa melodia fu composta da Werner Thomas, fisarmonicista svizzero, alla fine degli anni ’50 nella zona di Davos.",
+        content: `<div class="page-header">
+<h1>L’origine svizzera della Danza degli anatroccoli</h1>
+</div>
+<div class="contenuto-articolo">
+<p>Molti l’hanno sentita a matrimoni e sagre. Ma <strong>“Der Ententanz”</strong> ha radici svizzere.</p>
+<p>La melodia è attribuita a <strong>Werner Thomas</strong> e si è diffusa nel mondo con molte versioni negli anni ’70 e ’80.</p>
+</div>`
+    },
+
+    "articulo-introduccion-suiza": {
+        title: "Come funziona la Svizzera: essenziale per nuovi residenti",
+        description: "Introduzione pratica: federalismo, 26 cantoni, democrazia diretta, lingue e perché il cantone in cui vivi cambia tasse, scuola e pratiche.",
+        keywords: "come funziona la svizzera, cantoni, federalismo, democrazia diretta, lingue svizzera",
+        audience: "newcomer",
+        category: "Paese",
+        hub: "vivir-en-suiza",
+        readingTime: 7,
+        summary: "La Svizzera è molto federale: cantoni e comuni hanno autonomia. Molte regole quotidiane dipendono dal luogo di residenza.",
+        content: `<div class="page-header">
+<h1>Come funziona la Svizzera (in modo semplice)</h1>
+</div>
+<div class="contenuto-articolo">
+<p>La Svizzera è un paese <strong>federale</strong>: cantoni e comuni hanno competenze reali. Questo influisce su tasse, scuola e procedure.</p>
+
+<h2>Perché ti riguarda subito</h2>
+<ul>
+  <li><strong>Tasse:</strong> variano molto tra cantoni e comuni</li>
+  <li><strong>Scuola:</strong> organizzazione principalmente cantonale</li>
+  <li><strong>Amministrazione:</strong> pratiche e tempi possono cambiare</li>
+</ul>
+
+<h2>Lingue</h2>
+<p>Quattro lingue nazionali: tedesco, francese, italiano, romancio.</p>
+</div>`
+    },
+
+    "articulo-cantones": {
+        title: "I 26 cantoni svizzeri: cosa cambia da un cantone all’altro",
+        description: "I cantoni non sono solo regioni: influenzano tasse, scuola e molte pratiche. Guida rapida per nuovi residenti.",
+        keywords: "26 cantoni svizzera, differenze cantonali, tasse cantoni, scuola cantone",
+        audience: "newcomer",
+        category: "Organizzazione Territoriale",
+        hub: "vivir-en-suiza",
+        readingTime: 6,
+        summary: "Scegliere un cantone significa scegliere molte regole: fiscalità, scuola e amministrazione possono variare notevolmente.",
+        content: `<div class="page-header">
+<h1>I cantoni della Svizzera: cosa sapere</h1>
+</div>
+<div class="contenuto-articolo">
+<h2>Cosa varia spesso</h2>
+<ul>
+  <li>Carico fiscale e deduzioni</li>
+  <li>Sistema scolastico e calendario</li>
+  <li>Pratiche amministrative (appuntamenti, moduli, tempi)</li>
+  <li>Lingua/e ufficiali</li>
+</ul>
+</div>`
+    },
+
+    "articulo-lenguas": {
+        title: "Lingue in Svizzera: tedesco, francese, italiano, romancio",
+        description: "Guida per nuovi arrivati: regioni linguistiche, svizzero tedesco, cantoni bilingui e quale lingua imparare.",
+        keywords: "lingue svizzera, svizzero tedesco, romandia, ticino, romancio",
+        audience: "newcomer",
+        category: "Cultura e Lingue",
+        hub: "vivir-en-suiza",
+        readingTime: 5,
+        summary: "La lingua dipende dal cantone. Nella Svizzera tedesca si parla spesso dialetto (Schweizerdeutsch) nella vita quotidiana; l’amministrazione usa di solito l’alta lingua.",
+        content: `<div class="page-header">
+<h1>Lingue in Svizzera: cosa aspettarsi</h1>
+</div>
+<div class="contenuto-articolo">
+<p>La Svizzera ha <strong>quattro lingue nazionali</strong>. Per lavoro e integrazione conta la lingua del tuo cantone.</p>
+
+<h2>Svizzera tedesca</h2>
+<p>Parlato spesso in dialetto; scritto in tedesco standard.</p>
+
+<h2>Romandia</h2>
+<p>Francese.</p>
+
+<h2>Ticino</h2>
+<p>Italiano.</p>
+</div>`
+    },
+
+    "articulo-consulados": {
+        title: "Consolati spagnoli in Svizzera: dove sono e cosa fanno",
+        description: "Guida ai consolati spagnoli (Ginevra, Berna, Zurigo): servizi, iscrizione consolare, passaporti/DNI e appuntamenti.",
+        keywords: "consolato spagnolo svizzera, iscrizione consolare, rinnovo passaporto, citaconsular",
+        audience: "newcomer",
+        category: "Risorse",
+        hub: "tramites",
+        readingTime: 5,
+        summary: "Se sei cittadino spagnolo residente in Svizzera, l’iscrizione consolare è fondamentale. Prenota gli appuntamenti con largo anticipo.",
+        content: `<div class="page-header">
+<h1>Consolati spagnoli in Svizzera</h1>
+</div>
+<div class="contenuto-articolo">
+<h2>Servizi principali</h2>
+<ul>
+  <li>Iscrizione consolare (RECA/CERA)</li>
+  <li>Passaporto e DNI (di solito su appuntamento)</li>
+  <li>Stato civile</li>
+  <li>Assistenza in emergenza</li>
+</ul>
+
+<h2>Appuntamenti</h2>
+<p>Sistema ufficiale: <a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer">citaconsular.es</a></p>
+</div>`
     }
 };
