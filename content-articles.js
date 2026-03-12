@@ -14,39 +14,63 @@ window.siteContent.es.articles = {
         category: "Trámites Ordinarios",
         hub: "tramites",
         slug: "permisos-suiza",
-        readingTime: 4,
-        dateUpdated: "Actualizado frecuentemente",
-        summary: "Existen tres permisos principales (L, B, C). Tu nacionalidad (UE vs Terceros Países) y duración del contrato dictan cuál recibes.",
+        readingTime: 7,
+        dateUpdated: "Marzo 2026",
+        summary: "Existen tres permisos principales (L, B, C). Tu nacionalidad (UE vs Terceros Países) y duración del contrato dictan cuál recibes. Puedes trabajar antes de tener la tarjeta física.",
         content: `
             <div class="page-header">
                 <h1>Permisos de residencia en Suiza: permit L, B, C y sus diferencias</h1>
             </div>
             <div class="article-content">
-                <p>Mudarse a Suiza implica registrarse y obtener un título de residencia. Si procedes de un país de la UE/EFTA (incluyendo España), el proceso está facilitado por el Acuerdo de Libre Circulación de Personas (ALCP).</p>
-                
-                <h2>Permiso L (Corta Duración)</h2>
-                <p>Dirigido a las personas que permanecen en Suiza por un periodo inferior a 12 meses.</p>
-                <ul>
-                    <li><strong>Contratos temporales:</strong> Si tienes un contrato de entre 3 y 12 meses, se te asignará este permiso.</li>
-                    <li><strong>Buscadores de empleo:</strong> Tras 3 meses buscando empleo, puedes solicitar un Permiso L para seguir buscando, que se renueva bajo ciertas condiciones probando que tienes medios económicos.</li>
-                </ul>
-
-                <h2>Permiso B (Permiso de Residencia / Livret B)</h2>
-                <p>Para residentes con contratos de larga duración o indefinidos.</p>
-                <ul>
-                    <li><strong>Validez:</strong> 5 años para ciudadanos de la UE/EFTA si tienen contrato de al menos 12 meses o indefinido.</li>
-                    <li><strong>Derechos:</strong> Permite movilidad cantonal y cambio de empleador fácilmente dentro del país.</li>
-                </ul>
-
-                <h2>Permiso C (Permiso de Establecimiento / Livret C)</h2>
-                <p>Equivale a la residencia permanente y no depende de condiciones laborales.</p>
-                <ul>
-                    <li><strong>Obtención:</strong> Se otorga tras 5 años de residencia ininterrumpida y regular para ciudadanos españoles (y de la UE-15).</li>
-                    <li><strong>Ventajas:</strong> Mismos derechos que los suizos (excepto voto), puedes abrir tu empresa libremente y los impuestos ya no se retienen a la fuente (Quellensteuer), sino mediante declaración anual normal.</li>
-                </ul>
+                <p>Mudarse a Suiza implica registrarse y obtener un título de residencia. Si procedes de un país de la UE/EFTA (incluyendo España), el proceso está facilitado por el Acuerdo de Libre Circulación de Personas (ALCP). Esto significa que llegar con un contrato de trabajo en mano es suficiente para iniciar el proceso.</p>
 
                 <div class="callout info">
-                    <strong>Fuente Oficial:</strong> Verifica las condiciones de renovación en el portal de la <a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank">Secretaría de Estado de Migración</a>.
+                    <strong>Lo más importante primero:</strong> En Suiza, el permiso físico (la tarjeta) puede tardar semanas en llegar por correo. Puedes empezar a trabajar legalmente <strong>antes de tener la tarjeta en mano</strong>, con el justificante de registro en la comuna. El empleador lo sabe y lo acepta.
+                </div>
+
+                <h2>Permiso L — Corta Duración</h2>
+                <p>Para quienes permanecen en Suiza menos de 12 meses.</p>
+                <ul>
+                    <li><strong>Contratos temporales:</strong> Si tienes un contrato de entre 3 y 12 meses, se te asignará este permiso.</li>
+                    <li><strong>Buscadores de empleo:</strong> Tras 3 meses buscando empleo, puedes solicitar un Permiso L que se renueva bajo ciertas condiciones probando medios económicos.</li>
+                    <li><strong>Validez:</strong> Dura lo mismo que el contrato y se renueva si este se renueva.</li>
+                    <li><strong>Limitación:</strong> Con Permiso L estás vinculado al cantón donde trabajas. No puedes cambiar libremente.</li>
+                </ul>
+
+                <h2>Permiso B — Residencia (el más habitual para recién llegados)</h2>
+                <p>Para residentes con contratos de larga duración o indefinidos. Es el permiso más habitual entre españoles con contrato.</p>
+                <ul>
+                    <li><strong>Validez:</strong> 5 años para ciudadanos UE/EFTA con contrato de al menos 12 meses o indefinido.</li>
+                    <li><strong>Movilidad:</strong> Permite cambio de cantón y de empleador libremente.</li>
+                    <li><strong>Impuestos:</strong> Con Permiso B te retienen el impuesto a la fuente (Quellensteuer) directamente en nómina. No haces declaración ordinaria, salvo que superes 120.000 CHF brutos anuales.</li>
+                    <li><strong>Si pierdes el trabajo:</strong> No pierdes automáticamente el permiso. Tienes derecho a seguir residiendo mientras estés en la caja de paro (ORP) buscando empleo activamente.</li>
+                </ul>
+
+                <h2>Permiso C — Establecimiento Permanente</h2>
+                <p>Equivale a la residencia permanente. Es el destino final para quienes se instalan definitivamente en Suiza.</p>
+                <ul>
+                    <li><strong>Obtención:</strong> Tras 5 años de residencia ininterrumpida para ciudadanos españoles (y de la UE-15).</li>
+                    <li><strong>Derechos laborales:</strong> Mismos que los suizos (excepto voto). Puedes abrir empresa libremente.</li>
+                    <li><strong>Ventaja fiscal:</strong> Pasas a hacer declaración anual ordinaria, dejando de pagar el impuesto a la fuente mensual. En muchos casos resulta más favorable.</li>
+                    <li><strong>Renovación:</strong> Cada 5 años, casi automática mientras mantengas la residencia.</li>
+                </ul>
+
+                <h2>Permiso G — Trabajador Fronterizo</h2>
+                <p>Para quienes viven en Francia, Alemania o Italia y trabajan en Suiza. La condición es volver al país de residencia al menos una vez por semana. La mayoría lo hace a diario.</p>
+
+                <h2>Cuadro comparativo rápido</h2>
+                <table class="info-table">
+                    <thead><tr><th>Permiso</th><th>Para quién</th><th>Duración</th><th>Cambio libre de cantón</th></tr></thead>
+                    <tbody>
+                        <tr><td><strong>L</strong></td><td>Contrato &lt;12 meses</td><td>= contrato</td><td>No</td></tr>
+                        <tr><td><strong>B</strong></td><td>Contrato &gt;12 meses / indefinido</td><td>5 años (UE)</td><td>Sí</td></tr>
+                        <tr><td><strong>C</strong></td><td>Residentes &gt;5 años en Suiza</td><td>5 años renovable</td><td>Sí</td></tr>
+                        <tr><td><strong>G</strong></td><td>Fronterizos (viven fuera)</td><td>5 años (UE)</td><td>N/A</td></tr>
+                    </tbody>
+                </table>
+
+                <div class="callout info">
+                    <strong>Fuente Oficial:</strong> Verifica las condiciones de renovación en el portal de la <a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank">Secretaría de Estado de Migración (SEM)</a>.
                 </div>
             </div>
         `
@@ -55,37 +79,243 @@ window.siteContent.es.articles = {
     // 2. Registro en la comuna
     "articulo-registro": {
         title: "Cómo registrarse al llegar a Suiza (Control de Habitantes)",
-        description: "Guía paso a paso sobre el registro en tu nueva comuna (Contrôle des habitants) tras mudarte a Suiza.",
-        keywords: "registro comuna suiza, empadronamiento suiza, controle des habitants, vivir en Suiza",
+        description: "Guía paso a paso sobre el registro en tu nueva comuna (Contrôle des habitants) tras mudarte a Suiza. Plazos, documentos y qué pasa después.",
+        keywords: "registro comuna suiza, empadronamiento suiza, controle des habitants, vivir en Suiza, primer mes suiza",
         category: "Trámites Iniciales",
         hub: "tramites",
         slug: "registrarse-en-suiza",
-        readingTime: 3,
-        summary: "Debes registrarte en tu comuna obligatoriamente durante los primeros 14 días. Lleva siempre pasaporte, foto y contrato de alquiler/trabajo.",
+        readingTime: 5,
+        summary: "Debes registrarte en tu comuna obligatoriamente durante los primeros 14 días. Con el justificante ya puedes trabajar. Lleva pasaporte, foto y contrato de alquiler o trabajo.",
         content: `
             <div class="page-header">
                 <h1>Cómo registrarse cuando llegas a Suiza (inscripción en la comuna)</h1>
             </div>
             <div class="article-content">
-                <p>El primer trámite obligatorio y el más importante al llegar a vivir en Suiza es el registro en la oficina de Control de Habitantes (<i>Contrôle des habitants / Einwohnerkontrolle</i>) del municipio donde vas a residir (comuna/Gemeinde).</p>
+                <p>El primer trámite obligatorio al llegar a Suiza es el registro en la oficina de Control de Habitantes (<i>Contrôle des habitants / Einwohnerkontrolle</i>) de tu municipio. Sin este paso no existes legalmente en el país y no puedes empezar a trabajar ni abrir una cuenta bancaria.</p>
 
-                <h2>Plazos Importantes</h2>
-                <p><strong>Tienes un máximo de 14 días</strong> desde tu fecha de llegada para registrarte (incluso si es 8 días en algunos cantones, siempre revisa el plazo local). Además, siempre debes registrarte <strong>antes de tu primer día de trabajo</strong>.</p>
+                <div class="callout warning">
+                    <strong>Plazo máximo:</strong> Tienes <strong>14 días</strong> desde tu llegada para registrarte (en algunos cantones, 8 días). Además, debes hacerlo <strong>antes de tu primer día de trabajo</strong>. No esperes a tener el piso definitivo para hacerlo.
+                </div>
+
+                <h2>¿Qué hago si no tengo piso todavía?</h2>
+                <p>Si estás en un hotel, Airbnb o en casa de un amigo de forma temporal, puedes registrarte en esa dirección provisional. Lo más importante es no dejar pasar el plazo. Cuando te mudes al piso definitivo, haces el cambio de domicilio en la misma oficina.</p>
+                <p>Si te alojas en casa de alguien, esa persona (titular del contrato de alquiler) necesita firmar un <strong>certificado de alojamiento</strong> para que puedas registrarte.</p>
 
                 <h2>Documentos Necesarios</h2>
                 <ul>
                     <li>Pasaporte o Documento de Identidad (DNI) válido.</li>
-                    <li>Contrato de trabajo firmado, o documento que acredite la admisión a un centro de estudios (para estudiantes).</li>
-                    <li>Contrato de alquiler firmado, o en su defecto, un certificado de alojamiento (si te hospedas en casa de un familiar o amigo, firmado por el titular del alquiler).</li>
-                    <li>Fotografía tamaño carnet (dependiendo del cantón).</li>
-                    <li>Acta de estado civil (certificado de matrimonio o nacimiento) si aplica.</li>
+                    <li>Contrato de trabajo firmado, o carta de admisión a estudios si eres estudiante.</li>
+                    <li>Contrato de alquiler firmado, o certificado de alojamiento si te hospedas en casa de un particular.</li>
+                    <li>Fotografía tamaño carnet (algunos cantones la hacen ellos directamente).</li>
+                    <li>Acta de matrimonio o nacimiento de hijos si aplica para reagrupación familiar.</li>
                 </ul>
 
-                <h2>El Proceso</h2>
-                <p>Una vez presentados los documentos, pagarás una tasa por la expedición del permiso (suele rondar los 65-100 CHF según el tipo y el cantón). Recibirás un certificado temporal ("Attestation de résidence") mientras se emite la tarjeta física de tu permiso por parte del servicio de migración.</p>
+                <h2>El Proceso Paso a Paso</h2>
+                <ol>
+                    <li>Busca el horario y dirección de la oficina de Control de Habitantes de tu comuna.</li>
+                    <li>En ciudades grandes (Ginebra, Zúrich, Lausana) suele ser necesaria <strong>cita previa</strong>. Reserva online desde el primer día.</li>
+                    <li>Presenta los documentos. Pagarás una tasa administrativa entre <strong>65 y 100 CHF</strong> según el tipo de permiso y el cantón.</li>
+                    <li>Recibirás al instante un <strong>certificado provisional de residencia</strong> ("Attestation de résidence"). Con este papel ya puedes trabajar.</li>
+                    <li>La tarjeta física del permiso llega por correo postal en 4–12 semanas. Mientras tanto, el certificado provisional es suficiente.</li>
+                </ol>
 
-                <div class="callout">
-                    <strong>Nota para familias:</strong> Si llegáis con hijos, deberéis aportar certificados de nacimiento plurilingües y libro de familia.
+                <h2>¿Qué hago después del registro?</h2>
+                <p>Una vez registrado, pon en marcha estos dos trámites urgentes:</p>
+                <ul>
+                    <li><strong>Seguro médico (LAMal):</strong> Tienes 3 meses desde la llegada para contratarlo. El efecto es retroactivo: si no lo contratas antes, pagarás igualmente desde el día 1.</li>
+                    <li><strong>Cuenta bancaria:</strong> Con el certificado de registro ya puedes abrir cuenta en la mayoría de bancos. Sin IBAN suizo, tu empresa no puede pagarte.</li>
+                </ul>
+
+                <h2>Cambios de domicilio dentro de Suiza</h2>
+                <p>Cada vez que te mudes, aunque sea dentro de la misma ciudad pero cambiando de commune, tienes que registrarte en la nueva oficina y darte de baja en la anterior. El plazo es el mismo: 14 días.</p>
+
+                <div class="callout info">
+                    <strong>Familias con hijos:</strong> Necesitaréis los certificados de nacimiento apostillados y, si están en edad escolar, debéis inscribirlos en el colegio público de la zona en los primeros días.
+                </div>
+            </div>
+        `
+    },
+
+    // 2b. Trámites iniciales completos (NUEVO - fusión posts Facebook)
+    "articulo-tramites-llegada": {
+        title: "Checklist completo: trámites al llegar a Suiza el primer mes",
+        description: "Todo lo que debes hacer el primer mes en Suiza ordenado por urgencia: registro, seguro médico, cuenta bancaria, transporte, basura y más.",
+        keywords: "tramites llegada suiza, checklist llegada suiza, primeros pasos suiza, recien llegado suiza, que hacer al llegar suiza",
+        category: "Trámites Iniciales",
+        hub: "tramites",
+        slug: "tramites-llegada-suiza",
+        readingTime: 7,
+        dateUpdated: "Marzo 2026",
+        summary: "Los primeros 30 días en Suiza son críticos. Hay trámites con plazos estrictos: registro en 14 días, seguro médico en 3 meses. Esta guía te dice qué hacer, cuándo y en qué orden.",
+        content: `
+            <div class="page-header">
+                <h1>Checklist de trámites al llegar a Suiza: el primer mes</h1>
+            </div>
+            <div class="article-content">
+                <p>Los primeros días en Suiza pueden ser abrumadores. Hay mucho que hacer, algunos trámites tienen plazos estrictos y hacerlos en el orden equivocado puede complicar todo. Esta lista te dice qué hacer primero.</p>
+
+                <div class="callout warning">
+                    <strong>Regla básica en Suiza:</strong> La ignorancia de las normas no es excusa. Si no te registras en 14 días, pueden multarte. Si no contratas el seguro médico en 3 meses, te lo asignan ellos y pagas igualmente desde el día 1. El sistema es preciso y espera que tú también lo seas.
+                </div>
+
+                <h2>Semana 1 — Antes de empezar a trabajar</h2>
+
+                <h3>✅ 1. Regístrate en la comuna (Control de Habitantes)</h3>
+                <p>Es el primer trámite y desbloquea todos los demás. Con el certificado provisional ya eres legal y puedes incorporarte al trabajo aunque la tarjeta física tarde semanas.</p>
+                <p><strong>Qué llevar:</strong> DNI/Pasaporte, contrato de trabajo o alquiler, dirección donde resides (aunque sea temporal).</p>
+                <p><strong>Coste:</strong> 65–100 CHF según cantón y tipo de permiso.</p>
+
+                <h3>✅ 2. Abre una cuenta bancaria</h3>
+                <p>Tu empleador necesita un IBAN suizo para pagarte el salario. Sin cuenta bancaria suiza, no cobras. Con el certificado de registro, ya puedes ir al banco.</p>
+                <p><strong>Opción rápida (digital):</strong> Neon, Yuh o Revolut. Cuenta activa en 24 horas sin ir a sucursal.</p>
+                <p><strong>Opciones tradicionales:</strong> PostFinance (la más extendida), UBS, Raiffeisen, Migros Bank.</p>
+
+                <h2>Primeras 2 semanas</h2>
+
+                <h3>✅ 3. Contrata el seguro médico (LAMal)</h3>
+                <p>Tienes hasta 3 meses desde la llegada. No esperes. Si enfermases el día 2 sin seguro, igualmente pagarías las primas desde el día 1 cuando lo contrates, con efecto retroactivo.</p>
+                <p><strong>Herramienta oficial:</strong> Compara precios en <a href="https://www.priminfo.admin.ch" target="_blank">Priminfo.admin.ch</a>. La cobertura básica es idéntica en todas las aseguradoras; solo varía el precio.</p>
+                <p><strong>Decide la franquicia:</strong> La mínima es 300 CHF (prima más alta) y la máxima 2.500 CHF (prima más baja). Si eres sano, la franquicia alta suele ser más rentable.</p>
+
+                <h3>✅ 4. Comunica tu estado civil y número de hijos al empleador</h3>
+                <p>Si tienes pareja o hijos a cargo, el empleador necesita estos datos para aplicar la tarifa fiscal correcta del impuesto a la fuente. Un error inicial es difícil de corregir después.</p>
+
+                <h2>Primer mes completo</h2>
+
+                <h3>✅ 5. Obtén el Demi-tarif para el transporte</h3>
+                <p>Si vas a usar trenes o transporte público, el <strong>Demi-tarif / Halbtax</strong> (unos 190 CHF anuales) te divide el precio de todos los billetes a la mitad en todo el país. Se amortiza en pocas semanas. Compra en <a href="https://www.sbb.ch" target="_blank">sbb.ch</a> o en cualquier taquilla CFF/SBB.</p>
+
+                <h3>✅ 6. Asegúrate de tener tu nombre en el buzón de correo</h3>
+                <p>En Suiza, la administración sigue funcionando principalmente por correo postal. Recibirás cartas importantes desde el primer día: tarjeta de permiso, facturas del seguro médico, cartas fiscales. Si el buzón no tiene tu nombre, esas cartas pueden no llegarte.</p>
+
+                <h3>✅ 7. Aprende el sistema de basura</h3>
+                <p>En Suiza la gestión de residuos está regulada y se controla. En muchos cantones existen <strong>bolsas de basura oficiales con tasa incluida</strong> que son las únicas que puedes usar. Tirar en bolsas normales puede acarrear multas. Pregunta en tu edificio o en la commune desde el primer día.</p>
+
+                <h2>Primeros 3 meses</h2>
+
+                <h3>✅ 8. Infórmate sobre seguros complementarios</h3>
+                <p>El seguro básico (LAMal) no cubre dentista, gafas u hospitalización privada. Los seguros complementarios (LCA) cubren estas necesidades, pero requieren aceptación médica. Si tienes problemas de salud previos, actualos cuanto antes.</p>
+
+                <h3>✅ 9. Considera abrir el tercer pilar (3a)</h3>
+                <p>El tercer pilar es un ahorro privado para la jubilación con deducciones fiscales muy ventajosas. Cuanto antes empieces a cotizar, más se acumula. Bancos y aseguradoras ofrecen este producto.</p>
+
+                <div class="callout tip">
+                    <strong>Veteranos dicen:</strong> El primer mes en Suiza es el más difícil logísticamente. Habrá papeles y esperas. La clave es empezar por el registro y el seguro médico. El resto se ordena solo.
+                </div>
+            </div>
+        `
+    },
+
+    // 2c. Trabajar sin el permiso físico (NUEVO)
+    "articulo-trabajar-sin-permiso-fisico": {
+        title: "¿Puedo trabajar en Suiza antes de tener el permiso físico?",
+        description: "Sí, puedes trabajar legalmente en Suiza aunque el permiso físico tarde semanas en llegar. Explicamos cómo funciona el certificado provisional.",
+        keywords: "trabajar sin permiso suiza, permiso provisional suiza, attestation residence suiza, esperar permiso suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "trabajar-antes-permiso-fisico-suiza",
+        readingTime: 3,
+        dateUpdated: "Marzo 2026",
+        summary: "Puedes empezar a trabajar desde el primer día tras registrarte en la comuna. El permiso físico puede tardar semanas, pero el comprobante de registro ya tiene validez legal.",
+        content: `
+            <div class="page-header">
+                <h1>¿Puedo trabajar sin tener todavía el permiso físico en Suiza?</h1>
+            </div>
+            <div class="article-content">
+                <p>Esta es una de las dudas más frecuentes de los recién llegados y la respuesta genera mucha confusión: <strong>sí, puedes trabajar legalmente en Suiza aunque la tarjeta física del permiso no haya llegado todavía</strong>.</p>
+
+                <h2>Cómo funciona el proceso</h2>
+                <p>Cuando te registras en la oficina del Control de Habitantes, recibes en el acto un <strong>certificado provisional de residencia</strong> ("Attestation de résidence" en francés, "Meldebestätigung" en alemán). Este documento acredita legalmente que estás registrado y autorizado a residir y trabajar en Suiza.</p>
+                <p>El permiso físico (tarjeta plastificada con tu foto) lo emite el servicio cantonal de migración y puede tardar entre 4 y 12 semanas en llegar por correo. Ese retraso es completamente normal y ningún empleador serio lo desconoce.</p>
+
+                <h2>¿Qué documento usa el empleado mientras espera?</h2>
+                <p>Durante el periodo de espera, el trabajador utiliza el certificado provisional como justificante. Para la empresa, esto es suficiente para procesar la nómina y cumplir con sus obligaciones administrativas.</p>
+
+                <div class="callout info">
+                    <strong>Caso típico:</strong> Muchos trabajadores empiezan un lunes y van a la commune el viernes anterior. Con el certificado provisional en mano, se incorporan sin problema. El permiso físico llega semanas después por carta.
+                </div>
+
+                <h2>¿Y si el empleador me pide el permiso físico?</h2>
+                <p>Si un empleador te pone problemas, puedes explicarle que el proceso es estándar y que el certificado provisional tiene plena validez legal. En grandes empresas con RRHH esto es rutinario. Si hay dudas, tanto empleador como empleado pueden llamar al servicio cantonal de migración para confirmar el estado de la solicitud.</p>
+
+                <h2>¿Cuándo llega el permiso físico?</h2>
+                <ul>
+                    <li>Cantones con menos demanda: 3–5 semanas.</li>
+                    <li>Ginebra, Zúrich (alta demanda): 8–12 semanas o más.</li>
+                </ul>
+                <p>Recibirás la tarjeta en el buzón de tu domicilio registrado. Por eso es importante que el buzón tenga tu nombre desde el primer día.</p>
+
+                <div class="callout warning">
+                    <strong>Importante:</strong> El permiso físico tiene fecha de caducidad. Cuando se acerque al vencimiento, recibirás una notificación para la renovación. No esperes a que venza para iniciar el trámite.
+                </div>
+            </div>
+        `
+    },
+
+    // 2d. Reagrupación familiar (NUEVO)
+    "articulo-reagrupacion-familiar": {
+        title: "Reagrupación familiar en Suiza: cómo traer a tu familia",
+        description: "Guía completa para traer a tu pareja e hijos a Suiza. Condiciones, documentación, plazos y derechos de los familiares reagrupados.",
+        keywords: "reagrupacion familiar suiza, traer familia suiza, permiso familiar suiza, conyuge suiza, apostilla suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "reagrupacion-familiar-suiza",
+        readingTime: 5,
+        dateUpdated: "Marzo 2026",
+        summary: "Si tienes Permiso B o C puedes traer a tu cónyuge e hijos menores de 18 años. Los familiares obtienen su propio permiso y tienen derecho a trabajar desde el primer día.",
+        content: `
+            <div class="page-header">
+                <h1>Reagrupación familiar en Suiza: cómo funciona y qué necesitas</h1>
+            </div>
+            <div class="article-content">
+                <p>Uno de los momentos más importantes en la vida de un emigrante es poder traer a su familia. En Suiza, el proceso de reagrupación familiar está bien regulado y es factible para ciudadanos de la UE, pero tiene sus propias reglas y plazos.</p>
+
+                <h2>¿Quién puede solicitar la reagrupación?</h2>
+                <p>Pueden solicitarla los titulares de un <strong>Permiso B o C en vigor</strong>. Con Permiso L (corta duración) las posibilidades son muy limitadas. Los familiares que pueden ser reagrupados son:</p>
+                <ul>
+                    <li>Cónyuge (matrimonio oficial reconocido).</li>
+                    <li>Pareja de hecho registrada.</li>
+                    <li>Hijos menores de 18 años (incluidos los adoptivos).</li>
+                    <li>En algunos casos, padres o familiares dependientes con necesidades acreditadas.</li>
+                </ul>
+
+                <h2>Condiciones que debe cumplir el residente en Suiza</h2>
+                <ul>
+                    <li><strong>Vivienda adecuada:</strong> El piso debe tener espacio suficiente para toda la familia. Las autoridades verifican esto.</li>
+                    <li><strong>Medios económicos suficientes:</strong> No depender de la asistencia social.</li>
+                    <li><strong>Permiso en vigor:</strong> Sin sanciones ni el permiso en proceso de revocación.</li>
+                </ul>
+
+                <h2>Documentación necesaria</h2>
+                <ul>
+                    <li>Formulario oficial de reagrupación familiar (oficina cantonal de migración).</li>
+                    <li>Pasaportes de todos los familiares.</li>
+                    <li>Certificado de matrimonio o unión de hecho <strong>apostillado y traducido</strong>.</li>
+                    <li>Certificados de nacimiento de los hijos apostillados y traducidos.</li>
+                    <li>Contrato de alquiler del piso con espacio suficiente.</li>
+                    <li>Últimas nóminas o justificante de ingresos.</li>
+                </ul>
+
+                <div class="callout info">
+                    <strong>La Apostilla de La Haya:</strong> Los documentos oficiales españoles deben llevar la Apostilla para ser válidos en Suiza. Se obtiene en el Ministerio de Asuntos Exteriores español o en las Delegaciones del Gobierno. Solicítala con antelación porque puede tardar días.
+                </div>
+
+                <h2>Plazos importantes</h2>
+                <ul>
+                    <li><strong>Ciudadanos UE con Permiso B:</strong> Dentro de los 5 años desde la obtención del permiso.</li>
+                    <li><strong>Titulares de Permiso C:</strong> Sin límite de plazo.</li>
+                </ul>
+                <p>El proceso tarda entre 4 y 12 semanas dependiendo del cantón y la carga de trabajo.</p>
+
+                <h2>¿Qué permiso reciben los familiares?</h2>
+                <ul>
+                    <li>Principal con Permiso B → familiares obtienen Permiso B.</li>
+                    <li>Principal con Permiso C → familiares obtienen Permiso C.</li>
+                </ul>
+                <p><strong>Derecho a trabajar:</strong> Sí. El cónyuge tiene pleno derecho a trabajar con el permiso obtenido. Los hijos entran al sistema escolar público suizo automáticamente.</p>
+
+                <div class="callout tip">
+                    <strong>Consejo práctico:</strong> Si necesitas buscar un piso más grande para cumplir el requisito de vivienda adecuada, hazlo antes de presentar la solicitud. Es uno de los motivos más comunes de retraso en el proceso.
                 </div>
             </div>
         `
