@@ -246,6 +246,46 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
 </div>`
     },
 
+    // 7b. RAV / chômage
+    "articulo-rav-paro": {
+        title: "RAV et chômage en Suisse : conditions, démarches et obligations",
+        description: "Guide pratique de l’assurance chômage suisse (AC/ALV) : inscription au RAV, documents, obligations et sanctions.",
+        keywords: "RAV suisse, chômage suisse, assurance chômage suisse, ALV AC",
+        audience: "worker",
+        category: "Travail",
+        hub: "trabajo",
+        slug: "rav-paro-suiza",
+        readingTime: 7,
+        dateUpdated: "Mars 2026",
+        summary: "Le RAV peut beaucoup aider après une perte d’emploi, mais les délais et les preuves de recherche d’emploi sont essentiels.",
+        content: `<div class="page-header">
+<h1>RAV et chômage en Suisse</h1>
+</div>
+<div class="article-content">
+<p>En Suisse, le chômage se gère via le <strong>RAV</strong> (office régional de placement) et une <strong>caisse de chômage</strong> qui verse l’indemnité. Le système est efficace, mais exigeant.</p>
+
+<h2>Premiers pas</h2>
+<ol>
+  <li>S’inscrire au plus vite (ne pas attendre).</li>
+  <li>Choisir une caisse et réunir les documents (contrat, lettre de résiliation, permis, fiches de salaire).</li>
+  <li>Suivre et conserver les preuves de candidatures.</li>
+</ol>
+
+<h2>Obligations</h2>
+<ul>
+  <li>Recherche d’emploi documentée</li>
+  <li>Présence aux rendez-vous RAV</li>
+  <li>Remise des justificatifs dans les délais</li>
+</ul>
+
+<h2>Liens utiles</h2>
+<ul>
+  <li><a href="https://www.ch.ch/fr/travail/chomage/" target="_blank" rel="noopener noreferrer">ch.ch — Chômage</a></li>
+  <li><a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">SECO</a></li>
+</ul>
+</div>`
+    },
+
     // 8. Salarios por sector y región
     "articulo-salarios": {
         title: "Salaires en Suisse par secteur et région",

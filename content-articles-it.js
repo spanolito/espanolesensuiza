@@ -246,6 +246,46 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 </div>`
     },
 
+    // 7b. RAV / disoccupazione
+    "articulo-rav-paro": {
+        title: "RAV e disoccupazione in Svizzera: requisiti, passi e obblighi",
+        description: "Guida pratica all’assicurazione contro la disoccupazione (ALV/AC): iscrizione al RAV, documenti, obblighi e sanzioni.",
+        keywords: "RAV svizzera, disoccupazione svizzera, assicurazione disoccupazione svizzera, ALV AC",
+        audience: "worker",
+        category: "Lavoro",
+        hub: "trabajo",
+        slug: "rav-paro-suiza",
+        readingTime: 7,
+        dateUpdated: "Marzo 2026",
+        summary: "Il RAV può aiutare dopo la perdita del lavoro, ma scadenze e prove della ricerca sono fondamentali.",
+        content: `<div class="page-header">
+<h1>RAV e disoccupazione in Svizzera</h1>
+</div>
+<div class="contenuto-articolo">
+<p>In Svizzera la disoccupazione si gestisce tramite il <strong>RAV</strong> e una <strong>cassa di disoccupazione</strong> che paga l’indennità. È un sistema efficace ma rigoroso.</p>
+
+<h2>Primi passi</h2>
+<ol>
+  <li>Iscriviti il prima possibile.</li>
+  <li>Scegli una cassa e raccogli i documenti (contratto, lettera di licenziamento, permesso, buste paga).</li>
+  <li>Traccia le candidature e conserva le prove.</li>
+</ol>
+
+<h2>Obblighi</h2>
+<ul>
+  <li>Ricerca di lavoro documentata</li>
+  <li>Presenza agli appuntamenti RAV</li>
+  <li>Invio puntuale dei giustificativi</li>
+</ul>
+
+<h2>Link utili</h2>
+<ul>
+  <li><a href="https://www.ch.ch/it/lavoro/disoccupazione/" target="_blank" rel="noopener noreferrer">ch.ch — Disoccupazione</a></li>
+  <li><a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">SECO</a></li>
+</ul>
+</div>`
+    },
+
     // 8. Salarios por sector y región
     "articulo-salarios": {
         title: "Salari in Svizzera per settore e regione",

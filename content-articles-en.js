@@ -246,6 +246,46 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 </div>`
     },
 
+    // 7b. RAV / unemployment
+    "articulo-rav-paro": {
+        title: "RAV and unemployment in Switzerland: eligibility, steps and obligations",
+        description: "Practical guide to Swiss unemployment insurance (ALV/AC): eligibility, how to register with RAV, documents, obligations and sanctions.",
+        keywords: "RAV switzerland, unemployment insurance switzerland, ALV AC",
+        audience: "worker",
+        category: "Work",
+        hub: "trabajo",
+        slug: "rav-paro-suiza",
+        readingTime: 7,
+        dateUpdated: "March 2026",
+        summary: "RAV can support you after job loss, but deadlines and documented job-search efforts matter.",
+        content: `<div class="page-header">
+<h1>RAV and unemployment in Switzerland</h1>
+</div>
+<div class="article-content">
+<p>In Switzerland, unemployment is handled through <strong>RAV</strong> (the regional employment office) and an <strong>unemployment fund</strong> that pays benefits. It can help a lot, but it comes with clear rules.</p>
+
+<h2>What to do first</h2>
+<ol>
+  <li>Register as soon as possible (don’t wait).</li>
+  <li>Choose an unemployment fund and collect key documents (contract, termination letter, permits, payslips).</li>
+  <li>Track your job applications and keep evidence.</li>
+</ol>
+
+<h2>Obligations (typical)</h2>
+<ul>
+  <li>Documented job-search activity</li>
+  <li>Attendance to RAV appointments</li>
+  <li>On-time submission of evidence</li>
+</ul>
+
+<h2>Useful links</h2>
+<ul>
+  <li><a href="https://www.ch.ch/en/work/unemployment/" target="_blank" rel="noopener noreferrer">ch.ch — Unemployment</a></li>
+  <li><a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">SECO</a></li>
+</ul>
+</div>`
+    },
+
     // 8. Salarios por sector y región
     "articulo-salarios": {
         title: "Salaries in Switzerland by sector and region",

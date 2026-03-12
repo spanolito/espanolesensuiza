@@ -246,6 +246,46 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
 </div>`
     },
 
+    // 7b. RAV / Arbeitslosigkeit
+    "articulo-rav-paro": {
+        title: "RAV und Arbeitslosigkeit in der Schweiz: Anspruch, Schritte und Pflichten",
+        description: "Praxisguide zur Arbeitslosenversicherung (ALV): RAV-Anmeldung, Unterlagen, Pflichten und Sanktionen.",
+        keywords: "RAV Schweiz, Arbeitslosenversicherung Schweiz, ALV",
+        audience: "worker",
+        category: "Arbeit",
+        hub: "trabajo",
+        slug: "rav-paro-suiza",
+        readingTime: 7,
+        dateUpdated: "März 2026",
+        summary: "RAV kann nach Jobverlust unterstützen, aber Fristen und nachweisbare Stellensuche sind entscheidend.",
+        content: `<div class="page-header">
+<h1>RAV und Arbeitslosigkeit in der Schweiz</h1>
+</div>
+<div class="article-content">
+<p>In der Schweiz läuft Arbeitslosigkeit über das <strong>RAV</strong> (Regionales Arbeitsvermittlungszentrum) und eine <strong>Arbeitslosenkasse</strong>, die die Leistung auszahlt. Das System hilft, ist aber strikt.</p>
+
+<h2>Erste Schritte</h2>
+<ol>
+  <li>Melden Sie sich so früh wie möglich an.</li>
+  <li>Wählen Sie eine Kasse und sammeln Sie Unterlagen (Vertrag, Kündigung, Bewilligung, Lohnabrechnungen).</li>
+  <li>Dokumentieren Sie Bewerbungen und bewahren Sie Nachweise auf.</li>
+</ol>
+
+<h2>Pflichten</h2>
+<ul>
+  <li>Nachweisbare Stellensuche</li>
+  <li>Teilnahme an RAV-Terminen</li>
+  <li>Fristgerechte Abgabe der Nachweise</li>
+</ul>
+
+<h2>Nützliche Links</h2>
+<ul>
+  <li><a href="https://www.ch.ch/de/arbeit/arbeitslosigkeit/" target="_blank" rel="noopener noreferrer">ch.ch — Arbeitslosigkeit</a></li>
+  <li><a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">SECO</a></li>
+</ul>
+</div>`
+    },
+
     // 8. Salarios por sector y región
     "articulo-salarios": {
         title: "Löhne in der Schweiz nach Branche und Region",

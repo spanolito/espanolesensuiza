@@ -515,6 +515,77 @@ window.siteContent.es.articles = {
         `
     },
 
+    // 7b. RAV / Paro
+    "articulo-rav-paro": {
+        title: "RAV y paro en Suiza: cómo funciona el desempleo, requisitos y pasos",
+        description: "Guía práctica del seguro de desempleo suizo (ALV/AC): requisitos, plazos, inscripción en el RAV, obligaciones y sanciones.",
+        keywords: "RAV suiza, paro suiza, desempleo suiza, ALV AC, seguro desempleo suiza",
+        audience: "worker",
+        category: "Trabajo",
+        hub: "trabajo",
+        slug: "rav-paro-suiza",
+        readingTime: 7,
+        dateUpdated: "Marzo 2026",
+        summary: "Si pierdes tu empleo en Suiza, el RAV (y la caja de paro) puede cubrir parte de tu salario, pero exige plazos y una búsqueda de empleo demostrable.",
+        content: `
+            <div class="page-header">
+                <h1>RAV y paro en Suiza: guía práctica</h1>
+            </div>
+            <div class="article-content">
+                <p>En Suiza, el “paro” se gestiona a través de dos piezas: el <strong>RAV</strong> (oficina regional de colocación) y la <strong>caja de desempleo</strong> (Kasse / caisse) que paga la prestación. Es un sistema serio: puede ayudarte mucho, pero funciona con reglas y obligaciones claras.</p>
+
+                <h2>1) Qué es el RAV y qué hace</h2>
+                <ul>
+                    <li><strong>RAV:</strong> seguimiento, estrategia de búsqueda, citas, medidas de reinserción.</li>
+                    <li><strong>Caja de paro:</strong> evalúa el derecho y <strong>paga</strong> la prestación (según tu situación y documentos).</li>
+                </ul>
+
+                <h2>2) Requisitos típicos (visión general)</h2>
+                <p>El derecho exacto depende de tu caso, pero a nivel práctico suele girar en torno a:</p>
+                <ul>
+                    <li>Haber <strong>cotizado</strong> un mínimo de tiempo (p. ej., 12 meses) dentro de un periodo de referencia.</li>
+                    <li>Estar disponible para trabajar y <strong>buscar empleo activamente</strong>.</li>
+                    <li>Haber perdido el empleo por causas compatibles con la prestación (ojo con dimisiones).</li>
+                </ul>
+
+                <h2>3) Pasos recomendados cuando pierdes el trabajo</h2>
+                <ol>
+                    <li><strong>Inscríbete cuanto antes</strong> (no esperes a “ver qué pasa”).</li>
+                    <li>Elige una <strong>caja de desempleo</strong> y reúne documentos: contrato, carta de despido, permisos, nóminas, etc.</li>
+                    <li>Prepara un <strong>dossier de búsqueda</strong>: CV, cartas, y una lista de candidaturas.</li>
+                    <li>Acude a las citas del RAV y sigue el plan acordado.</li>
+                </ol>
+
+                <h2>4) Obligaciones y sanciones: lo que más problemas da</h2>
+                <p>El error más frecuente es pensar que “con apuntarse basta”. Normalmente tendrás que:</p>
+                <ul>
+                    <li>Demostrar un número mínimo de candidaturas (varía por situación y cantón).</li>
+                    <li>Postularte a empleos “razonables” y responder a convocatorias.</li>
+                    <li>Entregar a tiempo los justificantes (cada mes o según te indiquen).</li>
+                </ul>
+                <div class="callout info">
+                    <strong>Consejo:</strong> guarda capturas/emails, usa una hoja de seguimiento y envía todo con margen. Los retrasos suelen acabar en <strong>días de sanción</strong>.
+                </div>
+
+                <h2>5) Si renunciaste (dimisión) o fue “despido pactado”</h2>
+                <p>Estos escenarios pueden implicar sanciones o periodos sin cobro. Si tienes dudas, pide una evaluación previa y documenta bien las razones (salud, acoso, cambio esencial de condiciones, etc.).</p>
+
+                <h2>6) Links útiles</h2>
+                <ul>
+                    <li><a href="https://www.ch.ch/es/trabajo/desempleo/" target="_blank" rel="noopener noreferrer">ch.ch — Desempleo</a></li>
+                    <li><a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">SECO — mercado laboral</a></li>
+                </ul>
+
+                <h2>Artículos relacionados</h2>
+                <ul>
+                    <li><a href="#/buscar-empleo-suiza">Buscar empleo en Suiza</a></li>
+                    <li><a href="#/contratos-de-trabajo-suiza">Contratos de trabajo en Suiza</a></li>
+                    <li><a href="#/seguros-sociales-suiza">Seguros sociales en Suiza</a></li>
+                </ul>
+            </div>
+        `
+    },
+
     // 8. Salarios por sector y región
     "articulo-salarios": {
         title: "Salarios en Suiza por sector y región: ¿Cuánto se gana?",
