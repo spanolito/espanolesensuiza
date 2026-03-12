@@ -1423,7 +1423,7 @@ window.siteContent.es.articles = {
                 </div>
             </div>
         `
-    }
+    },
 
     // 27. Cantones de Suiza
     "articulo-cantones": {
@@ -1479,41 +1479,32 @@ window.siteContent.es.articles = {
                         </tr>
                     </thead>
                     <tbody>
-                        ${[
-                            ['Argovia','AG','Aarau','Alemán'],
-                            ['Appenzell Rodas Exteriores','AR','Herisau','Alemán'],
-                            ['Appenzell Rodas Interiores','AI','Appenzell','Alemán'],
-                            ['Basilea-Ciudad','BS','Basilea','Alemán'],
-                            ['Basilea-Campo','BL','Liestal','Alemán'],
-                            ['Berna','BE','Berna','Alemán / Francés'],
-                            ['Friburgo','FR','Friburgo','Francés / Alemán'],
-                            ['Ginebra','GE','Ginebra','Francés'],
-                            ['Glaris','GL','Glaris','Alemán'],
-                            ['Grisones','GR','Coira','Alemán / Romanche / Italiano'],
-                            ['Jura','JU','Delémont','Francés'],
-                            ['Lucerna','LU','Lucerna','Alemán'],
-                            ['Neuchâtel','NE','Neuchâtel','Francés'],
-                            ['Nidwalden','NW','Stans','Alemán'],
-                            ['Obwalden','OW','Sarnen','Alemán'],
-                            ['Schaffhausen','SH','Schaffhausen','Alemán'],
-                            ['Schwyz','SZ','Schwyz','Alemán'],
-                            ['Solothurn','SO','Solothurn','Alemán'],
-                            ['San Galo','SG','San Galo','Alemán'],
-                            ['Turgovia','TG','Frauenfeld','Alemán'],
-                            ['Ticino','TI','Bellinzona','Italiano'],
-                            ['Uri','UR','Altdorf','Alemán'],
-                            ['Valais / Wallis','VS','Sion','Francés / Alemán'],
-                            ['Vaud','VD','Lausana','Francés'],
-                            ['Zug','ZG','Zug','Alemán'],
-                            ['Zúrich','ZH','Zúrich','Alemán'],
-                        ].map(([name, abbr, capital, lang]) =>
-                            '<tr style="border-bottom:1px solid var(--border-light);">' +
-                            '<td style="padding:0.5rem 0.75rem; font-weight:500;">' + name + '</td>' +
-                            '<td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">' + abbr + '</td>' +
-                            '<td style="padding:0.5rem 0.75rem;">' + capital + '</td>' +
-                            '<td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">' + lang + '</td>' +
-                            '</tr>'
-                        ).join('')}
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Argovia</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AG</td><td style="padding:0.5rem 0.75rem;">Aarau</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Appenzell R. Ext.</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AR</td><td style="padding:0.5rem 0.75rem;">Herisau</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Appenzell R. Int.</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AI</td><td style="padding:0.5rem 0.75rem;">Appenzell</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Basilea-Ciudad</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BS</td><td style="padding:0.5rem 0.75rem;">Basilea</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Basilea-Campo</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BL</td><td style="padding:0.5rem 0.75rem;">Liestal</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Berna</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BE</td><td style="padding:0.5rem 0.75rem;">Berna</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán / Francés</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Friburgo</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">FR</td><td style="padding:0.5rem 0.75rem;">Friburgo</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés / Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Ginebra</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GE</td><td style="padding:0.5rem 0.75rem;">Ginebra</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Glaris</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GL</td><td style="padding:0.5rem 0.75rem;">Glaris</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Grisones</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GR</td><td style="padding:0.5rem 0.75rem;">Coira</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán / Romanche / Italiano</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Jura</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">JU</td><td style="padding:0.5rem 0.75rem;">Delémont</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Lucerna</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">LU</td><td style="padding:0.5rem 0.75rem;">Lucerna</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Neuchâtel</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">NE</td><td style="padding:0.5rem 0.75rem;">Neuchâtel</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Nidwalden</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">NW</td><td style="padding:0.5rem 0.75rem;">Stans</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Obwalden</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">OW</td><td style="padding:0.5rem 0.75rem;">Sarnen</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Schaffhausen</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SH</td><td style="padding:0.5rem 0.75rem;">Schaffhausen</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Schwyz</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SZ</td><td style="padding:0.5rem 0.75rem;">Schwyz</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Solothurn</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SO</td><td style="padding:0.5rem 0.75rem;">Solothurn</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">San Galo</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SG</td><td style="padding:0.5rem 0.75rem;">San Galo</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Turgovia</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">TG</td><td style="padding:0.5rem 0.75rem;">Frauenfeld</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Ticino</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">TI</td><td style="padding:0.5rem 0.75rem;">Bellinzona</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Italiano</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Uri</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">UR</td><td style="padding:0.5rem 0.75rem;">Altdorf</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Valais / Wallis</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">VS</td><td style="padding:0.5rem 0.75rem;">Sion</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés / Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Vaud</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">VD</td><td style="padding:0.5rem 0.75rem;">Lausana</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Zug</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">ZG</td><td style="padding:0.5rem 0.75rem;">Zug</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Zúrich</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">ZH</td><td style="padding:0.5rem 0.75rem;">Zúrich</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
                     </tbody>
                 </table>
                 </div>
@@ -1557,7 +1548,32 @@ window.siteContent.es.articles = {
 
                 <h2>Acceder al portal oficial de cada cantón</h2>
                 <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem; margin-top:1rem;">
-                    ${[['Argovia','https://www.ag.ch'],['App. I.Rh.','https://www.ai.ch'],['App. A.Rh.','https://www.ar.ch'],['Basilea-Ciudad','https://www.bs.ch'],['Basilea-Campo','https://www.bl.ch'],['Berna','https://www.be.ch'],['Friburgo','https://www.fr.ch'],['Ginebra','https://www.ge.ch'],['Glaris','https://www.gl.ch'],['Grisones','https://www.gr.ch'],['Jura','https://www.jura.ch'],['Lucerna','https://www.lu.ch'],['Neuchâtel','https://www.ne.ch'],['Nidwalden','https://www.nw.ch'],['Obwalden','https://www.ow.ch'],['Schaffhausen','https://www.sh.ch'],['Schwyz','https://www.sz.ch'],['Solothurn','https://www.so.ch'],['San Galo','https://www.sg.ch'],['Turgovia','https://www.tg.ch'],['Ticino','https://www.ti.ch'],['Uri','https://www.ur.ch'],['Valais/Wallis','https://www.vs.ch'],['Vaud','https://www.vd.ch'],['Zug','https://www.zg.ch'],['Zúrich','https://www.zh.ch']].map(([n,u]) => '<a href="' + u + '" target="_blank" rel="noopener noreferrer" class="canton-link">' + n + '</a>').join('')}
+                    <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovia (AG)</a>
+                    <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">App. R. Int. (AI)</a>
+                    <a href="https://www.ar.ch" target="_blank" rel="noopener noreferrer" class="canton-link">App. R. Ext. (AR)</a>
+                    <a href="https://www.bs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Ciudad (BS)</a>
+                    <a href="https://www.bl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Campo (BL)</a>
+                    <a href="https://www.be.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Berna (BE)</a>
+                    <a href="https://www.fr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Friburgo (FR)</a>
+                    <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ginebra (GE)</a>
+                    <a href="https://www.gl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Glaris (GL)</a>
+                    <a href="https://www.gr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Grisones (GR)</a>
+                    <a href="https://www.jura.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Jura (JU)</a>
+                    <a href="https://www.lu.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Lucerna (LU)</a>
+                    <a href="https://www.ne.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Neuchâtel (NE)</a>
+                    <a href="https://www.nw.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Nidwalden (NW)</a>
+                    <a href="https://www.ow.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Obwalden (OW)</a>
+                    <a href="https://www.sh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schaffhausen (SH)</a>
+                    <a href="https://www.sz.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schwyz (SZ)</a>
+                    <a href="https://www.so.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Solothurn (SO)</a>
+                    <a href="https://www.sg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">San Galo (SG)</a>
+                    <a href="https://www.tg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Turgovia (TG)</a>
+                    <a href="https://www.ti.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ticino (TI)</a>
+                    <a href="https://www.ur.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Uri (UR)</a>
+                    <a href="https://www.vs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Valais/Wallis (VS)</a>
+                    <a href="https://www.vd.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Vaud (VD)</a>
+                    <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zug (ZG)</a>
+                    <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zúrich (ZH)</a>
                 </div>
             </div>
         `
@@ -1662,6 +1678,107 @@ window.siteContent.es.articles = {
                     <li><a href="#/cantones-suiza">Los 26 cantones de Suiza</a></li>
                     <li><a href="#/registrarse-en-suiza">Registrarse en Suiza al llegar</a></li>
                     <li><a href="#/buscar-empleo-suiza">Buscar empleo en Suiza</a></li>
+                </ul>
+            </div>
+        `
+    },
+
+    // 29. Consulados españoles en Suiza
+    "articulo-consulados": {
+        title: "Consulados españoles en Suiza: dónde están y qué trámites hacen",
+        description: "Guía completa de los tres consulados españoles en Suiza (Ginebra, Berna, Zúrich): servicios, citas, pasaportes, padrón y registro consular.",
+        keywords: "consulado español suiza, consulado ginebra, consulado zurich, consulado berna, registro consular, pasaporte suiza, MAEC",
+        audience: 'newcomer',
+        category: 'Recursos Oficiales',
+        hub: 'fuentes-oficiales',
+        slug: "consulados-espanoles-suiza",
+        readingTime: 5,
+        dateUpdated: "Marzo 2026",
+        summary: "España tiene tres consulados en Suiza: Ginebra, Berna y Zúrich. El registro consular es el primer trámite que debes hacer al llegar. Sin él, no puedes renovar el pasaporte ni votar.",
+        content: `
+            <div class="page-header">
+                <h1>Consulados españoles en Suiza: guía de trámites</h1>
+            </div>
+            <div class="article-content">
+                <p>Si eres ciudadano español viviendo en Suiza, el consulado es tu ventanilla oficial para todos los trámites que vinculan tu vida en el extranjero con la administración española. Hay tres consulados generales de España en Suiza, y debes dirigirte al que corresponde a tu cantón de residencia.</p>
+
+                <div class="callout info">
+                    <strong>Primer paso obligatorio:</strong> Al instalarte en Suiza, el trámite más importante es <strong>inscribirte en el Registro de Matrícula Consular</strong>. Sin este registro, no podrás renovar tu DNI o pasaporte, ni votar en elecciones españolas desde el exterior.
+                </div>
+
+                <h2>Los 3 consulados españoles en Suiza</h2>
+
+                <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr)); gap:1.25rem; margin:1.5rem 0;">
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulado General en Ginebra</h3>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantones:</strong> Ginebra, Vaud, Valais, Friburgo, Neuchâtel, Jura</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> 85 Rue de Lausanne, 1202 Ginebra</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 22 731 25 30</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portal oficial →</a>
+                    </div>
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulado General en Berna</h3>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantones:</strong> Berna, Solothurn, Friburgo (parte), Valais (parte)</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> Kalcheggweg 24, 3006 Berna</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 31 352 04 12</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portal oficial →</a>
+                    </div>
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulado General en Zúrich</h3>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantones:</strong> Zúrich, Argovia, Basilea, Lucerna, San Galo, Grisones, Schaffhausen, Turgovia, Ticino, Zug y otros</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> Tödistrasse 60, 8002 Zúrich</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 44 202 89 89</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portal oficial →</a>
+                    </div>
+                </div>
+
+                <h2>¿Qué trámites puedes hacer en el consulado?</h2>
+
+                <h3>Registro de Matrícula Consular (RECA)</h3>
+                <p>Es el <strong>primer trámite que debes realizar</strong> al instalarte en Suiza. Sirve para inscribirte formalmente como residente español en el exterior. A partir de este registro:</p>
+                <ul>
+                    <li>Puedes renovar tu DNI y pasaporte desde Suiza.</li>
+                    <li>Puedes ejercer tu derecho a voto en elecciones españolas (CERA — Censo Electoral de Residentes Ausentes).</li>
+                    <li>La administración española tiene constancia de tu lugar de residencia.</li>
+                </ul>
+                <p>El registro es gratuito. Necesitarás: pasaporte o DNI en vigor, prueba de residencia en Suiza (contrato de alquiler, registro de la commune) y en algunos casos el permiso de residencia suizo.</p>
+
+                <h3>DNI y Pasaporte</h3>
+                <p>Puedes renovar o solicitar tu DNI y pasaporte en el consulado de tu demarcación. Es <strong>imprescindible pedir cita previa</strong> a través del portal de cita consular del Ministerio de Asuntos Exteriores. Los tiempos de espera pueden ser de varias semanas, especialmente en Ginebra y Zúrich.</p>
+
+                <div class="callout">
+                    <strong>Consejo:</strong> Solicita la cita con al menos 2-3 meses de antelación a la caducidad de tu documento. No esperes al último momento.
+                </div>
+
+                <h3>Registro Civil: nacimientos, matrimonios, defunciones</h3>
+                <p>Si has tenido un hijo en Suiza, te has casado o ha fallecido un familiar español, debes inscribir el hecho en el Registro Civil consular. El consulado inscribirá el evento en el Registro Civil español.</p>
+
+                <h3>Pensiones y Seguridad Social</h3>
+                <p>El consulado puede orientarte sobre convenios de Seguridad Social entre España y Suiza, tramitación de pensiones, acumulación de cotizaciones y otros trámites relacionados con la Seguridad Social española.</p>
+
+                <h3>Asistencia consular</h3>
+                <p>En caso de emergencia (robo de documentos, accidente grave, fallecimiento), el consulado puede proporcionar asistencia consular de emergencia. Para urgencias fuera de horario, cada consulado tiene una línea de guardia.</p>
+
+                <h2>Cómo pedir cita consular</h2>
+                <p>Todos los trámites se gestionan exclusivamente por cita previa a través del sistema oficial:</p>
+                <ul>
+                    <li><a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer">citaconsular.es</a> — Portal oficial de cita previa del MAEC</li>
+                    <li>También puedes llamar directamente al consulado para trámites urgentes.</li>
+                </ul>
+
+                <h2>Portal del Ministerio de Exteriores</h2>
+                <p>Toda la información actualizada sobre trámites, requisitos y noticias para españoles en Suiza se encuentra en:</p>
+                <ul>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Consulado en Ginebra</a></li>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Consulado en Berna</a></li>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Consulado en Zúrich</a></li>
+                </ul>
+
+                <h2>Artículos relacionados</h2>
+                <ul>
+                    <li><a href="#/registrarse-en-suiza">Registrarse en Suiza al llegar</a></li>
+                    <li><a href="#/permisos-suiza">Permisos de residencia L, B y C</a></li>
+                    <li><a href="#/tramites-llegada-suiza">Trámites al llegar: lista completa</a></li>
                 </ul>
             </div>
         `
