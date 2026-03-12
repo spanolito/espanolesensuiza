@@ -74,49 +74,6 @@ window.siteContent.es.pages = {
                 </div>
             </section>
 
-            <!-- SECCIÓN 3: Preguntas frecuentes -->
-            <section class="animate-fade-up delay-200" style="margin-top: var(--space-xl);">
-                <h2>Preguntas frecuentes</h2>
-                <p style="margin-bottom:2rem; color:var(--text-secondary);">Las dudas más habituales entre hispanohablantes en Suiza.</p>
-                <div class="accordion">
-                    <div class="accordion-item">
-                        <button class="accordion-header">¿Puedo trabajar sin tener todavía el permiso en mano?<span class="accordion-icon"></span></button>
-                        <div class="accordion-content"><div class="accordion-content-inner">
-                            Sí. Si eres ciudadano de la UE/EFTA, desde que entregas tus documentos en la comuna y expiden el resguardo de registro, tienes derecho legal a trabajar antes del permiso físico.
-                            <br><a href="#/registrarse-en-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
-                        </div></div>
-                    </div>
-                    <div class="accordion-item">
-                        <button class="accordion-header">¿Cómo funciona el seguro médico en Suiza?<span class="accordion-icon"></span></button>
-                        <div class="accordion-content"><div class="accordion-content-inner">
-                            El seguro básico LAMal es obligatorio. Cubre las mismas prestaciones en todas las cajas, pero las primas varían. Puedes cambiar de seguro una vez al año antes del 30 de noviembre.
-                            <br><a href="#/seguro-medico-lamal-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
-                        </div></div>
-                    </div>
-                    <div class="accordion-item">
-                        <button class="accordion-header">¿Cuánto cuesta vivir en Suiza?<span class="accordion-icon"></span></button>
-                        <div class="accordion-content"><div class="accordion-content-inner">
-                            Un presupuesto individual mínimo ronda los 3.000–4.000 CHF/mes (alquiler, seguro, transporte y alimentación). Los salarios son proporcionalmente elevados.
-                            <br><a href="#/vivir-en-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Ver guías de vida diaria →</a>
-                        </div></div>
-                    </div>
-                    <div class="accordion-item">
-                        <button class="accordion-header">¿Cómo alquilar un apartamento en Suiza?<span class="accordion-icon"></span></button>
-                        <div class="accordion-content"><div class="accordion-content-inner">
-                            El mercado es muy competitivo (tasa de vacantes &lt;1% en Ginebra y Zúrich). Necesitas un dosier impecable: extractos bancarios, nóminas, historial de deudas y carta de presentación.
-                            <br><a href="#/alquilar-vivienda-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
-                        </div></div>
-                    </div>
-                    <div class="accordion-item">
-                        <button class="accordion-header">¿Cómo funcionan los impuestos en Suiza?<span class="accordion-icon"></span></button>
-                        <div class="accordion-content"><div class="accordion-content-inner">
-                            Los extranjeros sin permiso C tributan en la fuente (Quellensteuer): el empleador retiene el impuesto directamente del salario. Los tipos varían según cantón, estado civil e ingresos.
-                            <br><a href="#/impuesto-fuente-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
-                        </div></div>
-                    </div>
-                </div>
-            </section>
-
             <!-- SECCIÓN 2: Fuentes oficiales -->
             <section class="animate-fade-up delay-200" style="margin-top: var(--space-xl);">
                 <h2>Fuentes oficiales</h2>
@@ -195,6 +152,49 @@ window.siteContent.es.pages = {
                     <a href="https://www.vd.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Vaud (VD)</a>
                     <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zug (ZG)</a>
                     <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zúrich (ZH)</a>
+                </div>
+            </section>
+
+            <!-- SECCIÓN 4: Preguntas frecuentes -->
+            <section class="animate-fade-up delay-400" style="margin-top: var(--space-xl); padding-bottom: var(--space-xl);">
+                <h2>Preguntas frecuentes</h2>
+                <p style="margin-bottom:2rem; color:var(--text-secondary);">Las dudas más habituales entre hispanohablantes en Suiza.</p>
+                <div class="accordion">
+                    <div class="accordion-item">
+                        <button class="accordion-header">¿Puedo trabajar sin tener todavía el permiso en mano?<span class="accordion-icon"></span></button>
+                        <div class="accordion-content"><div class="accordion-content-inner">
+                            Sí. Si eres ciudadano de la UE/EFTA, desde que entregas tus documentos en la comuna y expiden el resguardo de registro, tienes derecho legal a trabajar antes del permiso físico.
+                            <br><a href="#/registrarse-en-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
+                        </div></div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">¿Cómo funciona el seguro médico en Suiza?<span class="accordion-icon"></span></button>
+                        <div class="accordion-content"><div class="accordion-content-inner">
+                            El seguro básico LAMal es obligatorio. Cubre las mismas prestaciones en todas las cajas, pero las primas varían. Puedes cambiar de seguro una vez al año antes del 30 de noviembre.
+                            <br><a href="#/seguro-medico-lamal-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
+                        </div></div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">¿Cuánto cuesta vivir en Suiza?<span class="accordion-icon"></span></button>
+                        <div class="accordion-content"><div class="accordion-content-inner">
+                            Un presupuesto individual mínimo ronda los 3.000–4.000 CHF/mes (alquiler, seguro, transporte y alimentación). Los salarios son proporcionalmente elevados.
+                            <br><a href="#/vivir-en-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Ver guías de vida diaria →</a>
+                        </div></div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">¿Cómo alquilar un apartamento en Suiza?<span class="accordion-icon"></span></button>
+                        <div class="accordion-content"><div class="accordion-content-inner">
+                            El mercado es muy competitivo (tasa de vacantes &lt;1% en Ginebra y Zúrich). Necesitas un dosier impecable: extractos bancarios, nóminas, historial de deudas y carta de presentación.
+                            <br><a href="#/alquilar-vivienda-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
+                        </div></div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">¿Cómo funcionan los impuestos en Suiza?<span class="accordion-icon"></span></button>
+                        <div class="accordion-content"><div class="accordion-content-inner">
+                            Los extranjeros sin permiso C tributan en la fuente (Quellensteuer): el empleador retiene el impuesto directamente del salario. Los tipos varían según cantón, estado civil e ingresos.
+                            <br><a href="#/impuesto-fuente-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
+                        </div></div>
+                    </div>
                 </div>
             </section>
         `;
