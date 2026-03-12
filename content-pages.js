@@ -19,266 +19,161 @@ window.siteContent.es.pages = {
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
-            const arts = window.siteContent[currentLang]?.articles || window.siteContent['es'].articles;
             return `
-            <!-- Editorial Hero Section -->
+            <!-- SECCIÓN 1: Hero -->
             <section class="hero-section" style="padding: 0; margin-bottom: var(--space-xl);">
                 <h1 class="sr-only">Españoles en Suiza: Guía práctica para vivir y trabajar</h1>
                 <p class="sr-only">Información clara, oficial y estructurada sobre permisos, trabajo, vivienda, seguros y vida diaria en la Confederación Helvética.</p>
-                
                 <div style="width: 100%; max-width: 1000px; margin: 0 auto; line-height: 0;">
-                    <img src="media/banner.jpg" alt="Españoles que realmente se ayudan en Suiza. Guía práctica para vivir y trabajar." style="width: 100%; height: auto; display: block; filter: contrast(1.05);">
+                    <img src="media/banner.jpg" alt="Españoles que realmente se ayudan en Suiza." style="width: 100%; height: auto; display: block; filter: contrast(1.05);">
                 </div>
-
                 <div class="search-container" style="margin-top: -30px;">
                     <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
                     <input type="text" id="global-search" class="search-input" placeholder="${ui['search-placeholder']}" autocomplete="off">
                     <div id="search-results"></div>
                 </div>
-
                 <div class="hero-actions">
                     <a href="#/tramites" class="btn btn-primary">${ui['cat-tramites']}</a>
-                    <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" class="btn btn-secondary">Solicitar acceso al grupo</a>
+                    <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" rel="noopener noreferrer" class="btn" style="background:#1877F2; color:white; display:inline-flex; align-items:center; gap:8px;">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
+                        Solicitar acceso al grupo
+                    </a>
                 </div>
             </section>
 
-            <!-- Quick Start Cards -->
+            <!-- SECCIÓN 2: Empezar aquí -->
             <section class="animate-fade-up delay-100" style="margin-top: var(--space-xl);">
-                <h2 style="border-bottom:none; margin-bottom: 0;">${ui['home-title-start']}</h2>
-                <p style="font-size: 1.125rem; margin-bottom: 2rem;">${ui['home-desc-start']}</p>
+                <h2 style="border-bottom:none; margin-bottom: 0.5rem;">Empezar aquí</h2>
+                <p style="font-size: 1.125rem; margin-bottom: 2rem; color: var(--text-secondary);">Las guías esenciales para quien llega o vive en Suiza.</p>
                 <div class="quick-start-grid">
-                    <a href="#/registrarse-en-suiza" class="card-icon">
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                        <h3>${ui['start-card-1-title']}</h3>
-                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">${ui['start-card-1-desc']}</span>
-                    </a>
                     <a href="#/permisos-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
-                        <h3>${ui['start-card-2-title']}</h3>
-                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">${ui['start-card-2-desc']}</span>
+                        <h3>Permisos de residencia</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">L, B y C explicados</span>
                     </a>
                     <a href="#/buscar-empleo-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
-                        <h3>${ui['start-card-3-title']}</h3>
-                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">${ui['start-card-3-desc']}</span>
+                        <h3>Trabajar en Suiza</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">Mercado y salarios</span>
                     </a>
                     <a href="#/seguro-medico-lamal-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg>
-                        <h3>${ui['start-card-4-title']}</h3>
-                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">${ui['start-card-4-desc']}</span>
+                        <h3>Seguro médico</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">Sistema LAMal</span>
                     </a>
                     <a href="#/alquilar-vivienda-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
-                        <h3>${ui['start-card-5-title']}</h3>
-                        <span style="font-size: 0.9rem; color: var(--text-light); margin-top: 8px;">${ui['start-card-5-desc']}</span>
+                        <h3>Alquilar vivienda</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">Dosier y agencias</span>
+                    </a>
+                    <a href="#/impuesto-fuente-suiza" class="card-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+                        <h3>Impuestos básicos</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">Quellensteuer y más</span>
                     </a>
                 </div>
             </section>
 
-            <!-- Main Topic Hubs -->
-            <section class="animate-fade-up delay-200" style="margin-top: var(--space-xl); padding: var(--space-lg) 0; position: relative;">
-                <h2>${ui['home-title-hubs']}</h2>
-                <div class="topic-hub-grid">
-                    <div class="card-hub">
-                        <h3>${ui['cat-tramites']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">4 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>${ui['cat-desc-tramites']}</p>
-                        <a href="#/tramites" class="read-more">${ui['lbl-explore-guides']}</a>
-                    </div>
-                    <div class="card-hub">
-                        <h3>${ui['cat-trabajo']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">5 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>${ui['cat-desc-trabajo']}</p>
-                        <a href="#/trabajo" class="read-more">${ui['lbl-explore-guides']}</a>
-                    </div>
-                    <div class="card-hub">
-                        <h3>${ui['cat-vivir']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">5 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>${ui['cat-desc-vivir']}</p>
-                        <a href="#/vivir-en-suiza" class="read-more">${ui['lbl-explore-guides']}</a>
-                    </div>
-                    <div class="card-hub">
-                        <h3>${ui['cat-vivienda']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">3 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>${ui['cat-desc-vivienda']}</p>
-                        <a href="#/vivienda" class="read-more">${ui['lbl-explore-guides']}</a>
-                    </div>
-                    <div class="card-hub">
-                        <h3>${ui['cat-salud']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">3 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>${ui['cat-desc-salud']}</p>
-                        <a href="#/salud" class="read-more">${ui['lbl-explore-guides']}</a>
-                    </div>
-                    <div class="card-hub">
-                        <h3>${ui['cat-impuestos']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">2 ${ui['lbl-guides-plural']}</span></h3>
-                        <p>${ui['cat-desc-impuestos']}</p>
-                        <a href="#/impuestos" class="read-more">${ui['lbl-explore-guides']}</a>
-                    </div>
-                    <div class="card-hub">
-                        <h3>${ui['cat-fronterizos']} <span style="font-size:0.8rem; background: var(--bg-surface); padding:2px 8px; border-radius: 12px; font-weight:normal;">1 ${ui['lbl-guides-singular']}</span></h3>
-                        <p>${ui['cat-desc-fronterizos']}</p>
-                        <a href="#/fronterizos" class="read-more">${ui['lbl-explore-guides']}</a>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Featured / Most Read Articles -->
-            <section class="animate-fade-up delay-300" style="margin-top: var(--space-xl); padding: var(--space-xl) var(--space-md); background-color: var(--bg-surface); border-radius: var(--radius-lg); margin-left: calc(-1 * var(--space-md)); margin-right: calc(-1 * var(--space-md));">
-                <h2 style="border-bottom: none;">${ui['home-title-featured']}</h2>
-                <div class="featured-grid">
-                    <a href="#/permisos-suiza" class="card-article">
-                        <div class="card-meta">${ui['cat-tramites']}</div>
-                        <h3>${arts['articulo-permisos']?.title || 'Diferencias entre Permiso L, B, y C'}</h3>
-                        <p>${arts['articulo-permisos']?.summary || 'Guía de comprensión completa sobre los títulos de residencia suizos.'}</p>
-                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 4 ${ui['lbl-read-time']}</span>
-                    </a>
-                    <a href="#/impuesto-fuente-suiza" class="card-article">
-                        <div class="card-meta">${ui['cat-impuestos']}</div>
-                        <h3>${arts['articulo-impuesto-fuente']?.title || 'El impuesto a la fuente (Quellensteuer)'}</h3>
-                        <p>${arts['articulo-impuesto-fuente']?.summary || 'Cómo funciona el cobro de impuestos directamente en la nómina para extranjeros.'}</p>
-                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 3 ${ui['lbl-read-time']}</span>
-                    </a>
-                    <a href="#/franquicia-seguro-medico-suiza" class="card-article">
-                        <div class="card-meta">${ui['cat-salud']}</div>
-                        <h3>${arts['articulo-franquicia']?.title || 'Franquicia y Copago en Suiza'}</h3>
-                        <p>${arts['articulo-franquicia']?.summary || 'Por qué el seguro médico puede encarecerse si no eliges bien tu franquicia básica.'}</p>
-                        <span style="margin-top: auto; font-size: 0.85rem; color: var(--text-light);">⏱ 3 ${ui['lbl-read-time']}</span>
-                    </a>
-                </div>
-            </section>
-
-            <!-- FAQ Accordion section -->
-            <section class="animate-fade-up delay-100" style="margin-top: var(--space-xl);">
-                <h2>${ui['home-title-faq']}</h2>
-                <p>${ui['home-desc-faq']}</p>
+            <!-- SECCIÓN 3: Preguntas frecuentes -->
+            <section class="animate-fade-up delay-200" style="margin-top: var(--space-xl);">
+                <h2>Preguntas frecuentes</h2>
+                <p style="margin-bottom:2rem; color:var(--text-secondary);">Las dudas más habituales entre hispanohablantes en Suiza.</p>
                 <div class="accordion">
                     <div class="accordion-item">
-                        <button class="accordion-header">
-                            ${ui['faq-q1']}
-                            <span class="accordion-icon"></span>
-                        </button>
-                        <div class="accordion-content">
-                            <div class="accordion-content-inner">
-                                ${ui['faq-a1']}
-                            </div>
-                        </div>
+                        <button class="accordion-header">¿Puedo trabajar sin tener todavía el permiso en mano?<span class="accordion-icon"></span></button>
+                        <div class="accordion-content"><div class="accordion-content-inner">
+                            Sí. Si eres ciudadano de la UE/EFTA, desde que entregas tus documentos en la comuna y expiden el resguardo de registro, tienes derecho legal a trabajar antes del permiso físico.
+                            <br><a href="#/registrarse-en-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
+                        </div></div>
                     </div>
                     <div class="accordion-item">
-                        <button class="accordion-header">
-                            ${ui['faq-q2']}
-                            <span class="accordion-icon"></span>
-                        </button>
-                        <div class="accordion-content">
-                            <div class="accordion-content-inner">
-                                ${ui['faq-a2']}
-                            </div>
-                        </div>
+                        <button class="accordion-header">¿Cómo funciona el seguro médico en Suiza?<span class="accordion-icon"></span></button>
+                        <div class="accordion-content"><div class="accordion-content-inner">
+                            El seguro básico LAMal es obligatorio. Cubre las mismas prestaciones en todas las cajas, pero las primas varían. Puedes cambiar de seguro una vez al año antes del 30 de noviembre.
+                            <br><a href="#/seguro-medico-lamal-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
+                        </div></div>
                     </div>
                     <div class="accordion-item">
-                        <button class="accordion-header">
-                            ${ui['faq-q3']}
-                            <span class="accordion-icon"></span>
-                        </button>
-                        <div class="accordion-content">
-                            <div class="accordion-content-inner">
-                                ${ui['faq-a3']}
-                            </div>
-                        </div>
+                        <button class="accordion-header">¿Cuánto cuesta vivir en Suiza?<span class="accordion-icon"></span></button>
+                        <div class="accordion-content"><div class="accordion-content-inner">
+                            Un presupuesto individual mínimo ronda los 3.000–4.000 CHF/mes (alquiler, seguro, transporte y alimentación). Los salarios son proporcionalmente elevados.
+                            <br><a href="#/vivir-en-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Ver guías de vida diaria →</a>
+                        </div></div>
                     </div>
-                </div>
-            </section>
-            
-            <!-- Most Consulted Guides -->
-            <section style="margin-top: var(--space-xl);">
-                <h2>Guías más consultadas</h2>
-                <p style="font-size: 1.1rem; margin-bottom: 2rem;">Los temas que más interesan a quienes llegan a Suiza o ya viven aquí.</p>
-                <div class="featured-grid">
-                    <a href="#/permisos-suiza" class="card-article">
-                        <div class="card-meta">Trámites</div>
-                        <h3>Permisos L, B y C</h3>
-                        <p>Todo lo esencial para entender qué permiso corresponde según tu situación.</p>
-                        <span style="margin-top:auto; font-size:0.85rem; color:var(--text-light);">⏱ 4 min de lectura</span>
-                    </a>
-                    <a href="#/seguro-medico-lamal-suiza" class="card-article">
-                        <div class="card-meta">Salud</div>
-                        <h3>Seguro médico LAMal</h3>
-                        <p>Cómo funciona el seguro obligatorio y qué debes hacer al llegar.</p>
-                        <span style="margin-top:auto; font-size:0.85rem; color:var(--text-light);">⏱ 5 min de lectura</span>
-                    </a>
-                    <a href="#/impuesto-fuente-suiza" class="card-article">
-                        <div class="card-meta">Impuestos</div>
-                        <h3>Impuesto a la fuente</h3>
-                        <p>Qué te descuentan en nómina y cuándo puedes corregirlo.</p>
-                        <span style="margin-top:auto; font-size:0.85rem; color:var(--text-light);">⏱ 3 min de lectura</span>
-                    </a>
-                    <a href="#/alquilar-vivienda-suiza" class="card-article">
-                        <div class="card-meta">Vivienda</div>
-                        <h3>Cómo alquilar en Suiza</h3>
-                        <p>Documentos, dosier y claves para no perder tiempo con las agencias.</p>
-                        <span style="margin-top:auto; font-size:0.85rem; color:var(--text-light);">⏱ 5 min de lectura</span>
-                    </a>
+                    <div class="accordion-item">
+                        <button class="accordion-header">¿Cómo alquilar un apartamento en Suiza?<span class="accordion-icon"></span></button>
+                        <div class="accordion-content"><div class="accordion-content-inner">
+                            El mercado es muy competitivo (tasa de vacantes &lt;1% en Ginebra y Zúrich). Necesitas un dosier impecable: extractos bancarios, nóminas, historial de deudas y carta de presentación.
+                            <br><a href="#/alquilar-vivienda-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
+                        </div></div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">¿Cómo funcionan los impuestos en Suiza?<span class="accordion-icon"></span></button>
+                        <div class="accordion-content"><div class="accordion-content-inner">
+                            Los extranjeros sin permiso C tributan en la fuente (Quellensteuer): el empleador retiene el impuesto directamente del salario. Los tipos varían según cantón, estado civil e ingresos.
+                            <br><a href="#/impuesto-fuente-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
+                        </div></div>
+                    </div>
                 </div>
             </section>
 
-            <!-- Official Sources -->
-            <section style="margin-top: var(--space-xl);">
+            <!-- SECCIÓN 4: Fuentes oficiales + 26 cantones -->
+            <section class="animate-fade-up delay-300" style="margin-top: var(--space-xl); padding-bottom: var(--space-xl);">
                 <h2>Fuentes oficiales</h2>
-                <p style="font-size: 1.1rem; margin-bottom: 2rem;">Cuando una regla cambia según el cantón o la situación personal, lo prudente es comprobar siempre la fuente oficial.</p>
-                <div class="featured-grid">
-                    <a href="https://www.ch.ch/es/" target="_blank" class="card-article">
-                        <div class="card-meta">Portal oficial</div>
+                <p style="margin-bottom:2rem; color:var(--text-secondary);">Información directa de la administración suiza. Verifica siempre en la fuente cuando algo cambia.</p>
+                <div class="featured-grid" style="margin-bottom:var(--space-md);">
+                    <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer" class="card-article">
+                        <div class="card-meta">Portal federal</div>
                         <h3>ch.ch</h3>
-                        <p>Información práctica de la Confederación sobre vida diaria, permisos y administración.</p>
+                        <p>Portal oficial de la Confederación sobre vida diaria, permisos y administración. En 5 idiomas.</p>
                     </a>
-                    <a href="https://www.sem.admin.ch/" target="_blank" class="card-article">
+                    <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">Migración</div>
                         <h3>SEM</h3>
-                        <p>Secretaría de Estado de Migración: residencia, libre circulación y nacionalidad.</p>
+                        <p>Secretaría de Estado de Migración: permisos de residencia, libre circulación y naturalización.</p>
                     </a>
-                    <a href="https://www.bfs.admin.ch/" target="_blank" class="card-article">
+                    <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">Estadística</div>
-                        <h3>BFS / OFS</h3>
-                        <p>Datos oficiales sobre salarios, población, vivienda, empleo y mucho más.</p>
+                        <h3>OFS / BFS</h3>
+                        <p>Datos oficiales sobre salarios, población, vivienda y empleo en Suiza.</p>
+                    </a>
+                    <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article">
+                        <div class="card-meta">Economía y empleo</div>
+                        <h3>SECO</h3>
+                        <p>Secretaría de Estado de Economía: mercado laboral, desempleo y condiciones de trabajo.</p>
                     </a>
                 </div>
-            </section>
-
-            <!-- Community Inspired -->
-            <section style="margin-top: var(--space-xl);">
-                <h2>Inspirado en preguntas reales de la comunidad</h2>
-                <p style="font-size: 1.1rem; margin-bottom: 2rem;">Esta web nace de dudas que aparecen una y otra vez entre hispanohablantes que viven en Suiza o preparan su llegada.</p>
-                <div class="topic-hub-grid">
-                    <div class="card-hub">
-                        <h3>¿Puedo trabajar antes de recibir el permiso físico?</h3>
-                        <p>Una de las preguntas más repetidas. La respuesta depende del trámite ya iniciado y de tu situación concreta.</p>
-                        <a href="#/registrarse-en-suiza" class="read-more">Ver guía relacionada &rarr;</a>
+                <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-md); padding:var(--space-md); margin-top:var(--space-md);">
+                    <h3 style="margin-top:0; font-size:1.25rem;">Portales oficiales de los 26 cantones</h3>
+                    <p style="margin-bottom:1.5rem; font-size:0.95rem; color:var(--text-secondary);">Cada cantón gestiona sus propios impuestos, permisos y servicios. Accede directamente al portal de tu cantón.</p>
+                    <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem;">
+                        <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovia (AG)</a>
+                        <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell I.Rh. (AI)</a>
+                        <a href="https://www.ar.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell A.Rh. (AR)</a>
+                        <a href="https://www.bs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Ciudad (BS)</a>
+                        <a href="https://www.bl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Campo (BL)</a>
+                        <a href="https://www.be.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Berna (BE)</a>
+                        <a href="https://www.fr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Friburgo (FR)</a>
+                        <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ginebra (GE)</a>
+                        <a href="https://www.gl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Glaris (GL)</a>
+                        <a href="https://www.gr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Grisones (GR)</a>
+                        <a href="https://www.jura.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Jura (JU)</a>
+                        <a href="https://www.lu.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Lucerna (LU)</a>
+                        <a href="https://www.ne.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Neuchâtel (NE)</a>
+                        <a href="https://www.nw.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Nidwalden (NW)</a>
+                        <a href="https://www.ow.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Obwalden (OW)</a>
+                        <a href="https://www.sh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schaffhausen (SH)</a>
+                        <a href="https://www.sz.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schwyz (SZ)</a>
+                        <a href="https://www.so.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Solothurn (SO)</a>
+                        <a href="https://www.sg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">San Galo (SG)</a>
+                        <a href="https://www.tg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Turgovia (TG)</a>
+                        <a href="https://www.ti.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ticino (TI)</a>
+                        <a href="https://www.ur.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Uri (UR)</a>
+                        <a href="https://www.vs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Valais / Wallis (VS)</a>
+                        <a href="https://www.vd.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Vaud (VD)</a>
+                        <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zug (ZG)</a>
+                        <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zúrich (ZH)</a>
                     </div>
-                    <div class="card-hub">
-                        <h3>¿Qué cambia según el cantón?</h3>
-                        <p>Impuestos, primas de seguro, escolaridad, plazos y trámites pueden variar bastante.</p>
-                        <a href="#/tramites" class="read-more">Explorar trámites &rarr;</a>
-                    </div>
-                    <div class="card-hub">
-                        <h3>¿Qué errores cometen más los recién llegados?</h3>
-                        <p>No comparar seguros, llegar sin dosier de alquiler o no entender bien el impuesto a la fuente.</p>
-                        <a href="#/seguro-medico-lamal-suiza" class="read-more">Leer guía útil &rarr;</a>
-                    </div>
-                </div>
-            </section>
-
-
-            <!-- Official Sources Section -->
-            <section class="animate-fade-up delay-300" style="margin: var(--space-xl) 0; text-align: center; border-top: 1px solid var(--border-light); padding-top: var(--space-xl);">
-                <h2 style="border: none; margin-bottom: 0.5rem;">${ui['official-title']}</h2>
-                <p style="max-width: 600px; margin: 0 auto 2rem;">${ui['official-desc']}</p>
-                <div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;">
-                    <a href="https://www.ch.ch" target="_blank" style="padding: 1rem 2rem; background: var(--bg-surface); border-radius: var(--radius-sm); border: 1px solid var(--border-light); font-weight: 500;">
-                        ch.ch
-                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">${ui['official-ch']}</span>
-                    </a>
-                    <a href="https://www.sem.admin.ch" target="_blank" style="padding: 1rem 2rem; background: var(--bg-surface); border-radius: var(--radius-sm); border: 1px solid var(--border-light); font-weight: 500;">
-                        SEM
-                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">${ui['official-sem']}</span>
-                    </a>
-                    <a href="https://www.bfs.admin.ch" target="_blank" style="padding: 1rem 2rem; background: var(--bg-surface); border-radius: var(--radius-sm); border: 1px solid var(--border-light); font-weight: 500;">
-                        OFS
-                        <span style="display:block; font-size: 0.8rem; font-weight: normal; color: var(--text-light);">${ui['official-bfs']}</span>
-                    </a>
                 </div>
             </section>
         `;

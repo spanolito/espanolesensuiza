@@ -840,7 +840,27 @@ strong, b {
     margin: 2rem auto;
 }
 
-/* Sidebar (Table of Contents) */
+/* Canton links grid */
+.canton-link {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 0.55rem 0.75rem;
+    background: white;
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-sm);
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--text-primary);
+    text-decoration: none;
+    transition: border-color 0.2s, color 0.2s;
+}
+.canton-link:hover {
+    border-color: var(--swiss-red);
+    color: var(--swiss-red);
+}
+
+
 .sidebar {
     position: sticky;
     top: 100px;
