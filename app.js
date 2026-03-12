@@ -935,38 +935,71 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     /**
-     * Router Logic
+     * Helper to get the current clean path regardless of routing method (hash or pathname).
+     * This prepares the site for a future SEO migration to clean URLs.
      */
-    function renderRoute() {
-        let hash = window.location.hash.substring(1) || "/";
-        const langData = window.siteContent[currentLang];
+    function getCurrentPath() {
+        // Priority 1: Current Hash Routing (#/tramites)
+        const hash = window.location.hash.substring(1);
+        if (hash) return hash;
 
-        let isArticle = false;
-        let pageData;
-        let routeKey = hash;
-
-        // Clean up hash route parsing
-        if (hash === "/" || hash === "") {
-            routeKey = "home";
-        } else if (hash.startsWith("/articulo/")) {
-            // e.g. /articulo/articulo-permisos
-            routeKey = hash.replace("/articulo/", "");
-            pageData = langData.articles[routeKey];
-            isArticle = true;
-        } else if (hash.startsWith("/")) {
-            // e.g. /tramites
-            routeKey = hash.substring(1);
+        // Priority 2: Clean Pathname Support (/tramites)
+        // We clean up common suffixes like index.html to avoid routing conflicts
+        const path = window.location.pathname.replace(/\/index\.html$/, "");
+        if (path && path !== "/") {
+            return path;
         }
 
+        return "/";
+    }
+
+    /**
+     * Resolves a raw string path into structured page data from memory.
+     * @param {string} path - The raw path (e.g., "/tramites" or "/articulo/slug")
+     */
+    function resolveRoute(path) {
+        const langData = window.siteContent[currentLang];
+        let isArticle = false;
+        let routeKey = path;
+        let pageData;
+
+        // Handle Home
+        if (path === "/" || path === "") {
+            routeKey = "home";
+        } 
+        // Handle Articles
+        else if (path.startsWith("/articulo/")) {
+            routeKey = path.replace("/articulo/", "");
+            pageData = langData.articles[routeKey];
+            isArticle = true;
+        } 
+        // Handle Category Hubs or Static Pages
+        else if (path.startsWith("/")) {
+            routeKey = path.substring(1);
+        }
+
+        // Fetch page data if not already identified as an article
         if (!isArticle) {
             pageData = langData.pages[routeKey];
         }
 
-        // 404 Fallback
+        // 404 Fallback to Home
         if (!pageData) {
             pageData = langData.pages["home"];
             routeKey = "home";
         }
+
+        return { routeKey, pageData, isArticle };
+    }
+
+    /**
+     * Router Logic
+     * Centralized entry point for rendering any route.
+     */
+    function renderRoute() {
+        const path = getCurrentPath();
+        const langData = window.siteContent[currentLang];
+        const { routeKey, pageData, isArticle } = resolveRoute(path);
 
         // Apply transition effects
         appContainer.classList.add("page-transitioning");
@@ -1146,8 +1179,11 @@ document.addEventListener("DOMContentLoaded", () => {
         }, 200); // match CSS transiton time
     }
 
-    // Hash Listeners
+    // Event Listeners for Routing
     window.addEventListener("hashchange", renderRoute);
+
+    // FUTURE SEO: Listen to popstate when migrating to clean URLs (History API)
+    // window.addEventListener("popstate", renderRoute);
 
     // Initial load
     renderRoute();
