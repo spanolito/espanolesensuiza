@@ -117,10 +117,10 @@ window.siteContent.es.pages = {
                 </div>
             </section>
 
-            <!-- SECCIÓN 4: Fuentes oficiales + 26 cantones -->
-            <section class="animate-fade-up delay-300" style="margin-top: var(--space-xl); padding-bottom: var(--space-xl);">
+            <!-- SECCIÓN 3: Fuentes oficiales -->
+            <section class="animate-fade-up delay-200" style="margin-top: var(--space-xl);">
                 <h2>Fuentes oficiales</h2>
-                <p style="margin-bottom:2rem; color:var(--text-secondary);">Información directa de la administración suiza. Verifica siempre en la fuente cuando algo cambia.</p>
+                <p style="margin-bottom:2rem; color:var(--text-secondary);">Información directa de la administración suiza y española. Verifica siempre en la fuente cuando algo cambia.</p>
                 <div class="featured-grid" style="margin-bottom:var(--space-md);">
                     <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">Portal federal</div>
@@ -144,36 +144,63 @@ window.siteContent.es.pages = {
                     </a>
                 </div>
                 <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-md); padding:var(--space-md); margin-top:var(--space-md);">
-                    <h3 style="margin-top:0; font-size:1.25rem;">Portales oficiales de los 26 cantones</h3>
-                    <p style="margin-bottom:1.5rem; font-size:0.95rem; color:var(--text-secondary);">Cada cantón gestiona sus propios impuestos, permisos y servicios. Accede directamente al portal de tu cantón.</p>
-                    <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem;">
-                        <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovia (AG)</a>
-                        <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell I.Rh. (AI)</a>
-                        <a href="https://www.ar.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell A.Rh. (AR)</a>
-                        <a href="https://www.bs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Ciudad (BS)</a>
-                        <a href="https://www.bl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Campo (BL)</a>
-                        <a href="https://www.be.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Berna (BE)</a>
-                        <a href="https://www.fr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Friburgo (FR)</a>
-                        <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ginebra (GE)</a>
-                        <a href="https://www.gl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Glaris (GL)</a>
-                        <a href="https://www.gr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Grisones (GR)</a>
-                        <a href="https://www.jura.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Jura (JU)</a>
-                        <a href="https://www.lu.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Lucerna (LU)</a>
-                        <a href="https://www.ne.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Neuchâtel (NE)</a>
-                        <a href="https://www.nw.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Nidwalden (NW)</a>
-                        <a href="https://www.ow.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Obwalden (OW)</a>
-                        <a href="https://www.sh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schaffhausen (SH)</a>
-                        <a href="https://www.sz.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schwyz (SZ)</a>
-                        <a href="https://www.so.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Solothurn (SO)</a>
-                        <a href="https://www.sg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">San Galo (SG)</a>
-                        <a href="https://www.tg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Turgovia (TG)</a>
-                        <a href="https://www.ti.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ticino (TI)</a>
-                        <a href="https://www.ur.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Uri (UR)</a>
-                        <a href="https://www.vs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Valais / Wallis (VS)</a>
-                        <a href="https://www.vd.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Vaud (VD)</a>
-                        <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zug (ZG)</a>
-                        <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zúrich (ZH)</a>
+                    <h3 style="margin-top:0; font-size:1.15rem;">🏛️ Consulados españoles en Suiza</h3>
+                    <p style="font-size:0.95rem; color:var(--text-secondary); margin-bottom:1.25rem;">Para trámites de DNI, pasaporte, registro consular, registro civil y asistencia oficial.</p>
+                    <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); gap:0.75rem;">
+                        <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" class="card-article" style="padding:0.9rem 1rem;">
+                            <div class="card-meta">GE · VD · VS · NE · FR · JU</div>
+                            <h3 style="font-size:1rem; margin:0.4rem 0 0.3rem;">Consulado de Ginebra</h3>
+                            <p style="font-size:0.85rem; margin:0;">85 Rue de Lausanne, 1202 Ginebra<br>+41 22 731 25 30</p>
+                        </a>
+                        <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" class="card-article" style="padding:0.9rem 1rem;">
+                            <div class="card-meta">BE · SO · parte FR / VS</div>
+                            <h3 style="font-size:1rem; margin:0.4rem 0 0.3rem;">Consulado de Berna</h3>
+                            <p style="font-size:0.85rem; margin:0;">Kalcheggweg 24, 3006 Berna<br>+41 31 352 04 12</p>
+                        </a>
+                        <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="card-article" style="padding:0.9rem 1rem;">
+                            <div class="card-meta">ZH · BS · BL · LU · AG · SG · GR · TI ···</div>
+                            <h3 style="font-size:1rem; margin:0.4rem 0 0.3rem;">Consulado de Zúrich</h3>
+                            <p style="font-size:0.85rem; margin:0;">Tödistrasse 60, 8002 Zúrich<br>+41 44 202 89 89</p>
+                        </a>
                     </div>
+                    <p style="margin-top:1rem; font-size:0.85rem; color:var(--text-light);">
+                        👉 Cita previa obligatoria: <a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">citaconsular.es</a>
+                        &nbsp;·&nbsp; <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red);">Leer la guía completa →</a>
+                    </p>
+                </div>
+            </section>
+
+            <!-- SECCIÓN 4: Portales de los 26 cantones -->
+            <section class="animate-fade-up delay-300" style="margin-top: var(--space-xl);">
+                <h2>Portales oficiales de los 26 cantones</h2>
+                <p style="margin-bottom:1.5rem; color:var(--text-secondary);">Cada cantón gestiona sus propios impuestos, permisos y servicios. Accede directamente al portal de tu cantón.</p>
+                <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem;">
+                    <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovia (AG)</a>
+                    <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell I.Rh. (AI)</a>
+                    <a href="https://www.ar.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell A.Rh. (AR)</a>
+                    <a href="https://www.bs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Ciudad (BS)</a>
+                    <a href="https://www.bl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Campo (BL)</a>
+                    <a href="https://www.be.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Berna (BE)</a>
+                    <a href="https://www.fr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Friburgo (FR)</a>
+                    <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ginebra (GE)</a>
+                    <a href="https://www.gl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Glaris (GL)</a>
+                    <a href="https://www.gr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Grisones (GR)</a>
+                    <a href="https://www.jura.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Jura (JU)</a>
+                    <a href="https://www.lu.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Lucerna (LU)</a>
+                    <a href="https://www.ne.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Neuchâtel (NE)</a>
+                    <a href="https://www.nw.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Nidwalden (NW)</a>
+                    <a href="https://www.ow.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Obwalden (OW)</a>
+                    <a href="https://www.sh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schaffhausen (SH)</a>
+                    <a href="https://www.sz.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schwyz (SZ)</a>
+                    <a href="https://www.so.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Solothurn (SO)</a>
+                    <a href="https://www.sg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">San Galo (SG)</a>
+                    <a href="https://www.tg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Turgovia (TG)</a>
+                    <a href="https://www.ti.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ticino (TI)</a>
+                    <a href="https://www.ur.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Uri (UR)</a>
+                    <a href="https://www.vs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Valais / Wallis (VS)</a>
+                    <a href="https://www.vd.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Vaud (VD)</a>
+                    <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zug (ZG)</a>
+                    <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zúrich (ZH)</a>
                 </div>
             </section>
         `;
