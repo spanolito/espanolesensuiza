@@ -117,11 +117,11 @@ window.siteContent.es.pages = {
                 </div>
             </section>
 
-            <!-- SECCIÓN 3: Fuentes oficiales -->
+            <!-- SECCIÓN 2: Fuentes oficiales -->
             <section class="animate-fade-up delay-200" style="margin-top: var(--space-xl);">
                 <h2>Fuentes oficiales</h2>
                 <p style="margin-bottom:2rem; color:var(--text-secondary);">Información directa de la administración suiza y española. Verifica siempre en la fuente cuando algo cambia.</p>
-                <div class="featured-grid" style="margin-bottom:var(--space-md);">
+                <div class="featured-grid">
                     <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">Portal federal</div>
                         <h3>ch.ch</h3>
@@ -142,32 +142,26 @@ window.siteContent.es.pages = {
                         <h3>SECO</h3>
                         <p>Secretaría de Estado de Economía: mercado laboral, desempleo y condiciones de trabajo.</p>
                     </a>
+                    <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" class="card-article">
+                        <div class="card-meta">Consulado · GE · VD · VS · NE · FR · JU</div>
+                        <h3>Consulado de Ginebra</h3>
+                        <p>85 Rue de Lausanne, 1202 Ginebra · +41 22 731 25 30</p>
+                    </a>
+                    <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" class="card-article">
+                        <div class="card-meta">Consulado · BE · SO · FR · VS</div>
+                        <h3>Consulado de Berna</h3>
+                        <p>Kalcheggweg 24, 3006 Berna · +41 31 352 04 12</p>
+                    </a>
+                    <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="card-article">
+                        <div class="card-meta">Consulado · ZH · BS · LU · AG · TI ···</div>
+                        <h3>Consulado de Zúrich</h3>
+                        <p>Tödistrasse 60, 8002 Zúrich · +41 44 202 89 89</p>
+                    </a>
                 </div>
-                <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-md); padding:var(--space-md); margin-top:var(--space-md);">
-                    <h3 style="margin-top:0; font-size:1.15rem;">🏛️ Consulados españoles en Suiza</h3>
-                    <p style="font-size:0.95rem; color:var(--text-secondary); margin-bottom:1.25rem;">Para trámites de DNI, pasaporte, registro consular, registro civil y asistencia oficial.</p>
-                    <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); gap:0.75rem;">
-                        <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" class="card-article" style="padding:0.9rem 1rem;">
-                            <div class="card-meta">GE · VD · VS · NE · FR · JU</div>
-                            <h3 style="font-size:1rem; margin:0.4rem 0 0.3rem;">Consulado de Ginebra</h3>
-                            <p style="font-size:0.85rem; margin:0;">85 Rue de Lausanne, 1202 Ginebra<br>+41 22 731 25 30</p>
-                        </a>
-                        <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" class="card-article" style="padding:0.9rem 1rem;">
-                            <div class="card-meta">BE · SO · parte FR / VS</div>
-                            <h3 style="font-size:1rem; margin:0.4rem 0 0.3rem;">Consulado de Berna</h3>
-                            <p style="font-size:0.85rem; margin:0;">Kalcheggweg 24, 3006 Berna<br>+41 31 352 04 12</p>
-                        </a>
-                        <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="card-article" style="padding:0.9rem 1rem;">
-                            <div class="card-meta">ZH · BS · BL · LU · AG · SG · GR · TI ···</div>
-                            <h3 style="font-size:1rem; margin:0.4rem 0 0.3rem;">Consulado de Zúrich</h3>
-                            <p style="font-size:0.85rem; margin:0;">Tödistrasse 60, 8002 Zúrich<br>+41 44 202 89 89</p>
-                        </a>
-                    </div>
-                    <p style="margin-top:1rem; font-size:0.85rem; color:var(--text-light);">
-                        👉 Cita previa obligatoria: <a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">citaconsular.es</a>
-                        &nbsp;·&nbsp; <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red);">Leer la guía completa →</a>
-                    </p>
-                </div>
+                <p style="margin-top:0.75rem; font-size:0.85rem; color:var(--text-light);">
+                    👉 Cita previa consulados: <a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">citaconsular.es</a>
+                    &nbsp;·&nbsp; <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red);">Guía completa de consulados →</a>
+                </p>
             </section>
 
             <!-- SECCIÓN 4: Portales de los 26 cantones -->
