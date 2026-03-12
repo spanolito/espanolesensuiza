@@ -727,7 +727,12 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-guides": "Guías",
             "lbl-section": "la sección",
             "lbl-back-top-aria": "Volver arriba",
-            "cont-sending": "Enviando..."
+            "cont-sending": "Enviando...",
+            "i18n-missing-title": "Este contenido no está disponible en este idioma todavía.",
+            "i18n-missing-desc": "Estamos trabajando en la traducción. Mientras tanto, puedes leer la versión original en español.",
+            "i18n-missing-btn-es": "Leer en español",
+            "i18n-missing-btn-back": "Volver a la sección",
+            "i18n-missing-original-title": "Título original:"
         },
         en: {
             "home-sr-title": "Spaniards in Switzerland: practical guide to live and work",
@@ -746,7 +751,12 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-guides": "Guides",
             "lbl-section": "the section",
             "lbl-back-top-aria": "Back to top",
-            "cont-sending": "Sending..."
+            "cont-sending": "Sending...",
+            "i18n-missing-title": "This content isn’t available in this language yet.",
+            "i18n-missing-desc": "We’re working on a translation. In the meantime, you can read the Spanish original.",
+            "i18n-missing-btn-es": "Read in Spanish",
+            "i18n-missing-btn-back": "Back to section",
+            "i18n-missing-original-title": "Original title:"
         },
         fr: {
             "home-sr-title": "Espagnols en Suisse : guide pratique pour vivre et travailler",
@@ -765,7 +775,12 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-guides": "Guides",
             "lbl-section": "la section",
             "lbl-back-top-aria": "Retour en haut",
-            "cont-sending": "Envoi..."
+            "cont-sending": "Envoi...",
+            "i18n-missing-title": "Ce contenu n’est pas encore disponible dans cette langue.",
+            "i18n-missing-desc": "La traduction est en cours. En attendant, vous pouvez lire la version originale en espagnol.",
+            "i18n-missing-btn-es": "Lire en espagnol",
+            "i18n-missing-btn-back": "Retour à la section",
+            "i18n-missing-original-title": "Titre original :"
         },
         de: {
             "home-sr-title": "Spanier in der Schweiz: praktischer Leitfaden fur Leben und Arbeit",
@@ -784,7 +799,12 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-guides": "Leitfaden",
             "lbl-section": "dem Bereich",
             "lbl-back-top-aria": "Nach oben",
-            "cont-sending": "Wird gesendet..."
+            "cont-sending": "Wird gesendet...",
+            "i18n-missing-title": "Dieser Inhalt ist in dieser Sprache noch nicht verfügbar.",
+            "i18n-missing-desc": "Die Übersetzung ist in Arbeit. In der Zwischenzeit können Sie die spanische Originalversion lesen.",
+            "i18n-missing-btn-es": "Auf Spanisch lesen",
+            "i18n-missing-btn-back": "Zurück zur Rubrik",
+            "i18n-missing-original-title": "Originaltitel:"
         },
         it: {
             "home-sr-title": "Spagnoli in Svizzera: guida pratica per vivere e lavorare",
@@ -803,7 +823,12 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-guides": "Guide",
             "lbl-section": "la sezione",
             "lbl-back-top-aria": "Torna su",
-            "cont-sending": "Invio in corso..."
+            "cont-sending": "Invio in corso...",
+            "i18n-missing-title": "Questo contenuto non è ancora disponibile in questa lingua.",
+            "i18n-missing-desc": "Stiamo lavorando alla traduzione. Nel frattempo puoi leggere la versione originale in spagnolo.",
+            "i18n-missing-btn-es": "Leggi in spagnolo",
+            "i18n-missing-btn-back": "Torna alla sezione",
+            "i18n-missing-original-title": "Titolo originale:"
         }
     };
 
@@ -815,6 +840,28 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let currentLang = localStorage.getItem("lang") || "es";
     document.documentElement.lang = currentLang;
+
+    function setLanguage(lang) {
+        if (!window.siteContent[lang]) {
+            alert("This language is not yet available.");
+            return;
+        }
+        currentLang = lang;
+        localStorage.setItem("lang", lang);
+        document.documentElement.lang = currentLang;
+        updateUITexts();
+
+        // Update active state + display
+        const currentLangDisplay = document.getElementById("current-lang-display");
+        langBtns.forEach(b => b.classList.remove("active"));
+        langBtns.forEach(b => {
+            if (b.getAttribute("data-lang") === currentLang) b.classList.add("active");
+        });
+        if (currentLangDisplay) currentLangDisplay.textContent = currentLang.toUpperCase();
+
+        renderRoute();
+    }
+    window.setLanguage = setLanguage;
 
     function updateUITexts() {
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
@@ -975,22 +1022,11 @@ document.addEventListener("DOMContentLoaded", () => {
     langBtns.forEach(btn => {
         btn.addEventListener("click", (e) => {
             const lang = e.target.getAttribute("data-lang");
-            if (window.siteContent[lang]) {
-                currentLang = lang;
-                localStorage.setItem("lang", lang);
-                document.documentElement.lang = currentLang;
-                updateUITexts();
-                langBtns.forEach(b => b.classList.remove("active"));
-                e.target.classList.add("active");
-                if (currentLangDisplay) currentLangDisplay.textContent = currentLang.toUpperCase();
-                
-                // Close language dropdown if open
-                e.target.closest('.dropdown').classList.remove('open');
-                
-                renderRoute();
-            } else {
-                alert("This language is not yet available.");
-            }
+            setLanguage(lang);
+
+            // Close language dropdown if open
+            const dropdown = e.target.closest('.dropdown');
+            if (dropdown) dropdown.classList.remove('open');
         });
     });
 
@@ -1065,7 +1101,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
                     const termMatch = (article.title && article.title.toLowerCase().includes(term)) ||
                         (article.keywords && article.keywords.toLowerCase().includes(term)) ||
-                        (article.description && article.description.toLowerCase().includes(term));
+                        (article.description && article.description.toLowerCase().includes(term)) ||
+                        (article.summary && article.summary.toLowerCase().includes(term));
 
                     const audienceMatch = filterAudience === '' || article.audience === filterAudience;
 
@@ -1081,7 +1118,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                     <div class="card-meta">${r.category || ui['lbl-guide']}</div>
                                     <div class="card-content">
                                         <h3>${r.title}</h3>
-                                        <p>${r.description}</p>
+                                        <p>${r.summary || r.description || ""}</p>
                                     </div>
                                 </a>
                             `).join('')}
@@ -1114,7 +1151,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         <a href="#/${r.slug || 'articulo/' + r.id}" class="card-article">
                             <div class="card-meta">${r.category || ui['lbl-guide']} ${r.readingTime ? `· ${r.readingTime} min` : ''}</div>
                             <h3>${r.title}</h3>
-                            <p>${r.description}</p>
+                            <p>${r.summary || r.description || ""}</p>
                             <span class="btn-secondary" style="margin-top:auto; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600;">${ui['btn-read-guide']}</span>
                         </a>
                     `).join('')}
@@ -1152,6 +1189,8 @@ document.addEventListener("DOMContentLoaded", () => {
         let isArticle = false;
         let routeKey = path;
         let pageData;
+        let missingTranslation = false;
+        let missingTranslationEs = null;
 
         // Standardize clean path behavior for resolution
         const cleanPath = path.startsWith('/') ? path : '/' + path;
@@ -1181,15 +1220,26 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         }
 
-        // Fallback: if lang ≠ es and article not found by slug, try matching by ES slug → same key in current lang
+        // Fallback: if lang ≠ es and article not found, try matching by ES slug/key → same key in current lang
         if (!pageData && currentLang !== 'es') {
             const esArticles = window.siteContent['es'] && window.siteContent['es'].articles;
             if (esArticles) {
+                // Direct article key (legacy /articulo/<key>) exists only in ES
+                if (routeKey && esArticles[routeKey] && (!langData.articles || !langData.articles[routeKey])) {
+                    missingTranslation = true;
+                    missingTranslationEs = esArticles[routeKey];
+                    isArticle = true;
+                }
+
                 const esKeyBySlug = Object.keys(esArticles).find(key => esArticles[key].slug === routeKey);
                 if (esKeyBySlug) {
-                    // Use the same article key in current language if it exists, otherwise fallback to ES
-                    pageData = langData.articles[esKeyBySlug] || esArticles[esKeyBySlug];
                     routeKey = esKeyBySlug;
+                    if (langData.articles && langData.articles[esKeyBySlug]) {
+                        pageData = langData.articles[esKeyBySlug];
+                    } else {
+                        missingTranslation = true;
+                        missingTranslationEs = esArticles[esKeyBySlug];
+                    }
                     isArticle = true;
                 }
             }
@@ -1201,12 +1251,12 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         // 404 Fallback to Home
-        if (!pageData) {
+        if (!pageData && !missingTranslation) {
             pageData = langData.pages["home"];
             routeKey = "home";
         }
 
-        return { routeKey, pageData, isArticle };
+        return { routeKey, pageData, isArticle, missingTranslation, missingTranslationEs };
     }
 
     /**
@@ -1220,7 +1270,13 @@ document.addEventListener("DOMContentLoaded", () => {
         const baseUrl = "https://www.espanolesensuiza.ch";
         
         let resolvedTitle = pageData.title || "";
-        let resolvedDescription = pageData.description || "";
+        let resolvedDescription = pageData.description || pageData.summary || "";
+
+        if (isArticle) {
+            resolvedDescription = currentLang !== 'es'
+                ? (pageData.summary || pageData.description || "")
+                : (pageData.description || pageData.summary || "");
+        }
 
         // Localized metadata for shared pages (all langs currently point to es.pages)
         if (!isArticle) {
@@ -1309,7 +1365,10 @@ document.addEventListener("DOMContentLoaded", () => {
         if (metaDesc) metaDesc.setAttribute("content", resolvedDescription);
         
         const metaKeywords = document.getElementById("meta-keywords");
-        if (metaKeywords) metaKeywords.setAttribute("content", pageData.keywords || "");
+        if (metaKeywords) {
+            const keywords = (isArticle && currentLang !== 'es') ? "" : (pageData.keywords || "");
+            metaKeywords.setAttribute("content", keywords);
+        }
 
         // 4. Update Canonical Link
         const canonical = document.getElementById("canonical-url");
@@ -1340,14 +1399,54 @@ document.addEventListener("DOMContentLoaded", () => {
     function renderRoute() {
         const path = getCurrentPath();
         const langData = window.siteContent[currentLang];
-        const { routeKey, pageData, isArticle } = resolveRoute(path);
+        const { routeKey, pageData, isArticle, missingTranslation, missingTranslationEs } = resolveRoute(path);
 
         // Apply transition effects
         appContainer.classList.add("page-transitioning");
 
         setTimeout(() => {
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
-            if (isArticle) {
+            const hubForNav = isArticle ? ((pageData && pageData.hub) || (missingTranslationEs && missingTranslationEs.hub)) : null;
+
+            if (isArticle && missingTranslation) {
+                progressBarContainer.style.display = "none";
+
+                const esArticle = missingTranslationEs || {};
+                const esArticleHref = esArticle.slug ? `#/${esArticle.slug}` : `#/articulo/${routeKey}`;
+                const hubHref = hubForNav ? `#/${hubForNav}` : "#/";
+                const metaData = {
+                    title: ui["i18n-missing-title"] || "Not available",
+                    description: ui["i18n-missing-desc"] || "",
+                    keywords: "",
+                    slug: esArticle.slug,
+                    hub: hubForNav
+                };
+
+                appContainer.innerHTML = `
+                    <div class="article-layout fade-in-up">
+                        <main>
+                            <article>
+                                <div class="article-header">
+                                    <nav class="breadcrumbs">
+                                        <a href="#/">${ui['nav-inicio']}</a> > 
+                                        ${hubForNav ? `<a href="${hubHref}">${ui['lbl-guides']}</a> > ` : ``}
+                                        <span>${ui["i18n-missing-title"] || ""}</span>
+                                    </nav>
+                                    <h1>${ui["i18n-missing-title"] || ""}</h1>
+                                    <p style="font-size: 1.125rem; color: var(--text-secondary); margin-top: 0.75rem;">${ui["i18n-missing-desc"] || ""}</p>
+
+                                    <div class="hero-actions" style="margin-top: 1.5rem;">
+                                        <a href="${esArticleHref}" class="btn btn-primary" onclick="window.setLanguage && window.setLanguage('es'); return false;">${ui["i18n-missing-btn-es"] || "Read in Spanish"}</a>
+                                        <a href="${hubHref}" class="btn">${ui["i18n-missing-btn-back"] || "Back"}</a>
+                                    </div>
+                                </div>
+                            </article>
+                        </main>
+                    </div>
+                `;
+
+                updateMetaTags(metaData, true, routeKey);
+            } else if (isArticle) {
                 // Find Related Guides
                 const relatedKeys = Object.keys(langData.articles)
                     .filter(k => k !== routeKey && langData.articles[k].hub === pageData.hub)
@@ -1440,14 +1539,16 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             // Update Meta & Title dynamically for SEO
-            updateMetaTags(pageData, isArticle, routeKey);
+            if (!(isArticle && missingTranslation)) {
+                updateMetaTags(pageData, isArticle, routeKey);
+            }
 
             // Set active Nav link based on Route Key
             navLinks.forEach(link => {
                 link.classList.remove("active");
                 const href = link.getAttribute("href");
                 // Exact match or partial match for article hubs
-                if (href === `#/${routeKey}` || (isArticle && href === `#/${pageData.hub}`)) {
+                if (href === `#/${routeKey}` || (isArticle && hubForNav && href === `#/${hubForNav}`)) {
                     link.classList.add("active");
                 }
                 if (routeKey === "home" && href === "#/") {
