@@ -887,7 +887,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     displayArea.innerHTML = `
                         <div class="featured-grid" style="margin-top: 2rem;">
                             ${results.map(r => `
-                                <a href="#/articulo/${r.id}" class="card-article">
+                                <a href="#/${r.slug || 'articulo/' + r.id}" class="card-article">
                                     <div class="card-meta">${r.category || 'Guía'}</div>
                                     <h3>${r.title}</h3>
                                     <p>${r.description}</p>
@@ -920,7 +920,7 @@ document.addEventListener("DOMContentLoaded", () => {
             container.innerHTML = `
                 <div class="featured-grid">
                     ${hubArticles.map(r => `
-                        <a href="#/articulo/${r.id}" class="card-article">
+                        <a href="#/${r.slug || 'articulo/' + r.id}" class="card-article">
                             <div class="card-meta">${r.category || 'Guía'} ${r.readingTime ? `· ${r.readingTime} min` : ''}</div>
                             <h3>${r.title}</h3>
                             <p>${r.description}</p>
@@ -1088,7 +1088,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                 ${relatedKeys.map(k => {
                                     const r = langData.articles[k];
                                     return `
-                                    <a href="#/articulo/${k}" class="card-article" style="min-height: auto;">
+                                    <a href="#/${r.slug || 'articulo/' + k}" class="card-article" style="min-height: auto;">
                                         <div class="card-meta">${r.category || 'Guía'}</div>
                                         <h3 style="font-size: 1.125rem;">${r.title}</h3>
                                         <span class="btn-secondary" style="margin-top:1rem; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600; font-size: 0.9rem;">${ui['btn-read-guide']}</span>
