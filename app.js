@@ -969,7 +969,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (cleanPath === "/" || cleanPath === "") {
             routeKey = "home";
         } 
-        // Handle Articles
+        // Handle Articles (Legacy /articulo/ path)
         else if (cleanPath.startsWith("/articulo/")) {
             routeKey = cleanPath.replace("/articulo/", "");
             pageData = langData.articles[routeKey];
@@ -978,6 +978,16 @@ document.addEventListener("DOMContentLoaded", () => {
         // Handle Category Hubs or Static Pages
         else if (cleanPath.startsWith("/")) {
             routeKey = cleanPath.substring(1);
+        }
+
+        // Search for article by slug (New clean path)
+        if (!pageData) {
+            const articleIdBySlug = Object.keys(langData.articles).find(key => langData.articles[key].slug === routeKey);
+            if (articleIdBySlug) {
+                routeKey = articleIdBySlug;
+                pageData = langData.articles[routeKey];
+                isArticle = true;
+            }
         }
 
         // Fetch page data if not already identified as an article
@@ -1011,7 +1021,12 @@ document.addEventListener("DOMContentLoaded", () => {
         // 2. Determine clean path for Search Engines (No hash)
         let cleanPath = "/";
         if (routeKey !== "home") {
-            cleanPath = isArticle ? `/articulo/${routeKey}` : `/${routeKey}`;
+            // Prioritize clean slug for articles if available
+            if (isArticle && pageData.slug) {
+                cleanPath = `/${pageData.slug}`;
+            } else {
+                cleanPath = isArticle ? `/articulo/${routeKey}` : `/${routeKey}`;
+            }
         }
         const fullUrl = baseUrl + cleanPath;
 
