@@ -655,5 +655,106 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
 <strong>Informations SEM :</strong> Tous les cantons ont leurs propres procédures mais respectent la loi fédérale du <a href="https://www.sem.admin.ch/sem/fr/home/themen/buergerrecht/einbuergerung/ordentliche_einbuergerung.html" target="_blank">SEM</a>. 
 </div>
 </div>`
+    },
+
+    // 21. Consulats d'Espagne en Suisse
+    "articulo-consulados": {
+        title: "Consulats d'Espagne en Suisse : où ils sont et quels services ils offrent",
+        description: "Guide complet des trois consulats généraux d'Espagne en Suisse (Genève, Berne, Zurich) : services, rendez-vous, passeports et registre consulaire.",
+        keywords: "consulat espagne suisse, consulat geneve, consulat zurich, consulat berne, registre consulaire, passeport espagne, MAEC",
+        audience: 'newcomer',
+        category: 'Ressources officielles',
+        hub: 'recursos',
+        slug: "consulados-espanoles-suiza",
+        readingTime: 5,
+        dateUpdated: "Mars 2026",
+        summary: "L'Espagne dispose de trois consulats en Suisse : Genève, Berne et Zurich. Le registre consulaire est la première démarche à faire à l'arrivée.",
+        content: `
+            <div class="page-header">
+                <h1>Consulats d'Espagne en Suisse : guide des démarches</h1>
+            </div>
+            <div class="article-content">
+                <p>Si vous êtes citoyen espagnol et que vous vivez en Suisse, le consulat est votre guichet officiel pour la plupart des démarches qui lient votre vie à l'étranger à l'administration espagnole. Il existe trois consulats généraux d'Espagne en Suisse, et vous devez vous adresser à celui qui correspond à votre canton de résidence.</p>
+
+                <div class="callout info">
+                    <strong>Première étape obligatoire :</strong> En vous installant en Suisse, la démarche la plus importante est de <strong>vous inscrire au Registre de matricule consulaire</strong>. Sans cette inscription, vous ne pourrez pas renouveler votre DNI ou votre passeport, ni voter aux élections espagnoles depuis l'étranger.
+                </div>
+
+                <h2>Les 3 consulats généraux d'Espagne en Suisse</h2>
+
+                <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr)); gap:1.25rem; margin:1.5rem 0;">
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Genève</h3>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Genève, Vaud, Valais, Fribourg, Neuchâtel, Jura</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> 85 Rue de Lausanne, 1202 Genève</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 22 731 25 30</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
+                    </div>
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Berne</h3>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Berne, Soleure, Fribourg (partie), Valais (partie)</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> Kalcheggweg 24, 3006 Berne</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 31 352 04 12</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
+                    </div>
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Zurich</h3>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Zurich, Argovie, Bâle, Lucerne, Saint-Gall, Grisons, Schaffhouse, Thurgovie, Tessin, Zoug et autres</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> Tödistrasse 60, 8002 Zurich</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 44 202 89 89</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
+                    </div>
+                </div>
+
+                <h2>Quelles démarches pouvez-vous faire au consulat ?</h2>
+
+                <h3>Registre de matricule consulaire (RECA)</h3>
+                <p>C'est <strong>la première démarche à effectuer</strong> en vous installant en Suisse. Elle sert à vous enregistrer officiellement comme résident espagnol à l'étranger. Après cette inscription :</p>
+                <ul>
+                    <li>Vous pouvez renouveler votre DNI et votre passeport depuis la Suisse.</li>
+                    <li>Vous pouvez exercer votre droit de vote aux elections espagnoles (CERA — Censo Electoral de Residentes Ausentes).</li>
+                    <li>L'administration espagnole a une trace officielle de votre lieu de residence.</li>
+                </ul>
+                <p>L'inscription est gratuite. Vous aurez besoin : d'un passeport ou DNI en cours de validité, d'une preuve de résidence en Suisse (bail, inscription à la commune) et, dans certains cas, du permis de séjour suisse.</p>
+
+                <h3>DNI et passeport</h3>
+                <p>Vous pouvez renouveler ou demander votre DNI et votre passeport au consulat de votre circonscription. Il est <strong>indispensable de prendre rendez-vous</strong> via le système officiel du Ministère des Affaires étrangères. Les délais peuvent être de plusieurs semaines, en particulier à Genève et Zurich.</p>
+
+                <div class="callout">
+                    <strong>Conseil :</strong> Prenez rendez-vous au moins 2 a 3 mois avant l'expiration de votre document. N'attendez pas le dernier moment.
+                </div>
+
+                <h3>État civil : naissances, mariages, décès</h3>
+                <p>Si vous avez eu un enfant en Suisse, si vous vous êtes marié ou si un proche espagnol est décédé, vous devez déclarer l'événement à l'état civil consulaire. Le consulat enregistrera ensuite l'événement à l'état civil espagnol.</p>
+
+                <h3>Pensions et sécurité sociale</h3>
+                <p>Le consulat peut vous orienter sur les conventions de sécurité sociale entre l'Espagne et la Suisse, les demandes de pension, l'addition des périodes de cotisation et d'autres démarches liées à la sécurité sociale espagnole.</p>
+
+                <h3>Assistance consulaire</h3>
+                <p>En cas d'urgence (vol de documents, accident grave, décès), le consulat peut fournir une assistance consulaire d'urgence. En dehors des horaires, chaque consulat dispose d'une ligne de garde.</p>
+
+                <h2>Comment prendre rendez-vous au consulat</h2>
+                <p>Toutes les démarches sont gérées exclusivement sur rendez-vous via le système officiel :</p>
+                <ul>
+                    <li><a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer">citaconsular.es</a> — Système officiel de prise de rendez-vous (MAEC)</li>
+                    <li>Vous pouvez aussi contacter directement le consulat pour les urgences.</li>
+                </ul>
+
+                <h2>Portail du Ministère des Affaires étrangères</h2>
+                <p>Toutes les informations à jour sur les démarches, les conditions et les actualités pour les Espagnols en Suisse se trouvent ici :</p>
+                <ul>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Consulat à Genève</a></li>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Consulat a Berne</a></li>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Consulat a Zurich</a></li>
+                </ul>
+
+                <h2>Articles associés</h2>
+                <ul>
+                    <li><a href="#/registrarse-en-suiza">S'inscrire en Suisse à l'arrivée</a></li>
+                    <li><a href="#/permisos-suiza">Permis de sejour L, B et C</a></li>
+                    <li><a href="#/tramites-llegada-suiza">Démarches à l'arrivée : liste complète</a></li>
+                </ul>
+            </div>
+        `
     }
 };
