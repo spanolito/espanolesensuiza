@@ -436,11 +436,6 @@ window.siteContent.es.pages = {
                     <p>${ui['rec-comp-p']}</p>
                     <a href="https://www.comparis.ch" target="_blank" class="read-more">${ui['rec-comp-link']}</a>
                 </div>
-                <div class="card-hub">
-                    <h3>${ui['rec-canton-title']}</h3>
-                    <p>${ui['rec-canton-p']}</p>
-                    <a href="#cantones" class="read-more">${ui['rec-canton-links-link']}</a>
-                </div>
             </div>
 
             <section id="cantones" class="animate-fade-up" style="margin-top: var(--space-xl);">
