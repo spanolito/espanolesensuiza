@@ -48,28 +48,28 @@ window.siteContent.es.pages = {
                 <div class="quick-start-grid">
                     <a href="#/permisos-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
-                        <h3>Permisos de residencia</h3>
-                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">L, B y C explicados</span>
+                        <h3>${ui['start-card-2-title']}</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['start-card-2-desc']}</span>
                     </a>
                     <a href="#/buscar-empleo-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
-                        <h3>Trabajar en Suiza</h3>
-                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">Mercado y salarios</span>
+                        <h3>${ui['start-card-3-title']}</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['start-card-3-desc']}</span>
                     </a>
                     <a href="#/seguro-medico-lamal-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg>
-                        <h3>Seguro médico</h3>
-                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">Sistema LAMal</span>
+                        <h3>${ui['start-card-4-title']}</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['start-card-4-desc']}</span>
                     </a>
                     <a href="#/alquilar-vivienda-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
-                        <h3>Alquilar vivienda</h3>
-                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">Dosier y agencias</span>
+                        <h3>${ui['start-card-5-title']}</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['start-card-5-desc']}</span>
                     </a>
                     <a href="#/impuesto-fuente-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
-                        <h3>Impuestos básicos</h3>
-                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">Quellensteuer y más</span>
+                        <h3>${ui['cat-impuestos']}</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">Quellensteuer</span>
                     </a>
                 </div>
             </section>
@@ -80,37 +80,37 @@ window.siteContent.es.pages = {
                 <p style="margin-bottom:2rem; color:var(--text-secondary);">${ui['home-desc-fuentes']}</p>
                 <div class="featured-grid">
                     <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">Portal federal</div>
+                        <div class="card-meta">${ui['fuente-label-federal']}</div>
                         <h3>ch.ch</h3>
-                        <p>Portal oficial de la Confederación sobre vida diaria, permisos y administración. En 5 idiomas.</p>
+                        <p>${ui['fuente-ch-desc']}</p>
                     </a>
                     <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">Migración</div>
+                        <div class="card-meta">${ui['fuente-label-migracion']}</div>
                         <h3>SEM</h3>
-                        <p>Secretaría de Estado de Migración: permisos de residencia, libre circulación y naturalización.</p>
+                        <p>${ui['fuente-sem-desc']}</p>
                     </a>
                     <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">Estadística</div>
+                        <div class="card-meta">${ui['fuente-label-estadistica']}</div>
                         <h3>OFS / BFS</h3>
-                        <p>Datos oficiales sobre salarios, población, vivienda y empleo en Suiza.</p>
+                        <p>${ui['fuente-bfs-desc']}</p>
                     </a>
                     <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">Economía y empleo</div>
+                        <div class="card-meta">${ui['fuente-label-economia']}</div>
                         <h3>SECO</h3>
-                        <p>Secretaría de Estado de Economía: mercado laboral, desempleo y condiciones de trabajo.</p>
+                        <p>${ui['fuente-seco-desc']}</p>
                     </a>
                     <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">Consulado · GE · VD · VS · NE · FR · JU</div>
+                        <div class="card-meta">${ui['fuente-label-consulado']} · GE · VD · VS · NE · FR · JU</div>
                         <h3>Consulado de Ginebra</h3>
                         <p>85 Rue de Lausanne, 1202 Ginebra · +41 22 731 25 30</p>
                     </a>
                     <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">Consulado · BE · SO · FR · VS</div>
+                        <div class="card-meta">${ui['fuente-label-consulado']} · BE · SO · FR · VS</div>
                         <h3>Consulado de Berna</h3>
                         <p>Kalcheggweg 24, 3006 Berna · +41 31 352 04 12</p>
                     </a>
                     <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">Consulado · ZH · BS · LU · AG · TI ···</div>
+                        <div class="card-meta">${ui['fuente-label-consulado']} · ZH · BS · LU · AG · TI ···</div>
                         <h3>Consulado de Zúrich</h3>
                         <p>Tödistrasse 60, 8002 Zúrich · +41 44 202 89 89</p>
                     </a>
@@ -161,38 +161,24 @@ window.siteContent.es.pages = {
                 <p style="margin-bottom:2rem; color:var(--text-secondary);">${ui['home-desc-faq']}</p>
                 <div class="accordion">
                     <div class="accordion-item">
-                        <button class="accordion-header">¿Puedo trabajar sin tener todavía el permiso en mano?<span class="accordion-icon"></span></button>
+                        <button class="accordion-header">${ui['faq-q1']}<span class="accordion-icon"></span></button>
                         <div class="accordion-content"><div class="accordion-content-inner">
-                            Sí. Si eres ciudadano de la UE/EFTA, desde que entregas tus documentos en la comuna y expiden el resguardo de registro, tienes derecho legal a trabajar antes del permiso físico.
-                            <br><a href="#/registrarse-en-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
+                            ${ui['faq-a1']}
+                            <br><a href="#/registrarse-en-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">${ui['faq-read-guide']}</a>
                         </div></div>
                     </div>
                     <div class="accordion-item">
-                        <button class="accordion-header">¿Cómo funciona el seguro médico en Suiza?<span class="accordion-icon"></span></button>
+                        <button class="accordion-header">${ui['faq-q2']}<span class="accordion-icon"></span></button>
                         <div class="accordion-content"><div class="accordion-content-inner">
-                            El seguro básico LAMal es obligatorio. Cubre las mismas prestaciones en todas las cajas, pero las primas varían. Puedes cambiar de seguro una vez al año antes del 30 de noviembre.
-                            <br><a href="#/seguro-medico-lamal-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
+                            ${ui['faq-a2']}
+                            <br><a href="#/seguro-medico-lamal-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">${ui['faq-read-guide']}</a>
                         </div></div>
                     </div>
                     <div class="accordion-item">
-                        <button class="accordion-header">¿Cuánto cuesta vivir en Suiza?<span class="accordion-icon"></span></button>
+                        <button class="accordion-header">${ui['faq-q3']}<span class="accordion-icon"></span></button>
                         <div class="accordion-content"><div class="accordion-content-inner">
-                            Un presupuesto individual mínimo ronda los 3.000–4.000 CHF/mes (alquiler, seguro, transporte y alimentación). Los salarios son proporcionalmente elevados.
-                            <br><a href="#/vivir-en-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Ver guías de vida diaria →</a>
-                        </div></div>
-                    </div>
-                    <div class="accordion-item">
-                        <button class="accordion-header">¿Cómo alquilar un apartamento en Suiza?<span class="accordion-icon"></span></button>
-                        <div class="accordion-content"><div class="accordion-content-inner">
-                            El mercado es muy competitivo (tasa de vacantes &lt;1% en Ginebra y Zúrich). Necesitas un dosier impecable: extractos bancarios, nóminas, historial de deudas y carta de presentación.
-                            <br><a href="#/alquilar-vivienda-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
-                        </div></div>
-                    </div>
-                    <div class="accordion-item">
-                        <button class="accordion-header">¿Cómo funcionan los impuestos en Suiza?<span class="accordion-icon"></span></button>
-                        <div class="accordion-content"><div class="accordion-content-inner">
-                            Los extranjeros sin permiso C tributan en la fuente (Quellensteuer): el empleador retiene el impuesto directamente del salario. Los tipos varían según cantón, estado civil e ingresos.
-                            <br><a href="#/impuesto-fuente-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">Leer la guía completa →</a>
+                            ${ui['faq-a3']}
+                            <br><a href="#/vivir-en-suiza" style="display:inline-block;margin-top:8px;color:var(--swiss-red);font-weight:600;">${ui['faq-view-guides']}</a>
                         </div></div>
                     </div>
                 </div>
