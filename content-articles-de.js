@@ -988,9 +988,9 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
 
 <h2>Adresse und Telefon</h2>
 <ul>
-  <li><strong>Genf:</strong> Avenue Blanc 53, 1202 Genf · +41 22 749 14 60</li>
-  <li><strong>Bern:</strong> Marienstrasse 12, 3005 Bern · +41 31 356 22 20</li>
-  <li><strong>Zürich:</strong> Riedtlistrasse 17, 8006 Zürich · +41 44 368 61 00</li>
+  <li><strong>Genf:</strong> Avenue Blanc 53, 1202 Genf<br><strong>Telefon:</strong> +41 22 749 14 60</li>
+  <li><strong>Bern:</strong> Marienstrasse 12, 3005 Bern<br><strong>Telefon:</strong> +41 31 356 22 20</li>
+  <li><strong>Zürich:</strong> Riedtlistrasse 17, 8006 Zürich<br><strong>Telefon:</strong> +41 44 368 61 00</li>
 </ul>
 
 <h2>Wichtige Dienste</h2>

@@ -687,21 +687,21 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
 	                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Genève</h3>
 	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Genève, Vaud, Valais, Fribourg, Neuchâtel, Jura</p>
 	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> Avenue Blanc 53, 1202 Genève</p>
-	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 22 749 14 60</p>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong><br>+41 22 749 14 60</p>
 	                        <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
 	                    </div>
 	                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
 	                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Berne</h3>
 	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Berne, Soleure, Fribourg (partie), Valais (partie)</p>
 	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> Marienstrasse 12, 3005 Berne</p>
-	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 31 356 22 20</p>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong><br>+41 31 356 22 20</p>
 	                        <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
 	                    </div>
 	                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
 	                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulat général à Zurich</h3>
 	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons :</strong> Zurich, Argovie, Bâle, Lucerne, Saint-Gall, Grisons, Schaffhouse, Thurgovie, Tessin, Zoug et autres</p>
 	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse :</strong> Riedtlistrasse 17, 8006 Zurich</p>
-	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong> +41 44 368 61 00</p>
+	                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Téléphone :</strong><br>+41 44 368 61 00</p>
 	                        <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Site officiel →</a>
 	                    </div>
 	                </div>

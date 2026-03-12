@@ -975,9 +975,9 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 <div class="contenuto-articolo">
 <h2>Indirizzi e telefoni</h2>
 <ul>
-  <li><strong>Ginevra:</strong> Avenue Blanc 53, 1202 Ginevra · +41 22 749 14 60</li>
-  <li><strong>Berna:</strong> Marienstrasse 12, 3005 Berna · +41 31 356 22 20</li>
-  <li><strong>Zurigo:</strong> Riedtlistrasse 17, 8006 Zurigo · +41 44 368 61 00</li>
+  <li><strong>Ginevra:</strong> Avenue Blanc 53, 1202 Ginevra<br><strong>Telefono:</strong> +41 22 749 14 60</li>
+  <li><strong>Berna:</strong> Marienstrasse 12, 3005 Berna<br><strong>Telefono:</strong> +41 31 356 22 20</li>
+  <li><strong>Zurigo:</strong> Riedtlistrasse 17, 8006 Zurigo<br><strong>Telefono:</strong> +41 44 368 61 00</li>
 </ul>
 
 <h2>Servizi principali</h2>

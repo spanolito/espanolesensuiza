@@ -1029,9 +1029,9 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 
 <h2>Addresses and phones</h2>
 <ul>
-  <li><strong>Geneva:</strong> Avenue Blanc 53, 1202 Geneva · +41 22 749 14 60</li>
-  <li><strong>Bern:</strong> Marienstrasse 12, 3005 Bern · +41 31 356 22 20</li>
-  <li><strong>Zurich:</strong> Riedtlistrasse 17, 8006 Zurich · +41 44 368 61 00</li>
+  <li><strong>Geneva:</strong> Avenue Blanc 53, 1202 Geneva<br><strong>Phone:</strong> +41 22 749 14 60</li>
+  <li><strong>Bern:</strong> Marienstrasse 12, 3005 Bern<br><strong>Phone:</strong> +41 31 356 22 20</li>
+  <li><strong>Zurich:</strong> Riedtlistrasse 17, 8006 Zurich<br><strong>Phone:</strong> +41 44 368 61 00</li>
 </ul>
 
 <h2>Main services</h2>

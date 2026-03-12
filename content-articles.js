@@ -1713,21 +1713,21 @@ window.siteContent.es.articles = {
                         <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulado General en Ginebra</h3>
                         <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantones:</strong> Ginebra, Vaud, Valais, Friburgo, Neuchâtel, Jura</p>
                         <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> Avenue Blanc 53, 1202 Ginebra</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 22 749 14 60</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong><br>+41 22 749 14 60</p>
                         <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portal oficial →</a>
                     </div>
                     <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
                         <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulado General en Berna</h3>
                         <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantones:</strong> Berna, Solothurn, Friburgo (parte), Valais (parte)</p>
                         <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> Marienstrasse 12, 3005 Berna</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 31 356 22 20</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong><br>+41 31 356 22 20</p>
                         <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portal oficial →</a>
                     </div>
                     <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
                         <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulado General en Zúrich</h3>
                         <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantones:</strong> Zúrich, Argovia, Basilea, Lucerna, San Galo, Grisones, Schaffhausen, Turgovia, Ticino, Zug y otros</p>
                         <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Dirección:</strong> Riedtlistrasse 17, 8006 Zúrich</p>
-                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong> +41 44 368 61 00</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Teléfono:</strong><br>+41 44 368 61 00</p>
                         <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portal oficial →</a>
                     </div>
                 </div>
