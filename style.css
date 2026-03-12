@@ -1082,11 +1082,12 @@ textarea.form-control {
     border: none;
     border-bottom: 1px solid var(--border-light);
     border-radius: 0;
-    padding: 1.25rem;
+    padding: 1rem 1.25rem;
     transition: background 0.2s ease;
+    display: flex;
     flex-direction: row;
-    align-items: center;
-    gap: 1.5rem;
+    align-items: flex-start;
+    gap: 1.25rem;
     text-align: left;
     min-height: auto;
 }
@@ -1101,27 +1102,83 @@ textarea.form-control {
     box-shadow: none;
 }
 
-#search-results .card-article h3 {
-    margin: 0;
-    font-size: 1.1rem;
+#search-results .card-meta {
+    margin-bottom: 0;
+    flex-shrink: 0;
+    width: 100px;
+    font-size: 0.7rem;
+    padding: 2px 8px;
+    background: var(--swiss-red-light);
+    border: 1px solid rgba(213, 43, 30, 0.1);
+    border-radius: 4px;
+    text-align: center;
+    white-space: normal;
+    word-break: break-word;
+    color: var(--swiss-red);
+    font-weight: 700;
+    margin-top: 4px; /* Align with first line of title */
+}
+
+#search-results .card-content {
     flex-grow: 1;
+    min-width: 0; /* Critical for text-overflow to work in flex */
+}
+
+#search-results .card-article h3 {
+    margin: 0 0 2px 0;
+    font-size: 1.05rem;
+    line-height: 1.3;
+    color: var(--text-primary);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    overflow-wrap: anywhere;
 }
 
 #search-results .card-article p {
-    display: none;
+    display: block;
+    margin: 0 !important;
+    font-size: 0.85rem;
+    color: var(--text-light);
+    line-height: 1.4;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
-#search-results .card-article .card-meta {
-    margin-bottom: 0;
-    min-width: 100px;
+/* Mobile Search Refinement */
+@media (max-width: 600px) {
+    #search-results .card-article {
+        flex-direction: column;
+        gap: 0.75rem;
+        padding: 1.25rem;
+    }
+    
+    #search-results .card-meta {
+        width: auto;
+        display: inline-block;
+        padding: 1px 10px;
+        margin-top: 0;
+    }
+
+    #search-results .card-article h3 {
+        -webkit-line-clamp: 3;
+        line-clamp: 3;
+    }
+
+    #search-results .card-article p {
+        white-space: normal;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        line-clamp: 2;
+        -webkit-box-orient: vertical;
+    }
 }
 
-#search-results .card-article .btn-secondary {
-    display: none;
-}
-
-#search-results p {
-    padding: 1.5rem;
+#search-results p:not(.card-article p) {
+    padding: 2rem 1.5rem;
     margin: 0 !important;
     text-align: center;
     color: var(--text-light);

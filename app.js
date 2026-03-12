@@ -889,9 +889,10 @@ document.addEventListener("DOMContentLoaded", () => {
                             ${results.map(r => `
                                 <a href="#/${r.slug || 'articulo/' + r.id}" class="card-article">
                                     <div class="card-meta">${r.category || 'Guía'}</div>
-                                    <h3>${r.title}</h3>
-                                    <p>${r.description}</p>
-                                    <span class="btn-secondary" style="margin-top:auto; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600;">${ui['btn-read-guide']}</span>
+                                    <div class="card-content">
+                                        <h3>${r.title}</h3>
+                                        <p>${r.description}</p>
+                                    </div>
                                 </a>
                             `).join('')}
                         </div>
