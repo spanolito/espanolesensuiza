@@ -299,8 +299,10 @@ window.siteContent.es.pages = {
     },
 
     // Category Hub Pages (Dynamically populated by app.js)
+    // TODO SEO slug migration: keep tramites slug
     "tramites": {
-        title: "Trámites en Suiza",
+        title: "Trámites en Suiza | Registro, permisos y gestiones básicas",
+        description: "Guía práctica sobre trámites en Suiza: registro en la comuna, permisos de residencia, empadronamiento consular y seguridad social.",
         isCategoryHub: true,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
@@ -324,8 +326,10 @@ window.siteContent.es.pages = {
         }
     },
 
+    // TODO SEO slug migration: trabajo -> trabajar-en-suiza
     "trabajo": {
-        title: "Trabajar en Suiza",
+        title: "Trabajar en Suiza | Empleo, permisos y mercado laboral",
+        description: "Todo lo esencial para trabajar en Suiza: búsqueda de empleo, contratos, permisos, salarios y preparación del CV en formato suizo.",
         isCategoryHub: true,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
@@ -347,8 +351,10 @@ window.siteContent.es.pages = {
         }
     },
 
+    // TODO SEO slug migration: vivienda -> vivienda-en-suiza
     "vivienda": {
-        title: "Vivienda y Alquiler",
+        title: "Vivienda en Suiza | Alquiler, contratos y mudanza",
+        description: "Guía práctica para encontrar vivienda en Suiza: cómo preparar tu dosier de alquiler, depósitos de garantía, derechos del inquilino y consejos de mudanza.",
         isCategoryHub: true,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
@@ -370,8 +376,10 @@ window.siteContent.es.pages = {
         }
     },
 
+    // TODO SEO slug migration: keep vivir-en-suiza slug
     "vivir-en-suiza": {
-        title: "Vivir en Suiza (Transporte, Educación, Costo de Vida)",
+        title: "Vivir en Suiza | Vida diaria, integración y consejos prácticos",
+        description: "Descubre cómo es vivir en Suiza: coste de vida, sistema escolar suizo, transporte público, cultura, idiomas y consejos prácticos para recién llegados.",
         isCategoryHub: true,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
@@ -397,8 +405,10 @@ window.siteContent.es.pages = {
         }
     },
 
+    // TODO SEO slug migration: salud -> salud-y-seguro-medico
     "salud": {
-        title: "Salud y Seguro Médico (LAMal)",
+        title: "Salud en Suiza | Seguro médico LAMal, franquicia y médicos",
+        description: "Guía del sistema de salud suizo: seguro LAMal, elección de franquicia, copagos, búsqueda de médico y funcionamiento de las urgencias.",
         isCategoryHub: true,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
@@ -425,8 +435,10 @@ window.siteContent.es.pages = {
         }
     },
 
+    // TODO SEO slug migration: impuestos -> impuestos-y-finanzas
     "impuestos": {
-        title: "Impuestos en Suiza",
+        title: "Impuestos en Suiza | Fiscalidad, impuesto a la fuente y declaración",
+        description: "Entiende el sistema fiscal suizo: impuesto a la fuente (Quellensteuer), declaración de la renta cantonal, deducciones y finanzas personales.",
         isCategoryHub: true,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
@@ -452,8 +464,10 @@ window.siteContent.es.pages = {
         }
     },
 
+    // TODO SEO slug migration: fronterizos -> trabajadores-fronterizos
     "fronterizos": {
-        title: "Trabajadores Fronterizos (Permiso G)",
+        title: "Trabajadores fronterizos en Suiza | Permiso G, fiscalidad y seguro médico",
+        description: "Información para trabajadores fronterizos (permiso G): fiscalidad cruzada, seguro médico LAMal vs CMU y derechos laborales específicos.",
         isCategoryHub: true,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
@@ -476,7 +490,8 @@ window.siteContent.es.pages = {
     },
 
     "recursos": {
-        title: "Recursos y Vínculos Oficiales",
+        title: "Recursos útiles y portales oficiales en Suiza para emigrantes",
+        description: "Listado de recursos y enlaces oficiales para vivir en Suiza: comparadores, portales federales, sitios cantonales y herramientas prácticas.",
         isCategoryHub: false,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
@@ -517,7 +532,8 @@ window.siteContent.es.pages = {
     },
 
     "comunidad": {
-        title: "Unete a la Comunidad Facebook | Españoles en Suiza",
+        title: "Comunidad de Españoles en Suiza: Ayuda mutua y networking",
+        description: "Únete a la principal comunidad de españoles en Suiza. Consejos reales, ayuda entre compatriotas y resolución de dudas sobre la vida en el país.",
         isCategoryHub: false,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
@@ -549,7 +565,8 @@ window.siteContent.es.pages = {
     },
 
     "contacto": {
-        title: "Contacto",
+        title: "Contacto | Españoles en Suiza - Portal de información",
+        description: "¿Tienes dudas o sugerencias? Contacta con el equipo de Españoles en Suiza para colaborar o solicitar información sobre nuestras guías.",
         isCategoryHub: false,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
