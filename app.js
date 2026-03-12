@@ -1050,6 +1050,7 @@ document.addEventListener("DOMContentLoaded", () => {
      */
     function renderRoute() {
         const path = getCurrentPath();
+        const langData = window.siteContent[currentLang];
         const { routeKey, pageData, isArticle } = resolveRoute(path);
 
         // Apply transition effects
