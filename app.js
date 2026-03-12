@@ -944,7 +944,6 @@ document.addEventListener("DOMContentLoaded", () => {
         if (hash) return hash;
 
         // Priority 2: Clean Pathname Support (/tramites)
-        // We clean up common suffixes like index.html to avoid routing conflicts
         const path = window.location.pathname.replace(/\/index\.html$/, "");
         if (path && path !== "/") {
             return path;
@@ -963,19 +962,22 @@ document.addEventListener("DOMContentLoaded", () => {
         let routeKey = path;
         let pageData;
 
+        // Standardize clean path behavior for resolution
+        const cleanPath = path.startsWith('/') ? path : '/' + path;
+
         // Handle Home
-        if (path === "/" || path === "") {
+        if (cleanPath === "/" || cleanPath === "") {
             routeKey = "home";
         } 
         // Handle Articles
-        else if (path.startsWith("/articulo/")) {
-            routeKey = path.replace("/articulo/", "");
+        else if (cleanPath.startsWith("/articulo/")) {
+            routeKey = cleanPath.replace("/articulo/", "");
             pageData = langData.articles[routeKey];
             isArticle = true;
         } 
         // Handle Category Hubs or Static Pages
-        else if (path.startsWith("/")) {
-            routeKey = path.substring(1);
+        else if (cleanPath.startsWith("/")) {
+            routeKey = cleanPath.substring(1);
         }
 
         // Fetch page data if not already identified as an article
@@ -993,12 +995,61 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     /**
+     * Updates SEO metadata dynamically.
+     * Generates clean URLs for canonical and og:url even during hash routing.
+     * This ensures Google indexes "clean" paths.
+     */
+    function updateMetaTags(pageData, isArticle, routeKey) {
+        const langData = window.siteContent[currentLang] || window.siteContent['es'];
+        const baseUrl = "https://www.espanolesensuiza.ch";
+        
+        // 1. Update Title
+        const suffix = (langData.global && langData.global.titleSuffix) ? langData.global.titleSuffix : ' | Españoles en Suiza';
+        const fullTitle = pageData.title + suffix;
+        document.title = fullTitle;
+
+        // 2. Determine clean path for Search Engines (No hash)
+        let cleanPath = "/";
+        if (routeKey !== "home") {
+            cleanPath = isArticle ? `/articulo/${routeKey}` : `/${routeKey}`;
+        }
+        const fullUrl = baseUrl + cleanPath;
+
+        // 3. Update Meta Description and Keywords
+        const metaDesc = document.getElementById("meta-description");
+        if (metaDesc) metaDesc.setAttribute("content", pageData.description || "");
+        
+        const metaKeywords = document.getElementById("meta-keywords");
+        if (metaKeywords) metaKeywords.setAttribute("content", pageData.keywords || "");
+
+        // 4. Update Canonical Link
+        const canonical = document.getElementById("canonical-url");
+        if (canonical) canonical.setAttribute("href", fullUrl);
+
+        // 5. Update Open Graph (Facebook/LinkedIn)
+        const ogTitle = document.getElementById("og-title");
+        if (ogTitle) ogTitle.setAttribute("content", fullTitle);
+
+        const ogUrl = document.getElementById("og-url");
+        if (ogUrl) ogUrl.setAttribute("content", fullUrl);
+        
+        const ogDesc = document.getElementById("og-description");
+        if (ogDesc) ogDesc.setAttribute("content", pageData.description || "");
+
+        // 6. Update Twitter Card
+        const twTitle = document.getElementById("twitter-title");
+        if (twTitle) twTitle.setAttribute("content", fullTitle);
+
+        const twDesc = document.getElementById("twitter-description");
+        if (twDesc) twDesc.setAttribute("content", pageData.description || "");
+    }
+
+    /**
      * Router Logic
      * Centralized entry point for rendering any route.
      */
     function renderRoute() {
         const path = getCurrentPath();
-        const langData = window.siteContent[currentLang];
         const { routeKey, pageData, isArticle } = resolveRoute(path);
 
         // Apply transition effects
@@ -1098,10 +1149,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
             }
 
-            // Update Meta & Title
-            document.title = pageData.title + (langData.global && langData.global.titleSuffix ? langData.global.titleSuffix : ' | Españoles en Suiza');
-            if (document.getElementById("meta-description")) document.getElementById("meta-description").setAttribute("content", pageData.description || "");
-            if (document.getElementById("meta-keywords")) document.getElementById("meta-keywords").setAttribute("content", pageData.keywords || "");
+            // Update Meta & Title dynamically for SEO
+            updateMetaTags(pageData, isArticle, routeKey);
 
             // Set active Nav link based on Route Key
             navLinks.forEach(link => {
