@@ -41,10 +41,10 @@ window.siteContent.es.pages = {
                 </div>
             </section>
 
-            <!-- SECCIÓN 2: Empezar aquí -->
+            <!-- SECCIÓN 1: Empezar aquí -->
             <section class="animate-fade-up delay-100" style="margin-top: var(--space-xl);">
-                <h2 style="border-bottom:none; margin-bottom: 0.5rem;">Empezar aquí</h2>
-                <p style="font-size: 1.125rem; margin-bottom: 2rem; color: var(--text-secondary);">Las guías esenciales para quien llega o vive en Suiza.</p>
+                <h2 style="border-bottom:none; margin-bottom: 0.5rem;">${ui['home-title-start']}</h2>
+                <p style="font-size: 1.125rem; margin-bottom: 2rem; color: var(--text-secondary);">${ui['home-desc-start']}</p>
                 <div class="quick-start-grid">
                     <a href="#/permisos-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
@@ -76,8 +76,8 @@ window.siteContent.es.pages = {
 
             <!-- SECCIÓN 2: Fuentes oficiales -->
             <section class="animate-fade-up delay-200" style="margin-top: var(--space-xl);">
-                <h2>Fuentes oficiales</h2>
-                <p style="margin-bottom:2rem; color:var(--text-secondary);">Información directa de la administración suiza y española. Verifica siempre en la fuente cuando algo cambia.</p>
+                <h2>${ui['home-title-fuentes']}</h2>
+                <p style="margin-bottom:2rem; color:var(--text-secondary);">${ui['home-desc-fuentes']}</p>
                 <div class="featured-grid">
                     <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">Portal federal</div>
@@ -116,15 +116,15 @@ window.siteContent.es.pages = {
                     </a>
                 </div>
                 <p style="margin-top:0.75rem; font-size:0.85rem; color:var(--text-light);">
-                    👉 Cita previa consulados: <a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">citaconsular.es</a>
-                    &nbsp;·&nbsp; <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red);">Guía completa de consulados →</a>
+                    👉 ${ui['home-consulados-note']} <a href="https://www.citaconsular.es" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">citaconsular.es</a>
+                    &nbsp;·&nbsp; <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red);">${ui['home-consulados-link']}</a>
                 </p>
             </section>
 
-            <!-- SECCIÓN 4: Portales de los 26 cantones -->
+            <!-- SECCIÓN 3: Portales de los 26 cantones -->
             <section class="animate-fade-up delay-300" style="margin-top: var(--space-xl);">
-                <h2>Portales oficiales de los 26 cantones</h2>
-                <p style="margin-bottom:1.5rem; color:var(--text-secondary);">Cada cantón gestiona sus propios impuestos, permisos y servicios. Accede directamente al portal de tu cantón.</p>
+                <h2>${ui['home-title-cantones']}</h2>
+                <p style="margin-bottom:1.5rem; color:var(--text-secondary);">${ui['home-desc-cantones']}</p>
                 <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem;">
                     <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovia (AG)</a>
                     <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell I.Rh. (AI)</a>
@@ -157,8 +157,8 @@ window.siteContent.es.pages = {
 
             <!-- SECCIÓN 4: Preguntas frecuentes -->
             <section class="animate-fade-up delay-400" style="margin-top: var(--space-xl); padding-bottom: var(--space-xl);">
-                <h2>Preguntas frecuentes</h2>
-                <p style="margin-bottom:2rem; color:var(--text-secondary);">Las dudas más habituales entre hispanohablantes en Suiza.</p>
+                <h2>${ui['home-title-faq']}</h2>
+                <p style="margin-bottom:2rem; color:var(--text-secondary);">${ui['home-desc-faq']}</p>
                 <div class="accordion">
                     <div class="accordion-item">
                         <button class="accordion-header">¿Puedo trabajar sin tener todavía el permiso en mano?<span class="accordion-icon"></span></button>
