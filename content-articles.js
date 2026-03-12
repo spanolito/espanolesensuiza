@@ -1189,122 +1189,227 @@ window.siteContent.es.articles = {
         `
     },
 
-    // 26. Introducción a Suiza: cómo funciona el país
+    // 26. Introducción a Suiza: página pilier
     "articulo-introduccion-suiza": {
-        title: "Introducción a Suiza: cómo funciona el país",
-        description: "Guía introductoria sobre Suiza: su organización federal, sistema político, lenguas oficiales y diferencias entre cantones. Esencial para entender el país antes de llegar.",
-        keywords: "suiza como funciona, cantones suiza, federalismo suiza, lenguas suiza, democracia directa suiza, sistema politico suizo",
+        title: "Cómo funciona Suiza: guía completa para nuevos residentes",
+        description: "Guía completa sobre Suiza: organización federal, 26 cantones, sistema político, 4 lenguas, diferencias regionales, educación y vida cotidiana. Esencial antes de instalarse.",
+        keywords: "suiza como funciona, cantones suiza, federalismo, democracia directa, lenguas suiza, sistema escolar suizo, diferencias cantones",
         audience: 'newcomer',
-        category: 'Contexto País',
+        category: 'País',
         hub: 'vivir-en-suiza',
         slug: "introduccion-suiza-como-funciona",
-        readingTime: 6,
+        readingTime: 10,
         dateUpdated: "Marzo 2026",
-        summary: "Suiza no es un país «normal». Es una Confederación de 26 cantones, con 4 lenguas oficiales, democracia directa y un federalismo que afecta a tu vida diaria desde el primer día.",
+        summary: "Suiza no es un país convencional. Es una Confederación de 26 cantones autónomos, 4 lenguas oficiales, democracia directa y un federalismo que afecta tu vida diaria desde el primer día.",
         content: `
             <div class="page-header">
-                <h1>Introducción a Suiza: cómo funciona realmente el país</h1>
+                <h1>Cómo funciona Suiza: guía completa para nuevos residentes</h1>
             </div>
             <div class="article-content">
-                <p>Antes de instalarte en Suiza, conviene entender cómo está organizado el país. Suiza no funciona como España ni como Francia. Su sistema político, su división territorial y su cultura administrativa son únicos —y afectan a tu vida diaria desde el primer día.</p>
+                <p>Si estás pensando en mudarte a Suiza, o acabas de llegar, entender cómo funciona el país es el primer paso. Suiza no funciona como España, ni como Francia, ni como ningún otro país europeo. Su sistema político, su organización territorial y su cultura administrativa son únicos — y afectan a tu vida diaria desde el momento en que firmas un contrato, eliges un seguro médico o te registras en la commune.</p>
 
                 <div class="callout info">
-                    <strong>¿Por qué importa entender esto?</strong> Porque en Suiza, las reglas de los impuestos, los seguros, la escolaridad o los trámites de residencia <strong>dependen del cantón donde vives</strong>, no solo del gobierno central.
+                    <strong>¿Por qué importa entender la organización del país?</strong> Porque en Suiza, las reglas de los impuestos, los seguros, la escolaridad y los trámites de residencia <strong>dependen del cantón donde vives</strong>, no solo del gobierno federal.
                 </div>
 
-                <h2>1. Organización del país</h2>
-                <p>Suiza es una <strong>Confederación Helvética</strong> formada por <strong>26 cantones</strong>. Cada cantón es casi un país en miniatura: tiene su propio gobierno, su propio parlamento, sus propias leyes fiscales y su propio estilo administrativo.</p>
-
-                <p>La estructura tiene tres niveles:</p>
+                <h2>Suiza en cifras</h2>
                 <ul>
-                    <li><strong>Confederación:</strong> El gobierno federal con sede en Berna. Gestiona la política exterior, la defensa, la moneda y las grandes líneas de legislación.</li>
-                    <li><strong>Cantones:</strong> 26 unidades autónomas que tienen amplia competencia en fiscalidad, educación, sanidad y administración local.</li>
-                    <li><strong>Comunas (municipios):</strong> Más de 2.000 ayuntamientos. El nivel más cercano al ciudadano. Gestionan el registro de habitantes, recogen impuestos locales y prestan servicios de proximidad.</li>
+                    <li><strong>Capital:</strong> Berna (sede del gobierno federal)</li>
+                    <li><strong>Superficie:</strong> 41.285 km²</li>
+                    <li><strong>Población:</strong> ~8,9 millones de habitantes</li>
+                    <li><strong>Moneda:</strong> Franco suizo (CHF)</li>
+                    <li><strong>Fronteras:</strong> Alemania (norte), Austria y Liechtenstein (este), Italia (sur), Francia (oeste)</li>
+                    <li><strong>Organización:</strong> Confederación Helvética — 26 cantones autónomos</li>
+                    <li><strong>Lenguas nacionales:</strong> Alemán, Francés, Italiano, Romanche</li>
+                    <li><strong>Miembro de la ONU y AELC</strong>, pero <strong>no de la Unión Europea</strong></li>
                 </ul>
 
-                <p>Este sistema se llama <strong>federalismo</strong> y es la base de cómo funciona todo en Suiza.</p>
+                <h2 id="organizacion">Sección 1 — Cantones y organización territorial</h2>
+
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="images/suiza/mapa-politico-cantones.png"
+                         alt="Mapa político de Suiza con los 26 cantones y sus abreviaturas oficiales"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Mapa político de Suiza con los 26 cantones. Cada cantón tiene autonomía fiscal, educativa y administrativa.
+                    </figcaption>
+                </figure>
+
+                <p>Suiza es una <strong>Confederación Helvética</strong> formada por <strong>26 cantones</strong>. Esta estructura existe desde el siglo XIII y es la razón por la que el país tiene un funcionamiento tan peculiar. Cada cantón es, en esencia, un mini-estado con su propio gobierno, su propio parlamento y sus propias leyes.</p>
+
+                <p>La estructura administrativa tiene tres niveles:</p>
+                <ul>
+                    <li><strong>Confederación (nivel federal):</strong> El gobierno federal con sede en Berna. Gestiona la política exterior, la defensa, la moneda, el derecho civil y constitucional, y las grandes líneas de legislación comunes a todo el país.</li>
+                    <li><strong>Cantones (26):</strong> Unidades autónomas con amplia competencia en fiscalidad, educación, sanidad, policía y administración local. "Cantón" equivale a una región o comunidad autónoma, pero con mucho más poder que en la mayoría de los países.</li>
+                    <li><strong>Comunas (más de 2.000 municipios):</strong> El nivel más cercano al ciudadano. Gestionan el registro de habitantes (Contrôle des habitants), los impuestos locales, los servicios de proximidad y algunas competencias educativas.</li>
+                </ul>
 
                 <div class="callout">
-                    <strong>Enlace oficial:</strong> Consulta los portales oficiales de todos los cantones en <a href="https://www.ch.ch/en/cantons/" target="_blank" rel="noopener noreferrer">ch.ch/en/cantons</a>.
+                    <strong>Ejemplo práctico:</strong> Cuando llegas a Suiza, no te registras en el Estado. Te registras en <em>tu commune</em> (municipio). Desde allí, te empadronan, gestionan tu permiso de residencia y determinan parte de tus impuestos.
                 </div>
 
-                <h2>2. Sistema político</h2>
-                <p>Suiza es conocida por tener una de las democracias más participativas del mundo. Aquí, los ciudadanos no solo votan representantes: votan <strong>directamente sobre las leyes</strong>.</p>
+                <p>Los 26 cantones son, por orden de entrada en la Confederación: Uri, Schwyz, Obwalden, Nidwalden, Glaris, Zug, Friburgo, Soleura, Basilea-Ciudad, Basilea-Campo, Schaffhausen, Appenzell Rodas Exteriores, Appenzell Rodas Interiores, San Galo, Grisones, Argovia, Turgovia, Ticino, Vaud, Valais, Neuchâtel, Ginebra, Jura, Berna, Lucerna y Zúrich.</p>
+
+                <p><a href="https://www.ch.ch/en/cantons/" target="_blank" rel="noopener noreferrer">→ Ver portales oficiales de los 26 cantones en ch.ch</a></p>
+
+                <h2 id="politica">Sección 2 — Sistema político suizo</h2>
+
+                <p>Suiza posee una de las democracias más participativas del mundo. Los ciudadanos no solo eligen representantes: <strong>votan directamente sobre las leyes</strong>, varias veces al año.</p>
 
                 <h3>Democracia directa</h3>
-                <p>Cuatro veces al año, los ciudadanos suizos son convocados a votar en <strong>referéndums</strong> sobre temas muy concretos: desde el aumento del impuesto sobre el tabaco hasta grandes reformas constitucionales. Cualquier grupo de ciudadanos puede pedir un referéndum si recoge suficientes firmas.</p>
+                <p>Cuatro veces al año, los suizos son convocados para votar en <strong>referéndums</strong>. Estos pueden afectar desde el aumento del impuesto del tabaco hasta grandes reformas constitucionales. No es solo simbólico: los resultados son vinculantes y pueden anular leyes aprobadas por el parlamento.</p>
 
                 <h3>Iniciativas populares</h3>
-                <p>Si 100.000 ciudadanos firman una petición en 18 meses, pueden proponer directamente un cambio en la Constitución federal. Esta herramienta se usa con frecuencia y ha marcado algunas de las decisiones más importantes del país.</p>
+                <p>Si 100.000 ciudadanos recogen firmas en 18 meses, pueden proponer un cambio en la Constitución federal. El pueblo vota y, si hay mayoría, el cambio se incorpora. Esta herramienta ha modelado decisiones importantes como la adopción de la jornada laboral de 42 horas o la prohibición de minaretes (2009).</p>
 
-                <h3>El Consejo Federal</h3>
-                <p>Suiza no tiene un presidente con poder ejecutivo fuerte. En su lugar, el gobierno es un colegio de <strong>7 consejeros federales</strong> que toman decisiones de forma consensuada. La presidencia de la Confederación rota cada año entre los miembros del Consejo.</p>
+                <h3>Referéndum facultativo</h3>
+                <p>Si 50.000 ciudadanos recogen firmas en 100 días contra una ley aprobada por el parlamento, esa ley debe someterse a votación popular. Es el principal freno del pueblo sobre el legislativo.</p>
 
-                <div class="callout info">
-                    <strong>Para el recién llegado:</strong> Como residente extranjero, no puedes votar en elecciones federales, pero en algunos cantones puedes participar en votaciones locales tras un tiempo de residencia.
-                </div>
-
-                <h2>3. Las lenguas en Suiza</h2>
-                <p>Suiza tiene <strong>4 lenguas nacionales</strong>:</p>
-                <ul>
-                    <li><strong>Alemán (Deutsch / Schweizerdeutsch):</strong> Hablado en 17 cantones. En la vida cotidiana, los suizos de esta región hablan <em>Schweizerdeutsch</em>, un dialecto oral muy diferente del alemán estándar. La mayoría del escrito es en alemán estándar.</li>
-                    <li><strong>Francés (Français):</strong> Hablado en los cantones del oeste del país: Ginebra, Vaud, Valais, Neuchâtel, Jura y parte de Friburgo y Berna. Esta zona se llama la <em>Romandie</em>.</li>
-                    <li><strong>Italiano:</strong> Lengua oficial en el cantón del Ticino y en algunos valles de los Grisones.</li>
-                    <li><strong>Romanche:</strong> Lengua minoritaria hablada por una pequeña comunidad en el cantón de los Grisones. Tiene estatus de lengua nacional pero no es de uso administrativo general fuera de su región.</li>
-                </ul>
-
-                <p>El idioma que usarás en tu vida diaria depende del cantón donde residas. Si vives en Ginebra, trabajarás en francés. Si vives en Zúrich, necesitarás el alemán. Si te instalas en Lugano, el italiano es el idioma local.</p>
-
-                <div class="callout">
-                    <strong>Consejo práctico:</strong> Aprender el idioma de tu cantón de residencia es una de las inversiones más valiosas que puedes hacer al llegar a Suiza. Abre puertas laborales, facilita los trámites y acelera la integración.
-                </div>
-
-                <h2>4. Diferencias entre cantones</h2>
-                <p>En Suiza, <strong>el cantón donde vives lo cambia casi todo</strong>. No es solo una cuestión de idioma: las reglas administrativas, fiscales y educativas varían significativamente de un cantón a otro.</p>
-
-                <p>Algunos ejemplos concretos:</p>
-                <ul>
-                    <li><strong>Impuestos:</strong> La carga fiscal puede variar en un 30-40% entre cantones. Zug y Schwyz son conocidos por ser muy favorables. Ginebra y Vaud, por tener impuestos más elevados.</li>
-                    <li><strong>Seguros médicos (LAMal):</strong> Las primas mensuales del seguro obligatorio varían según el cantón y la región, incluso con la misma aseguradora.</li>
-                    <li><strong>Educación:</strong> El sistema escolar difiere entre cantones: el calendario, el número de horas lectivas, la edad de orientación profesional y los idiomas que se enseñan.</li>
-                    <li><strong>Trámites de residencia:</strong> Los plazos y la documentación exigida para el registro pueden variar según el control de habitantes de cada cantón y cada comuna.</li>
-                    <li><strong>Administración:</strong> Los horarios de apertura, los formularios disponibles y los canales digitales varían de un cantón a otro.</li>
-                </ul>
-
-                <div class="callout">
-                    <strong>Ejemplo real:</strong> Dos personas que ganan exactamente el mismo salario pueden pagar cantidades muy diferentes de impuestos simplemente por vivir a 20 kilómetros de distancia el uno del otro, en cantones distintos.
-                </div>
-
-                <h2>5. Por qué Suiza funciona diferente</h2>
-                <p>Todo lo anterior tiene una lógica coherente: Suiza fue construida desde abajo hacia arriba. Las comunas y los cantones existen antes que la Confederación. La unidad del país no se impuso por conquista o centralismo, sino por pactos entre comunidades muy distintas.</p>
-
-                <p>Esto explica varias cosas que sorprenden a los recién llegados:</p>
-                <ul>
-                    <li><strong>Responsabilidad local:</strong> Los ciudadanos tienen más poder y más responsabilidad que en otros países. Hay pocas decisiones que vengan «de arriba» sin pasar por un proceso de consulta o votación.</li>
-                    <li><strong>Lentitud calidad:</strong> Los cambios en Suiza suelen ser más lentos pero más sólidos. Los consensos tardan pero duran.</li>
-                    <li><strong>Pluralismo cultural:</strong> Suiza no tiene una cultura uniforme. Cada región tiene su identidad, sus tradiciones y su forma de hacer las cosas. Esto no es una debilidad: es lo que hace que el país funcione.</li>
-                    <li><strong>Alta participación ciudadana:</strong> Los suizos están acostumbrados a votar 4-6 veces al año. La participación política está integrada en la vida cotidiana.</li>
-                </ul>
+                <h3>El Consejo Federal (gobierno)</h3>
+                <p>Suiza no tiene un presidente con poder ejecutivo fuerte. El gobierno es un colegio de <strong>7 consejeros federales</strong>, elegidos por el parlamento para períodos de 4 años. Las decisiones se toman por consenso. La presidencia de la Confederación rota cada año entre los miembros del Consejo (es un cargo principalmente ceremonial).</p>
 
                 <div class="callout info">
-                    <strong>En resumen:</strong> Suiza es un país donde el poder está repartido de forma deliberada entre la Confederación, los cantones y las comunas. Entender esto te ayudará a navegar los trámites, a elegir bien el cantón donde instalarte y a comprender por qué las cosas funcionan como funcionan.
+                    <strong>Nota para residentes extranjeros:</strong> Como residente no naturalizado, no puedes votar en elecciones federales. Sin embargo, algunos cantones como Neuchâtel, Vaud o Jura permiten participar en votaciones locales y comunales una vez cumplidos los requisitos de residencia.
                 </div>
 
-                <h2>Recursos para saber más</h2>
+                <h2 id="lenguas">Sección 3 — Las 4 lenguas de Suiza</h2>
+
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="images/suiza/mapa-linguistico.png"
+                         alt="Mapa lingüístico de Suiza con las 4 regiones de lenguas oficiales: alemán, francés, italiano y romanche"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Mapa lingüístico de Suiza. El idioma que necesitarás depende del cantón donde te instales.
+                    </figcaption>
+                </figure>
+
+                <p>Suiza tiene <strong>4 lenguas nacionales</strong>. El idioma que usarás en tu vida diaria, en el trabajo y en la administración depende directamente de dónde vivas.</p>
+
+                <h3>🇩🇪 Alemán — Suiza alemana (Deutschschweiz)</h3>
+                <p>Lo hablan en unos <strong>17-18 cantones</strong>, representando el 63% de la población. Pero hay un matiz importante: en la vida cotidiana, los suizos hablan <em>Schweizerdeutsch</em>, un dialecto oral que no es alemán estándar. Lo entienden pero prácticamente no lo escriben. Los textos oficiales, contratos y cartas se redactan en <em>Hochdeutsch</em> (alemán estándar).</p>
+                <p>Si te instalas en Zúrich, Berna, Basilea, Lucerna o la mayoría de cantones del centro y este del país, el alemán es imprescindible.</p>
+
+                <h3>🇫🇷 Francés — La Romandie</h3>
+                <p>Lo hablan aproximadamente el <strong>23% de la población</strong>, en los cantones de Ginebra, Vaud, Neuchâtel, Jura, y de forma principal en Valais y parte de Friburgo y Berna. Esta región se llama informalmente <em>La Romandie</em>. El francés suizo es casi idéntico al francés estándar (con algunas diferencias léxicas, como <em>huitante</em> en lugar de <em>quatre-vingts</em>).</p>
+
+                <h3>🇮🇹 Italiano — El Ticino</h3>
+                <p>Lo habla el <strong>8% de la población</strong>, principalmente en el cantón del Ticino y en algunos valles de los Grisones. Es el único cantón completamente italófono y tiene una personalidad cultural muy distinta al resto del país.</p>
+
+                <h3>🏔️ Romanche</h3>
+                <p>Lengua reto-románica hablada por aproximadamente el <strong>0,5%</strong> de la población, en partes del cantón de los Grisones (Graubünden). Tiene estatus de lengua nacional pero su uso administrativo está limitado a las regiones donde se habla.</p>
+
+                <h3>Cantones bilingües y trilingües</h3>
                 <ul>
-                    <li><a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">ch.ch</a> — Portal oficial de información al ciudadano en 5 idiomas</li>
-                    <li><a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">SEM</a> — Secretaría de Estado de Migración (permisos y residencia)</li>
-                    <li><a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">OFS / BFS</a> — Estadísticas federales (salarios, población, idiomas)</li>
+                    <li><strong>Friburgo (FR):</strong> Bilingüe francés/alemán. La administración opera en ambas lenguas.</li>
+                    <li><strong>Berna (BE):</strong> Principalmente alemán, con una minoría francófona en el Jura bernés.</li>
+                    <li><strong>Valais (VS):</strong> Bilingüe francés/alemán según la zona.</li>
+                    <li><strong>Grisones (GR):</strong> Trilingüe alemán/romanche/italiano. Único cantón con 3 lenguas oficiales.</li>
                 </ul>
 
-                <h2>Artículos relacionados</h2>
+                <div class="callout">
+                    <strong>Consejo práctico:</strong> Aprender el idioma del cantón donde vives es la inversión más importante que puedes hacer. En Suiza, el idioma no es solo comunicación: es integración, empleo y acceso a todos los servicios. Muchos empleadores lo exigen incluso para puestos básicos.
+                </div>
+
+                <h2 id="cantones">Sección 4 — Las diferencias entre cantones</h2>
+
+                <p>Esta sección es esencial para los recién llegados. En Suiza, <strong>el cantón donde vives lo cambia casi todo</strong>. No es una exageración.</p>
+
+                <h3>Impuestos</h3>
+                <p>Es el ejemplo más llamativo. La carga fiscal total (federal + cantonal + comunal) puede variar entre un <strong>15% y un 45%</strong> del salario bruto, dependiendo del cantón. Algunos extremos:</p>
                 <ul>
-                    <li><a href="#/permisos-suiza">Permisos de residencia L, B y C</a></li>
-                    <li><a href="#/buscar-empleo-suiza">Trabajar en Suiza</a></li>
-                    <li><a href="#/seguro-medico-lamal-suiza">El seguro médico LAMal</a></li>
-                    <li><a href="#/alquilar-vivienda-suiza">Alquilar vivienda en Suiza</a></li>
-                    <li><a href="#/impuesto-fuente-suiza">Impuestos en Suiza</a></li>
+                    <li><strong>Zug, Schwyz, Nidwalden:</strong> Los cantones más baratos fiscalmente del país. Atraen a muchos empresarios y personas de alta renta.</li>
+                    <li><strong>Ginebra, Vaud, Berna:</strong> Cantones con mayor presión fiscal.</li>
                 </ul>
+                <p>La diferencia entre vivir en Ginebra o en Zug, ganando el mismo salario, puede suponer miles de francos al año en impuestos.</p>
+                <p>→ <a href="#/impuesto-fuente-suiza">Leer: Cómo funciona el impuesto a la fuente (Quellensteuer)</a></p>
+
+                <h3>Seguro médico (primas LAMal)</h3>
+                <p>El seguro de salud es obligatorio en toda Suiza, pero las <strong>primas varían por cantón y por región</strong>, incluso con la misma aseguradora. Las primas más altas se encuentran en Basilea-Ciudad y Ginebra. Las más bajas, en Appenzell Rodas Interiores y Glaris.</p>
+                <p>→ <a href="#/seguro-medico-lamal-suiza">Leer: El seguro médico LAMal explicado</a></p>
+
+                <h3>Educación y escolaridad</h3>
+                <p>El sistema escolar está en manos de los cantones. Esto significa que el calendario escolar, la edad de inicio de la escolarización obligatoria, los libros de texto, los horarios y las lenguas que se enseñan varían significativamente. Los cantones coordinan a través del Concordato HarmoS, pero las diferencias persisten.</p>
+                <p>→ <a href="#/sistema-educativo-suizo">Leer: El sistema educativo suizo</a></p>
+
+                <h3>Trámites de residencia y administración</h3>
+                <p>El registro al llegar, los plazos, los formularios y los horarios de atención varían de una commune a otra. No hay un proceso uniforme para todos los extranjeros: depende de dónde te instales.</p>
+                <p>→ <a href="#/registrarse-en-suiza">Leer: Cómo registrarse en Suiza al llegar</a></p>
+
+                <div class="callout">
+                    <strong>Conclusión práctica:</strong> Antes de decidir en qué cantón te instalas, investiga la carga fiscal, las primas del seguro médico y las ofertas de empleo en la zona. Son decisiones que tendrán un impacto importante en tu economía durante años.
+                </div>
+
+                <h2 id="educacion">Sección 5 — El sistema educativo suizo</h2>
+
+                <p>El sistema educativo suizo es público, gratuito y de alta calidad. Lo que lo distingue es su <strong>orientación profesional temprana</strong> y el papel central del aprendizaje dual en la formación de toda la población activa.</p>
+
+                <h3>Estructura general (HarmoS)</h3>
+                <ul>
+                    <li><strong>Escuela infantil (2 años):</strong> Obligatoria a partir de los 4 años en la mayoría de cantones.</li>
+                    <li><strong>Escuela primaria (6 años):</strong> De los 6 a los 12 años. Se introducen el segundo idioma nacional y el inglés.</li>
+                    <li><strong>Secundaria I (3 años):</strong> De los 12 a los 15 años. Al final de esta etapa se produce la <strong>orientación</strong>.</li>
+                </ul>
+
+                <h3>La orientación profesional (Secondaire II)</h3>
+                <p>A los 15-16 años, los alumnos se orientan hacia una de dos vías:</p>
+                <ol>
+                    <li><strong>Formación profesional dual (CFC / EFZ):</strong> La opción mayoritaria. Más del 60% de los jóvenes suizos hacen un aprendizaje en una empresa (3-4 días/semana en la empresa + 1-2 días en clase). Al terminar, obtienen el Certificado Federal de Capacidad (CFC). Es una vía muy respetada y bien remunerada desde el inicio.</li>
+                    <li><strong>Vía académica (Maturité / Matura / Gymnasio):</strong> Para alumnos con altas calificaciones académicas. Prepara para la universidad o para las Escuelas Politécnicas Federales (ETH Zürich / EPFL Lausanne), dos de las mejores universidades del mundo.</li>
+                </ol>
+
+                <h3>Universidades</h3>
+                <p>Suiza cuenta con universidades públicas de primer nivel en Zúrich (UZH), Berna, Basilea, Ginebra, Lausana y Neuchâtel. Las dos escuelas politécnicas federales ETH Zürich y EPFL Lausana están entre las mejores del mundo en ciencias e ingeniería.</p>
+
+                <div class="callout info">
+                    <strong>Para familias recién llegadas:</strong> Si tienes hijos en edad escolar, regístralos en la escuela pública de tu commune desde el primer mes. El proceso es gratuito y la integración lingüística se gestiona con apoyo escolar.
+                </div>
+
+                <h2 id="regiones">Sección 6 — Diferencias culturales y regionales</h2>
+
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="images/suiza/mapa-regiones-culturales.png"
+                         alt="Mapa de regiones culturales de Suiza: Suiza alemana (Deutschschweiz), Romandia (La Romandie) y Ticino"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Las tres grandes regiones culturales de Suiza tienen identidades muy distintas.
+                    </figcaption>
+                </figure>
+
+                <p>Más allá de las fronteras administrativas, Suiza tiene tres grandes regiones culturales con identidades muy marcadas. Conocerlas te ayudará a entender las diferencias de mentalidad, ritmo de vida y expectativas sociales.</p>
+
+                <h3>🔵 Suiza alemana (Deutschschweiz)</h3>
+                <p>Es la región más grande y la de mayor peso económico. Aquí se concentran las sedes de los grandes bancos, aseguradoras y multinacionales (Zúrich, Basilea, Zug). La cultura es más formal, puntual y directa. La puntualidad es casi una norma cultural. El ritmo de vida puede parecer más frío al principio, pero la integración es posible si hay esfuerzo lingüístico.</p>
+
+                <h3>🟢 La Romandie (Suiza francófona)</h3>
+                <p>Comprende los cantones de Ginebra, Vaud, Neuchâtel, Jura y partes de Valais, Friburgo y Berna. El ambiente es más mediterráneo en comparación con la Suiza alemana: más abierto, con una vida social más visible en los espacios públicos. Ginebra y Lausana son ciudades internacionales con una enorme presencia de organismos internacionales (ONU, OMS, Cruz Roja). Para hispanohablantes, el francés resulta más accesible que el alemán.</p>
+
+                <h3>🟡 Ticino (Suiza italiana)</h3>
+                <p>El cantón más al sur, con clima mediterráneo y paisajes de lago. La vida es más lenta y abierta. El Ticino tiene una economía importante ligada al turismo, los servicios financieros y la proximidad con Italia. Muchos trabajadores que viven en Italia cruzan a diario para trabajar aquí (frontaliers). El coste de vida es algo inferior al de Ginebra o Zúrich, pero los salarios también pueden ser más bajos en sectores no especializados.</p>
+
+                <h2>Resumen: lo que tienes que saber antes de llegar</h2>
+                <ul>
+                    <li>Suiza <strong>no pertenece a la UE</strong>, tiene sus propias normas y acuerdos bilaterales.</li>
+                    <li>Cada cantón funciona de forma diferente: investiga el tuyo antes de instalarte.</li>
+                    <li>El idioma de tu cantón es clave para integrarte: alemán, francés o italiano según la zona.</li>
+                    <li>El registro en la commune es el primer trámite que debes hacer al llegar.</li>
+                    <li>El seguro médico es obligatorio desde el primer día de residencia.</li>
+                    <li>La democracia directa hace que el ciudadano tenga más peso y responsabilidad que en otros países.</li>
+                </ul>
+
+                <h2>Artículos esenciales para nuevos residentes</h2>
+                <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0.75rem; margin-top: 1rem;">
+                    <a href="#/registrarse-en-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">📋 Registrarse en Suiza</a>
+                    <a href="#/permisos-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🪪 Permisos de residencia</a>
+                    <a href="#/buscar-empleo-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💼 Buscar empleo</a>
+                    <a href="#/seguro-medico-lamal-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🏥 Seguro médico LAMal</a>
+                    <a href="#/alquilar-vivienda-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🏠 Alquilar vivienda</a>
+                    <a href="#/impuesto-fuente-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💰 Impuestos en Suiza</a>
+                    <a href="#/sistema-educativo-suizo" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🎓 Sistema educativo</a>
+                    <a href="#/costo-de-vida-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💶 Costo de vida</a>
+                </div>
             </div>
         `
     }
