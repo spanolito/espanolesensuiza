@@ -1075,6 +1075,20 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         }
 
+        // Fallback: if lang ≠ es and article not found by slug, try matching by ES slug → same key in current lang
+        if (!pageData && currentLang !== 'es') {
+            const esArticles = window.siteContent['es'] && window.siteContent['es'].articles;
+            if (esArticles) {
+                const esKeyBySlug = Object.keys(esArticles).find(key => esArticles[key].slug === routeKey);
+                if (esKeyBySlug) {
+                    // Use the same article key in current language if it exists, otherwise fallback to ES
+                    pageData = langData.articles[esKeyBySlug] || esArticles[esKeyBySlug];
+                    routeKey = esKeyBySlug;
+                    isArticle = true;
+                }
+            }
+        }
+
         // Fetch page data if not already identified as an article
         if (!isArticle) {
             pageData = langData.pages[routeKey];
