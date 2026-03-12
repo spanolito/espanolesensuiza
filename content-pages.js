@@ -30,7 +30,7 @@ window.siteContent.es.pages = {
                     <img src="media/banner.jpg" alt="Españoles que realmente se ayudan en Suiza. Guía práctica para vivir y trabajar." style="width: 100%; height: auto; display: block; filter: contrast(1.05);">
                 </div>
 
-                <div class="search-container" style="margin-top: -30px; position: relative; z-index: 10;">
+                <div class="search-container" style="margin-top: -30px;">
                     <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
                     <input type="text" id="global-search" class="search-input" placeholder="${ui['search-placeholder']}" autocomplete="off">
                     <div id="search-results"></div>
