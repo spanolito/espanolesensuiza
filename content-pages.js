@@ -19,6 +19,19 @@ window.siteContent.es.pages = {
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            const formatConsulateDetails = (details) => {
+                const raw = String(details || "");
+                const parts = raw.split(" · ").map(s => s.trim()).filter(Boolean);
+                if (parts.length >= 2) {
+                    const phone = parts.pop();
+                    const address = parts.join(" · ");
+                    return { address, phone };
+                }
+                return { address: raw, phone: "" };
+            };
+            const geneva = formatConsulateDetails(ui['home-consulate-geneva-details']);
+            const bern = formatConsulateDetails(ui['home-consulate-bern-details']);
+            const zurich = formatConsulateDetails(ui['home-consulate-zurich-details']);
             return `
             <!-- SECCIÓN 1: Hero -->
             <section class="hero-section" style="padding: 0; margin-bottom: var(--space-xl);">
@@ -102,17 +115,17 @@ window.siteContent.es.pages = {
                     <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">${ui['fuente-label-consulado']} · GE · VD · VS · NE · FR · JU</div>
                         <h3>${ui['home-consulate-geneva']}</h3>
-                        <p>${ui['home-consulate-geneva-details']}</p>
+                        <p>${geneva.address}${geneva.phone ? `<br>${geneva.phone}` : ''}</p>
                     </a>
                     <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">${ui['fuente-label-consulado']} · BE · SO · FR · VS</div>
                         <h3>${ui['home-consulate-bern']}</h3>
-                        <p>${ui['home-consulate-bern-details']}</p>
+                        <p>${bern.address}${bern.phone ? `<br>${bern.phone}` : ''}</p>
                     </a>
                     <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="card-article">
                         <div class="card-meta">${ui['fuente-label-consulado']} · ZH · BS · LU · AG · TI ···</div>
                         <h3>${ui['home-consulate-zurich']}</h3>
-                        <p>${ui['home-consulate-zurich-details']}</p>
+                        <p>${zurich.address}${zurich.phone ? `<br>${zurich.phone}` : ''}</p>
                     </a>
                 </div>
                 <p style="margin-top:0.75rem; font-size:0.85rem; color:var(--text-light);">
@@ -426,8 +439,42 @@ window.siteContent.es.pages = {
                 <div class="card-hub">
                     <h3>${ui['rec-canton-title']}</h3>
                     <p>${ui['rec-canton-p']}</p>
+                    <a href="#cantones" class="read-more">${ui['rec-canton-links-link']}</a>
                 </div>
             </div>
+
+            <section id="cantones" class="animate-fade-up" style="margin-top: var(--space-xl);">
+                <h2 style="margin-top:0;">${ui['home-title-cantones']}</h2>
+                <p style="margin-bottom:1.5rem; color:var(--text-secondary);">${ui['home-desc-cantones']}</p>
+                <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem;">
+                    <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovia (AG)</a>
+                    <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell I.Rh. (AI)</a>
+                    <a href="https://www.ar.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell A.Rh. (AR)</a>
+                    <a href="https://www.bs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Ciudad (BS)</a>
+                    <a href="https://www.bl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Campo (BL)</a>
+                    <a href="https://www.be.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Berna (BE)</a>
+                    <a href="https://www.fr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Friburgo (FR)</a>
+                    <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ginebra (GE)</a>
+                    <a href="https://www.gl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Glaris (GL)</a>
+                    <a href="https://www.gr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Grisones (GR)</a>
+                    <a href="https://www.jura.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Jura (JU)</a>
+                    <a href="https://www.lu.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Lucerna (LU)</a>
+                    <a href="https://www.ne.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Neuchâtel (NE)</a>
+                    <a href="https://www.nw.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Nidwalden (NW)</a>
+                    <a href="https://www.ow.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Obwalden (OW)</a>
+                    <a href="https://www.sh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schaffhausen (SH)</a>
+                    <a href="https://www.sz.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schwyz (SZ)</a>
+                    <a href="https://www.so.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Solothurn (SO)</a>
+                    <a href="https://www.sg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">San Galo (SG)</a>
+                    <a href="https://www.tg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Turgovia (TG)</a>
+                    <a href="https://www.ti.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ticino (TI)</a>
+                    <a href="https://www.ur.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Uri (UR)</a>
+                    <a href="https://www.vs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Valais / Wallis (VS)</a>
+                    <a href="https://www.vd.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Vaud (VD)</a>
+                    <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zug (ZG)</a>
+                    <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zúrich (ZH)</a>
+                </div>
+            </section>
 
             <section style="margin-top: var(--space-xl);">
                 <h2 style="margin-top:0;">${ui['rec-consulates-title']}</h2>
