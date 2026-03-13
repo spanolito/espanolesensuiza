@@ -20,37 +20,32 @@ Object.assign(window.siteContent.fr.articles, {
         dateUpdated: "Mars 2026",
         summary: "Guide pratique : dossier de location, contrat, dépôt/caution et signaux d’arnaque. Pour nouveaux arrivants.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Louer en Suisse : dossier, dépôt et éviter les arnaques</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>La location en Suisse demande beaucoup de documents. Bien maîtrisé, cela vous protège aussi.</p>
-<h2>Contexte</h2>
+<h2>Contexte en Suisse</h2>
 <p>Deux risques fréquents : dossier faible et arnaques liées à l’urgence.</p>
-<h2>Explication détaillée</h2>
+<h2>Situations fréquentes qui créent des problèmes</h2>
 <ul>
 <li>Parcours typique : recherche → visite → candidature → sélection → signature → clés.</li>
 <li>Dossier : pièce d’identité/permis, preuve de revenus, extrait de poursuites (si disponible), courte présentation.</li>
 <li>Dépôt/caution : exigez une procédure claire et traçable.</li>
 <li>Signaux d’arnaque : paiement anticipé sans contrat vérifiable, pas de visite, pression, détails incohérents.</li>
 </ul>
-<h2>Infos pratiques</h2>
+<h2>Comment éviter des amendes ou des conflits</h2>
 <ul>
 <li>Suivi des candidatures + conservation des preuves.</li>
 <li>Ne jamais verser d’argent sans contrat solide et vérification.</li>
 </ul>
-<h2>Conseils & alertes</h2>
+<h2>Conseils pratiques</h2>
 <ul>
 <li>L’urgence est l’arme du fraudeur : vérifier d’abord.</li>
 <li>Si ça ne “colle” pas, passez votre chemin.</li>
 </ul>
-<h2>Sources</h2>
+<h2>Sources officielles</h2>
 <ul>
 <li>ch.ch : <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-<h2>Conclusion</h2>
-<p>Dossier solide + vérification = location plus simple et risque d’arnaque fortement réduit.</p>
         </div>`
     },
 
@@ -66,15 +61,12 @@ Object.assign(window.siteContent.fr.articles, {
         dateUpdated: "Mars 2026",
         summary: "Conseils pratiques : démarches, voisinage, transports, assurance maladie, budget et habitudes qui évitent les problèmes.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Vie quotidienne en Suisse : 25 conseils pratiques pour nouveaux arrivants</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>Pas besoin de tout savoir. Avec de bonnes routines, la plupart des soucis de la première année disparaissent.</p>
-<h2>Contexte</h2>
+<h2>Contexte en Suisse</h2>
 <p>La Suisse fonctionne avec des règles, des délais et des preuves. Votre quotidien devient plus simple quand vous adoptez ces réflexes.</p>
-<h2>Explication détaillée</h2>
+<h2>Situations fréquentes qui créent des problèmes</h2>
 <p>Idées clés :</p>
 <ul>
 <li>archiver les courriers officiels (et scanner)</li>
@@ -88,16 +80,14 @@ Object.assign(window.siteContent.fr.articles, {
 <li>éviter les paiements sans contrat vérifiable</li>
 <li>constituer un coussin d’urgence</li>
 </ul>
-<h2>Infos pratiques</h2>
+<h2>Comment éviter des amendes ou des conflits</h2>
 <p>Faites-en une checklist et cochez au fil du temps.</p>
-<h2>Conseils & alertes</h2>
+<h2>Conseils pratiques</h2>
 <p>Conseil transversal : moins d’impro, plus de méthode.</p>
-<h2>Sources</h2>
+<h2>Sources officielles</h2>
 <ul>
 <li>ch.ch : <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-<h2>Conclusion</h2>
-<p>Des routines simples rendent la Suisse plus légère. La constance est la clé.</p>
         </div>`
     },
 
@@ -113,15 +103,12 @@ Object.assign(window.siteContent.fr.articles, {
         dateUpdated: "Mars 2026",
         summary: "Comment budgéter en Suisse : loyer, assurance maladie, impôts, transports et dépenses “invisibles”. Conseils pour nouveaux arrivants.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Coût de la vie en Suisse : budget réaliste et dépenses cachées</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>La Suisse est chère, mais un budget bien construit rend les coûts plus prévisibles.</p>
-<h2>Contexte</h2>
+<h2>Contexte en Suisse</h2>
 <p>Variables clés : canton/ville (loyer + primes), situation familiale, transports et habitudes.</p>
-<h2>Explication détaillée</h2>
+<h2>Situations fréquentes qui créent des problèmes</h2>
 <p>Postes majeurs :</p>
 <ol>
 <li>loyer + charges (avec dépôts)</li>
@@ -131,24 +118,22 @@ Object.assign(window.siteContent.fr.articles, {
 <li>garde d’enfants (si nécessaire)</li>
 </ol>
 <p>Dépenses cachées : déménagement, mobilier, assurance RC, mobile/internet, taxes communales, avances.</p>
-<h2>Infos pratiques</h2>
+<h2>Comment éviter des amendes ou des conflits</h2>
 <ul>
 <li>Construire un budget “socle”.</li>
 <li>Prévoir un coussin pour le premier mois.</li>
 <li>Comparer des régions similaires (Zurich ≠ petite ville).</li>
 </ul>
-<h2>Conseils & alertes</h2>
+<h2>Conseils pratiques</h2>
 <ul>
 <li>Travailler avec le salaire net.</li>
 <li>Éviter les charges fixes trop élevées au début.</li>
 </ul>
-<h2>Sources</h2>
+<h2>Sources officielles</h2>
 <ul>
 <li>ch.ch : <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>BFS : <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bfs.admin.ch</a></li>
 </ul>
-<h2>Conclusion</h2>
-<p>Un budget réaliste transforme « c’est cher » en plan clair : quoi, quand, et comment optimiser.</p>
         </div>`
     },
 
@@ -163,14 +148,11 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "Mars 2026",
         summary: "Comprendre la démocratie directe suisse : référendum, initiative populaire et votations aux niveaux fédéral/cantonal/communal. Guide pour expatriés.",
-        relatedSlugs: ["introduccion-suiza-como-funciona", "cantones-suiza"],
-        content: `<div class="page-header">
-            <h1>Démocratie directe en Suisse : référendums, initiatives et votations</h1>
-        </div>
-        <div class="article-content">
+        relatedSlugs: [],
+        content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>En Suisse, on ne vote pas uniquement « tous les 4 ans ». Les citoyennes et citoyens votent régulièrement sur des sujets concrets.</p>
-<h2>Contexte</h2>
+<h2>Contexte en Suisse</h2>
 <p>Il existe des votations :</p>
 <ul>
 <li><strong>Fédérales</strong></li>
@@ -178,7 +160,7 @@ Object.assign(window.siteContent.fr.articles, {
 <li><strong>Communales</strong></li>
 <p>souvent le même jour, sur plusieurs objets.</p>
 </ul>
-<h2>Explication détaillée</h2>
+<h2>Situations fréquentes qui créent des problèmes</h2>
 <h3>Référendum (vue d’ensemble)</h3>
 <p>Mécanisme pour accepter ou refuser une décision (souvent une norme). Selon le niveau, il peut être obligatoire ou déclenché par des signatures.</p>
 <h3>Initiative (vue d’ensemble)</h3>
@@ -189,25 +171,22 @@ Object.assign(window.siteContent.fr.articles, {
 <li>Les documents explicatifs officiels sont souvent très pédagogiques.</li>
 <li>Les droits de vote varient, mais comprendre le système aide à anticiper les changements.</li>
 </ul>
-<h2>Infos pratiques</h2>
+<h2>Comment éviter des amendes ou des conflits</h2>
 <ul>
 <li>Suivez le calendrier de votre canton/commune.</li>
 <li>Lisez les brochures officielles (effets concrets + arguments).</li>
 <li>Concentrez-vous sur « qui est concerné » et « à partir de quand ».</li>
 </ul>
-<h2>Conseils & alertes</h2>
+<h2>Conseils pratiques</h2>
 <ul>
 <li>Ne vous informez pas uniquement via les réseaux : vérifiez le document officiel.</li>
 <li>Distinguez l’opinion du texte réellement soumis au vote.</li>
 </ul>
-<h2>Sources</h2>
+<h2>Sources officielles</h2>
 <ul>
 <li>ch.ch : <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>admin.ch : <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
 </ul>
-<h2>Conclusion</h2>
-<p>Comprendre la démocratie directe aide à interpréter débats et changements : en Suisse, beaucoup de décisions passent par les urnes.</p>
-<p>Liens : <code>#/introduccion-suiza-como-funciona</code>, <code>#/cantones-suiza</code></p>
         </div>`
     },
 
@@ -223,15 +202,12 @@ Object.assign(window.siteContent.fr.articles, {
         dateUpdated: "Mars 2026",
         summary: "Alertes pratiques : arnaques de location, fausses amendes/QR, phishing, fausses offres d’emploi. Signaux typiques et conduite à tenir.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Fraudes visant les expatriés en Suisse : signaux et protections</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>La plupart des arnaques reposent sur l’<strong>urgence</strong>. Si vous ralentissez et vérifiez, le risque chute.</p>
-<h2>Contexte</h2>
+<h2>Contexte en Suisse</h2>
 <p>Les nouveaux arrivants sont ciblés (logement/emploi rapides, procédures inconnues).</p>
-<h2>Explication détaillée</h2>
+<h2>Situations fréquentes qui créent des problèmes</h2>
 <p>Schémas fréquents :</p>
 <ul>
 <li>location : paiement avant visite/contrat vérifiable</li>
@@ -246,77 +222,100 @@ Object.assign(window.siteContent.fr.articles, {
 <li>conserver les preuves</li>
 <li>signaler si nécessaire</li>
 </ol>
-<h2>Infos pratiques</h2>
+<h2>Comment éviter des amendes ou des conflits</h2>
 <ul>
 <li>Vérifier le domaine et l’expéditeur.</li>
 <li>Utiliser les numéros officiels (pas ceux du message).</li>
 </ul>
-<h2>Conseils & alertes</h2>
+<h2>Conseils pratiques</h2>
 <ul>
 <li>“Aujourd’hui ou jamais” = signal d’alarme.</li>
 <li>“Réserver” contre paiement sans contrat clair = risque élevé.</li>
 </ul>
-<h2>Sources</h2>
+<h2>Sources officielles</h2>
 <ul>
 <li>ch.ch : <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>fedpol : <a href="https://www.fedpol.admin.ch" target="_blank" rel="noopener noreferrer">https://www.fedpol.admin.ch</a></li>
 </ul>
-<h2>Conclusion</h2>
-<p>La vérification doit être calme et basée sur des canaux officiels. L’urgence est l’ennemie.</p>
         </div>`
     },
 
     "fb-normas-locales-ginebra": {
-        title: "Règles locales à Genève (GE) : cohabitation, amendes et bonnes pratiques",
-        description: "Guide pratique à Genève : bruit, stationnement, déchets, règles d’immeuble, amendes fréquentes et habitudes utiles.",
-        keywords: "geneve règles, amendes geneve, vivre à geneve, ge suisse",
+        title: "Règles de vie en Suisse : bruit, déchets, stationnement et erreurs fréquentes",
+        description: "Guide national de cohabitation en Suisse : heures de silence, déchets/recyclage, stationnement, règlement d’immeuble et malentendus typiques. Ce qui dépend du canton, de la commune ou du règlement interne.",
+        keywords: "règles de vie suisse, heures de silence suisse, recyclage suisse, stationnement suisse, amendes suisse",
         keywordsLocalized: true,
         category: "Vivre en Suisse",
         hub: "vivir-en-suiza",
         slug: "normas-locales-ginebra",
         readingTime: 2,
         dateUpdated: "Mars 2026",
-        summary: "Guide pratique à Genève : bruit, stationnement, déchets, règles d’immeuble, amendes fréquentes et habitudes utiles.",
-        relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Règles locales à Genève (GE) : cohabitation, amendes et bonnes pratiques</h1>
-        </div>
-        <div class="article-content">
+        summary: "Guide national de cohabitation en Suisse : heures de silence, déchets/recyclage, stationnement, règlement d’immeuble et malentendus typiques. Ce qui dépend du canton, de la commune ou du règlement interne.",
+        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
+        content: `<div class="article-content">
             <h2>Introduction</h2>
-<p>Genève est internationale, mais les règles de cohabitation et d’ordre public sont appliquées. Les connaître évite des amendes inutiles.</p>
-<h2>Contexte</h2>
-<p>Beaucoup de règles sont cantonales/communales : bruit, déchets, stationnement, règlements d’immeuble.</p>
-<h2>Explication détaillée</h2>
-<p>Situations classiques :</p>
+<p>En Suisse, les règles sont souvent simples… et appliquées. Beaucoup de difficultés des nouveaux arrivants viennent moins de la “sévérité” que du fait de ne pas savoir ce qui relève du <strong>canton</strong>, de la <strong>commune</strong>, ou du <strong>règlement d’immeuble</strong>.</p>
+<h2>Contexte en Suisse</h2>
+<p>Pense en trois niveaux :</p>
 <ul>
-<li>bruit (horaires, fêtes, bricolage)</li>
-<li>stationnement / circulation</li>
-<li>déchets / recyclage</li>
-<li>vie en immeuble (buanderie, parties communes)</li>
+<li><strong>Canton</strong> : de nombreuses règles pratiques et leur application varient selon le canton (bruit, sanctions, procédures).</li>
+<li><strong>Commune/municipalité</strong> : gère le quotidien (déchets, horaires, points de collecte, taxes).</li>
+<li><strong>Immeuble</strong> (règlement interne / <em>Hausordnung</em>) : règles très concrètes (buanderie, espaces communs, bruit).</li>
 </ul>
-<p>Bon réflexe :</p>
+<p>Idée clé : <strong>la base est suisse, mais les détails sont locaux</strong>. Quand on te dit “en Suisse c’est comme ça”, demande : “dans quel canton ? dans quelle commune ?”.</p>
+<h2>Situations fréquentes qui créent des problèmes</h2>
+<h3>1) Bruit et “heures de silence”</h3>
+<p>Dans beaucoup d’endroits, on attend du calme la nuit (et parfois à midi ou le dimanche). Ce qui change :</p>
 <ul>
-<li>lire le règlement</li>
-<li>s’appuyer sur les sources officielles</li>
-<li>respecter délais et conserver copies en cas d’amende</li>
+<li>horaires précis (commune ou immeuble)</li>
+<li>bricolage/travaux (créneaux autorisés)</li>
+<li>fêtes (parfois tolérées si on prévient ; parfois non)</li>
 </ul>
-<h2>Infos pratiques</h2>
+<p>Malentendu typique : “c’est juste un dîner”. Si le bruit traverse les murs ou le palier, cela peut être considéré comme une nuisance.</p>
+<h3>2) Déchets et recyclage (plus sérieux qu’on ne l’imagine)</h3>
+<p>La gestion des déchets peut être stricte (propreté, coûts, traçabilité). Selon la commune :</p>
 <ul>
-<li>Garder les contacts de la régie.</li>
-<li>Avoir contrat + règlement à portée de main.</li>
+<li><strong>sacs officiels</strong> (taxe incluse) obligatoires</li>
+<li>horaires et points de collecte précis</li>
+<li>tri détaillé (papier, verre, alu, organique)</li>
 </ul>
-<h2>Conseils & alertes</h2>
+<p>Malentendu typique : déposer des sacs à côté des conteneurs peut être assimilé à un dépôt sauvage et entraîner une amende.</p>
+<h3>3) Stationnement : zones bleues, disque et amendes rapides</h3>
+<p>Beaucoup d’amendes viennent du stationnement :</p>
 <ul>
-<li>Certains comportements “normaux” ailleurs peuvent être sanctionnés.</li>
-<li>Documenter et privilégier les voies formelles.</li>
+<li>zones bleues avec <strong>disque</strong> correctement réglé</li>
+<li>parcmètres et limites de temps</li>
+<li>places réservées (livraisons, résidents, PMR)</li>
 </ul>
-<h2>Sources</h2>
+<p>Malentendu typique : “5 minutes”. En pratique, cela peut suffire pour une amende.</p>
+<h3>4) Vie en immeuble : pas toujours “la loi”, mais souvent obligatoire</h3>
+<p>Beaucoup de conflits se règlent via le règlement :</p>
 <ul>
-<li>Canton de Genève : <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer">https://www.ge.ch</a></li>
-<li>ch.ch : <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>buanderie et tours</li>
+<li>bruit dans cage d’escalier / cour</li>
+<li>vélos, poussettes, animaux</li>
+<li>propreté des espaces communs</li>
 </ul>
-<h2>Conclusion</h2>
-<p>Genève devient simple quand on connaît les règles : règlement + bonnes habitudes + preuves.</p>
+<h2>Comment éviter des amendes ou des conflits</h2>
+<ol>
+<li><strong>Lire et conserver</strong> le règlement d’immeuble (et demander une précision par écrit si besoin).</li>
+<li>Vérifier le site officiel de la <strong>commune</strong> pour les déchets (sacs, horaires, points).</li>
+<li>Pour le stationnement : disque visible, ticket bien placé, éviter les zones “grises”.</li>
+<li>En cas de lettre/amende : <strong>ne pas ignorer</strong>. Respecter les délais et garder des copies.</li>
+</ol>
+<h2>Conseils pratiques</h2>
+<ul>
+<li>Garder un dossier : bail, règlement, courriers officiels, preuves de paiement.</li>
+<li>Demander à la régie les règles clés (bruit, buanderie, déchets).</li>
+<li>En cas de doute, privilégier les sources officielles et l’écrit.</li>
+<li>Les exemples locaux ne sont que des exemples : ce qui compte, c’est <strong>ton</strong> canton, <strong>ta</strong> commune, <strong>ton</strong> immeuble.</li>
+</ul>
+<h2>Sources officielles</h2>
+<ul>
+<li>Portail officiel (orientation + liens) : <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>Confédération (cadre général) : <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
+<li>Portails officiels de ton canton et de ta commune (selon la région).</li>
+</ul>
         </div>`
     },
 
@@ -332,21 +331,18 @@ Object.assign(window.siteContent.fr.articles, {
         dateUpdated: "Mars 2026",
         summary: "Guide pratique : différences L/B/C, checklist à l’arrivée, changements de situation et erreurs typiques, avec liens officiels.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Permis en Suisse (L, B, C) : checklist, erreurs fréquentes et cas concrets</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>Le permis dépend de votre situation (contrat, durée, famille) dans un cadre légal. Ce n’est pas qu’une “carte”.</p>
-<h2>Contexte</h2>
+<h2>Contexte en Suisse</h2>
 <p>Le cadre est fédéral, mais la procédure pratique varie selon le canton (délais, rendez-vous, formulaires).</p>
-<h2>Explication détaillée</h2>
+<h2>Situations fréquentes qui créent des problèmes</h2>
 <ul>
 <li><strong>L</strong> : souvent lié à des séjours/contrats courts.</li>
 <li><strong>B</strong> : résidence sur plusieurs années ; attention aux changements selon le cas.</li>
 <li><strong>C</strong> : statut plus stable après plusieurs années ; certaines démarches changent.</li>
 </ul>
-<h2>Infos pratiques</h2>
+<h2>Comment éviter des amendes ou des conflits</h2>
 <p>Checklist :</p>
 <ol>
 <li>inscription à la commune</li>
@@ -354,18 +350,16 @@ Object.assign(window.siteContent.fr.articles, {
 <li>preuves domicile/emploi</li>
 <li>archivage des documents</li>
 </ol>
-<h2>Conseils & alertes</h2>
+<h2>Conseils pratiques</h2>
 <ul>
 <li>Ne pas attendre la carte pour avancer.</li>
 <li>En cas de déménagement, vérifier les règles locales.</li>
 </ul>
-<h2>Sources</h2>
+<h2>Sources officielles</h2>
 <ul>
 <li>SEM : <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
 <li>ch.ch : <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-<h2>Conclusion</h2>
-<p>Anticipation + délais + preuves : la combinaison qui évite les blocages.</p>
         </div>`
     },
 
@@ -381,19 +375,16 @@ Object.assign(window.siteContent.fr.articles, {
         dateUpdated: "Mars 2026",
         summary: "Guide pratique (AC/ALV) : inscription au RAV, caisse de chômage, délais, obligations, sanctions et documents à conserver.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>RAV et chômage en Suisse : fonctionnement, démarches et obligations</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>Le chômage en Suisse est un processus encadré : délais, rendez-vous et preuves de recherche d’emploi.</p>
-<h2>Contexte</h2>
+<h2>Contexte en Suisse</h2>
 <p>Deux acteurs :</p>
 <ul>
 <li><strong>RAV</strong> : suivi, rendez-vous, mesures.</li>
 <li><strong>Caisse</strong> : vérifie le droit et verse l’indemnité.</li>
 </ul>
-<h2>Explication détaillée</h2>
+<h2>Situations fréquentes qui créent des problèmes</h2>
 <p>Démarches :</p>
 <ol>
 <li>s’inscrire rapidement</li>
@@ -402,17 +393,15 @@ Object.assign(window.siteContent.fr.articles, {
 <li>respecter les rendez-vous et délais</li>
 </ol>
 <p>Obligations : recherche prouvable, démarches raisonnables, papiers à temps. Erreurs : délais manqués, preuves perdues, démission sans mesurer l’impact.</p>
-<h2>Infos pratiques</h2>
+<h2>Comment éviter des amendes ou des conflits</h2>
 <p>Suivi des candidatures + conservation emails/captures.</p>
-<h2>Conseils & alertes</h2>
+<h2>Conseils pratiques</h2>
 <p>En Suisse, les preuves comptent : répondre par écrit et avec marge.</p>
-<h2>Sources</h2>
+<h2>Sources officielles</h2>
 <ul>
 <li>ch.ch : <a href="https://www.ch.ch/fr/travail/chomage/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/fr/travail/chomage/</a></li>
 <li>SECO : <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
 </ul>
-<h2>Conclusion</h2>
-<p>Avec méthode, ça marche. Sans méthode, on perd vite du temps… et parfois de l’argent.</p>
         </div>`
     },
 
@@ -428,44 +417,39 @@ Object.assign(window.siteContent.fr.articles, {
         dateUpdated: "Mars 2026",
         summary: "Guide pratique : modèles (standard/médecin de famille/telmed/HMO), franchise, quote-part, changement annuel et pièges fréquents. Sources officielles.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Choisir l’assurance maladie en Suisse (LAMal) : modèle, franchise et prime</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>L’assurance de base (LAMal/KVG) est obligatoire. Les prestations obligatoires sont identiques entre assureurs ; ce qui change surtout : la prime, le modèle et le service.</p>
-<h2>Contexte</h2>
+<h2>Contexte en Suisse</h2>
 <p>Trois décisions séparées :</p>
 <ol>
 <li>assureur (prix/service)</li>
 <li>modèle (standard / médecin de famille / telmed / HMO)</li>
 <li>franchise (montant à payer avant remboursement)</li>
 </ol>
-<h2>Explication détaillée</h2>
+<h2>Situations fréquentes qui créent des problèmes</h2>
 <ul>
 <li><strong>Modèles</strong> : standard (plus de liberté), médecin de famille, telmed, HMO (réseau/centre).</li>
 <li><strong>Franchise + quote-part</strong> : franchise plus haute = prime plus basse mais plus de risque.</li>
 <li><strong>Changement</strong> : généralement à planifier avec des délais (comparaison en automne).</li>
 </ul>
-<h2>Infos pratiques</h2>
+<h2>Comment éviter des amendes ou des conflits</h2>
 <ul>
 <li>Peu de soins + marge financière → franchise plus haute possible.</li>
 <li>Coûts prévisibles → franchise plus basse pour limiter l’incertitude.</li>
 <li>Assurance accident et complémentaires sont des sujets séparés.</li>
 </ul>
-<h2>Conseils & alertes</h2>
+<h2>Conseils pratiques</h2>
 <ul>
 <li>Ne choisissez pas uniquement la prime : vérifiez les règles du modèle.</li>
 <li>Les complémentaires peuvent exiger un questionnaire santé.</li>
 </ul>
-<h2>Sources</h2>
+<h2>Sources officielles</h2>
 <ul>
 <li>ch.ch : <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>OFSP (BAG) : <a href="https://www.bag.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bag.admin.ch</a></li>
 <li>Priminfo : <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
 </ul>
-<h2>Conclusion</h2>
-<p>Bien choisir LAMal = équilibre entre risque, habitudes et budget, avec une révision annuelle.</p>
         </div>`
     },
 
@@ -480,21 +464,18 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "Mars 2026",
         summary: "Guide clair pour nouveaux arrivants : ce qui relève du fédéral, ce qui change selon le canton et ce que gère votre commune. Exemples + sources officielles.",
-        relatedSlugs: ["cantones-suiza", "impuestos-en-suiza", "registrarse-en-suiza"],
-        content: `<div class="page-header">
-            <h1>Comprendre la Suisse : Confédération, cantons et communes</h1>
-        </div>
-        <div class="article-content">
+        relatedSlugs: [],
+        content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>Beaucoup d’erreurs au début viennent d’une idée simple : « la Suisse fonctionne pareil partout ». En réalité, la Suisse est <strong>fédérale et très décentralisée</strong>.</p>
-<h2>Contexte</h2>
+<h2>Contexte en Suisse</h2>
 <p>Au quotidien, trois niveaux comptent :</p>
 <ul>
 <li><strong>Confédération</strong> : cadre général, coordination nationale.</li>
 <li><strong>Canton</strong> : règles concrètes et mise en œuvre (impôts, école, administration).</li>
 <li><strong>Commune</strong> : démarches locales (inscription, déchets, taxes et services).</li>
 </ul>
-<h2>Explication détaillée</h2>
+<h2>Situations fréquentes qui créent des problèmes</h2>
 <h3>Ce qui est souvent fédéral</h3>
 <ul>
 <li>Cadre et portails nationaux.</li>
@@ -512,27 +493,24 @@ Object.assign(window.siteContent.fr.articles, {
 <li>Services locaux (poubelles, taxes).</li>
 <li>Règles de voisinage (bruit, horaires) selon règlements locaux.</li>
 </ul>
-<h2>Infos pratiques</h2>
+<h2>Comment éviter des amendes ou des conflits</h2>
 <ol>
 <li>Identifiez votre canton et votre commune.</li>
 <li>Utilisez <strong>ch.ch</strong> pour vous orienter, puis vérifiez le <strong>portail officiel cantonal</strong>.</li>
 <li>Conservez des preuves (courriers, confirmations, emails).</li>
 </ol>
-<h2>Conseils & alertes</h2>
+<h2>Conseils pratiques</h2>
 <ul>
 <li>« En Suisse, c’est comme ça » n’a de sens qu’avec <strong>canton + commune</strong>.</li>
 <li>Pour permis, impôts, chômage : priorité aux sources officielles.</li>
 </ul>
-<h2>Sources</h2>
+<h2>Sources officielles</h2>
 <ul>
 <li>ch.ch : <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>admin.ch : <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
 <li>SEM : <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
 <li>SECO : <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
 </ul>
-<h2>Conclusion</h2>
-<p>Comprendre le fédéralisme suisse vous fait gagner du temps : vous saurez où chercher la règle correcte.</p>
-<p>Liens : <code>#/cantones-suiza</code>, <code>#/impuestos-en-suiza</code>, <code>#/registrarse-en-suiza</code></p>
         </div>`
     },
 
@@ -548,34 +526,29 @@ Object.assign(window.siteContent.fr.articles, {
         dateUpdated: "Mars 2026",
         summary: "Guide pratique : CV “suisse”, entretiens, négociation salariale, contrat et erreurs fréquentes pour nouveaux arrivants.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Travailler en Suisse : chercher un emploi, négocier et bien démarrer</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>La Suisse valorise la clarté : méthode, preuves et suivi régulier.</p>
-<h2>Contexte</h2>
+<h2>Contexte en Suisse</h2>
 <p>La stratégie dépend du canton (langue), du secteur et de votre situation (permis/inscription).</p>
-<h2>Explication détaillée</h2>
+<h2>Situations fréquentes qui créent des problèmes</h2>
 <ul>
 <li>Candidature : CV clair, résultats, lettre courte, références prêtes.</li>
 <li>Entretien : ponctualité, exemples concrets, fourchette salariale.</li>
 <li>Contrat : essai, préavis, horaires, vacances, 13e salaire, assurance accident.</li>
 </ul>
-<h2>Infos pratiques</h2>
+<h2>Comment éviter des amendes ou des conflits</h2>
 <p>Checklist : CV/LinkedIn cohérents, cibles, suivi, documents clés.</p>
-<h2>Conseils & alertes</h2>
+<h2>Conseils pratiques</h2>
 <ul>
 <li>Éviter les candidatures “en masse”.</li>
 <li>Offres trop parfaites sans processus sérieux : méfiance.</li>
 </ul>
-<h2>Sources</h2>
+<h2>Sources officielles</h2>
 <ul>
 <li>SECO : <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
 <li>ch.ch : <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-<h2>Conclusion</h2>
-<p>La constance paie : méthode + preuves + suivi.</p>
         </div>`
     }
 });

@@ -12,12 +12,12 @@ keywords: alquilar suiza, alquiler suiza, fianza suiza, asloca, estafa alquiler 
 ## Introducción
 El alquiler en Suiza funciona con mucha documentación. Eso protege al propietario… y también puede protegerte a ti si sabes qué pedir.
 
-## Contexto
+## Contexto en Suiza
 Los dos problemas típicos del recién llegado:
 - no tener “dossier” convincente
 - caer en estafas por prisa o desconocimiento
 
-## Explicación detallada
+## Situaciones comunes que generan problemas
 ### Paso a paso (visión realista)
 1) Buscar (portales, agencias, anuncios).  
 2) Visitar y postular con dossier.  
@@ -38,20 +38,15 @@ Suele bloquearse como garantía. Exige un procedimiento claro y comprobable.
 - “no se puede visitar” y hay presión por pagar hoy
 - comunicación rara, cuentas en el extranjero, excusas inconsistentes
 
-## Información práctica
+## Cómo evitar multas o conflictos
 - Lleva un Excel/tabla de candidaturas.
 - Guarda capturas y emails del anuncio.
 - Si dudas, pide contrato y datos verificables antes de transferir.
 
-## Consejos y alertas
+## Consejos prácticos
 - En Suiza, la prisa es el enemigo: verifica.
 - Si algo no cuadra, pasa al siguiente anuncio.
 
-## Fuentes
+## Fuentes oficiales
 - ch.ch (vivienda): https://www.ch.ch
 - Asociaciones de inquilinos (según cantón; p. ej. ASLOCA en Romandía).
-
-## Conclusión
-Con dossier sólido + verificación, alquilar es un proceso repetible. Sin eso, el riesgo de estafa sube.
-
-Relacionado: `#/alquilar-vivienda-suiza`, `#/fianzas-alquiler-suiza`

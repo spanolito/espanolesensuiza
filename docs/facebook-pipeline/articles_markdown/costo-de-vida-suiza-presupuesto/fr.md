@@ -12,10 +12,10 @@ keywords: cout de la vie suisse, budget suisse, loyer suisse, assurance maladie 
 ## Introduction
 La Suisse est chère, mais un budget bien construit rend les coûts plus prévisibles.
 
-## Contexte
+## Contexte en Suisse
 Variables clés : canton/ville (loyer + primes), situation familiale, transports et habitudes.
 
-## Explication détaillée
+## Situations fréquentes qui créent des problèmes
 Postes majeurs :
 1) loyer + charges (avec dépôts)  
 2) primes + franchise  
@@ -25,18 +25,15 @@ Postes majeurs :
 
 Dépenses cachées : déménagement, mobilier, assurance RC, mobile/internet, taxes communales, avances.
 
-## Infos pratiques
+## Comment éviter des amendes ou des conflits
 - Construire un budget “socle”.
 - Prévoir un coussin pour le premier mois.
 - Comparer des régions similaires (Zurich ≠ petite ville).
 
-## Conseils & alertes
+## Conseils pratiques
 - Travailler avec le salaire net.
 - Éviter les charges fixes trop élevées au début.
 
-## Sources
+## Sources officielles
 - ch.ch : https://www.ch.ch
 - BFS : https://www.bfs.admin.ch
-
-## Conclusion
-Un budget réaliste transforme « c’est cher » en plan clair : quoi, quand, et comment optimiser.

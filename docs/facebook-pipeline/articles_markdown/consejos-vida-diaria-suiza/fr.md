@@ -12,10 +12,10 @@ keywords: vivre en suisse conseils, vie quotidienne suisse, nouveaux arrivants s
 ## Introduction
 Pas besoin de tout savoir. Avec de bonnes routines, la plupart des soucis de la première année disparaissent.
 
-## Contexte
+## Contexte en Suisse
 La Suisse fonctionne avec des règles, des délais et des preuves. Votre quotidien devient plus simple quand vous adoptez ces réflexes.
 
-## Explication détaillée
+## Situations fréquentes qui créent des problèmes
 Idées clés :
 - archiver les courriers officiels (et scanner)
 - suivre les délais au calendrier
@@ -28,14 +28,11 @@ Idées clés :
 - éviter les paiements sans contrat vérifiable
 - constituer un coussin d’urgence
 
-## Infos pratiques
+## Comment éviter des amendes ou des conflits
 Faites-en une checklist et cochez au fil du temps.
 
-## Conseils & alertes
+## Conseils pratiques
 Conseil transversal : moins d’impro, plus de méthode.
 
-## Sources
+## Sources officielles
 - ch.ch : https://www.ch.ch
-
-## Conclusion
-Des routines simples rendent la Suisse plus légère. La constance est la clé.

@@ -12,10 +12,10 @@ keywords: lebenshaltungskosten schweiz, budget schweiz, miete schweiz, krankenka
 ## Einleitung
 Die Schweiz ist teuer, aber mit einem realistischen Budget werden Kosten planbarer.
 
-## Kontext
+## Kontext in der Schweiz
 Hauptfaktoren: Kanton/Stadt (Miete + Prämien), Familie, Mobilität, Lebensstil.
 
-## Detaillierte Erklärung
+## Häufige Situationen, die Probleme verursachen
 Größte Budgettreiber:
 1) Miete + Nebenkosten (inkl. Kaution)  
 2) Krankenkassenprämie + Franchise  
@@ -25,18 +25,15 @@ Größte Budgettreiber:
 
 Versteckte Kosten: Umzug, Möbel, Haftpflicht, Internet/Mobil, Gemeindegebühren, Vorauszahlungen.
 
-## Praktische Hinweise
+## Wie man Bussen oder Konflikte vermeidet
 - Basisbudget zuerst.
 - Puffer für den ersten Monat.
 - Region fair vergleichen.
 
-## Tipps & Warnungen
+## Praktische Tipps
 - Mit Nettolohn rechnen.
 - Zu hohe Fixkosten am Anfang vermeiden.
 
-## Quellen
+## Offizielle Quellen
 - ch.ch: https://www.ch.ch
 - BFS: https://www.bfs.admin.ch
-
-## Fazit
-Ein gutes Budget macht aus “teuer” einen konkreten Plan mit Optimierungspunkten.

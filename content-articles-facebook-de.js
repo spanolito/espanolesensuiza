@@ -20,37 +20,32 @@ Object.assign(window.siteContent.de.articles, {
         dateUpdated: "März 2026",
         summary: "Praxisguide: Bewerbungsdossier, Vertrag, Kaution/Depot und typische Betrugszeichen. Für Neuankömmlinge.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Wohnung mieten in der Schweiz: Dossier, Kaution und Betrug vermeiden</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Einleitung</h2>
 <p>Mieten in der Schweiz ist dokumentenlastig. Mit der richtigen Vorgehensweise schützt Sie das auch vor Betrug.</p>
-<h2>Kontext</h2>
+<h2>Kontext in der Schweiz</h2>
 <p>Häufige Probleme: schwaches Dossier und Betrug durch Zeitdruck.</p>
-<h2>Detaillierte Erklärung</h2>
+<h2>Häufige Situationen, die Probleme verursachen</h2>
 <ul>
 <li>Ablauf: Suche → Besichtigung → Bewerbung → Auswahl → Vertrag → Schlüssel.</li>
 <li>Dossier: Ausweis/Bewilligung, Einkommensnachweis, Betreibungsregisterauszug (falls vorhanden), kurze Vorstellung.</li>
 <li>Kaution/Depot: nur mit klarer, nachvollziehbarer Abwicklung.</li>
 <li>Betrugszeichen: Vorkasse ohne verifizierbaren Vertrag, keine Besichtigung, Druck, widersprüchliche Zahlungsdetails.</li>
 </ul>
-<h2>Praktische Hinweise</h2>
+<h2>Wie man Bussen oder Konflikte vermeidet</h2>
 <ul>
 <li>Bewerbungen tracken, Belege sichern.</li>
 <li>Nie Geld überweisen ohne Vertrag + Verifikation.</li>
 </ul>
-<h2>Tipps & Warnungen</h2>
+<h2>Praktische Tipps</h2>
 <ul>
 <li>Zeitdruck ist ein Warnsignal.</li>
 <li>Wenn etwas nicht stimmt: weiter suchen.</li>
 </ul>
-<h2>Quellen</h2>
+<h2>Offizielle Quellen</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-<h2>Fazit</h2>
-<p>Starkes Dossier + Verifikation senkt das Betrugsrisiko massiv.</p>
         </div>`
     },
 
@@ -66,15 +61,12 @@ Object.assign(window.siteContent.de.articles, {
         dateUpdated: "März 2026",
         summary: "Alltagstipps: Verwaltung, Nachbarn, ÖV, Krankenkasse, Budget und Gewohnheiten, die Probleme vermeiden.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Alltag in der Schweiz: 25 praktische Tipps für Neuankömmlinge</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Einleitung</h2>
 <p>Man muss nicht alles wissen. Mit guten Routinen lassen sich viele typische Startprobleme vermeiden.</p>
-<h2>Kontext</h2>
+<h2>Kontext in der Schweiz</h2>
 <p>In der Schweiz zählen Regeln, Fristen und Nachweise. Wer diese Gewohnheiten übernimmt, lebt entspannter.</p>
-<h2>Detaillierte Erklärung</h2>
+<h2>Häufige Situationen, die Probleme verursachen</h2>
 <p>Kerngewohnheiten:</p>
 <ul>
 <li>offizielle Briefe archivieren (und scannen)</li>
@@ -88,16 +80,14 @@ Object.assign(window.siteContent.de.articles, {
 <li>keine Zahlungen ohne verifizierbaren Vertrag</li>
 <li>Notfallpuffer aufbauen</li>
 </ul>
-<h2>Praktische Hinweise</h2>
+<h2>Wie man Bussen oder Konflikte vermeidet</h2>
 <p>Als Checkliste nutzen und Schritt für Schritt abhaken.</p>
-<h2>Tipps & Warnungen</h2>
+<h2>Praktische Tipps</h2>
 <p>Universaltipp: weniger Improvisation, mehr Prozess.</p>
-<h2>Quellen</h2>
+<h2>Offizielle Quellen</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-<h2>Fazit</h2>
-<p>Einfache Routinen machen den Alltag leichter. Beständigkeit ist entscheidend.</p>
         </div>`
     },
 
@@ -113,15 +103,12 @@ Object.assign(window.siteContent.de.articles, {
         dateUpdated: "März 2026",
         summary: "Budgetieren in der Schweiz: Miete, Krankenkasse, Steuern, Transport und versteckte Kosten. Tipps für Neuankömmlinge.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Lebenshaltungskosten in der Schweiz: realistisches Budget und versteckte Kosten</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Einleitung</h2>
 <p>Die Schweiz ist teuer, aber mit einem realistischen Budget werden Kosten planbarer.</p>
-<h2>Kontext</h2>
+<h2>Kontext in der Schweiz</h2>
 <p>Hauptfaktoren: Kanton/Stadt (Miete + Prämien), Familie, Mobilität, Lebensstil.</p>
-<h2>Detaillierte Erklärung</h2>
+<h2>Häufige Situationen, die Probleme verursachen</h2>
 <p>Größte Budgettreiber:</p>
 <ol>
 <li>Miete + Nebenkosten (inkl. Kaution)</li>
@@ -131,24 +118,22 @@ Object.assign(window.siteContent.de.articles, {
 <li>Kinderbetreuung (falls relevant)</li>
 </ol>
 <p>Versteckte Kosten: Umzug, Möbel, Haftpflicht, Internet/Mobil, Gemeindegebühren, Vorauszahlungen.</p>
-<h2>Praktische Hinweise</h2>
+<h2>Wie man Bussen oder Konflikte vermeidet</h2>
 <ul>
 <li>Basisbudget zuerst.</li>
 <li>Puffer für den ersten Monat.</li>
 <li>Region fair vergleichen.</li>
 </ul>
-<h2>Tipps & Warnungen</h2>
+<h2>Praktische Tipps</h2>
 <ul>
 <li>Mit Nettolohn rechnen.</li>
 <li>Zu hohe Fixkosten am Anfang vermeiden.</li>
 </ul>
-<h2>Quellen</h2>
+<h2>Offizielle Quellen</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>BFS: <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bfs.admin.ch</a></li>
 </ul>
-<h2>Fazit</h2>
-<p>Ein gutes Budget macht aus “teuer” einen konkreten Plan mit Optimierungspunkten.</p>
         </div>`
     },
 
@@ -163,14 +148,11 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 2,
         dateUpdated: "März 2026",
         summary: "Was direkte Demokratie in der Schweiz bedeutet: Referenden, Volksinitiativen und Abstimmungen auf Bundes-, Kantons- und Gemeindeebene. Guide für Expats.",
-        relatedSlugs: ["introduccion-suiza-como-funciona", "cantones-suiza"],
-        content: `<div class="page-header">
-            <h1>Direkte Demokratie in der Schweiz: Referendum, Initiative und Abstimmungen</h1>
-        </div>
-        <div class="article-content">
+        relatedSlugs: [],
+        content: `<div class="article-content">
             <h2>Einleitung</h2>
 <p>In der Schweiz wird nicht nur „alle vier Jahre“ gewählt. Es gibt regelmässige Abstimmungen über konkrete Themen.</p>
-<h2>Kontext</h2>
+<h2>Kontext in der Schweiz</h2>
 <p>Abstimmungen finden statt auf:</p>
 <ul>
 <li><strong>Bundesebene</strong></li>
@@ -178,7 +160,7 @@ Object.assign(window.siteContent.de.articles, {
 <li><strong>Gemeindeebene</strong></li>
 <p>oft mit mehreren Vorlagen am gleichen Tag.</p>
 </ul>
-<h2>Detaillierte Erklärung</h2>
+<h2>Häufige Situationen, die Probleme verursachen</h2>
 <h3>Referendum (überblick)</h3>
 <p>Ein Instrument, um eine Entscheidung (oft ein Gesetz) zu bestätigen oder abzulehnen. Je nach Ebene kann es automatisch sein oder durch Unterschriften ausgelöst werden.</p>
 <h3>Volksinitiative (überblick)</h3>
@@ -189,25 +171,22 @@ Object.assign(window.siteContent.de.articles, {
 <li>Offizielle Erklärungen sind häufig gut strukturiert.</li>
 <li>Stimmrechte variieren, aber das Prozessverständnis hilft, Änderungen einzuordnen.</li>
 </ul>
-<h2>Praktische Hinweise</h2>
+<h2>Wie man Bussen oder Konflikte vermeidet</h2>
 <ul>
 <li>Kalender des Kantons/der Gemeinde verfolgen.</li>
 <li>Offizielle Broschüren lesen (Wirkung + Pro/Contra).</li>
 <li>Fokus: „Was ändert sich? ab wann? für wen?“</li>
 </ul>
-<h2>Tipps & Warnungen</h2>
+<h2>Praktische Tipps</h2>
 <ul>
 <li>Nicht nur Social Media: offizielle Dokumente prüfen.</li>
 <li>Meinung vs. tatsächlicher Abstimmungstext trennen.</li>
 </ul>
-<h2>Quellen</h2>
+<h2>Offizielle Quellen</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>admin.ch: <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
 </ul>
-<h2>Fazit</h2>
-<p>Wer die direkte Demokratie versteht, kann Debatten und plötzliche Änderungen besser einordnen: Vieles wird in der Schweiz an der Urne entschieden.</p>
-<p>Links: <code>#/introduccion-suiza-como-funciona</code>, <code>#/cantones-suiza</code></p>
         </div>`
     },
 
@@ -223,15 +202,12 @@ Object.assign(window.siteContent.de.articles, {
         dateUpdated: "März 2026",
         summary: "Praktische Warnungen: Mietbetrug, falsche Bussen/QR, Phishing, Fake-Jobs. Warnzeichen und Vorgehen in der Schweiz.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Häufige Betrugsmaschen gegen Expats in der Schweiz: Warnzeichen und Schutz</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Einleitung</h2>
 <p>Die meisten Betrugsfälle basieren auf <strong>Zeitdruck</strong>. Wer stoppt und verifiziert, senkt das Risiko stark.</p>
-<h2>Kontext</h2>
+<h2>Kontext in der Schweiz</h2>
 <p>Neuankömmlinge sind oft Ziel, weil Wohnung/Job schnell gebraucht werden und Abläufe unbekannt sind.</p>
-<h2>Detaillierte Erklärung</h2>
+<h2>Häufige Situationen, die Probleme verursachen</h2>
 <p>Typische Muster:</p>
 <ul>
 <li>Miete: Vorkasse + “keine Besichtigung möglich”</li>
@@ -246,77 +222,100 @@ Object.assign(window.siteContent.de.articles, {
 <li>Belege sichern</li>
 <li>melden, wenn sinnvoll</li>
 </ol>
-<h2>Praktische Hinweise</h2>
+<h2>Wie man Bussen oder Konflikte vermeidet</h2>
 <ul>
 <li>Absender/Domains prüfen; Logos sind kein Beweis.</li>
 <li>Offizielle Telefonnummern verwenden.</li>
 </ul>
-<h2>Tipps & Warnungen</h2>
+<h2>Praktische Tipps</h2>
 <ul>
 <li>“Heute oder nie” ist ein Warnsignal.</li>
 <li>“Reservieren” gegen Zahlung ohne klaren Vertrag: hohes Risiko.</li>
 </ul>
-<h2>Quellen</h2>
+<h2>Offizielle Quellen</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>fedpol: <a href="https://www.fedpol.admin.ch" target="_blank" rel="noopener noreferrer">https://www.fedpol.admin.ch</a></li>
 </ul>
-<h2>Fazit</h2>
-<p>Sicher ist: ruhig bleiben, offiziell verifizieren, dokumentieren.</p>
         </div>`
     },
 
     "fb-normas-locales-ginebra": {
-        title: "Lokale Regeln in Genf (GE): Alltag, Bussen und praktische Tipps",
-        description: "Praxisguide Genf: Lärm, Parkieren, Abfall, Hausordnung, häufige Bussen und Gewohnheiten, die Probleme vermeiden.",
-        keywords: "genf regeln, busse genf, leben in genf, ge schweiz",
+        title: "Zusammenleben in der Schweiz: Lärm, Abfall, Parkieren und typische Fallstricke",
+        description: "Schweizweiter Leitfaden fürs Zusammenleben: Ruhezeiten, Abfall/Recycling, Parkieren, Hausordnung und typische Missverständnisse. Was vom Kanton, der Gemeinde oder der Hausordnung abhängt.",
+        keywords: "ruhezeiten schweiz, recycling schweiz, parkieren schweiz, hausordnung schweiz, busse schweiz",
         keywordsLocalized: true,
         category: "Leben in der Schweiz",
         hub: "vivir-en-suiza",
         slug: "normas-locales-ginebra",
         readingTime: 2,
         dateUpdated: "März 2026",
-        summary: "Praxisguide Genf: Lärm, Parkieren, Abfall, Hausordnung, häufige Bussen und Gewohnheiten, die Probleme vermeiden.",
-        relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Lokale Regeln in Genf (GE): Alltag, Bussen und praktische Tipps</h1>
-        </div>
-        <div class="article-content">
+        summary: "Schweizweiter Leitfaden fürs Zusammenleben: Ruhezeiten, Abfall/Recycling, Parkieren, Hausordnung und typische Missverständnisse. Was vom Kanton, der Gemeinde oder der Hausordnung abhängt.",
+        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
+        content: `<div class="article-content">
             <h2>Einleitung</h2>
-<p>Genf ist international, aber Regeln zu Nachbarschaft und Ordnung werden durchgesetzt. Grundwissen verhindert unnötige Bussen.</p>
-<h2>Kontext</h2>
-<p>Viele praktische Regeln sind kantonal/gemeindlich: Lärm, Abfall, Parkieren, Hausordnung.</p>
-<h2>Detaillierte Erklärung</h2>
-<p>Typische Konfliktpunkte:</p>
+<p>In der Schweiz sind Regeln oft klar – und werden auch umgesetzt. Viele Probleme von Neuankömmlingen entstehen nicht aus “Strenge”, sondern weil unklar ist, was kantonal, kommunal oder Teil der <strong>Hausordnung</strong> ist.</p>
+<h2>Kontext in der Schweiz</h2>
+<p>Denke in drei Ebenen:</p>
 <ul>
-<li>Lärm (Zeiten, Partys, Heimwerken)</li>
-<li>Parkieren/Verkehr</li>
-<li>Abfall/Recycling</li>
-<li>Hausleben (Waschküche, Gemeinschaftsräume)</li>
+<li><strong>Kanton</strong>: viele praktische Regeln und Details der Durchsetzung variieren je nach Kanton (Lärm, Sanktionen, Verfahren).</li>
+<li><strong>Gemeinde</strong>: regelt den Alltag (Abfall, Sammelstellen, Zeiten, Gebühren).</li>
+<li><strong>Hausordnung</strong> (<em>Hausregeln / Hausordnung</em>): sehr konkrete Regeln (Waschküche, Gemeinschaftsräume, Lärm).</li>
 </ul>
-<p>Sicheres Vorgehen:</p>
+<p>Kernaussage: <strong>Die Basis ist schweizweit, die Details sind lokal</strong>. Wenn du hörst “In der Schweiz ist das so”, frage: “In welchem Kanton? In welcher Gemeinde?”.</p>
+<h2>Häufige Situationen, die Probleme verursachen</h2>
+<h3>1) Lärm und Ruhezeiten</h3>
+<p>In vielen Orten wird nachts Ruhe erwartet (manchmal auch mittags oder am Sonntag). Was variieren kann:</p>
 <ul>
-<li>Hausordnung lesen</li>
-<li>offizielle Quellen nutzen</li>
-<li>bei Busse Fristen beachten und Kopien behalten</li>
+<li>genaue Zeiten (Gemeinde oder Hausordnung)</li>
+<li>Heimwerken/Arbeiten (nur in bestimmten Zeitfenstern)</li>
+<li>Feiern (manchmal mit Vorankündigung toleriert, manchmal nicht)</li>
 </ul>
-<h2>Praktische Hinweise</h2>
+<p>Typisches Missverständnis: “Nur ein Abendessen”. Wenn es im Treppenhaus oder durch Wände hörbar ist, kann es als Störung gelten.</p>
+<h3>2) Abfall und Recycling (oft strenger als erwartet)</h3>
+<p>Abfallentsorgung ist häufig strikt (Sauberkeit, Kosten, Nachverfolgbarkeit). Je nach Ort:</p>
 <ul>
-<li>Kontakte der Verwaltung (Régie) speichern.</li>
-<li>Vertrag + Hausordnung griffbereit halten.</li>
+<li><strong>offizielle Säcke</strong> (Gebühr inklusive) können Pflicht sein</li>
+<li>Abholzeiten und Sammelstellen sind genau definiert</li>
+<li>Recycling ist oft fein getrennt (Papier, Glas, Alu, Bio)</li>
 </ul>
-<h2>Tipps & Warnungen</h2>
+<p>Typisches Missverständnis: Säcke “neben den Container” stellen – das kann als illegaler Müll gelten und zu einer Busse führen.</p>
+<h3>3) Parkieren: blaue Zonen, Parkscheibe, schnelle Bussen</h3>
+<p>Viele Bussen entstehen beim Parkieren:</p>
 <ul>
-<li>Gewohnheiten aus anderen Ländern können hier sanktioniert werden.</li>
-<li>Dokumentieren und formale Wege nutzen.</li>
+<li>blaue Zonen mit korrekt eingestellter <strong>Parkscheibe</strong></li>
+<li>Parkuhren und Zeitlimits</li>
+<li>reservierte Plätze (Lieferzonen, Anwohner, Behindertenparkplätze)</li>
 </ul>
-<h2>Quellen</h2>
+<p>Typisches Missverständnis: “Nur 5 Minuten”. In der Praxis reicht das oft für eine Busse.</p>
+<h3>4) Hausleben: nicht immer “Gesetz”, aber trotzdem verbindlich</h3>
+<p>Viele Konflikte lösen sich über die Hausordnung:</p>
 <ul>
-<li>Kanton Genf: <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer">https://www.ge.ch</a></li>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>Waschküche und Turnus</li>
+<li>Lärm im Treppenhaus/Hof</li>
+<li>Velos, Kinderwagen, Haustiere</li>
+<li>Sauberkeit in Gemeinschaftsbereichen</li>
 </ul>
-<h2>Fazit</h2>
-<p>Mit Regeln + guten Gewohnheiten + Dokumentation wird der Alltag in Genf deutlich entspannter.</p>
+<h2>Wie man Bussen oder Konflikte vermeidet</h2>
+<ol>
+<li><strong>Hausordnung lesen und aufbewahren</strong> (bei Unklarheiten schriftlich nachfragen).</li>
+<li>Auf der offiziellen Website deiner <strong>Gemeinde</strong> die Abfallregeln prüfen (Säcke, Zeiten, Sammelstellen).</li>
+<li>Parkieren “langweilig” machen: Scheibe sichtbar, Ticket korrekt, Grauzonen meiden.</li>
+<li>Bei Briefen/Bussen: <strong>nicht ignorieren</strong>. Fristen beachten und Kopien aufbewahren.</li>
+</ol>
+<h2>Praktische Tipps</h2>
+<ul>
+<li>Einen Ordner anlegen: Mietvertrag, Hausordnung, offizielle Briefe, Quittungen.</li>
+<li>Bei der Verwaltung (<em>Régie</em>) nach den wichtigsten Regeln fragen (Lärm, Waschküche, Abfall).</li>
+<li>Bei Unsicherheit: offizielle Quellen und schriftliche Kommunikation bevorzugen.</li>
+<li>Lokale Beispiele sind nur Beispiele: entscheidend sind <strong>dein</strong> Kanton, <strong>deine</strong> Gemeinde, <strong>dein</strong> Gebäude.</li>
+</ul>
+<h2>Offizielle Quellen</h2>
+<ul>
+<li>Offizielles Portal (Orientierung + Links): <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>Eidgenossenschaft (allgemeiner Rahmen): <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
+<li>Offizielle Portale von Kanton und Gemeinde (je nach Region).</li>
+</ul>
         </div>`
     },
 
@@ -332,21 +331,18 @@ Object.assign(window.siteContent.de.articles, {
         dateUpdated: "März 2026",
         summary: "Praxisguide: Unterschiede L/B/C, Checkliste nach Zuzug, Situationswechsel und häufige Fehler, mit offiziellen Links.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Bewilligungen in der Schweiz (L, B, C): Checkliste, typische Fehler und Praxisfälle</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Einleitung</h2>
 <p>Bewilligungen hängen von Ihrer Situation (Vertrag, Dauer, Familie) ab – nicht nur von einer “Karte”.</p>
-<h2>Kontext</h2>
+<h2>Kontext in der Schweiz</h2>
 <p>Rechtsrahmen ist bundesweit, aber Abläufe variieren je nach Kanton (Fristen, Termine, Formulare).</p>
-<h2>Detaillierte Erklärung</h2>
+<h2>Häufige Situationen, die Probleme verursachen</h2>
 <ul>
 <li><strong>L</strong>: oft kürzere Aufenthalte/Verträge.</li>
 <li><strong>B</strong>: mehrjährige Aufenthalte; Änderungen können relevant sein.</li>
 <li><strong>C</strong>: stabilerer Status nach Jahren; einige Verfahren ändern sich.</li>
 </ul>
-<h2>Praktische Hinweise</h2>
+<h2>Wie man Bussen oder Konflikte vermeidet</h2>
 <p>Checkliste:</p>
 <ol>
 <li>Anmeldung</li>
@@ -354,18 +350,16 @@ Object.assign(window.siteContent.de.articles, {
 <li>Nachweise Adresse/Arbeit</li>
 <li>Dokumente archivieren</li>
 </ol>
-<h2>Tipps & Warnungen</h2>
+<h2>Praktische Tipps</h2>
 <ul>
 <li>Nicht auf die Karte warten.</li>
 <li>Bei Kantonswechsel lokale Verfahren prüfen.</li>
 </ul>
-<h2>Quellen</h2>
+<h2>Offizielle Quellen</h2>
 <ul>
 <li>SEM: <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-<h2>Fazit</h2>
-<p>Planung, Fristen und Nachweise machen Bewilligungen deutlich einfacher.</p>
         </div>`
     },
 
@@ -381,19 +375,16 @@ Object.assign(window.siteContent.de.articles, {
         dateUpdated: "März 2026",
         summary: "Praxisguide (ALV): Anmeldung beim RAV, Arbeitslosenkasse, Fristen, Pflichten, Sanktionen und Dokumentation.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>RAV und Arbeitslosigkeit in der Schweiz: Ablauf, Schritte und Pflichten</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Einleitung</h2>
 <p>Arbeitslosigkeit in der Schweiz ist ein strukturierter Prozess: Fristen, Termine und nachweisbare Stellensuche.</p>
-<h2>Kontext</h2>
+<h2>Kontext in der Schweiz</h2>
 <p>Zwei Stellen:</p>
 <ul>
 <li><strong>RAV</strong>: Betreuung, Termine, Massnahmen.</li>
 <li><strong>Kasse</strong>: prüft Anspruch und zahlt Leistungen.</li>
 </ul>
-<h2>Detaillierte Erklärung</h2>
+<h2>Häufige Situationen, die Probleme verursachen</h2>
 <p>Schritte:</p>
 <ol>
 <li>früh anmelden</li>
@@ -402,17 +393,15 @@ Object.assign(window.siteContent.de.articles, {
 <li>Termine/Fristen einhalten</li>
 </ol>
 <p>Pflichten: nachweisbare Suche, zumutbare Massnahmen, pünktliche Abgabe. Fehler: Fristen verpassen, Nachweise verlieren, kündigen ohne Folgen zu kennen.</p>
-<h2>Praktische Hinweise</h2>
+<h2>Wie man Bussen oder Konflikte vermeidet</h2>
 <p>Bewerbungs-Tracker führen und E-Mails/Screenshots sichern.</p>
-<h2>Tipps & Warnungen</h2>
+<h2>Praktische Tipps</h2>
 <p>In der Schweiz zählen Nachweise: schriftlich reagieren und mit Zeitreserve.</p>
-<h2>Quellen</h2>
+<h2>Offizielle Quellen</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch/de/arbeit/arbeitslosigkeit/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/de/arbeit/arbeitslosigkeit/</a></li>
 <li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
 </ul>
-<h2>Fazit</h2>
-<p>Mit Methode funktioniert es. Ohne Methode verliert man schnell Zeit—und manchmal Geld.</p>
         </div>`
     },
 
@@ -428,44 +417,39 @@ Object.assign(window.siteContent.de.articles, {
         dateUpdated: "März 2026",
         summary: "Praxisguide: Modelle (Standard/Hausarzt/Telmed/HMO), Franchise, Kostenbeteiligung, Wechsel und typische Fehler. Mit offiziellen Quellen.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Krankenversicherung in der Schweiz (LAMal/KVG) wählen: Modell, Franchise und Prämie</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Einleitung</h2>
 <p>Die Grundversicherung ist obligatorisch. Die gesetzlich vorgeschriebenen Leistungen sind gleich; Unterschiede gibt es bei Prämie, Modell und Service.</p>
-<h2>Kontext</h2>
+<h2>Kontext in der Schweiz</h2>
 <p>Drei getrennte Entscheidungen:</p>
 <ol>
 <li>Versicherer (Preis/Service)</li>
 <li>Modell (Standard/Hausarzt/Telmed/HMO)</li>
 <li>Franchise (Selbstbehalt vor Erstattung)</li>
 </ol>
-<h2>Detaillierte Erklärung</h2>
+<h2>Häufige Situationen, die Probleme verursachen</h2>
 <ul>
 <li><strong>Modelle</strong>: Standard (mehr Freiheit), Hausarzt, Telmed, HMO (Netzwerk).</li>
 <li><strong>Franchise + Kostenbeteiligung</strong>: hohe Franchise senkt Prämie, erhöht aber Risiko.</li>
 <li><strong>Wechsel</strong>: meist mit Fristen — Vergleich im Herbst sinnvoll.</li>
 </ul>
-<h2>Praktische Hinweise</h2>
+<h2>Wie man Bussen oder Konflikte vermeidet</h2>
 <ul>
 <li>Wenig Arztbesuche + finanzielles Polster → höhere Franchise kann passen.</li>
 <li>Planbare Kosten → tiefere Franchise reduziert Unsicherheit.</li>
 <li>Unfalldeckung und Zusatzversicherungen separat prüfen.</li>
 </ul>
-<h2>Tipps & Warnungen</h2>
+<h2>Praktische Tipps</h2>
 <ul>
 <li>Nicht nur nach Prämie entscheiden; Modellregeln prüfen.</li>
 <li>Zusatzversicherungen können Gesundheitsfragen enthalten.</li>
 </ul>
-<h2>Quellen</h2>
+<h2>Offizielle Quellen</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>BAG: <a href="https://www.bag.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bag.admin.ch</a></li>
 <li>Priminfo: <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
 </ul>
-<h2>Fazit</h2>
-<p>Gute Wahl = Modell passend + Franchise sinnvoll + jährlicher Vergleich.</p>
         </div>`
     },
 
@@ -480,21 +464,18 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 2,
         dateUpdated: "März 2026",
         summary: "Klarer Leitfaden für Neuankömmlinge: Was der Bund regelt, was je nach Kanton variiert und was die Gemeinde macht. Beispiele + offizielle Quellen.",
-        relatedSlugs: ["cantones-suiza", "impuestos-en-suiza", "registrarse-en-suiza"],
-        content: `<div class="page-header">
-            <h1>Die Schweiz verstehen: Bund, Kantone und Gemeinden</h1>
-        </div>
-        <div class="article-content">
+        relatedSlugs: [],
+        content: `<div class="article-content">
             <h2>Einleitung</h2>
 <p>Viele Startprobleme entstehen, weil man denkt: „Die Schweiz ist überall gleich“. Die Schweiz ist jedoch <strong>föderal und stark dezentralisiert</strong>.</p>
-<h2>Kontext</h2>
+<h2>Kontext in der Schweiz</h2>
 <p>Drei Ebenen sind entscheidend:</p>
 <ul>
 <li><strong>Bund</strong>: Rahmen, nationale Koordination.</li>
 <li><strong>Kanton</strong>: konkrete Regeln und Umsetzung (Steuern, Schule, Verwaltung).</li>
 <li><strong>Gemeinde</strong>: lokale Abläufe und Dienstleistungen (Anmeldung, Abfall, Gebühren).</li>
 </ul>
-<h2>Detaillierte Erklärung</h2>
+<h2>Häufige Situationen, die Probleme verursachen</h2>
 <h3>Oft auf Bundesebene</h3>
 <ul>
 <li>Nationale Orientierung und Grundrahmen.</li>
@@ -512,27 +493,24 @@ Object.assign(window.siteContent.de.articles, {
 <li>Lokale Gebühren und Services.</li>
 <li>Nachbarschaftsregeln (z. B. Lärm) gemäss lokalen Reglementen.</li>
 </ul>
-<h2>Praktische Hinweise</h2>
+<h2>Wie man Bussen oder Konflikte vermeidet</h2>
 <ol>
 <li>Kanton und Gemeinde identifizieren.</li>
 <li>Für Überblick <strong>ch.ch</strong>, danach das <strong>kantonale Portal</strong> prüfen.</li>
 <li>Alles dokumentieren (Briefe, Bestätigungen, E-Mails).</li>
 </ol>
-<h2>Tipps & Warnungen</h2>
+<h2>Praktische Tipps</h2>
 <ul>
 <li>Aussagen wie „In der Schweiz ist das so“ sind ohne <strong>Kanton/Gemeinde</strong> wertlos.</li>
 <li>Bei Bewilligungen, Steuern, Arbeitslosigkeit: offizielle Quellen zuerst.</li>
 </ul>
-<h2>Quellen</h2>
+<h2>Offizielle Quellen</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>admin.ch: <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
 <li>SEM: <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
 <li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
 </ul>
-<h2>Fazit</h2>
-<p>Wer den Föderalismus versteht, findet schneller die richtigen Regeln — und vermeidet teure Fehler.</p>
-<p>Links: <code>#/cantones-suiza</code>, <code>#/impuestos-en-suiza</code>, <code>#/registrarse-en-suiza</code></p>
         </div>`
     },
 
@@ -548,34 +526,29 @@ Object.assign(window.siteContent.de.articles, {
         dateUpdated: "März 2026",
         summary: "Praxisguide: Schweizer CV, Interviews, Lohnverhandlung, Vertrag und typische Fehler für Neuankömmlinge.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Arbeiten in der Schweiz: Jobsuche, Verhandlung und guter Start</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Einleitung</h2>
 <p>In der Schweiz zählen Klarheit und Struktur: Methode, Nachweise und konsequentes Nachfassen.</p>
-<h2>Kontext</h2>
+<h2>Kontext in der Schweiz</h2>
 <p>Strategie hängt von Kantonssprache, Branche und Aufenthaltsstatus ab.</p>
-<h2>Detaillierte Erklärung</h2>
+<h2>Häufige Situationen, die Probleme verursachen</h2>
 <ul>
 <li>Bewerbung: klarer CV, messbare Erfolge, kurze Motivation, Referenzen bereit.</li>
 <li>Interview: pünktlich, konkret, Lohnspanne recherchiert.</li>
 <li>Vertrag: Probezeit, Kündigungsfrist, Stunden, Ferien, 13. Lohn, Unfallversicherung.</li>
 </ul>
-<h2>Praktische Hinweise</h2>
+<h2>Wie man Bussen oder Konflikte vermeidet</h2>
 <p>Checkliste: CV/LinkedIn, Zielrollen, Bewerbungs-Tracker, Kernunterlagen.</p>
-<h2>Tipps & Warnungen</h2>
+<h2>Praktische Tipps</h2>
 <ul>
 <li>Nicht blind “mass bewerben”.</li>
 <li>Zu perfekte Angebote ohne Prozess können Betrug sein.</li>
 </ul>
-<h2>Quellen</h2>
+<h2>Offizielle Quellen</h2>
 <ul>
 <li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-<h2>Fazit</h2>
-<p>Beständigkeit gewinnt: Methode + Nachweise + Follow‑up.</p>
         </div>`
     }
 });

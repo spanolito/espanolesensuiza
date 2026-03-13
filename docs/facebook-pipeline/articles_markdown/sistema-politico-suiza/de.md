@@ -13,13 +13,13 @@ keywords: schweizer föderalismus, kantone schweiz, gemeinde schweiz, politische
 Viele Startprobleme entstehen, weil man denkt: „Die Schweiz ist überall gleich“.
 Die Schweiz ist jedoch **föderal und stark dezentralisiert**.
 
-## Kontext
+## Kontext in der Schweiz
 Drei Ebenen sind entscheidend:
 - **Bund**: Rahmen, nationale Koordination.
 - **Kanton**: konkrete Regeln und Umsetzung (Steuern, Schule, Verwaltung).
 - **Gemeinde**: lokale Abläufe und Dienstleistungen (Anmeldung, Abfall, Gebühren).
 
-## Detaillierte Erklärung
+## Häufige Situationen, die Probleme verursachen
 ### Oft auf Bundesebene
 - Nationale Orientierung und Grundrahmen.
 - Koordination Migration/Arbeitsmarkt (häufig kantonal umgesetzt).
@@ -34,22 +34,17 @@ Drei Ebenen sind entscheidend:
 - Lokale Gebühren und Services.
 - Nachbarschaftsregeln (z. B. Lärm) gemäss lokalen Reglementen.
 
-## Praktische Hinweise
+## Wie man Bussen oder Konflikte vermeidet
 1) Kanton und Gemeinde identifizieren.  
 2) Für Überblick **ch.ch**, danach das **kantonale Portal** prüfen.  
 3) Alles dokumentieren (Briefe, Bestätigungen, E-Mails).
 
-## Tipps & Warnungen
+## Praktische Tipps
 - Aussagen wie „In der Schweiz ist das so“ sind ohne **Kanton/Gemeinde** wertlos.
 - Bei Bewilligungen, Steuern, Arbeitslosigkeit: offizielle Quellen zuerst.
 
-## Quellen
+## Offizielle Quellen
 - ch.ch: https://www.ch.ch
 - admin.ch: https://www.admin.ch
 - SEM: https://www.sem.admin.ch
 - SECO: https://www.seco.admin.ch
-
-## Fazit
-Wer den Föderalismus versteht, findet schneller die richtigen Regeln — und vermeidet teure Fehler.
-
-Links: `#/cantones-suiza`, `#/impuestos-en-suiza`, `#/registrarse-en-suiza`

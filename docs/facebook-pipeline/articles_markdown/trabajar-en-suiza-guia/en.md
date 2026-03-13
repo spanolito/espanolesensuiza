@@ -12,24 +12,21 @@ keywords: work in switzerland, job search switzerland, swiss cv, interview switz
 ## Introduction
 Switzerland rewards clarity: process, documentation and consistent follow‑up.
 
-## Context
+## Context in Switzerland
 Strategy depends on canton language, sector and your residence/permit situation.
 
-## Detailed explanation
+## Common situations that cause problems
 - Applications: clear CV, measurable achievements, short cover letter, references ready.
 - Interviews: punctual, concrete examples, salary range researched.
 - Contract: probation, notice, hours, vacation, 13th salary, accident insurance.
 
-## Practical information
+## How to avoid fines or conflicts
 Checklist: aligned CV/LinkedIn, target roles list, application tracker, core documents.
 
-## Tips or warnings
+## Practical tips
 - Avoid mass-applying; target specific roles.
 - Too-perfect offers without a real process can be scams.
 
-## Sources
+## Official sources
 - SECO: https://www.seco.admin.ch
 - ch.ch: https://www.ch.ch
-
-## Conclusion
-Consistency wins: method + evidence + follow‑up.

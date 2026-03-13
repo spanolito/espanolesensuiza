@@ -12,12 +12,12 @@ keywords: rav suiza, paro suiza, desempleo suiza, alv ac, seguro desempleo suiza
 ## Introducción
 El “paro” en Suiza no es solo cobrar una prestación. Es un proceso con seguimiento, plazos y pruebas de búsqueda de empleo.
 
-## Contexto
+## Contexto en Suiza
 Intervienen dos actores:
 - **RAV**: acompañamiento, citas, medidas de reinserción.
 - **Caja de desempleo**: evalúa el derecho y paga la prestación.
 
-## Explicación detallada
+## Situaciones comunes que generan problemas
 ### Pasos recomendados
 1) Inscríbete lo antes posible (no esperes al último día).  
 2) Elige una caja y reúne documentos (contrato, carta de fin, nóminas, permiso).  
@@ -34,18 +34,13 @@ Intervienen dos actores:
 - no guardar pruebas
 - dimitir sin entender consecuencias (puede haber sanciones)
 
-## Información práctica
+## Cómo evitar multas o conflictos
 - Usa una hoja de seguimiento (fecha, empresa, puesto, evidencia).
 - Guarda emails y capturas.
 
-## Consejos y alertas
+## Consejos prácticos
 Si el RAV o la caja pide algo, responde por escrito y con margen. En Suiza, la documentación “manda”.
 
-## Fuentes
+## Fuentes oficiales
 - ch.ch (desempleo): https://www.ch.ch/es/trabajo/desempleo/
 - SECO: https://www.seco.admin.ch
-
-## Conclusión
-Con método, el sistema funciona. Sin método, lo que se pierde suele ser tiempo… y dinero.
-
-Relacionado: `#/buscar-empleo-suiza`, `#/contratos-de-trabajo-suiza`, `#/seguros-sociales-suiza`

@@ -12,10 +12,10 @@ keywords: betrug schweiz, phishing schweiz, mietbetrug schweiz, scams schweiz
 ## Einleitung
 Die meisten Betrugsfälle basieren auf **Zeitdruck**. Wer stoppt und verifiziert, senkt das Risiko stark.
 
-## Kontext
+## Kontext in der Schweiz
 Neuankömmlinge sind oft Ziel, weil Wohnung/Job schnell gebraucht werden und Abläufe unbekannt sind.
 
-## Detaillierte Erklärung
+## Häufige Situationen, die Probleme verursachen
 Typische Muster:
 - Miete: Vorkasse + “keine Besichtigung möglich”
 - Phishing: SMS/E-Mail im Stil von Banken/Services
@@ -28,17 +28,14 @@ Protokoll:
 3) Belege sichern  
 4) melden, wenn sinnvoll
 
-## Praktische Hinweise
+## Wie man Bussen oder Konflikte vermeidet
 - Absender/Domains prüfen; Logos sind kein Beweis.
 - Offizielle Telefonnummern verwenden.
 
-## Tipps & Warnungen
+## Praktische Tipps
 - “Heute oder nie” ist ein Warnsignal.
 - “Reservieren” gegen Zahlung ohne klaren Vertrag: hohes Risiko.
 
-## Quellen
+## Offizielle Quellen
 - ch.ch: https://www.ch.ch
 - fedpol: https://www.fedpol.admin.ch
-
-## Fazit
-Sicher ist: ruhig bleiben, offiziell verifizieren, dokumentieren.

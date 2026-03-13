@@ -12,10 +12,10 @@ keywords: vivir en suiza consejos, vida diaria suiza, recien llegado suiza
 ## Introducción
 No necesitas “saberlo todo”. Con buenas rutinas evitas la mayoría de problemas típicos del primer año.
 
-## Contexto
+## Contexto en Suiza
 Suiza funciona con normas claras, plazos y documentación. El día a día mejora cuando adoptas esos hábitos.
 
-## Explicación detallada
+## Situaciones comunes que generan problemas
 ### 25 hábitos útiles
 1) Guarda cartas oficiales (y escanéalas).  
 2) Usa calendario para plazos (seguro, impuestos, citas).  
@@ -43,14 +43,11 @@ Suiza funciona con normas claras, plazos y documentación. El día a día mejora
 24) Mantén tus datos actualizados (domicilio, etc.).  
 25) Sé constante: Suiza premia la regularidad.
 
-## Información práctica
+## Cómo evitar multas o conflictos
 Convierte esta lista en una checklist y marca lo que ya tienes listo.
 
-## Consejos y alertas
+## Consejos prácticos
 El mejor consejo transversal: **menos improvisación, más proceso**.
 
-## Fuentes
+## Fuentes oficiales
 - ch.ch: https://www.ch.ch
-
-## Conclusión
-Con rutinas simples, la vida en Suiza se vuelve más ligera. Lo importante es la consistencia.

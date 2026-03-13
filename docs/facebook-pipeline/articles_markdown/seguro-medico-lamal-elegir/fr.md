@@ -12,30 +12,27 @@ keywords: lamal suisse, assurance maladie suisse, franchise suisse, prime suisse
 ## Introduction
 L’assurance de base (LAMal/KVG) est obligatoire. Les prestations obligatoires sont identiques entre assureurs ; ce qui change surtout : la prime, le modèle et le service.
 
-## Contexte
+## Contexte en Suisse
 Trois décisions séparées :
 1) assureur (prix/service)  
 2) modèle (standard / médecin de famille / telmed / HMO)  
 3) franchise (montant à payer avant remboursement)
 
-## Explication détaillée
+## Situations fréquentes qui créent des problèmes
 - **Modèles** : standard (plus de liberté), médecin de famille, telmed, HMO (réseau/centre).
 - **Franchise + quote-part** : franchise plus haute = prime plus basse mais plus de risque.
 - **Changement** : généralement à planifier avec des délais (comparaison en automne).
 
-## Infos pratiques
+## Comment éviter des amendes ou des conflits
 - Peu de soins + marge financière → franchise plus haute possible.
 - Coûts prévisibles → franchise plus basse pour limiter l’incertitude.
 - Assurance accident et complémentaires sont des sujets séparés.
 
-## Conseils & alertes
+## Conseils pratiques
 - Ne choisissez pas uniquement la prime : vérifiez les règles du modèle.
 - Les complémentaires peuvent exiger un questionnaire santé.
 
-## Sources
+## Sources officielles
 - ch.ch : https://www.ch.ch
 - OFSP (BAG) : https://www.bag.admin.ch
 - Priminfo : https://www.priminfo.admin.ch
-
-## Conclusion
-Bien choisir LAMal = équilibre entre risque, habitudes et budget, avec une révision annuelle.

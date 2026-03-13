@@ -12,12 +12,12 @@ keywords: rav suisse, chômage suisse, alv ac, assurance chômage suisse
 ## Introduction
 Le chômage en Suisse est un processus encadré : délais, rendez-vous et preuves de recherche d’emploi.
 
-## Contexte
+## Contexte en Suisse
 Deux acteurs :
 - **RAV** : suivi, rendez-vous, mesures.
 - **Caisse** : vérifie le droit et verse l’indemnité.
 
-## Explication détaillée
+## Situations fréquentes qui créent des problèmes
 Démarches :
 1) s’inscrire rapidement  
 2) choisir une caisse + documents  
@@ -27,15 +27,12 @@ Démarches :
 Obligations : recherche prouvable, démarches raisonnables, papiers à temps.
 Erreurs : délais manqués, preuves perdues, démission sans mesurer l’impact.
 
-## Infos pratiques
+## Comment éviter des amendes ou des conflits
 Suivi des candidatures + conservation emails/captures.
 
-## Conseils & alertes
+## Conseils pratiques
 En Suisse, les preuves comptent : répondre par écrit et avec marge.
 
-## Sources
+## Sources officielles
 - ch.ch : https://www.ch.ch/fr/travail/chomage/
 - SECO : https://www.seco.admin.ch
-
-## Conclusion
-Avec méthode, ça marche. Sans méthode, on perd vite du temps… et parfois de l’argent.

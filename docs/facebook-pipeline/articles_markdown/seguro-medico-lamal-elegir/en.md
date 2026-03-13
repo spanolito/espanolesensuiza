@@ -12,30 +12,27 @@ keywords: lamal switzerland, swiss health insurance, deductible switzerland, pre
 ## Introduction
 The basic mandatory insurance (LAMal/KVG) covers the same legally required benefits across insurers. What changes is the price, the care model and service quality.
 
-## Context
+## Context in Switzerland
 Split the choice into three decisions:
 1) insurer (price/service)  
 2) model (standard vs GP vs telmed vs HMO)  
 3) deductible (how much you pay before reimbursements)
 
-## Detailed explanation
+## Common situations that cause problems
 - **Models**: standard (more freedom), GP, telmed, HMO (network).
 - **Deductible + cost sharing**: higher deductible lowers premium but increases out‑of‑pocket risk.
 - **Switching**: typically planned ahead with deadlines (compare in autumn).
 
-## Practical information
+## How to avoid fines or conflicts
 - Low usage + financial buffer → higher deductible may fit.
 - Predictable costs → lower deductible can reduce uncertainty.
 - Accident coverage and complementary insurance are separate topics.
 
-## Tips or warnings
+## Practical tips
 - Don’t choose only by premium; verify the model rules fit your habits.
 - Complementary insurance may require health questionnaires.
 
-## Sources
+## Official sources
 - ch.ch: https://www.ch.ch
 - FOPH (BAG): https://www.bag.admin.ch
 - Priminfo (official comparator): https://www.priminfo.admin.ch
-
-## Conclusion
-A good LAMal choice balances risk, habits and budget: pick the right model, a coherent deductible, and review yearly.

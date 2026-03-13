@@ -12,10 +12,10 @@ keywords: scams switzerland, fraud switzerland, phishing switzerland, rental sca
 ## Introduction
 Most scams are not “advanced tech”—they rely on **urgency**. If you slow down and verify, you reduce risk massively.
 
-## Context
+## Context in Switzerland
 Newcomers are targeted because they need housing/work fast and may not know local verification steps.
 
-## Detailed explanation
+## Common situations that cause problems
 Typical patterns:
 - rental: upfront payment + “no visit possible”
 - phishing: SMS/email imitating banks/services
@@ -28,17 +28,14 @@ Simple protocol:
 3) keep evidence  
 4) report to the affected institution/police when appropriate
 
-## Practical information
+## How to avoid fines or conflicts
 - Verify domains and senders; logos prove nothing.
 - Use official phone numbers (not the ones in the message).
 
-## Tips or warnings
+## Practical tips
 - “Today or never” pressure is a red flag.
 - Payments to “reserve” without a verifiable contract are risky.
 
-## Sources
+## Official sources
 - ch.ch: https://www.ch.ch
 - fedpol: https://www.fedpol.admin.ch
-
-## Conclusion
-In Switzerland, safe verification is calm and official-channel based. Urgency is the enemy.

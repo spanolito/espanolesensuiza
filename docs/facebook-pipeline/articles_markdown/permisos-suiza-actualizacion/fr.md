@@ -12,28 +12,25 @@ keywords: permis l suisse, permis b suisse, permis c suisse, permis suisse
 ## Introduction
 Le permis dépend de votre situation (contrat, durée, famille) dans un cadre légal. Ce n’est pas qu’une “carte”.
 
-## Contexte
+## Contexte en Suisse
 Le cadre est fédéral, mais la procédure pratique varie selon le canton (délais, rendez-vous, formulaires).
 
-## Explication détaillée
+## Situations fréquentes qui créent des problèmes
 - **L** : souvent lié à des séjours/contrats courts.
 - **B** : résidence sur plusieurs années ; attention aux changements selon le cas.
 - **C** : statut plus stable après plusieurs années ; certaines démarches changent.
 
-## Infos pratiques
+## Comment éviter des amendes ou des conflits
 Checklist :
 1) inscription à la commune  
 2) assurance maladie dans les délais  
 3) preuves domicile/emploi  
 4) archivage des documents
 
-## Conseils & alertes
+## Conseils pratiques
 - Ne pas attendre la carte pour avancer.
 - En cas de déménagement, vérifier les règles locales.
 
-## Sources
+## Sources officielles
 - SEM : https://www.sem.admin.ch
 - ch.ch : https://www.ch.ch
-
-## Conclusion
-Anticipation + délais + preuves : la combinaison qui évite les blocages.

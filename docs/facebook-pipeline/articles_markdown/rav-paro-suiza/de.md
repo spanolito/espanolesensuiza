@@ -12,12 +12,12 @@ keywords: rav schweiz, arbeitslosigkeit schweiz, alv, arbeitslosenversicherung s
 ## Einleitung
 Arbeitslosigkeit in der Schweiz ist ein strukturierter Prozess: Fristen, Termine und nachweisbare Stellensuche.
 
-## Kontext
+## Kontext in der Schweiz
 Zwei Stellen:
 - **RAV**: Betreuung, Termine, Massnahmen.
 - **Kasse**: prüft Anspruch und zahlt Leistungen.
 
-## Detaillierte Erklärung
+## Häufige Situationen, die Probleme verursachen
 Schritte:
 1) früh anmelden  
 2) Kasse wählen + Unterlagen sammeln  
@@ -27,15 +27,12 @@ Schritte:
 Pflichten: nachweisbare Suche, zumutbare Massnahmen, pünktliche Abgabe.
 Fehler: Fristen verpassen, Nachweise verlieren, kündigen ohne Folgen zu kennen.
 
-## Praktische Hinweise
+## Wie man Bussen oder Konflikte vermeidet
 Bewerbungs-Tracker führen und E-Mails/Screenshots sichern.
 
-## Tipps & Warnungen
+## Praktische Tipps
 In der Schweiz zählen Nachweise: schriftlich reagieren und mit Zeitreserve.
 
-## Quellen
+## Offizielle Quellen
 - ch.ch: https://www.ch.ch/de/arbeit/arbeitslosigkeit/
 - SECO: https://www.seco.admin.ch
-
-## Fazit
-Mit Methode funktioniert es. Ohne Methode verliert man schnell Zeit—und manchmal Geld.

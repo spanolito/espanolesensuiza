@@ -12,13 +12,13 @@ keywords: estafas suiza, fraudes suiza, phishing suiza, estafa alquiler suiza, m
 ## Introducción
 La mayoría de estafas no se basan en “tecnología”, sino en una cosa: **urgencia**. Si aprendes a frenar y verificar, reduces el riesgo de forma drástica.
 
-## Contexto
+## Contexto en Suiza
 Recién llegados son un objetivo típico porque:
 - necesitan vivienda y trabajo rápido
 - no conocen procedimientos locales
 - no saben cómo verificar documentos y pagos
 
-## Explicación detallada
+## Situaciones comunes que generan problemas
 ### Estafas frecuentes (patrones)
 - **Alquiler**: pago por adelantado + “no se puede visitar”.
 - **Phishing**: SMS/email que imita bancos o servicios con enlaces.
@@ -31,17 +31,14 @@ Recién llegados son un objetivo típico porque:
 3) Guardar pruebas (capturas, emails).  
 4) Reportar si procede (policía, entidad afectada).
 
-## Información práctica
+## Cómo evitar multas o conflictos
 - Verifica dominios y remitentes; no confíes en “logos”.
 - Usa números oficiales (no los del mensaje).
 
-## Consejos y alertas
+## Consejos prácticos
 - Si te presionan con “hoy o nunca”, es mala señal.
 - Si te piden pago por “reservar” sin contrato verificable, sal.
 
-## Fuentes
+## Fuentes oficiales
 - ch.ch: https://www.ch.ch
 - Fedpol (seguridad, según campaña): https://www.fedpol.admin.ch
-
-## Conclusión
-En Suiza, la verificación se hace con calma y con canales oficiales. La urgencia es el enemigo.

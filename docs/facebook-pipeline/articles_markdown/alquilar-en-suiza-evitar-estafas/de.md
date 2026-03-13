@@ -12,25 +12,22 @@ keywords: wohnung mieten schweiz, kaution schweiz, mietbetrug schweiz, mietdossi
 ## Einleitung
 Mieten in der Schweiz ist dokumentenlastig. Mit der richtigen Vorgehensweise schützt Sie das auch vor Betrug.
 
-## Kontext
+## Kontext in der Schweiz
 Häufige Probleme: schwaches Dossier und Betrug durch Zeitdruck.
 
-## Detaillierte Erklärung
+## Häufige Situationen, die Probleme verursachen
 - Ablauf: Suche → Besichtigung → Bewerbung → Auswahl → Vertrag → Schlüssel.
 - Dossier: Ausweis/Bewilligung, Einkommensnachweis, Betreibungsregisterauszug (falls vorhanden), kurze Vorstellung.
 - Kaution/Depot: nur mit klarer, nachvollziehbarer Abwicklung.
 - Betrugszeichen: Vorkasse ohne verifizierbaren Vertrag, keine Besichtigung, Druck, widersprüchliche Zahlungsdetails.
 
-## Praktische Hinweise
+## Wie man Bussen oder Konflikte vermeidet
 - Bewerbungen tracken, Belege sichern.
 - Nie Geld überweisen ohne Vertrag + Verifikation.
 
-## Tipps & Warnungen
+## Praktische Tipps
 - Zeitdruck ist ein Warnsignal.
 - Wenn etwas nicht stimmt: weiter suchen.
 
-## Quellen
+## Offizielle Quellen
 - ch.ch: https://www.ch.ch
-
-## Fazit
-Starkes Dossier + Verifikation senkt das Betrugsrisiko massiv.

@@ -12,7 +12,7 @@ keywords: democracia directa suiza, referéndum suiza, iniciativa suiza, votacio
 ## Introducción
 Suiza no solo vota “cada cuatro años”. La ciudadanía participa con frecuencia mediante **votaciones** a distintos niveles.
 
-## Contexto
+## Contexto en Suiza
 Hay votaciones:
 - **Federales**
 - **Cantonales**
@@ -20,7 +20,7 @@ Hay votaciones:
 
 Y suelen convivir varios temas el mismo día.
 
-## Explicación detallada
+## Situaciones comunes que generan problemas
 ### Referéndum (idea general)
 Es un mecanismo para **confirmar o rechazar** una decisión normativa. En Suiza, según el tipo de norma, puede ser obligatorio o activarse por recogida de firmas (los detalles dependen del nivel).
 
@@ -32,20 +32,15 @@ Permite proponer un cambio: en la práctica abre un proceso político y termina 
 - El debate suele ser técnico y con material explicativo oficial.
 - No todo el mundo puede votar (depende de nacionalidad, nivel y reglas locales), pero **conviene entenderlo**.
 
-## Información práctica
+## Cómo evitar multas o conflictos
 - Sigue el calendario de votaciones de tu cantón/comuna.
 - Lee el folleto oficial (suele explicar argumentos a favor/en contra).
 - Si un tema te afecta (p. ej. transporte), revisa qué cambia exactamente y desde cuándo.
 
-## Consejos y alertas
+## Consejos prácticos
 - Evita informarte solo por redes: contrasta con el documento oficial.
 - Distingue: “opinión” vs “texto legal que se vota”.
 
-## Fuentes
+## Fuentes oficiales
 - Portal suizo: https://www.ch.ch
 - Confederación: https://www.admin.ch
-
-## Conclusión
-Entender la democracia directa te ayuda a interpretar noticias, cambios y debates que aparecen “de repente”. En Suiza, muchas cosas cambian por votación.
-
-Relacionado: `#/introduccion-suiza-como-funciona`, `#/cantones-suiza`

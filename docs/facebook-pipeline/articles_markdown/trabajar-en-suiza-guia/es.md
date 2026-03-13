@@ -12,28 +12,25 @@ keywords: trabajar en suiza, buscar empleo suiza, cv suizo, entrevista suiza, co
 ## Introducción
 Suiza recompensa la claridad: proceso, documentación y seguimiento. Con eso, la probabilidad de éxito sube.
 
-## Contexto
+## Contexto en Suiza
 La búsqueda cambia por cantón (idioma), sector y tu situación de residencia/permisos.
 
-## Explicación detallada
+## Situaciones comunes que generan problemas
 - **Candidaturas**: CV claro, logros medibles, carta breve, referencias listas.
 - **Entrevistas**: puntualidad, ejemplos concretos, rango salarial investigado.
 - **Contrato**: periodo de prueba, preaviso, horas, vacaciones, 13º sueldo, seguro de accidentes.
 
-## Información práctica
+## Cómo evitar multas o conflictos
 Checklist:
 1) CV + LinkedIn coherentes.  
 2) Lista de roles/empresas objetivo.  
 3) Seguimiento de candidaturas.  
 4) Documentos (títulos, certificados).
 
-## Consejos y alertas
+## Consejos prácticos
 - Evita el “spam” de CV: apunta a puestos concretos.
 - Ofertas perfectas sin proceso real: posible estafa.
 
-## Fuentes
+## Fuentes oficiales
 - SECO: https://www.seco.admin.ch
 - ch.ch: https://www.ch.ch
-
-## Conclusión
-En Suiza, la consistencia vale oro: método + pruebas + seguimiento.

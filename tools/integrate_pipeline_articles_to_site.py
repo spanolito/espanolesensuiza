@@ -64,10 +64,11 @@ def extract_related_slugs(md_body: str) -> tuple[list[str], str]:
         if s and s not in unique:
             unique.append(s)
 
-    # Remove "Relacionado:" lines from the rendered body to avoid awkward raw lists.
+    # Remove "related links" lines from the rendered body to avoid awkward raw lists.
+    related_line = re.compile(r"(?i)^\s*(\*\*)?\s*(Relacionado|Related|Liens utiles|Weiterlesen)\b.*$")
     cleaned_lines: list[str] = []
     for line in md_body.splitlines():
-        if re.search(r"\bRelacionado\b\s*:", line, flags=re.I):
+        if related_line.match(line.strip()):
             continue
         cleaned_lines.append(line)
     return unique, "\n".join(cleaned_lines).lstrip()
@@ -245,9 +246,6 @@ def load_article(md_path: Path) -> Article:
 
     html_body = md_to_html(body)
     content_html = f"""
-        <div class="page-header">
-            <h1>{inline_format(title)}</h1>
-        </div>
         <div class="article-content">
             {html_body}
         </div>

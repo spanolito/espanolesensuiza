@@ -12,10 +12,10 @@ keywords: cost of living switzerland, budget switzerland, rent switzerland, heal
 ## Introduction
 Switzerland is expensive, but it becomes manageable when your budget is realistic and structured.
 
-## Context
+## Context in Switzerland
 Main variables: canton/city (rent + insurance premiums), family situation, transport needs and habits.
 
-## Detailed explanation
+## Common situations that cause problems
 Biggest budget drivers:
 1) rent + utilities (plus initial deposits)  
 2) health insurance premiums + deductible  
@@ -25,18 +25,15 @@ Biggest budget drivers:
 
 Typical “hidden” costs: moving, furniture, liability insurance, mobile/internet, municipal fees, upfront payments.
 
-## Practical information
+## How to avoid fines or conflicts
 - Build a baseline budget: housing + health + basic transport.
 - Keep a buffer for the first month (deposits and surprises).
 - Compare within similar regions; Zurich ≠ small-town budgets.
 
-## Tips or warnings
+## Practical tips
 - Don’t plan with gross salary; focus on net and withholdings.
 - Avoid locking in high fixed costs too early.
 
-## Sources
+## Official sources
 - ch.ch: https://www.ch.ch
 - BFS: https://www.bfs.admin.ch
-
-## Conclusion
-A good budget turns “it’s expensive” into a concrete plan: what you pay, when, and where you can optimize.

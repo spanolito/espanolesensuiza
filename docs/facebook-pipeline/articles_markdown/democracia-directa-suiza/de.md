@@ -12,14 +12,14 @@ keywords: direkte demokratie schweiz, referendum schweiz, volksinitiative schwei
 ## Einleitung
 In der Schweiz wird nicht nur „alle vier Jahre“ gewählt. Es gibt regelmässige Abstimmungen über konkrete Themen.
 
-## Kontext
+## Kontext in der Schweiz
 Abstimmungen finden statt auf:
 - **Bundesebene**
 - **Kantonsebene**
 - **Gemeindeebene**
 oft mit mehreren Vorlagen am gleichen Tag.
 
-## Detaillierte Erklärung
+## Häufige Situationen, die Probleme verursachen
 ### Referendum (überblick)
 Ein Instrument, um eine Entscheidung (oft ein Gesetz) zu bestätigen oder abzulehnen. Je nach Ebene kann es automatisch sein oder durch Unterschriften ausgelöst werden.
 
@@ -31,20 +31,15 @@ Ein Weg, Änderungen vorzuschlagen. Wenn formale Voraussetzungen erfüllt sind, 
 - Offizielle Erklärungen sind häufig gut strukturiert.
 - Stimmrechte variieren, aber das Prozessverständnis hilft, Änderungen einzuordnen.
 
-## Praktische Hinweise
+## Wie man Bussen oder Konflikte vermeidet
 - Kalender des Kantons/der Gemeinde verfolgen.
 - Offizielle Broschüren lesen (Wirkung + Pro/Contra).
 - Fokus: „Was ändert sich? ab wann? für wen?“
 
-## Tipps & Warnungen
+## Praktische Tipps
 - Nicht nur Social Media: offizielle Dokumente prüfen.
 - Meinung vs. tatsächlicher Abstimmungstext trennen.
 
-## Quellen
+## Offizielle Quellen
 - ch.ch: https://www.ch.ch
 - admin.ch: https://www.admin.ch
-
-## Fazit
-Wer die direkte Demokratie versteht, kann Debatten und plötzliche Änderungen besser einordnen: Vieles wird in der Schweiz an der Urne entschieden.
-
-Links: `#/introduccion-suiza-como-funciona`, `#/cantones-suiza`

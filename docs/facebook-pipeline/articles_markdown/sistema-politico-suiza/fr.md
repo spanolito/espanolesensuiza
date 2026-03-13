@@ -13,13 +13,13 @@ keywords: système politique suisse, fédéralisme suisse, cantons suisse, commu
 Beaucoup d’erreurs au début viennent d’une idée simple : « la Suisse fonctionne pareil partout ».
 En réalité, la Suisse est **fédérale et très décentralisée**.
 
-## Contexte
+## Contexte en Suisse
 Au quotidien, trois niveaux comptent :
 - **Confédération** : cadre général, coordination nationale.
 - **Canton** : règles concrètes et mise en œuvre (impôts, école, administration).
 - **Commune** : démarches locales (inscription, déchets, taxes et services).
 
-## Explication détaillée
+## Situations fréquentes qui créent des problèmes
 ### Ce qui est souvent fédéral
 - Cadre et portails nationaux.
 - Coordination migration / marché du travail (souvent exécutée au niveau cantonal).
@@ -34,22 +34,17 @@ Au quotidien, trois niveaux comptent :
 - Services locaux (poubelles, taxes).
 - Règles de voisinage (bruit, horaires) selon règlements locaux.
 
-## Infos pratiques
+## Comment éviter des amendes ou des conflits
 1) Identifiez votre canton et votre commune.  
 2) Utilisez **ch.ch** pour vous orienter, puis vérifiez le **portail officiel cantonal**.  
 3) Conservez des preuves (courriers, confirmations, emails).
 
-## Conseils & alertes
+## Conseils pratiques
 - « En Suisse, c’est comme ça » n’a de sens qu’avec **canton + commune**.
 - Pour permis, impôts, chômage : priorité aux sources officielles.
 
-## Sources
+## Sources officielles
 - ch.ch : https://www.ch.ch
 - admin.ch : https://www.admin.ch
 - SEM : https://www.sem.admin.ch
 - SECO : https://www.seco.admin.ch
-
-## Conclusion
-Comprendre le fédéralisme suisse vous fait gagner du temps : vous saurez où chercher la règle correcte.
-
-Liens : `#/cantones-suiza`, `#/impuestos-en-suiza`, `#/registrarse-en-suiza`

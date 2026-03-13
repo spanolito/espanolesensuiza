@@ -12,13 +12,13 @@ keywords: costo de vida suiza, vivir en suiza, alquiler suiza, seguro medico sui
 ## Introducción
 El coste de vida en Suiza no es solo “caro”. Es **previsible** si haces un presupuesto correcto desde el inicio.
 
-## Contexto
+## Contexto en Suiza
 Tus grandes variables son:
 - cantón/ciudad (alquiler y primas LAMal)
 - situación familiar
 - transporte (abonos) y hábitos
 
-## Explicación detallada
+## Situaciones comunes que generan problemas
 ### Las 5 partidas que más mueven el presupuesto
 1) **Alquiler + gastos** (y depósito/fianza inicial)  
 2) **Seguro médico** (primas + franquicia)  
@@ -32,20 +32,15 @@ Tus grandes variables son:
 - tasas comunales (según lugar)
 - adelantos (depósitos, primeras facturas)
 
-## Información práctica
+## Cómo evitar multas o conflictos
 - Empieza por “mínimo seguro”: vivienda + salud + transporte básico.
 - Reserva un colchón para el primer mes (depósitos y sorpresas).
 - Ajusta por cantón: no tiene sentido comparar Zúrich y una ciudad pequeña igual.
 
-## Consejos y alertas
+## Consejos prácticos
 - No calcules solo con el salario bruto: mira el neto y retenciones.
 - Si eres recién llegado, evita comprometerte con gastos fijos demasiado altos al principio.
 
-## Fuentes
+## Fuentes oficiales
 - ch.ch: https://www.ch.ch
 - Estadística (BFS): https://www.bfs.admin.ch
-
-## Conclusión
-Un presupuesto realista convierte “Suiza es cara” en una lista concreta: qué pagas, cuándo y cómo optimizarlo.
-
-Relacionado: `#/costo-de-vida-suiza`, `#/transporte-publico-suiza`, `#/seguro-medico-lamal-suiza`

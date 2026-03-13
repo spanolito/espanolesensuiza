@@ -12,10 +12,10 @@ keywords: arnaques suisse, fraude suisse, phishing suisse, arnaque location suis
 ## Introduction
 La plupart des arnaques reposent sur l’**urgence**. Si vous ralentissez et vérifiez, le risque chute.
 
-## Contexte
+## Contexte en Suisse
 Les nouveaux arrivants sont ciblés (logement/emploi rapides, procédures inconnues).
 
-## Explication détaillée
+## Situations fréquentes qui créent des problèmes
 Schémas fréquents :
 - location : paiement avant visite/contrat vérifiable
 - phishing : SMS/email imitant banque/service
@@ -28,17 +28,14 @@ Protocole :
 3) conserver les preuves  
 4) signaler si nécessaire
 
-## Infos pratiques
+## Comment éviter des amendes ou des conflits
 - Vérifier le domaine et l’expéditeur.
 - Utiliser les numéros officiels (pas ceux du message).
 
-## Conseils & alertes
+## Conseils pratiques
 - “Aujourd’hui ou jamais” = signal d’alarme.
 - “Réserver” contre paiement sans contrat clair = risque élevé.
 
-## Sources
+## Sources officielles
 - ch.ch : https://www.ch.ch
 - fedpol : https://www.fedpol.admin.ch
-
-## Conclusion
-La vérification doit être calme et basée sur des canaux officiels. L’urgence est l’ennemie.

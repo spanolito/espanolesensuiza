@@ -12,24 +12,21 @@ keywords: arbeiten in der schweiz, jobsuche schweiz, lebenslauf schweiz, intervi
 ## Einleitung
 In der Schweiz zählen Klarheit und Struktur: Methode, Nachweise und konsequentes Nachfassen.
 
-## Kontext
+## Kontext in der Schweiz
 Strategie hängt von Kantonssprache, Branche und Aufenthaltsstatus ab.
 
-## Detaillierte Erklärung
+## Häufige Situationen, die Probleme verursachen
 - Bewerbung: klarer CV, messbare Erfolge, kurze Motivation, Referenzen bereit.
 - Interview: pünktlich, konkret, Lohnspanne recherchiert.
 - Vertrag: Probezeit, Kündigungsfrist, Stunden, Ferien, 13. Lohn, Unfallversicherung.
 
-## Praktische Hinweise
+## Wie man Bussen oder Konflikte vermeidet
 Checkliste: CV/LinkedIn, Zielrollen, Bewerbungs-Tracker, Kernunterlagen.
 
-## Tipps & Warnungen
+## Praktische Tipps
 - Nicht blind “mass bewerben”.
 - Zu perfekte Angebote ohne Prozess können Betrug sein.
 
-## Quellen
+## Offizielle Quellen
 - SECO: https://www.seco.admin.ch
 - ch.ch: https://www.ch.ch
-
-## Fazit
-Beständigkeit gewinnt: Methode + Nachweise + Follow‑up.

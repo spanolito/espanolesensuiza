@@ -19,20 +19,17 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Guía para alquilar piso en Suiza: cómo preparar el dossier, contrato, fianza/depósito y señales de estafa (alquiler). Consejos para recién llegados.",
-        relatedSlugs: ["alquilar-vivienda-suiza", "fianzas-alquiler-suiza"],
-        content: `<div class="page-header">
-            <h1>Alquilar en Suiza: pasos, dossier, fianza y cómo evitar estafas</h1>
-        </div>
-        <div class="article-content">
+        relatedSlugs: [],
+        content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>El alquiler en Suiza funciona con mucha documentación. Eso protege al propietario… y también puede protegerte a ti si sabes qué pedir.</p>
-<h2>Contexto</h2>
+<h2>Contexto en Suiza</h2>
 <p>Los dos problemas típicos del recién llegado:</p>
 <ul>
 <li>no tener “dossier” convincente</li>
 <li>caer en estafas por prisa o desconocimiento</li>
 </ul>
-<h2>Explicación detallada</h2>
+<h2>Situaciones comunes que generan problemas</h2>
 <h3>Paso a paso (visión realista)</h3>
 <ol>
 <li>Buscar (portales, agencias, anuncios).</li>
@@ -55,24 +52,22 @@ Object.assign(window.siteContent.es.articles, {
 <li>“no se puede visitar” y hay presión por pagar hoy</li>
 <li>comunicación rara, cuentas en el extranjero, excusas inconsistentes</li>
 </ul>
-<h2>Información práctica</h2>
+<h2>Cómo evitar multas o conflictos</h2>
 <ul>
 <li>Lleva un Excel/tabla de candidaturas.</li>
 <li>Guarda capturas y emails del anuncio.</li>
 <li>Si dudas, pide contrato y datos verificables antes de transferir.</li>
 </ul>
-<h2>Consejos y alertas</h2>
+<h2>Consejos prácticos</h2>
 <ul>
 <li>En Suiza, la prisa es el enemigo: verifica.</li>
 <li>Si algo no cuadra, pasa al siguiente anuncio.</li>
 </ul>
-<h2>Fuentes</h2>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>ch.ch (vivienda): <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>Asociaciones de inquilinos (según cantón; p. ej. ASLOCA en Romandía).</li>
 </ul>
-<h2>Conclusión</h2>
-<p>Con dossier sólido + verificación, alquilar es un proceso repetible. Sin eso, el riesgo de estafa sube.</p>
         </div>`
     },
 
@@ -88,15 +83,12 @@ Object.assign(window.siteContent.es.articles, {
         dateUpdated: "Marzo 2026",
         summary: "Consejos prácticos para tu día a día en Suiza: administración, vecinos, compras, transporte, salud y hábitos que evitan problemas.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Vida diaria en Suiza: 25 consejos prácticos para recién llegados</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>No necesitas “saberlo todo”. Con buenas rutinas evitas la mayoría de problemas típicos del primer año.</p>
-<h2>Contexto</h2>
+<h2>Contexto en Suiza</h2>
 <p>Suiza funciona con normas claras, plazos y documentación. El día a día mejora cuando adoptas esos hábitos.</p>
-<h2>Explicación detallada</h2>
+<h2>Situaciones comunes que generan problemas</h2>
 <h3>25 hábitos útiles</h3>
 <ol>
 <li>Guarda cartas oficiales (y escanéalas).</li>
@@ -125,16 +117,14 @@ Object.assign(window.siteContent.es.articles, {
 <li>Mantén tus datos actualizados (domicilio, etc.).</li>
 <li>Sé constante: Suiza premia la regularidad.</li>
 </ol>
-<h2>Información práctica</h2>
+<h2>Cómo evitar multas o conflictos</h2>
 <p>Convierte esta lista en una checklist y marca lo que ya tienes listo.</p>
-<h2>Consejos y alertas</h2>
+<h2>Consejos prácticos</h2>
 <p>El mejor consejo transversal: <strong>menos improvisación, más proceso</strong>.</p>
-<h2>Fuentes</h2>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-<h2>Conclusión</h2>
-<p>Con rutinas simples, la vida en Suiza se vuelve más ligera. Lo importante es la consistencia.</p>
         </div>`
     },
 
@@ -149,21 +139,18 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Cómo estimar tu coste de vida en Suiza: alquiler, seguro médico, impuestos, transporte y “gastos invisibles”. Ejemplos por cantón y consejos.",
-        relatedSlugs: ["costo-de-vida-suiza", "transporte-publico-suiza", "seguro-medico-lamal-suiza"],
-        content: `<div class="page-header">
-            <h1>Costo de vida en Suiza: presupuesto realista y gastos invisibles</h1>
-        </div>
-        <div class="article-content">
+        relatedSlugs: [],
+        content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>El coste de vida en Suiza no es solo “caro”. Es <strong>previsible</strong> si haces un presupuesto correcto desde el inicio.</p>
-<h2>Contexto</h2>
+<h2>Contexto en Suiza</h2>
 <p>Tus grandes variables son:</p>
 <ul>
 <li>cantón/ciudad (alquiler y primas LAMal)</li>
 <li>situación familiar</li>
 <li>transporte (abonos) y hábitos</li>
 </ul>
-<h2>Explicación detallada</h2>
+<h2>Situaciones comunes que generan problemas</h2>
 <h3>Las 5 partidas que más mueven el presupuesto</h3>
 <ol>
 <li><strong>Alquiler + gastos</strong> (y depósito/fianza inicial)</li>
@@ -179,24 +166,22 @@ Object.assign(window.siteContent.es.articles, {
 <li>tasas comunales (según lugar)</li>
 <li>adelantos (depósitos, primeras facturas)</li>
 </ul>
-<h2>Información práctica</h2>
+<h2>Cómo evitar multas o conflictos</h2>
 <ul>
 <li>Empieza por “mínimo seguro”: vivienda + salud + transporte básico.</li>
 <li>Reserva un colchón para el primer mes (depósitos y sorpresas).</li>
 <li>Ajusta por cantón: no tiene sentido comparar Zúrich y una ciudad pequeña igual.</li>
 </ul>
-<h2>Consejos y alertas</h2>
+<h2>Consejos prácticos</h2>
 <ul>
 <li>No calcules solo con el salario bruto: mira el neto y retenciones.</li>
 <li>Si eres recién llegado, evita comprometerte con gastos fijos demasiado altos al principio.</li>
 </ul>
-<h2>Fuentes</h2>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>Estadística (BFS): <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bfs.admin.ch</a></li>
 </ul>
-<h2>Conclusión</h2>
-<p>Un presupuesto realista convierte “Suiza es cara” en una lista concreta: qué pagas, cuándo y cómo optimizarlo.</p>
         </div>`
     },
 
@@ -211,14 +196,11 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Qué es la democracia directa suiza y cómo se decide: referéndums, iniciativas, votaciones y niveles (federal/cantonal/comunal). Guía para expatriados.",
-        relatedSlugs: ["introduccion-suiza-como-funciona", "cantones-suiza"],
-        content: `<div class="page-header">
-            <h1>Democracia directa en Suiza: referéndum, iniciativa y votaciones</h1>
-        </div>
-        <div class="article-content">
+        relatedSlugs: [],
+        content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>Suiza no solo vota “cada cuatro años”. La ciudadanía participa con frecuencia mediante <strong>votaciones</strong> a distintos niveles.</p>
-<h2>Contexto</h2>
+<h2>Contexto en Suiza</h2>
 <p>Hay votaciones:</p>
 <ul>
 <li><strong>Federales</strong></li>
@@ -226,7 +208,7 @@ Object.assign(window.siteContent.es.articles, {
 <li><strong>Comunales</strong></li>
 </ul>
 <p>Y suelen convivir varios temas el mismo día.</p>
-<h2>Explicación detallada</h2>
+<h2>Situaciones comunes que generan problemas</h2>
 <h3>Referéndum (idea general)</h3>
 <p>Es un mecanismo para <strong>confirmar o rechazar</strong> una decisión normativa. En Suiza, según el tipo de norma, puede ser obligatorio o activarse por recogida de firmas (los detalles dependen del nivel).</p>
 <h3>Iniciativa (idea general)</h3>
@@ -237,24 +219,22 @@ Object.assign(window.siteContent.es.articles, {
 <li>El debate suele ser técnico y con material explicativo oficial.</li>
 <li>No todo el mundo puede votar (depende de nacionalidad, nivel y reglas locales), pero <strong>conviene entenderlo</strong>.</li>
 </ul>
-<h2>Información práctica</h2>
+<h2>Cómo evitar multas o conflictos</h2>
 <ul>
 <li>Sigue el calendario de votaciones de tu cantón/comuna.</li>
 <li>Lee el folleto oficial (suele explicar argumentos a favor/en contra).</li>
 <li>Si un tema te afecta (p. ej. transporte), revisa qué cambia exactamente y desde cuándo.</li>
 </ul>
-<h2>Consejos y alertas</h2>
+<h2>Consejos prácticos</h2>
 <ul>
 <li>Evita informarte solo por redes: contrasta con el documento oficial.</li>
 <li>Distingue: “opinión” vs “texto legal que se vota”.</li>
 </ul>
-<h2>Fuentes</h2>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>Portal suizo: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>Confederación: <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
 </ul>
-<h2>Conclusión</h2>
-<p>Entender la democracia directa te ayuda a interpretar noticias, cambios y debates que aparecen “de repente”. En Suiza, muchas cosas cambian por votación.</p>
         </div>`
     },
 
@@ -270,20 +250,17 @@ Object.assign(window.siteContent.es.articles, {
         dateUpdated: "Marzo 2026",
         summary: "Alertas prácticas: estafas de alquiler, falsas multas, phishing, “ofertas de trabajo” falsas y suplantación. Señales típicas y cómo actuar en Suiza.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Fraudes comunes contra inmigrantes en Suiza: señales y cómo protegerte</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>La mayoría de estafas no se basan en “tecnología”, sino en una cosa: <strong>urgencia</strong>. Si aprendes a frenar y verificar, reduces el riesgo de forma drástica.</p>
-<h2>Contexto</h2>
+<h2>Contexto en Suiza</h2>
 <p>Recién llegados son un objetivo típico porque:</p>
 <ul>
 <li>necesitan vivienda y trabajo rápido</li>
 <li>no conocen procedimientos locales</li>
 <li>no saben cómo verificar documentos y pagos</li>
 </ul>
-<h2>Explicación detallada</h2>
+<h2>Situaciones comunes que generan problemas</h2>
 <h3>Estafas frecuentes (patrones)</h3>
 <ul>
 <li><strong>Alquiler</strong>: pago por adelantado + “no se puede visitar”.</li>
@@ -298,77 +275,101 @@ Object.assign(window.siteContent.es.articles, {
 <li>Guardar pruebas (capturas, emails).</li>
 <li>Reportar si procede (policía, entidad afectada).</li>
 </ol>
-<h2>Información práctica</h2>
+<h2>Cómo evitar multas o conflictos</h2>
 <ul>
 <li>Verifica dominios y remitentes; no confíes en “logos”.</li>
 <li>Usa números oficiales (no los del mensaje).</li>
 </ul>
-<h2>Consejos y alertas</h2>
+<h2>Consejos prácticos</h2>
 <ul>
 <li>Si te presionan con “hoy o nunca”, es mala señal.</li>
 <li>Si te piden pago por “reservar” sin contrato verificable, sal.</li>
 </ul>
-<h2>Fuentes</h2>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>Fedpol (seguridad, según campaña): <a href="https://www.fedpol.admin.ch" target="_blank" rel="noopener noreferrer">https://www.fedpol.admin.ch</a></li>
 </ul>
-<h2>Conclusión</h2>
-<p>En Suiza, la verificación se hace con calma y con canales oficiales. La urgencia es el enemigo.</p>
         </div>`
     },
 
     "fb-normas-locales-ginebra": {
-        title: "Normas locales en Ginebra (GE): convivencia, multas y buenas prácticas",
-        description: "Guía práctica de vida local en Ginebra: convivencia, ruido, movilidad, limpieza, multas frecuentes y hábitos que evitan problemas.",
-        keywords: "ginebra suiza normas, multas ginebra, vivir en ginebra, ge suiza",
+        title: "Normas de convivencia en Suiza: ruido, residuos, aparcamiento y reglas comunes",
+        description: "Guía nacional de convivencia en Suiza: horas de silencio, residuos/reciclaje, aparcamiento, reglas de edificio y malentendidos típicos. Explicamos qué depende del cantón, la comuna o el reglamento interno.",
+        keywords: "convivencia suiza, ruido suiza, reciclaje suiza, aparcamiento suiza, multas suiza",
         keywordsLocalized: true,
         category: "Vivir en Suiza",
         hub: "vivir-en-suiza",
         slug: "normas-locales-ginebra",
-        readingTime: 2,
+        readingTime: 3,
         dateUpdated: "Marzo 2026",
-        summary: "Guía práctica de vida local en Ginebra: convivencia, ruido, movilidad, limpieza, multas frecuentes y hábitos que evitan problemas.",
-        relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Normas locales en Ginebra (GE): convivencia, multas y buenas prácticas</h1>
-        </div>
-        <div class="article-content">
+        summary: "Guía nacional de convivencia en Suiza: horas de silencio, residuos/reciclaje, aparcamiento, reglas de edificio y malentendidos típicos. Explicamos qué depende del cantón, la comuna o el reglamento interno.",
+        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
+        content: `<div class="article-content">
             <h2>Introducción</h2>
-<p>Ginebra es internacional y dinámica, pero también estricta con normas de convivencia y orden público. Conocer lo básico evita multas y conflictos.</p>
-<h2>Contexto</h2>
-<p>En GE, muchas reglas prácticas se aplican a nivel cantonal/comunal: ruido, residuos, uso de espacios, movilidad y ciertas sanciones.</p>
-<h2>Explicación detallada</h2>
-<h3>Situaciones típicas que generan problemas</h3>
+<p>Suiza es, en general, un país con normas claras y aplicación constante. El “choque cultural” para muchos recién llegados no es la dureza de la norma, sino <strong>la previsibilidad</strong>: si existe una regla, se espera que la conozcas y la cumplas.</p>
+<h2>Contexto en Suiza</h2>
+<p>Para entender qué es “regla” y qué es “costumbre”, piensa en tres niveles:</p>
 <ul>
-<li>ruido (horarios, fiestas, bricolaje)</li>
-<li>estacionamiento y normas de circulación</li>
-<li>residuos/reciclaje (bolsas, puntos, horarios)</li>
-<li>convivencia en edificios (uso de lavandería, zonas comunes)</li>
+<li><strong>Cantón</strong>: muchas normas prácticas (y su forma de aplicarlas) cambian por cantón: ruido, sanciones, trámites, etc.</li>
+<li><strong>Comuna/municipio</strong>: gestiona aspectos cotidianos como residuos, puntos de recogida, horarios, permisos y tasas.</li>
+<li><strong>Edificio</strong> (reglamento interno / <em>Hausordnung</em>): reglas de convivencia muy concretas (lavandería, horarios, uso de zonas comunes).</li>
 </ul>
-<h3>Cómo actuar de forma “segura”</h3>
+<p>La idea clave: <strong>la base es suiza, pero la letra pequeña es local</strong>. Cuando alguien te diga “en Suiza es así”, la pregunta correcta es: “¿en qué cantón y en qué comuna?”.</p>
+<h2>Situaciones comunes que generan problemas</h2>
+<h3>1) Ruido y “horas de silencio”</h3>
+<p>En muchos lugares se espera tranquilidad por la noche (y a veces al mediodía o en domingo). Lo que cambia es el detalle:</p>
 <ul>
-<li>Lee el reglamento del edificio.</li>
-<li>Usa fuentes oficiales del cantón/comuna para dudas recurrentes.</li>
-<li>Si recibes una multa, revisa el procedimiento y plazos; guarda copia.</li>
+<li>horarios exactos (pueden variar por comuna o por edificio)</li>
+<li>obras/bricolaje (permitido en ciertos tramos, prohibido en otros)</li>
+<li>fiestas (a veces requieren avisar a vecinos; a veces no se toleran)</li>
 </ul>
-<h2>Información práctica</h2>
+<p><strong>Malentendido típico:</strong> “Es una cena en casa, no es una fiesta”. Si la música se oye en el rellano o a través de paredes, puede considerarse molestia.</p>
+<h3>2) Residuos y reciclaje (más serio de lo que parece)</h3>
+<p>La gestión de residuos en Suiza suele ser estricta por tres motivos: limpieza, costes y trazabilidad. Dependiendo del cantón/comuna:</p>
 <ul>
-<li>Apunta los contactos de tu régie/administración.</li>
-<li>Ten a mano tu contrato y reglamento interno.</li>
+<li>puede haber <strong>bolsas oficiales</strong> (con tasa incluida) obligatorias</li>
+<li>hay horarios y puntos concretos de recogida</li>
+<li>el reciclaje puede estar muy regulado (papel, vidrio, aluminio, orgánico)</li>
 </ul>
-<h2>Consejos y alertas</h2>
+<p><strong>Malentendido típico:</strong> “Lo dejo al lado del contenedor”. En algunas zonas eso se considera abandono y puede acabar en multa.</p>
+<h3>3) Aparcamiento: disco horario, zonas y multas rápidas</h3>
+<p>El aparcamiento es una de las fuentes más frecuentes de multas:</p>
 <ul>
-<li>Lo “normal” en otro país puede ser sancionable aquí (p. ej., ciertos hábitos de basura o ruido).</li>
-<li>Evita discusiones: documenta y usa canales formales.</li>
+<li>zonas azules con <strong>disco horario</strong> (si falta o está mal puesto, multa)</li>
+<li>parquímetros y límites de tiempo</li>
+<li>plazas reservadas (carga/descarga, residentes, PMR)</li>
 </ul>
-<h2>Fuentes</h2>
+<p><strong>Malentendido típico:</strong> “Son 5 minutos”. En Suiza, “un momento” puede ser suficiente para una multa si estás fuera de norma.</p>
+<h3>4) Convivencia en edificios: normas que no están en la ley, pero sí en tu contrato</h3>
+<p>Muchas fricciones no se resuelven “con sentido común”, sino con el reglamento:</p>
 <ul>
-<li>Cantón de Ginebra: <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer">https://www.ge.ch</a></li>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>uso de lavandería / turnos</li>
+<li>ruidos en escaleras y patios</li>
+<li>mascotas, bicicletas, cochecitos</li>
+<li>limpieza de zonas comunes</li>
 </ul>
-<h2>Conclusión</h2>
-<p>La vida en Ginebra es más fácil cuando juegas con reglas claras: reglamentos + hábitos preventivos + documentación.</p>
+<p><strong>Malentendido típico:</strong> “En mi país se hace así”. En Suiza, el reglamento del edificio suele ser la referencia.</p>
+<h2>Cómo evitar multas o conflictos</h2>
+<ol>
+<li><strong>Lee y guarda</strong> el reglamento del edificio (y pide aclaraciones por escrito si algo no está claro).</li>
+<li><strong>Consulta la web oficial de tu comuna</strong> para residuos y normas locales (horarios, puntos de recogida, tasas).</li>
+<li>Para aparcamiento, <strong>hazlo fácil</strong>: disco horario siempre visible, ticket bien colocado, y evita “zonas dudosas”.</li>
+<li>Si recibes una carta o multa: <strong>no la ignores</strong>. Revisa plazos, procedimiento y guarda copias.</li>
+</ol>
+<h2>Consejos prácticos</h2>
+<ul>
+<li>Crea una carpeta (digital o física) con: contrato, reglamento, cartas oficiales y recibos.</li>
+<li>Pregunta a la administración del edificio (<em>régie</em>) el protocolo: ruido, lavandería, residuos.</li>
+<li>Si tienes dudas, prioriza fuentes oficiales y mensajes por escrito.</li>
+<li>Usa ejemplos locales solo como guía: lo importante es <strong>tu</strong> cantón, <strong>tu</strong> comuna y <strong>tu</strong> edificio.</li>
+</ul>
+<h2>Fuentes oficiales</h2>
+<ul>
+<li>Portal oficial (orientación y enlaces): <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>Confederación (marco general): <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
+<li>Portales de tu cantón y tu comuna (varían por región).</li>
+</ul>
         </div>`
     },
 
@@ -383,22 +384,19 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Guía práctica para recién llegados: diferencias L/B/C, checklist de llegada, cambios de situación y errores frecuentes, con enlaces oficiales.",
-        relatedSlugs: ["permisos-suiza", "registrarse-en-suiza", "reagrupacion-familiar-suiza"],
-        content: `<div class="page-header">
-            <h1>Permisos en Suiza (L, B, C): checklist, errores típicos y casos reales</h1>
-        </div>
-        <div class="article-content">
+        relatedSlugs: [],
+        content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>Los permisos suizos dependen de tu situación (contrato, duración, familia) y del marco legal aplicable. No es solo “una tarjeta”.</p>
-<h2>Contexto</h2>
+<h2>Contexto en Suiza</h2>
 <p>La base es federal, pero la tramitación práctica (citas, plazos, formularios) puede variar según el cantón.</p>
-<h2>Explicación detallada</h2>
+<h2>Situaciones comunes que generan problemas</h2>
 <ul>
 <li><strong>L</strong>: suele asociarse a contratos/estancias más cortas.</li>
 <li><strong>B</strong>: residencia temporal de varios años; ojo con cambios de empleador, actividad o cantón (según caso).</li>
 <li><strong>C</strong>: estatus más estable tras años; cambia el panorama de algunos trámites, pero no elimina obligaciones.</li>
 </ul>
-<h2>Información práctica</h2>
+<h2>Cómo evitar multas o conflictos</h2>
 <p>Checklist al llegar:</p>
 <ol>
 <li>Registro en la comuna.</li>
@@ -406,18 +404,16 @@ Object.assign(window.siteContent.es.articles, {
 <li>Pruebas de domicilio y trabajo.</li>
 <li>Archivo de cartas oficiales y nóminas.</li>
 </ol>
-<h2>Consejos y alertas</h2>
+<h2>Consejos prácticos</h2>
 <ul>
 <li>No esperes “a tener la tarjeta” para empezar otros pasos.</li>
 <li>Si cambias de cantón, revisa el procedimiento exacto del nuevo cantón/comuna.</li>
 </ul>
-<h2>Fuentes</h2>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>SEM: <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-<h2>Conclusión</h2>
-<p>Permisos = planificación + plazos + documentación. Eso evita la mayoría de bloqueos.</p>
         </div>`
     },
 
@@ -432,20 +428,17 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Guía práctica del seguro de desempleo en Suiza (ALV/AC): inscripción en el RAV, caja de paro, plazos, obligaciones, sanciones y documentación.",
-        relatedSlugs: ["buscar-empleo-suiza", "contratos-de-trabajo-suiza", "seguros-sociales-suiza"],
-        content: `<div class="page-header">
-            <h1>RAV y paro en Suiza: cómo funciona el desempleo, requisitos y pasos</h1>
-        </div>
-        <div class="article-content">
+        relatedSlugs: [],
+        content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>El “paro” en Suiza no es solo cobrar una prestación. Es un proceso con seguimiento, plazos y pruebas de búsqueda de empleo.</p>
-<h2>Contexto</h2>
+<h2>Contexto en Suiza</h2>
 <p>Intervienen dos actores:</p>
 <ul>
 <li><strong>RAV</strong>: acompañamiento, citas, medidas de reinserción.</li>
 <li><strong>Caja de desempleo</strong>: evalúa el derecho y paga la prestación.</li>
 </ul>
-<h2>Explicación detallada</h2>
+<h2>Situaciones comunes que generan problemas</h2>
 <h3>Pasos recomendados</h3>
 <ol>
 <li>Inscríbete lo antes posible (no esperes al último día).</li>
@@ -465,20 +458,18 @@ Object.assign(window.siteContent.es.articles, {
 <li>no guardar pruebas</li>
 <li>dimitir sin entender consecuencias (puede haber sanciones)</li>
 </ul>
-<h2>Información práctica</h2>
+<h2>Cómo evitar multas o conflictos</h2>
 <ul>
 <li>Usa una hoja de seguimiento (fecha, empresa, puesto, evidencia).</li>
 <li>Guarda emails y capturas.</li>
 </ul>
-<h2>Consejos y alertas</h2>
+<h2>Consejos prácticos</h2>
 <p>Si el RAV o la caja pide algo, responde por escrito y con margen. En Suiza, la documentación “manda”.</p>
-<h2>Fuentes</h2>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>ch.ch (desempleo): <a href="https://www.ch.ch/es/trabajo/desempleo/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/es/trabajo/desempleo/</a></li>
 <li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
 </ul>
-<h2>Conclusión</h2>
-<p>Con método, el sistema funciona. Sin método, lo que se pierde suele ser tiempo… y dinero.</p>
         </div>`
     },
 
@@ -493,21 +484,18 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Guía para elegir LAMal en Suiza: modelos (HMO/medico de cabecera/telmed), franquicia, copago, cambio anual y errores frecuentes. Con fuentes oficiales.",
-        relatedSlugs: ["seguro-medico-lamal-suiza", "franquicia-seguro-medico-suiza"],
-        content: `<div class="page-header">
-            <h1>Cómo elegir seguro médico (LAMal) en Suiza: modelo, franquicia y prima</h1>
-        </div>
-        <div class="article-content">
+        relatedSlugs: [],
+        content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>En Suiza, el seguro básico (LAMal/KVG) es obligatorio y <strong>cubre lo mismo</strong> en todas las aseguradoras. Lo que cambia es el precio, el modelo y el servicio.</p>
-<h2>Contexto</h2>
+<h2>Contexto en Suiza</h2>
 <p>Para no equivocarte, separa tres decisiones:</p>
 <ol>
 <li><strong>Aseguradora</strong> (precio/servicio)</li>
 <li><strong>Modelo</strong> (libre elección vs médico de cabecera vs telmed vs HMO)</li>
 <li><strong>Franquicia</strong> (cuánto pagas tú antes de que el seguro empiece a reembolsar)</li>
 </ol>
-<h2>Explicación detallada</h2>
+<h2>Situaciones comunes que generan problemas</h2>
 <h3>Modelos (idea práctica)</h3>
 <ul>
 <li><strong>Standard</strong>: más libertad, suele ser más caro.</li>
@@ -523,25 +511,23 @@ Object.assign(window.siteContent.es.articles, {
 </ul>
 <h3>Cambio de seguro</h3>
 <p>En general, el cambio se prepara con antelación y tiene plazos (por eso conviene comparar en otoño).</p>
-<h2>Información práctica</h2>
+<h2>Cómo evitar multas o conflictos</h2>
 <ul>
 <li>Si casi no vas al médico y tienes colchón, una franquicia más alta puede tener sentido.</li>
 <li>Si tienes gastos previsibles, una franquicia más baja reduce incertidumbre.</li>
 <li>Revisa también: cobertura de accidentes (si tu empleo ya la cubre) y seguros complementarios (separados).</li>
 </ul>
-<h2>Consejos y alertas</h2>
+<h2>Consejos prácticos</h2>
 <ul>
 <li>No elijas solo por prima: mira también la regla del modelo (telmed/HMO) y si encaja contigo.</li>
 <li>Complementarios: pueden tener cuestionario médico; no son “automáticos”.</li>
 </ul>
-<h2>Fuentes</h2>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>ch.ch (seguro): <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>Oficina Federal de Salud Pública (BAG/OFSP): <a href="https://www.bag.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bag.admin.ch</a></li>
 <li>Priminfo (comparador oficial, según disponibilidad): <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
 </ul>
-<h2>Conclusión</h2>
-<p>Elegir bien LAMal es una combinación de riesgo + hábitos + disciplina: modelo adecuado, franquicia coherente y comparación anual.</p>
         </div>`
     },
 
@@ -556,21 +542,18 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Guía clara del sistema suizo para expatriados: qué decide la Confederación, qué cambia por cantón y qué gestiona tu comuna. Con ejemplos y fuentes oficiales.",
-        relatedSlugs: ["cantones-suiza", "impuestos-en-suiza", "registrarse-en-suiza"],
-        content: `<div class="page-header">
-            <h1>Cómo funciona el sistema político suizo: Confederación, cantones y comuna</h1>
-        </div>
-        <div class="article-content">
+        relatedSlugs: [],
+        content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>Muchas confusiones al llegar a Suiza vienen de una idea equivocada: “el país funciona igual en todas partes”. Suiza es <strong>federal y descentralizada</strong>. Eso afecta a impuestos, escuela, ciertos trámites y hasta normas locales.</p>
-<h2>Contexto</h2>
+<h2>Contexto en Suiza</h2>
 <p>En la práctica, tu vida se rige por <strong>tres niveles</strong>:</p>
 <ul>
 <li><strong>Confederación (federal)</strong>: reglas marco, migración (muchas bases), coordinación nacional.</li>
 <li><strong>Cantón</strong>: gran parte de la ejecución y normas concretas (impuestos, educación, salud pública, administración).</li>
 <li><strong>Comuna (municipio)</strong>: gestión local (registro, basura, ciertos permisos, servicios y tasas).</li>
 </ul>
-<h2>Explicación detallada</h2>
+<h2>Situaciones comunes que generan problemas</h2>
 <h3>Qué suele ser “federal”</h3>
 <ul>
 <li>Marco legal general y portales nacionales.</li>
@@ -589,26 +572,24 @@ Object.assign(window.siteContent.es.articles, {
 <li>Servicios locales (residuos, tasas, comunicación).</li>
 <li>Reglas de convivencia muy concretas (ruidos, horarios, etc.).</li>
 </ul>
-<h2>Información práctica</h2>
+<h2>Cómo evitar multas o conflictos</h2>
 <ol>
 <li>Identifica tu cantón (GE, VD, ZH…) y tu comuna.</li>
 <li>Consulta primero el nivel correcto: <strong>ch.ch</strong> para orientación + <strong>portal cantonal</strong> para reglas aplicables.</li>
 <li>Guarda siempre pruebas: confirmaciones, cartas, emails.</li>
 </ol>
-<h2>Consejos y alertas</h2>
+<h2>Consejos prácticos</h2>
 <ul>
 <li>Si alguien afirma “en Suiza es así”, pregunta: <strong>¿en qué cantón? ¿en qué comuna?</strong></li>
 <li>Para temas sensibles (permisos, impuestos, paro), prioriza fuentes oficiales y evita “atajos”.</li>
 </ul>
-<h2>Fuentes</h2>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>Portal suizo: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>Confederación: <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
 <li>SEM (migración): <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
 <li>SECO (mercado laboral): <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
 </ul>
-<h2>Conclusión</h2>
-<p>Entender el federalismo suizo te ahorra tiempo: sabrás dónde buscar la norma correcta y por qué dos personas en cantones distintos viven “Suizas” diferentes.</p>
         </div>`
     },
 
@@ -624,21 +605,18 @@ Object.assign(window.siteContent.es.articles, {
         dateUpdated: "Marzo 2026",
         summary: "Guía para encontrar trabajo en Suiza: CV, entrevistas, negociación salarial, contrato y errores frecuentes. Enfoque práctico para recién llegados.",
         relatedSlugs: [],
-        content: `<div class="page-header">
-            <h1>Trabajar en Suiza: cómo buscar empleo, negociar y empezar bien</h1>
-        </div>
-        <div class="article-content">
+        content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>Suiza recompensa la claridad: proceso, documentación y seguimiento. Con eso, la probabilidad de éxito sube.</p>
-<h2>Contexto</h2>
+<h2>Contexto en Suiza</h2>
 <p>La búsqueda cambia por cantón (idioma), sector y tu situación de residencia/permisos.</p>
-<h2>Explicación detallada</h2>
+<h2>Situaciones comunes que generan problemas</h2>
 <ul>
 <li><strong>Candidaturas</strong>: CV claro, logros medibles, carta breve, referencias listas.</li>
 <li><strong>Entrevistas</strong>: puntualidad, ejemplos concretos, rango salarial investigado.</li>
 <li><strong>Contrato</strong>: periodo de prueba, preaviso, horas, vacaciones, 13º sueldo, seguro de accidentes.</li>
 </ul>
-<h2>Información práctica</h2>
+<h2>Cómo evitar multas o conflictos</h2>
 <p>Checklist:</p>
 <ol>
 <li>CV + LinkedIn coherentes.</li>
@@ -646,18 +624,16 @@ Object.assign(window.siteContent.es.articles, {
 <li>Seguimiento de candidaturas.</li>
 <li>Documentos (títulos, certificados).</li>
 </ol>
-<h2>Consejos y alertas</h2>
+<h2>Consejos prácticos</h2>
 <ul>
 <li>Evita el “spam” de CV: apunta a puestos concretos.</li>
 <li>Ofertas perfectas sin proceso real: posible estafa.</li>
 </ul>
-<h2>Fuentes</h2>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-<h2>Conclusión</h2>
-<p>En Suiza, la consistencia vale oro: método + pruebas + seguimiento.</p>
         </div>`
     }
 });

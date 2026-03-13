@@ -12,25 +12,22 @@ keywords: rent switzerland, rental deposit switzerland, rental scam switzerland,
 ## Introduction
 Renting in Switzerland is documentation-heavy. That can work in your favour—if you know what to ask and what to verify.
 
-## Context
+## Context in Switzerland
 Newcomers often struggle with a weak application dossier and can become vulnerable to scam pressure.
 
-## Detailed explanation
+## Common situations that cause problems
 - Typical process: search → visit → apply → selection → sign → keys.
 - Dossier usually includes ID/permit, proof of income, debt register extract (if available), short introduction.
 - Deposits must follow a clear, verifiable procedure.
 - Scam signals: upfront money without a verifiable contract, “no visits”, urgency tactics, inconsistent payment details.
 
-## Practical information
+## How to avoid fines or conflicts
 - Track applications and keep evidence.
 - Never transfer money without a solid contract and verified counterpart.
 
-## Tips or warnings
+## Practical tips
 - Urgency is the scammer’s tool—verify first.
 - If it feels wrong, move on.
 
-## Sources
+## Official sources
 - ch.ch: https://www.ch.ch
-
-## Conclusion
-A strong dossier plus verification makes renting repeatable—and dramatically reduces scam risk.

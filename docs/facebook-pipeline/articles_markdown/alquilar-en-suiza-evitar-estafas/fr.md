@@ -12,25 +12,22 @@ keywords: louer suisse, caution suisse, arnaque location suisse, dossier locatio
 ## Introduction
 La location en Suisse demande beaucoup de documents. Bien maîtrisé, cela vous protège aussi.
 
-## Contexte
+## Contexte en Suisse
 Deux risques fréquents : dossier faible et arnaques liées à l’urgence.
 
-## Explication détaillée
+## Situations fréquentes qui créent des problèmes
 - Parcours typique : recherche → visite → candidature → sélection → signature → clés.
 - Dossier : pièce d’identité/permis, preuve de revenus, extrait de poursuites (si disponible), courte présentation.
 - Dépôt/caution : exigez une procédure claire et traçable.
 - Signaux d’arnaque : paiement anticipé sans contrat vérifiable, pas de visite, pression, détails incohérents.
 
-## Infos pratiques
+## Comment éviter des amendes ou des conflits
 - Suivi des candidatures + conservation des preuves.
 - Ne jamais verser d’argent sans contrat solide et vérification.
 
-## Conseils & alertes
+## Conseils pratiques
 - L’urgence est l’arme du fraudeur : vérifier d’abord.
 - Si ça ne “colle” pas, passez votre chemin.
 
-## Sources
+## Sources officielles
 - ch.ch : https://www.ch.ch
-
-## Conclusion
-Dossier solide + vérification = location plus simple et risque d’arnaque fortement réduit.

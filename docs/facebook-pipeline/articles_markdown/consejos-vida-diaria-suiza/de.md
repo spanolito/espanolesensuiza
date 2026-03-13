@@ -12,10 +12,10 @@ keywords: leben in der schweiz tipps, alltag schweiz, neuankömmlinge schweiz
 ## Einleitung
 Man muss nicht alles wissen. Mit guten Routinen lassen sich viele typische Startprobleme vermeiden.
 
-## Kontext
+## Kontext in der Schweiz
 In der Schweiz zählen Regeln, Fristen und Nachweise. Wer diese Gewohnheiten übernimmt, lebt entspannter.
 
-## Detaillierte Erklärung
+## Häufige Situationen, die Probleme verursachen
 Kerngewohnheiten:
 - offizielle Briefe archivieren (und scannen)
 - Fristen im Kalender
@@ -28,14 +28,11 @@ Kerngewohnheiten:
 - keine Zahlungen ohne verifizierbaren Vertrag
 - Notfallpuffer aufbauen
 
-## Praktische Hinweise
+## Wie man Bussen oder Konflikte vermeidet
 Als Checkliste nutzen und Schritt für Schritt abhaken.
 
-## Tipps & Warnungen
+## Praktische Tipps
 Universaltipp: weniger Improvisation, mehr Prozess.
 
-## Quellen
+## Offizielle Quellen
 - ch.ch: https://www.ch.ch
-
-## Fazit
-Einfache Routinen machen den Alltag leichter. Beständigkeit ist entscheidend.

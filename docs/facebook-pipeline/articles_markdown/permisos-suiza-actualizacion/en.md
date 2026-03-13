@@ -12,28 +12,25 @@ keywords: permit l switzerland, permit b switzerland, permit c switzerland, swis
 ## Introduction
 Swiss permits reflect your situation (contract, duration, family) under the relevant legal framework—more than “a card”.
 
-## Context
+## Context in Switzerland
 The framework is federal, but practical steps (appointments, timelines, forms) vary by canton.
 
-## Detailed explanation
+## Common situations that cause problems
 - **L**: often linked to shorter stays/contracts.
 - **B**: multi‑year residence; changes of employer/activity/canton can matter (case‑dependent).
 - **C**: more stable status after years; some procedures change, obligations remain.
 
-## Practical information
+## How to avoid fines or conflicts
 Arrival checklist:
 1) Commune registration.  
 2) Mandatory health insurance within deadlines.  
 3) Proof of address and work.  
 4) Archive official letters and payslips.
 
-## Tips or warnings
+## Practical tips
 - Don’t wait for the card to move forward with other steps.
 - When moving cantons, verify local administrative procedures.
 
-## Sources
+## Official sources
 - SEM: https://www.sem.admin.ch
 - ch.ch: https://www.ch.ch
-
-## Conclusion
-Permits become smoother with planning, deadlines and documentation.
