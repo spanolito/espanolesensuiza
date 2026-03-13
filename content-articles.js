@@ -457,8 +457,8 @@ window.siteContent.es.articles = {
         slug: "trabajar-antes-permiso-fisico-suiza",
         readingTime: 3,
         dateUpdated: "Marzo 2026",
-        featuredImage: "media/permiso-residencia-suiza.png",
-        imageAlt: "Certificado provisional de residencia suiza entregado en el mostrador del Contrôle des habitants",
+        featuredImage: "media/trabajar-suiza.png",
+        imageAlt: "Persona trabajando en Suiza en un entorno profesional",
         summary: "Puedes empezar a trabajar desde el primer día tras registrarte en la comuna. El permiso físico puede tardar semanas, pero el comprobante de registro ya tiene validez legal.",
         content: `
             <div class="article-content">
@@ -772,7 +772,7 @@ window.siteContent.es.articles = {
                     <li>Verificar que tu categoría es correcta (cambios familiares importan).</li>
                     <li>Saber si tu cantón permite <strong>correcciones</strong> o regularizaciones por deducciones (por ejemplo, aportaciones a 3er pilar, gastos de formación, etc.).</li>
                     <li>Entender que algunos umbrales/situaciones pueden llevarte a declaración ordinaria (según reglas cantonales y federales).</li>
-                </ul>
+                    </ul>
 
                 <h3>Qué pasa si haces declaración ordinaria</h3>
                 <p>En la declaración, el cantón y la comuna te aplican reglas de deducciones y escalas. Pueden existir deducciones por:</p>
@@ -1285,9 +1285,9 @@ window.siteContent.es.articles = {
         category: 'Costo de Vida',
         hub: 'vivir-en-suiza',
         slug: "costo-de-vida-suiza",
-        featuredImage: "media/salarios-suiza.png",
-        imageAlt: "Presupuesto y planificación financiera en Suiza con monedas de francos",
-        supportingImages: ["images/suiza/mapa-regiones-culturales.png"],
+        featuredImage: "images/suiza/mapa-coste-vida-zonas-caras.svg",
+        imageAlt: "Gráfico del coste de vida por zonas en Suiza",
+        supportingImages: [],
         readingTime: 4,
         summary: 'Un sueldo de 5000 CHF puede parecer alto, pero tras seguros, impuestos y alquiler, el margen de maniobra se reduce significativamente.',
         content: `
@@ -1298,7 +1298,6 @@ window.siteContent.es.articles = {
                 <p>El coste de vida cambia mucho según la región: las grandes ciudades (Zúrich, Ginebra, Lausana, Basilea) suelen ser más caras, especialmente en vivienda. Usa el mapa como orientación geográfica y ajusta siempre con datos reales del cantón y la comuna.</p>
 
                 <h2>Presupuesto Orientativo Mensual (1 persona)</h2>
-                <p>Gastos medios para una persona soltera viviendo en un núcleo urbano promedio (fuera del centro súper exclusivo o campo lejano):</p>
                 <ul>
                     <li><strong>Alquiler mensual (incluidos gastos carga, internet):</strong> 1.500 - 2.200 CHF (los precios en Ginebra y Zúrich son notablemente mayores a la media nacional).</li>
                     <li><strong>Seguro de Salud Obligatorio (LAMal):</strong> 350 - 450 CHF.</li>
@@ -1702,7 +1701,7 @@ window.siteContent.es.articles = {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "En Suiza no existen las vacunas obligatorias. El sistema se basa en las recomendaciones de la Oficina Federal de Salud Pública (BAG) y la responsabilidad individual.",
-        featuredImage: "media/sistema-salud-suiza.png",
+        featuredImage: "media/og-image.svg",
         imageAlt: "Viales de vacunas en un entorno médico suizo",
         content: `
             <div class="article-content">
@@ -1734,8 +1733,8 @@ window.siteContent.es.articles = {
         slug: "origen-danza-de-los-patos-suiza",
         readingTime: 3,
         dateUpdated: "Marzo 2026",
-        featuredImage: "images/suiza/mapa-regiones-culturales.png",
-        imageAlt: "Mapa de las regiones culturales de Suiza donde se originó la famosa Danza de los Patos",
+        featuredImage: "icons/icon-512.png",
+        imageAlt: "Icono oficial de Suiza con la cruz blanca sobre fondo rojo",
         summary: "Aunque parezca una canción genérica, la famosa danza de los patos fue compuesta por un acordeonista suizo en Davos en los años 50.",
         content: `
             <div class="article-content">
@@ -1766,7 +1765,7 @@ window.siteContent.es.articles = {
         readingTime: 10,
         dateUpdated: "Marzo 2026",
         summary: "Suiza no es un país convencional. Es una Confederación de 26 cantones autónomos, 4 lenguas oficiales, democracia directa y un federalismo que afecta tu vida diaria desde el primer día.",
-        featuredImage: "images/suiza/mapa-politico-cantones.png",
+        featuredImage: "media/og-image.jpg",
         imageAlt: "Vista panorámica de una ciudad suiza con arquitectura tradicional y moderna",
         content: `
             <div class="article-content">
@@ -1791,7 +1790,7 @@ window.siteContent.es.articles = {
                 <h2 id="organizacion">Sección 1 — Cantones y organización territorial</h2>
 
                 <figure style="margin: 1.5rem 0; text-align: center;">
-                    <img src="images/suiza/mapa-politico-cantones.png"
+                    <img src="media/og-image.jpg"
                          alt="Mapa político de Suiza con los 26 cantones y sus abreviaturas oficiales"
                          style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
                          loading="lazy">
@@ -2246,7 +2245,7 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Marzo 2026",
         summary: "España tiene tres consulados en Suiza: Ginebra, Berna y Zúrich. El registro consular es el primer trámite que debes hacer al llegar. Sin él, no puedes renovar el pasaporte ni votar.",
-        featuredImage: "media/registro-comuna-suiza.png",
+        featuredImage: "images/suiza/mapa-regiones-culturales.png",
         imageAlt: "Sede de un consulado español en Suiza con la bandera oficial",
         content: `
             <div class="article-content">

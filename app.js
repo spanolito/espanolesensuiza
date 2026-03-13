@@ -1348,53 +1348,8 @@ document.addEventListener("DOMContentLoaded", () => {
         addAlt("x-default", xDefaultHref);
     }
 
-    const ARTICLE_IMAGE_PRESETS = {
-        tramites: {
-            hero: "media/tramites-llegada-suiza.png",
-            supporting: ["media/permiso-residencia-suiza.png", "media/registro-comuna-suiza.png"],
-        },
-        trabajo: {
-            hero: "media/trabajar-suiza.png",
-            supporting: ["media/buscar-empleo-suiza.png", "media/contrato-trabajo-suiza.png"],
-        },
-        vivienda: {
-            hero: "media/alquiler-vivienda-suiza.png",
-            supporting: ["images/suiza/mapa-politico-cantones.png"],
-        },
-        salud: {
-            hero: "media/seguro-medico-lamal.png",
-            supporting: ["images/suiza/mapa-linguistico.png"],
-        },
-        impuestos: {
-            hero: "media/impuestos-suiza.png",
-            supporting: ["images/suiza/mapa-politico-cantones.png"],
-        },
-        vivir: {
-            hero: "media/og-image.jpg",
-            supporting: ["images/suiza/mapa-regiones-culturales.png", "images/suiza/mapa-linguistico.png"],
-        },
-        "vivir-en-suiza": {
-            hero: "media/og-image.jpg",
-            supporting: ["images/suiza/mapa-regiones-culturales.png", "images/suiza/mapa-linguistico.png"],
-        },
-        fronterizos: {
-            hero: "images/suiza/mapa-red-ferroviaria.png",
-            supporting: ["images/suiza/mapa-politico-cantones.png"],
-        },
-        recursos: {
-            hero: "media/og-image.jpg",
-            supporting: ["images/suiza/mapa-politico-cantones.png"],
-        },
-        "fuentes-oficiales": {
-            hero: "media/og-image.jpg",
-            supporting: ["images/suiza/mapa-politico-cantones.png"],
-        },
-    };
-
     function pickArticleImages(pageData, routeKey) {
         const HOMEPAGE_BANNER = "media/banner.jpg";
-        const hub = pageData && pageData.hub;
-        const preset = (hub && ARTICLE_IMAGE_PRESETS[hub]) ? ARTICLE_IMAGE_PRESETS[hub] : ARTICLE_IMAGE_PRESETS.vivir;
         
         // 1. Prioritize image defined in the article itself (pageData)
         let hero = pageData && pageData.featuredImage ? pageData.featuredImage : null;
@@ -1405,16 +1360,13 @@ document.addEventListener("DOMContentLoaded", () => {
             if (es && es.featuredImage) hero = es.featuredImage;
         }
         
-        // 3. Use topic preset as a last resort
-        if (!hero) hero = preset.hero;
-        
         // Safety Rule: Never use the homepage banner in articles
         if (hero === HOMEPAGE_BANNER) {
-            hero = preset.hero !== HOMEPAGE_BANNER ? preset.hero : "media/og-image.jpg";
+            hero = "media/og-image.jpg"; // Fallback to a generic image if the homepage banner was accidentally set
         }
 
         const hasSupportingOverride = Array.isArray(pageData && pageData.supportingImages);
-        let supporting = hasSupportingOverride ? pageData.supportingImages : (preset.supporting || []);
+        let supporting = hasSupportingOverride ? pageData.supportingImages : [];
         
         // Ensure supporting images also follow the exclusivity rule
         supporting = supporting.filter(src => src !== HOMEPAGE_BANNER);
