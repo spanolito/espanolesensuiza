@@ -1359,35 +1359,35 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         vivienda: {
             hero: "media/alquiler-vivienda-suiza.png",
-            supporting: ["media/banner.jpg", "images/suiza/mapa-politico-cantones.png"],
+            supporting: ["images/suiza/mapa-politico-cantones.png"],
         },
         salud: {
             hero: "media/seguro-medico-lamal.png",
-            supporting: ["media/banner.jpg", "images/suiza/mapa-linguistico.png"],
+            supporting: ["images/suiza/mapa-linguistico.png"],
         },
         impuestos: {
             hero: "media/impuestos-suiza.png",
-            supporting: ["images/suiza/mapa-politico-cantones.png", "media/banner.jpg"],
+            supporting: ["images/suiza/mapa-politico-cantones.png"],
         },
         vivir: {
-            hero: "media/banner.jpg",
+            hero: "media/og-image.jpg",
             supporting: ["images/suiza/mapa-regiones-culturales.png", "images/suiza/mapa-linguistico.png"],
         },
         "vivir-en-suiza": {
-            hero: "media/banner.jpg",
+            hero: "media/og-image.jpg",
             supporting: ["images/suiza/mapa-regiones-culturales.png", "images/suiza/mapa-linguistico.png"],
         },
         fronterizos: {
             hero: "images/suiza/mapa-red-ferroviaria.png",
-            supporting: ["media/banner.jpg", "images/suiza/mapa-politico-cantones.png"],
+            supporting: ["images/suiza/mapa-politico-cantones.png"],
         },
         recursos: {
             hero: "media/og-image.jpg",
-            supporting: ["media/banner.jpg", "images/suiza/mapa-politico-cantones.png"],
+            supporting: ["images/suiza/mapa-politico-cantones.png"],
         },
         "fuentes-oficiales": {
             hero: "media/og-image.jpg",
-            supporting: ["media/banner.jpg", "images/suiza/mapa-politico-cantones.png"],
+            supporting: ["images/suiza/mapa-politico-cantones.png"],
         },
     };
 
