@@ -1483,6 +1483,107 @@ document.addEventListener("DOMContentLoaded", () => {
         normalizeArticleSectionHeadings(articleEl);
         ensureOfficialSourcesSection(articleEl, pageData);
         ensureSupportingImages(articleEl, pageData, routeKey);
+        enhanceInfoTables(articleEl);
+    }
+
+    function enhanceInfoTables(articleEl) {
+        if (!articleEl) return;
+        const tables = Array.from(articleEl.querySelectorAll("table.info-table"));
+        if (tables.length === 0) return;
+
+        const lang = (document.documentElement && document.documentElement.lang) ? document.documentElement.lang : "es";
+        const ariaLabelByLang = {
+            es: "Tabla comparativa",
+            en: "Comparison table",
+            fr: "Tableau comparatif",
+            de: "Vergleichstabelle",
+            it: "Tabella comparativa",
+        };
+        const ariaLabel = ariaLabelByLang[lang] || ariaLabelByLang.es;
+
+        for (const table of tables) {
+            if (table.dataset && table.dataset.enhanced === "1") continue;
+
+            const parent = table.parentElement;
+            let wrapper = null;
+            if (parent && parent.classList && parent.classList.contains("table-scroll")) {
+                wrapper = parent;
+            } else {
+                wrapper = document.createElement("div");
+                wrapper.className = "table-scroll";
+                wrapper.setAttribute("role", "region");
+                wrapper.setAttribute("tabindex", "0");
+                wrapper.setAttribute("aria-label", ariaLabel);
+
+                table.parentNode.insertBefore(wrapper, table);
+                wrapper.appendChild(table);
+            }
+
+            // Build mobile cards (smartphone only via CSS media query)
+            const headerCells = Array.from(table.querySelectorAll("thead th"));
+            const headers = headerCells.map(th => (th.textContent || "").trim()).filter(Boolean);
+            const bodyRows = Array.from(table.querySelectorAll("tbody tr"));
+
+            if (headers.length > 0 && bodyRows.length > 0) {
+                const cards = document.createElement("div");
+                cards.className = "table-cards";
+                cards.setAttribute("role", "list");
+
+                for (const row of bodyRows) {
+                    const cells = Array.from(row.querySelectorAll("td"));
+                    if (cells.length === 0) continue;
+
+                    const card = document.createElement("div");
+                    card.className = "table-card";
+                    card.setAttribute("role", "listitem");
+
+                    // Use first column as card "title" while keeping the same content (no duplication).
+                    const titleCell = cells[0];
+                    const titleLabel = headers[0] || "";
+                    const titleValueHTML = titleCell ? titleCell.innerHTML : "";
+
+                    const title = document.createElement("div");
+                    title.className = "table-card-title";
+                    title.innerHTML = `
+                        ${titleLabel ? `<div class="table-card-k">${escapeHTML(titleLabel)}</div>` : ``}
+                        <div class="table-card-v">${titleValueHTML}</div>
+                    `;
+                    card.appendChild(title);
+
+                    // Remaining columns as label/value rows
+                    for (let i = 1; i < cells.length; i++) {
+                        const label = headers[i] || `Col ${i + 1}`;
+                        const valueHTML = cells[i].innerHTML;
+
+                        const item = document.createElement("div");
+                        item.className = "table-card-item";
+                        item.innerHTML = `
+                            <div class="table-card-k">${escapeHTML(label)}</div>
+                            <div class="table-card-v">${valueHTML}</div>
+                        `;
+                        card.appendChild(item);
+                    }
+
+                    cards.appendChild(card);
+                }
+
+                // Insert right after the scroll wrapper, so we can toggle table/cards via CSS.
+                if (wrapper.nextSibling) wrapper.parentNode.insertBefore(cards, wrapper.nextSibling);
+                else wrapper.parentNode.appendChild(cards);
+            }
+
+            if (table.dataset) table.dataset.enhanced = "1";
+        }
+    }
+
+    function escapeHTML(input) {
+        const s = String(input ?? "");
+        return s
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#039;");
     }
 
     function normalizeArticleSectionHeadings(articleEl) {

@@ -792,6 +792,172 @@ strong, b {
     font-size: 1.05rem;
 }
 
+/* Responsive tables (used on permisos-suiza comparison) */
+.article-content .table-scroll {
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    margin: 1.75rem 0;
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-sm);
+    background: #fff;
+    scrollbar-gutter: stable both-edges;
+}
+
+.article-content .table-scroll:focus {
+    outline: 2px solid rgba(213, 43, 30, 0.25);
+    outline-offset: 2px;
+}
+
+.article-content .table-cards {
+    display: none; /* enabled on smartphone only */
+    margin: 1.75rem 0;
+    gap: 0.85rem;
+}
+
+.article-content .table-card {
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-sm);
+    background: #fff;
+    padding: 0.9rem 1rem;
+}
+
+.article-content .table-card-title {
+    display: grid;
+    gap: 0.25rem;
+    padding-bottom: 0.75rem;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.article-content .table-card-item {
+    display: grid;
+    grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.3fr);
+    gap: 0.75rem;
+    padding: 0.55rem 0;
+    border-top: 1px dashed rgba(2, 12, 27, 0.08);
+}
+
+.article-content .table-card-item:first-of-type {
+    border-top: none;
+    padding-top: 0;
+}
+
+.article-content .table-card-k {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--text-light);
+    letter-spacing: 0.01em;
+    overflow-wrap: anywhere;
+    hyphens: auto;
+}
+
+.article-content .table-card-v {
+    font-size: 1rem;
+    color: var(--text-primary);
+    overflow-wrap: anywhere;
+    hyphens: auto;
+}
+
+.article-content table.info-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.article-content table.info-table th,
+.article-content table.info-table td {
+    padding: 0.85rem 1rem;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid var(--border-light);
+    overflow-wrap: anywhere;
+    hyphens: auto;
+}
+
+.article-content table.info-table thead th {
+    background: var(--bg-surface);
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.article-content table.info-table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.article-content table.info-table th + th,
+.article-content table.info-table td + td {
+    border-left: 1px solid var(--border-light);
+}
+
+.article-content table.info-table tbody tr:nth-child(even) td {
+    background: rgba(2, 12, 27, 0.015);
+}
+
+@media (max-width: 768px) {
+    .article-content .table-scroll {
+        margin-left: calc(var(--space-sm) * -1);
+        margin-right: calc(var(--space-sm) * -1);
+        border-left: none;
+        border-right: none;
+        border-radius: 0;
+    }
+
+    .article-content table.info-table {
+        min-width: 720px; /* keep columns readable; scroll instead of squeezing */
+    }
+
+    .article-content table.info-table th,
+    .article-content table.info-table td {
+        padding: 0.7rem 0.85rem;
+        font-size: 0.95rem;
+    }
+
+    .article-content table.info-table th:first-child,
+    .article-content table.info-table td:first-child {
+        position: sticky;
+        left: 0;
+        background: #fff;
+        z-index: 2;
+        box-shadow: 1px 0 0 var(--border-light);
+    }
+
+    .article-content table.info-table thead th:first-child {
+        background: var(--bg-surface);
+        z-index: 3;
+    }
+
+    .article-content table.info-table tbody tr:nth-child(even) td:first-child {
+        background: rgba(2, 12, 27, 0.015);
+    }
+}
+
+@media (max-width: 520px) {
+    .article-content .table-scroll {
+        display: none;
+    }
+
+    .article-content .table-cards {
+        display: grid;
+    }
+
+    .article-content .table-card-item {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 0.25rem;
+    }
+
+    .article-content .table-card-k {
+        font-size: 0.8rem;
+    }
+
+    .article-content .table-card-v {
+        font-size: 0.98rem;
+    }
+}
+
 /* Accordion (FAQ) */
 .accordion {
     margin: var(--space-md) 0;
