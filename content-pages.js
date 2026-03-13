@@ -393,7 +393,7 @@ window.siteContent.es.pages = {
     "recursos": {
         title: "Recursos útiles y portales oficiales en Suiza para emigrantes",
         description: "Listado de recursos y enlaces oficiales para vivir en Suiza: comparadores, portales federales, sitios cantonales y herramientas prácticas.",
-        isCategoryHub: false,
+        isCategoryHub: true,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
@@ -437,6 +437,11 @@ window.siteContent.es.pages = {
                     <a href="https://www.comparis.ch" target="_blank" class="read-more">${ui['rec-comp-link']}</a>
                 </div>
             </div>
+
+            <section class="animate-fade-up" style="margin-top: var(--space-xl);">
+                <h2 style="margin-top:0;">${ui['lbl-explore-guides']}</h2>
+                <div id="category-articles-container"></div>
+            </section>
 
             <section id="cantones" class="animate-fade-up" style="margin-top: var(--space-xl);">
                 <h2 style="margin-top:0;">${ui['home-title-cantones']}</h2>
