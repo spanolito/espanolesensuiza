@@ -16,6 +16,7 @@ class Article:
     description: str
     keywords: str
     content_html: str
+    related_slugs: list[str]
     summary: str
     reading_time: int
     date_updated: str
@@ -55,18 +56,35 @@ def strip_first_h1(md_body: str) -> str:
     return "\n".join(out).lstrip()
 
 
+def extract_related_slugs(md_body: str) -> tuple[list[str], str]:
+    related = re.findall(r"#/([a-z0-9\-]+)", md_body, flags=re.I)
+    unique: list[str] = []
+    for s in related:
+        s = s.strip().lower()
+        if s and s not in unique:
+            unique.append(s)
+
+    # Remove "Relacionado:" lines from the rendered body to avoid awkward raw lists.
+    cleaned_lines: list[str] = []
+    for line in md_body.splitlines():
+        if re.search(r"\bRelacionado\b\s*:", line, flags=re.I):
+            continue
+        cleaned_lines.append(line)
+    return unique, "\n".join(cleaned_lines).lstrip()
+
+
 def inline_format(text: str) -> str:
     text = re.sub(r"`([^`]+)`", r"<code>\1</code>", text)
     text = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", text)
     text = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", text)
     text = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", r'<a href="\2" target="_blank" rel="noopener noreferrer">\1</a>', text)
     text = re.sub(r"\b(https?://[^\s<]+)", r'<a href="\1" target="_blank" rel="noopener noreferrer">\1</a>', text)
-    text = re.sub(r"<code>(#/[^<]+)</code>", r'<a href="\1">\1</a>', text)
     return text
 
 
 def md_to_html(md_body: str) -> str:
     md_body = strip_first_h1(md_body)
+    _, md_body = extract_related_slugs(md_body)
     lines = md_body.splitlines()
     html: list[str] = []
 
@@ -219,6 +237,8 @@ def load_article(md_path: Path) -> Article:
     keywords = fm.get("keywords", "").strip()
     description = (fm.get("meta_description") or fm.get("description") or "").strip()
 
+    related_slugs, body = extract_related_slugs(body)
+
     # Title: from first H1 if present; else seo_title; else slug.
     m = re.search(r"^#\s+(.+)$", body, flags=re.M)
     title = (m.group(1).strip() if m else (fm.get("seo_title", "") or slug)).strip()
@@ -246,6 +266,7 @@ def load_article(md_path: Path) -> Article:
         description=description,
         keywords=keywords,
         content_html=content_html,
+        related_slugs=related_slugs,
         summary=summary,
         reading_time=reading_time,
         date_updated=date_updated_by_lang(lang),
@@ -256,17 +277,20 @@ def load_article(md_path: Path) -> Article:
 def render_js(lang: str, articles: list[Article], out_path: Path) -> None:
     entries: list[str] = []
     for a in articles:
+        related_js = "[" + ", ".join(f"\"{js_escape_template_literal(s)}\"" for s in a.related_slugs) + "]"
         entries.append(
             f"""    "{js_escape_template_literal(a.key)}": {{
         title: "{js_escape_template_literal(a.title)}",
         description: "{js_escape_template_literal(a.description)}",
         keywords: "{js_escape_template_literal(a.keywords)}",
+        keywordsLocalized: true,
         category: "{js_escape_template_literal(a.category)}",
         hub: "{js_escape_template_literal(a.hub)}",
         slug: "{js_escape_template_literal(a.slug)}",
         readingTime: {a.reading_time},
         dateUpdated: "{js_escape_template_literal(a.date_updated)}",
         summary: "{js_escape_template_literal(a.summary)}",
+        relatedSlugs: {related_js},
         content: `{js_escape_template_literal(a.content_html)}`
     }}"""
         )
@@ -303,6 +327,12 @@ def main() -> int:
         help="Roadmap file that lists slugs (default: docs/facebook-pipeline/publication_roadmap.md)",
     )
     parser.add_argument(
+        "--mode",
+        choices=["roadmap", "all"],
+        default="roadmap",
+        help="Select slugs from roadmap, or integrate all slugs found in articles-markdown (default: roadmap).",
+    )
+    parser.add_argument(
         "--limit",
         type=int,
         default=10,
@@ -316,10 +346,15 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    roadmap_text = args.roadmap.read_text("utf-8", errors="ignore")
-    slugs = load_roadmap_slugs(roadmap_text, args.limit)
-    if not slugs:
-        raise SystemExit(f"No slugs found in roadmap: {args.roadmap}")
+    if args.mode == "roadmap":
+        roadmap_text = args.roadmap.read_text("utf-8", errors="ignore")
+        slugs = load_roadmap_slugs(roadmap_text, args.limit)
+        if not slugs:
+            raise SystemExit(f"No slugs found in roadmap: {args.roadmap}")
+    else:
+        slugs = sorted([p.name for p in args.articles_markdown.iterdir() if p.is_dir()])
+        if not slugs:
+            raise SystemExit(f"No article directories found under: {args.articles_markdown}")
 
     langs = ["es", "en", "fr", "de"]
     by_lang: dict[str, list[Article]] = {l: [] for l in langs}

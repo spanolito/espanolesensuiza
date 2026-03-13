@@ -87,6 +87,13 @@ window.siteContent.es.pages = {
                 </div>
             </section>
 
+            <!-- SECCIÓN 1b: Guías destacadas -->
+            <section class="animate-fade-up delay-150" style="margin-top: var(--space-xl);">
+                <h2>${ui['home-title-featured']}</h2>
+                <p style="margin-bottom:2rem; color: var(--text-secondary);">${ui['home-desc-featured']}</p>
+                <div id="home-featured-guides-container"></div>
+            </section>
+
             <!-- SECCIÓN 2: Fuentes oficiales -->
             <section class="animate-fade-up delay-200" style="margin-top: var(--space-xl);">
                 <h2>${ui['home-title-fuentes']}</h2>

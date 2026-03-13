@@ -24,8 +24,8 @@ document.addEventListener("DOMContentLoaded", () => {
     if (yearSpan) yearSpan.textContent = new Date().getFullYear();
 
     // UI Dictionary for static strings and JS generated elements
-    window.siteContent.ui = {
-        es: {
+        window.siteContent.ui = {
+            es: {
             "nav-inicio": "Inicio",
             "nav-vivir": "Vivir en Suiza",
             "nav-tramites": "Trámites",
@@ -53,6 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "btn-view-section": "Ver sección",
             "lbl-explore": "Sigue explorando guías sobre",
             "lbl-explore-other": "Explora otras guías",
+            "lbl-related": "Artículos relacionados",
             "lbl-read-time": "min lectura",
             "lbl-updated": "Actualizado:",
             "lbl-summary": "Puntos Clave",
@@ -76,6 +77,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "home-desc-start": "Si acabas de llegar o planeas mudarte, revisa estas guías esenciales.",
             "home-title-hubs": "Temas Principales",
             "home-title-featured": "Guías Destacadas",
+            "home-desc-featured": "Selección editorial y contenido práctico (incluye guías nuevas basadas en la experiencia de comunidad).",
             "home-title-faq": "Preguntas Frecuentes",
             "home-desc-faq": "Las dudas más habituales entre hispanohablantes en Suiza.",
             "home-title-fuentes": "Fuentes oficiales",
@@ -164,7 +166,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "cont-success": "¡Gracias! Tu mensaje ha sido enviado.",
             "cont-error": "Hubo un error al enviar el formulario. Por favor, inténtalo de nuevo."
         },
-        en: {
+            en: {
             "nav-inicio": "Home",
             "nav-vivir": "Living in Switzerland",
             "nav-tramites": "Procedures",
@@ -192,6 +194,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "btn-view-section": "View section",
             "lbl-explore": "Keep exploring guides about",
             "lbl-explore-other": "Explore other guides",
+            "lbl-related": "Related articles",
             "lbl-read-time": "min read",
             "lbl-updated": "Updated:",
             "lbl-summary": "Key Points",
@@ -215,6 +218,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "home-desc-start": "If you just arrived or plan to move, check these essential guides.",
             "home-title-hubs": "Main Topics",
             "home-title-featured": "Featured Guides",
+            "home-desc-featured": "An editorial selection of practical guides (including new, community-derived content).",
             "home-title-faq": "Frequently Asked Questions",
             "home-desc-faq": "The most common questions among Spanish speakers in Switzerland.",
             "home-title-fuentes": "Official Sources",
@@ -310,7 +314,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "cont-success": "Thank you! Your message has been sent.",
             "cont-error": "There was an error sending the form. Please try again."
         },
-        fr: {
+            fr: {
             "nav-inicio": "Accueil",
             "nav-vivir": "Vivre en Suisse",
             "nav-tramites": "Démarches",
@@ -338,6 +342,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "btn-view-section": "Voir la section",
             "lbl-explore": "Continuer d'explorer les guides sur",
             "lbl-explore-other": "Explorer d'autres guides",
+            "lbl-related": "Articles connexes",
             "lbl-read-time": "min de lecture",
             "lbl-updated": "Mis à jour :",
             "lbl-summary": "Points Clés",
@@ -361,6 +366,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "home-desc-start": "Si vous venez d'arriver ou prévoyez de déménager, consultez ces guides essentiels.",
             "home-title-hubs": "Sujets Principaux",
             "home-title-featured": "Guides en Vedette",
+            "home-desc-featured": "Sélection éditoriale de guides pratiques (y compris de nouveaux contenus issus de la communauté).",
             "home-title-faq": "Foire Aux Questions",
             "home-desc-faq": "Les questions les plus fréquentes chez les hispanophones en Suisse.",
             "home-title-fuentes": "Sources officielles",
@@ -449,7 +455,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "cont-success": "Merci ! Votre message a été envoyé.",
             "cont-error": "Une erreur s'est produite. Veuillez réessayer."
         },
-        de: {
+            de: {
             "nav-inicio": "Startseite",
             "nav-vivir": "Leben in der Schweiz",
             "nav-tramites": "Verfahren",
@@ -477,6 +483,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "btn-view-section": "Sektion ansehen",
             "lbl-explore": "Weitere Leitfäden erkunden zu",
             "lbl-explore-other": "Andere Leitfäden erkunden",
+            "lbl-related": "Ähnliche Artikel",
             "lbl-read-time": "Min Lesezeit",
             "lbl-updated": "Aktualisiert:",
             "lbl-summary": "Wichtige Punkte",
@@ -500,6 +507,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "home-desc-start": "Wenn Sie gerade angekommen sind, lesen Sie diese wichtigen Leitfäden.",
             "home-title-hubs": "Hauptthemen",
             "home-title-featured": "Ausgewählte Leitfäden",
+            "home-desc-featured": "Eine kuratierte Auswahl praktischer Guides (inklusive neuer Inhalte aus der Community).",
             "home-title-faq": "Häufig gestellte Fragen",
             "home-desc-faq": "Die häufigsten Fragen unter Hispanischsprachigen in der Schweiz.",
             "home-title-fuentes": "Offizielle Quellen",
@@ -588,7 +596,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "cont-success": "Vielen Dank! Ihre Nachricht wurde gesendet.",
             "cont-error": "Beim Senden ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
         },
-        it: {
+            it: {
             "nav-inicio": "Inizio",
             "nav-vivir": "Vivere in Svizzera",
             "nav-tramites": "Procedure",
@@ -616,6 +624,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "btn-view-section": "Vedi la sezione",
             "lbl-explore": "Continua a esplorare guide su",
             "lbl-explore-other": "Esplora altre guide",
+            "lbl-related": "Articoli correlati",
             "lbl-read-time": "min di lettura",
             "lbl-updated": "Aggiornato:",
             "lbl-summary": "Punti Chiave",
@@ -639,6 +648,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "home-desc-start": "Se sei appena arrivato o prevedi di trasferirti, consulta queste guide essenziali.",
             "home-title-hubs": "Argomenti Principali",
             "home-title-featured": "Guide in Evidenza",
+            "home-desc-featured": "Selezione editoriale di guide pratiche (incluse nuove guide derivate dalla community).",
             "home-title-faq": "Domande Frequenti",
             "home-desc-faq": "Le domande più frequenti tra gli ispanofoni in Svizzera.",
             "home-title-fuentes": "Fonti ufficiali",
@@ -1176,7 +1186,15 @@ document.addEventListener("DOMContentLoaded", () => {
         const langData = window.siteContent[currentLang].articles;
 
         // Find all articles that belong to this hub
-        const hubArticles = Object.keys(langData).filter(key => langData[key].hub === hubKey).map(key => ({ id: key, ...langData[key] }));
+        const hubArticles = Object.keys(langData)
+            .filter(key => langData[key].hub === hubKey)
+            .map(key => ({ id: key, ...langData[key] }))
+            .sort((a, b) => {
+                const aIsFb = String(a.id || "").startsWith("fb-");
+                const bIsFb = String(b.id || "").startsWith("fb-");
+                if (aIsFb !== bIsFb) return aIsFb ? -1 : 1;
+                return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
+            });
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
         if (hubArticles.length > 0) {
@@ -1195,6 +1213,47 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             container.innerHTML = `<p style="color: var(--text-light); margin-top: 2rem;">${ui['lbl-no-articles']}</p>`;
         }
+    }
+
+    /**
+     * Inject Featured Guides into the Home page.
+     */
+    function injectHomepageFeatured() {
+        const container = document.getElementById("home-featured-guides-container");
+        if (!container) return;
+
+        const langArticles = window.siteContent[currentLang] && window.siteContent[currentLang].articles;
+        if (!langArticles) return;
+
+        const featuredSlugs = [
+            "permisos-suiza-actualizacion",
+            "seguro-medico-lamal-elegir",
+            "alquilar-en-suiza-evitar-estafas",
+            "costo-de-vida-suiza-presupuesto",
+            "rav-paro-suiza",
+            "fraudes-inmigrantes-suiza"
+        ];
+
+        const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+        const picked = featuredSlugs.map(slug => {
+            const key = Object.keys(langArticles).find(k => langArticles[k].slug === slug);
+            return key ? { id: key, ...langArticles[key] } : null;
+        }).filter(Boolean);
+
+        if (picked.length === 0) return;
+
+        container.innerHTML = `
+            <div class="featured-grid">
+                ${picked.map(r => `
+                    <a href="#/${r.slug || 'articulo/' + r.id}" class="card-article">
+                        <div class="card-meta">${r.category || ui['lbl-guide']} ${r.readingTime ? `· ${r.readingTime} ${ui['lbl-read-time']}` : ''}</div>
+                        <h3>${r.title}</h3>
+                        <p>${r.summary || r.description || ""}</p>
+                        <span class="btn-secondary" style="margin-top:auto; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600;">${ui['btn-read-guide']}</span>
+                    </a>
+                `).join('')}
+            </div>
+        `;
     }
 
     /**
@@ -1387,7 +1446,8 @@ document.addEventListener("DOMContentLoaded", () => {
         
         const metaKeywords = document.getElementById("meta-keywords");
         if (metaKeywords) {
-            const keywords = (isArticle && currentLang !== 'es') ? "" : (pageData.keywords || "");
+            const hasLocalizedKeywords = Boolean(pageData && pageData.keywords && pageData.keywordsLocalized);
+            const keywords = (isArticle && currentLang !== 'es' && !hasLocalizedKeywords) ? "" : (pageData.keywords || "");
             metaKeywords.setAttribute("content", keywords);
         }
 
@@ -1430,9 +1490,49 @@ document.addEventListener("DOMContentLoaded", () => {
             const hubForNav = isArticle ? (pageData && pageData.hub) : null;
 
             if (isArticle) {
+                const langArticles = langData.articles || {};
+                const esArticles = (window.siteContent['es'] && window.siteContent['es'].articles) ? window.siteContent['es'].articles : {};
+
+                const resolveBySlug = (slug) => {
+                    const key = Object.keys(langArticles).find(k => langArticles[k].slug === slug);
+                    if (key) return { id: key, ...langArticles[key] };
+                    const esKey = Object.keys(esArticles).find(k => esArticles[k].slug === slug);
+                    if (esKey) return { id: esKey, ...(langArticles[esKey] || esArticles[esKey]) };
+                    return null;
+                };
+
+                const explicitRelated = Array.isArray(pageData.relatedSlugs) ? pageData.relatedSlugs : [];
+                const explicitRelatedItems = explicitRelated
+                    .filter(s => s && s !== pageData.slug)
+                    .map(resolveBySlug)
+                    .filter(Boolean)
+                    .slice(0, 6);
+
+                const explicitRelatedHTML = explicitRelatedItems.length > 0
+                    ? `
+                        <div class="callout info" style="margin-top: 1.5rem;">
+                            <strong>${ui['lbl-related']}</strong>
+                            <ul style="margin-top: 0.75rem;">
+                                ${explicitRelatedItems.map(r => `<li><a href="#/${r.slug}">${r.title}</a></li>`).join('')}
+                            </ul>
+                        </div>
+                    `
+                    : '';
+
                 // Find Related Guides
-                const relatedKeys = Object.keys(langData.articles)
-                    .filter(k => k !== routeKey && langData.articles[k].hub === pageData.hub)
+                const relatedKeys = Object.keys(langArticles)
+                    .filter(k => k !== routeKey && langArticles[k].hub === pageData.hub)
+                    .sort((a, b) => {
+                        const currentIsFb = String(routeKey || "").startsWith("fb-");
+                        const aIsFb = String(a).startsWith("fb-");
+                        const bIsFb = String(b).startsWith("fb-");
+                        // Prefer cross-linking between fb and non-fb
+                        if (aIsFb !== bIsFb) {
+                            if (currentIsFb) return aIsFb ? 1 : -1;
+                            return aIsFb ? -1 : 1;
+                        }
+                        return String(langArticles[a].title || "").localeCompare(String(langArticles[b].title || ""), undefined, { sensitivity: "base" });
+                    })
                     .slice(0, 3);
                 
                 let relatedHTML = '';
@@ -1491,7 +1591,8 @@ document.addEventListener("DOMContentLoaded", () => {
                                     <h4>${ui['lbl-summary']}</h4>
                                     <p>${pageData.summary}</p>
                                 </div>` : ''}
-                                
+
+                                ${explicitRelatedHTML}
                                 ${pageData.content}
                             </article>
                             
@@ -1518,6 +1619,10 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (pageData.isCategoryHub) {
                     // routeKey matches exactly the hub property in articles (e.g. "tramites")
                     injectCategoryArticles(routeKey);
+                }
+
+                if (routeKey === "home") {
+                    injectHomepageFeatured();
                 }
             }
 
