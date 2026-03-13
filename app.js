@@ -1456,8 +1456,24 @@ document.addEventListener("DOMContentLoaded", () => {
         const need = Math.max(0, 2 - existing.length);
         if (need === 0) return;
 
-        const { supporting } = pickArticleImages(pageData, routeKey);
-        const toInsert = supporting.slice(0, need);
+        const { hero, supporting } = pickArticleImages(pageData, routeKey);
+        const heroSrc = (hero || "").trim();
+        const existingSrcs = new Set(
+            existing
+                .map(img => (img.getAttribute("src") || img.src || "").trim())
+                .filter(Boolean)
+        );
+
+        // Avoid inserting the hero image again as a "supporting" image.
+        const supportingDeduped = (supporting || []).filter(src => {
+            const normalized = String(src || "").trim();
+            if (!normalized) return false;
+            if (heroSrc && normalized === heroSrc) return false;
+            if (existingSrcs.has(normalized)) return false;
+            return true;
+        });
+
+        const toInsert = supportingDeduped.slice(0, need);
         if (toInsert.length === 0) return;
 
         const altBase = (pageData && pageData.title) ? String(pageData.title) : "Switzerland guide";
