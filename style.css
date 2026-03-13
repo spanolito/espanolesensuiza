@@ -165,7 +165,11 @@ strong, b {
     border: 1px solid transparent;
     gap: 8px;
     text-decoration: none;
-    line-height: 1;
+    line-height: 1.2;
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    text-align: center;
 }
 
 .btn-primary {
@@ -265,6 +269,8 @@ strong, b {
     display: flex;
     list-style: none;
     gap: 1.5rem;
+    flex-wrap: wrap;
+    row-gap: 0.5rem;
     margin: 0;
     padding: 0;
 }
@@ -275,6 +281,7 @@ strong, b {
     color: var(--text-secondary);
     position: relative;
     padding: 4px 0;
+    overflow-wrap: anywhere;
 }
 
 .nav-link::after {
@@ -1047,6 +1054,24 @@ textarea.form-control {
     transition: all var(--transition-fast);
     font-family: inherit;
     background: white;
+}
+
+@media (max-width: 520px) {
+    .search-container {
+        width: 100%;
+        padding: 0 1rem;
+        max-width: 100%;
+    }
+
+    .btn {
+        padding: 0.8rem 1.1rem;
+    }
+
+    .card-article h3,
+    .card-hub h3 {
+        overflow-wrap: anywhere;
+        hyphens: auto;
+    }
 }
 
 .search-input:focus {
