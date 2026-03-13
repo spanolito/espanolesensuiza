@@ -1348,6 +1348,331 @@ document.addEventListener("DOMContentLoaded", () => {
         addAlt("x-default", xDefaultHref);
     }
 
+    const ARTICLE_IMAGE_PRESETS = {
+        tramites: {
+            hero: "media/tramites-llegada-suiza.png",
+            supporting: ["media/permiso-residencia-suiza.png", "media/registro-comuna-suiza.png"],
+        },
+        trabajo: {
+            hero: "media/trabajar-suiza.png",
+            supporting: ["media/buscar-empleo-suiza.png", "media/contrato-trabajo-suiza.png"],
+        },
+        vivienda: {
+            hero: "media/alquiler-vivienda-suiza.png",
+            supporting: ["media/banner.jpg", "images/suiza/mapa-politico-cantones.png"],
+        },
+        salud: {
+            hero: "media/seguro-medico-lamal.png",
+            supporting: ["media/banner.jpg", "images/suiza/mapa-linguistico.png"],
+        },
+        impuestos: {
+            hero: "media/impuestos-suiza.png",
+            supporting: ["images/suiza/mapa-politico-cantones.png", "media/banner.jpg"],
+        },
+        vivir: {
+            hero: "media/banner.jpg",
+            supporting: ["images/suiza/mapa-regiones-culturales.png", "images/suiza/mapa-linguistico.png"],
+        },
+        "vivir-en-suiza": {
+            hero: "media/banner.jpg",
+            supporting: ["images/suiza/mapa-regiones-culturales.png", "images/suiza/mapa-linguistico.png"],
+        },
+        fronterizos: {
+            hero: "images/suiza/mapa-red-ferroviaria.png",
+            supporting: ["media/banner.jpg", "images/suiza/mapa-politico-cantones.png"],
+        },
+        recursos: {
+            hero: "media/og-image.jpg",
+            supporting: ["media/banner.jpg", "images/suiza/mapa-politico-cantones.png"],
+        },
+        "fuentes-oficiales": {
+            hero: "media/og-image.jpg",
+            supporting: ["media/banner.jpg", "images/suiza/mapa-politico-cantones.png"],
+        },
+    };
+
+    function pickArticleImages(pageData, routeKey) {
+        const hub = pageData && pageData.hub;
+        const preset = (hub && ARTICLE_IMAGE_PRESETS[hub]) ? ARTICLE_IMAGE_PRESETS[hub] : ARTICLE_IMAGE_PRESETS.vivir;
+        let hero = pageData && pageData.featuredImage ? pageData.featuredImage : null;
+        if (!hero && routeKey && window.siteContent && window.siteContent.es && window.siteContent.es.articles) {
+            const es = window.siteContent.es.articles[routeKey];
+            if (es && es.featuredImage) hero = es.featuredImage;
+        }
+        if (!hero) hero = preset.hero;
+        const supporting = Array.isArray(pageData && pageData.supportingImages) && pageData.supportingImages.length > 0
+            ? pageData.supportingImages
+            : preset.supporting;
+        return { hero, supporting };
+    }
+
+    function renderArticleHeroHTML(pageData, routeKey) {
+        const { hero } = pickArticleImages(pageData, routeKey);
+        if (!hero) return "";
+        const alt = (pageData && (pageData.imageAlt || pageData.title)) || "";
+        return `
+            <figure class="article-hero">
+                <img src="${hero}" alt="${alt}" loading="eager" decoding="async">
+            </figure>
+        `;
+    }
+
+    function removeInlineFontSize(el) {
+        const style = el.getAttribute("style");
+        if (!style) return;
+        const cleaned = style
+            .split(";")
+            .map(s => s.trim())
+            .filter(Boolean)
+            .filter(rule => !/^font-size\\s*:/i.test(rule))
+            .join("; ");
+        if (cleaned) el.setAttribute("style", cleaned);
+        else el.removeAttribute("style");
+    }
+
+    function normalizeArticleTypography(articleEl) {
+        if (!articleEl) return;
+        const body = articleEl.querySelector(".article-body") || articleEl;
+
+        body.querySelectorAll(".page-header").forEach(n => n.remove());
+
+        body.querySelectorAll("h1").forEach(h1 => {
+            const h2 = document.createElement("h2");
+            h2.innerHTML = h1.innerHTML;
+            for (const attr of Array.from(h1.attributes || [])) {
+                if (attr.name === "style") continue;
+                h2.setAttribute(attr.name, attr.value);
+            }
+            h1.replaceWith(h2);
+        });
+
+        body.querySelectorAll("[style]").forEach(el => removeInlineFontSize(el));
+    }
+
+    function ensureSupportingImages(articleEl, pageData, routeKey) {
+        if (!articleEl) return;
+        const contentRoot = articleEl.querySelector(".article-content") || articleEl.querySelector(".article-body") || articleEl;
+        const existing = Array.from(contentRoot.querySelectorAll("img")).filter(img => !img.closest(".article-hero"));
+        const need = Math.max(0, 2 - existing.length);
+        if (need === 0) return;
+
+        const { supporting } = pickArticleImages(pageData, routeKey);
+        const toInsert = supporting.slice(0, need);
+        if (toInsert.length === 0) return;
+
+        const altBase = (pageData && pageData.title) ? String(pageData.title) : "Switzerland guide";
+
+        const insertionPoints = Array.from(contentRoot.querySelectorAll("h2"));
+        const insertAfter = (target, node) => {
+            if (!target || !target.parentNode) return contentRoot.appendChild(node);
+            if (target.nextSibling) target.parentNode.insertBefore(node, target.nextSibling);
+            else target.parentNode.appendChild(node);
+        };
+
+        toInsert.forEach((src, idx) => {
+            const fig = document.createElement("figure");
+            fig.className = "article-figure";
+            fig.innerHTML = `<img src="${src}" alt="${altBase} — image ${idx + 1}" loading="lazy" decoding="async">`;
+            const anchor = insertionPoints[idx] || insertionPoints[insertionPoints.length - 1] || null;
+            insertAfter(anchor, fig);
+        });
+    }
+
+    function postProcessArticleDOM(articleEl, pageData, routeKey) {
+        normalizeArticleTypography(articleEl);
+        normalizeArticleSectionHeadings(articleEl);
+        ensureOfficialSourcesSection(articleEl, pageData);
+        ensureSupportingImages(articleEl, pageData, routeKey);
+    }
+
+    function normalizeArticleSectionHeadings(articleEl) {
+        if (!articleEl) return;
+        const contentRoot = articleEl.querySelector(".article-content") || articleEl.querySelector(".article-body") || articleEl;
+        const h2s = Array.from(contentRoot.querySelectorAll("h2"));
+        if (h2s.length === 0) return;
+
+        const lang = (document.documentElement && document.documentElement.lang) ? document.documentElement.lang : "es";
+
+        const mapByLang = {
+            es: new Map([
+                ["Contexto en Suiza", "Cómo funciona el sistema"],
+                ["Situaciones comunes que generan problemas", "Requisitos y reglas"],
+                ["Cómo evitar multas o conflictos", "Consejos prácticos"],
+                ["Fuentes", "Fuentes oficiales"],
+            ]),
+            en: new Map([
+                ["Context in Switzerland", "How the system works"],
+                ["Common situations that cause problems", "Requirements and rules"],
+                ["How to avoid fines or conflicts", "Practical advice"],
+                ["Official sources", "Official Swiss sources"],
+            ]),
+            fr: new Map([
+                ["Contexte en Suisse", "Comment le système fonctionne"],
+                ["Situations courantes qui créent des problèmes", "Exigences et règles"],
+                ["Comment éviter des amendes ou des conflits", "Conseils pratiques"],
+                ["Sources officielles", "Sources officielles suisses"],
+            ]),
+            de: new Map([
+                ["Kontext in der Schweiz", "So funktioniert das System"],
+                ["Häufige Situationen, die Probleme verursachen", "Voraussetzungen und Regeln"],
+                ["Wie Sie Bussen oder Konflikte vermeiden", "Praktische Tipps"],
+                ["Offizielle Quellen", "Offizielle Quellen"],
+            ]),
+        };
+
+        const map = mapByLang[lang] || mapByLang.es;
+
+        for (const h2 of h2s) {
+            const raw = (h2.textContent || "").trim();
+            const normalized = raw.replace(/\s+/g, " ");
+            if (map.has(normalized)) {
+                h2.textContent = map.get(normalized);
+            }
+        }
+    }
+
+    function ensureOfficialSourcesSection(articleEl, pageData) {
+        if (!articleEl) return;
+        const contentRoot = articleEl.querySelector(".article-content") || articleEl.querySelector(".article-body") || articleEl;
+        const lang = (document.documentElement && document.documentElement.lang) ? document.documentElement.lang : "es";
+
+        const titles = {
+            es: "Fuentes oficiales",
+            en: "Official Swiss sources",
+            fr: "Sources officielles suisses",
+            de: "Offizielle Quellen",
+        };
+
+        const existing = Array.from(contentRoot.querySelectorAll("h2")).some(h2 => {
+            const t = (h2.textContent || "").trim().toLowerCase();
+            return [
+                "fuentes oficiales",
+                "official swiss sources",
+                "official sources",
+                "sources officielles suisses",
+                "sources officielles",
+                "offizielle quellen",
+            ].includes(t);
+        });
+        if (existing) return;
+
+        const hub = pageData && pageData.hub;
+        const labelsByLang = {
+            es: {
+                ch: "ch.ch — Portal oficial suizo",
+                sem: "SEM — Secretaría de Estado de Migración",
+                arbeit: "arbeit.swiss — Empleo y RAV (SECO)",
+                priminfo: "Priminfo — Comparador oficial LAMal/KVG",
+                bag: "BAG/OFSP — Oficina Federal de Salud Pública",
+                estv: "ESTV/AFC — Administración Federal de Contribuciones",
+                admin: "admin.ch — Información oficial",
+                ch_work: "ch.ch — Trabajo y vida en Suiza",
+                ch_tax: "ch.ch — Impuestos en Suiza",
+                ch_housing: "ch.ch — Vivienda y vida en Suiza",
+                ch_life: "ch.ch — Vivir en Suiza",
+            },
+            en: {
+                ch: "ch.ch — Official Swiss portal",
+                sem: "SEM — State Secretariat for Migration",
+                arbeit: "arbeit.swiss — Employment & unemployment (SECO)",
+                priminfo: "Priminfo — Official LAMal/KVG comparison",
+                bag: "FOPH/BAG — Federal Office of Public Health",
+                estv: "FTA/ESTV — Federal Tax Administration",
+                admin: "admin.ch — Swiss government info",
+                ch_work: "ch.ch — Work & living in Switzerland",
+                ch_tax: "ch.ch — Taxes in Switzerland",
+                ch_housing: "ch.ch — Housing in Switzerland",
+                ch_life: "ch.ch — Living in Switzerland",
+            },
+            fr: {
+                ch: "ch.ch — Portail officiel suisse",
+                sem: "SEM — Secrétariat d’État aux migrations",
+                arbeit: "arbeit.swiss — Emploi & chômage (SECO)",
+                priminfo: "Priminfo — Comparateur officiel LAMal/KVG",
+                bag: "OFSP/BAG — Office fédéral de la santé publique",
+                estv: "AFC/ESTV — Administration fédérale des contributions",
+                admin: "admin.ch — Infos officielles",
+                ch_work: "ch.ch — Travail et vie en Suisse",
+                ch_tax: "ch.ch — Impôts en Suisse",
+                ch_housing: "ch.ch — Logement en Suisse",
+                ch_life: "ch.ch — Vivre en Suisse",
+            },
+            de: {
+                ch: "ch.ch — Offizielles Schweizer Portal",
+                sem: "SEM — Staatssekretariat für Migration",
+                arbeit: "arbeit.swiss — Arbeit & Arbeitslosigkeit (SECO)",
+                priminfo: "Priminfo — Offizieller KVG/LAMal-Vergleich",
+                bag: "BAG — Bundesamt für Gesundheit",
+                estv: "ESTV — Eidg. Steuerverwaltung",
+                admin: "admin.ch — Offizielle Infos",
+                ch_work: "ch.ch — Arbeit & Leben in der Schweiz",
+                ch_tax: "ch.ch — Steuern in der Schweiz",
+                ch_housing: "ch.ch — Wohnen in der Schweiz",
+                ch_life: "ch.ch — Leben in der Schweiz",
+            },
+        };
+
+        const L = labelsByLang[lang] || labelsByLang.es;
+
+        const linksByHub = {
+            tramites: [
+                { href: "https://www.ch.ch", label: L.ch },
+                { href: "https://www.sem.admin.ch", label: L.sem },
+            ],
+            trabajo: [
+                { href: "https://www.ch.ch", label: L.ch_work },
+                { href: "https://www.arbeit.swiss", label: L.arbeit },
+            ],
+            salud: [
+                { href: "https://www.priminfo.admin.ch", label: L.priminfo },
+                { href: "https://www.bag.admin.ch", label: L.bag },
+            ],
+            impuestos: [
+                { href: "https://www.ch.ch", label: L.ch_tax },
+                { href: "https://www.estv.admin.ch", label: L.estv },
+            ],
+            vivienda: [
+                { href: "https://www.ch.ch", label: L.ch_housing },
+                { href: "https://www.admin.ch", label: L.admin },
+            ],
+            vivir: [
+                { href: "https://www.ch.ch", label: L.ch_life },
+                { href: "https://www.admin.ch", label: L.admin },
+            ],
+            "vivir-en-suiza": [
+                { href: "https://www.ch.ch", label: L.ch_life },
+                { href: "https://www.admin.ch", label: L.admin },
+            ],
+            fronterizos: [
+                { href: "https://www.ch.ch", label: L.ch_work },
+                { href: "https://www.sem.admin.ch", label: L.sem },
+            ],
+            recursos: [
+                { href: "https://www.ch.ch", label: L.ch },
+                { href: "https://www.admin.ch", label: L.admin },
+            ],
+            "fuentes-oficiales": [
+                { href: "https://www.ch.ch", label: L.ch },
+                { href: "https://www.admin.ch", label: L.admin },
+            ],
+        };
+
+        const links = linksByHub[hub] || linksByHub.vivir;
+
+        const h2 = document.createElement("h2");
+        h2.textContent = titles[lang] || titles.es;
+
+        const ul = document.createElement("ul");
+        for (const l of links) {
+            const li = document.createElement("li");
+            li.innerHTML = `<a href="${l.href}" target="_blank" rel="noopener noreferrer">${l.label}</a>`;
+            ul.appendChild(li);
+        }
+
+        contentRoot.appendChild(h2);
+        contentRoot.appendChild(ul);
+    }
+
     /**
      * Resolves a raw string path into structured page data from memory.
      * @param {string} path - The raw path (e.g., "/tramites" or "/articulo/slug")
@@ -1641,35 +1966,37 @@ document.addEventListener("DOMContentLoaded", () => {
                 progressBarContainer.style.display = "block";
                 readingProgressBar.style.width = "0%";
 
-                appContainer.innerHTML = `
-                    <div class="article-layout fade-in-up">
-                        <main>
-                            <article>
-                                <div class="article-header">
+	                appContainer.innerHTML = `
+	                    <div class="article-layout fade-in-up">
+	                        <main>
+	                            <article>
+	                                <div class="article-header">
                                     <nav class="breadcrumbs">
                                         <a href="#/">${ui['nav-inicio']}</a> > 
                                         <a href="#/${pageData.hub || ''}">${pageData.category || ui['lbl-guides']}</a> > 
                                         <span>${pageData.title}</span>
                                     </nav>
                                     <h1>${pageData.title}</h1>
-                                    <div class="article-meta">
-                                        <span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> ${readingTime} ${ui['lbl-read-time']}</span>
-                                        ${pageData.dateUpdated ? `<span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> ${ui['lbl-updated']} ${pageData.dateUpdated}</span>` : ''}
-                                    </div>
-                                </div>
-                                
-                                ${pageData.summary ? `
-                                <div class="box-summary">
-                                    <h4>${ui['lbl-summary']}</h4>
-                                    <p>${pageData.summary}</p>
-                                </div>` : ''}
+	                                    <div class="article-meta">
+	                                        <span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> ${readingTime} ${ui['lbl-read-time']}</span>
+	                                        ${pageData.dateUpdated ? `<span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> ${ui['lbl-updated']} ${pageData.dateUpdated}</span>` : ''}
+	                                    </div>
+	                                </div>
 
-                                ${explicitRelatedHTML}
-                                ${pageData.content}
-                            </article>
-                            
-                            ${relatedHTML}
-                        </main>
+                                    ${renderArticleHeroHTML(pageData, routeKey)}
+	                                
+	                                ${pageData.summary ? `
+	                                <div class="box-summary">
+	                                    <h4>${ui['lbl-summary']}</h4>
+	                                    <p>${pageData.summary}</p>
+	                                </div>` : ''}
+
+	                                ${explicitRelatedHTML}
+	                                <div class="article-body">${pageData.content}</div>
+	                            </article>
+	                            
+	                            ${relatedHTML}
+	                        </main>
                         
                         <aside class="sidebar">
                             <div class="toc">
@@ -1682,8 +2009,10 @@ document.addEventListener("DOMContentLoaded", () => {
                             </div>
                         </aside>
                     </div>
-                `;
-            } else {
+	                `;
+
+                    postProcessArticleDOM(appContainer.querySelector("article"), pageData, routeKey);
+	            } else {
                 progressBarContainer.style.display = "none";
                 appContainer.innerHTML = `<div class="fade-in-up">${pageData.content}</div>`;
 

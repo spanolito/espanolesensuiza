@@ -16,10 +16,7 @@ window.siteContent.de.articles = {
         readingTime: 4,
         dateUpdated: "Actualizado frecuentemente",
         summary: "Ein vollständiger Leitfaden zum Verständnis der Schweizer Aufenthaltsbewilligungen: Ausweis L (Kurzaufenthalt), B (Aufenthalt) und C (Niederlassung).",
-        content: `<div class="page-header">
-<h1>Aufenthaltsbewilligungen in der Schweiz: Bewilligung L, B, C und ihre Unterschiede</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Um in die Schweiz zu ziehen, müssen Sie sich anmelden und eine Aufenthaltserlaubnis erhalten. Wenn Sie aus einem EU/EFTA-Land (einschließlich Spanien) kommen, wird der Prozess durch das Abkommen über den freien Personenverkehr (ALCP) erleichtert.</p>
 
 <h2>L-Genehmigung (kurzfristig)</h2>
@@ -57,31 +54,69 @@ window.siteContent.de.articles = {
         category: "Erste Schritte",
         hub: "tramites",
         readingTime: 3,
-        summary: "Sie müssen sich innerhalb der ersten 14 Tage in Ihrer Gemeinde anmelden.",
-        content: `<div class="page-header">
-<h1>So melden Sie sich bei Ihrer Ankunft in der Schweiz an (Anmeldung bei der Gemeinde)</h1>
+        summary: "Wenn Sie in die Schweiz ziehen, um dort zu wohnen, müssen Sie sich in der Regel rasch bei Ihrer Gemeinde anmelden (oft innerhalb von 14 Tagen). Die Anmeldebestätigung reicht häufig aus, um zu arbeiten, während die Bewilligungskarte erstellt wird.",
+        content: `<div class="article-content">
+<h2>Einleitung</h2>
+<p>Die <strong>Anmeldung bei der Gemeinde</strong> (Einwohnerkontrolle / <i>Contrôle des habitants</i>) ist der Schritt, der Ihren <strong>Wohnsitz</strong> in der Schweiz offiziell macht. Damit startet die administrative Kette: Aufenthaltsbewilligung, Krankenversicherung, Steuern, Schule usw.</p>
+<p>Wichtig: <strong>Nicht jede Person, die in die Schweiz einreist, muss sich anmelden</strong>. Dieser Leitfaden richtet sich an Personen, die <strong>in die Schweiz ziehen, um hier zu wohnen</strong> (Arbeit, Studium, Familie).</p>
+
+<h2>So funktioniert das System</h2>
+<ol>
+<li>Suchen Sie die zuständige Stelle Ihrer Gemeinde und prüfen Sie, ob ein <strong>Termin</strong> nötig ist.</li>
+<li>Bringen Sie die geforderten Dokumente mit und deklarieren Sie Ihre Adresse (auch wenn sie vorläufig ist).</li>
+<li>Sie bezahlen die Gebühr und erhalten eine <strong>Anmeldebestätigung</strong> (je nach Kanton/Gemeinde).</li>
+<li>Der Fall geht an die kantonale Migrationsbehörde; die <strong>Bewilligungskarte</strong> kommt später per Post.</li>
+</ol>
+<div class="callout warning">
+<strong>Fristen:</strong> In vielen Gemeinden gilt eine Frist von <strong>14 Tagen</strong> (teilweise kürzer) und bei Arbeitsaufnahme in der Regel <strong>vor dem ersten Arbeitstag</strong>. Regeln variieren nach Kanton und Gemeinde – bitte lokal prüfen.
 </div>
-<div class="article-content">
-<p>Der erste obligatorische und wichtigste Vorgang bei der Einreise in die Schweiz ist die Anmeldung bei der Einwohnerkontrolle (<i>Contrôle des habitants / Einwohnerkontrolle</i>) der Gemeinde, in der Sie wohnen werden (Gemeinde).</p>
 
-<h2>Wichtige Fristen</h2>
-<p><strong>Ab Ihrem Ankunftsdatum haben Sie maximal 14 Tage</strong> Zeit, sich anzumelden (auch wenn es in einigen Kantonen 8 Tage sind, überprüfen Sie immer die lokale Frist). Darüber hinaus sollten Sie sich immer <strong>vor Ihrem ersten Arbeitstag</strong> anmelden.</p>
-
-<h2>Notwendige Dokumente</h2>
+<h2>Voraussetzungen und Regeln</h2>
+<h3>Wer muss sich anmelden (und wer meistens nicht)</h3>
 <ul>
-<li>Gültiger Reisepass oder Ausweisdokument (DNI).</li>
-<li>Unterzeichneter Arbeitsvertrag oder Dokument zum Nachweis der Zulassung zu einem Studienzentrum (für Studierende).</li>
-<li>Unterschriebener Mietvertrag oder, falls dies nicht der Fall ist, eine Unterkunftsbescheinigung (wenn Sie bei einem Familienmitglied oder Freund wohnen, unterzeichnet vom Eigentümer der Unterkunft).</li>
-<li>Durchgangsgrössenfoto (je nach Kanton).</li>
-<li>Personenstandsurkunde (Heiratsurkunde oder Geburtsurkunde), falls zutreffend.</li>
+<li><strong>Tourist / Kurzaufenthalt (z. B. bis 90 Tage):</strong> in der Regel <strong>keine Wohnsitzanmeldung</strong>.</li>
+<li><strong>Umzug mit Wohnsitz (Job, Studium, Familie):</strong> ja, üblicherweise ist die Anmeldung innerhalb der lokalen Frist erforderlich.</li>
+<li><strong>EU/EFTA Jobsuche:</strong> Aufenthalt zur Stellensuche ist für eine begrenzte Zeit möglich; wenn Sie sich effektiv niederlassen und/oder die erlaubte Zeit überschreiten, müssen Sie den Status gemäss kantonalen Regeln regeln.</li>
+<li><strong>Grenzgänger (Bewilligung G):</strong> Wohnsitz im Ausland – das ist nicht dieselbe Prozedur wie eine Wohnsitzanmeldung, aber es gibt spezifische Schritte über Arbeitgeber/Kanton.</li>
 </ul>
 
-<h2>Der Prozess</h2>
-<p>Sobald die Unterlagen eingereicht sind, zahlen Sie eine Gebühr für die Ausstellung der Bewilligung (in der Regel ca. CHF 65-100, je nach Art und Kanton). Sie erhalten eine vorläufige Bescheinigung („Attestation de résidence“), während Ihre physische Aufenthaltserlaubniskarte vom Migrationsdienst ausgestellt wird.</p>
+<h3>Typische Unterlagen</h3>
+<ul>
+<li>Pass/ID.</li>
+<li><strong>Zweck des Aufenthalts:</strong> Arbeitsvertrag, Immatrikulation/Zulassung oder Nachweis ausreichender Mittel (je nach Situation).</li>
+<li>Mietvertrag oder Unterkunftsbestätigung.</li>
+<li>Passfoto (oder vor Ort, je nach Gemeinde).</li>
+<li>Zivilstands-/Familiendokumente, falls relevant.</li>
+</ul>
 
-<div class="callout">
-<strong>Hinweis für Familien:</strong> Wenn Sie mit Kindern anreisen, müssen Sie mehrsprachige Geburtsurkunden und ein Familienbuch vorlegen. 
-</div>
+<h2>Konkrete Beispiele</h2>
+<h3>Beispiel 1 — Job + temporäre Unterkunft</h3>
+<p>Sie melden sich mit Arbeitsvertrag und provisorischer Adresse an und aktualisieren die Adresse später nach dem definitiven Mietvertrag.</p>
+<h3>Beispiel 2 — Studium</h3>
+<p>Sie bringen die Zulassung/Immatrikulation mit und je nach Kanton den Nachweis über Mittel/Versicherung.</p>
+<h3>Beispiel 3 — Grenzgänger</h3>
+<p>Vorgehen hängt von Kanton und Arbeitgeberprozess ab; nicht wie „B-Bewilligung im Ausland wohnen“ behandeln.</p>
+
+<h2>Häufige Fehler</h2>
+<ul>
+<li>„Einreise“ mit „Wohnsitznahme“ verwechseln.</li>
+<li>Auf die definitive Wohnung warten und Fristen verpassen.</li>
+<li>Termine nicht früh genug buchen.</li>
+<li>Adressänderungen nicht melden.</li>
+</ul>
+
+<h2>Praktische Tipps</h2>
+<ul>
+<li>Prüfen Sie die Website Ihrer Gemeinde (Dokumente, Gebühren, Frist).</li>
+<li>Nehmen Sie Ausdrucke und ein PDF-Dossier mit.</li>
+<li>Nach der Anmeldung: <a href=\"#/krankenversicherung-schweiz-kvg\">Krankenversicherung (KVG)</a> und Bankkonto priorisieren.</li>
+</ul>
+
+<h2>Offizielle Quellen</h2>
+<ul>
+<li><a href="https://www.ch.ch/de/auslaender-in-der-schweiz/leben-in-der-schweiz/" target="_blank" rel="noopener noreferrer">ch.ch — Leben in der Schweiz</a></li>
+<li><a href="https://www.sem.admin.ch/sem/de/home/themen/aufenthalt.html" target="_blank" rel="noopener noreferrer">SEM — Aufenthalt</a></li>
+</ul>
 </div>`
     },
 
@@ -94,10 +129,7 @@ window.siteContent.de.articles = {
         hub: "salud",
         readingTime: 5,
         summary: "Die KVG ist obligatorisch und privat. Sie haben 3 Monate Zeit dafür.",
-        content: `<div class="page-header">
-<h1>Krankenversicherung in der Schweiz (KVG): So funktioniert es</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Im Gegensatz zu Spanien gibt es in der Schweiz kein Sozialversicherungssystem, das die allgemeine Gesundheitsversorgung direkt abdeckt. Gesundheit ist privat, wird aber durch das Bundeskrankenversicherungsgesetz (KVG) zwingend geregelt
 
 <h2>Pflichten und Fristen</h2>
@@ -130,10 +162,7 @@ window.siteContent.de.articles = {
         hub: 'salud',
         readingTime: 4,
         summary: `Warum die Krankenversicherung sehr teuer werden kann, wenn Sie Ihre Grundfranchise nicht richtig wählen (300 CHF vs. 2500 CHF).`,
-        content: `<div class="page-header">
-<h1>Selbstbehalt und Selbstbeteiligung im Schweizer Gesundheitssystem</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Auch nach Zahlung Ihrer monatlichen Grundversicherungsprämien (KVG) sind Sie für einen Teil der anfallenden medizinischen Kosten verantwortlich. Diese Ausgaben werden in Selbstbeteiligung und Teilgebühr (Zuzahlung) unterteilt.</p>
 
 <h2>Das Franchise (Franchise)</h2>
@@ -164,10 +193,7 @@ window.siteContent.de.articles = {
         hub: 'impuestos',
         readingTime: 5,
         summary: `In der Schweiz zahlen Sie Steuern auf 3 Ebenen.`,
-        content: `<div class="page-header">
-<h1>Steuern in der Schweiz: Bundes-, Kantons- und Gemeindesteuern</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Schweiz ist ein föderaler Staat und verfügt daher über ein dreistufiges Steuersystem. Im Gegensatz zu vielen Ländern, in denen die Steuern auf nationaler Ebene erhoben und dann verteilt werden, zahlen die Bürger in der Schweiz Steuern in drei verschiedenen Bereichen.</p>
 
 <h2>1. Die direkte Bundessteuer</h2>
@@ -196,10 +222,7 @@ window.siteContent.de.articles = {
         readingTime: 3,
         dateUpdated: 'Actualizado recientemente',
         summary: `Wie der Quellensteuerabzug direkt vom monatlichen Lohn für Ausländer und Grenzgänger funktioniert.`,
-        content: `<div class="page-header">
-<h1>Quellensteuer / Impôt à la source)</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Mehrheit der Schweizer Bürger und Personen mit ständigem Wohnsitz (Bewilligung C) füllen ihre Einkommenssteuererklärung einmal im Jahr aus und zahlen anschließend die Steuern. Für neu angekommene Ausländer gibt es jedoch die <strong>Quellensteuer</strong>.</p>
 
 <h2>Wer ist betroffen?</h2>
@@ -224,10 +247,7 @@ window.siteContent.de.articles = {
         hub: 'trabajo',
         readingTime: 6,
         summary: `Das Rentensystem basiert auf 3 Säulen.`,
-        content: `<div class="page-header">
-<h1>Sozialversicherung und Schweizer Rentensystem</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Ein Teil des Bruttogehalts wird zwingend an die Sozialversicherung abgeführt. Die Schweiz baut ihre Altersvorsorge auf ein besonderes Drei-Säulen-Modell auf.</p>
 
 <h2>1. Säule: AHV und IV (Alters- und Hinterbliebenenversicherung, Invalidenversicherung)</h2>
@@ -258,10 +278,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         readingTime: 7,
         dateUpdated: "März 2026",
         summary: "RAV kann nach Jobverlust unterstützen, aber Fristen und nachweisbare Stellensuche sind entscheidend.",
-        content: `<div class="page-header">
-<h1>RAV und Arbeitslosigkeit in der Schweiz</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>In der Schweiz läuft Arbeitslosigkeit über das <strong>RAV</strong> (Regionales Arbeitsvermittlungszentrum) und eine <strong>Arbeitslosenkasse</strong>, die die Leistung auszahlt. Das System hilft, ist aber strikt.</p>
 
 <h2>Erste Schritte</h2>
@@ -296,10 +313,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         readingTime: 5,
         summary: `Die Schweiz hat sehr hohe Gehälter, aber auch entsprechende Lebenshaltungskosten.`,
         
-        content: `<div class="page-header">
-<h1>Gehälter in der Schweiz nach Branche und Kanton</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Gehälter in der Schweiz gehören zu den höchsten der Welt, aber auch die Lebenshaltungskosten sind hoch. Es ist wichtig zu verstehen, dass Ihre tatsächliche Kaufkraft davon abhängt, was Sie im Vergleich zu den Fixkosten Ihres Kantons verdienen.</p>
 
 <h2>Gibt es in der Schweiz einen gesetzlichen Mindestlohn?</h2>
@@ -327,10 +341,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         readingTime: 4,
         summary: `Der Arbeitsmarkt ist sehr liberal. Kündigungen sind einfach.`,
         
-        content: `<div class="page-header">
-<h1>Arbeitsverträge in der Schweiz: Rechte und Pflichten</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Der Schweizer Arbeitsmarkt ist sehr flexibel und die Bedingungen werden im Wesentlichen durch das Obligationenrecht (OR) und die Gesamtarbeitsverträge (GAV) geregelt.</p>
 
 <h2>Vertragsarten</h2>
@@ -358,10 +369,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: 'trabajo',
         readingTime: 3,
         summary: `Die reguläre Probezeit beträgt 1 bis 3 Monate.`,
-        content: `<div class="page-header">
-<h1>Probezeit und Kündigungsfristen</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <h2>Die Probezeit (Probezeit / Temps d'essai)</h2>
 <p>Der erste Monat eines unbefristeten Vertrags gilt gesetzlich immer als Probezeit, sofern im Vertrag nichts anderes festgelegt ist. Diese Frist kann schriftlich um maximal drei Monate verlängert werden.</p>
 <p>Während dieser Frist können beide Parteien den Vertrag mit einer Frist von <strong>sieben Tagen</strong> (kalendermäßig) kündigen, ohne dass eine weitere Begründung erforderlich ist.</p>
@@ -390,10 +398,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         readingTime: 4,
         summary: `Ein Schweizer Lebenslauf sollte ein Foto und das Geburtsdatum enthalten.`,
         
-        content: `<div class="page-header">
-<h1>So suchen Sie einen Job in der Schweiz</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Schweiz verfügt über einen dynamischen Arbeitsmarkt, der nicht nur von großen Pharmaunternehmen, Banken und Uhrmachern, sondern auch von Tausenden KMU angetrieben wird.</p>
 
 <h2>Der Lehrplan (Kandidaturdossier)</h2>
@@ -426,10 +431,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         readingTime: 5,
         summary: `Der Wohnungsmarkt ist umkämpft. Sie brauchen ein perfektes Dossier.`,
         
-        content: `<div class="page-header">
-<h1>So mieten Sie eine Wohnung in der Schweiz</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Wohnungssuche in Städten wie Zürich, Genf oder Lausanne ist aufgrund des Wohnungsmangels und der sehr hohen Nachfrage bekanntermaßen schwierig. Es ist wichtig, schnell zu sein und ein vollständiges Dossier zu haben.</p>
 
 <h2>Das Dossier des Mieters</h2>
@@ -456,10 +458,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: 'vivienda',
         readingTime: 3,
         summary: `Die gesetzliche MaximalKaution beträgt 3 Monatsmieten.`,
-        content: `<div class="page-header">
-<h1>Garantien, Garantiekonto und Mieterschutz</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <h2>The Bond (Garantie de Loyer / Mietkaution)</h2>
 <p>Ein Vermieter kann laut Gesetz eine Kaution in Höhe von maximal drei Monatsmieten für ein Eigenheim verlangen (bei Gewerbeimmobilien gibt es keine Begrenzung). Dieses Geld wird niemals an den Vermieter ausgehändigt.</p>
 <p>Das Geld wird auf einem „Mietgarantie-Bankkonto“ hinterlegt, das auf Ihren Namen lautet, aber gesperrt ist. Eine Freigabe kann nur mit gemeinsamer Unterschrift von Mieter und Vermieter nach Schlüsselübergabe oder Vertragsbeendigung erfolgen.</p>
@@ -482,10 +481,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         readingTime: 4,
         summary: `Ein Gehalt von 5000 CHF kann nach Abzug der Fixkosten knapp werden.`,
         
-        content: `<div class="page-header">
-<h1>Die tatsächlichen Lebenshaltungskosten in der Schweiz</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Während die Schweizer Löhne die höchsten in Westeuropa sind, sind auch die Preise für Waren und Dienstleistungen gleichauf (der sogenannte „Ilot de cherté suisse“).</p>
 
 <h2>Monatliches Orientierungsbudget (1 Person)</h2>
@@ -513,10 +509,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         readingTime: 4,
         summary: `Die Ausweis G erlaubt es Ihnen in der Schweiz zu arbeiten.`,
         
-        content: `<div class="page-header">
-<h1>Grenzarbeiter (Frontaliers): G-Genehmigung und Besteuerung</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die <em>Grenzgänger</em> sind Personen, die ihren ständigen Wohnsitz in einem Nachbarland (hauptsächlich Frankreich, Deutschland und Italien) haben und die Grenze überqueren, um in der Schweiz zu arbeiten.</p>
 
 <h2>The G Permit</h2>
@@ -544,10 +537,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: 'tramites',
         readingTime: 3,
         summary: `Nur für reglementierte Berufe ist eine offizielle Anerkennung Pflicht.`,
-        content: `<div class="page-header">
-<h1>Anerkennung ausländischer Diplome</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Wenn Sie über einen ausländischen Abschluss verfügen und in der Schweiz praktizieren möchten, müssen Sie zunächst prüfen, ob Ihr Beruf reglementiert ist (z. B. Medizin, Krankenpflege, Jura, Lehramt). Sofern dies nicht geregelt ist, ist die offizielle Anerkennung nicht verpflichtend und der Arbeitsmarkt entscheidet über den Wert Ihres Abschlusses.</p>
 
 <h2>Reglementierte Berufe und zuständige Stellen</h2>
@@ -576,10 +566,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: 'tramites',
         readingTime: 5,
         summary: `Das Schulsystem leitet Schüler oft früh in die Berufsbildung.`,
-        content: `<div class="page-header">
-<h1>Das Schweizer öffentliche Bildungssystem</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die öffentliche Bildung in der Schweiz ist kostenlos, für 11 Jahre vollständig obligatorisch und von ausgezeichneter Qualität. Allerdings ist die Struktur sehr kantonal (jeder Kanton legt seinen Studienplan fest) und weist eine Besonderheit auf: die frühe Berufsorientierung.</p>
 
 <h2>Allgemeine Struktur (HarmoS-Modell)</h2>
@@ -609,10 +596,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: 'salud',
         readingTime: 4,
         summary: `Vermeiden Sie Notaufnahmen für leichte Beschwerden.`,
-        content: `<div class="page-header">
-<h1>Ärzte, Notfälle und Rechnungen in der Schweiz</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Wenn Sie verstehen, wie Sie sich in der täglichen Praxis des Schweizer Gesundheitswesens zurechtfinden, ersparen Sie sich Ärger (und finanzielle Ängste).</p>
 
 <h2>Wählen Sie einen Arzt entsprechend Ihrem Versicherungsmodell</h2>
@@ -640,10 +624,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         readingTime: 4,
         summary: `Das Halbtax-Abo ist für Anwohner fast zwingend erforderlich.`,
         
-        content: `<div class="page-header">
-<h1>Schweizer öffentliche Verkehrsmittel und SBB/CFF/FFS-Pässe</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Schweizerische Eidgenossenschaft ist stolz darauf, über eines der dichtesten, pünktlichsten und integriertesten öffentlichen Verkehrssysteme der Welt zu verfügen (Züge, Busse, Straßenbahnen und Schiffe verkehren alle im selben Takt).</p>
 
 <h2>Der Swisspass</h2>
@@ -671,10 +652,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: 'tramites',
         readingTime: 5,
         summary: `Die Einbürgerung erfordert 10 Jahre Aufenthalt und einen Ausweis C.`,
-        content: `<div class="page-header">
-<h1>Schweizer Staatsbürgerschaft und Einbürgerungsprozess</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Erlangung eines Reisepasses mit dem weißen Kreuz ist kein rein bürokratischer Vorgang, sondern wird von den Schweizern vielmehr als endgültige Bestätigung eines optimalen Integrationsgrades verstanden.</p>
 
 <h2>Anforderungen für die ordentliche Einbürgerung</h2>
@@ -705,30 +683,72 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         category: "Erste Schritte",
         hub: "tramites",
         readingTime: 6,
-        summary: "Wichtige Fristen: Anmeldung in der Gemeinde (oft innerhalb von 14 Tagen) und Krankenversicherung innerhalb von 3 Monaten (rückwirkend). Die Reihenfolge der Schritte spart Zeit und Stress.",
-        content: `<div class="page-header">
-<h1>Ankommen in der Schweiz: Checkliste für den ersten Monat</h1>
+        summary: "Praxisguide für alle, die in die Schweiz ziehen: was Sie im ersten Monat (und in welcher Reihenfolge) erledigen sollten – inklusive Fristen und typischer Fehler.",
+        content: `<div class="article-content">
+<h2>Einleitung</h2>
+<p>Die ersten Tage können überwältigend sein. Einige Dinge haben klare Fristen – und in der falschen Reihenfolge kann es schnell kompliziert werden (Bank, Versicherung, Bewilligung, Post). Diese Checkliste fokussiert auf das, was den Rest <strong>freischaltet</strong>.</p>
+<div class="callout info">
+<strong>Geltungsbereich:</strong> Für Personen, die <strong>in die Schweiz ziehen, um hier zu wohnen</strong> (Arbeit, Studium, Familie). Für Touristen/Kurzaufenthalte gilt nicht alles. Für Grenzgänger (G) sind Teile anders.
 </div>
-<div class="article-content">
-<p>Die ersten Tage können überwältigend sein. Einige Dinge haben klare Fristen – und in der falschen Reihenfolge kann es schnell kompliziert werden. Hier eine einfache, praxisnahe Checkliste.</p>
 
-<h2>Woche 1 — vor / zum Arbeitsstart</h2>
+<h2>So funktioniert das System</h2>
+<p>Viele Schritte hängen von zwei Basics ab: <strong>Adresse</strong> und <strong>Anmeldung</strong>. Mit der Bestätigung können Sie oft Bank/Versicherung/Arbeit starten, während die physische Bewilligungskarte später per Post kommt.</p>
+
+<div class="callout warning">
+<strong>Faustregel:</strong> „Ich wusste es nicht“ hilft selten. Fristen können zu Bussen führen, und die KVG/LAMal ist rückwirkend, auch wenn Sie später abschliessen.
+</div>
+
+<h2>Voraussetzungen und Regeln</h2>
 <ul>
-  <li><strong>Anmeldung bei der Gemeinde (Einwohnerkontrolle):</strong> Sie erhalten meist eine provisorische Bestätigung, die vieles freischaltet.</li>
+  <li><strong>Anmeldung:</strong> oft innerhalb von <strong>14 Tagen</strong> (teilweise weniger) und meist <strong>vor Arbeitsbeginn</strong> (variiert nach Kanton/Gemeinde).</li>
+  <li><strong>Krankenversicherung (KVG/LAMal):</strong> oft <strong>3 Monate</strong> Zeit, aber rückwirkend ab Tag 1.</li>
+</ul>
+
+<h2>Konkrete Beispiele</h2>
+<ul>
+  <li><strong>Mit Job:</strong> Anmeldung → Bankkonto → Krankenversicherung.</li>
+  <li><strong>Ohne Job (EU/EFTA):</strong> Mittel und Versicherung planen; Anforderungen können je nach Situation strenger sein.</li>
+  <li><strong>Familie:</strong> Zivilstandsunterlagen und Schule früh organisieren.</li>
+</ul>
+
+<h2>Praktische Tipps</h2>
+<h3>Woche 1 — vor / zum Arbeitsstart</h3>
+<ul>
+  <li><strong>Anmeldung bei der Gemeinde (Einwohnerkontrolle):</strong> Sie erhalten meist eine provisorische Bestätigung.</li>
   <li><strong>Schweizer Bankkonto eröffnen:</strong> Für den Lohn brauchen viele Arbeitgeber eine Schweizer IBAN.</li>
 </ul>
 
-<h2>Erste 2 Wochen</h2>
+<h3>Erste 2 Wochen</h3>
 <ul>
-  <li><strong>Krankenversicherung (KVG/LAMal) wählen:</strong> oft bis zu 3 Monate Zeit, aber rückwirkend ab Tag 1 – daher nicht warten.</li>
+  <li><strong>Krankenversicherung (KVG/LAMal) wählen:</strong> nicht warten (rückwirkend).</li>
   <li><strong>Zivilstand/Kinderdaten dem Arbeitgeber melden:</strong> relevant für Quellensteuer/Payroll.</li>
 </ul>
 
-<h2>Erster Monat</h2>
+<h3>Erster Monat</h3>
 <ul>
   <li><strong>ÖV:</strong> Wenn Sie viel Zug fahren, lohnt sich oft das <em>Halbtax</em>.</li>
   <li><strong>Name am Briefkasten:</strong> Viele Behördenbriefe kommen per Post (Bewilligung, Kasse, Steuern).</li>
   <li><strong>Abfallregeln lernen:</strong> In vielen Gemeinden sind offizielle Gebühren-Säcke Pflicht.</li>
+</ul>
+
+<h3>Erste 3 Monate</h3>
+<ul>
+  <li><strong>Zusatzversicherungen:</strong> Optionen (Zahn, Privatabteilung …) oft mit Gesundheitsprüfung.</li>
+  <li><strong>Säule 3a:</strong> je nach Situation sinnvoll.</li>
+</ul>
+
+<h2>Häufige Fehler</h2>
+<ul>
+  <li>Auf die „perfekte“ Wohnung warten und Anmeldefrist verpassen.</li>
+  <li>Rückwirkung der KVG/LAMal nicht verstehen und eine Überraschungsrechnung erhalten.</li>
+  <li>Namen am Briefkasten vergessen und wichtige Post verpassen.</li>
+</ul>
+
+<h2>Offizielle Quellen</h2>
+<ul>
+  <li><a href="https://www.ch.ch/de/auslaender-in-der-schweiz/leben-in-der-schweiz/" target="_blank" rel="noopener noreferrer">ch.ch — Leben in der Schweiz</a></li>
+  <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo — offizieller KVG/LAMal-Vergleich</a></li>
+  <li><a href="https://www.sbb.ch/de" target="_blank" rel="noopener noreferrer">SBB — Öffentlicher Verkehr</a></li>
 </ul>
 </div>`
     },
@@ -741,10 +761,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "tramites",
         readingTime: 3,
         summary: "Die Plastikkarte kann Wochen dauern. Die provisorische Meldebestätigung reicht in der Regel für Arbeitgeber und Lohnabrechnung.",
-        content: `<div class="page-header">
-<h1>Arbeiten ohne die physische Bewilligungskarte</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p><strong>Ja</strong> – in vielen Kantonen können Sie nach der Anmeldung direkt starten. Die physische Karte kommt später per Post.</p>
 
 <h2>Welches Dokument zählt?</h2>
@@ -764,10 +781,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "tramites",
         readingTime: 5,
         summary: "Mit einer gültigen B- oder C-Bewilligung ist Familiennachzug oft möglich – mit geeigneter Wohnung, ausreichenden Mitteln und korrekten Dokumenten.",
-        content: `<div class="page-header">
-<h1>Familiennachzug in der Schweiz</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Familiennachzug ist kantonal geregelt. Die Details hängen vom Status und vom Kanton ab, das Grundprinzip ist aber ähnlich.</p>
 
 <h2>Wer kann nachziehen?</h2>
@@ -801,10 +815,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "vivienda",
         readingTime: 4,
         summary: "Untermiete ist verbreitet und erlaubt – aber idealerweise mit schriftlichem Vertrag und ausdrücklicher Zustimmung der Vermietung.",
-        content: `<div class="page-header">
-<h1>Untermiete in der Schweiz: Checkliste</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <h2>1) Schriftlicher Vertrag</h2>
 <ul>
   <li>Wer (Hauptmieter/Untermieter), was (Zimmer/Wohnung), Dauer</li>
@@ -827,10 +838,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "trabajo",
         readingTime: 5,
         summary: "Die Schweizer Altersvorsorge basiert auf 3 Säulen. Wer später kommt, sollte Säule 2 und 3 besonders aktiv planen.",
-        content: `<div class="page-header">
-<h1>Altersvorsorge in der Schweiz: die 3 Säulen</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Rente in der Schweiz wird oft als <strong>3-Säulen-System</strong> beschrieben. Ihr Ergebnis hängt stark von Beitragsjahren und Lohn ab.</p>
 
 <h2>Säule 1: AHV/AVS</h2>
@@ -852,10 +860,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "tramites",
         readingTime: 4,
         summary: "Grundsätzlich möglich, aber Sie müssen ausreichende finanzielle Mittel und eine passende Krankenversicherung nachweisen und sich offiziell anmelden.",
-        content: `<div class="page-header">
-<h1>In der Schweiz wohnen ohne Job: was gilt?</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <h2>Typische Anforderungen</h2>
 <ul>
   <li><strong>Ausreichende finanzielle Mittel</strong> (Ersparnisse, Einkommen, Rente)</li>
@@ -873,10 +878,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "salud",
         readingTime: 4,
         summary: "Die IV/AI verfolgt das Prinzip «Eingliederung vor Rente». Eine Rente kommt meist erst nach ausgeschöpften Maßnahmen in Betracht.",
-        content: `<div class="page-header">
-<h1>Invalidenversicherung (IV/AI): Eingliederung vor Rente</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Schweizer IV/AI versucht in erster Linie, die Erwerbsfähigkeit zu erhalten oder wiederherzustellen.</p>
 
 <h2>Typische Maßnahmen</h2>
@@ -896,10 +898,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "salud",
         readingTime: 4,
         summary: "Die Schweiz arbeitet überwiegend mit Empfehlungen. Standardimpfungen werden empfohlen; FSME (Zecken) ist für Outdoor-Aktivitäten oft besonders relevant.",
-        content: `<div class="page-header">
-<h1>Impfungen in der Schweiz</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>In der Schweiz sind Impfungen in der Regel <strong>nicht gesetzlich verpflichtend</strong>. Das BAG veröffentlicht jedoch klare Empfehlungen.</p>
 
 <h2>BAG-Empfehlungen</h2>
@@ -918,10 +917,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "vivir",
         readingTime: 3,
         summary: "Die bekannte Melodie stammt von einem Schweizer Akkordeonisten aus der Davoser Region (späte 1950er).",
-        content: `<div class="page-header">
-<h1>Der Schweizer Ursprung des Ententanz</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Viele kennen den Song von Hochzeiten oder Dorffesten. Weniger bekannt: <strong>«Der Ententanz»</strong> hat Schweizer Wurzeln.</p>
 <p>Komponiert wurde die Melodie von <strong>Werner Thomas</strong> und verbreitete sich später international in zahlreichen Versionen.</p>
 </div>`
@@ -936,10 +932,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "vivir-en-suiza",
         readingTime: 7,
         summary: "Die Schweiz ist föderal organisiert. Viele Regeln, die Ihren Alltag betreffen, hängen von Kanton und Gemeinde ab.",
-        content: `<div class="page-header">
-<h1>Wie die Schweiz funktioniert (kurz & praktisch)</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Schweiz ist stark <strong>dezentral</strong>. Kantone und Gemeinden haben echte Zuständigkeiten – das merken Sie sofort.</p>
 
 <h2>Warum das wichtig ist</h2>
@@ -966,10 +959,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "vivir-en-suiza",
         readingTime: 6,
         summary: "Ein Kanton ist wie ein eigenes Regelwerk. Informieren Sie sich früh über Steuern, Schule und Verwaltung in Ihrem Wohnkanton.",
-        content: `<div class="page-header">
-<h1>Die Schweizer Kantone: was Sie wissen sollten</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Schweiz besteht aus <strong>26 Kantonen</strong>. Viele praktische Dinge unterscheiden sich je nach Wohnort.</p>
 
 <h2>Typische Unterschiede</h2>
@@ -991,10 +981,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "vivir-en-suiza",
         readingTime: 5,
         summary: "Welche Sprache Sie brauchen, hängt vom Kanton ab. In der Deutschschweiz wird oft Schweizerdeutsch gesprochen, schriftlich meist Hochdeutsch.",
-        content: `<div class="page-header">
-<h1>Sprachen in der Schweiz: was Neuankömmlinge erwartet</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Die Schweiz hat <strong>vier Landessprachen</strong>. Für Alltag und Arbeit zählt die Sprache Ihres Kantons.</p>
 
 <h2>Deutschschweiz</h2>
@@ -1020,10 +1007,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "tramites",
         readingTime: 5,
         summary: "Für Spanier in der Schweiz ist die konsularische Registrierung wichtig. Termine für Pass/DNI frühzeitig buchen.",
-        content: `<div class="page-header">
-<h1>Spanische Konsulate in der Schweiz</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>In der Schweiz gibt es mehrere spanische Konsularstellen (u.a. Genf, Bern, Zürich). Viele Vorgänge funktionieren nur mit Termin.</p>
 
 <h2>Adresse und Telefon</h2>

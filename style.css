@@ -689,6 +689,14 @@ strong, b {
     line-height: 1.7;
 }
 
+.article-content h1 {
+    font-size: clamp(1.625rem, 1.4vw, 1.875rem); /* match H2 sizing if legacy H1 remains */
+    line-height: 1.25;
+    margin-top: var(--space-lg);
+    padding-bottom: var(--space-xs);
+    border-bottom: 1px solid var(--border-light);
+}
+
 .article-content h2 {
     font-size: clamp(1.625rem, 1.4vw, 1.875rem); /* ~26–30px */
     line-height: 1.25;
@@ -697,6 +705,21 @@ strong, b {
 .article-content h3 {
     font-size: clamp(1.25rem, 1.1vw, 1.375rem); /* ~20–22px */
     line-height: 1.3;
+}
+
+.article-hero,
+.article-figure {
+    margin: 1.5rem 0;
+}
+
+.article-hero img,
+.article-figure img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border-light);
+    background: #fff;
 }
 
 .article-content h2 {

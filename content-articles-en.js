@@ -16,10 +16,7 @@ window.siteContent.en.articles = {
         readingTime: 4,
         dateUpdated: "Actualizado frecuentemente",
         summary: "A complete guide to understanding Swiss residence permits: L (short-term), B (resident) and C (settlement).",
-        content: `<div class="page-header"> 
-<h1>Residence permits in Switzerland: permit L, B, C and their differences</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>Moving to Switzerland involves registering and obtaining a residence permit. If you come from an EU/EFTA country (including Spain), the process is facilitated by the Agreement on Free Movement of Persons (ALCP).</p> 
 
 <h2>L Permit (Short Term)</h2> 
@@ -57,31 +54,69 @@ window.siteContent.en.articles = {
         category: "Initial Steps",
         hub: "tramites",
         readingTime: 3,
-        summary: "You must legally register in your commune within the first 14 days.",
-        content: `<div class="page-header"> 
-<h1>How to register when you arrive in Switzerland (registration in the commune)</h1> 
-</div> 
-<div class="article-content"> 
-<p>The first mandatory and most important procedure when arriving to live in Switzerland is registration at the Inhabitant Control office (<i>Contrôle des habitants / Einwohnerkontrolle</i>) of the municipality where you are going to reside (commune/Gemeinde).</p> 
+        summary: "If you move to Switzerland to live, you usually must register with your commune quickly (often within 14 days). The registration confirmation is typically enough to start working while the physical permit card is produced.",
+        content: `<div class="article-content">
+<h2>Introduction</h2>
+<p>Registering with your commune (<i>Contrôle des habitants / Einwohnerkontrolle</i>) is the step that <strong>formalizes your residence</strong> in Switzerland. It triggers the administrative chain: residence permit processing, health insurance, taxes, schooling, and more.</p>
+<p>Key clarification: <strong>not everyone who enters Switzerland must register</strong>. This guide is for people who <strong>move to Switzerland to live</strong> (work, studies, family).</p>
 
-<h2>Important Deadlines</h2> 
-<p><strong>You have a maximum of 14 days</strong> from your arrival date to register (even if it is 8 days in some cantons, always check the local deadline). Additionally, you should always register <strong>before your first day of work</strong>.</p> 
+<h2>How the system works</h2>
+<ol>
+<li>Identify your commune office and check whether an appointment is required.</li>
+<li>Bring the requested documents and declare your address (even if temporary).</li>
+<li>Pay the administrative fee and receive a <strong>registration confirmation</strong> (varies by canton/commune).</li>
+<li>Your file is forwarded to the cantonal migration authority; the <strong>permit card</strong> arrives later by post.</li>
+</ol>
+<div class="callout warning">
+<strong>Deadlines:</strong> many communes require registration within <strong>14 days</strong> (sometimes less) and usually <strong>before starting work</strong>. Rules vary by canton and commune—always confirm locally.
+</div>
 
-<h2>Necessary Documents</h2> 
-<ul> 
-<li>Valid Passport or Identity Document (DNI).</li> 
-<li>Signed employment contract, or document proving admission to a study center (for students).</li> 
-<li>Signed rental contract, or failing that, a certificate of accommodation (if you are staying with a family member or friend, signed by the owner of the rental).</li> 
-<li>Passage size photograph (depending on the canton).</li> 
-<li>Certificate of civil status (marriage or birth certificate) if applicable.</li> 
-</ul> 
+<h2>Requirements and rules</h2>
+<h3>Who needs to register (and who usually doesn’t)</h3>
+<ul>
+<li><strong>Tourist / short stay (e.g., up to 90 days):</strong> typically <strong>no commune registration</strong> as a resident.</li>
+<li><strong>Moving to reside (job, studies, family):</strong> yes—registration is normally required within the local deadline.</li>
+<li><strong>EU/EFTA job seeker:</strong> you may stay for a limited time while looking for work; if you settle and/or stay beyond the allowed period, you must regularize your status following cantonal rules.</li>
+<li><strong>Cross-border worker (G permit):</strong> you live outside Switzerland and work in Switzerland; this is not the same as resident registration, but there are specific steps via your employer/canton.</li>
+</ul>
 
-<h2>The Process</h2> 
-<p>Once the documents have been submitted, you will pay a fee for issuing the permit (usually around CHF 65-100 depending on the type and canton). You will receive a temporary certificate ("Attestation de résidence") while your physical permit card is issued by the migration service.</p> 
+<h3>Common documents</h3>
+<ul>
+<li>Passport/ID.</li>
+<li>Proof of purpose: employment contract, enrolment/admission, or proof of sufficient means (depending on your situation).</li>
+<li>Lease agreement or accommodation confirmation.</li>
+<li>Passport photo (or taken on site, depending on commune).</li>
+<li>Civil status/family documents if relevant.</li>
+</ul>
 
-<div class="callout"> 
-<strong>Note for families:</strong> If you arrive with children, you must provide multilingual birth certificates and a family book. 
-</div> 
+<h2>Concrete examples</h2>
+<h3>Example 1 — You arrive with a job and temporary housing</h3>
+<p>You register using your employment contract and a temporary address, get a confirmation, and update your address later once you sign a permanent lease.</p>
+<h3>Example 2 — Student arrival</h3>
+<p>You present proof of enrolment and the required financial/insurance evidence (varies by canton).</p>
+<h3>Example 3 — Cross-border worker</h3>
+<p>Your steps depend on the canton and employer process; don’t treat it as “a B permit while living abroad”.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Mixing up “entering Switzerland” with “moving to reside”.</li>
+<li>Waiting for a permanent apartment and missing the deadline.</li>
+<li>Not booking an appointment early in busy communes.</li>
+<li>Forgetting to update your address when you move.</li>
+</ul>
+
+<h2>Practical advice</h2>
+<ul>
+<li>Check your commune website for the exact list of documents and fees.</li>
+<li>Bring both printed copies and a PDF folder.</li>
+<li>After registration, prioritize <a href="#/health-insurance-switzerland-lamal">LAMal</a> and your bank account setup.</li>
+</ul>
+
+<h2>Official Swiss sources</h2>
+<ul>
+<li><a href="https://www.ch.ch/en/foreign-nationals-in-switzerland/living-in-switzerland/" target="_blank" rel="noopener noreferrer">ch.ch — Living in Switzerland</a></li>
+<li><a href="https://www.sem.admin.ch/sem/en/home/themen/aufenthalt.html" target="_blank" rel="noopener noreferrer">SEM — Residence</a></li>
+</ul>
 </div>`
     },
 
@@ -94,10 +129,7 @@ window.siteContent.en.articles = {
         hub: "salud",
         readingTime: 5,
         summary: "LAMal is mandatory and private. You have 3 months to arrange it.",
-        content: `<div class="page-header"> 
-<h1>Health insurance in Switzerland (LAMal): how it works</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>Unlike Spain, in Switzerland there is no Social Security system that directly covers general health care. Health is private, but regulated compulsorily by the Federal Health Insurance Act, known as <strong>LAMal</strong> (KVG in German).</p> 
 
 <h2>Obligation and Deadlines</h2> 
@@ -130,10 +162,7 @@ window.siteContent.en.articles = {
         hub: 'salud',
         readingTime: 4,
         summary: `Why health insurance can become very expensive if you don\'t choose your basic franchise correctly (300 CHF vs 2500 CHF).`,
-        content: `<div class="page-header"> 
-<h1>Deductible and co-payment in the Swiss health system</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>Even after paying your monthly basic insurance premiums (LAMal), you are responsible for a portion of the medical expenses generated. These expenses are divided into Excess and Part Fee (Copayment).</p> 
 
 <h2>The Franchise (Franchise)</h2> 
@@ -164,10 +193,7 @@ window.siteContent.en.articles = {
         hub: 'impuestos',
         readingTime: 5,
         summary: `In Switzerland, you pay taxes at 3 different levels.`,
-        content: `<div class="page-header"> 
-<h1>Taxes in Switzerland: federal, cantonal and communal taxation</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>Switzerland is a federal country, which is why it has a three-tier tax system. Unlike many countries where it is collected at the national level and then distributed, in Switzerland citizens pay taxes in three different spheres.</p> 
 
 <h2>1. The Direct Federal Tax</h2> 
@@ -196,10 +222,7 @@ window.siteContent.en.articles = {
         readingTime: 3,
         dateUpdated: 'Actualizado recientemente',
         summary: `How direct tax deduction from the monthly payroll works for foreigners and cross-border commuters.`,
-        content: `<div class="page-header"> 
-<h1>Source tax (Quellensteuer / Impôt à la source)</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>The majority of Swiss citizens and permanent residents (Permit C) fill out their income tax return once a year and pay taxes afterwards. However, for newly arrived foreigners there is the <strong>Source Tax</strong>.</p> 
 
 <h2>Who is subjected?</h2> 
@@ -224,10 +247,7 @@ window.siteContent.en.articles = {
         hub: 'trabajo',
         readingTime: 6,
         summary: `The Swiss pension system is based on 3 pillars.`,
-        content: `<div class="page-header"> 
-<h1>Social insurance and the Swiss pension system</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>Part of the gross salary is obligatorily allocated to the social security system. Switzerland bases its old-age provision on a peculiar three-pillar model.</p> 
 
 <h2>1st Pillar: AVS and AI (Old Age and Survival Insurance, Disability Insurance)</h2> 
@@ -258,10 +278,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         readingTime: 7,
         dateUpdated: "March 2026",
         summary: "RAV can support you after job loss, but deadlines and documented job-search efforts matter.",
-        content: `<div class="page-header">
-<h1>RAV and unemployment in Switzerland</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>In Switzerland, unemployment is handled through <strong>RAV</strong> (the regional employment office) and an <strong>unemployment fund</strong> that pays benefits. It can help a lot, but it comes with clear rules.</p>
 
 <h2>What to do first</h2>
@@ -296,10 +313,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         readingTime: 5,
         summary: `Switzerland has high salaries but living costs to match.`,
         
-        content: `<div class="page-header"> 
-<h1>Salaries in Switzerland by sector and canton</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>Salaries in Switzerland are among the highest in the world, but so is the cost of living. It is crucial to understand that your real purchasing power will depend on what you earn against the fixed expenses of your canton.</p> 
 
 <h2>Is there a legal minimum wage in Switzerland?</h2> 
@@ -327,10 +341,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         readingTime: 4,
         summary: `The labor market is very liberal, with flexible termination periods.`,
         
-        content: `<div class="page-header"> 
-<h1>Employment contracts in Switzerland: rights and obligations</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>The Swiss labor market is very flexible and conditions are fundamentally governed by the Code of Obligations (CO) and Collective Labor Agreements (CCT).</p> 
 
 <h2>Types of contract</h2> 
@@ -358,10 +369,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: 'trabajo',
         readingTime: 3,
         summary: `The standard probation period is between 1 and 3 months.`,
-        content: `<div class="page-header"> 
-<h1>Trial period and notice periods</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <h2>The Probation Period (Probezeit / Temps d'essai)</h2> 
 <p>The first month of a contract for an indefinite period is always considered a trial period by law, unless the contract specifies otherwise. This period may be extended in writing up to a maximum of three months.</p> 
 <p>During this time, both parties can cancel the contract with <strong>seven days' notice</strong> (calendar) and it is not necessary to provide further justification.</p> 
@@ -390,10 +398,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         readingTime: 4,
         summary: `A Swiss-style CV should include a photo and date of birth.`,
         
-        content: `<div class="page-header"> 
-<h1>How to look for a job in Switzerland</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>Switzerland has a dynamic labor market, driven not only by large pharmaceutical companies, banks and watchmakers, but also by thousands of SMEs.</p> 
 
 <h2>The Curriculum (Candidacy Dossier)</h2> 
@@ -426,10 +431,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         readingTime: 5,
         summary: `The rental market is competitive; you need a flawless application.`,
         
-        content: `<div class="page-header"> 
-<h1>How to rent an apartment in Switzerland</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>Looking for accommodation in cities like Zurich, Geneva or Lausanne is notoriously difficult due to the lack of housing and the very high demand. Being quick and having a complete dossier is essential.</p> 
 
 <h2>The Tenant's Dossier</h2> 
@@ -456,10 +458,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: 'vivienda',
         readingTime: 3,
         summary: `The maximum legal deposit is 3 months' rent.`,
-        content: `<div class="page-header"> 
-<h1>Guarantees, guarantee account and tenant protection</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <h2>The Bond (Garantie de Loyer / Mietkaution)</h2> 
 <p>By law, a landlord can request up to a maximum of 3 months' rent as a deposit for a home (in commercial premises there is no limit). This money is never handed over to the landlord.</p> 
 <p>The money is deposited in a "Rent Guarantee Bank Account" that is in your name, but blocked. It can only be released with the joint signature of the tenant and the landlord after the delivery of the keys or termination of the contract.</p> 
@@ -482,10 +481,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         readingTime: 4,
         summary: `A 5000 CHF salary can be tight after taxes, insurance, and rent.`,
         
-        content: `<div class="page-header"> 
-<h1>The real cost of living in Switzerland</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>While Swiss wages are the highest in Western Europe, the prices of goods and services are also on par (the so-called "Ilot de cherté suisse").</p> 
 
 <h2>Monthly Orientative Budget (1 person)</h2> 
@@ -513,10 +509,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         readingTime: 4,
         summary: `The G permit allows you to live abroad and work in Switzerland.`,
         
-        content: `<div class="page-header"> 
-<h1>Border workers (Frontaliers): G Permit and taxation</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>The <em>frontaliers</em> are people who reside permanently in a neighboring country (mainly France, Germany and Italy) and cross the border to work in Switzerland.</p> 
 
 <h2>The G Permit</h2> 
@@ -544,10 +537,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: 'tramites',
         readingTime: 3,
         summary: `Only regulated professions require mandatory recognition.`,
-        content: `<div class="page-header"> 
-<h1>Recognition of foreign diplomas</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>If you have a foreign qualification and want to practice in Switzerland, the first step is to know if your profession is regulated (e.g. medicine, nursing, law, teaching). If it is not regulated, official recognition is not mandatory, and the labor market will decide the value of your degree.</p> 
 
 <h2>Regulated Professions and Competent Entities</h2> 
@@ -576,10 +566,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: 'tramites',
         readingTime: 5,
         summary: `The school system often steers students into vocational training.`,
-        content: `<div class="page-header"> 
-<h1>The Swiss public education system</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>Public education in Switzerland is free, fully compulsory for 11 years and of excellent quality. However, its structure is very cantonal (each canton defines its study plan) and has a particularity: early professional orientation.</p> 
 
 <h2>General Structure (HarmoS Model)</h2> 
@@ -609,10 +596,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: 'salud',
         readingTime: 4,
         summary: `Avoid hospitals for minor ailments; visit standard clinics instead.`,
-        content: `<div class="page-header"> 
-<h1>Doctors, Emergencies and Bills in Switzerland</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>Understanding how to navigate the daily practice of Swiss healthcare will save you trouble (and financial scares).</p> 
 
 <h2>Choose a doctor according to your insurance model</h2> 
@@ -640,10 +624,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         readingTime: 4,
         summary: `The Half-Fare card is almost mandatory for any resident.`,
         
-        content: `<div class="page-header"> 
-<h1>Swiss public transport and SBB/CFF/FFS passes</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>The Swiss Confederation is proud to have one of the most dense, punctual and integrated public transport systems in the world (trains, buses, trams and boats are all in one clock).</p> 
 
 <h2>The Swisspass</h2> 
@@ -671,10 +652,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: 'tramites',
         readingTime: 5,
         summary: `Naturalization requires 10 years of residency and a C Permit.`,
-        content: `<div class="page-header"> 
-<h1>Swiss citizenship and naturalization process</h1> 
-</div> 
-<div class="article-content"> 
+        content: `<div class="article-content"> 
 <p>Obtaining a passport with the white cross is not a purely bureaucratic procedure, but rather the Swiss understand it as the final confirmation of an optimal level of integration.</p> 
 
 <h2>Requirements for Ordinary Naturalization</h2> 
@@ -705,36 +683,72 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         category: "Initial Steps",
         hub: "tramites",
         readingTime: 6,
-        summary: "Key deadlines: register in your commune quickly (often within 14 days) and take out health insurance within 3 months (retroactive). Do the steps in the right order to avoid delays.",
-        content: `<div class="page-header">
-<h1>Arrival checklist for Switzerland: your first month</h1>
+        summary: "A practical guide for people who move to Switzerland to live: what to do (and in what order) in your first month, with the key deadlines and frequent mistakes.",
+        content: `<div class="article-content">
+<h2>Introduction</h2>
+<p>Your first days in Switzerland can feel overwhelming. Some steps have strict deadlines, and doing them in the wrong order can slow everything down. This checklist focuses on what <strong>unlocks</strong> the rest.</p>
+<div class="callout info">
+<strong>Scope:</strong> This guide is for people who <strong>move to Switzerland to reside</strong> (work, studies, family). If you are a tourist/short stay visitor, not everything applies. If you are a cross-border worker (G permit), parts of the process differ.
 </div>
-<div class="article-content">
-<p>Your first days in Switzerland can feel overwhelming. Some steps have strict deadlines, and doing them in the wrong order can slow everything down. Here’s a simple, practical checklist.</p>
 
-<h2>Week 1 — before / as you start work</h2>
+<h2>How the system works</h2>
+<p>Most admin steps depend on two basics: your <strong>address</strong> and your <strong>commune registration</strong>. With the registration confirmation, you can often progress with the bank, insurance and work while the physical permit card is produced.</p>
+
+<div class="callout warning">
+<strong>Rule of thumb:</strong> “I didn’t know” usually doesn’t help. Missing deadlines can lead to fines; and LAMal is retroactive even if you sign up late.
+</div>
+
+<h2>Requirements and rules</h2>
 <ul>
-  <li><strong>Register at your commune (Inhabitants’ Office):</strong> this unlocks almost everything else. You typically receive a temporary registration certificate right away.</li>
+  <li><strong>Commune registration:</strong> often required within <strong>14 days</strong> (sometimes less) and usually <strong>before starting work</strong> (rules vary by canton/commune).</li>
+  <li><strong>Health insurance (LAMal):</strong> typically within <strong>3 months</strong>, retroactive to day 1.</li>
+</ul>
+
+<h2>Concrete examples</h2>
+<ul>
+  <li><strong>You arrive with a job:</strong> prioritize registration → bank account → health insurance.</li>
+  <li><strong>You arrive without a job (EU/EFTA):</strong> plan funds and coverage; requirements can be stricter depending on your situation.</li>
+  <li><strong>Family relocation:</strong> prepare civil status documents and school registration early.</li>
+</ul>
+
+<h2>Practical advice</h2>
+<h3>Week 1 — before / as you start work</h3>
+<ul>
+  <li><strong>Register at your commune:</strong> this unlocks almost everything else. You typically receive a temporary registration confirmation.</li>
   <li><strong>Open a Swiss bank account:</strong> most employers require a Swiss IBAN for salary payments.</li>
 </ul>
 
-<h2>First 2 weeks</h2>
+<h3>First 2 weeks</h3>
 <ul>
   <li><strong>Choose your health insurance (LAMal):</strong> you generally have up to 3 months, but coverage is retroactive from day 1, so don’t wait.</li>
   <li><strong>Tell your employer your family status:</strong> it can affect withholding tax class and payroll details.</li>
 </ul>
 
-<h2>First month</h2>
+<h3>First month</h3>
 <ul>
   <li><strong>Public transport:</strong> if you use trains, consider the half-fare card (<em>Halbtax / Demi-tarif</em>).</li>
   <li><strong>Mailbox name:</strong> many official letters arrive by post (permit card, insurance invoices, tax letters).</li>
   <li><strong>Trash rules:</strong> many communes require official taxed garbage bags.</li>
 </ul>
 
-<h2>First 3 months</h2>
+<h3>First 3 months</h3>
 <ul>
   <li><strong>Complementary insurance:</strong> optional add-ons (dental, private ward, etc.) may require medical acceptance.</li>
   <li><strong>Pillar 3a:</strong> consider voluntary retirement savings if it fits your situation.</li>
+</ul>
+
+<h2>Common mistakes</h2>
+<ul>
+  <li>Waiting for a “perfect” apartment and missing the registration deadline.</li>
+  <li>Not understanding LAMal retroactivity and getting an unexpected invoice.</li>
+  <li>Forgetting to put your name on the mailbox and missing important letters.</li>
+</ul>
+
+<h2>Official Swiss sources</h2>
+<ul>
+  <li><a href="https://www.ch.ch/en/foreign-nationals-in-switzerland/living-in-switzerland/" target="_blank" rel="noopener noreferrer">ch.ch — Living in Switzerland</a></li>
+  <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo — official LAMal comparison</a></li>
+  <li><a href="https://www.sbb.ch/en" target="_blank" rel="noopener noreferrer">SBB — public transport</a></li>
 </ul>
 </div>`
     },
@@ -747,10 +761,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "tramites",
         readingTime: 3,
         summary: "The plastic permit card can take weeks. The temporary registration certificate is usually enough for employers and payroll.",
-        content: `<div class="page-header">
-<h1>Working in Switzerland without the physical permit card</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p><strong>Yes</strong>—in many cantons you can start working as soon as you are registered. The physical card often arrives later by post.</p>
 
 <h2>What you receive first</h2>
@@ -776,10 +787,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "tramites",
         readingTime: 5,
         summary: "With a valid B or C permit, you can usually bring your spouse/registered partner and minor children, provided you have suitable housing and sufficient means.",
-        content: `<div class="page-header">
-<h1>Family reunification in Switzerland</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Family reunification is regulated and feasible for many residents, but requirements vary by canton and status.</p>
 
 <h2>Who can be reunited?</h2>
@@ -817,10 +825,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "vivienda",
         readingTime: 4,
         summary: "Subletting is common and legal, but you should get landlord approval and put everything in writing (price, duration, notice, utilities).",
-        content: `<div class="page-header">
-<h1>Subletting in Switzerland: what to check</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Subletting a room or a whole apartment is common in Switzerland. To keep it safe, follow a few clear rules.</p>
 
 <h2>1) Use a written agreement</h2>
@@ -846,10 +851,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "trabajo",
         readingTime: 5,
         summary: "The Swiss system is based on three pillars. The earlier you contribute, the stronger your total pension tends to be—pillar 2 and 3 often matter a lot for newcomers.",
-        content: `<div class="page-header">
-<h1>Swiss retirement basics: the 3-pillar system</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Swiss retirement is usually described as a <strong>3-pillar system</strong>. Your outcome depends heavily on years contributed and salary.</p>
 
 <h2>Pillar 1: AVS/AHV</h2>
@@ -875,10 +877,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "tramites",
         readingTime: 4,
         summary: "It can be possible, but you must show sufficient resources and comprehensive health insurance, and you still need to register officially.",
-        content: `<div class="page-header">
-<h1>Living in Switzerland without a job: what’s required</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Many people ask whether they can live in Switzerland without an employment contract. For EU/EFTA citizens, this can be possible—but under strict conditions.</p>
 
 <h2>What you usually must prove</h2>
@@ -898,10 +897,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "salud",
         readingTime: 4,
         summary: "IV/AI aims to keep people in the workforce through rehabilitation and adaptation. A pension is usually considered only after measures are exhausted.",
-        content: `<div class="page-header">
-<h1>IV/AI in Switzerland: support and reintegration</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Swiss disability insurance (IV/AI) is often misunderstood. Its core idea is <strong>rehabilitation first</strong>, not “early retirement”.</p>
 
 <h2>What IV/AI can fund</h2>
@@ -924,10 +920,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "salud",
         readingTime: 4,
         summary: "Switzerland generally relies on recommendations rather than mandates. Standard vaccines are recommended; tick-borne encephalitis is often emphasized for outdoor activities.",
-        content: `<div class="page-header">
-<h1>Vaccination in Switzerland</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>In Switzerland, vaccines are usually <strong>not mandatory by law</strong>. The system relies on official recommendations and individual responsibility.</p>
 
 <h2>Official recommendations</h2>
@@ -950,10 +943,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "vivir",
         readingTime: 3,
         summary: "The famous Duck Dance melody was composed by Swiss accordionist Werner Thomas in the Davos area in the late 1950s.",
-        content: `<div class="page-header">
-<h1>The Swiss origin of the Duck Dance</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>You’ve probably heard it at weddings or local festivals. What many people don’t know: <strong>“Der Ententanz”</strong> has Swiss roots.</p>
 
 <h2>Where it started</h2>
@@ -973,10 +963,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "vivir-en-suiza",
         readingTime: 7,
         summary: "Switzerland is a federal confederation: cantons have major powers. Many rules that affect your daily life depend on where you live.",
-        content: `<div class="page-header">
-<h1>How Switzerland works (in plain terms)</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Switzerland is not centralized like many countries. It’s a <strong>federal system</strong> where cantons and communes have real autonomy.</p>
 
 <h2>Why this matters day-to-day</h2>
@@ -1003,10 +990,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "vivir-en-suiza",
         readingTime: 6,
         summary: "Choosing a canton is choosing a rulebook: taxes, education, and many administrative details vary across cantons and communes.",
-        content: `<div class="page-header">
-<h1>The 26 cantons of Switzerland: what you should know</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Switzerland is made up of <strong>26 cantons</strong>. Each has its own authorities and competences, so practical life changes from one canton to another.</p>
 
 <h2>What typically varies by canton</h2>
@@ -1032,10 +1016,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "vivir-en-suiza",
         readingTime: 5,
         summary: "The language you’ll need depends on your canton. In German-speaking areas, daily speech is often Swiss German dialects; administration is usually standard German.",
-        content: `<div class="page-header">
-<h1>Languages in Switzerland: what newcomers should expect</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Switzerland has <strong>four national languages</strong>. Your everyday life (work, paperwork, social life) will depend on the language of your canton.</p>
 
 <h2>German-speaking Switzerland</h2>
@@ -1061,10 +1042,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "tramites",
         readingTime: 5,
         summary: "If you are a Spanish citizen living in Switzerland, register with your consulate (RECA/CERA), and plan appointments early for passports/ID renewals.",
-        content: `<div class="page-header">
-<h1>Spanish consulates in Switzerland</h1>
-</div>
-<div class="article-content">
+        content: `<div class="article-content">
 <p>Spain has three main consular offices in Switzerland (Geneva, Bern, Zurich). They handle key services for residents.</p>
 
 <h2>Addresses and phones</h2>
