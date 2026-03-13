@@ -14,7 +14,7 @@ window.siteContent.es.articles = {
         category: "Trámites Ordinarios",
         hub: "tramites",
         slug: "permisos-suiza",
-        readingTime: 7,
+        readingTime: 12,
         dateUpdated: "Marzo 2026",
         featuredImage: "media/permiso-residencia-suiza.png",
         imageAlt: "Oficina del Contrôle des habitants en Suiza: persona recibiendo su permiso de residencia",
@@ -25,56 +25,120 @@ window.siteContent.es.articles = {
                 <img src="media/permiso-residencia-suiza.png" alt="Oficina del Contrôle des habitants en Suiza" class="article-featured-image" loading="lazy">
             </div>
             <div class="article-content">
-                <p>Mudarse a Suiza implica registrarse y obtener un título de residencia. Si procedes de un país de la UE/EFTA (incluyendo España), el proceso está facilitado por el Acuerdo de Libre Circulación de Personas (ALCP). Esto significa que llegar con un contrato de trabajo en mano es suficiente para iniciar el proceso.</p>
+                <h2>Introducción</h2>
+                <p>Si vas a vivir en Suiza, necesitas un <strong>título de residencia</strong> (permiso). Para españoles y otros ciudadanos UE/EFTA, el proceso suele ser relativamente directo si tienes un motivo claro de estancia (por ejemplo, un contrato de trabajo). Para nacionales de terceros países, el sistema es distinto y normalmente exige autorizaciones previas y condiciones más estrictas.</p>
 
                 <div class="callout info">
-                    <strong>Lo más importante primero:</strong> En Suiza, el permiso físico (la tarjeta) puede tardar semanas en llegar por correo. Puedes empezar a trabajar legalmente <strong>antes de tener la tarjeta en mano</strong>, con el justificante de registro en la comuna. El empleador lo sabe y lo acepta.
+                    <strong>Lo más importante primero:</strong> en Suiza el permiso físico (la tarjeta) puede tardar semanas. En la práctica, con el <strong>justificante/certificado de registro</strong> de la comuna, normalmente puedes empezar a trabajar y avanzar trámites mientras llega la tarjeta.
                 </div>
 
-                <h2>Permiso L — Corta Duración</h2>
-                <p>Para quienes permanecen en Suiza menos de 12 meses.</p>
+                <h2>Cómo funciona el sistema</h2>
+                <p>El permiso no se “pide por internet” de forma centralizada. En la mayoría de casos, el flujo real es:</p>
+                <ol>
+                    <li><strong>Dirección en Suiza</strong> (alquiler, subalquiler, alojamiento temporal).</li>
+                    <li><strong>Registro en la comuna</strong> (Control de Habitantes / Einwohnerkontrolle).</li>
+                    <li>El expediente pasa a la <strong>autoridad cantonal</strong> competente (migración).</li>
+                    <li>Recibes un certificado y después la <strong>tarjeta</strong> por correo.</li>
+                </ol>
+                <p>El detalle de documentos y plazos <strong>varía por cantón y comuna</strong> (cita previa, tasas, requisitos de foto, etc.). La lógica general, sin embargo, es la misma.</p>
+
+                <h2>Requisitos y reglas</h2>
+                <h3>Documentos típicos para el registro</h3>
+                <p>Para iniciar el proceso, normalmente te pedirán (según cantón y situación):</p>
                 <ul>
-                    <li><strong>Contratos temporales:</strong> Si tienes un contrato de entre 3 y 12 meses, se te asignará este permiso.</li>
-                    <li><strong>Buscadores de empleo:</strong> Tras 3 meses buscando empleo, puedes solicitar un Permiso L que se renueva bajo ciertas condiciones probando medios económicos.</li>
-                    <li><strong>Validez:</strong> Dura lo mismo que el contrato y se renueva si este se renueva.</li>
-                    <li><strong>Limitación:</strong> Con Permiso L estás vinculado al cantón donde trabajas. No puedes cambiar libremente.</li>
+                    <li>DNI/pasaporte.</li>
+                    <li><strong>Motivo de estancia:</strong> contrato de trabajo, admisión a estudios, o documentación de medios propios.</li>
+                    <li>Contrato de alquiler o <strong>certificado de alojamiento</strong> si te hospedas en casa de alguien.</li>
+                    <li>Foto tipo pasaporte (a veces te la hacen allí).</li>
+                    <li>Estado civil y documentos de familia si procede.</li>
+                </ul>
+                <p>En el registro suele haber una <strong>tasa administrativa</strong> que cambia por cantón y tipo de permiso.</p>
+
+                <h3>Qué permiso te corresponde (visión práctica)</h3>
+                <p>Los permisos más comunes para recién llegados son:</p>
+                <ul>
+                    <li><strong>Permiso L</strong>: estancia corta/temporal (a menudo ligado a un contrato de menos de 12 meses).</li>
+                    <li><strong>Permiso B</strong>: residencia (muy habitual con contrato de al menos 12 meses o indefinido para UE/EFTA).</li>
+                    <li><strong>Permiso C</strong>: establecimiento (más estable; suele llegar tras varios años de residencia regular).</li>
+                    <li><strong>Permiso G</strong>: fronterizo (vives fuera de Suiza y trabajas en Suiza).</li>
                 </ul>
 
-                <h2>Permiso B — Residencia (el más habitual para recién llegados)</h2>
-                <p>Para residentes con contratos de larga duración o indefinidos. Es el permiso más habitual entre españoles con contrato.</p>
-                <ul>
-                    <li><strong>Validez:</strong> 5 años para ciudadanos UE/EFTA con contrato de al menos 12 meses o indefinido.</li>
-                    <li><strong>Movilidad:</strong> Permite cambio de cantón y de empleador libremente.</li>
-                    <li><strong>Impuestos:</strong> Con Permiso B te retienen el impuesto a la fuente (Quellensteuer) directamente en nómina. No haces declaración ordinaria, salvo que superes 120.000 CHF brutos anuales.</li>
-                    <li><strong>Si pierdes el trabajo:</strong> No pierdes automáticamente el permiso. Tienes derecho a seguir residiendo mientras estés en la caja de paro (ORP) buscando empleo activamente.</li>
-                </ul>
-
-                <h2>Permiso C — Establecimiento Permanente</h2>
-                <p>Equivale a la residencia permanente. Es el destino final para quienes se instalan definitivamente en Suiza.</p>
-                <ul>
-                    <li><strong>Obtención:</strong> Tras 5 años de residencia ininterrumpida para ciudadanos españoles (y de la UE-15).</li>
-                    <li><strong>Derechos laborales:</strong> Mismos que los suizos (excepto voto). Puedes abrir empresa libremente.</li>
-                    <li><strong>Ventaja fiscal:</strong> Pasas a hacer declaración anual ordinaria, dejando de pagar el impuesto a la fuente mensual. En muchos casos resulta más favorable.</li>
-                    <li><strong>Renovación:</strong> Cada 5 años, casi automática mientras mantengas la residencia.</li>
-                </ul>
-
-                <h2>Permiso G — Trabajador Fronterizo</h2>
-                <p>Para quienes viven en Francia, Alemania o Italia y trabajan en Suiza. La condición es volver al país de residencia al menos una vez por semana. La mayoría lo hace a diario.</p>
-
-                <h2>Cuadro comparativo rápido</h2>
+                <h3>Cuadro comparativo rápido</h3>
                 <table class="info-table">
-                    <thead><tr><th>Permiso</th><th>Para quién</th><th>Duración</th><th>Cambio libre de cantón</th></tr></thead>
+                    <thead><tr><th>Permiso</th><th>Para quién (típico)</th><th>Duración</th><th>Notas</th></tr></thead>
                     <tbody>
-                        <tr><td><strong>L</strong></td><td>Contrato &lt;12 meses</td><td>= contrato</td><td>No</td></tr>
-                        <tr><td><strong>B</strong></td><td>Contrato &gt;12 meses / indefinido</td><td>5 años (UE)</td><td>Sí</td></tr>
-                        <tr><td><strong>C</strong></td><td>Residentes &gt;5 años en Suiza</td><td>5 años renovable</td><td>Sí</td></tr>
-                        <tr><td><strong>G</strong></td><td>Fronterizos (viven fuera)</td><td>5 años (UE)</td><td>N/A</td></tr>
+                        <tr><td><strong>L</strong></td><td>Contrato temporal</td><td>Ligada al contrato</td><td>Más restricciones; depende del caso/cantón</td></tr>
+                        <tr><td><strong>B</strong></td><td>Residencia con trabajo/estudios</td><td>Habitualmente varios años</td><td>Frecuente impuesto a la fuente al inicio</td></tr>
+                        <tr><td><strong>C</strong></td><td>Establecimiento</td><td>Renovable</td><td>Mayor estabilidad administrativa</td></tr>
+                        <tr><td><strong>G</strong></td><td>Fronterizos</td><td>Habitualmente varios años</td><td>Reglas fiscales especiales según acuerdos</td></tr>
                     </tbody>
                 </table>
 
-                <div class="callout info">
-                    <strong>Fuente Oficial:</strong> Verifica las condiciones de renovación en el portal de la <a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank">Secretaría de Estado de Migración (SEM)</a>.
-                </div>
+                <h3>Plazos, tasas y certificado provisional</h3>
+                <p>En la práctica, lo que desbloquea tu vida administrativa es el <strong>registro en la comuna</strong>. Al registrarte, muchas comunas te entregan un <strong>certificado provisional</strong> (o comprobante) que sirve mientras llega la tarjeta. Ese papel suele ser suficiente para:</p>
+                <ul>
+                    <li>Empezar a trabajar (tu empleador suele conocer el proceso).</li>
+                    <li>Abrir cuenta bancaria.</li>
+                    <li>Contratar servicios básicos y avanzar en otros trámites.</li>
+                </ul>
+                <p>Las <strong>tasas</strong> varían por cantón y tipo de permiso. Lo normal es pagar una cantidad moderada en el registro y, a veces, pagar aparte la foto/biometría si no se hace en la oficina.</p>
+
+                <h3>Renovación y cambios (domicilio, empleo, situación familiar)</h3>
+                <p>La vida real cambia y el permiso “sigue” esos cambios:</p>
+                <ul>
+                    <li><strong>Cambio de domicilio:</strong> cuando te mudas, debes darte de baja/alta según la comuna (y dentro del plazo). No es un detalle: en Suiza el domicilio es una pieza central.</li>
+                    <li><strong>Cambio de empleador:</strong> con permisos UE/EFTA suele haber movilidad, pero la obligación de notificar o actualizar puede depender del cantón y del tipo de permiso.</li>
+                    <li><strong>Cambio de estado civil / hijos:</strong> impacta trámites y, a menudo, fiscalidad. Mantén documentación actualizada.</li>
+                </ul>
+
+                <h3>Familia (reagrupación) en dos líneas</h3>
+                <p>Si vienes con pareja e hijos, o quieres traerlos después, la administración mirará sobre todo:</p>
+                <ul>
+                    <li><strong>Ingresos suficientes</strong> (según cantón y tamaño del hogar).</li>
+                    <li><strong>Vivienda adecuada</strong> (número de habitaciones/espacio).</li>
+                    <li><strong>Documentación</strong> (certificados con apostilla/traducción si aplica).</li>
+                </ul>
+                <p>Como regla práctica, prepara estos papeles <strong>antes</strong> de venir si puedes: certificados de nacimiento y matrimonio, y traducciones cuando sean necesarias.</p>
+
+                <h2>Ejemplos concretos</h2>
+                <h3>Ejemplo 1 — Llegas con contrato indefinido</h3>
+                <p>Te registras en la comuna con DNI + contrato + dirección. Pagas la tasa, recibes un certificado provisional y puedes comenzar a trabajar. Con ese certificado normalmente puedes abrir cuenta bancaria y contratar el seguro médico.</p>
+
+                <h3>Ejemplo 2 — Llegas sin contrato (UE/EFTA)</h3>
+                <p>En algunos casos puedes registrarte demostrando <strong>medios económicos</strong> y cobertura médica. La dificultad práctica es que, sin contrato, alquiler y banco pueden ser más complicados. Es un escenario que requiere planificación financiera realista.</p>
+
+                <h3>Ejemplo 3 — Pierdes el trabajo con Permiso B</h3>
+                <p>Perder el empleo no implica automáticamente “perder el permiso”, pero sí exige actuar bien: inscríbete en el RAV si corresponde, busca empleo activamente y mantén tu registro en regla. En este punto conviene leer <a href="#/rav-paro-suiza">RAV y paro en Suiza</a>.</p>
+
+                <h3>Ejemplo 4 — Vienes como estudiante</h3>
+                <p>En el registro te pedirán prueba de admisión/matrícula y, según el caso, <strong>medios económicos</strong> para tu estancia. Como estudiante, también te interesará planificar el seguro médico y confirmar si hay reglas específicas (algunas situaciones tienen excepciones o procedimientos cantonales).</p>
+
+                <h3>Ejemplo 5 — Eres fronterizo/a (Permiso G)</h3>
+                <p>Si vives en Francia/Alemania/Italia y trabajas en Suiza, el permiso G funciona con reglas propias y con implicaciones fiscales importantes. No lo trates como “un B pero viviendo fuera”: consulta tu situación en fuentes oficiales y, si es necesario, asesoramiento fiscal.</p>
+
+                <h2>Errores comunes</h2>
+                <ul>
+                    <li><strong>Esperar a tener piso definitivo:</strong> si estás en alojamiento temporal, regístrate y actualiza luego la dirección.</li>
+                    <li><strong>Asumir que todo es igual en todos los cantones:</strong> plazos, citas y documentos cambian.</li>
+                    <li><strong>No preparar documentos familiares:</strong> certificados (nacimiento/matrimonio) pueden tardar en conseguirse; si vienes con familia, prepáralos con margen.</li>
+                    <li><strong>No conectar el permiso con otras obligaciones:</strong> LAMal, impuestos y cambios de domicilio vienen detrás.</li>
+                </ul>
+
+                <h2>Consejos prácticos</h2>
+                <ul>
+                    <li>Reserva cita (si aplica) en la comuna en cuanto tengas dirección.</li>
+                    <li>Lleva copias impresas y digitales de todo.</li>
+                    <li>Si te mudas, haz el cambio de domicilio en plazo.</li>
+                    <li>Si vienes con familia, prepara certificados (nacimiento/matrimonio) con margen: apostilla y traducciones pueden llevar tiempo.</li>
+                    <li>Para el “primer mes”, usa la guía: <a href="#/tramites-llegada-suiza">Checklist de trámites</a>.</li>
+                </ul>
+
+                <h2>Fuentes oficiales</h2>
+                <ul>
+                    <li><a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank" rel="noopener noreferrer">SEM — Residencia / Aufenthalt</a></li>
+                    <li><a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">ch.ch — Portal oficial suizo</a></li>
+                    <li>Autoridades cantonales de migración (web del cantón donde resides).</li>
+                </ul>
             </div>
         `
     },
@@ -343,7 +407,7 @@ window.siteContent.es.articles = {
         category: "Seguro Médico",
         hub: "salud",
         slug: "seguro-medico-lamal-suiza",
-        readingTime: 5,
+        readingTime: 12,
         featuredImage: "media/seguro-medico-lamal.png",
         imageAlt: "Persona revisando su tarjeta de seguro médico suizo junto a documentos de la Krankenkasse",
         summary: "La LAMal es obligatoria y privada, no te cubre automáticamente el Estado. Tienes 3 meses para tramitarla, pagando atrasos desde el día 1.",
@@ -351,26 +415,100 @@ window.siteContent.es.articles = {
             <div class="page-header">
                 <h1>Seguro de salud en Suiza (LAMal): cómo funciona</h1>
                 <img src="media/seguro-medico-lamal.png" alt="Persona revisando tarjeta de seguro médico suizo" class="article-featured-image" loading="lazy">
+            </div>
             <div class="article-content">
-                <p>A diferencia de España, en Suiza no existe un sistema de Seguridad Social que cubra directamente la atención sanitaria general. La salud es privada, pero regulada de forma obligatoria por la Ley Federal del Seguro de Enfermedad, conocida como <strong>LAMal</strong> (KVG en alemán).</p>
+                <h2>Introducción</h2>
+                <p>Una de las mayores diferencias al mudarte a Suiza es que la sanidad no funciona como “seguridad social automática”. La cobertura médica básica se contrata con una aseguradora privada, pero está regulada por ley: la <strong>LAMal</strong> (KVG en alemán). Dicho de forma simple: <strong>es obligatoria, privada y estandarizada</strong> en cobertura.</p>
 
-                <h2>Obligatoriedad y Plazos</h2>
-                <p>Toda persona residente en Suiza debe contratar un seguro médico básico (LAMal) en un plazo máximo de <strong>3 meses</strong> desde su llegada o fecha de registro. El seguro tendrá efecto retroactivo; pagarás las primas desde el primer día que pisaste el país.</p>
+                <div class="callout warning">
+                    <strong>Plazo crítico:</strong> tienes hasta <strong>3 meses</strong> desde tu llegada/registro para contratar el seguro básico. La cobertura es <strong>retroactiva</strong>: pagarás primas desde el día 1 aunque lo contrates tarde.
+                </div>
 
-                <h2>¿Qué cubre el Seguro Básico (LAMal)?</h2>
-                <p>El seguro básico es idéntico por ley en todas las aseguradoras (Cajas de Compensación o <i>Caisses-maladie / Krankenkassen</i>). Cubre:</p>
+                <h2>Cómo funciona el sistema</h2>
+                <h3>1) Seguro básico (LAMal) vs complementarios (LCA)</h3>
+                <p>El seguro <strong>básico</strong> cubre lo esencial y su cobertura es idéntica por ley en todas las aseguradoras. Los seguros <strong>complementarios</strong> (LCA/VVG) cubren extras (por ejemplo, dental, habitación semiprivada/privada, gafas, etc.), pero no son de aceptación obligatoria: pueden pedir cuestionario médico, imponer exclusiones o rechazar.</p>
+
+                <h3>2) Qué pagas: prima, franquicia y copago</h3>
+                <p>En Suiza, estar asegurado no significa “todo incluido”. El coste se compone de:</p>
                 <ul>
-                    <li>Consultas médicas generales y especialistas.</li>
-                    <li>Medicamentos prescritos en la lista oficial.</li>
-                    <li>Estancias en hospitales (sala general en tu cantón de residencia).</li>
-                    <li>Gastos de maternidad.</li>
+                    <li><strong>Prima mensual:</strong> pago fijo (varía por cantón/municipio, edad y modelo elegido).</li>
+                    <li><strong>Franquicia:</strong> cantidad anual que pagas tú antes de que el seguro empiece a reembolsar.</li>
+                    <li><strong>Copago (quote-part):</strong> después de la franquicia, pagas un porcentaje (con tope anual).</li>
+                    <li><strong>Contribución hospitalaria:</strong> en caso de hospitalización, suele aplicarse un importe diario (adultos).</li>
+                </ul>
+                <p>Para entender bien y elegir estrategia (franquicia 300 vs 2500, etc.), lee: <a href="#/franquicia-seguro-medico-suiza">Franquicia y copago</a>.</p>
+
+                <h3>3) Modelos (libre elección, médico de cabecera, telemedicina, HMO)</h3>
+                <p>Una decisión que cambia mucho tu prima es el <strong>modelo</strong>. En algunos modelos debes llamar primero a telemedicina o ir a tu médico de cabecera antes de un especialista. Si no sigues las reglas del modelo, puedes perder reembolsos. Para muchos recién llegados, el modelo barato funciona bien… si eres disciplinado.</p>
+
+                <h3>4) Elegir y cambiar de aseguradora (cuándo se hace)</h3>
+                <p>En la LAMal, el seguro básico se renueva y se puede cambiar de caja con reglas de calendario. Lo habitual es comparar primas en otoño para el año siguiente y tramitar el cambio dentro de los plazos. Las fechas exactas y condiciones dependen del producto y del año, así que sigue siempre las instrucciones oficiales y las condiciones de tu aseguradora.</p>
+
+                <h3>5) Facturación: por qué a veces “pagas primero”</h3>
+                <p>Es muy común que recibas facturas del médico u hospital. Según el sistema de facturación, puedes tener que pagar tú y luego pedir reembolso, o puede facturar directamente al seguro. En cualquier caso, si no has alcanzado tu franquicia, el coste sale de tu bolsillo. Por eso el sistema se siente “caro” incluso pagando primas mensuales.</p>
+
+                <h2>Requisitos y reglas</h2>
+                <h3>1) Quién debe asegurarse</h3>
+                <p>En general, toda persona con residencia en Suiza debe estar asegurada. Existen excepciones y reglas específicas (por ejemplo, algunos casos de fronterizos o estudiantes). Si tu caso es “especial”, confirma por escrito con tu cantón qué aplica.</p>
+
+                <h3>2) Accidentes: el error más caro</h3>
+                <p>Si trabajas, es posible que tengas un <strong>seguro de accidentes</strong> pagado por el empleador (a veces también para accidentes no laborales, según tu jornada). En ese caso, normalmente puedes excluir la cobertura de accidentes del seguro básico y bajar la prima. Si dejas el empleo, debes <strong>reactivar</strong> accidentes en tu LAMal para no quedarte descubierto. Mucha gente se olvida justo en el peor momento.</p>
+
+                <h3>3) Reducción de primas (subsidio) y ayudas</h3>
+                <p>Existe un sistema de <strong>reducción de primas</strong> para personas y familias con ingresos modestos, gestionado a nivel cantonal (las reglas, umbrales y proceso <strong>varían por cantón</strong>). Si estás ajustado de presupuesto, este punto es clave: mucha gente no lo pide por desconocimiento.</p>
+
+                <h3>3) Qué cubre el seguro básico</h3>
+                <p>El básico cubre atención médica necesaria según normativa. En términos prácticos, suele incluir:</p>
+                <ul>
+                    <li>Consultas de medicina general y especialistas (según modelo/derivación).</li>
+                    <li>Medicamentos prescritos incluidos en listas oficiales.</li>
+                    <li>Hospitalización en <strong>sala general</strong> (normalmente en tu cantón, salvo urgencias o reglas específicas).</li>
+                    <li>Maternidad con condiciones particulares.</li>
                 </ul>
 
-                <h2>¿Qué NO cubre el seguro básico?</h2>
-                <p>Generalmente, el seguro básico <strong>no cubre cuidados dentales</strong> rutinarios (las visitas al dentista se pagan del bolsillo a menos que contrates un seguro complementario LCA), ni gafas u hospitalización en habitación privada.</p>
+                <h3>4) Qué no cubre (o cubre de forma limitada)</h3>
+                <ul>
+                    <li><strong>Dental:</strong> la mayoría de tratamientos dentales rutinarios se pagan aparte o vía complementario.</li>
+                    <li><strong>Gafas/lentillas:</strong> a menudo con límites o fuera del básico.</li>
+                    <li><strong>Habitación privada/semiprivada</strong> en hospital: normalmente complementario.</li>
+                </ul>
 
-                <h2>¿Cómo elegir aseguradora?</h2>
-                <p>Aunque las coberturas de la LAMal son idénticas, las primas mensuales varían sustancialmente entre compañías y según tu lugar de residencia. Puedes comparar las ofertas oficiales en <a href="https://www.priminfo.admin.ch/" target="_blank">Priminfo</a> (sitio de la Confederación).</p>
+                <h2>Ejemplos concretos</h2>
+                <h3>Ejemplo 1 — Persona sana que quiere pagar menos al mes</h3>
+                <p>Si sueles ir poco al médico, es habitual escoger una franquicia alta para reducir la prima mensual. El “riesgo” es que, si ese año tienes una urgencia o un tratamiento caro, pagarás más al principio.</p>
+
+                <h3>Ejemplo 2 — Familia con niños pequeños</h3>
+                <p>Con niños, las visitas médicas son más frecuentes. Muchas familias prefieren franquicias más bajas para tener previsibilidad. También conviene elegir un modelo que se adapte a pediatría y urgencias.</p>
+
+                <h3>Ejemplo 3 — Llegas y no contratas en plazo</h3>
+                <p>Si dejas pasar los 3 meses, no “te ahorras” primas: suelen facturarte retroactivamente desde el día 1 e incluso asignarte una caja. Planifica este trámite dentro del <a href="#/tramites-llegada-suiza">primer mes</a>.</p>
+
+                <h3>Ejemplo 4 — Cálculo de “peor caso anual” (para decidir franquicia)</h3>
+                <p>Una forma práctica de elegir franquicia es calcular tu “peor caso”. Por ejemplo: si pagas 350 CHF/mes de prima (4.200 CHF/año) y eliges franquicia 2.500 CHF, tu peor año puede parecerse a: prima anual + franquicia + copago máximo. Esto te da una cifra tope para tu presupuesto. Luego comparas con el escenario de franquicia 300 (prima más alta, franquicia más baja) y decides qué te da más tranquilidad.</p>
+
+                <h2>Errores comunes</h2>
+                <ul>
+                    <li><strong>Elegir solo por precio:</strong> sin entender el modelo, puedes acabar pagando facturas no reembolsadas.</li>
+                    <li><strong>Confundir básico y complementario:</strong> dental y habitación privada no vienen “incluidos” por defecto.</li>
+                    <li><strong>Mal elegir franquicia:</strong> pagar prima baja no compensa si cada año tienes gastos médicos previsibles.</li>
+                    <li><strong>No ajustar accidentes al cambiar de empleo:</strong> duplicas cobertura o te quedas sin la correcta.</li>
+                </ul>
+
+                <h2>Consejos prácticos</h2>
+                <ul>
+                    <li>Compara en el portal oficial <a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo</a> (primas por cantón/municipio y modelos).</li>
+                    <li>Calcula tu “peor caso anual”: prima + franquicia + copago, para decidir con cabeza.</li>
+                    <li>Si vas a contratar complementarios (dental, etc.), suele ser más fácil hacerlo cuando estás sano y antes de diagnósticos.</li>
+                    <li>Si tu presupuesto es ajustado, revisa el tema de la <strong>reducción de primas</strong> de tu cantón (subsidio).</li>
+                    <li>Conecta esta guía con <a href="#/franquicia-seguro-medico-suiza">franquicia/copago</a> y <a href="#/costo-de-vida-suiza">coste de vida</a>.</li>
+                </ul>
+
+                <h2>Fuentes oficiales</h2>
+                <ul>
+                    <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo — Comparador oficial de primas</a></li>
+                    <li><a href="https://www.bag.admin.ch/" target="_blank" rel="noopener noreferrer">OFSP / BAG — Oficina Federal de Salud Pública</a></li>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Portal oficial suizo</a></li>
+                </ul>
             </div>
         `
     },
@@ -421,7 +559,7 @@ window.siteContent.es.articles = {
         category: 'Sistema Tributario',
         hub: 'impuestos',
         slug: "impuestos-en-suiza",
-        readingTime: 5,
+        readingTime: 12,
         featuredImage: "media/impuestos-suiza.png",
         imageAlt: "Persona revisando documentación fiscal con mapa de cantones suizos al fondo",
         summary: 'En Suiza pagas impuestos a 3 niveles. El cantonal y comunal suponen la mayor carga y varían drásticamente incluso cruzando la calle.',
@@ -429,21 +567,110 @@ window.siteContent.es.articles = {
             <div class="page-header">
                 <h1>Impuestos en Suiza: fiscalidad federal, cantonal y comunal</h1>
                 <img src="media/impuestos-suiza.png" alt="Revisión fiscal con mapa de Suiza y cantones" class="article-featured-image" loading="lazy">
+            </div>
             <div class="article-content">
-                <p>Suiza es un país federal, por lo cual cuenta con un sistema fiscal a tres niveles. A diferencia de muchos países donde se recauda a nivel nacional y luego se distribuye, en Suiza los ciudadanos tributan en tres esferas diferentes.</p>
+                <h2>Introducción</h2>
+                <p>En Suiza, los impuestos no se entienden mirando un “tipo nacional” y ya. El país es federal, y tu carga fiscal depende mucho de <strong>dónde vives</strong> (cantón y comuna), tu estado civil, hijos y nivel de ingresos. Dos personas con el mismo salario pueden pagar diferente solo por vivir en comunas distintas.</p>
 
-                <h2>1. El Impuesto Federal Directo</h2>
-                <p>Es igual en toda Suiza y es recaudado por la Confederación. Grava los ingresos de las personas físicas (pero no su patrimonio) y el beneficio de las empresas. Tiene tarifas marcadamente progresivas, pero en general no excede el 11.5% de los ingresos.</p>
-
-                <h2>2. El Impuesto Cantonal</h2>
-                <p>Cada uno de los 26 cantones tiene su propia legislación fiscal. Ellos fijan los baremos, las deducciones y la escala de progresividad. Debido a esto, la carga fiscal varía inmensamente si vives en Ginebra (alta fiscalidad) versus si vives en Zug o Schwyz (baja fiscalidad). Los cantones gravan tanto la renta (ingresos) como la fortuna (patrimonio).</p>
-
-                <h2>3. El Impuesto Comunal</h2>
-                <p>Los más de 2000 ayuntamientos en Suiza determinan cada año su coeficiente impositivo, a menudo expresado como un porcentaje o multiplicador basado en el impuesto cantonal básico. Por ello, mudarse apenas unos kilómetros a la comuna vecina puede aumentar o reducir tus impuestos significativamente.</p>
-
-                <div class="callout">
-                    <strong>Pilar importante:</strong> En Suiza prima el "Federalismo fiscal de competencia". Los cantones compiten entre sí atrayendo empresas y contribuyentes a través de las tasas impositivas.
+                <div class="callout info">
+                    <strong>Puntos clave:</strong>
+                    <ul>
+                        <li>Pagas impuestos a <strong>tres niveles</strong>: Confederación, cantón y comuna.</li>
+                        <li>Lo cantonal y comunal suele ser lo que más varía (y lo que más importa en tu presupuesto).</li>
+                        <li>Muchos recién llegados con permiso L/B empiezan con <a href="#/impuesto-fuente-suiza">impuesto a la fuente</a> (retención en nómina).</li>
+                    </ul>
                 </div>
+
+                <h2>Cómo funciona el sistema</h2>
+                <h3>1) Impuesto federal directo</h3>
+                <p>Es el componente nacional. Se aplica de forma homogénea en todo el país, con escalas progresivas. Suele ser una parte menor de tu factura total comparado con cantón y comuna.</p>
+
+                <h3>2) Impuestos cantonales</h3>
+                <p>Cada cantón define escalas, deducciones y reglas. Además del impuesto sobre la renta, en muchos cantones existe impuesto sobre <strong>fortuna/patrimonio</strong> (con umbrales y reglas propias). Por eso, hablar de “impuestos en Suiza” sin mencionar el cantón es quedarse a medias.</p>
+
+                <h3>3) Impuestos comunales</h3>
+                <p>En muchos cantones, la comuna aplica un coeficiente o multiplicador sobre el impuesto cantonal básico. Resultado: moverte “unos kilómetros” puede cambiar tu fiscalidad sin cambiar de trabajo.</p>
+
+                <h3>4) Retención vs declaración anual</h3>
+                <p>Hay dos grandes formas de pago:</p>
+                <ul>
+                    <li><strong>Impuesto a la fuente:</strong> tu empleador retiene mensualmente en la nómina (muy común con permisos L/B).</li>
+                    <li><strong>Declaración ordinaria:</strong> declaras anualmente y pagas/ajustas según liquidación (frecuente con permiso C y en otros casos).</li>
+                </ul>
+                <p>En determinados casos, aunque estés a la fuente, puedes estar obligado a una declaración ordinaria o a una regularización (según cantón y situación). Si tienes dudas, no lo dejes para “cuando llegue la carta”: consulta pronto.</p>
+
+                <h3>5) Año fiscal, facturas y “sorpresas”</h3>
+                <p>En declaración ordinaria, es habitual que existan pagos provisionales o facturas a cuenta (según cantón) y ajustes posteriores. Por eso, aunque tu nómina sea estable, puede llegar una liquidación meses después. La recomendación práctica es simple: <strong>reserva un colchón</strong> y no planifiques tus finanzas al céntimo.</p>
+
+                <h3>6) Impuesto eclesiástico (según cantón y afiliación)</h3>
+                <p>En algunos cantones existe un impuesto ligado a la afiliación religiosa (iglesia). Si no eres miembro, en principio no debería aplicarse. Como es un tema sensible y cantonal, consúltalo en la documentación de tu cantón si ves un concepto que no entiendes.</p>
+
+                <h2>Requisitos y reglas</h2>
+                <h3>Documentos que suelen ser la base de tu fiscalidad</h3>
+                <ul>
+                    <li><strong>Lohnausweis / certificado salarial:</strong> el documento anual con tu salario y conceptos.</li>
+                    <li><strong>Estado civil e hijos:</strong> impactan tarifas a la fuente y deducciones.</li>
+                    <li><strong>Domicilio fiscal (comuna):</strong> determina gran parte de la factura.</li>
+                    <li><strong>Patrimonio y deudas:</strong> si aplica (especialmente relevante en cantones con impuesto de fortuna).</li>
+                </ul>
+
+                <h3>Qué significa “estar a la fuente” en la práctica</h3>
+                <p>Si estás a la fuente, la administración fiscal aplica una tarifa estándar basada en categorías (estado civil, hijos, etc.). Lo importante para ti es:</p>
+                <ul>
+                    <li>Verificar que tu categoría es correcta (cambios familiares importan).</li>
+                    <li>Saber si tu cantón permite <strong>correcciones</strong> o regularizaciones por deducciones (por ejemplo, aportaciones a 3er pilar, gastos de formación, etc.).</li>
+                    <li>Entender que algunos umbrales/situaciones pueden llevarte a declaración ordinaria (según reglas cantonales y federales).</li>
+                </ul>
+
+                <h3>Qué pasa si haces declaración ordinaria</h3>
+                <p>En la declaración, el cantón y la comuna te aplican reglas de deducciones y escalas. Pueden existir deducciones por:</p>
+                <ul>
+                    <li>Aportaciones previsionales (por ejemplo, 3er pilar).</li>
+                    <li>Gastos profesionales (según reglas cantonales).</li>
+                    <li>Gastos de cuidado de hijos (según cantón).</li>
+                    <li>Intereses de deudas (según cantón).</li>
+                </ul>
+                <p>La lista exacta de deducciones y límites es <strong>canton-dependiente</strong>. Por eso, no copies consejos fiscales de un cantón a otro sin comprobar.</p>
+
+                <h3>Te mudas dentro de Suiza: por qué cambia todo</h3>
+                <p>En Suiza, el domicilio fiscal es clave. Si te mudas de comuna o cantón, no solo cambian porcentajes: pueden cambiar deducciones, formularios, plazos y la forma de pago. No es raro que el primer año tras una mudanza aparezcan ajustes porque el sistema “se recalcula” con tu nuevo domicilio.</p>
+
+                <h2>Ejemplos concretos</h2>
+                <h3>Ejemplo 1 — Misma nómina, distinta comuna</h3>
+                <p>Te ofrecen el mismo sueldo en la misma empresa, pero estás dudando entre dos comunas cercanas. Si una comuna tiene un multiplicador alto y la otra bajo, tu “neto real” cambia. Por eso, al comparar alquileres, compara también impuestos (en Suiza van juntos).</p>
+
+                <h3>Ejemplo 2 — Te casas a mitad de año</h3>
+                <p>Un cambio de estado civil puede cambiar la tarifa a la fuente o tus deducciones. En la práctica, hay que notificar cambios y guardar documentación. El error típico es dejarlo para el final y luego sorprenderse con ajustes.</p>
+
+                <h3>Ejemplo 3 — Ingresos extra (autónomo, alquiler, inversiones)</h3>
+                <p>Si tienes ingresos adicionales, la retención estándar puede no reflejar tu situación final. Es un caso típico en el que puede haber obligación de declarar o regularizar. El consejo práctico: anticipa y reserva dinero.</p>
+
+                <h3>Ejemplo 4 — Te mudas de cantón en verano</h3>
+                <p>Trabajas todo el año, pero cambias de cantón a mitad. Aunque sea “el mismo país”, fiscalmente es un cambio importante: comunícalo en tus trámites de domicilio y asume que el cálculo final puede variar respecto a lo que esperabas.</p>
+
+                <h2>Errores comunes</h2>
+                <ul>
+                    <li><strong>Creer que “en Suiza se paga poco” sin mirar cantón/comuna:</strong> la diferencia puede ser grande.</li>
+                    <li><strong>No revisar la categoría a la fuente:</strong> un error de categoría puede hacerte pagar mal todo el año.</li>
+                    <li><strong>No guardar el certificado salarial:</strong> es la pieza central de cualquier corrección o declaración.</li>
+                    <li><strong>No planificar liquidez:</strong> en Suiza pueden llegar ajustes y facturas a posteriori; no vivas al límite.</li>
+                </ul>
+
+                <h2>Consejos prácticos</h2>
+                <ul>
+                    <li>Si acabas de llegar, empieza por entender <a href="#/impuesto-fuente-suiza">impuesto a la fuente</a>.</li>
+                    <li>Al elegir dónde vivir, mira el “pack completo”: alquiler + impuestos + transporte.</li>
+                    <li>Si cambias de comuna o cantón, asume que cambian reglas y revisa tu presupuesto.</li>
+                    <li>Crea una carpeta fiscal anual (PDFs y cartas): Lohnausweis, contratos, recibos de 3er pilar y comunicaciones del cantón.</li>
+                    <li>Si tienes dudas, consulta la autoridad fiscal de tu cantón: una llamada a tiempo evita errores caros.</li>
+                    <li>Conecta esta guía con <a href="#/costo-de-vida-suiza">coste de vida</a> y <a href="#/trabajadores-fronterizos-suiza">fronterizos</a> si aplica.</li>
+                </ul>
+
+                <h2>Fuentes oficiales</h2>
+                <ul>
+                    <li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">AFC / ESTV — Administración Federal de Contribuciones</a></li>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Portal oficial suizo</a></li>
+                </ul>
             </div>
         `
     },
@@ -524,7 +751,7 @@ window.siteContent.es.articles = {
         category: "Trabajo",
         hub: "trabajo",
         slug: "rav-paro-suiza",
-        readingTime: 7,
+        readingTime: 12,
         dateUpdated: "Marzo 2026",
         summary: "Si pierdes tu empleo en Suiza, el RAV (y la caja de paro) puede cubrir parte de tu salario, pero exige plazos y una búsqueda de empleo demostrable.",
         content: `
@@ -532,48 +759,102 @@ window.siteContent.es.articles = {
                 <h1>RAV y paro en Suiza: guía práctica</h1>
             </div>
             <div class="article-content">
-                <p>En Suiza, el “paro” se gestiona a través de dos piezas: el <strong>RAV</strong> (oficina regional de colocación) y la <strong>caja de desempleo</strong> (Kasse / caisse) que paga la prestación. Es un sistema serio: puede ayudarte mucho, pero funciona con reglas y obligaciones claras.</p>
-
-                <h2>1) Qué es el RAV y qué hace</h2>
+                <h2>Introducción</h2>
+                <p>En Suiza, el “paro” (seguro de desempleo ALV/AC) es un sistema muy útil, pero <strong>exigente</strong>. No se trata solo de “apuntarte”: se basa en documentación, plazos y una búsqueda de empleo demostrable. Además, hay dos actores distintos y conviene entenderlos desde el primer día:</p>
                 <ul>
-                    <li><strong>RAV:</strong> seguimiento, estrategia de búsqueda, citas, medidas de reinserción.</li>
-                    <li><strong>Caja de paro:</strong> evalúa el derecho y <strong>paga</strong> la prestación (según tu situación y documentos).</li>
+                    <li><strong>RAV / ORP:</strong> la oficina regional de colocación (seguimiento, estrategia, citas y control).</li>
+                    <li><strong>Caja de desempleo (Kasse / caisse):</strong> evalúa tu derecho y <strong>paga</strong> la prestación.</li>
                 </ul>
+                <p>Los detalles (por ejemplo, cómo pedir cita, formularios específicos o ritmo de seguimiento) pueden variar según <strong>cantón</strong> y oficina. La lógica general es común en toda Suiza.</p>
 
-                <h2>2) Requisitos típicos (visión general)</h2>
-                <p>El derecho exacto depende de tu caso, pero a nivel práctico suele girar en torno a:</p>
-                <ul>
-                    <li>Haber <strong>cotizado</strong> un mínimo de tiempo (p. ej., 12 meses) dentro de un periodo de referencia.</li>
-                    <li>Estar disponible para trabajar y <strong>buscar empleo activamente</strong>.</li>
-                    <li>Haber perdido el empleo por causas compatibles con la prestación (ojo con dimisiones).</li>
-                </ul>
-
-                <h2>3) Pasos recomendados cuando pierdes el trabajo</h2>
-                <ol>
-                    <li><strong>Inscríbete cuanto antes</strong> (no esperes a “ver qué pasa”).</li>
-                    <li>Elige una <strong>caja de desempleo</strong> y reúne documentos: contrato, carta de despido, permisos, nóminas, etc.</li>
-                    <li>Prepara un <strong>dossier de búsqueda</strong>: CV, cartas, y una lista de candidaturas.</li>
-                    <li>Acude a las citas del RAV y sigue el plan acordado.</li>
-                </ol>
-
-                <h2>4) Obligaciones y sanciones: lo que más problemas da</h2>
-                <p>El error más frecuente es pensar que “con apuntarse basta”. Normalmente tendrás que:</p>
-                <ul>
-                    <li>Demostrar un número mínimo de candidaturas (varía por situación y cantón).</li>
-                    <li>Postularte a empleos “razonables” y responder a convocatorias.</li>
-                    <li>Entregar a tiempo los justificantes (cada mes o según te indiquen).</li>
-                </ul>
-                <div class="callout info">
-                    <strong>Consejo:</strong> guarda capturas/emails, usa una hoja de seguimiento y envía todo con margen. Los retrasos suelen acabar en <strong>días de sanción</strong>.
+                <div class="callout warning">
+                    <strong>Mensaje claro:</strong> si tu contrato termina en 2–4 semanas, empieza hoy mismo a guardar pruebas de búsqueda. Muchos expedientes se complican por no poder demostrar “qué hiciste” antes del último día.
                 </div>
 
-                <h2>5) Si renunciaste (dimisión) o fue “despido pactado”</h2>
-                <p>Estos escenarios pueden implicar sanciones o periodos sin cobro. Si tienes dudas, pide una evaluación previa y documenta bien las razones (salud, acoso, cambio esencial de condiciones, etc.).</p>
+                <h2>Cómo funciona el sistema</h2>
+                <h3>1) Qué se paga (explicación práctica)</h3>
+                <p>La prestación se calcula en función de tu salario asegurado y se paga normalmente en forma de <strong>indemnizaciones diarias</strong>. Como orden de magnitud, se suele hablar de una tasa del <strong>70%</strong> del salario asegurado, o <strong>80%</strong> en ciertos casos (por ejemplo, con hijos a cargo). Hay límites máximos y reglas específicas sobre bonus, pagas extras, jornada parcial, etc.</p>
+                <p>La caja de paro es quien hace el cálculo exacto con tus documentos. No tomes porcentajes como “promesa”: úsalos para planificar tu presupuesto.</p>
 
-                <h2>6) Links útiles</h2>
+                <h3>2) RAV (control y reinserción) vs caja (pago)</h3>
+                <p>El RAV controla que cumplas obligaciones: candidaturas, disponibilidad, entrevistas y medidas (cursos, programas, prácticas). La caja verifica el derecho y realiza el pago. Puedes estar inscrito en el RAV y, al mismo tiempo, tener el pago bloqueado si faltan documentos o si hay sanciones.</p>
+
+                <h3>3) El ciclo mensual (lo que realmente te piden)</h3>
+                <p>En muchos casos, el “ritmo” del sistema se siente así:</p>
+                <ul>
+                    <li>Entregas una <strong>lista de candidaturas</strong> con pruebas (y, a veces, formularios de control) en el plazo indicado.</li>
+                    <li>Tienes <strong>citas</strong> con tu consejero RAV y debes presentarte preparado (CV actualizado, ofertas trabajadas, estrategia).</li>
+                    <li>Si trabajas unos días o a tiempo parcial, informas y se ajusta la prestación según ingresos.</li>
+                </ul>
+                <p>Además, puede haber <strong>días de espera</strong> o particularidades de inicio según tu situación. No lo dejes a la intuición: pregunta a tu caja qué fechas y documentos determinan el primer pago.</p>
+
+                <h3>4) Ingresos intermedios (Zwischenverdienst)</h3>
+                <p>Un punto clave: aceptar trabajos temporales o parciales durante el paro puede ser positivo. En algunos casos, el sistema compensa parte de la diferencia entre tu salario anterior y el nuevo ingreso. Pregunta siempre a la caja cómo declarar estos ingresos y qué impacto tiene en tu derecho.</p>
+
+                <h2>Requisitos y reglas</h2>
+                <h3>1) Requisitos típicos (visión general)</h3>
+                <p>El derecho exacto depende del caso, pero normalmente gira en torno a:</p>
+                <ul>
+                    <li>Haber <strong>cotizado</strong> el tiempo mínimo requerido dentro del periodo de referencia.</li>
+                    <li>Estar <strong>desempleado</strong> o con reducción reconocida, y estar <strong>apto</strong> para trabajar.</li>
+                    <li>Ser <strong>colocable</strong>: estar disponible y dispuesto a aceptar trabajo razonable.</li>
+                    <li>Realizar una <strong>búsqueda activa</strong> y demostrable.</li>
+                </ul>
+
+                <h3>2) Documentos que suelen pedirte</h3>
+                <p>Prepara un “dossier de paro” con:</p>
+                <ul>
+                    <li>Documento de identidad y permiso de residencia.</li>
+                    <li>Contrato de trabajo y <strong>carta de despido</strong> o confirmación de fin de contrato.</li>
+                    <li>Nóminas recientes, certificados salariales si aplica, datos bancarios (IBAN).</li>
+                    <li>Formulario(s) de la caja y justificantes de tu búsqueda.</li>
+                    <li>Documentos de situaciones especiales (por ejemplo, enfermedad, maternidad, reducción de jornada, etc.).</li>
+                </ul>
+                <p>Si estás enfermo durante el proceso, suele ser imprescindible aportar un <strong>certificado médico</strong> y comunicarlo inmediatamente: afecta a tu disponibilidad y a tus obligaciones.</p>
+
+                <h3>3) Búsqueda de empleo: cantidad y calidad</h3>
+                <p>En Suiza se espera una búsqueda <strong>regular</strong> y organizada. El número mínimo de candidaturas puede variar por situación y cantón. Lo que suele importar no es solo la cantidad, sino:</p>
+                <ul>
+                    <li>Que las candidaturas sean <strong>razonables</strong> (puestos compatibles con tu perfil y mercado).</li>
+                    <li>Que guardes <strong>pruebas</strong> (emails, PDFs, capturas de portales).</li>
+                    <li>Que respondas a ofertas “asignadas” por el RAV y no dejes mensajes sin contestar.</li>
+                </ul>
+
+                <h3>4) Dimisión, “despido pactado” y sanciones</h3>
+                <p>Si renuncias voluntariamente o hay un fin de contrato “pactado” sin causa objetiva, puede haber <strong>días de sanción</strong> (periodos sin cobro). No significa que “nunca cobras”, pero sí que el sistema penaliza decisiones evitables. Si hay un motivo serio (salud, acoso, cambios sustanciales), documenta y consulta antes de actuar.</p>
+
+                <h2>Ejemplos concretos</h2>
+                <h3>Ejemplo 1 — Despido con preaviso</h3>
+                <p>Te avisan hoy de que en un mes terminas. Empiezas ya con candidaturas, guardas pruebas, pides tu certificado de trabajo (Arbeitszeugnis) y preparas el dossier. Cuando te inscribes, puedes demostrar búsqueda previa y evitas discusiones sobre “inactividad”.</p>
+
+                <h3>Ejemplo 2 — Fin de contrato temporal</h3>
+                <p>Aunque sea “fin de contrato” y no “despido”, el sistema espera la misma lógica: búsqueda documentada, inscripción a tiempo, disponibilidad y respeto de plazos.</p>
+
+                <h3>Ejemplo 3 — Encuentras un trabajo parcial de 2 meses</h3>
+                <p>Aceptas un trabajo temporal mientras sigues buscando algo estable. Informas al RAV/caja, declaras ingresos y mantienes obligaciones. En muchos casos, es mejor para tu expediente que rechazar oportunidades por “no ser perfectas”.</p>
+
+                <h2>Errores comunes</h2>
+                <ul>
+                    <li><strong>Inscribirte tarde:</strong> esperar “a ver si sale algo” y perder días o complicar el expediente.</li>
+                    <li><strong>No tener pruebas:</strong> decir “mandé CVs” sin capturas ni emails suele acabar en sanciones.</li>
+                    <li><strong>No acudir a citas:</strong> faltar a una cita sin justificante puede costar días de sanción.</li>
+                    <li><strong>Viajar sin permiso:</strong> salir del país sin coordinarlo puede considerarse falta de disponibilidad.</li>
+                    <li><strong>No contestar</strong> a propuestas del RAV o rechazar trabajo “razonable” sin razón sólida.</li>
+                </ul>
+
+                <h2>Consejos prácticos</h2>
+                <ul>
+                    <li>Organiza tu búsqueda como un trabajo: calendario, horas fijas y seguimiento en hoja de cálculo.</li>
+                    <li>Prepara el dossier “suizo”: CV, carta, diplomas y certificados. Apóyate en <a href="#/buscar-empleo-suiza">Buscar empleo en Suiza</a>.</li>
+                    <li>Reserva dinero: la primera liquidación puede tardar y puede haber ajustes. Evita quedarte sin colchón.</li>
+                    <li>Haz “pruebas a prueba de RAV”: guarda PDFs, emails y capturas con fecha. Una candidatura sin prueba suele contar como “no hecha”.</li>
+                    <li>Conecta tu situación de paro con permisos y trámites: <a href="#/permisos-suiza">permisos</a>, <a href="#/impuesto-fuente-suiza">impuesto a la fuente</a> si aplica.</li>
+                </ul>
+
+                <h2>Fuentes oficiales</h2>
                 <ul>
                     <li><a href="https://www.ch.ch/es/trabajo/desempleo/" target="_blank" rel="noopener noreferrer">ch.ch — Desempleo</a></li>
-                    <li><a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">SECO — mercado laboral</a></li>
+                    <li><a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">SECO — Secretaría de Estado de Economía</a></li>
                 </ul>
 
                 <h2>Artículos relacionados</h2>
@@ -738,7 +1019,7 @@ window.siteContent.es.articles = {
         category: 'Contrato de Alquiler',
         hub: 'vivienda',
         slug: "alquilar-vivienda-suiza",
-        readingTime: 5,
+        readingTime: 12,
         featuredImage: "media/alquiler-vivienda-suiza.png",
         imageAlt: "Persona recibiendo las llaves de su apartamento de manos de un agente inmobiliario en Suiza",
         summary: 'El mercado de alquiler es muy competitivo. Necesitas un dosier impecable: extracto de no deudas (poursuites), contrato y 3 últimas nóminas.',
@@ -746,20 +1027,101 @@ window.siteContent.es.articles = {
             <div class="page-header">
                 <h1>Cómo alquilar un piso en Suiza</h1>
                 <img src="media/alquiler-vivienda-suiza.png" alt="Persona recibiendo las llaves del apartamento de un agente inmobiliario suizo" class="article-featured-image" loading="lazy">
+            </div>
             <div class="article-content">
-                <p>Buscar alojamiento en ciudades como Zúrich, Ginebra o Lausana es notoriamente difícil por la falta de vivienda y la altísima demanda. Ser rápido y tener un dosier completo es esencial.</p>
+                <h2>Introducción</h2>
+                <p>Alquilar vivienda en Suiza suele sorprender por dos motivos: (1) la <strong>competencia</strong> en ciertas zonas y (2) la importancia del <strong>dosier</strong>. No basta con “poder pagar”: las agencias (régies/Verwaltungen) buscan perfiles estables, con documentación completa y sin historial de impagos. La buena noticia es que, si entiendes el proceso y te organizas, aumenta mucho tu probabilidad de éxito.</p>
 
-                <h2>El Dosier del Inquilino</h2>
-                <p>No basta con tener ingresos; las inmobiliarias (Régies / Verwaltungen) piden comprobar la solvencia y antecedentes con documentación exacta. Tu dosier en la solicitud, habitualmente digital mediante portales como <a href="https://www.homegate.ch/" target="_blank">Homegate</a> o <a href="https://www.immoscout24.ch/" target="_blank">ImmoScout24</a>, debe incluir:</p>
+                <div class="callout info">
+                    <strong>Puntos clave:</strong>
+                    <ul>
+                        <li>Prepara tu dosier <strong>antes</strong> de empezar a visitar pisos.</li>
+                        <li>El documento estrella es el <strong>Betreibungsauszug / extrait des poursuites</strong> (certificado de deudas en Suiza).</li>
+                        <li>Planifica el “coste de entrada”: fianza (hasta 3 meses), primer mes y mudanza.</li>
+                    </ul>
+                </div>
+
+                <h2>Cómo funciona el sistema</h2>
+                <h3>1) Dónde se publican los pisos</h3>
+                <p>La mayor parte de la oferta se mueve en portales como <a href="https://www.homegate.ch/" target="_blank" rel="noopener noreferrer">Homegate</a> o <a href="https://www.immoscout24.ch/" target="_blank" rel="noopener noreferrer">ImmoScout24</a>. También existen webs de agencias y, en algunas zonas, grupos locales. Consejo práctico: crea alertas por zona, rango de precio y “Zimmer” (habitaciones) para reaccionar rápido.</p>
+
+                <h3>2) Visita y candidatura</h3>
+                <p>En Suiza, visitar un piso no significa “reservarlo”. Normalmente visitas y después presentas una <strong>candidatura</strong> formal con dosier. En visitas colectivas, puede haber decenas de candidatos. Quien entrega dosier completo y rápido suele tener ventaja.</p>
+
+                <h3>3) Selección y contrato</h3>
+                <p>La agencia revisa solvencia y perfil del hogar. Si te seleccionan, te envían contrato o confirmación. Si no, es habitual no recibir explicación detallada.</p>
+
+                <h3>4) Entrada: fianza, inventario y seguros</h3>
+                <p>Antes de entregar llaves, suele formalizarse:</p>
                 <ul>
-                    <li>Copia del DNI / Pasaporte y del permiso de residencia (o contrato de trabajo que pruebe tu solvencia inminente).</li>
-                    <li>Tus las tres últimas nóminas mensuales.</li>
-                    <li><strong>Extracto del registro de deudas (Betreibungsauszug / Extrait de l'Office des Poursuites)</strong>: Certificado, usualmente por los últimos 3 meses, demostrando que no debes dinero en Suiza. Puedes solicitarlo en tu comuna o digitalmente.</li>
-                    <li>Copia de un seguro de Responsabilidad Civil (<i>RC / Privathaftpflichtversicherung</i>) si lo solicitan de antemano.</li>
+                    <li><strong>Fianza (garantía):</strong> en vivienda, suele estar limitada a un máximo de 3 meses de alquiler y se deposita en una cuenta bloqueada a tu nombre (o con seguro de caución).</li>
+                    <li><strong>Inventario/estado del piso:</strong> el “état des lieux” es crucial. Se registran defectos; si no lo haces, te los pueden imputar al salir.</li>
+                    <li><strong>Responsabilidad civil (RC):</strong> muy frecuente para cubrir daños a terceros (por ejemplo, una fuga de agua).</li>
                 </ul>
 
-                <h2>Regla de oro de los ingresos</h2>
-                <p>Como estándar general de cualquier agencia suiza, <strong>el alquiler mensual bruto no puede representar más de un tercio (1/3) del sueldo bruto del hogar</strong>.</p>
+                <h2>Requisitos y reglas</h2>
+                <h3>El dosier del inquilino (qué suelen pedir)</h3>
+                <p>Las inmobiliarias suelen pedir documentación para verificar identidad, ingresos y “historial de pagos”. Un dosier típico incluye:</p>
+                <ul>
+                    <li>Copia de DNI/pasaporte y, si lo tienes, permiso de residencia (si no, contrato de trabajo + justificante de registro puede ayudar).</li>
+                    <li>Las <strong>3 últimas nóminas</strong> (si acabas de llegar: contrato + carta de la empresa con salario/fecha de inicio).</li>
+                    <li><strong>Betreibungsauszug / extrait des poursuites</strong> (certificado de no deudas en Suiza). Suele costar unas <strong>decenas de CHF</strong> y se solicita con tu domicilio.</li>
+                    <li>Formulario de la agencia (personas que vivirán, salario, contacto, etc.).</li>
+                    <li>En algunos casos: RC, referencias o carta breve de presentación.</li>
+                </ul>
+
+                <h3>Regla de oro: el tercio del salario</h3>
+                <p>Muchas agencias aplican una regla de prudencia: el alquiler mensual no debería superar ~<strong>1/3</strong> del ingreso bruto del hogar. Si lo supera, pueden rechazar aunque “en tu presupuesto” te cuadre. Por eso, a veces conviene ampliar zona o ajustar expectativas al inicio.</p>
+
+                <h3>“Zimmer” y “Nebenkosten/charges”</h3>
+                <p>Dos detalles que causan malentendidos:</p>
+                <ul>
+                    <li><strong>Zimmer:</strong> el salón cuenta como habitación. Un “3.5” suele ser salón + 2 dormitorios + un espacio “medio”.</li>
+                    <li><strong>Charges/Nebenkosten:</strong> pueden incluir calefacción/agua caliente y gastos comunes, pero no siempre. Pregunta qué entra y qué no.</li>
+                </ul>
+
+                <h3>El contrato: preaviso, fechas y rescisión</h3>
+                <p>La parte legal cambia por contrato y cantón, pero hay patrones muy comunes: el contrato suele tener <strong>fechas de rescisión</strong> específicas (por ejemplo, finales de trimestre) y un <strong>preaviso</strong> (a menudo varios meses). Además, en algunos cantones se usan formularios oficiales para comunicar subidas de alquiler o rescisión. Traducción práctica: no asumas que puedes irte “cuando quieras” con 30 días.</p>
+
+                <h3>Entrada y salida: el inventario (état des lieux) es tu seguro</h3>
+                <p>El día de entrega de llaves (entrada) se realiza un inventario del estado del piso. Haz fotos y apunta cualquier defecto (rayas, manchas, electrodomésticos, humedad). Al salir, se compara el estado y se decide qué corresponde a desgaste normal y qué se te imputa. Muchísimas disputas nacen de no documentar bien la entrada.</p>
+
+                <h2>Ejemplos concretos</h2>
+                <h3>Ejemplo 1 — Llegas sin nóminas suizas aún</h3>
+                <p>Si aún no tienes 3 nóminas, refuerza el dosier con: contrato indefinido, carta de la empresa con salario y fecha de inicio, y un breve texto explicativo. No garantiza éxito, pero mejora tus opciones.</p>
+
+                <h3>Ejemplo 2 — Pareja: uno trabaja, otro todavía no</h3>
+                <p>En muchos casos cuenta el ingreso total, pero también la estabilidad. Adjunta el contrato del que trabaja y explica el plan (búsqueda del otro, idioma, etc.). Algunas agencias aceptan garantes, otras no.</p>
+
+                <h3>Ejemplo 3 — Te ofrecen “seguro de caución” en lugar de fianza</h3>
+                <p>En vez de bloquear varios miles de CHF, puedes pagar una prima anual a una empresa que actúa como avalista. Es útil si llegas sin liquidez, pero no es un “depósito recuperable”: es un coste anual. Compara pros y contras con <a href="#/fianzas-alquiler-suiza">Fianzas</a>.</p>
+
+                <h3>Ejemplo 4 — Subalquiler (Untermiete) para empezar</h3>
+                <p>Muchos recién llegados empiezan con una habitación o un subalquiler para poder registrarse y cobrar el primer sueldo. Es una estrategia realista si te falta historial suizo. Aun así, pide contrato, reglas claras y evita acuerdos “de palabra”.</p>
+
+                <h2>Errores comunes</h2>
+                <ul>
+                    <li><strong>Dosier incompleto:</strong> en un mercado competitivo, es casi un “no automático”.</li>
+                    <li><strong>No pedir el Betreibungsauszug a tiempo:</strong> solicítalo en cuanto tengas dirección.</li>
+                    <li><strong>No revisar el estado del piso:</strong> no apuntar defectos al entrar es uno de los errores más caros al salir.</li>
+                    <li><strong>Caer en estafas:</strong> no envíes dinero por adelantado sin contrato real y verificación (y ojo con “llaves por correo”).</li>
+                    <li><strong>No verificar al anunciante:</strong> si el precio es irreal o te presionan, desconfía y verifica la agencia/propietario.</li>
+                    <li><strong>Ignorar costes de entrada:</strong> fianza + primer mes + mudanza + seguros se acumulan rápido.</li>
+                </ul>
+
+                <h2>Consejos prácticos</h2>
+                <ul>
+                    <li>Ten tu dosier en un único PDF, bien ordenado y listo para enviar el mismo día.</li>
+                    <li>Escribe una mini presentación profesional (3–4 líneas) para acompañar la candidatura.</li>
+                    <li>En visitas colectivas: llega puntual, sé breve y profesional, y envía la candidatura ese mismo día (si te interesa).</li>
+                    <li>Si dudas de cláusulas del contrato o devolución de fianza, busca apoyo (por ejemplo, asociaciones de inquilinos) y revisa <a href="#/fianzas-alquiler-suiza">Fianzas y derechos</a>.</li>
+                    <li>Conecta vivienda con presupuesto y trámites: <a href="#/costo-de-vida-suiza">coste de vida</a> y <a href="#/tramites-llegada-suiza">primer mes</a>.</li>
+                </ul>
+
+                <h2>Fuentes oficiales</h2>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Portal oficial suizo</a></li>
+                </ul>
             </div>
         `
     },
