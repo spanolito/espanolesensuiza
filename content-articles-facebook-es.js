@@ -19,6 +19,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 5,
         dateUpdated: "Marzo 2026",
         summary: "Guía para alquilar piso en Suiza: cómo preparar el dossier, contrato, fianza/depósito y señales de estafa (alquiler). Consejos para recién llegados.",
+        featuredImage: "media/v2-alquiler-claves.png",
+        imageAlt: "Un juego de llaves de casa sobre una mesa de madera con un contrato de alquiler suizo de fondo",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -147,6 +149,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Consejos prácticos para tu día a día en Suiza: administración, vecinos, compras, transporte, salud y hábitos que evitan problemas.",
+        featuredImage: "media/v2-residencia-sin-trabajo.png",
+        imageAlt: "Persona disfrutando de la vida cotidiana en Suiza",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -205,6 +209,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "Cómo estimar tu coste de vida en Suiza: alquiler, seguro médico, impuestos, transporte y “gastos invisibles”. Ejemplos por cantón y consejos.",
+        featuredImage: "media/v2-mudanza-suiza.png",
+        imageAlt: "Camión de mudanzas en un paisaje suizo, representando el traslado y los costes asociados",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -336,6 +342,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Qué es la democracia directa suiza y cómo se decide: referéndums, iniciativas, votaciones y niveles (federal/cantonal/comunal). Guía para expatriados.",
+        featuredImage: "media/v2-consulados-suiza.png",
+        imageAlt: "Mapa de las regiones culturales de Suiza, representando la diversidad y el sistema político descentralizado",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -389,6 +397,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Alertas prácticas: estafas de alquiler, falsas multas, phishing, “ofertas de trabajo” falsas y suplantación. Señales típicas y cómo actuar en Suiza.",
+        featuredImage: "media/v2-fraudes-inmigrantes-suiza.png",
+        imageAlt: "Imagen conceptual de precaución con las llaves de casa y contratos",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -444,7 +454,9 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 3,
         dateUpdated: "Marzo 2026",
         summary: "Guía nacional de convivencia en Suiza: horas de silencio, residuos/reciclaje, aparcamiento, reglas de edificio y malentendidos típicos. Explicamos qué depende del cantón, la comuna o el reglamento interno.",
-        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
+        featuredImage: "media/v2-subalquiler-vivienda.png",
+        imageAlt: "Un salón suizo limpio y ordenado, representando las normas de convivencia y hogar",
+        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-of-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>Suiza es, en general, un país con normas claras y aplicación constante. El “choque cultural” para muchos recién llegados no es la dureza de la norma, sino <strong>la previsibilidad</strong>: si existe una regla, se espera que la conozcas y la cumplas.</p>
@@ -524,6 +536,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Guía práctica para recién llegados: diferencias L/B/C, checklist de llegada, cambios de situación y errores frecuentes, con enlaces oficiales.",
+        featuredImage: "media/v2-permisos-residencia.png",
+        imageAlt: "Primer plano de documentos de identidad y permisos de residencia suizos",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -568,6 +582,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "Guía práctica del seguro de desempleo en Suiza (ALV/AC): qué hace el RAV, quién tiene derecho, cuánto se cobra (orientativo), duración, obligaciones, sanciones frecuentes y checklist para recién llegados.",
+        featuredImage: "media/v2-rav-paro.png",
+        imageAlt: "Persona en una oficina del RAV recibiendo asesoramiento laboral",
         relatedSlugs: ["trabajar-en-suiza-guia", "permisos-suiza-actualizacion", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -692,6 +708,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "Guía práctica para elegir LAMal en Suiza: modelos (standard/cabecera/telmed/HMO), franquicia y copago, accidentes, complementarios, plazos de cambio y checklist para recién llegados.",
+        featuredImage: "media/v2-ahorro-salud.png",
+        imageAlt: "Imagen conceptual de ahorro y salud en el sistema suizo",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -826,6 +844,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Guía clara del sistema suizo para expatriados: qué decide la Confederación, qué cambia por cantón y qué gestiona tu comuna. Con ejemplos y fuentes oficiales.",
+        featuredImage: "media/v2-cantones-suiza.png",
+        imageAlt: "Mapa político de los 26 cantones de Suiza",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -885,7 +905,9 @@ Object.assign(window.siteContent.es.articles, {
 	        category: "Trabajo y Salarios",
 	        hub: "trabajo",
 	        slug: "trabajar-en-suiza-guia",
-	        readingTime: 14,
+        featuredImage: "media/v2-trabajar-suiza.png",
+        imageAlt: "Persona trabajando en una oficina moderna en Suiza con vistas a las montañas",
+        readingTime: 14,
 	        dateUpdated: "Marzo 2026",
 	        summary: "Guía cornerstone para trabajar en Suiza: cómo buscar empleo, plataformas clave, salarios, contratos, periodo de prueba, paro (RAV) y errores típicos de recién llegados.",
 	        relatedSlugs: ["buscar-empleo-suiza", "contratos-de-trabajo-suiza", "periodo-prueba-preaviso-suiza", "salarios-sueldo-suiza", "rav-paro-suiza", "seguros-sociales-suiza", "permisos-suiza"],

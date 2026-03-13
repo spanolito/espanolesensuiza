@@ -16,8 +16,8 @@ window.siteContent.es.articles = {
         slug: "permisos-suiza",
         readingTime: 12,
         dateUpdated: "Marzo 2026",
-        featuredImage: "media/v2-permiso-residencia-suiza.png",
-        imageAlt: "Oficina del Contrôle des habitants en Suiza: persona recibiendo su permiso de residencia",
+        featuredImage: "media/v2-trabajar-suiza.png",
+        imageAlt: "Primer plano de documentos de identidad y permisos de residencia suizos",
         summary: "Existen tres permisos principales (L, B, C). Tu nacionalidad (UE vs Terceros Países) y duración del contrato dictan cuál recibes. Puedes trabajar antes de tener la tarjeta física.",
         content: `
             <div class="article-content">
@@ -258,7 +258,7 @@ window.siteContent.es.articles = {
         hub: "tramites",
         slug: "registrarse-en-suiza",
         readingTime: 5,
-        featuredImage: "media/registro-comuna-suiza.png",
+        featuredImage: "media/v2-registro-comuna-suiza.png",
         imageAlt: "Persona llegando al Rathaus (ayuntamiento) suizo para registrarse con su maleta",
         summary: "Si te mudas a Suiza para residir, normalmente debes registrarte en tu comuna en pocos días (a menudo 14). El justificante de registro suele permitirte empezar a trabajar y avanzar trámites mientras llega la tarjeta del permiso.",
         content: `
@@ -350,7 +350,7 @@ window.siteContent.es.articles = {
         slug: "tramites-llegada-suiza",
         readingTime: 7,
         dateUpdated: "Marzo 2026",
-        featuredImage: "media/tramites-llegada-suiza.png",
+        featuredImage: "media/v2-tramites-llegada-suiza.png",
         imageAlt: "Documentos suizos: permiso de residencia, tarjeta de seguro médico, llaves y checklist",
         summary: "Guía práctica para quienes se mudan a Suiza a residir: orden recomendado de trámites del primer mes (registro, banco, LAMal, transporte, correo y normas básicas), con plazos y errores frecuentes.",
         content: `
@@ -502,7 +502,7 @@ window.siteContent.es.articles = {
         slug: "reagrupacion-familiar-suiza",
         readingTime: 5,
         dateUpdated: "Marzo 2026",
-        featuredImage: "media/reagrupacion-familiar-suiza.png",
+        featuredImage: "media/v2-reagrupacion-familiar-suiza.png",
         imageAlt: "Familia feliz llegando a Suiza con maletas en una estación de tren con los Alpes de fondo",
         summary: "Si tienes Permiso B o C puedes traer a tu cónyuge e hijos menores de 18 años. Los familiares obtienen su propio permiso y tienen derecho a trabajar desde el primer día.",
         content: `
@@ -569,7 +569,7 @@ window.siteContent.es.articles = {
         hub: "salud",
         slug: "seguro-medico-lamal-suiza",
         readingTime: 12,
-        featuredImage: "media/seguro-medico-lamal.png",
+        featuredImage: "media/v2-seguro-medico-lamal.png",
         imageAlt: "Persona revisando su tarjeta de seguro médico suizo junto a documentos de la Krankenkasse",
         summary: "La LAMal es obligatoria y privada, no te cubre automáticamente el Estado. Tienes 3 meses para tramitarla, pagando atrasos desde el día 1.",
         content: `
@@ -681,7 +681,7 @@ window.siteContent.es.articles = {
         slug: "franquicia-seguro-medico-suiza",
         readingTime: 4,
         featuredImage: "media/v2-franquicia-salud-suiza.png",
-        imageAlt: "Infografía que explica el ahorro según la franquicia y el copago en el seguro médico suizo",
+        imageAlt: "Imagen conceptual de ahorro y salud en el sistema suizo",
         summary: 'En Suiza tú pagas el 100% de los primeros gastos médicos hasta cubrir tu Franquicia elegida. Después, pagas un 10% de copago.',
         content: `
             <div class="article-content">
@@ -716,7 +716,7 @@ window.siteContent.es.articles = {
         hub: 'impuestos',
         slug: "impuestos-en-suiza",
         readingTime: 12,
-        featuredImage: "media/impuestos-suiza.png",
+        featuredImage: "media/v2-impuestos-suiza.png",
         imageAlt: "Persona revisando documentación fiscal con mapa de cantones suizos al fondo",
         summary: 'En Suiza pagas impuestos a 3 niveles. El cantonal y comunal suponen la mayor carga y varían drásticamente incluso cruzando la calle.',
         content: `
@@ -868,7 +868,7 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "seguros-sociales-suiza",
         readingTime: 6,
-        featuredImage: "media/v2-seguros-sociales-suiza.png",
+        featuredImage: "media/v2-seguros-sociales.png",
         imageAlt: "Ilustración conceptual de los tres pilares del sistema de previsión suizo (AVS, LPP, 3er pilar)",
         summary: 'El sistema de pensiones suizo se basa en 3 pilares: el AVS (estatal), la LPP (seguro profesional obligatorio) y el 3er pilar (ahorro privado).',
         content: `
@@ -1057,8 +1057,8 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "contratos-de-trabajo-suiza",
         readingTime: 4,
-        featuredImage: "media/contrato-trabajo-suiza.png",
-        imageAlt: "Dos personas firmándose el contrato de trabajo en una oficina moderna con vistas a Zúrich",
+        featuredImage: "media/v2-periodo-prueba.png",
+        imageAlt: "Dos personas estrechándose la mano al firmar un contrato de trabajo, representando el acuerdo laboral",
         summary: 'El mercado laboral suizo es muy liberal. El despido es libre (respetando los plazos de preaviso) y las vacaciones mínimas son 4 semanas.',
         content: `
             `
@@ -1107,7 +1107,7 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "buscar-empleo-suiza",
         readingTime: 4,
-        featuredImage: "media/buscar-empleo-suiza.png",
+        featuredImage: "media/v2-buscar-empleo-suiza.png",
         imageAlt: "Persona buscando trabajo en Suiza en un café con vistas a Zúrich repasando su CV",
         summary: 'El CV al estilo suizo debe incluir foto, fecha de nacimiento y estado civil. Las plataformas más usadas son Jobup, Jobs.ch y LinkedIn.',
         content: `
@@ -1147,7 +1147,7 @@ window.siteContent.es.articles = {
         hub: 'vivienda',
         slug: "alquilar-vivienda-suiza",
         readingTime: 12,
-        featuredImage: "media/alquiler-vivienda-suiza.png",
+        featuredImage: "media/v2-alquiler-vivienda-suiza.png",
         imageAlt: "Persona recibiendo las llaves de su apartamento de manos de un agente inmobiliario en Suiza",
         summary: 'El mercado de alquiler es muy competitivo. Necesitas un dosier impecable: extracto de no deudas (poursuites), contrato y 3 últimas nóminas.',
         content: `
@@ -1285,8 +1285,8 @@ window.siteContent.es.articles = {
         category: 'Costo de Vida',
         hub: 'vivir-en-suiza',
         slug: "costo-de-vida-suiza",
-        featuredImage: "images/suiza/mapa-coste-vida-zonas-caras.svg",
-        imageAlt: "Gráfico del coste de vida por zonas en Suiza",
+        featuredImage: "media/v2-mudanza-suiza.png",
+        imageAlt: "Camión de mudanzas en un paisaje suizo, representando el coste de transporte y vida",
         supportingImages: [],
         readingTime: 4,
         summary: 'Un sueldo de 5000 CHF puede parecer alto, pero tras seguros, impuestos y alquiler, el margen de maniobra se reduce significativamente.',
@@ -1332,8 +1332,8 @@ window.siteContent.es.articles = {
         hub: 'fronterizos',
         slug: "trabajadores-fronterizos-suiza",
         readingTime: 4,
-        featuredImage: "media/v2-fronterizos-suiza.png",
-        imageAlt: "Trabajador fronterizo cruzando la frontera de Suiza hacia su país de residencia tras finalizar su jornada",
+        featuredImage: "media/v2-frontalier-suiza.png",
+        imageAlt: "Mapa de Europa con fronteras entre Suiza, Francia, Alemania e Italia, destacando el flujo de trabajadores fronterizos",
         summary: 'El Permiso G te permite vivir en Francia/Alemania y trabajar en Suiza. Debes elegir entre la LAMal o el seguro de tu país (derecho de opción).',
         content: `
             <div class="article-content">
@@ -1365,8 +1365,8 @@ window.siteContent.es.articles = {
         hub: 'tramites',
         slug: "homologar-titulos-suiza",
         readingTime: 3,
-        featuredImage: "media/v2-homologar-titulos-suiza.png",
-        imageAlt: "Título universitario con sellos oficiales de convalidación suiza y traducciones juradas",
+        featuredImage: "media/v2-reconocimiento-diplomas.png",
+        imageAlt: "Manos sosteniendo un diploma con un sello oficial suizo, simbolizando la convalidación",
         summary: 'Solo las profesiones reguladas (médicos, profesores) necesitan reconocimiento obligatorio ante el SEFRI o MEBEKO.',
         content: `
             <div class="article-content">
@@ -1434,7 +1434,7 @@ window.siteContent.es.articles = {
         hub: 'salud',
         slug: "medicos-urgencias-suiza",
         readingTime: 4,
-        featuredImage: "media/v2-sistema-salud-suiza.png",
+        featuredImage: "media/v2-sistema-salud.png",
         imageAlt: "Recepción de un centro médico de urgencias (Permanence Médicale) en Suiza",
         summary: 'Evita ir a las urgencias de un hospital por dolencias leves. Usa las Permanences Médicales o llama antes a tu seguro si tienes modelo HMO.',
         content: `
@@ -1467,20 +1467,9 @@ window.siteContent.es.articles = {
         slug: "transporte-publico-suiza",
         readingTime: 4,
         summary: 'El abono Demi-tarif / Halbtax (mitad de precio) es casi obligatorio para cualquier residente si planea usar el transporte público ocasionalmente.',
-        featuredImage: "images/suiza/mapa-red-ferroviaria.png",
+        featuredImage: "media/v2-transporte-publico-suiza.png",
         imageAlt: "Mapa articulado de la red ferroviaria suiza",
         content: `
-            <figure style="margin: 1rem 0 2rem; text-align:center;">
-                <img src="images/suiza/mapa-red-ferroviaria.png"
-                     alt="Mapa de la red ferroviaria nacional suiza SBB CFF FFS con líneas intercity y regionales"
-                     style="max-width:100%; border-radius:var(--radius-sm); border:1px solid var(--border-light);"
-                     loading="lazy">
-                <figcaption style="margin-top:0.5rem; font-size:0.85rem; color:var(--text-light);">
-                    Red ferroviaria nacional SBB/CFF/FFS. Líneas rojo = Intercity principales. Líneas azul = regionales.
-                </figcaption>
-            </figure>
-            <div class="article-content" style="display:contents;">
-            </div>
             <div class="article-content">
                 <p>La Confederación Suiza está orgullosa de poseer uno de los sistemas de transporte público más densos, puntuales e integrados del mundo (trenes, autobuses, tranvías y barcos están en un solo reloj).</p>
 
@@ -1701,7 +1690,7 @@ window.siteContent.es.articles = {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "En Suiza no existen las vacunas obligatorias. El sistema se basa en las recomendaciones de la Oficina Federal de Salud Pública (BAG) y la responsabilidad individual.",
-        featuredImage: "media/sistema-salud-suiza.png",
+        featuredImage: "media/v2-vacunas-suiza.png",
         imageAlt: "Viales de vacunas en un entorno médico suizo",
         content: `
             <div class="article-content">
@@ -1733,7 +1722,7 @@ window.siteContent.es.articles = {
         slug: "origen-danza-de-los-patos-suiza",
         readingTime: 3,
         dateUpdated: "Marzo 2026",
-        featuredImage: "icons/icon-512.png",
+        featuredImage: "media/v2-curiosidades-suiza.png",
         imageAlt: "Icono oficial de Suiza con la cruz blanca sobre fondo rojo",
         summary: "Aunque parezca una canción genérica, la famosa danza de los patos fue compuesta por un acordeonista suizo en Davos en los años 50.",
         content: `
@@ -1755,7 +1744,7 @@ window.siteContent.es.articles = {
 
     // 26. Introducción a Suiza: página pilier
     "articulo-introduccion-suiza": {
-        featuredImage: "media/og-image.jpg",
+        featuredImage: "media/v2-introduccion-suiza.png",
         title: "Cómo funciona Suiza: guía completa para nuevos residentes",
         description: "Guía completa sobre Suiza: organización federal, 26 cantones, sistema político, 4 lenguas, diferencias regionales, educación y vida cotidiana. Esencial antes de instalarse.",
         keywords: "suiza como funciona, cantones suiza, federalismo, democracia directa, lenguas suiza, sistema escolar suizo, diferencias cantones",
@@ -1766,7 +1755,6 @@ window.siteContent.es.articles = {
         readingTime: 10,
         dateUpdated: "Marzo 2026",
         summary: "Suiza no es un país convencional. Es una Confederación de 26 cantones autónomos, 4 lenguas oficiales, democracia directa y un federalismo que afecta tu vida diaria desde el primer día.",
-        featuredImage: "images/suiza/mapa-politico-cantones.png",
         imageAlt: "Vista panorámica de una ciudad suiza con arquitectura tradicional y moderna",
         content: `
             <div class="article-content">
@@ -1789,16 +1777,6 @@ window.siteContent.es.articles = {
                 </ul>
 
                 <h2 id="organizacion">Sección 1 — Cantones y organización territorial</h2>
-
-                <figure style="margin: 1.5rem 0; text-align: center;">
-                    <img src="media/og-image.jpg"
-                         alt="Mapa político de Suiza con los 26 cantones y sus abreviaturas oficiales"
-                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
-                         loading="lazy">
-                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
-                        Mapa político de Suiza con los 26 cantones. Cada cantón tiene autonomía fiscal, educativa y administrativa.
-                    </figcaption>
-                </figure>
 
                 <p>Suiza es una <strong>Confederación Helvética</strong> formada por <strong>26 cantones</strong>. Esta estructura existe desde el siglo XIII y es la razón por la que el país tiene un funcionamiento tan peculiar. Cada cantón es, en esencia, un mini-estado con su propio gobierno, su propio parlamento y sus propias leyes.</p>
 
@@ -1839,8 +1817,7 @@ window.siteContent.es.articles = {
 
                 <h2 id="lenguas">Sección 3 — Las 4 lenguas de Suiza</h2>
 
-                <figure style="margin: 1.5rem 0; text-align: center;">
-                    <img src="images/suiza/mapa-linguistico.png"
+                    <img src="media/v2-lenguas-suiza.png"
                          alt="Mapa lingüístico de Suiza con las 4 regiones de lenguas oficiales: alemán, francés, italiano y romanche"
                          style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
                          loading="lazy">
@@ -1933,7 +1910,7 @@ window.siteContent.es.articles = {
                 <h2 id="regiones">Sección 6 — Diferencias culturales y regionales</h2>
 
                 <figure style="margin: 1.5rem 0; text-align: center;">
-                    <img src="images/suiza/mapa-regiones-culturales.png"
+                    <img src="media/v2-consulados-suiza.png"
                          alt="Mapa de regiones culturales de Suiza: Suiza alemana (Deutschschweiz), Romandia (La Romandie) y Ticino"
                          style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
                          loading="lazy">
@@ -1990,21 +1967,10 @@ window.siteContent.es.articles = {
         readingTime: 7,
         dateUpdated: "Marzo 2026",
         summary: "Suiza está formada por 26 cantones autónomos, cada uno con su propio sistema fiscal, educativo y administrativo. El cantón donde vives lo cambia casi todo.",
-        featuredImage: "images/suiza/mapa-politico-cantones.png",
+        featuredImage: "media/v2-cantones-suiza.png",
         imageAlt: "Mapa político de los 26 cantones de Suiza",
         content: `
-            <div class="article-content">
                 <p>En Suiza, el cantón donde te instalas es tan importante como el país en sí. Cada uno de los 26 cantones tiene su propio gobierno, sus propias leyes fiscales, su propio sistema educativo y su propia identidad cultural. Entender esta estructura es esencial antes de decidir dónde vivir.</p>
-
-                <figure style="margin: 1.5rem 0; text-align:center;">
-                    <img src="images/suiza/mapa-politico-cantones.png"
-                         alt="Mapa político de Suiza con los 26 cantones y sus abreviaturas oficiales"
-                         style="max-width:100%; border-radius:var(--radius-sm); border:1px solid var(--border-light);"
-                         loading="lazy">
-                    <figcaption style="margin-top:0.5rem; font-size:0.85rem; color:var(--text-light);">
-                        Mapa político de Suiza con los 26 cantones y sus abreviaturas oficiales.
-                    </figcaption>
-                </figure>
 
                 <h2>¿Qué es un cantón?</h2>
                 <p>Un cantón es la unidad territorial base de la Confederación Helvética. Equivale a lo que en España sería una comunidad autónoma, pero con muchos más poderes. Los cantones existían antes que la Confederación: se unieron por pacta de defensa mutua, no por imposición central. Esto explica por qué cada uno mantiene tanta autonomía.</p>
@@ -2143,21 +2109,12 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Marzo 2026",
         summary: "Suiza tiene 4 lenguas nacionales. El idioma que deberás aprender depende completamente del cantón donde te instales: alemán en el este y centro, francés en el oeste, italiano en el Ticino.",
-        featuredImage: "images/suiza/mapa-linguistico.png",
+        featuredImage: "media/v2-lenguas-suiza.png",
         imageAlt: "Mapa de las cuatro regiones lingüísticas de Suiza",
         content: `
             <div class="article-content">
-                <p>Suiza es uno de los pocos países del mundo con cuatro lenguas nacionales oficiales. Pero hay un error muy común al llegar: creer que el inglés es suficiente para integrarse. No lo es. El idioma de tu cantón de residencia es la clave para el trabajo, los trámites y la integración social.</p>
-
-                <figure style="margin: 1.5rem 0; text-align:center;">
-                    <img src="images/suiza/mapa-linguistico.png"
-                         alt="Mapa lingüístico de Suiza con las 4 regiones de lenguas: alemán, francés, italiano y romanche"
-                         style="max-width:100%; border-radius:var(--radius-sm); border:1px solid var(--border-light);"
-                         loading="lazy">
-                    <figcaption style="margin-top:0.5rem; font-size:0.85rem; color:var(--text-light);">
-                        Mapa lingüístico de Suiza. La región azul habla alemán, la verde francés, la naranja italiano y la morada romanche.
                     </figcaption>
-                </figure>
+                <p>Suiza es uno de los pocos países del mundo con cuatro lenguas nacionales oficiales. Pero hay un error muy común al llegar: creer que el inglés es suficiente para integrarse. No lo es. El idioma de tu cantón de residencia es la clave para el trabajo, los trámites y la integración social.</p>
 
                 <h2>Las 4 lenguas nacionales</h2>
 
@@ -2246,7 +2203,7 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Marzo 2026",
         summary: "España tiene tres consulados en Suiza: Ginebra, Berna y Zúrich. El registro consular es el primer trámite que debes hacer al llegar. Sin él, no puedes renovar el pasaporte ni votar.",
-        featuredImage: "images/suiza/mapa-regiones-culturales.png",
+        featuredImage: "media/v2-consulados-suiza.png",
         imageAlt: "Sede de un consulado español en Suiza con la bandera oficial",
         content: `
             <div class="article-content">
