@@ -1392,16 +1392,33 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     function pickArticleImages(pageData, routeKey) {
+        const HOMEPAGE_BANNER = "media/banner.jpg";
         const hub = pageData && pageData.hub;
         const preset = (hub && ARTICLE_IMAGE_PRESETS[hub]) ? ARTICLE_IMAGE_PRESETS[hub] : ARTICLE_IMAGE_PRESETS.vivir;
+        
+        // 1. Prioritize image defined in the article itself (pageData)
         let hero = pageData && pageData.featuredImage ? pageData.featuredImage : null;
+        
+        // 2. Look into the Spanish version if current lang doesn't have it (fallback for missing translations)
         if (!hero && routeKey && window.siteContent && window.siteContent.es && window.siteContent.es.articles) {
             const es = window.siteContent.es.articles[routeKey];
             if (es && es.featuredImage) hero = es.featuredImage;
         }
+        
+        // 3. Use topic preset as a last resort
         if (!hero) hero = preset.hero;
+        
+        // Safety Rule: Never use the homepage banner in articles
+        if (hero === HOMEPAGE_BANNER) {
+            hero = preset.hero !== HOMEPAGE_BANNER ? preset.hero : "media/og-image.jpg";
+        }
+
         const hasSupportingOverride = Array.isArray(pageData && pageData.supportingImages);
-        const supporting = hasSupportingOverride ? pageData.supportingImages : preset.supporting;
+        let supporting = hasSupportingOverride ? pageData.supportingImages : (preset.supporting || []);
+        
+        // Ensure supporting images also follow the exclusivity rule
+        supporting = supporting.filter(src => src !== HOMEPAGE_BANNER);
+        
         return { hero, supporting };
     }
 

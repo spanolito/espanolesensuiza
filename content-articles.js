@@ -164,6 +164,8 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Marzo 2026",
         summary: "Checklist clara de pasos para mudarte a Suiza desde España: trabajo, registro, permisos, seguro médico, vivienda y presupuesto.",
+        featuredImage: "media/mudarse-suiza.png",
+        imageAlt: "Camión de mudanzas circulando por una carretera suiza con montañas al fondo",
         content: `
             <div class="article-content">
                 <p>Muchos españoles quieren vivir o trabajar en Suiza por los salarios, la estabilidad y las oportunidades. Esta guía resume los <strong>pasos principales</strong> para instalarte, sin textos largos y con enlaces directos a las páginas clave del sitio.</p>
@@ -678,6 +680,8 @@ window.siteContent.es.articles = {
         hub: 'salud',
         slug: "franquicia-seguro-medico-suiza",
         readingTime: 4,
+        featuredImage: "media/franquicia-salud-suiza.png",
+        imageAlt: "Infografía que explica el ahorro según la franquicia y el copago en el seguro médico suizo",
         summary: 'En Suiza tú pagas el 100% de los primeros gastos médicos hasta cubrir tu Franquicia elegida. Después, pagas un 10% de copago.',
         content: `
             <div class="article-content">
@@ -834,6 +838,8 @@ window.siteContent.es.articles = {
         slug: "impuesto-fuente-suiza",
         readingTime: 3,
         dateUpdated: 'Actualizado recientemente',
+        featuredImage: "media/impuesto-fuente-suiza.png",
+        imageAlt: "Persona revisando el cálculo de su impuesto a la fuente en una oficina suiza",
         summary: 'Si tienes Permiso B o L, la empresa descuenta tu impuesto a la fuente directamente. La tarifa depende del cantón, estado civil e hijos.',
         content: `
             <div class="article-content">
@@ -862,6 +868,8 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "seguros-sociales-suiza",
         readingTime: 6,
+        featuredImage: "media/seguros-sociales-suiza.png",
+        imageAlt: "Ilustración conceptual de los tres pilares del sistema de previsión suizo (AVS, LPP, 3er pilar)",
         summary: 'El sistema de pensiones suizo se basa en 3 pilares: el AVS (estatal), la LPP (seguro profesional obligatorio) y el 3er pilar (ahorro privado).',
         content: `
             <div class="article-content">
@@ -895,6 +903,8 @@ window.siteContent.es.articles = {
         slug: "rav-paro-suiza",
         readingTime: 12,
         dateUpdated: "Marzo 2026",
+        featuredImage: "media/rav-paro-suiza.png",
+        imageAlt: "Oficina del RAV en Suiza con asesores ayudando a candidatos en su búsqueda de empleo",
         summary: "Si pierdes tu empleo en Suiza, el RAV (y la caja de paro) puede cubrir parte de tu salario, pero exige plazos y una búsqueda de empleo demostrable.",
         content: `
             <div class="article-content">
@@ -1015,7 +1025,8 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "salarios-sueldo-suiza",
         readingTime: 5,
-        summary: 'Suiza tiene salarios muy altos pero costos en proporción. Solo unos pocos cantones (ej. Ginebra, Neuchâtel) tienen salario mínimo legal.',
+        featuredImage: "media/salarios-suiza.png",
+        imageAlt: "Certificado de salario suizo (Lohnausweis) con monedas de francos suizos en un escritorio profesional",
         summary: 'Suiza tiene salarios muy altos pero costos en proporción. Solo unos pocos cantones (ej. Ginebra, Neuchâtel) tienen salario mínimo legal.',
         content: `
             <div class="article-content">
@@ -1063,6 +1074,8 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "periodo-prueba-preaviso-suiza",
         readingTime: 3,
+        featuredImage: "media/periodo-prueba-suiza.png",
+        imageAlt: "Reunión profesional de revisión al finalizar el periodo de prueba en una oficina con vistas a las montañas suizas",
         summary: 'El periodo de prueba estándar es de 1 a 3 meses. Durante este tiempo, cualquiera de las partes puede rescindir el contrato con 7 días de preaviso.',
         content: `
             <div class="article-content">
@@ -1246,6 +1259,8 @@ window.siteContent.es.articles = {
         hub: 'vivienda',
         slug: "fianzas-alquiler-suiza",
         readingTime: 3,
+        featuredImage: "media/fianzas-alquiler-suiza.png",
+        imageAlt: "Documento de garantía bancaria de alquiler suiza con las llaves de casa en un escritorio profesional",
         summary: 'La fianza máxima legal es de 3 meses de alquiler. Puedes depositarla en un banco o usar seguros como SwissCaution.',
         content: `
             <div class="article-content">
@@ -1270,9 +1285,10 @@ window.siteContent.es.articles = {
         category: 'Costo de Vida',
         hub: 'vivir-en-suiza',
         slug: "costo-de-vida-suiza",
+        featuredImage: "media/salarios-suiza.png",
+        imageAlt: "Presupuesto y planificación financiera en Suiza con monedas de francos",
         supportingImages: ["images/suiza/mapa-regiones-culturales.png"],
         readingTime: 4,
-        summary: 'Un sueldo de 5000 CHF puede parecer alto, pero tras seguros, impuestos y alquiler, el margen de maniobra se reduce significativamente.',
         summary: 'Un sueldo de 5000 CHF puede parecer alto, pero tras seguros, impuestos y alquiler, el margen de maniobra se reduce significativamente.',
         content: `
             <div class="article-content">
@@ -1317,7 +1333,8 @@ window.siteContent.es.articles = {
         hub: 'fronterizos',
         slug: "trabajadores-fronterizos-suiza",
         readingTime: 4,
-        summary: 'El Permiso G te permite vivir en Francia/Alemania y trabajar en Suiza. Debes elegir entre la LAMal o el seguro de tu país (derecho de opción).',
+        featuredImage: "media/fronterizos-suiza.png",
+        imageAlt: "Trabajador fronterizo cruzando la frontera de Suiza hacia su país de residencia tras finalizar su jornada",
         summary: 'El Permiso G te permite vivir en Francia/Alemania y trabajar en Suiza. Debes elegir entre la LAMal o el seguro de tu país (derecho de opción).',
         content: `
             <div class="article-content">
@@ -1349,6 +1366,8 @@ window.siteContent.es.articles = {
         hub: 'tramites',
         slug: "homologar-titulos-suiza",
         readingTime: 3,
+        featuredImage: "media/homologar-titulos-suiza.png",
+        imageAlt: "Título universitario con sellos oficiales de convalidación suiza y traducciones juradas",
         summary: 'Solo las profesiones reguladas (médicos, profesores) necesitan reconocimiento obligatorio ante el SEFRI o MEBEKO.',
         content: `
             <div class="article-content">
@@ -1381,6 +1400,8 @@ window.siteContent.es.articles = {
         hub: 'vivir-en-suiza',
         slug: "sistema-escolar-suiza",
         readingTime: 5,
+        featuredImage: "media/sistema-escolar-suiza.png",
+        imageAlt: "Edificio moderno de una escuela primaria pública en Suiza con zona de juegos y montañas al fondo",
         summary: 'El sistema escolar orienta (segrega) a los alumnos rápido: más del 60% hace formación profesional dual (CFC) en lugar de bachillerato.',
         content: `
             <div class="article-content">
@@ -1414,6 +1435,8 @@ window.siteContent.es.articles = {
         hub: 'salud',
         slug: "medicos-urgencias-suiza",
         readingTime: 4,
+        featuredImage: "media/sistema-salud-suiza.png",
+        imageAlt: "Recepción de un centro médico de urgencias (Permanence Médicale) en Suiza",
         summary: 'Evita ir a las urgencias de un hospital por dolencias leves. Usa las Permanences Médicales o llama antes a tu seguro si tienes modelo HMO.',
         content: `
             <div class="article-content">
@@ -1445,7 +1468,8 @@ window.siteContent.es.articles = {
         slug: "transporte-publico-suiza",
         readingTime: 4,
         summary: 'El abono Demi-tarif / Halbtax (mitad de precio) es casi obligatorio para cualquier residente si planea usar el transporte público ocasionalmente.',
-        summary: 'El abono Demi-tarif / Halbtax (mitad de precio) es casi obligatorio para cualquier residente si planea usar el transporte público ocasionalmente.',
+        featuredImage: "images/suiza/mapa-red-ferroviaria.png",
+        imageAlt: "Mapa articulado de la red ferroviaria suiza",
         content: `
             <figure style="margin: 1rem 0 2rem; text-align:center;">
                 <img src="images/suiza/mapa-red-ferroviaria.png"
@@ -1487,6 +1511,8 @@ window.siteContent.es.articles = {
         hub: 'tramites',
         slug: "nacionalidad-suiza-pasaporte",
         readingTime: 5,
+        featuredImage: "media/nacionalidad-suiza-pasaporte.png",
+        imageAlt: "Simbólico pasaporte rojo suizo descansando sobre un escritorio de madera profesional",
         summary: 'La naturalización ordinaria requiere 10 años de residencia, un Permiso C, nivel de idioma (B1/A2) y superar un examen comunal de integración.',
         content: `
             <div class="article-content">
@@ -1523,6 +1549,8 @@ window.siteContent.es.articles = {
         slug: "subalquiler-vivienda-suiza",
         readingTime: 4,
         dateUpdated: "Marzo 2026",
+        featuredImage: "media/subalquiler-vivienda-suiza.png",
+        imageAlt: "Habitación acogedora en un piso compartido (colocación) en una ciudad suiza",
         summary: "El subalquiler es legal y común en Suiza. Requiere autorización del propietario y, preferiblemente, un contrato por escrito para evitar malentendidos.",
         content: `
             <div class="article-content">
@@ -1566,6 +1594,8 @@ window.siteContent.es.articles = {
         slug: "jubilacion-pension-suiza",
         readingTime: 5,
         dateUpdated: "Marzo 2026",
+        featuredImage: "media/jubilacion-pension-suiza.png",
+        imageAlt: "Pareja de jubilados disfrutando de un café en una terraza con vistas a los Alpes suizos",
         summary: "La jubilación suiza se basa en tres pilares. Los años cotizados marcan la diferencia: cuanto antes llegues, más sólida será tu pensión.",
         content: `
             <div class="article-content">
@@ -1603,6 +1633,8 @@ window.siteContent.es.articles = {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "Es posible vivir en Suiza sin trabajar, pero debes demostrar medios económicos suficientes y disponer de un seguro médico completo (LAMal).",
+        featuredImage: "media/vivir-sin-trabajar-suiza.png",
+        imageAlt: "Persona relajada disfrutando de la libertad financiera en un balcón con vistas a los Alpes suizos",
         content: `
             <div class="article-content">
                 <p>Muchos se preguntan si es posible establecerse en Suiza sin tener un contrato de trabajo. La respuesta es sí, especialmente para ciudadanos de la UE/AELC, pero bajo condiciones estrictas.</p>
@@ -1636,6 +1668,8 @@ window.siteContent.es.articles = {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "La AI no es una jubilación anticipada. Su filosofía es: 'primero rehabilitación, después la renta'. Busca que el trabajador siga siendo activo.",
+        featuredImage: "media/seguro-invalidez-suiza.png",
+        imageAlt: "Sesión de asesoramiento para la reincorporación laboral en Suiza",
         content: `
             <div class="article-content">
                 <p>La <i>Assurance-invalidité</i> (AI) es una parte fundamental del sistema de seguridad social suizo. Sin embargo, su funcionamiento suele malinterpretarse por quienes vienen de otros sistemas.</p>
@@ -1668,6 +1702,8 @@ window.siteContent.es.articles = {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "En Suiza no existen las vacunas obligatorias. El sistema se basa en las recomendaciones de la Oficina Federal de Salud Pública (BAG) y la responsabilidad individual.",
+        featuredImage: "media/sistema-salud-suiza.png",
+        imageAlt: "Viales de vacunas en un entorno médico suizo",
         content: `
             <div class="article-content">
                 <p>Al llegar a Suiza, muchas familias se sorprenden al descubrir que el sistema de vacunación funciona de forma distinta a la de otros países europeos. Aquí prima la libertad de elección del ciudadano.</p>
@@ -1698,6 +1734,8 @@ window.siteContent.es.articles = {
         slug: "origen-danza-de-los-patos-suiza",
         readingTime: 3,
         dateUpdated: "Marzo 2026",
+        featuredImage: "images/suiza/mapa-regiones-culturales.png",
+        imageAlt: "Mapa de las regiones culturales de Suiza donde se originó la famosa Danza de los Patos",
         summary: "Aunque parezca una canción genérica, la famosa danza de los patos fue compuesta por un acordeonista suizo en Davos en los años 50.",
         content: `
             <div class="article-content">
@@ -1728,6 +1766,8 @@ window.siteContent.es.articles = {
         readingTime: 10,
         dateUpdated: "Marzo 2026",
         summary: "Suiza no es un país convencional. Es una Confederación de 26 cantones autónomos, 4 lenguas oficiales, democracia directa y un federalismo que afecta tu vida diaria desde el primer día.",
+        featuredImage: "images/suiza/mapa-politico-cantones.png",
+        imageAlt: "Vista panorámica de una ciudad suiza con arquitectura tradicional y moderna",
         content: `
             <div class="article-content">
                 <p>Si estás pensando en mudarte a Suiza, o acabas de llegar, entender cómo funciona el país es el primer paso. Suiza no funciona como España, ni como Francia, ni como ningún otro país europeo. Su sistema político, su organización territorial y su cultura administrativa son únicos — y afectan a tu vida diaria desde el momento en que firmas un contrato, eliges un seguro médico o te registras en la commune.</p>
@@ -1950,6 +1990,8 @@ window.siteContent.es.articles = {
         readingTime: 7,
         dateUpdated: "Marzo 2026",
         summary: "Suiza está formada por 26 cantones autónomos, cada uno con su propio sistema fiscal, educativo y administrativo. El cantón donde vives lo cambia casi todo.",
+        featuredImage: "images/suiza/mapa-politico-cantones.png",
+        imageAlt: "Mapa político de los 26 cantones de Suiza",
         content: `
             <div class="article-content">
                 <p>En Suiza, el cantón donde te instalas es tan importante como el país en sí. Cada uno de los 26 cantones tiene su propio gobierno, sus propias leyes fiscales, su propio sistema educativo y su propia identidad cultural. Entender esta estructura es esencial antes de decidir dónde vivir.</p>
@@ -2101,6 +2143,8 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Marzo 2026",
         summary: "Suiza tiene 4 lenguas nacionales. El idioma que deberás aprender depende completamente del cantón donde te instales: alemán en el este y centro, francés en el oeste, italiano en el Ticino.",
+        featuredImage: "images/suiza/mapa-linguistico.png",
+        imageAlt: "Mapa de las cuatro regiones lingüísticas de Suiza",
         content: `
             <div class="article-content">
                 <p>Suiza es uno de los pocos países del mundo con cuatro lenguas nacionales oficiales. Pero hay un error muy común al llegar: creer que el inglés es suficiente para integrarse. No lo es. El idioma de tu cantón de residencia es la clave para el trabajo, los trámites y la integración social.</p>
@@ -2202,6 +2246,8 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Marzo 2026",
         summary: "España tiene tres consulados en Suiza: Ginebra, Berna y Zúrich. El registro consular es el primer trámite que debes hacer al llegar. Sin él, no puedes renovar el pasaporte ni votar.",
+        featuredImage: "media/registro-comuna-suiza.png",
+        imageAlt: "Sede de un consulado español en Suiza con la bandera oficial",
         content: `
             <div class="article-content">
                 <p>Si eres ciudadano español viviendo en Suiza, el consulado es tu ventanilla oficial para todos los trámites que vinculan tu vida en el extranjero con la administración española. Hay tres consulados generales de España en Suiza, y debes dirigirte al que corresponde a tu cantón de residencia.</p>
