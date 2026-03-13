@@ -60,6 +60,10 @@ window.siteContent.es.articles = {
                 </ul>
 
                 <h3>Cuadro comparativo rápido</h3>
+                <p>En Suiza existen varios permisos de residencia para ciudadanos de la Unión Europea.<br>
+                Los más comunes son el permiso L, el permiso B y el permiso C.<br>
+                Cada uno corresponde a una situación diferente según el tipo de contrato y la duración de la estancia.<br>
+                La siguiente tabla resume sus principales características. Si estás planificando tu mudanza, mira también <a href="#/mudarse-a-suiza-desde-espana">la guía paso a paso</a>.</p>
                 <table class="info-table">
                     <thead><tr><th>Permiso</th><th>Para quién (típico)</th><th>Duración</th><th>Notas</th></tr></thead>
                     <tbody>
@@ -69,6 +73,16 @@ window.siteContent.es.articles = {
                         <tr><td><strong>G</strong></td><td>Fronterizos</td><td>Habitualmente varios años</td><td>Reglas fiscales especiales según acuerdos</td></tr>
                     </tbody>
                 </table>
+                <div class="callout info">
+                    <strong>Consejo práctico</strong>
+                    <p>Con un permiso L puede ser más difícil alquilar una vivienda a través de una inmobiliaria. Muchas agencias prefieren inquilinos con permiso B o con contrato de trabajo indefinido.</p>
+                </div>
+
+                <h3>Enlaces útiles</h3>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+                    <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+                </ul>
 
                 <h3>Plazos, tasas y certificado provisional</h3>
                 <p>En la práctica, lo que desbloquea tu vida administrativa es el <strong>registro en la comuna</strong>. Al registrarte, muchas comunas te entregan un <strong>certificado provisional</strong> (o comprobante) que sirve mientras llega la tarjeta. Ese papel suele ser suficiente para:</p>
@@ -134,6 +148,100 @@ window.siteContent.es.articles = {
                     <li><a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank" rel="noopener noreferrer">SEM — Residencia / Aufenthalt</a></li>
                     <li><a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">ch.ch — Portal oficial suizo</a></li>
                     <li>Autoridades cantonales de migración (web del cantón donde resides).</li>
+                </ul>
+            </div>
+        `
+    },
+
+    // Mudarse a Suiza (guía rápida)
+    "articulo-mudarse-suiza": {
+        title: "Mudarse a Suiza desde España: guía paso a paso",
+        description: "Guía rápida y práctica para españoles que quieren vivir en Suiza: pasos, trámites y enlaces útiles.",
+        keywords: "mudarse a suiza desde españa, vivir en suiza siendo español, como ir a vivir a suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "mudarse-a-suiza-desde-espana",
+        readingTime: 5,
+        dateUpdated: "Marzo 2026",
+        summary: "Checklist clara de pasos para mudarte a Suiza desde España: trabajo, registro, permisos, seguro médico, vivienda y presupuesto.",
+        content: `
+            <div class="article-content">
+                <p>Muchos españoles quieren vivir o trabajar en Suiza por los salarios, la estabilidad y las oportunidades. Esta guía resume los <strong>pasos principales</strong> para instalarte, sin textos largos y con enlaces directos a las páginas clave del sitio.</p>
+
+                <h2>1) Antes de venir a Suiza</h2>
+                <ul>
+                    <li><strong>Buscar trabajo</strong> y entender el mercado por cantón/idioma.</li>
+                    <li>Preparar un <strong>CV adaptado a Suiza</strong> (dossier completo).</li>
+                    <li>Informarte sobre el <a href="#/costo-de-vida-suiza">coste de vida</a> y ajustar expectativas.</li>
+                    <li>Tener <strong>ahorros</strong> para los primeros meses (alquiler, seguro, trámites).</li>
+                </ul>
+                <div class="callout info">
+                    <strong>Consejo práctico</strong>
+                    <p>Muchos empleadores prefieren candidatos que ya se encuentran en Suiza o que pueden desplazarse fácilmente para una entrevista.</p>
+                </div>
+
+                <h2>2) Llegar a Suiza</h2>
+                <ul>
+                    <li>Encontrar <strong>alojamiento temporal</strong> para poder registrarte.</li>
+                    <li>Registrarte en el ayuntamiento / comuna: <a href="#/registrarse-en-suiza">control de habitantes</a>.</li>
+                    <li>Solicitar el <a href="#/permisos-suiza">permiso de residencia</a> (según tu situación).</li>
+                </ul>
+
+                <h2>3) Seguro médico</h2>
+                <ul>
+                    <li>El <strong>seguro médico es obligatorio</strong>.</li>
+                    <li>Debes contratarlo dentro de los <strong>3 primeros meses</strong> (con efecto retroactivo).</li>
+                    <li>Cada persona elige su aseguradora: compara y decide.</li>
+                </ul>
+                <p>Guía: <a href="#/seguro-medico-lamal-suiza">Seguro médico (LAMal)</a>.</p>
+
+                <h2>4) Buscar trabajo</h2>
+                <p>Dónde buscar ofertas y preparar candidaturas: <a href="#/buscar-empleo-suiza">Búsqueda de empleo en Suiza</a>.</p>
+                <h3>Portales principales</h3>
+                <ul>
+                    <li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+                    <li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+                    <li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+                    <li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a></li>
+                </ul>
+                <div class="callout info">
+                    <strong>Consejo práctico</strong>
+                    <p>En Suiza suele ser más eficaz buscar trabajo en el idioma local (alemán, francés o italiano).</p>
+                    <p><strong>Ejemplo de búsqueda en Google:</strong> <code>Glaser Arbeit Zürich</code></p>
+                </div>
+
+                <h2>5) Vivienda</h2>
+                <ul>
+                    <li>Te pedirán <strong>documentos</strong> (identidad, nóminas/contrato, etc.).</li>
+                    <li>El <strong>dossier de alquiler</strong> es clave y el mercado es competitivo.</li>
+                    <li>Con <strong>permiso L</strong> suele ser más difícil alquilar con una inmobiliaria.</li>
+                </ul>
+                <p>Guía: <a href="#/alquilar-vivienda-suiza">Alquilar vivienda en Suiza</a>.</p>
+
+                <h2>6) Coste de vida</h2>
+                <p>El coste varía según el cantón (y la ciudad). Como referencia rápida:</p>
+                <table class="info-table">
+                    <thead><tr><th>Gasto</th><th>Rango orientativo</th><th>Notas</th></tr></thead>
+                    <tbody>
+                        <tr><td><strong>Alquiler</strong></td><td>1.500 – 2.200 CHF</td><td>Más alto en Ginebra/Zúrich; depende de zona y tamaño</td></tr>
+                        <tr><td><strong>Seguro médico</strong></td><td>350 – 450 CHF</td><td>Varía por cantón/edad/modelo/franquicia</td></tr>
+                        <tr><td><strong>Comida</strong></td><td>400 – 600 CHF</td><td>Migros/Coop vs discounters; hábitos personales</td></tr>
+                        <tr><td><strong>Transporte</strong></td><td>70 – 150 CHF</td><td>Depende de ciudad/abonos; el tren interurbano encarece</td></tr>
+                    </tbody>
+                </table>
+                <p>Más detalle: <a href="#/costo-de-vida-suiza">Costo de vida en Suiza</a>.</p>
+
+                <div class="callout info">
+                    <strong>Consejo final</strong>
+                    <p>Mudarse a Suiza requiere planificación, pero con la información adecuada el proceso es mucho más sencillo.</p>
+                </div>
+
+                <h3>Enlaces útiles</h3>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+                    <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+                    <li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+                    <li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
                 </ul>
             </div>
         `
@@ -990,6 +1098,30 @@ window.siteContent.es.articles = {
         imageAlt: "Persona buscando trabajo en Suiza en un café con vistas a Zúrich repasando su CV",
         summary: 'El CV al estilo suizo debe incluir foto, fecha de nacimiento y estado civil. Las plataformas más usadas son Jobup, Jobs.ch y LinkedIn.',
         content: `
+            <div class="article-content">
+                <p>En Suiza, una parte enorme de las ofertas se publica en portales locales y en el idioma del cantón. Tener una lista clara de webs y adaptar palabras clave suele marcar la diferencia.</p>
+                <p>Si estás planificando el salto, mira también <a href="#/mudarse-a-suiza-desde-espana">Mudarse a Suiza desde España: guía paso a paso</a>.</p>
+
+                <h2>Principales portales de empleo en Suiza</h2>
+                <ul>
+                    <li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+                    <li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+                    <li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+                    <li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a> (portal del RAV)</li>
+                </ul>
+
+                <div class="callout info">
+                    <strong>Consejo práctico</strong>
+                    <p>En Suiza suele ser más eficaz buscar trabajo en el idioma local. Por ejemplo, en lugar de buscar en español, puedes buscar directamente en alemán, francés o italiano.</p>
+                    <p><strong>Ejemplo de búsqueda en Google:</strong> <code>Glaser Arbeit Zürich</code></p>
+                </div>
+
+                <h3>Enlaces útiles</h3>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+                    <li><a href="https://www.arbeit.swiss/" target="_blank" rel="noopener noreferrer">arbeit.swiss</a> (RAV / SECO)</li>
+                </ul>
+            </div>
             `
     },
 
@@ -1157,6 +1289,17 @@ window.siteContent.es.articles = {
 
                 <h2>¿Se vive mejor?</h2>
                 <p>Pese a lo caro, el <em>poder adquisitivo disponible</em> al final de mes es en general superior al del resto de Europa. El sobrante económico real tras cubrir las altas necesidades básicas permite tener capacidad de ahorro, si el estilo de vida no es desmedido.</p>
+
+                <div class="callout info">
+                    <strong>Consejo práctico</strong>
+                    <p>El presupuesto real cambia mucho según el cantón y la comuna: alquiler, seguro médico e impuestos no cuestan lo mismo en todas partes. Antes de decidir una zona, compara cifras con datos oficiales y ajusta tu cálculo a tu situación.</p>
+                </div>
+
+                <h3>Enlaces útiles</h3>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+                    <li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">estv.admin.ch</a> (impuestos)</li>
+                </ul>
             </div>
         `
     },

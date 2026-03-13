@@ -19,6 +19,33 @@ window.siteContent.en.articles = {
         content: `<div class="article-content"> 
 <p>Moving to Switzerland involves registering and obtaining a residence permit. If you come from an EU/EFTA country (including Spain), the process is facilitated by the Agreement on Free Movement of Persons (ALCP).</p> 
 
+<h2>Quick comparison</h2>
+<p>Switzerland has several residence permits for citizens of the European Union.<br>
+The most common are the L permit, the B permit and the C permit.<br>
+Each one corresponds to a different situation depending on the type of contract and the length of stay.<br>
+The following table summarizes their main characteristics. If you’re planning your move, see also <a href="#/moving-to-switzerland-from-spain">the step-by-step guide</a>.</p>
+
+<table class="info-table">
+<thead><tr><th>Permit</th><th>Typical situation</th><th>Duration</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td><strong>L</strong></td><td>Temporary contract</td><td>Tied to the contract</td><td>More restrictions; depends on the case/canton</td></tr>
+<tr><td><strong>B</strong></td><td>Residence with work/studies</td><td>Usually several years</td><td>Withholding tax is common at the beginning</td></tr>
+<tr><td><strong>C</strong></td><td>Settlement</td><td>Renewable</td><td>Greater administrative stability</td></tr>
+<tr><td><strong>G</strong></td><td>Cross-border workers</td><td>Usually several years</td><td>Special tax rules depending on agreements</td></tr>
+</tbody>
+</table>
+
+<div class="callout info">
+<strong>Practical tip</strong>
+<p>With an L permit it can be harder to rent a home through a real estate agency. Many agencies prefer tenants with a B permit or an open-ended employment contract.</p>
+</div>
+
+<h3>Useful links</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+</ul>
+
 <h2>L Permit (Short Term)</h2> 
 <p>Aimed at people who stay in Switzerland for a period of less than 12 months.</p> 
 <ul> 
@@ -43,6 +70,96 @@ window.siteContent.en.articles = {
 <div class="callout info"> 
 <strong>Official Source:</strong> Check the renewal conditions on the portal of the <a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank">State Secretariat for Migration</a>. 
 </div> 
+</div>`
+    },
+
+    "articulo-mudarse-suiza": {
+        title: "Moving to Switzerland from Spain: step-by-step guide",
+        description: "A practical checklist for Spaniards planning to move to Switzerland: jobs, registration, permits, insurance, housing and budget.",
+        keywords: "move to switzerland from spain, living in switzerland as a spaniard, how to move to switzerland",
+        audience: "newcomer",
+        category: "Ordinary Procedures",
+        hub: "tramites",
+        readingTime: 5,
+        summary: "Short, practical steps to move to Switzerland from Spain with links to the key pages.",
+        content: `<div class="article-content">
+<p>Many Spaniards want to live or work in Switzerland because of salaries, stability and opportunities. This page summarizes the <strong>main steps</strong> to get settled, with short blocks and direct links.</p>
+
+<h2>1) Before you come to Switzerland</h2>
+<ul>
+<li><strong>Job search</strong> and understand the market by canton/language.</li>
+<li>Prepare a <strong>Swiss-style CV</strong> (complete application dossier).</li>
+<li>Check the <a href="#/cost-of-living-in-switzerland">cost of living</a> and adjust expectations.</li>
+<li>Have some <strong>savings</strong> for the first months (rent, insurance, admin fees).</li>
+</ul>
+<div class="callout info">
+<strong>Practical tip</strong>
+<p>Many employers prefer candidates who are already in Switzerland or who can travel easily for an interview.</p>
+</div>
+
+<h2>2) Arriving in Switzerland</h2>
+<ul>
+<li>Find <strong>temporary accommodation</strong> so you can register.</li>
+<li>Register at your commune: <a href="#/registering-in-switzerland-commune">commune registration</a>.</li>
+<li>Apply for the <a href="#/residence-permits-switzerland">residence permit</a> that matches your situation.</li>
+</ul>
+
+<h2>3) Health insurance</h2>
+<ul>
+<li>Health insurance is <strong>mandatory</strong>.</li>
+<li>You must arrange it within the <strong>first 3 months</strong> (often retroactive).</li>
+<li>You choose your insurer: compare and decide.</li>
+</ul>
+<p>Guide: <a href="#/health-insurance-switzerland-lamal">Health insurance (LAMal)</a>.</p>
+
+<h2>4) Finding a job</h2>
+<p>Where to search and how to apply: <a href="#/job-searching-platforms-and-strategies">Job searching in Switzerland</a>.</p>
+<h3>Main portals</h3>
+<ul>
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+<li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+<li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a></li>
+</ul>
+<div class="callout info">
+<strong>Practical tip</strong>
+<p>In Switzerland it’s often more effective to search in the local language (German, French or Italian).</p>
+<p><strong>Google example:</strong> <code>Glaser Arbeit Zürich</code></p>
+</div>
+
+<h2>5) Housing</h2>
+<ul>
+<li>You’ll need <strong>documents</strong> (ID, payslips/contract, etc.).</li>
+<li>A strong <strong>rental dossier</strong> matters a lot and competition is high.</li>
+<li>With an <strong>L permit</strong> it can be harder to rent through an agency.</li>
+</ul>
+<p>Guide: <a href="#/renting-apartment-switzerland">Renting in Switzerland</a>.</p>
+
+<h2>6) Cost of living</h2>
+<p>Costs vary by canton (and by city). As a quick reference:</p>
+<table class="info-table">
+<thead><tr><th>Expense</th><th>Indicative range</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td><strong>Rent</strong></td><td>1,500 – 2,200 CHF</td><td>Higher in Geneva/Zurich; depends on area and size</td></tr>
+<tr><td><strong>Health insurance</strong></td><td>350 – 450 CHF</td><td>Varies by canton/age/model/deductible</td></tr>
+<tr><td><strong>Food</strong></td><td>400 – 600 CHF</td><td>Retailers and personal habits matter</td></tr>
+<tr><td><strong>Transport</strong></td><td>70 – 150 CHF</td><td>Depends on city passes; intercity trains increase costs</td></tr>
+</tbody>
+</table>
+<p>More detail: <a href="#/cost-of-living-in-switzerland">Cost of living in Switzerland</a>.</p>
+
+<div class="callout info">
+<strong>Final tip</strong>
+<p>Moving to Switzerland takes planning, but with the right information the process becomes much easier.</p>
+</div>
+
+<h3>Useful links</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+</ul>
 </div>`
     },
 
@@ -400,6 +517,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         
         content: `<div class="article-content"> 
 <p>Switzerland has a dynamic labor market, driven not only by large pharmaceutical companies, banks and watchmakers, but also by thousands of SMEs.</p> 
+<p>If you’re planning to relocate, see also <a href="#/moving-to-switzerland-from-spain">Moving to Switzerland from Spain: step-by-step guide</a>.</p>
 
 <h2>The Curriculum (Candidacy Dossier)</h2> 
 <p>The Swiss model is traditionally formal and complete. A Swiss standard dossier should include, if requested:</p> 
@@ -410,14 +528,25 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 <li><strong>Previous work certificates</strong> (Arbeitszeugnis). They are very important in Switzerland; They are letters from your previous bosses qualitatively evaluating your skills in a standardized format.</li> 
 </ul> 
 
-<h2>Main Employment Platforms</h2> 
+<h2>Main job portals in Switzerland</h2> 
 <ul> 
-<li><a href="https://www.jobs.ch/" target="_blank">jobs.ch</a> - The largest portal nationwide.</li> 
-<li><a href="https://www.jobup.ch/" target="_blank">jobup.ch</a> - Especially strong in the area of Roman Switzerland (French).</li> 
-<li><a href="https://ch.indeed.com/" target="_blank">Indeed Switzerland</a> - Widely used throughout the country.</li> 
-<li><strong>LinkedIn</strong> - Essential for technical, engineering and IT profiles.</li> 
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li> 
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li> 
+<li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li> 
+<li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a> (RAV portal)</li> 
 </ul> 
-<p>If your search is for hospitality or temporary jobs, registering in person at Temporary Work Agencies (Adecco, Kelly Services) upon arrival is very effective.</p> 
+
+<div class="callout info">
+<strong>Practical tip</strong>
+<p>In Switzerland it’s often more effective to search in the local language. Instead of searching in Spanish, try searching directly in German, French or Italian.</p>
+<p><strong>Google example:</strong> <code>Glaser Arbeit Zürich</code></p>
+</div>
+
+<h3>Useful links</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.arbeit.swiss/" target="_blank" rel="noopener noreferrer">arbeit.swiss</a> (RAV / SECO)</li>
+</ul>
 </div>`
     },
 
@@ -496,6 +625,17 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 
 <h2>Is life better?</h2> 
 <p>Despite how expensive it is, the <em>available purchasing power</em> at the end of the month is generally higher than the rest of Europe. The real economic surplus after covering the high basic needs allows one to have the capacity to save, if the lifestyle is not excessive.</p> 
+
+<div class="callout info">
+<strong>Practical tip</strong>
+<p>Your real budget varies a lot by canton and commune: rent, health insurance and taxes can change significantly. Before choosing an area, compare figures using official sources and adjust the numbers to your situation.</p>
+</div>
+
+<h3>Useful links</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">estv.admin.ch</a> (taxes)</li>
+</ul>
 </div>`
     },
 
@@ -1075,6 +1215,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 (() => {
     const slugMap = {
         "articulo-permisos": "residence-permits-switzerland",
+        "articulo-mudarse-suiza": "moving-to-switzerland-from-spain",
         "articulo-registro": "registering-in-switzerland-commune",
         "articulo-lamal": "health-insurance-switzerland-lamal",
         "articulo-franquicia": "deductible-and-copayment-switzerland",

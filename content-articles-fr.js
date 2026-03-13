@@ -19,6 +19,33 @@ window.siteContent.fr.articles = {
         content: `<div class="article-content">
 <p>S'installer en Suisse implique de s'inscrire et d'obtenir un permis de séjour. Si vous venez d'un pays de l'UE/AELE (y compris l'Espagne), la démarche est facilitée par l'Accord sur la libre circulation des personnes (ALCP).</p>
 
+<h2>Tableau comparatif</h2>
+<p>En Suisse, il existe plusieurs permis de séjour pour les citoyens de l’Union européenne.<br>
+Les plus courants sont les permis L, B et C.<br>
+Chacun correspond à une situation différente selon le type de contrat et la durée du séjour.<br>
+Le tableau suivant résume leurs principales caractéristiques. Si vous préparez votre arrivée, voir aussi <a href="#/sinstaller-en-suisse-depuis-lespagne">le guide étape par étape</a>.</p>
+
+<table class="info-table">
+<thead><tr><th>Permis</th><th>Profil (typique)</th><th>Durée</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td><strong>L</strong></td><td>Contrat temporaire</td><td>Liée au contrat</td><td>Plus de restrictions ; dépend du cas/canton</td></tr>
+<tr><td><strong>B</strong></td><td>Résidence avec travail/études</td><td>Généralement plusieurs années</td><td>Impôt à la source fréquent au début</td></tr>
+<tr><td><strong>C</strong></td><td>Établissement</td><td>Renouvelable</td><td>Plus grande stabilité administrative</td></tr>
+<tr><td><strong>G</strong></td><td>Frontaliers</td><td>Généralement plusieurs années</td><td>Règles fiscales particulières selon les accords</td></tr>
+</tbody>
+</table>
+
+<div class="callout info">
+<strong>Conseil pratique</strong>
+<p>Avec un permis L, il peut être plus difficile de louer un logement via une régie/agence. Beaucoup préfèrent des locataires avec un permis B ou un contrat de travail à durée indéterminée.</p>
+</div>
+
+<h3>Liens utiles</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+</ul>
+
 <h2>Permis L (court terme)</h2>
 <p>Destiné aux personnes séjournant en Suisse pour une durée inférieure à 12 mois.</p>
 <ul>
@@ -43,6 +70,96 @@ window.siteContent.fr.articles = {
 <div class="informations sur l'appel">
 <strong>Source officielle :</strong> Vérifiez les conditions de renouvellement sur le portail du <a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank">Secrétariat d'État aux migrations</a>. 
 </div>
+</div>`
+    },
+
+    "articulo-mudarse-suiza": {
+        title: "S’installer en Suisse depuis l’Espagne : guide étape par étape",
+        description: "Checklist pratique pour s’installer en Suisse quand on vient d’Espagne : emploi, inscription, permis, assurance, logement, budget.",
+        keywords: "s'installer en suisse depuis l'espagne, vivre en suisse en tant qu'espagnol, demenager en suisse",
+        audience: "newcomer",
+        category: "Démarches Administratives",
+        hub: "tramites",
+        readingTime: 5,
+        summary: "Les étapes clés pour venir vivre en Suisse, avec des conseils courts et des liens internes utiles.",
+        content: `<div class="article-content">
+<p>Beaucoup d’Espagnols souhaitent vivre ou travailler en Suisse pour les salaires, la stabilité et les opportunités. Cette page résume les <strong>étapes principales</strong> pour vous installer, avec des blocs courts et des liens directs.</p>
+
+<h2>1) Avant de venir en Suisse</h2>
+<ul>
+<li><strong>Chercher un emploi</strong> et comprendre le marché selon le canton/la langue.</li>
+<li>Préparer un <strong>CV “suisse”</strong> (dossier de candidature complet).</li>
+<li>Se renseigner sur le <a href="#/cout-de-la-vie-en-suisse-logement-nourriture-impots">coût de la vie</a>.</li>
+<li>Avoir des <strong>économies</strong> pour les premiers mois (loyer, assurance, frais).</li>
+</ul>
+<div class="callout info">
+<strong>Conseil pratique</strong>
+<p>Beaucoup d’employeurs préfèrent des candidats déjà en Suisse ou pouvant se déplacer facilement pour un entretien.</p>
+</div>
+
+<h2>2) Arriver en Suisse</h2>
+<ul>
+<li>Trouver un <strong>logement temporaire</strong> pour pouvoir s’inscrire.</li>
+<li>S’inscrire à la commune : <a href="#/inscription-commune-suisse">inscription (contrôle des habitants)</a>.</li>
+<li>Demander le <a href="#/permis-sejour-suisse">permis de séjour</a> adapté à votre situation.</li>
+</ul>
+
+<h2>3) Assurance maladie</h2>
+<ul>
+<li>L’assurance maladie est <strong>obligatoire</strong>.</li>
+<li>Vous devez la souscrire dans les <strong>3 premiers mois</strong> (souvent rétroactive).</li>
+<li>Chaque personne choisit son assureur : comparez et décidez.</li>
+</ul>
+<p>Guide : <a href="#/assurance-maladie-suisse-lamal">Assurance maladie (LAMal)</a>.</p>
+
+<h2>4) Chercher un emploi</h2>
+<p>Où chercher et comment candidater : <a href="#/recherche-demploi-plateformes-et-strategies">Recherche d’emploi</a>.</p>
+<h3>Portails principaux</h3>
+<ul>
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+<li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+<li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a></li>
+</ul>
+<div class="callout info">
+<strong>Conseil pratique</strong>
+<p>En Suisse, il est souvent plus efficace de chercher un emploi dans la langue locale (allemand, français ou italien).</p>
+<p><strong>Exemple de recherche Google :</strong> <code>Glaser Arbeit Zürich</code></p>
+</div>
+
+<h2>5) Logement</h2>
+<ul>
+<li>Il faut des <strong>documents</strong> (pièce d’identité, fiches de salaire/contrat, etc.).</li>
+<li>Le <strong>dossier de location</strong> est déterminant et la concurrence est forte.</li>
+<li>Avec un <strong>permis L</strong>, louer via une régie/agence peut être plus difficile.</li>
+</ul>
+<p>Guide : <a href="#/louer-appartement-suisse">Louer un appartement</a>.</p>
+
+<h2>6) Coût de la vie</h2>
+<p>Le coût varie selon le canton (et la ville). Référence rapide :</p>
+<table class="info-table">
+<thead><tr><th>Dépense</th><th>Fourchette</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td><strong>Loyer</strong></td><td>1’500 – 2’200 CHF</td><td>Plus élevé à Genève/Zürich ; dépend de la zone et de la taille</td></tr>
+<tr><td><strong>Assurance maladie</strong></td><td>350 – 450 CHF</td><td>Varie selon canton/âge/modèle/franchise</td></tr>
+<tr><td><strong>Alimentation</strong></td><td>400 – 600 CHF</td><td>Enseignes et habitudes personnelles</td></tr>
+<tr><td><strong>Transport</strong></td><td>70 – 150 CHF</td><td>Abonnements urbains ; le train interurbain augmente la facture</td></tr>
+</tbody>
+</table>
+<p>Plus de détails : <a href="#/cout-de-la-vie-en-suisse-logement-nourriture-impots">Coût de la vie en Suisse</a>.</p>
+
+<div class="callout info">
+<strong>Conseil final</strong>
+<p>S’installer en Suisse demande de la préparation, mais avec les bonnes informations, le processus devient beaucoup plus simple.</p>
+</div>
+
+<h3>Liens utiles</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+</ul>
 </div>`
     },
 
@@ -400,6 +517,7 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
         
         content: `<div class="article-content">
 <p>La Suisse dispose d'un marché du travail dynamique, tiré non seulement par les grandes entreprises pharmaceutiques, les banques et les horlogers, mais aussi par des milliers de PME.</p>
+<p>Si vous préparez votre arrivée, voir aussi <a href="#/sinstaller-en-suisse-depuis-lespagne">S’installer en Suisse depuis l’Espagne : guide étape par étape</a>.</p>
 
 <h2>Le Curriculum (Dossier de Candidature)</h2>
 <p>Le modèle suisse est traditionnellement formel et complet. Un dossier standard suisse doit comprendre, sur demande :</p>
@@ -410,14 +528,25 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
 <li><strong>Certificats de travail antérieurs</strong> (Arbeitszeugnis). Ils sont très importants en Suisse ; Il s'agit de lettres de vos anciens patrons évaluant qualitativement vos compétences dans un format standardisé.</li>
 </ul>
 
-<h2>Principales plateformes d'emploi</h2>
+<h2>Principaux portails d’emploi en Suisse</h2>
 <ul>
-<li><a href="https://www.jobs.ch/" target="_blank">jobs.ch</a> - Le plus grand portail national.</li>
-<li><a href="https://www.jobup.ch/" target="_blank">jobup.ch</a> - Particulièrement fort dans la région de la Suisse romaine (française).</li>
-<li><a href="https://ch.indeed.com/" target="_blank">Indeed Suisse</a> - Largement utilisé dans tout le pays.</li>
-<li><strong>LinkedIn</strong> – Indispensable pour les profils techniques, d'ingénierie et informatiques.</li>
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+<li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+<li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a> (portail du RAV)</li>
 </ul>
-<p>Si vous recherchez un emploi dans l'hôtellerie ou un emploi temporaire, vous inscrire en personne auprès des agences de travail temporaire (Adecco, Kelly Services) à votre arrivée est très efficace.</p>
+
+<div class="callout info">
+<strong>Conseil pratique</strong>
+<p>En Suisse, il est souvent plus efficace de chercher un emploi dans la langue locale. Par exemple, au lieu de chercher en espagnol, vous pouvez chercher directement en allemand, en français ou en italien.</p>
+<p><strong>Exemple de recherche Google :</strong> <code>Glaser Arbeit Zürich</code></p>
+</div>
+
+<h3>Liens utiles</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.arbeit.swiss/" target="_blank" rel="noopener noreferrer">arbeit.swiss</a> (RAV / SECO)</li>
+</ul>
 </div>`
     },
 
@@ -496,6 +625,17 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
 
 <h2>La vie est-elle meilleure ?</h2>
 <p>Malgré son prix, le <em>pouvoir d'achat disponible</em> à la fin du mois est généralement supérieur à celui du reste de l'Europe. Le surplus économique réel après avoir couvert les besoins de base élevés permet d'avoir la capacité d'épargner, si le style de vie n'est pas excessif.</p>
+
+<div class="callout info">
+<strong>Conseil pratique</strong>
+<p>Le budget réel varie beaucoup selon le canton et la commune : loyer, assurance maladie et impôts peuvent changer fortement. Avant de choisir une zone, comparez avec des sources officielles et adaptez les chiffres à votre situation.</p>
+</div>
+
+<h3>Liens utiles</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">estv.admin.ch</a> (impôts)</li>
+</ul>
 </div>`
     },
 
@@ -1090,6 +1230,7 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
 (() => {
     const slugMap = {
         "articulo-permisos": "permis-sejour-suisse",
+        "articulo-mudarse-suiza": "sinstaller-en-suisse-depuis-lespagne",
         "articulo-registro": "inscription-commune-suisse",
         "articulo-lamal": "assurance-maladie-suisse-lamal",
         "articulo-franquicia": "franchise-et-quote-part-suisse",

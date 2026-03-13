@@ -13,6 +13,7 @@ window.siteContent.it.articles = {
         keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
         category: "Procedure Ordinarie",
         hub: "tramites",
+        slug: "permessi-soggiorno-svizzera",
         readingTime: 4,
         dateUpdated: "Actualizado frecuentemente",
         summary: "Guida completa per comprendere i permessi di soggiorno svizzeri: L (breve durata), B (dimorante) e C (domiciliato).",
@@ -21,6 +22,33 @@ window.siteContent.it.articles = {
 </div>
 <div class="contenuto-articolo">
 <p>Trasferirsi in Svizzera implica la registrazione e l'ottenimento di un permesso di soggiorno. Se provieni da un paese UE/AELS (inclusa la Spagna), il processo è facilitato dall'Accordo sulla libera circolazione delle persone (ALCP).</p>
+
+<h2>Tabella comparativa</h2>
+<p>In Svizzera esistono diversi permessi di soggiorno per i cittadini dell’Unione Europea.<br>
+I più comuni sono i permessi L, B e C.<br>
+Ognuno corrisponde a una situazione diversa in base al tipo di contratto e alla durata del soggiorno.<br>
+La tabella seguente riassume le principali caratteristiche. Se stai pianificando il trasferimento, vedi anche <a href="#/trasferirsi-in-svizzera-dalla-spagna">la guida passo passo</a>.</p>
+
+<table class="info-table">
+<thead><tr><th>Permesso</th><th>Profilo (tipico)</th><th>Durata</th><th>Note</th></tr></thead>
+<tbody>
+<tr><td><strong>L</strong></td><td>Contratto temporaneo</td><td>Legata al contratto</td><td>Più restrizioni; dipende dal caso/cantone</td></tr>
+<tr><td><strong>B</strong></td><td>Soggiorno con lavoro/studio</td><td>Di solito diversi anni</td><td>Imposta alla fonte frequente all’inizio</td></tr>
+<tr><td><strong>C</strong></td><td>Stabilimento</td><td>Rinnovabile</td><td>Maggiore stabilità amministrativa</td></tr>
+<tr><td><strong>G</strong></td><td>Frontalieri</td><td>Di solito diversi anni</td><td>Regole fiscali speciali secondo gli accordi</td></tr>
+</tbody>
+</table>
+
+<div class="callout info">
+<strong>Consiglio pratico</strong>
+<p>Con un permesso L può essere più difficile affittare un alloggio tramite un’agenzia immobiliare. Molte preferiscono inquilini con permesso B o con un contratto di lavoro a tempo indeterminato.</p>
+</div>
+
+<h3>Link utili</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+</ul>
 
 <h2>Permesso L (breve termine)</h2>
 <p>Rivolto a persone che soggiornano in Svizzera per un periodo inferiore a 12 mesi.</p>
@@ -49,6 +77,97 @@ window.siteContent.it.articles = {
 </div>`
     },
 
+    "articulo-mudarse-suiza": {
+        title: "Trasferirsi in Svizzera dalla Spagna: guida passo passo",
+        description: "Checklist pratica per trasferirsi in Svizzera dalla Spagna: lavoro, registrazione, permessi, assicurazione, casa e budget.",
+        keywords: "trasferirsi in svizzera dalla spagna, vivere in svizzera da spagnolo, come trasferirsi in svizzera",
+        audience: "newcomer",
+        category: "Procedure Ordinarie",
+        hub: "tramites",
+        slug: "trasferirsi-in-svizzera-dalla-spagna",
+        readingTime: 5,
+        summary: "Passi principali per trasferirsi in Svizzera dalla Spagna, con consigli brevi e link utili.",
+        content: `<div class="article-content">
+<p>Molti spagnoli vogliono vivere o lavorare in Svizzera per stipendi, stabilità e opportunità. Questa guida riassume i <strong>passi principali</strong> per iniziare, con blocchi brevi e link diretti.</p>
+
+<h2>1) Prima di venire in Svizzera</h2>
+<ul>
+<li><strong>Cercare lavoro</strong> e capire il mercato per cantone/lingua.</li>
+<li>Preparare un <strong>CV in stile svizzero</strong> (dossier di candidatura completo).</li>
+<li>Informarsi sul <a href="#/costo-della-vita-in-svizzera">costo della vita</a>.</li>
+<li>Avere <strong>risparmi</strong> per i primi mesi (affitto, assicurazione, pratiche).</li>
+</ul>
+<div class="callout info">
+<strong>Consiglio pratico</strong>
+<p>Molti datori di lavoro preferiscono candidati già in Svizzera o che possano spostarsi facilmente per un colloquio.</p>
+</div>
+
+<h2>2) Arrivare in Svizzera</h2>
+<ul>
+<li>Trovare un <strong>alloggio temporaneo</strong> per potersi registrare.</li>
+<li>Registrarsi al comune: <a href="#/registrarsi-in-svizzera-comune">registrazione (controllo abitanti)</a>.</li>
+<li>Richiedere il <a href="#/permessi-soggiorno-svizzera">permesso di soggiorno</a> adeguato.</li>
+</ul>
+
+<h2>3) Assicurazione sanitaria</h2>
+<ul>
+<li>L’assicurazione sanitaria è <strong>obbligatoria</strong>.</li>
+<li>Deve essere attivata entro i <strong>primi 3 mesi</strong> (spesso retroattiva).</li>
+<li>Ogni persona sceglie la propria assicurazione: confronta e decidi.</li>
+</ul>
+<p>Guida: <a href="#/assicurazione-sanitaria-svizzera-lamal">Assicurazione sanitaria (LAMal)</a>.</p>
+
+<h2>4) Cercare lavoro</h2>
+<p>Dove cercare e come candidarsi: <a href="#/cercare-lavoro-svizzera-piattaforme-e-strategie">Ricerca di lavoro</a>.</p>
+<h3>Portali principali</h3>
+<ul>
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+<li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+<li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a></li>
+</ul>
+<div class="callout info">
+<strong>Consiglio pratico</strong>
+<p>In Svizzera spesso è più efficace cercare lavoro nella lingua locale (tedesco, francese o italiano).</p>
+<p><strong>Esempio di ricerca su Google:</strong> <code>Glaser Arbeit Zürich</code></p>
+</div>
+
+<h2>5) Casa</h2>
+<ul>
+<li>Servono <strong>documenti</strong> (ID, buste paga/contratto, ecc.).</li>
+<li>Il <strong>dossier di affitto</strong> è fondamentale e la concorrenza è alta.</li>
+<li>Con il <strong>permesso L</strong> può essere più difficile affittare tramite un’agenzia.</li>
+</ul>
+<p>Guida: <a href="#/affittare-appartamento-svizzera">Affittare un appartamento</a>.</p>
+
+<h2>6) Costo della vita</h2>
+<p>I costi variano a seconda del cantone (e della città). Riferimento rapido:</p>
+<table class="info-table">
+<thead><tr><th>Spesa</th><th>Range indicativo</th><th>Note</th></tr></thead>
+<tbody>
+<tr><td><strong>Affitto</strong></td><td>1.500 – 2.200 CHF</td><td>Più alto a Ginevra/Zurigo; dipende da zona e dimensione</td></tr>
+<tr><td><strong>Assicurazione sanitaria</strong></td><td>350 – 450 CHF</td><td>Varia per cantone/età/modello/franchigia</td></tr>
+<tr><td><strong>Cibo</strong></td><td>400 – 600 CHF</td><td>Supermercati e abitudini personali</td></tr>
+<tr><td><strong>Trasporti</strong></td><td>70 – 150 CHF</td><td>Abbonamenti; i treni interurbani aumentano il costo</td></tr>
+</tbody>
+</table>
+<p>Più dettagli: <a href="#/costo-della-vita-in-svizzera">Costo della vita in Svizzera</a>.</p>
+
+<div class="callout info">
+<strong>Consiglio finale</strong>
+<p>Trasferirsi in Svizzera richiede pianificazione, ma con le informazioni giuste il processo è molto più semplice.</p>
+</div>
+
+<h3>Link utili</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+</ul>
+</div>`
+    },
+
     // 2. Registro en la comuna
     "articulo-registro": {
         title: "Come registrarsi all'arrivo in Svizzera",
@@ -56,6 +175,7 @@ window.siteContent.it.articles = {
         keywords: "registro comuna suiza, empadronamiento suiza, controle des habitants, vivir en Suiza",
         category: "Primi Passi",
         hub: "tramites",
+        slug: "registrarsi-in-svizzera-comune",
         readingTime: 3,
         summary: "Devi registrarti nel tuo comune entro i primi 14 giorni.",
         content: `<div class="page-header">
@@ -92,6 +212,7 @@ window.siteContent.it.articles = {
         keywords: "seguro medico suiza, LAMal, KVG, vivir en Suiza, sistema salud suizo",
         category: "Assicurazione Sanitaria",
         hub: "salud",
+        slug: "assicurazione-sanitaria-svizzera-lamal",
         readingTime: 5,
         summary: "La LAMal è obbligatoria e privata. Hai 3 mesi per attivarla.",
         content: `<div class="page-header">
@@ -387,6 +508,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         keywords: "buscar empleo suiza, cv suiza, jobup, jobs.ch",
         category: `Candidature`,
         hub: 'trabajo',
+        slug: "cercare-lavoro-svizzera-piattaforme-e-strategie",
         readingTime: 4,
         summary: `Un CV svizzero dovrebbe includere una foto e la data di nascita.`,
         
@@ -395,6 +517,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 </div>
 <div class="contenuto-articolo">
 <p>La Svizzera ha un mercato del lavoro dinamico, guidato non solo da grandi aziende farmaceutiche, banche e orologiai, ma anche da migliaia di PMI.</p>
+<p>Se stai pianificando il trasferimento, vedi anche <a href="#/trasferirsi-in-svizzera-dalla-spagna">Trasferirsi in Svizzera dalla Spagna: guida passo passo</a>.</p>
 
 <h2>Il curriculum (dossier di candidatura)</h2>
 <p>Il modello svizzero è tradizionalmente formale e completo. Un dossier standard svizzero dovrebbe includere, se richiesto:</p>
@@ -405,14 +528,25 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 <li><strong>Certificati di lavoro precedenti</strong> (Arbeitszeugnis). Sono molto importanti in Svizzera; Sono lettere dei tuoi precedenti capi che valutano qualitativamente le tue capacità in un formato standardizzato.</li>
 </ul>
 
-<h2>Principali piattaforme per l'occupazione</h2>
+<h2>Principali portali di lavoro in Svizzera</h2>
 <ul>
-<li><a href="https://www.jobs.ch/" target="_blank">jobs.ch</a> - Il più grande portale a livello nazionale.</li>
-<li><a href="https://www.jobup.ch/" target="_blank">jobup.ch</a> - Particolarmente forte nell'area della Svizzera romana (francese).</li>
-<li><a href="https://ch.indeed.com/" target="_blank">Indeed Svizzera</a> - Ampiamente utilizzato in tutto il paese.</li>
-<li><strong>LinkedIn</strong> - Indispensabile per profili tecnici, ingegneristici e IT.</li>
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+<li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+<li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a> (portale del RAV)</li>
 </ul>
-<p>Se la tua ricerca riguarda ospitalità o lavori temporanei, registrarsi di persona presso le agenzie di lavoro temporaneo (Adecco, Kelly Services) all'arrivo è molto efficace.</p>
+
+<div class="callout info">
+<strong>Consiglio pratico</strong>
+<p>In Svizzera spesso è più efficace cercare lavoro nella lingua locale. Invece di cercare in spagnolo, puoi cercare direttamente in tedesco, francese o italiano.</p>
+<p><strong>Esempio di ricerca su Google:</strong> <code>Glaser Arbeit Zürich</code></p>
+</div>
+
+<h3>Link utili</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.arbeit.swiss/" target="_blank" rel="noopener noreferrer">arbeit.swiss</a> (RAV / SECO)</li>
+</ul>
 </div>`
     },
 
@@ -423,6 +557,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         keywords: "alquilar piso suiza, apartamento ginebra zarich, dossier alquiler suiza",
         category: `Contratto di Affitto`,
         hub: 'vivienda',
+        slug: "affittare-appartamento-svizzera",
         readingTime: 5,
         summary: `Il mercato degli affitti è competitivo; serve un dossier impeccabile.`,
         
@@ -479,6 +614,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         keywords: "presupuesto suiza, el costo de vivir en suiza, precios suiza",
         category: `Costo della Vita`,
         hub: 'vivir-en-suiza',
+        slug: "costo-della-vita-in-svizzera",
         readingTime: 4,
         summary: `Uno stipendio di 5000 CHF può essere limitato dopo le spese fisse.`,
         
@@ -500,6 +636,17 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 
 <h2>La vita è migliore?</h2>
 <p>Nonostante sia costoso, il <em>potere d'acquisto disponibile</em> alla fine del mese è generalmente superiore a quello del resto d'Europa. Il surplus economico reale dopo aver coperto gli elevati bisogni di base consente di avere la capacità di risparmiare, se lo stile di vita non è eccessivo.</p>
+
+<div class="callout info">
+<strong>Consiglio pratico</strong>
+<p>Il budget reale varia molto in base al cantone e al comune: affitto, assicurazione sanitaria e imposte possono cambiare parecchio. Prima di scegliere una zona, confronta i dati con fonti ufficiali e adatta i numeri alla tua situazione.</p>
+</div>
+
+<h3>Link utili</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">estv.admin.ch</a> (imposte)</li>
+</ul>
 </div>`
     },
 

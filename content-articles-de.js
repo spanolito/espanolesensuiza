@@ -19,6 +19,33 @@ window.siteContent.de.articles = {
         content: `<div class="article-content">
 <p>Um in die Schweiz zu ziehen, müssen Sie sich anmelden und eine Aufenthaltserlaubnis erhalten. Wenn Sie aus einem EU/EFTA-Land (einschließlich Spanien) kommen, wird der Prozess durch das Abkommen über den freien Personenverkehr (ALCP) erleichtert.</p>
 
+<h2>Vergleichstabelle</h2>
+<p>In der Schweiz gibt es mehrere Aufenthaltsbewilligungen für Bürgerinnen und Bürger der Europäischen Union.<br>
+Am häufigsten sind die Bewilligungen L, B und C.<br>
+Welche Sie erhalten, hängt vom Vertragstyp und der Aufenthaltsdauer ab.<br>
+Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umzug planen, siehe auch <a href="#/aus-spanien-in-die-schweiz-ziehen">den Schritt-für-Schritt-Leitfaden</a>.</p>
+
+<table class="info-table">
+<thead><tr><th>Bewilligung</th><th>Typisch für</th><th>Dauer</th><th>Hinweise</th></tr></thead>
+<tbody>
+<tr><td><strong>L</strong></td><td>Befristeter Vertrag</td><td>An den Vertrag gebunden</td><td>Mehr Einschränkungen; je nach Fall/Kanton</td></tr>
+<tr><td><strong>B</strong></td><td>Aufenthalt mit Arbeit/Studium</td><td>Meist mehrere Jahre</td><td>Quellensteuer häufig am Anfang</td></tr>
+<tr><td><strong>C</strong></td><td>Niederlassung</td><td>Erneuerbar</td><td>Mehr administrative Stabilität</td></tr>
+<tr><td><strong>G</strong></td><td>Grenzgänger</td><td>Meist mehrere Jahre</td><td>Besondere Steuerregeln je nach Abkommen</td></tr>
+</tbody>
+</table>
+
+<div class="callout info">
+<strong>Praktischer Tipp</strong>
+<p>Mit einer L-Bewilligung kann es schwieriger sein, eine Wohnung über eine Verwaltung/Agentur zu mieten. Viele bevorzugen Mieterinnen und Mieter mit B-Bewilligung oder unbefristetem Arbeitsvertrag.</p>
+</div>
+
+<h3>Nützliche Links</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+</ul>
+
 <h2>L-Genehmigung (kurzfristig)</h2>
 <p>Gerichtet an Personen, die sich weniger als 12 Monate in der Schweiz aufhalten.</p>
 <ul>
@@ -43,6 +70,96 @@ window.siteContent.de.articles = {
 <div class="callout info">
 <strong>Offizielle Quelle:</strong> Überprüfen Sie die Verlängerungsbedingungen auf dem Portal des <a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank">Staatssekretariats für Migration</a>. 
 </div>
+</div>`
+    },
+
+    "articulo-mudarse-suiza": {
+        title: "Aus Spanien in die Schweiz ziehen: Schritt-für-Schritt-Leitfaden",
+        description: "Kurze, praktische Checkliste für den Umzug in die Schweiz: Jobs, Anmeldung, Bewilligungen, Krankenversicherung, Wohnung und Budget.",
+        keywords: "aus spanien in die schweiz ziehen, in der schweiz leben als spanier, umzug schweiz",
+        audience: "newcomer",
+        category: "Verwaltungsverfahren",
+        hub: "tramites",
+        readingTime: 5,
+        summary: "Die wichtigsten Schritte für Ihren Umzug in die Schweiz – kompakt und mit hilfreichen Links.",
+        content: `<div class="article-content">
+<p>Viele Spanierinnen und Spanier möchten wegen Löhnen, Stabilität und Chancen in die Schweiz ziehen. Diese Seite fasst die <strong>wichtigsten Schritte</strong> zusammen – kurz, praktisch und mit direkten Links.</p>
+
+<h2>1) Vor der Anreise</h2>
+<ul>
+<li><strong>Jobsuche</strong> und Markt nach Kanton/Sprache verstehen.</li>
+<li>Einen <strong>Schweizer Lebenslauf</strong> vorbereiten (vollständiges Bewerbungsdossier).</li>
+<li>Sich über die <a href="#/lebenshaltungskosten-in-der-schweiz">Lebenshaltungskosten</a> informieren.</li>
+<li><strong>Rücklagen</strong> für die ersten Monate einplanen (Miete, Versicherung, Gebühren).</li>
+</ul>
+<div class="callout info">
+<strong>Praktischer Tipp</strong>
+<p>Viele Arbeitgeber bevorzugen Kandidaten, die bereits in der Schweiz sind oder sich leicht zu einem Interview bewegen können.</p>
+</div>
+
+<h2>2) Ankommen in der Schweiz</h2>
+<ul>
+<li><strong>Temporäre Unterkunft</strong> finden, um sich anmelden zu können.</li>
+<li>Bei der Gemeinde anmelden: <a href="#/anmeldung-gemeinde-schweiz">Anmeldung (Einwohnerkontrolle)</a>.</li>
+<li>Die passende <a href="#/aufenthaltsbewilligungen-schweiz">Aufenthaltsbewilligung</a> beantragen.</li>
+</ul>
+
+<h2>3) Krankenversicherung</h2>
+<ul>
+<li>Die Krankenversicherung ist <strong>obligatorisch</strong>.</li>
+<li>Abschluss innerhalb der <strong>ersten 3 Monate</strong> (oft rückwirkend).</li>
+<li>Jede Person wählt die Kasse selbst: vergleichen und entscheiden.</li>
+</ul>
+<p>Guide: <a href="#/krankenversicherung-schweiz-kvg">Krankenversicherung (KVG/LAMal)</a>.</p>
+
+<h2>4) Arbeit suchen</h2>
+<p>Wo Sie suchen und wie Sie sich bewerben: <a href="#/jobsuche-plattformen-und-strategien">Jobsuche in der Schweiz</a>.</p>
+<h3>Wichtige Portale</h3>
+<ul>
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+<li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+<li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a></li>
+</ul>
+<div class="callout info">
+<strong>Praktischer Tipp</strong>
+<p>In der Schweiz ist es oft effektiver, in der lokalen Sprache zu suchen (Deutsch, Französisch oder Italienisch).</p>
+<p><strong>Google-Beispiel:</strong> <code>Glaser Arbeit Zürich</code></p>
+</div>
+
+<h2>5) Wohnen</h2>
+<ul>
+<li>Sie brauchen <strong>Unterlagen</strong> (ID, Lohnabrechnungen/Arbeitsvertrag usw.).</li>
+<li>Ein gutes <strong>Mietdossier</strong> ist entscheidend; der Markt ist umkämpft.</li>
+<li>Mit <strong>L-Bewilligung</strong> ist das Mieten über Verwaltungen/Agenturen oft schwieriger.</li>
+</ul>
+<p>Guide: <a href="#/wohnung-mieten-schweiz">Wohnung mieten in der Schweiz</a>.</p>
+
+<h2>6) Lebenshaltungskosten</h2>
+<p>Die Kosten variieren je nach Kanton (und Stadt). Schnelle Orientierung:</p>
+<table class="info-table">
+<thead><tr><th>Ausgabe</th><th>Richtwert</th><th>Hinweise</th></tr></thead>
+<tbody>
+<tr><td><strong>Miete</strong></td><td>1.500 – 2.200 CHF</td><td>Höher in Genf/Zürich; abhängig von Lage und Grösse</td></tr>
+<tr><td><strong>Krankenversicherung</strong></td><td>350 – 450 CHF</td><td>Je nach Kanton/Alter/Modell/Franchise</td></tr>
+<tr><td><strong>Lebensmittel</strong></td><td>400 – 600 CHF</td><td>Händler und persönliche Gewohnheiten</td></tr>
+<tr><td><strong>Transport</strong></td><td>70 – 150 CHF</td><td>ÖV-Abos; Intercity-Züge erhöhen die Kosten</td></tr>
+</tbody>
+</table>
+<p>Mehr dazu: <a href="#/lebenshaltungskosten-in-der-schweiz">Lebenshaltungskosten in der Schweiz</a>.</p>
+
+<div class="callout info">
+<strong>Schluss-Tipp</strong>
+<p>Der Umzug in die Schweiz braucht Planung – mit den richtigen Informationen wird es deutlich einfacher.</p>
+</div>
+
+<h3>Nützliche Links</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+</ul>
 </div>`
     },
 
@@ -400,6 +517,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         
         content: `<div class="article-content">
 <p>Die Schweiz verfügt über einen dynamischen Arbeitsmarkt, der nicht nur von großen Pharmaunternehmen, Banken und Uhrmachern, sondern auch von Tausenden KMU angetrieben wird.</p>
+<p>Wenn Sie Ihren Umzug planen, siehe auch <a href="#/aus-spanien-in-die-schweiz-ziehen">Aus Spanien in die Schweiz ziehen: Schritt-für-Schritt-Leitfaden</a>.</p>
 
 <h2>Der Lehrplan (Kandidaturdossier)</h2>
 <p>Das Schweizer Modell ist traditionell formal und vollständig. Ein Schweizer Standarddossier sollte auf Wunsch Folgendes enthalten:</p>
@@ -410,14 +528,25 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
 <li><strong>Vorherige Arbeitszeugnisse</strong>. Sie sind in der Schweiz sehr wichtig; Dabei handelt es sich um Briefe Ihrer früheren Vorgesetzten, in denen Ihre Fähigkeiten in einem standardisierten Format qualitativ bewertet werden.</li>
 </ul>
 
-<h2>Wichtige Beschäftigungsplattformen</h2>
+<h2>Wichtige Jobportale in der Schweiz</h2>
 <ul>
-<li><a href="https://www.jobs.ch/" target="_blank">jobs.ch</a> - Das grösste Portal im ganzen Land.</li>
-<li><a href="https://www.jobup.ch/" target="_blank">jobup.ch</a> - Besonders stark im Bereich der Römischen Schweiz (Französisch).</li>
-<li><a href="https://ch.indeed.com/" target="_blank">Indeed Switzerland</a> – Im ganzen Land weit verbreitet.</li>
-<li><strong>LinkedIn</strong> – Unverzichtbar für technische, ingenieurwissenschaftliche und IT-Profile.</li>
+<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+<li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+<li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a> (RAV-Portal)</li>
 </ul>
-<p>Wenn Sie auf der Suche nach Gastgewerbe- oder Zeitarbeitsplätzen sind, ist es sehr effektiv, sich bei Ihrer Ankunft persönlich bei Zeitarbeitsagenturen (Adecco, Kelly Services) anzumelden.</p>
+
+<div class="callout info">
+<strong>Praktischer Tipp</strong>
+<p>In der Schweiz ist es oft effektiver, in der lokalen Sprache zu suchen. Statt auf Spanisch zu suchen, können Sie direkt auf Deutsch, Französisch oder Italienisch suchen.</p>
+<p><strong>Google-Beispiel:</strong> <code>Glaser Arbeit Zürich</code></p>
+</div>
+
+<h3>Nützliche Links</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.arbeit.swiss/" target="_blank" rel="noopener noreferrer">arbeit.swiss</a> (RAV / SECO)</li>
+</ul>
 </div>`
     },
 
@@ -496,6 +625,17 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
 
 <h2>Ist das Leben besser?</h2>
 <p>Obwohl es teuer ist, ist die <em>verfügbare Kaufkraft</em> am Ende des Monats im Allgemeinen höher als im Rest Europas. Der reale wirtschaftliche Überschuss nach Deckung der hohen Grundbedürfnisse ermöglicht es, zu sparen, wenn der Lebensstil nicht exzessiv ist.</p>
+
+<div class="callout info">
+<strong>Praktischer Tipp</strong>
+<p>Das reale Budget variiert stark je nach Kanton und Gemeinde: Miete, Krankenversicherung und Steuern können deutlich unterschiedlich sein. Vergleichen Sie vor der Wahl einer Region mit offiziellen Quellen und passen Sie die Zahlen an Ihre Situation an.</p>
+</div>
+
+<h3>Nützliche Links</h3>
+<ul>
+<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+<li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">estv.admin.ch</a> (Steuern)</li>
+</ul>
 </div>`
     },
 
@@ -1040,6 +1180,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
 (() => {
     const slugMap = {
         "articulo-permisos": "aufenthaltsbewilligungen-schweiz",
+        "articulo-mudarse-suiza": "aus-spanien-in-die-schweiz-ziehen",
         "articulo-registro": "anmeldung-gemeinde-schweiz",
         "articulo-lamal": "krankenversicherung-schweiz-kvg",
         "articulo-franquicia": "franchise-und-selbstbehalt-schweiz",
