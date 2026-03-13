@@ -149,8 +149,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Consejos prácticos para tu día a día en Suiza: administración, vecinos, compras, transporte, salud y hábitos que evitan problemas.",
-        featuredImage: "media/v2-residencia-sin-trabajo.png",
-        imageAlt: "Persona disfrutando de la vida cotidiana en Suiza",
+        featuredImage: "media/guide-consejos-vida-diaria-suiza.svg",
+        imageAlt: "Checklist de consejos prácticos para la vida diaria en Suiza",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -209,8 +209,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "Cómo estimar tu coste de vida en Suiza: alquiler, seguro médico, impuestos, transporte y “gastos invisibles”. Ejemplos por cantón y consejos.",
-        featuredImage: "media/v2-mudanza-suiza.png",
-        imageAlt: "Camión de mudanzas en un paisaje suizo, representando el traslado y los costes asociados",
+        featuredImage: "media/guide-costo-vida-presupuesto-suiza.svg",
+        imageAlt: "Ilustración de presupuesto: cartera, calculadora y gastos para vivir en Suiza",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -342,8 +342,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Qué es la democracia directa suiza y cómo se decide: referéndums, iniciativas, votaciones y niveles (federal/cantonal/comunal). Guía para expatriados.",
-        featuredImage: "media/v2-consulados-suiza.png",
-        imageAlt: "Mapa de las regiones culturales de Suiza, representando la diversidad y el sistema político descentralizado",
+        featuredImage: "media/guide-democracia-directa-suiza.svg",
+        imageAlt: "Urna y papeleta de votación, representando la democracia directa en Suiza",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -454,9 +454,9 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 3,
         dateUpdated: "Marzo 2026",
         summary: "Guía nacional de convivencia en Suiza: horas de silencio, residuos/reciclaje, aparcamiento, reglas de edificio y malentendidos típicos. Explicamos qué depende del cantón, la comuna o el reglamento interno.",
-        featuredImage: "media/v2-subalquiler-vivienda.png",
-        imageAlt: "Un salón suizo limpio y ordenado, representando las normas de convivencia y hogar",
-        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-of-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
+        featuredImage: "media/guide-normas-convivencia-suiza.svg",
+        imageAlt: "Casa, ruido y reciclaje, representando normas de convivencia en Suiza",
+        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>Suiza es, en general, un país con normas claras y aplicación constante. El “choque cultural” para muchos recién llegados no es la dureza de la norma, sino <strong>la previsibilidad</strong>: si existe una regla, se espera que la conozcas y la cumplas.</p>
@@ -567,132 +567,6 @@ Object.assign(window.siteContent.es.articles, {
 <ul>
 <li>SEM: <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-</ul>
-        </div>`
-    },
-
-    "fb-rav-paro-suiza": {
-        title: "RAV y paro en Suiza: cómo funciona el desempleo, requisitos y pasos",
-        description: "Guía práctica del seguro de desempleo en Suiza (ALV/AC): qué hace el RAV, quién tiene derecho, cuánto se cobra (orientativo), duración, obligaciones, sanciones frecuentes y checklist para recién llegados.",
-        keywords: "rav suiza, paro suiza, desempleo suiza, alv ac, seguro desempleo suiza",
-        keywordsLocalized: true,
-        category: "Trabajo y Salarios",
-        hub: "trabajo",
-        slug: "rav-paro-suiza",
-        readingTime: 4,
-        dateUpdated: "Marzo 2026",
-        summary: "Guía práctica del seguro de desempleo en Suiza (ALV/AC): qué hace el RAV, quién tiene derecho, cuánto se cobra (orientativo), duración, obligaciones, sanciones frecuentes y checklist para recién llegados.",
-        featuredImage: "media/v2-rav-paro.png",
-        imageAlt: "Persona en una oficina del RAV recibiendo asesoramiento laboral",
-        relatedSlugs: ["trabajar-en-suiza-guia", "permisos-suiza-actualizacion", "fraudes-inmigrantes-suiza"],
-        content: `<div class="article-content">
-            <h2>Introducción</h2>
-<p>El “paro” en Suiza no es solo cobrar una prestación: es un sistema con <strong>reglas, plazos y evidencias</strong>. Si lo llevas con método (documentación + calendario + comunicación por escrito), suele ser bastante predecible. Si lo llevas “a ojo”, es cuando aparecen retrasos, discusiones con la caja o sanciones.</p>
-<h2>Contexto en Suiza</h2>
-<p>En el seguro de desempleo suizo verás, normalmente, dos organismos (y una idea clave):</p>
-<ul>
-<li><strong>RAV / ORP</strong> (<em>Office régional de placement</em>): te asigna un asesor, fija objetivos de búsqueda, convoca citas y puede proponerte medidas (cursos, programas de reinserción, etc.).</li>
-<li><strong>Caja de desempleo</strong> (<em>Arbeitslosenkasse / caisse de chômage</em>): verifica tu derecho, calcula el importe y <strong>paga</strong> la prestación.</li>
-</ul>
-<p>La idea clave es esta: el sistema funciona con “papel” (pruebas). No basta con decir “he buscado”. Hay que poder demostrarlo.</p>
-<p>La base es federal (ALV/AC), pero la ejecución práctica puede variar por cantón (ritmo de citas, formularios, “qué consideran razonable”, etc.).</p>
-<h2>Situaciones comunes que generan problemas</h2>
-<h3>Qué es el RAV (y qué no es)</h3>
-<p>El RAV no es una agencia que “te coloca” sin más. Su función es:</p>
-<ul>
-<li>comprobar que estás disponible para trabajar,</li>
-<li>ayudarte a estructurar la búsqueda (citas, objetivos),</li>
-<li>y registrar tu proceso (medidas, candidaturas, evidencias).</li>
-</ul>
-<p>Lo habitual es que <strong>tú</strong> sigas siendo el motor de la búsqueda, y el RAV sea el marco.</p>
-<h3>Quién suele tener derecho a prestación (visión práctica)</h3>
-<p>El derecho depende de tu caso, pero suele girar alrededor de:</p>
-<ul>
-<li><strong>periodo de cotización</strong> (haber cotizado lo suficiente en un periodo de referencia),</li>
-<li>estar <strong>desempleado</strong> y <strong>disponible</strong> para trabajar (capacidad y voluntad),</li>
-<li>estar <strong>inscrito</strong> y cumplir obligaciones (citas, búsqueda documentada),</li>
-<li>y no estar en una situación que implique sanción o exclusión (por ejemplo, ciertas dimisiones sin motivo reconocido pueden conllevar días sin cobro).</li>
-</ul>
-<p>Si eres recién llegado, el punto sensible suele ser demostrar cotizaciones y tu disponibilidad real (idioma, permisos, etc.). No es “juicio moral”: es elegibilidad y empleabilidad.</p>
-<h3>Cuánto se cobra en Suiza (orientativo)</h3>
-<p>El paro se calcula sobre el <strong>salario asegurado</strong> y se expresa normalmente como porcentaje. En términos generales:</p>
-<ul>
-<li>muchas personas reciben alrededor del <strong>70%</strong> del salario asegurado, y</li>
-<li>alrededor del <strong>80%</strong> en determinados casos (por ejemplo, cargas familiares o situaciones específicas).</li>
-</ul>
-<p>No es un “porcentaje de memoria”: lo calcula la caja con tus documentos. Por eso, cuando falta documentación, se retrasan pagos o se recalcula después.</p>
-<h3>Duración: días indemnizados, no “meses”</h3>
-<p>La duración suele expresarse en <strong>días de indemnización</strong> (por ejemplo, 200/260/400/520). Depende de factores como:</p>
-<ul>
-<li>periodo de cotización,</li>
-<li>edad,</li>
-<li>y condiciones del expediente.</li>
-</ul>
-<p>Traducción práctica: dos personas que entran al paro el mismo día pueden tener duraciones distintas. Y no se consumen “30 días por mes” de forma exacta: se gestionan como días indemnizados.</p>
-<h3>Obligaciones (y dónde se producen sanciones)</h3>
-<p>Lo que más “rompe” expedientes no es la falta de ganas, sino la falta de sistema. Obligaciones típicas:</p>
-<ul>
-<li><strong>búsqueda demostrable</strong> (candidaturas reales, adecuadas, con evidencias),</li>
-<li>acudir a <strong>citas</strong> y medidas,</li>
-<li>aceptar medidas/ofertas <strong>razonables</strong> (según perfil y fase),</li>
-<li>y entregar documentación <strong>a tiempo</strong>.</li>
-</ul>
-<p>Errores frecuentes que acaban en sanción:</p>
-<ul>
-<li>perder plazos (entregar tarde),</li>
-<li>no guardar pruebas (email/captura/anuncio),</li>
-<li>dimitir sin asesorarte (puede implicar sanción),</li>
-<li>enviar candidaturas “de relleno” (poco relacionadas con tu perfil o sin evidencia).</li>
-</ul>
-<h3>Ejemplo realista (para entender el “por qué”)</h3>
-<p>Caso A: “Me despiden el 31. Me inscribo el 15 del mes siguiente y empiezo a guardar evidencias desde entonces”. Resultado típico: fricción, pérdida de días o retrasos.</p>
-<p>Caso B: “Me inscribo pronto, y desde el día 1 tengo tabla de candidaturas + evidencias”. Resultado típico: proceso más fluido y menos preguntas.</p>
-<h2>Cómo evitar multas o conflictos</h2>
-<h3>Checklist mínimo (documentación)</h3>
-<p>Prepara una carpeta (digital) con:</p>
-<ol>
-<li>documento de identidad + permiso (si aplica)</li>
-<li>contratos, cartas de finalización, nóminas</li>
-<li>certificados relevantes (según tu caso)</li>
-<li>“paquete” de candidaturas (evidencias)</li>
-</ol>
-<h3>Cómo documentar candidaturas sin complicarte</h3>
-<p>Una tabla simple te basta. Columnas útiles:</p>
-<ul>
-<li>fecha de envío</li>
-<li>empresa y puesto</li>
-<li>canal (portal/email/referido)</li>
-<li>evidencia (link a pdf/captura/email)</li>
-<li>respuesta/estado</li>
-</ul>
-<p>Evidencia mínima por candidatura:</p>
-<ul>
-<li>anuncio o descripción del puesto (PDF/captura),</li>
-<li>CV/carta que enviaste,</li>
-<li>confirmación (email o captura del portal).</li>
-</ul>
-<h3>Comunicación: por escrito y con margen</h3>
-<p>Si te piden algo, responde por escrito y <strong>antes</strong> del plazo. Si entregas en persona, guarda el justificante si existe. En Suiza, cuando hay desacuerdo, lo que cuenta es lo documentado.</p>
-<h2>Consejos prácticos</h2>
-<h3>Consejos para recién llegados</h3>
-<ul>
-<li>No compares el sistema con el de tu país: aquí el proceso es <strong>muy documental</strong>.</li>
-<li>Si tu idioma local es limitado, dilo pronto y estructura la búsqueda de forma realista (empresas, sectores, zona). Tu obligación es buscar; la forma debe ser viable.</li>
-<li>Si estás pensando en dimitir, consulta antes: una decisión “por orgullo” puede costarte semanas sin prestación.</li>
-</ul>
-<h3>Rutina semanal que suele funcionar</h3>
-<ol>
-<li>bloque fijo de horas de búsqueda (como si fuera trabajo)</li>
-<li>candidaturas de calidad (menos, pero mejores)</li>
-<li>evidencias guardadas al momento (no “mañana”)</li>
-<li>calendario con citas y fechas límite</li>
-</ol>
-<h3>Señal de alarma</h3>
-<p>Si te encuentras “reconstruyendo” candidaturas a posteriori, vas tarde. Ajusta el sistema: captura automática, carpeta por mes, y tabla al día.</p>
-<h2>Fuentes oficiales</h2>
-<ul>
-<li>ch.ch (desempleo): <a href="https://www.ch.ch/es/trabajo/desempleo/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/es/trabajo/desempleo/</a></li>
-<li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
 </ul>
         </div>`
     },
@@ -844,8 +718,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Guía clara del sistema suizo para expatriados: qué decide la Confederación, qué cambia por cantón y qué gestiona tu comuna. Con ejemplos y fuentes oficiales.",
-        featuredImage: "media/v2-cantones-suiza.png",
-        imageAlt: "Mapa político de los 26 cantones de Suiza",
+        featuredImage: "media/guide-sistema-politico-suiza.svg",
+        imageAlt: "Instituciones suizas y federalismo: Confederación, cantones y comuna",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>

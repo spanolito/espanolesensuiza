@@ -1149,7 +1149,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 const langData = window.siteContent[currentLang].articles;
                 const filterAudience = document.getElementById('search-filter-audience') ? document.getElementById('search-filter-audience').value : '';
 
-                const results = Object.keys(langData).filter(key => {
+                const resultsRaw = Object.keys(langData).filter(key => {
                     const article = langData[key];
 
                     const termMatch = (article.title && article.title.toLowerCase().includes(term)) ||
@@ -1160,7 +1160,25 @@ document.addEventListener("DOMContentLoaded", () => {
                     const audienceMatch = filterAudience === '' || article.audience === filterAudience;
 
                     return termMatch && audienceMatch;
-                }).map(key => ({ id: key, ...langData[key] }));
+                }).map(key => ({ id: key, ...langData[key] })).filter(a => a && a.slug);
+
+                // Deduplicate by slug (avoid duplicated guides from different pipelines).
+                const scoreGuideCandidate = (article) => {
+                    const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
+                    const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
+                    const contentLen = article && article.content ? String(article.content).length : 0;
+                    return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
+                };
+
+                const bySlug = new Map();
+                for (const a of resultsRaw) {
+                    const key = a.slug || a.id;
+                    const prev = bySlug.get(key);
+                    if (!prev || scoreGuideCandidate(a) > scoreGuideCandidate(prev)) bySlug.set(key, a);
+                }
+
+                const results = Array.from(bySlug.values())
+                    .sort((a, b) => String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" }));
 
                 const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
                 if (results.length > 0) {
@@ -1193,16 +1211,29 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const langData = window.siteContent[currentLang].articles;
 
+        const scoreGuideCandidate = (article) => {
+            const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
+            const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
+            const contentLen = article && article.content ? String(article.content).length : 0;
+            return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
+        };
+
         // Find all articles that belong to this hub
-        const hubArticles = Object.keys(langData)
+        const hubArticlesRaw = Object.keys(langData)
             .filter(key => langData[key].hub === hubKey)
             .map(key => ({ id: key, ...langData[key] }))
-            .sort((a, b) => {
-                const aIsFb = String(a.id || "").startsWith("fb-");
-                const bIsFb = String(b.id || "").startsWith("fb-");
-                if (aIsFb !== bIsFb) return aIsFb ? -1 : 1;
-                return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
-            });
+            .filter(a => a && a.slug);
+
+        // Deduplicate by slug (some pipelines may generate duplicates). Keep the most complete candidate.
+        const bySlug = new Map();
+        for (const a of hubArticlesRaw) {
+            const key = a.slug || a.id;
+            const prev = bySlug.get(key);
+            if (!prev || scoreGuideCandidate(a) > scoreGuideCandidate(prev)) bySlug.set(key, a);
+        }
+
+        const hubArticles = Array.from(bySlug.values())
+            .sort((a, b) => String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" }));
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
         if (hubArticles.length > 0) {
@@ -1243,9 +1274,19 @@ document.addEventListener("DOMContentLoaded", () => {
         ];
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+        const scoreGuideCandidate = (article) => {
+            const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
+            const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
+            const contentLen = article && article.content ? String(article.content).length : 0;
+            return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
+        };
+
         const picked = featuredSlugs.map(slug => {
-            const key = Object.keys(langArticles).find(k => langArticles[k].slug === slug);
-            return key ? { id: key, ...langArticles[key] } : null;
+            const matches = Object.keys(langArticles)
+                .filter(k => langArticles[k] && langArticles[k].slug === slug)
+                .map(k => ({ id: k, ...langArticles[k] }));
+            if (matches.length === 0) return null;
+            return matches.reduce((best, cur) => (scoreGuideCandidate(cur) > scoreGuideCandidate(best) ? cur : best), matches[0]);
         }).filter(Boolean);
 
         if (picked.length === 0) return;
@@ -1350,27 +1391,30 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function pickArticleImages(pageData, routeKey) {
         const HOMEPAGE_BANNER = "media/banner.jpg";
-        
-        // 1. Prioritize image defined in the article itself (pageData)
-        let hero = pageData && pageData.featuredImage ? pageData.featuredImage : null;
-        
-        // 2. Look into the Spanish version if current lang doesn't have it (fallback for missing translations)
-        if (!hero && routeKey && window.siteContent && window.siteContent.es && window.siteContent.es.articles) {
-            const es = window.siteContent.es.articles[routeKey];
-            if (es && es.featuredImage) hero = es.featuredImage;
-        }
-        
-        // Safety Rule: Never use the homepage banner in articles
+
+        const esArticle = (routeKey && window.siteContent && window.siteContent.es && window.siteContent.es.articles)
+            ? window.siteContent.es.articles[routeKey]
+            : null;
+
+        // Use ES as the canonical source of truth, so all languages share the same article images.
+        let hero = (esArticle && esArticle.featuredImage) ? esArticle.featuredImage : (pageData && pageData.featuredImage ? pageData.featuredImage : null);
+
+        // Safety Rule: Never use the homepage banner in articles.
         if (hero === HOMEPAGE_BANNER) {
-            hero = "media/og-image.jpg"; // Fallback to a generic image if the homepage banner was accidentally set
+            hero = "media/og-image.jpg";
         }
 
-        const hasSupportingOverride = Array.isArray(pageData && pageData.supportingImages);
-        let supporting = hasSupportingOverride ? pageData.supportingImages : [];
-        
-        // Ensure supporting images also follow the exclusivity rule
+        // Supporting images: explicit override per article (canonical ES first).
+        const hasSupportingOverride = Array.isArray(esArticle && esArticle.supportingImages) || Array.isArray(pageData && pageData.supportingImages);
+        let supporting = Array.isArray(esArticle && esArticle.supportingImages)
+            ? esArticle.supportingImages
+            : (Array.isArray(pageData && pageData.supportingImages) ? pageData.supportingImages : []);
+
+        if (!hasSupportingOverride) supporting = [];
+
+        // Ensure supporting images also follow the exclusivity rule.
         supporting = supporting.filter(src => src !== HOMEPAGE_BANNER);
-        
+
         return { hero, supporting };
     }
 

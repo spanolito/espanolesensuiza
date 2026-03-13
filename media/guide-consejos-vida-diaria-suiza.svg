@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Ilustración: checklist de consejos para la vida diaria en Suiza">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f8fb"/>
+      <stop offset="1" stop-color="#eef2f7"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d52b1e"/>
+      <stop offset="1" stop-color="#b71e14"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <path d="M0 520C220 420 420 520 640 470C860 420 980 330 1200 380V675H0Z" fill="#e6edf6"/>
+  <path d="M0 560C240 470 450 560 660 520C900 470 1000 390 1200 430V675H0Z" fill="#dde6f2"/>
+
+  <!-- Checklist card -->
+  <g transform="translate(170 120)" filter="url(#shadow)">
+    <rect x="0" y="0" width="560" height="520" rx="28" fill="#ffffff" stroke="#cfd8e6" stroke-width="4"/>
+    <rect x="0" y="0" width="560" height="70" rx="28" fill="#f3f5f9"/>
+    <path d="M70 118H490" stroke="#cfd8e6" stroke-width="10" stroke-linecap="round"/>
+
+    <g transform="translate(70 170)">
+      <rect x="0" y="0" width="68" height="68" rx="18" fill="#f7f8fb" stroke="#cfd8e6" stroke-width="3"/>
+      <path d="M16 36l14 14 26-32" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M98 34H410" stroke="#cfd8e6" stroke-width="10" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(70 270)">
+      <rect x="0" y="0" width="68" height="68" rx="18" fill="#f7f8fb" stroke="#cfd8e6" stroke-width="3"/>
+      <path d="M16 36l14 14 26-32" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M98 34H360" stroke="#cfd8e6" stroke-width="10" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(70 370)">
+      <rect x="0" y="0" width="68" height="68" rx="18" fill="#f7f8fb" stroke="#cfd8e6" stroke-width="3"/>
+      <path d="M16 36l14 14 26-32" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M98 34H430" stroke="#cfd8e6" stroke-width="10" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Small Swiss badge -->
+  <g transform="translate(800 150)" filter="url(#shadow)">
+    <circle cx="140" cy="140" r="140" fill="#ffffff" stroke="#cfd8e6" stroke-width="4"/>
+    <circle cx="140" cy="140" r="112" fill="url(#accent)"/>
+    <rect x="128" y="66" width="24" height="148" rx="6" fill="#ffffff"/>
+    <rect x="66" y="128" width="148" height="24" rx="6" fill="#ffffff"/>
+  </g>
+</svg>
+

@@ -16,7 +16,7 @@ window.siteContent.es.articles = {
         slug: "permisos-suiza",
         readingTime: 12,
         dateUpdated: "Marzo 2026",
-        featuredImage: "media/v2-trabajar-suiza.png",
+        featuredImage: "media/v2-permiso-residencia-suiza.png",
         imageAlt: "Primer plano de documentos de identidad y permisos de residencia suizos",
         summary: "Existen tres permisos principales (L, B, C). Tu nacionalidad (UE vs Terceros Países) y duración del contrato dictan cuál recibes. Puedes trabajar antes de tener la tarjeta física.",
         content: `
@@ -1057,7 +1057,7 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "contratos-de-trabajo-suiza",
         readingTime: 4,
-        featuredImage: "media/v2-periodo-prueba.png",
+        featuredImage: "media/contrato-trabajo-suiza.png",
         imageAlt: "Dos personas estrechándose la mano al firmar un contrato de trabajo, representando el acuerdo laboral",
         summary: 'El mercado laboral suizo es muy liberal. El despido es libre (respetando los plazos de preaviso) y las vacaciones mínimas son 4 semanas.',
         content: `
@@ -1285,7 +1285,7 @@ window.siteContent.es.articles = {
         category: 'Costo de Vida',
         hub: 'vivir-en-suiza',
         slug: "costo-de-vida-suiza",
-        featuredImage: "media/v2-mudanza-suiza.png",
+        featuredImage: "media/guide-costo-vida-suiza.svg",
         imageAlt: "Camión de mudanzas en un paisaje suizo, representando el coste de transporte y vida",
         supportingImages: [],
         readingTime: 4,
