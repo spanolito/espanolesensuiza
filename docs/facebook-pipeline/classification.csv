@@ -1,0 +1,737 @@
+post_id,timestamp,group,text_len,has_images,durable_score,keep,reason,topics,cluster
+1,"mar 13, 2025 6:37:43 am",Punto de encuentro: Suiza,6641,1,24.14,1,informational,Swiss politics; Community life; Events and culture,Sistema suizo: política y democracia directa
+2,"mar 13, 2025 9:22:37 am",Punto de encuentro: Suiza,38,0,0.13,0,low-density,(unclassified),Miscelánea (Punto de encuentro: Suiza)
+3,"mar 15, 2025 6:58:24 pm",Punto de encuentro: Suiza,772,0,4.57,1,informational,Working in Switzerland; Cost of living; Community life,Vida práctica: coste de vida
+4,"mai 02, 2025 6:59:32 pm",Pays de Gex,171,0,-1.93,0,low-density,(unclassified),Miscelánea (Pays de Gex)
+5,"mai 28, 2025 4:37:23 pm",Españoles que realmente se ayudan en Suiza,151,0,-2.00,0,service-request,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+6,"mai 31, 2025 11:40:01 am",Españoles que realmente se ayudan en Suiza,2300,1,9.67,1,informational,Cost of living; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+7,"mai 31, 2025 7:25:02 pm",Españoles que realmente se ayudan en Suiza,1761,0,7.87,1,informational,Swiss institutions; Swiss politics; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+8,"juin 03, 2025 3:55:01 pm",Españoles que realmente se ayudan en Suiza,1564,1,7.21,1,informational,Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+9,"juin 04, 2025 11:10:01 am",Españoles que realmente se ayudan en Suiza,2668,1,10.89,1,informational,Swiss institutions; Immigration and permits; Housing; Health system,Trámites: permisos y residencia
+10,"juin 05, 2025 7:50:01 pm",Españoles que realmente se ayudan en Suiza,3181,1,12.60,1,informational,Immigration and permits; Working in Switzerland; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+11,"juin 07, 2025 7:58:06 am",Españoles que realmente se ayudan en Suiza,1979,1,8.60,1,informational,Swiss institutions; Housing; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+12,"juin 08, 2025 8:55:01 am",Españoles que realmente se ayudan en Suiza,3065,1,12.22,1,informational,Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+13,"juin 09, 2025 7:35:01 am",Españoles que realmente se ayudan en Suiza,1647,1,7.49,1,informational,Immigration and permits; Working in Switzerland; Housing,Trámites: permisos y residencia
+14,"juin 10, 2025 7:20:00 am",Españoles que realmente se ayudan en Suiza,3585,1,13.95,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+15,"juin 11, 2025 11:50:02 am",Españoles que realmente se ayudan en Suiza,2319,1,9.73,1,informational,Swiss institutions; Working in Switzerland; Housing; Events and culture,Vivienda: alquiler y contratos
+16,"juin 12, 2025 8:15:02 am",Españoles que realmente se ayudan en Suiza,2724,1,11.08,1,informational,Working in Switzerland; Health system; Events and culture,Salud: LAMal y sistema sanitario
+17,"juin 14, 2025 8:38:51 am",Españoles que realmente se ayudan en Suiza,23,0,0.08,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+18,"juin 21, 2025 7:37:13 pm",Españoles que realmente se ayudan en Suiza,2542,1,10.47,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+19,"juil 07, 2025 2:23:44 pm",Españoles que realmente se ayudan en Suiza,3120,1,12.40,1,informational,Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+20,"juil 10, 2025 11:28:58 pm",Españoles que realmente se ayudan en Suiza,2166,0,9.22,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+21,"juil 12, 2025 8:36:03 am",Españoles que realmente se ayudan en Suiza,1132,1,5.77,1,informational,Working in Switzerland; Swiss politics,"Trabajo: empleo, contratos y derechos"
+22,"juil 12, 2025 10:02:49 am",Españoles que realmente se ayudan en Suiza,1025,1,5.42,1,informational,Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+23,"juil 13, 2025 9:45:56 am",Españoles que realmente se ayudan en Suiza,2005,1,8.68,1,informational,Swiss institutions; Health system; Swiss politics,Salud: LAMal y sistema sanitario
+24,"juil 13, 2025 7:25:01 pm",Españoles que realmente se ayudan en Suiza,1297,1,6.32,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+25,"juil 18, 2025 2:59:48 pm",Españoles que realmente se ayudan en Suiza,3568,1,13.89,1,informational,Swiss institutions; Working in Switzerland; Cost of living; Swiss politics; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+26,"juil 19, 2025 8:10:30 am",Españoles que realmente se ayudan en Suiza,2022,1,8.74,1,informational,Working in Switzerland; Housing; Cost of living; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+27,"juil 21, 2025 9:13:43 am",Españoles que realmente se ayudan en Suiza,2109,1,9.03,1,informational,Working in Switzerland; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+28,"juil 21, 2025 1:52:10 pm",Españoles que realmente se ayudan en Suiza,739,1,4.46,1,informational,Working in Switzerland; Cost of living,Vida práctica: coste de vida
+29,"juil 23, 2025 7:56:01 am",Españoles que realmente se ayudan en Suiza,1131,1,5.77,1,informational,Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+30,"juil 23, 2025 11:31:03 am",Españoles que realmente se ayudan en Suiza,2221,1,9.40,1,informational,Housing; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+31,"juil 23, 2025 6:14:48 pm",Españoles que realmente se ayudan en Suiza,1485,1,6.95,1,informational,Swiss politics; Community life,Sistema suizo: política y democracia directa
+32,"juil 23, 2025 11:06:01 pm",Españoles que realmente se ayudan en Suiza,1507,1,7.02,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+33,"juil 23, 2025 11:06:04 pm",Punto de encuentro: Suiza,1506,1,7.02,1,informational,(unclassified),Miscelánea (Punto de encuentro: Suiza)
+34,"juil 24, 2025 7:50:02 am",Españoles que realmente se ayudan en Suiza,2042,1,8.81,1,informational,Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+35,"juil 24, 2025 1:41:32 pm",EspaÑoles en Ginebra,1905,1,8.35,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+36,"juil 24, 2025 1:41:35 pm",EspaÑoles en Ginebra,2011,1,8.70,1,informational,Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+37,"juil 24, 2025 5:23:10 pm",EspaÑoles en Ginebra,2240,1,9.47,1,informational,Housing; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+38,"juil 24, 2025 5:55:01 pm",Españoles que realmente se ayudan en Suiza,1856,1,8.19,1,informational,Events and culture,Vida local: eventos y cultura
+39,"juil 24, 2025 11:34:38 pm",EspaÑoles en Ginebra,4251,1,16.17,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+40,"juil 25, 2025 6:45:02 am",Españoles que realmente se ayudan en Suiza,1616,1,7.39,1,informational,Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+41,"juil 25, 2025 7:34:04 am",EspaÑoles en Ginebra,3451,1,13.50,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Cost of living; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+42,"juil 25, 2025 8:18:36 am",EspaÑoles en Ginebra,1931,1,8.44,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+43,"juil 25, 2025 11:43:55 am",EspaÑoles en Ginebra,2636,1,10.79,1,informational,Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+44,"juil 25, 2025 5:50:02 pm",EspaÑoles en Ginebra,1618,1,7.39,1,informational,Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+45,"juil 25, 2025 6:17:16 pm",Españoles que realmente se ayudan en Suiza,1763,1,7.88,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+46,"juil 25, 2025 6:17:20 pm",Punto de encuentro: Suiza,1820,1,8.07,1,informational,(unclassified),Miscelánea (Punto de encuentro: Suiza)
+47,"juil 25, 2025 6:20:01 pm",Españoles que realmente se ayudan en Suiza,1887,1,8.29,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+48,"juil 26, 2025 8:40:02 am",EspaÑoles en Ginebra,1932,1,8.44,1,informational,Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+49,"juil 26, 2025 1:53:16 pm",EspaÑoles en Ginebra,810,1,4.70,1,informational,Immigration and permits; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+50,"juil 26, 2025 1:53:18 pm",Españoles que realmente se ayudan en Suiza,810,1,4.70,1,informational,Immigration and permits; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+51,"juil 26, 2025 1:53:35 pm",Punto de encuentro: Suiza,810,1,4.70,1,informational,Immigration and permits; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+52,"juil 26, 2025 4:09:28 pm",EspaÑoles en Ginebra,888,1,4.96,1,informational,Immigration and permits; Working in Switzerland; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+53,"juil 26, 2025 4:43:46 pm",EspaÑoles en Ginebra,429,0,3.43,1,informational,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+54,"juil 26, 2025 5:35:01 pm",EspaÑoles en Ginebra,2272,1,9.57,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+55,"juil 27, 2025 8:17:59 am",Españoles que realmente se ayudan en Suiza,1630,1,7.43,1,informational,Events and culture,Vida local: eventos y cultura
+56,"juil 27, 2025 9:53:55 am",Punto de encuentro: Suiza,1962,1,8.54,1,informational,Swiss institutions; Local rules in Geneva; Fraud alerts,Alertas: fraudes y estafas
+57,"juil 27, 2025 10:29:36 am",EspaÑoles en Ginebra,2625,1,10.75,1,informational,Immigration and permits; Working in Switzerland; Housing; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+58,"juil 27, 2025 12:53:39 pm",Españoles que realmente se ayudan en Suiza,710,1,4.37,1,informational,Health system,Salud: LAMal y sistema sanitario
+59,"juil 27, 2025 12:54:15 pm",Punto de encuentro: Suiza,710,1,4.37,1,informational,Health system,Salud: LAMal y sistema sanitario
+60,"juil 27, 2025 5:50:00 pm",EspaÑoles en Ginebra,2003,1,8.68,1,informational,Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+61,"juil 28, 2025 10:34:03 am",Españoles que realmente se ayudan en Suiza,1482,1,6.94,1,informational,Health system,Salud: LAMal y sistema sanitario
+62,"juil 28, 2025 10:34:06 am",EspaÑoles en Ginebra,1482,1,6.94,1,informational,Health system,Salud: LAMal y sistema sanitario
+63,"juil 28, 2025 10:34:12 am",Punto de encuentro: Suiza,1482,1,6.94,1,informational,Health system,Salud: LAMal y sistema sanitario
+64,"juil 28, 2025 5:50:26 pm",EspaÑoles en Ginebra,2034,1,8.78,1,informational,Working in Switzerland; Housing; Local rules in Geneva; Fraud alerts,Alertas: fraudes y estafas
+65,"juil 28, 2025 8:36:51 pm",Españoles que realmente se ayudan en Suiza,1029,1,5.43,1,informational,Swiss institutions; Community life; Events and culture,Vida local: eventos y cultura
+66,"juil 28, 2025 8:36:54 pm",Punto de encuentro: Suiza,1027,1,5.42,1,informational,Swiss institutions; Community life; Events and culture,Vida local: eventos y cultura
+67,"juil 29, 2025 2:53:37 am",Punto de encuentro: Suiza,2052,1,8.84,1,informational,Swiss institutions; Health system; Fraud alerts; Events and culture,Alertas: fraudes y estafas
+68,"juil 29, 2025 6:52:14 am",Españoles que realmente se ayudan en Suiza,2052,1,8.84,1,informational,Swiss institutions; Health system; Fraud alerts; Events and culture,Alertas: fraudes y estafas
+69,"juil 29, 2025 9:27:12 am",Españoles que realmente se ayudan en Suiza,2372,1,9.91,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Events and culture,Trámites: permisos y residencia
+70,"juil 29, 2025 9:27:15 am",Punto de encuentro: Suiza,2372,1,9.91,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Events and culture,Trámites: permisos y residencia
+71,"juil 29, 2025 1:28:26 pm",EspaÑoles en Ginebra,1868,1,8.23,1,informational,Swiss institutions; Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+72,"juil 29, 2025 5:35:10 pm",Españoles que realmente se ayudan en Suiza,2445,1,10.15,1,informational,Immigration and permits; Health system; Community life,Trámites: permisos y residencia
+73,"juil 29, 2025 5:35:15 pm",EspaÑoles en Ginebra,2498,1,10.33,1,informational,Immigration and permits; Health system; Community life,Trámites: permisos y residencia
+74,"juil 29, 2025 5:35:23 pm",Punto de encuentro: Suiza,2468,1,10.23,1,informational,Immigration and permits; Health system; Community life,Trámites: permisos y residencia
+75,"juil 30, 2025 7:04:06 am",EspaÑoles en Ginebra,1987,1,8.62,1,informational,Immigration and permits; Working in Switzerland; Health system; Community life,Trámites: permisos y residencia
+76,"juil 30, 2025 7:25:01 am",EspaÑoles en Ginebra,2796,1,11.32,1,informational,Swiss institutions; Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+77,"juil 30, 2025 11:26:27 am",EspaÑoles en Ginebra,1567,1,7.22,1,informational,Housing; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+78,"juil 30, 2025 12:10:01 pm",Españoles que realmente se ayudan en Suiza,2731,1,11.10,1,informational,Immigration and permits; Housing; Health system; Community life,Trámites: permisos y residencia
+79,"juil 30, 2025 12:10:02 pm",EspaÑoles en Ginebra,2731,1,11.10,1,informational,Immigration and permits; Housing; Health system; Community life,Trámites: permisos y residencia
+80,"juil 30, 2025 12:10:03 pm",Punto de encuentro: Suiza,2731,1,11.10,1,informational,Immigration and permits; Housing; Health system; Community life,Trámites: permisos y residencia
+81,"juil 30, 2025 3:25:14 pm",EspaÑoles en Ginebra,724,1,4.41,1,informational,Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+82,"juil 30, 2025 6:45:01 pm",Españoles que realmente se ayudan en Suiza,2321,1,9.74,1,informational,Immigration and permits; Working in Switzerland; Housing; Health system,Trámites: permisos y residencia
+83,"juil 30, 2025 6:45:03 pm",Punto de encuentro: Suiza,2321,1,9.74,1,informational,Immigration and permits; Working in Switzerland; Housing; Health system,Trámites: permisos y residencia
+84,"juil 30, 2025 6:45:03 pm",EspaÑoles en Ginebra,2321,1,9.74,1,informational,Immigration and permits; Working in Switzerland; Housing; Health system,Trámites: permisos y residencia
+85,"juil 30, 2025 9:52:47 pm",EspaÑoles en Ginebra,57,0,0.19,0,low-density,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+86,"juil 31, 2025 7:25:02 am",Españoles que realmente se ayudan en Suiza,4329,1,16.43,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+87,"juil 31, 2025 7:25:03 am",Punto de encuentro: Suiza,4285,1,16.28,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+88,"juil 31, 2025 7:25:03 am",EspaÑoles en Ginebra,4285,1,16.28,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+89,"juil 31, 2025 12:18:42 pm",Españoles que realmente se ayudan en Suiza,1505,1,7.02,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+90,"juil 31, 2025 12:20:19 pm",Punto de encuentro: Suiza,1505,1,7.02,1,informational,(unclassified),Miscelánea (Punto de encuentro: Suiza)
+91,"juil 31, 2025 3:26:30 pm",Españoles que realmente se ayudan en Suiza,42,1,0.14,0,low-density,Community life,Comunidad: vida del grupo
+92,"juil 31, 2025 6:20:02 pm",Españoles que realmente se ayudan en Suiza,3003,1,12.01,1,informational,Immigration and permits; Working in Switzerland; Community life,Trámites: permisos y residencia
+93,"juil 31, 2025 6:20:03 pm",EspaÑoles en Ginebra,3003,1,12.01,1,informational,Immigration and permits; Working in Switzerland; Community life,Trámites: permisos y residencia
+94,"juil 31, 2025 6:20:05 pm",Punto de encuentro: Suiza,3003,1,12.01,1,informational,Immigration and permits; Working in Switzerland; Community life,Trámites: permisos y residencia
+95,"août 01, 2025 7:15:02 am",Españoles que realmente se ayudan en Suiza,2052,1,8.84,1,informational,Swiss institutions; Working in Switzerland; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+96,"août 01, 2025 7:15:03 am",Punto de encuentro: Suiza,2052,1,8.84,1,informational,Swiss institutions; Working in Switzerland; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+97,"août 01, 2025 7:15:04 am",EspaÑoles en Ginebra,2052,1,8.84,1,informational,Swiss institutions; Working in Switzerland; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+98,"août 01, 2025 12:33:48 pm",Españoles que realmente se ayudan en Suiza,2025,1,8.75,1,informational,Community life,Comunidad: vida del grupo
+99,"août 01, 2025 5:55:02 pm",Españoles que realmente se ayudan en Suiza,1573,1,7.24,1,informational,Swiss institutions; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+100,"août 01, 2025 5:55:03 pm",Punto de encuentro: Suiza,1573,1,7.24,1,informational,Swiss institutions; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+101,"août 01, 2025 5:55:03 pm",EspaÑoles en Ginebra,1573,1,7.24,1,informational,Swiss institutions; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+102,"août 01, 2025 6:20:23 pm",EspaÑoles en Ginebra,1358,1,6.53,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+103,"août 02, 2025 7:05:02 am",EspaÑoles en Ginebra,1678,1,7.59,1,informational,Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+104,"août 02, 2025 7:21:41 am",Españoles que realmente se ayudan en Suiza,1834,1,8.11,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+105,"août 02, 2025 12:58:13 pm",EspaÑoles en Ginebra,2354,1,9.85,1,informational,Cost of living; Health system; Local rules in Geneva; Fraud alerts; Events and culture,Alertas: fraudes y estafas
+106,"août 02, 2025 6:25:03 pm",EspaÑoles en Ginebra,1787,1,7.96,1,informational,Working in Switzerland; Housing; Cost of living; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+107,"août 02, 2025 7:35:40 pm",EspaÑoles en Ginebra,2451,1,10.17,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+108,"août 03, 2025 6:42:22 am",Españoles que realmente se ayudan en Suiza,2008,1,8.69,1,informational,Swiss institutions; Health system,Salud: LAMal y sistema sanitario
+109,"août 03, 2025 7:05:01 am",EspaÑoles en Ginebra,1603,1,7.34,1,informational,Swiss institutions; Housing; Local rules in Geneva; Fraud alerts; Community life,Alertas: fraudes y estafas
+110,"août 03, 2025 12:16:28 pm",EspaÑoles en Ginebra,1968,1,8.56,1,informational,Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+111,"août 03, 2025 7:15:03 pm",EspaÑoles en Ginebra,1157,1,5.86,1,informational,Events and culture,Vida local: eventos y cultura
+112,"août 04, 2025 7:05:01 am",EspaÑoles en Ginebra,952,1,5.17,1,informational,Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+113,"août 04, 2025 7:16:29 am",Españoles que realmente se ayudan en Suiza,2381,1,9.94,1,informational,Swiss institutions; Health system,Salud: LAMal y sistema sanitario
+114,"août 04, 2025 12:17:42 pm",EspaÑoles en Ginebra,1999,1,8.66,1,informational,Cost of living; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+115,"août 04, 2025 5:50:01 pm",EspaÑoles en Ginebra,1156,1,5.85,1,informational,Housing,Vivienda: alquiler y contratos
+116,"août 04, 2025 7:33:41 pm",Españoles que realmente se ayudan en Suiza,1297,1,6.32,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+117,"août 05, 2025 7:25:02 am",EspaÑoles en Ginebra,1324,1,6.41,1,informational,Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+118,"août 05, 2025 5:10:04 pm",EspaÑoles en Ginebra,1410,1,6.70,1,informational,Immigration and permits; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+119,"août 06, 2025 4:54:19 am",Españoles que realmente se ayudan en Suiza,3125,1,12.42,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Health system,Trámites: permisos y residencia
+120,"août 06, 2025 4:54:23 am",Punto de encuentro: Suiza,3103,1,12.34,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Health system,Trámites: permisos y residencia
+121,"août 06, 2025 5:06:07 am",EspaÑoles en Ginebra,2232,1,9.44,1,informational,Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+122,"août 06, 2025 6:59:01 am",EspaÑoles en Ginebra,1440,1,6.80,1,informational,Housing; Fraud alerts,Alertas: fraudes y estafas
+123,"août 06, 2025 7:12:54 am",Españoles que realmente se ayudan en Suiza,1339,1,6.46,1,informational,Swiss politics,Sistema suizo: política y democracia directa
+124,"août 06, 2025 7:51:52 am",EspaÑoles en Ginebra,3719,0,14.40,1,informational,Swiss institutions; Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+125,"août 06, 2025 5:43:21 pm",EspaÑoles en Ginebra,1213,1,6.04,1,informational,Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+126,"août 07, 2025 4:18:42 am",EspaÑoles en Ginebra,1353,1,6.51,1,informational,Immigration and permits; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+127,"août 07, 2025 10:12:25 am",EspaÑoles en Ginebra,19,1,0.06,0,low-density,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+128,"août 07, 2025 6:59:52 pm",EspaÑoles en Ginebra,1374,1,6.58,1,informational,Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+129,"août 08, 2025 7:45:47 pm",EspaÑoles en Ginebra,1439,1,6.80,1,informational,Immigration and permits; Working in Switzerland; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+130,"août 09, 2025 6:10:56 am",EspaÑoles en Ginebra,1280,1,6.27,1,informational,Immigration and permits; Working in Switzerland; Housing; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+131,"août 10, 2025 11:32:39 am",Españoles que realmente se ayudan en Suiza,1529,1,7.10,1,informational,Immigration and permits; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+132,"août 10, 2025 11:32:43 am",Punto de encuentro: Suiza,1525,1,7.08,1,informational,Immigration and permits; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+133,"août 11, 2025 4:52:02 pm",EspaÑoles en Ginebra,1458,1,6.86,1,informational,Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+134,"août 12, 2025 10:26:17 am",EspaÑoles en Ginebra,1292,1,6.31,1,informational,Immigration and permits; Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+135,"août 12, 2025 11:05:32 am",Españoles que realmente se ayudan en Suiza,1281,1,6.27,1,informational,Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+136,"août 12, 2025 1:56:19 pm",EspaÑoles en Ginebra,996,1,5.32,1,informational,Immigration and permits; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+137,"août 12, 2025 2:14:13 pm",Españoles que realmente se ayudan en Suiza,1976,1,8.59,1,informational,Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+138,"août 12, 2025 2:14:18 pm",EspaÑoles en Ginebra,1962,1,8.54,1,informational,Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+139,"août 12, 2025 2:14:24 pm",Punto de encuentro: Suiza,1962,1,8.54,1,informational,Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+140,"août 12, 2025 6:53:56 pm",EspaÑoles en Ginebra,1255,1,6.18,1,informational,Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+141,"août 13, 2025 7:27:53 am",EspaÑoles en Ginebra,1362,1,6.54,1,informational,Working in Switzerland; Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+142,"août 13, 2025 1:21:42 pm",Españoles que realmente se ayudan en Suiza,1208,1,6.03,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+143,"août 13, 2025 1:21:46 pm",Punto de encuentro: Suiza,1082,1,5.61,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+144,"août 14, 2025 7:32:51 am",EspaÑoles en Ginebra,1312,1,6.37,1,informational,Immigration and permits; Working in Switzerland; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+145,"août 15, 2025 7:25:49 am",EspaÑoles en Ginebra,1244,1,6.15,1,informational,Swiss institutions; Immigration and permits; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+146,"août 16, 2025 8:29:07 am",EspaÑoles en Ginebra,1162,1,5.87,1,informational,Immigration and permits; Working in Switzerland; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+147,"août 17, 2025 8:36:08 am",EspaÑoles en Ginebra,1170,1,5.90,1,informational,Swiss institutions; Immigration and permits; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+148,"août 17, 2025 4:37:28 pm",Españoles que realmente se ayudan en Suiza,745,1,4.48,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+149,"août 17, 2025 7:45:01 pm",EspaÑoles en Ginebra,1796,1,7.99,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+150,"août 18, 2025 7:15:01 am",Españoles que realmente se ayudan en Suiza,2764,1,11.21,1,informational,Immigration and permits; Working in Switzerland; Events and culture,Trámites: permisos y residencia
+151,"août 18, 2025 7:25:01 am",EspaÑoles en Ginebra,1306,1,6.35,1,informational,Immigration and permits; Working in Switzerland; Housing; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+152,"août 18, 2025 9:41:19 am",EspaÑoles en Ginebra,1819,1,8.06,1,informational,Swiss institutions; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+153,"août 18, 2025 9:41:21 am",Españoles que realmente se ayudan en Suiza,1816,1,8.05,1,informational,Swiss institutions; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+154,"août 18, 2025 11:40:42 am",EspaÑoles en Ginebra,252,1,0.84,0,low-density,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+155,"août 18, 2025 7:35:02 pm",EspaÑoles en Ginebra,1002,1,5.34,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+156,"août 19, 2025 7:18:04 am",EspaÑoles en Ginebra,1398,1,6.66,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+157,"août 19, 2025 7:20:01 am",Españoles que realmente se ayudan en Suiza,1114,1,5.71,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+158,"août 19, 2025 5:55:02 pm",EspaÑoles en Ginebra,1185,1,5.95,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+159,"août 20, 2025 7:18:02 am",Españoles que realmente se ayudan en Suiza,2106,1,9.02,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+160,"août 20, 2025 7:34:01 am",EspaÑoles en Ginebra,1403,1,6.68,1,informational,Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+161,"août 20, 2025 12:40:57 pm",EspaÑoles en Ginebra,435,0,1.45,0,low-density,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+162,"août 20, 2025 6:40:01 pm",EspaÑoles en Ginebra,1513,1,7.04,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+163,"août 21, 2025 7:10:01 am",EspaÑoles en Ginebra,1312,1,6.37,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+164,"août 21, 2025 8:10:01 am",Españoles que realmente se ayudan en Suiza,1946,1,8.49,1,informational,Working in Switzerland; Swiss politics; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+165,"août 21, 2025 1:05:03 pm",EspaÑoles en Ginebra,1377,1,6.59,1,informational,Health system; Events and culture,Salud: LAMal y sistema sanitario
+166,"août 22, 2025 7:20:00 am",EspaÑoles en Ginebra,1361,1,6.54,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Cost of living; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+167,"août 22, 2025 8:05:04 am",Españoles que realmente se ayudan en Suiza,2079,1,8.93,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+168,"août 22, 2025 3:38:39 pm",EspaÑoles en Ginebra,706,1,4.35,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+169,"août 23, 2025 7:15:01 am",EspaÑoles en Ginebra,1202,1,6.01,1,informational,Working in Switzerland; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+170,"août 23, 2025 8:15:01 am",Españoles que realmente se ayudan en Suiza,1610,1,7.37,1,informational,Working in Switzerland; Health system; Events and culture,Salud: LAMal y sistema sanitario
+171,"août 23, 2025 1:45:01 pm",EspaÑoles en Ginebra,1828,1,8.09,1,informational,Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+172,"août 24, 2025 7:39:23 am",Españoles que realmente se ayudan en Suiza,1528,1,7.09,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+173,"août 24, 2025 8:05:01 am",EspaÑoles en Ginebra,1278,1,6.26,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+174,"août 25, 2025 7:15:01 am",EspaÑoles en Ginebra,1302,1,6.34,1,informational,Swiss institutions; Immigration and permits; Housing; Cost of living; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+175,"août 25, 2025 3:26:40 pm",EspaÑoles en Ginebra,1431,1,6.77,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+176,"août 25, 2025 7:45:08 pm",Españoles que realmente se ayudan en Suiza,23,0,0.08,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+177,"août 25, 2025 7:45:12 pm",Punto de encuentro: Suiza,23,0,0.08,0,low-density,(unclassified),Miscelánea (Punto de encuentro: Suiza)
+178,"août 26, 2025 7:25:01 am",EspaÑoles en Ginebra,1372,1,6.57,1,informational,Swiss institutions; Immigration and permits; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+179,"août 26, 2025 5:25:07 pm",EspaÑoles en Ginebra,1305,1,6.35,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+180,"août 27, 2025 7:05:01 am",EspaÑoles en Ginebra,1254,1,6.18,1,informational,Immigration and permits; Working in Switzerland; Housing; Cost of living; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+181,"août 27, 2025 10:55:01 am",Españoles que realmente se ayudan en Suiza,1372,1,6.57,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+182,"août 27, 2025 5:20:29 pm",EspaÑoles en Ginebra,1481,1,6.94,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+183,"août 28, 2025 7:40:22 am",Españoles que realmente se ayudan en Suiza,1726,1,7.75,1,informational,Swiss politics; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+184,"août 28, 2025 7:55:01 am",EspaÑoles en Ginebra,1534,1,7.11,1,informational,Working in Switzerland; Housing; Cost of living; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+185,"août 28, 2025 5:10:02 pm",EspaÑoles en Ginebra,1469,1,6.90,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+186,"août 29, 2025 7:50:01 am",EspaÑoles en Ginebra,891,1,4.97,1,informational,Immigration and permits; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+187,"août 29, 2025 8:25:04 am",Españoles que realmente se ayudan en Suiza,1469,1,6.90,1,informational,Housing,Vivienda: alquiler y contratos
+188,"août 29, 2025 5:20:01 pm",EspaÑoles en Ginebra,1269,1,6.23,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+189,"août 30, 2025 8:55:00 am",EspaÑoles en Ginebra,765,1,4.55,1,informational,Immigration and permits; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+190,"août 30, 2025 9:06:17 am",Españoles que realmente se ayudan en Suiza,2034,1,8.78,1,informational,Swiss institutions; Immigration and permits; Housing,Trámites: permisos y residencia
+191,"août 30, 2025 4:50:01 pm",EspaÑoles en Ginebra,1205,1,6.02,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+192,"août 30, 2025 4:55:01 pm",Españoles que realmente se ayudan en Suiza,1576,1,7.25,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+193,"août 31, 2025 7:55:02 am",Españoles que realmente se ayudan en Suiza,2867,1,11.56,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+194,"août 31, 2025 8:55:01 am",EspaÑoles en Ginebra,1277,1,6.26,1,informational,Immigration and permits; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+195,"août 31, 2025 1:58:10 pm",EspaÑoles en Ginebra,1557,1,7.19,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+196,"août 31, 2025 5:40:01 pm",Españoles que realmente se ayudan en Suiza,1451,1,6.84,1,informational,Cost of living; Health system; Community life,Salud: LAMal y sistema sanitario
+197,"sep 01, 2025 7:25:00 am",EspaÑoles en Ginebra,1283,1,6.28,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+198,"sep 01, 2025 8:05:01 am",Españoles que realmente se ayudan en Suiza,993,1,5.31,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+199,"sep 01, 2025 12:20:01 pm",EspaÑoles en Ginebra,1464,1,6.88,1,informational,Working in Switzerland; Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+200,"sep 01, 2025 5:50:06 pm",Españoles que realmente se ayudan en Suiza,1509,1,7.03,1,informational,Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+201,"sep 01, 2025 5:55:00 pm",EspaÑoles en Ginebra,1397,1,6.66,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+202,"sep 02, 2025 7:40:01 am",EspaÑoles en Ginebra,1380,1,6.60,1,informational,Immigration and permits; Housing; Cost of living; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+203,"sep 02, 2025 2:04:30 pm",Españoles que realmente se ayudan en Suiza,1603,1,7.34,1,informational,Swiss institutions; Health system; Swiss politics,Salud: LAMal y sistema sanitario
+204,"sep 02, 2025 6:55:01 pm",EspaÑoles en Ginebra,1899,1,8.33,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+205,"sep 03, 2025 7:25:02 am",EspaÑoles en Ginebra,1313,1,6.38,1,informational,Swiss institutions; Housing; Community life; Events and culture,Vivienda: alquiler y contratos
+206,"sep 03, 2025 5:45:02 pm",EspaÑoles en Ginebra,1161,1,5.87,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+207,"sep 04, 2025 7:35:01 am",EspaÑoles en Ginebra,1169,1,5.90,1,informational,Housing; Cost of living; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+208,"sep 04, 2025 4:46:06 pm",Españoles que realmente se ayudan en Suiza,3391,1,13.30,1,informational,Swiss politics,Sistema suizo: política y democracia directa
+209,"sep 04, 2025 6:26:37 pm",EspaÑoles en Ginebra,1055,1,5.52,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+210,"sep 05, 2025 7:21:46 am",Españoles que realmente se ayudan en Suiza,1850,1,8.17,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+211,"sep 05, 2025 7:45:02 am",EspaÑoles en Ginebra,1215,1,6.05,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+212,"sep 05, 2025 6:50:57 pm",EspaÑoles en Ginebra,669,1,4.23,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+213,"sep 06, 2025 7:17:50 am",Españoles que realmente se ayudan en Suiza,1752,1,7.84,1,informational,Housing; Swiss politics; Community life,Vivienda: alquiler y contratos
+214,"sep 06, 2025 7:55:01 am",EspaÑoles en Ginebra,1202,1,6.01,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+215,"sep 06, 2025 5:16:02 pm",EspaÑoles en Ginebra,586,1,3.95,1,informational,Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+216,"sep 07, 2025 7:29:36 am",Españoles que realmente se ayudan en Suiza,1635,1,7.45,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+217,"sep 07, 2025 8:10:00 am",EspaÑoles en Ginebra,1216,1,6.05,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+218,"sep 07, 2025 1:55:01 pm",Españoles que realmente se ayudan en Suiza,1492,1,6.97,1,informational,Fraud alerts,Alertas: fraudes y estafas
+219,"sep 07, 2025 5:44:56 pm",EspaÑoles en Ginebra,2108,1,9.03,1,informational,Working in Switzerland; Cost of living; Health system; Community life,Salud: LAMal y sistema sanitario
+220,"sep 08, 2025 7:35:01 am",EspaÑoles en Ginebra,1221,1,6.07,1,informational,Swiss institutions; Immigration and permits; Housing; Cost of living; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+221,"sep 08, 2025 12:40:26 pm",Españoles que realmente se ayudan en Suiza,2184,1,9.28,1,informational,Swiss institutions; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+222,"sep 08, 2025 5:10:01 pm",EspaÑoles en Ginebra,1394,1,6.65,1,informational,Events and culture,Vida local: eventos y cultura
+223,"sep 09, 2025 12:11:01 am",EspaÑoles en Ginebra,63,1,0.21,0,short-link,Community life,Comunidad: vida del grupo
+224,"sep 09, 2025 7:20:01 am",EspaÑoles en Ginebra,1203,1,6.01,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Cost of living; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+225,"sep 09, 2025 12:42:21 pm",Españoles que realmente se ayudan en Suiza,1286,0,6.29,1,informational,Health system; Community life,Salud: LAMal y sistema sanitario
+226,"sep 09, 2025 1:38:03 pm",Españoles que realmente se ayudan en Suiza,48,0,0.16,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+227,"sep 09, 2025 5:50:01 pm",EspaÑoles en Ginebra,1031,1,5.44,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+228,"sep 09, 2025 6:09:06 pm",Españoles que realmente se ayudan en Suiza,2112,1,9.04,1,informational,Working in Switzerland; Swiss politics; Community life; Events and culture,"Trabajo: empleo, contratos y derechos"
+229,"sep 10, 2025 7:25:02 am",EspaÑoles en Ginebra,1355,1,6.52,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+230,"sep 10, 2025 8:35:04 am",Españoles que realmente se ayudan en Suiza,3690,1,14.30,1,informational,Swiss institutions; Working in Switzerland; Housing; Health system,Salud: LAMal y sistema sanitario
+231,"sep 10, 2025 4:55:02 pm",EspaÑoles en Ginebra,890,1,4.97,1,informational,Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+232,"sep 10, 2025 5:50:02 pm",Españoles que realmente se ayudan en Suiza,1546,1,7.15,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+233,"sep 11, 2025 7:01:16 am",Españoles que realmente se ayudan en Suiza,3232,1,12.77,1,informational,Swiss institutions; Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+234,"sep 11, 2025 7:25:02 am",EspaÑoles en Ginebra,1314,1,6.38,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+235,"sep 11, 2025 1:46:35 pm",EspaÑoles en Ginebra,43,0,0.14,0,low-density,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+236,"sep 11, 2025 1:46:40 pm",Españoles que realmente se ayudan en Suiza,43,0,0.14,0,low-density,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+237,"sep 11, 2025 6:05:01 pm",EspaÑoles en Ginebra,1073,1,5.58,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+238,"sep 11, 2025 6:55:02 pm",Españoles que realmente se ayudan en Suiza,3048,1,12.16,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing,Trámites: permisos y residencia
+239,"sep 12, 2025 7:20:01 am",EspaÑoles en Ginebra,1219,1,6.06,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+240,"sep 12, 2025 7:50:28 am",Españoles que realmente se ayudan en Suiza,1786,1,7.95,1,informational,Working in Switzerland; Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+241,"sep 12, 2025 6:15:01 pm",EspaÑoles en Ginebra,1262,1,6.21,1,informational,Swiss institutions; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+242,"sep 13, 2025 7:45:02 am",EspaÑoles en Ginebra,1104,1,5.68,1,informational,Swiss institutions; Housing; Cost of living; Community life,Vivienda: alquiler y contratos
+243,"sep 13, 2025 9:12:36 am",Españoles que realmente se ayudan en Suiza,865,1,4.88,1,informational,Immigration and permits; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+244,"sep 13, 2025 10:30:53 am",EspaÑoles en Ginebra,92,1,2.31,0,low-density,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+245,"sep 13, 2025 3:13:34 pm",Españoles que realmente se ayudan en Suiza,1746,1,7.82,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+246,"sep 13, 2025 5:37:58 pm",EspaÑoles en Ginebra,1931,1,8.44,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+247,"sep 13, 2025 6:19:38 pm",Españoles que realmente se ayudan en Suiza,1826,1,8.09,1,informational,Swiss politics; Events and culture,Sistema suizo: política y democracia directa
+248,"sep 14, 2025 7:42:44 am",EspaÑoles en Ginebra,1265,1,6.22,1,informational,Swiss institutions; Housing; Cost of living; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+249,"sep 14, 2025 8:33:26 am",Españoles que realmente se ayudan en Suiza,1709,1,7.70,1,informational,Housing; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+250,"sep 14, 2025 12:19:47 pm",Españoles que realmente se ayudan en Suiza,1527,1,7.09,1,informational,Working in Switzerland; Housing; Health system; Community life,Salud: LAMal y sistema sanitario
+251,"sep 14, 2025 6:03:58 pm",EspaÑoles en Ginebra,1093,1,5.64,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+252,"sep 15, 2025 8:43:41 am",EspaÑoles en Ginebra,1198,1,5.99,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+253,"sep 15, 2025 6:22:15 pm",EspaÑoles en Ginebra,778,1,4.59,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+254,"sep 15, 2025 8:26:17 pm",Españoles que realmente se ayudan en Suiza,2051,1,8.84,1,informational,Swiss politics,Sistema suizo: política y democracia directa
+255,"sep 15, 2025 9:52:36 pm",Españoles que realmente se ayudan en Suiza,292,0,2.97,0,low-density,Community life,Comunidad: vida del grupo
+256,"sep 16, 2025 7:45:50 am",EspaÑoles en Ginebra,1197,1,5.99,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+257,"sep 16, 2025 7:57:43 am",Españoles que realmente se ayudan en Suiza,983,1,5.28,1,informational,Swiss institutions; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+258,"sep 16, 2025 3:02:33 pm",Españoles que realmente se ayudan en Suiza,1640,1,7.47,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+259,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+260,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+261,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+262,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+263,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+264,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+265,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+266,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+267,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+268,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+269,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+270,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+271,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+272,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+273,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+274,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+275,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+276,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+277,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+278,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+279,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+280,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+281,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+282,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+283,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+284,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+285,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+286,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+287,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+288,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+289,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+290,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+291,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+292,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+293,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+294,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+295,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+296,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+297,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+298,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+299,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+300,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+301,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+302,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+303,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,1857,1,8.19,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+304,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+305,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+306,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+307,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+308,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+309,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+310,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+311,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+312,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+313,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+314,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+315,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+316,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+317,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+318,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+319,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+320,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+321,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+322,"sep 16, 2025 5:20:48 pm",EspaÑoles en Ginebra,0,1,0.00,0,empty,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+323,"sep 17, 2025 8:06:22 am",Españoles que realmente se ayudan en Suiza,1005,1,5.35,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+324,"sep 17, 2025 9:12:27 am",EspaÑoles en Ginebra,1059,1,5.53,1,informational,Housing; Cost of living; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+325,"sep 17, 2025 10:54:46 am",EspaÑoles en Ginebra,55,1,0.18,0,low-density,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+326,"sep 17, 2025 5:45:33 pm",Españoles que realmente se ayudan en Suiza,3295,1,12.98,1,informational,Immigration and permits; Working in Switzerland; Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+327,"sep 17, 2025 7:06:50 pm",EspaÑoles en Ginebra,1334,1,6.45,1,informational,Cost of living; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+328,"sep 18, 2025 7:53:36 am",Españoles que realmente se ayudan en Suiza,1088,1,5.63,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+329,"sep 18, 2025 8:36:30 am",EspaÑoles en Ginebra,1203,1,6.01,1,informational,Housing; Cost of living; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+330,"sep 18, 2025 5:11:00 pm",Españoles que realmente se ayudan en Suiza,49,1,0.16,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+331,"sep 18, 2025 5:43:00 pm",Españoles que realmente se ayudan en Suiza,1233,1,6.11,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+332,"sep 19, 2025 8:20:01 am",Españoles que realmente se ayudan en Suiza,1555,1,7.18,1,informational,Immigration and permits; Working in Switzerland; Cost of living; Swiss politics,Trámites: permisos y residencia
+333,"sep 19, 2025 10:34:21 am",EspaÑoles en Ginebra,1021,1,5.40,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+334,"sep 19, 2025 2:35:30 pm",Españoles que realmente se ayudan en Suiza,113,1,0.38,0,short-link,Community life,Comunidad: vida del grupo
+335,"sep 20, 2025 11:21:08 am",EspaÑoles en Ginebra,1088,1,5.63,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+336,"sep 20, 2025 12:20:25 pm",Españoles que realmente se ayudan en Suiza,1307,1,6.36,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+337,"sep 20, 2025 4:25:03 pm",EspaÑoles en Ginebra,974,1,5.25,1,informational,Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+338,"sep 20, 2025 8:37:55 pm",Españoles que realmente se ayudan en Suiza,1362,1,6.54,1,informational,Swiss politics; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+339,"sep 21, 2025 8:14:59 am",Españoles que realmente se ayudan en Suiza,102,0,0.34,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+340,"sep 21, 2025 8:30:11 am",Españoles que realmente se ayudan en Suiza,1349,1,6.50,1,informational,Swiss institutions; Working in Switzerland; Swiss politics; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+341,"sep 21, 2025 8:50:01 am",EspaÑoles en Ginebra,1311,1,6.37,1,informational,Swiss institutions; Working in Switzerland; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+342,"sep 21, 2025 12:30:02 pm",Españoles que realmente se ayudan en Suiza,42,0,0.14,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+343,"sep 21, 2025 12:30:03 pm",EspaÑoles en Ginebra,42,0,0.14,0,low-density,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+344,"sep 21, 2025 7:40:01 pm",EspaÑoles en Ginebra,1349,1,6.50,1,informational,Swiss institutions; Working in Switzerland; Swiss politics; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+345,"sep 21, 2025 8:05:01 pm",Españoles que realmente se ayudan en Suiza,1450,1,6.83,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+346,"sep 22, 2025 7:25:01 am",EspaÑoles en Ginebra,1175,1,5.92,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+347,"sep 22, 2025 2:34:16 pm",Españoles que realmente se ayudan en Suiza,1101,1,5.67,1,informational,Events and culture,Vida local: eventos y cultura
+348,"sep 23, 2025 7:40:02 am",EspaÑoles en Ginebra,1187,1,5.96,1,informational,Immigration and permits; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+349,"sep 23, 2025 3:15:08 pm",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+350,"sep 23, 2025 3:15:08 pm",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+351,"sep 23, 2025 3:15:08 pm",Españoles que realmente se ayudan en Suiza,1705,1,7.68,1,informational,Swiss institutions; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+352,"sep 23, 2025 3:35:14 pm",EspaÑoles en Ginebra,1515,1,7.05,1,informational,Health system; Local rules in Geneva; Fraud alerts,Alertas: fraudes y estafas
+353,"sep 24, 2025 7:33:58 am",Españoles que realmente se ayudan en Suiza,1579,1,7.26,1,informational,Swiss politics,Sistema suizo: política y democracia directa
+354,"sep 24, 2025 7:35:02 am",EspaÑoles en Ginebra,1301,1,6.34,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+355,"sep 24, 2025 5:15:02 pm",Españoles que realmente se ayudan en Suiza,315,0,1.05,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+356,"sep 24, 2025 5:32:06 pm",EspaÑoles en Ginebra,1116,1,5.72,1,informational,Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+357,"sep 24, 2025 6:34:37 pm",Españoles que realmente se ayudan en Suiza,323,1,1.08,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+358,"sep 24, 2025 6:49:04 pm",EspaÑoles en Ginebra,160,1,0.53,0,short-link,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+359,"sep 24, 2025 7:14:54 pm",Punto de encuentro: Suiza,905,1,5.02,1,informational,(unclassified),Miscelánea (Punto de encuentro: Suiza)
+360,"sep 24, 2025 7:20:25 pm",Españoles que realmente se ayudan en Suiza,905,1,5.02,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+361,"sep 25, 2025 6:54:36 am",Españoles que realmente se ayudan en Suiza,1574,1,7.25,1,informational,Swiss institutions; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+362,"sep 25, 2025 7:40:02 am",EspaÑoles en Ginebra,2221,1,9.40,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+363,"sep 25, 2025 2:11:38 pm",Españoles que realmente se ayudan en Suiza,82,0,0.27,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+364,"sep 25, 2025 8:24:56 pm",EspaÑoles en Ginebra,1022,1,5.41,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+365,"sep 26, 2025 7:40:01 am",Españoles que realmente se ayudan en Suiza,2518,1,10.39,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+366,"sep 26, 2025 4:45:35 pm",Españoles que realmente se ayudan en Suiza,1228,1,6.09,1,informational,Working in Switzerland; Housing; Local rules in Geneva; Fraud alerts,Alertas: fraudes y estafas
+367,"sep 27, 2025 7:10:41 am",Españoles que realmente se ayudan en Suiza,8992,1,31.97,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+368,"sep 27, 2025 6:55:01 pm",EspaÑoles en Ginebra,817,1,4.72,1,informational,Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+369,"sep 28, 2025 7:46:37 am",Españoles que realmente se ayudan en Suiza,1076,1,5.59,1,informational,Working in Switzerland; Health system,Salud: LAMal y sistema sanitario
+370,"sep 28, 2025 7:00:55 pm",EspaÑoles en Ginebra,1422,1,6.74,1,informational,Swiss institutions; Housing; Swiss politics; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+371,"sep 29, 2025 9:57:31 am",Españoles que realmente se ayudan en Suiza,1423,1,6.74,1,informational,Swiss institutions; Housing; Swiss politics; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+372,"sep 30, 2025 7:50:44 am",Españoles que realmente se ayudan en Suiza,722,1,4.41,1,informational,Events and culture,Vida local: eventos y cultura
+373,"sep 30, 2025 1:40:01 pm",Españoles que realmente se ayudan en Suiza,926,1,5.09,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+374,"sep 30, 2025 8:20:01 pm",Españoles que realmente se ayudan en Suiza,1527,1,7.09,1,informational,Immigration and permits,Trámites: permisos y residencia
+375,"oct 01, 2025 6:00:58 am",Españoles que realmente se ayudan en Suiza,2907,1,11.69,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Health system,Trámites: permisos y residencia
+376,"oct 02, 2025 7:35:25 am",Españoles que realmente se ayudan en Suiza,1071,1,5.57,1,informational,Working in Switzerland; Health system,Salud: LAMal y sistema sanitario
+377,"oct 02, 2025 12:54:36 pm",Españoles que realmente se ayudan en Suiza,2065,1,8.88,1,informational,Immigration and permits; Working in Switzerland; Swiss politics,Trámites: permisos y residencia
+378,"oct 03, 2025 7:04:12 am",Españoles que realmente se ayudan en Suiza,818,1,4.73,1,informational,Swiss institutions,Miscelánea (Españoles que realmente se ayudan en Suiza)
+379,"oct 03, 2025 8:15:26 am",EspaÑoles en Ginebra,590,1,3.97,1,informational,Community life,Comunidad: vida del grupo
+380,"oct 03, 2025 11:13:09 am",EspaÑoles en Ginebra,1110,1,5.70,1,informational,Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+381,"oct 03, 2025 1:41:47 pm",Españoles que realmente se ayudan en Suiza,1110,1,5.70,1,informational,Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+382,"oct 03, 2025 2:27:13 pm",EspaÑoles en Ginebra,35,1,0.12,0,low-density,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+383,"oct 03, 2025 7:37:04 pm",EspaÑoles en Ginebra,647,1,4.16,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+384,"oct 05, 2025 6:47:03 pm",Españoles que realmente se ayudan en Suiza,2950,1,11.83,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+385,"oct 07, 2025 9:03:29 pm",Españoles que realmente se ayudan en Suiza,1234,1,6.11,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+386,"oct 08, 2025 7:45:52 am",Españoles que realmente se ayudan en Suiza,1340,1,6.47,1,informational,Events and culture,Vida local: eventos y cultura
+387,"oct 08, 2025 1:24:24 pm",Españoles que realmente se ayudan en Suiza,1412,1,6.71,1,informational,Swiss institutions; Working in Switzerland; Swiss politics,"Trabajo: empleo, contratos y derechos"
+388,"oct 08, 2025 7:23:42 pm",Españoles que realmente se ayudan en Suiza,682,0,4.27,1,informational,Working in Switzerland; Housing; Fraud alerts,Alertas: fraudes y estafas
+389,"oct 09, 2025 8:30:10 am",Españoles que realmente se ayudan en Suiza,1833,1,8.11,1,informational,Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+390,"oct 09, 2025 7:04:11 pm",EspaÑoles en Ginebra,1385,1,6.62,1,informational,Swiss institutions; Swiss politics; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+391,"oct 09, 2025 7:40:29 pm",Españoles que realmente se ayudan en Suiza,1587,1,7.29,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+392,"oct 10, 2025 9:25:13 am",Españoles que realmente se ayudan en Suiza,4001,1,15.34,1,informational,Swiss institutions; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+393,"oct 10, 2025 10:07:25 am",Españoles que realmente se ayudan en Suiza,831,0,4.77,1,informational,Working in Switzerland; Housing; Community life,Vivienda: alquiler y contratos
+394,"oct 10, 2025 1:12:19 pm",EspaÑoles en Ginebra,1002,1,5.34,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+395,"oct 11, 2025 8:22:00 am",Españoles que realmente se ayudan en Suiza,1081,1,5.60,1,informational,Housing; Cost of living,Vivienda: alquiler y contratos
+396,"oct 11, 2025 10:34:27 am",EspaÑoles en Ginebra,1313,1,6.38,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+397,"oct 12, 2025 8:58:16 am",Españoles que realmente se ayudan en Suiza,3502,1,13.67,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Cost of living; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+398,"oct 13, 2025 10:15:31 am",Españoles que realmente se ayudan en Suiza,3960,1,15.20,1,informational,Swiss institutions; Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+399,"oct 13, 2025 5:42:13 pm",EspaÑoles en Ginebra,1315,1,6.38,1,informational,Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+400,"oct 14, 2025 8:44:10 am",Españoles que realmente se ayudan en Suiza,3652,1,14.17,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing,Trámites: permisos y residencia
+401,"oct 15, 2025 1:12:37 pm",Españoles que realmente se ayudan en Suiza,3997,1,15.32,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Cost of living; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+402,"oct 15, 2025 1:38:33 pm",EspaÑoles en Ginebra,1302,1,6.34,1,informational,Community life,Comunidad: vida del grupo
+403,"oct 16, 2025 6:25:24 pm",EspaÑoles en Ginebra,1367,1,6.56,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+404,"oct 16, 2025 7:44:33 pm",Españoles que realmente se ayudan en Suiza,4224,1,16.08,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+405,"oct 17, 2025 7:45:59 am",Españoles que realmente se ayudan en Suiza,6062,1,22.21,1,informational,Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+406,"oct 19, 2025 1:39:05 pm",Españoles que realmente se ayudan en Suiza,1512,1,7.04,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Cost of living,Trámites: permisos y residencia
+407,"oct 19, 2025 3:34:20 pm",Españoles que realmente se ayudan en Suiza,586,1,1.95,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+408,"oct 19, 2025 8:25:01 pm",EspaÑoles en Ginebra,1512,1,7.04,1,informational,Working in Switzerland; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+409,"oct 19, 2025 8:35:01 pm",Españoles que realmente se ayudan en Suiza,2025,1,8.75,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+410,"oct 20, 2025 8:24:45 am",Españoles que realmente se ayudan en Suiza,1107,1,5.69,1,informational,Immigration and permits; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+411,"oct 20, 2025 8:27:51 pm",Españoles que realmente se ayudan en Suiza,1201,1,6.00,1,informational,Working in Switzerland; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+412,"oct 21, 2025 8:47:57 am",Españoles que realmente se ayudan en Suiza,1261,1,6.20,1,informational,Housing; Cost of living,Vivienda: alquiler y contratos
+413,"oct 21, 2025 2:02:45 pm",Españoles que realmente se ayudan en Suiza,1129,0,5.76,1,informational,Immigration and permits; Events and culture,Trámites: permisos y residencia
+414,"oct 21, 2025 8:22:23 pm",Españoles que realmente se ayudan en Suiza,1708,1,7.69,1,informational,Working in Switzerland; Housing; Swiss politics,Vivienda: alquiler y contratos
+415,"oct 21, 2025 11:55:13 pm",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+416,"oct 21, 2025 11:55:13 pm",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+417,"oct 22, 2025 7:42:22 am",Españoles que realmente se ayudan en Suiza,1775,1,7.92,1,informational,Housing; Cost of living,Vivienda: alquiler y contratos
+418,"oct 22, 2025 1:54:56 pm",Españoles que realmente se ayudan en Suiza,1018,1,5.39,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+419,"oct 22, 2025 8:20:00 pm",Españoles que realmente se ayudan en Suiza,1972,1,8.57,1,informational,Housing; Health system; Events and culture,Salud: LAMal y sistema sanitario
+420,"oct 23, 2025 12:12:46 pm",Españoles que realmente se ayudan en Suiza,1543,1,7.14,1,informational,Swiss institutions; Cost of living; Swiss politics; Community life,Vida práctica: coste de vida
+421,"oct 23, 2025 8:29:52 pm",Españoles que realmente se ayudan en Suiza,1705,1,7.68,1,informational,Swiss institutions; Immigration and permits; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+422,"oct 24, 2025 1:43:42 pm",Españoles que realmente se ayudan en Suiza,3031,1,12.10,1,informational,Swiss institutions; Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+423,"oct 25, 2025 8:20:00 am",Españoles que realmente se ayudan en Suiza,2731,1,11.10,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+424,"oct 25, 2025 8:40:58 am",EspaÑoles en Ginebra,1016,1,5.39,1,informational,Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+425,"oct 25, 2025 8:25:02 pm",EspaÑoles en Ginebra,1211,1,6.04,1,informational,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+426,"oct 25, 2025 8:25:06 pm",Españoles que realmente se ayudan en Suiza,1211,1,6.04,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+427,"oct 26, 2025 8:05:39 pm",Españoles que realmente se ayudan en Suiza,2507,1,10.36,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland,Trámites: permisos y residencia
+428,"oct 27, 2025 8:28:43 am",Españoles que realmente se ayudan en Suiza,2609,1,10.70,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Health system; Community life,Trámites: permisos y residencia
+429,"oct 27, 2025 1:11:13 pm",Españoles que realmente se ayudan en Suiza,1741,1,7.80,1,informational,Swiss institutions; Working in Switzerland; Swiss politics,"Trabajo: empleo, contratos y derechos"
+430,"oct 27, 2025 8:08:41 pm",Españoles que realmente se ayudan en Suiza,2558,1,10.53,1,informational,Swiss institutions; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+431,"oct 28, 2025 8:24:37 am",Españoles que realmente se ayudan en Suiza,2162,1,9.21,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+432,"oct 28, 2025 1:27:36 pm",Españoles que realmente se ayudan en Suiza,1467,1,6.89,1,informational,Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+433,"oct 28, 2025 7:50:20 pm",EspaÑoles en Ginebra,1574,1,7.25,1,informational,Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+434,"oct 29, 2025 8:41:34 am",Españoles que realmente se ayudan en Suiza,1574,1,7.25,1,informational,Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+435,"oct 29, 2025 2:15:46 pm",Españoles que realmente se ayudan en Suiza,2380,1,9.93,1,informational,Working in Switzerland; Cost of living,Vida práctica: coste de vida
+436,"oct 29, 2025 6:17:39 pm",Españoles que realmente se ayudan en Suiza,914,1,5.05,1,informational,Housing; Community life,Vivienda: alquiler y contratos
+437,"oct 29, 2025 6:17:41 pm",EspaÑoles en Ginebra,914,1,5.05,1,informational,Housing; Community life,Vivienda: alquiler y contratos
+438,"oct 30, 2025 8:44:07 am",Españoles que realmente se ayudan en Suiza,1807,1,8.02,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+439,"nov 01, 2025 6:58:01 am",Españoles que realmente se ayudan en Suiza,4187,1,15.96,1,informational,Swiss institutions; Immigration and permits; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+440,"nov 02, 2025 9:10:12 am",Españoles que realmente se ayudan en Suiza,2560,1,10.53,1,informational,Working in Switzerland; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+441,"nov 02, 2025 9:10:15 am",EspaÑoles en Ginebra,2534,1,10.45,1,informational,Working in Switzerland; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+442,"nov 02, 2025 1:42:06 pm",Españoles que realmente se ayudan en Suiza,1462,1,6.87,1,informational,Swiss politics,Sistema suizo: política y democracia directa
+443,"nov 02, 2025 4:30:13 pm",Españoles que realmente se ayudan en Suiza,3444,1,13.48,1,informational,Working in Switzerland; Cost of living,Vida práctica: coste de vida
+444,"nov 03, 2025 8:54:53 am",Españoles que realmente se ayudan en Suiza,2078,1,8.93,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+445,"nov 03, 2025 9:08:02 am",EspaÑoles en Ginebra,497,1,1.66,0,low-density,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+446,"nov 03, 2025 8:25:02 pm",Españoles que realmente se ayudan en Suiza,1931,1,8.44,1,informational,Working in Switzerland; Swiss politics,"Trabajo: empleo, contratos y derechos"
+447,"nov 04, 2025 7:51:56 am",EspaÑoles en Ginebra,394,1,1.31,0,low-density,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+448,"nov 04, 2025 8:40:23 am",Españoles que realmente se ayudan en Suiza,1441,1,6.80,1,informational,Working in Switzerland; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+449,"nov 04, 2025 7:45:01 pm",Españoles que realmente se ayudan en Suiza,2989,1,11.96,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Community life; Events and culture,Trámites: permisos y residencia
+450,"nov 04, 2025 9:56:07 pm",Españoles que realmente se ayudan en Suiza,1036,0,5.45,1,informational,Working in Switzerland; Housing; Community life,Vivienda: alquiler y contratos
+451,"nov 05, 2025 7:18:12 am",EspaÑoles en Ginebra,381,1,1.27,0,low-density,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+452,"nov 05, 2025 8:36:55 am",Españoles que realmente se ayudan en Suiza,1052,1,5.51,1,informational,Immigration and permits; Working in Switzerland; Housing; Community life,Trámites: permisos y residencia
+453,"nov 05, 2025 1:32:57 pm",Españoles que realmente se ayudan en Suiza,1063,0,5.54,1,informational,Local rules in Geneva; Fraud alerts,Alertas: fraudes y estafas
+454,"nov 05, 2025 8:38:53 pm",Españoles que realmente se ayudan en Suiza,2082,1,8.94,1,informational,Swiss institutions; Working in Switzerland; Housing; Cost of living; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+455,"nov 06, 2025 8:34:14 am",Españoles que realmente se ayudan en Suiza,1439,1,6.80,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland,Trámites: permisos y residencia
+456,"nov 07, 2025 1:25:02 pm",Españoles que realmente se ayudan en Suiza,2389,1,9.96,1,informational,Housing,Vivienda: alquiler y contratos
+457,"nov 07, 2025 8:40:48 pm",Españoles que realmente se ayudan en Suiza,1365,1,6.55,1,informational,Immigration and permits; Swiss politics,Trámites: permisos y residencia
+458,"nov 08, 2025 8:46:51 am",Españoles que realmente se ayudan en Suiza,854,1,4.85,1,informational,Swiss politics,Sistema suizo: política y democracia directa
+459,"nov 08, 2025 9:10:01 am",EspaÑoles en Ginebra,387,1,1.29,0,low-density,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+460,"nov 08, 2025 1:53:41 pm",Españoles que realmente se ayudan en Suiza,1105,0,5.68,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+461,"nov 09, 2025 8:40:01 am",Españoles que realmente se ayudan en Suiza,4940,1,18.47,1,informational,Working in Switzerland; Housing; Health system; Community life; Events and culture,Salud: LAMal y sistema sanitario
+462,"nov 09, 2025 1:54:30 pm",Españoles que realmente se ayudan en Suiza,2010,1,8.70,1,informational,Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+463,"nov 09, 2025 8:20:18 pm",Españoles que realmente se ayudan en Suiza,1807,1,8.02,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+464,"nov 09, 2025 8:32:08 pm",EspaÑoles en Ginebra,612,1,4.04,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+465,"nov 10, 2025 8:40:02 am",Españoles que realmente se ayudan en Suiza,1896,1,8.32,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+466,"nov 10, 2025 1:28:01 pm",EspaÑoles en Ginebra,391,1,1.30,0,low-density,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+467,"nov 10, 2025 1:40:01 pm",Españoles que realmente se ayudan en Suiza,2003,1,8.68,1,informational,Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+468,"nov 10, 2025 5:58:02 pm",Españoles que realmente se ayudan en Suiza,214,0,0.71,0,low-density,Community life,Comunidad: vida del grupo
+469,"nov 10, 2025 6:44:14 pm",Españoles que realmente se ayudan en Suiza,1067,1,5.56,1,informational,Immigration and permits; Working in Switzerland; Swiss politics,Trámites: permisos y residencia
+470,"nov 10, 2025 8:35:02 pm",EspaÑoles en Ginebra,886,1,4.95,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+471,"nov 10, 2025 8:35:04 pm",Españoles que realmente se ayudan en Suiza,2027,1,8.76,1,informational,Housing; Health system,Salud: LAMal y sistema sanitario
+472,"nov 11, 2025 8:40:01 am",Españoles que realmente se ayudan en Suiza,1684,1,7.61,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+473,"nov 11, 2025 1:35:02 pm",Españoles que realmente se ayudan en Suiza,2637,1,10.79,1,informational,Working in Switzerland; Community life,"Trabajo: empleo, contratos y derechos"
+474,"nov 11, 2025 4:14:18 pm",EspaÑoles en Ginebra,15,1,0.05,0,low-density,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+475,"nov 11, 2025 8:35:14 pm",Españoles que realmente se ayudan en Suiza,1097,1,5.66,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+476,"nov 12, 2025 8:22:29 am",EspaÑoles en Ginebra,646,1,4.15,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+477,"nov 12, 2025 8:38:49 am",Españoles que realmente se ayudan en Suiza,1362,1,6.54,1,informational,Swiss institutions; Working in Switzerland; Cost of living; Health system,Salud: LAMal y sistema sanitario
+478,"nov 12, 2025 1:37:55 pm",Españoles que realmente se ayudan en Suiza,907,1,5.02,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+479,"nov 13, 2025 8:25:01 am",Españoles que realmente se ayudan en Suiza,4681,1,17.60,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+480,"nov 13, 2025 1:34:52 pm",Españoles que realmente se ayudan en Suiza,1234,1,6.11,1,informational,Swiss institutions; Immigration and permits,Trámites: permisos y residencia
+481,"nov 13, 2025 8:25:01 pm",Españoles que realmente se ayudan en Suiza,3199,1,12.66,1,informational,Immigration and permits; Working in Switzerland; Housing; Cost of living; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+482,"nov 14, 2025 6:02:27 am",Españoles que realmente se ayudan en Suiza,1062,1,5.54,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+483,"nov 14, 2025 9:13:33 pm",Españoles que realmente se ayudan en Suiza,1867,1,8.22,1,informational,Swiss institutions; Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+484,"nov 15, 2025 7:36:46 am",EspaÑoles en Ginebra,359,1,1.20,0,low-density,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+485,"nov 15, 2025 7:50:11 am",EspaÑoles en Ginebra,523,1,1.74,0,low-density,Health system; Events and culture,Salud: LAMal y sistema sanitario
+486,"nov 15, 2025 8:43:10 am",Españoles que realmente se ayudan en Suiza,2081,1,8.94,1,informational,Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+487,"nov 15, 2025 8:35:01 pm",Españoles que realmente se ayudan en Suiza,2543,1,10.48,1,informational,Swiss institutions; Working in Switzerland; Health system; Swiss politics; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+488,"nov 16, 2025 8:44:59 am",Españoles que realmente se ayudan en Suiza,1704,1,7.68,1,informational,Swiss institutions; Swiss politics; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+489,"nov 16, 2025 9:10:26 am",EspaÑoles en Ginebra,1802,1,8.01,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+490,"nov 16, 2025 8:35:01 pm",Españoles que realmente se ayudan en Suiza,2574,1,10.58,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+491,"nov 17, 2025 6:37:24 am",Españoles que realmente se ayudan en Suiza,1045,1,5.48,1,informational,Working in Switzerland; Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+492,"nov 18, 2025 8:22:59 am",Españoles que realmente se ayudan en Suiza,1146,1,5.82,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+493,"nov 20, 2025 1:11:51 pm",Españoles que realmente se ayudan en Suiza,3404,1,13.35,1,informational,Working in Switzerland; Housing; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+494,"nov 21, 2025 8:40:01 am",Españoles que realmente se ayudan en Suiza,4318,1,16.39,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Cost of living; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+495,"nov 21, 2025 12:38:23 pm",Españoles que realmente se ayudan en Suiza,1744,0,7.81,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+496,"nov 21, 2025 11:56:46 pm",EspaÑoles en Ginebra,19,1,0.06,0,low-density,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+497,"nov 22, 2025 1:49:42 pm",Españoles que realmente se ayudan en Suiza,1908,1,8.36,1,informational,Working in Switzerland; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+498,"nov 23, 2025 8:41:28 am",Españoles que realmente se ayudan en Suiza,1447,1,6.82,1,informational,Swiss institutions; Community life,Comunidad: vida del grupo
+499,"nov 23, 2025 8:38:15 pm",Españoles que realmente se ayudan en Suiza,2025,1,8.75,1,informational,Swiss institutions; Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+500,"nov 24, 2025 8:27:18 pm",Españoles que realmente se ayudan en Suiza,2360,1,9.87,1,informational,Housing; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+501,"nov 25, 2025 8:41:46 am",Españoles que realmente se ayudan en Suiza,1696,1,7.65,1,informational,Working in Switzerland; Community life,"Trabajo: empleo, contratos y derechos"
+502,"nov 25, 2025 9:35:24 am",EspaÑoles en Ginebra,925,0,5.08,1,informational,Swiss institutions; Working in Switzerland; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+503,"nov 25, 2025 8:29:16 pm",Españoles que realmente se ayudan en Suiza,2873,1,11.58,1,informational,Working in Switzerland; Housing; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+504,"nov 26, 2025 8:19:38 pm",Españoles que realmente se ayudan en Suiza,2020,1,8.73,1,informational,Working in Switzerland; Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+505,"nov 28, 2025 8:14:19 am",Españoles que realmente se ayudan en Suiza,1373,1,6.58,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing,Trámites: permisos y residencia
+506,"nov 29, 2025 7:49:41 am",Españoles que realmente se ayudan en Suiza,1930,0,8.43,1,informational,Swiss institutions; Fraud alerts,Alertas: fraudes y estafas
+507,"nov 29, 2025 1:35:21 pm",Españoles que realmente se ayudan en Suiza,1909,1,8.36,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+508,"nov 29, 2025 8:24:09 pm",Españoles que realmente se ayudan en Suiza,2953,1,11.84,1,informational,Immigration and permits; Working in Switzerland; Health system; Community life,Trámites: permisos y residencia
+509,"déc 02, 2025 2:59:34 am",EspaÑoles en Ginebra,25,1,0.08,0,low-density,(unclassified),Miscelánea (EspaÑoles en Ginebra)
+510,"déc 06, 2025 10:11:27 am",Españoles que realmente se ayudan en Suiza,15,1,0.05,0,low-density,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+511,"déc 06, 2025 3:05:08 pm",Españoles que realmente se ayudan en Suiza,704,0,4.35,1,informational,Community life,Comunidad: vida del grupo
+512,"déc 06, 2025 8:28:40 pm",Españoles que realmente se ayudan en Suiza,3421,1,13.40,1,informational,Swiss institutions; Immigration and permits; Swiss politics; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+513,"déc 08, 2025 8:35:55 pm",Españoles que realmente se ayudan en Suiza,2204,1,9.35,1,informational,Working in Switzerland; Health system,Salud: LAMal y sistema sanitario
+514,"déc 09, 2025 1:27:13 pm",Españoles que realmente se ayudan en Suiza,980,1,5.27,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+515,"déc 09, 2025 8:05:10 pm",Españoles que realmente se ayudan en Suiza,1455,1,6.85,1,informational,Immigration and permits; Working in Switzerland,Trámites: permisos y residencia
+516,"déc 11, 2025 8:22:12 am",Españoles que realmente se ayudan en Suiza,2135,1,9.12,1,informational,Events and culture,Vida local: eventos y cultura
+517,"déc 11, 2025 1:35:58 pm",Españoles que realmente se ayudan en Suiza,1681,1,7.60,1,informational,Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+518,"déc 11, 2025 8:36:00 pm",Españoles que realmente se ayudan en Suiza,2007,1,8.69,1,informational,Health system; Local rules in Geneva; Fraud alerts; Community life,Alertas: fraudes y estafas
+519,"déc 12, 2025 8:36:00 am",Españoles que realmente se ayudan en Suiza,2583,1,10.61,1,informational,Swiss institutions; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+520,"déc 12, 2025 12:20:28 pm",EspaÑoles en Ginebra,2637,1,10.79,1,informational,Swiss institutions; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+521,"déc 12, 2025 1:38:36 pm",Españoles que realmente se ayudan en Suiza,2130,1,9.10,1,informational,Community life,Comunidad: vida del grupo
+522,"déc 12, 2025 8:28:29 pm",Españoles que realmente se ayudan en Suiza,1152,1,5.84,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+523,"déc 13, 2025 8:27:23 am",Españoles que realmente se ayudan en Suiza,1939,1,8.46,1,informational,Swiss institutions,Miscelánea (Españoles que realmente se ayudan en Suiza)
+524,"déc 15, 2025 8:23:10 am",Españoles que realmente se ayudan en Suiza,1798,1,7.99,1,informational,Working in Switzerland; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+525,"déc 16, 2025 8:26:12 am",Españoles que realmente se ayudan en Suiza,1320,1,6.40,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+526,"déc 16, 2025 1:37:49 pm",Españoles que realmente se ayudan en Suiza,2013,1,8.71,1,informational,Swiss institutions,Miscelánea (Españoles que realmente se ayudan en Suiza)
+527,"déc 16, 2025 7:52:32 pm",Españoles que realmente se ayudan en Suiza,1972,1,8.57,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+528,"déc 17, 2025 8:21:52 am",Españoles que realmente se ayudan en Suiza,1699,1,7.66,1,informational,Working in Switzerland; Swiss politics,"Trabajo: empleo, contratos y derechos"
+529,"déc 17, 2025 7:30:01 pm",Españoles que realmente se ayudan en Suiza,1152,0,5.84,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+530,"déc 17, 2025 8:35:51 pm",Españoles que realmente se ayudan en Suiza,1275,1,6.25,1,informational,Swiss politics,Sistema suizo: política y democracia directa
+531,"déc 18, 2025 7:12:42 am",Españoles que realmente se ayudan en Suiza,2117,1,9.06,1,informational,Health system; Fraud alerts,Alertas: fraudes y estafas
+532,"déc 18, 2025 12:54:33 pm",Españoles que realmente se ayudan en Suiza,1455,1,6.85,1,informational,Cost of living; Fraud alerts; Community life,Alertas: fraudes y estafas
+533,"déc 18, 2025 8:19:43 pm",Españoles que realmente se ayudan en Suiza,1643,1,7.48,1,informational,Working in Switzerland; Health system,Salud: LAMal y sistema sanitario
+534,"déc 19, 2025 8:07:49 am",Españoles que realmente se ayudan en Suiza,1515,1,7.05,1,informational,Swiss institutions; Working in Switzerland; Housing; Health system; Fraud alerts; Community life,Alertas: fraudes y estafas
+535,"déc 19, 2025 11:05:44 am",Españoles que realmente se ayudan en Suiza,13,1,0.04,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+536,"déc 19, 2025 8:23:00 pm",Españoles que realmente se ayudan en Suiza,1363,1,6.54,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland,Trámites: permisos y residencia
+537,"déc 20, 2025 1:26:04 pm",Españoles que realmente se ayudan en Suiza,1531,1,7.10,1,informational,Working in Switzerland; Housing,Vivienda: alquiler y contratos
+538,"déc 21, 2025 8:16:28 am",Españoles que realmente se ayudan en Suiza,1592,1,7.31,1,informational,Swiss institutions; Health system; Community life,Salud: LAMal y sistema sanitario
+539,"déc 21, 2025 1:37:02 pm",Españoles que realmente se ayudan en Suiza,3399,1,13.33,1,informational,Swiss institutions; Housing; Community life,Vivienda: alquiler y contratos
+540,"déc 21, 2025 8:17:09 pm",Españoles que realmente se ayudan en Suiza,2135,1,9.12,1,informational,Swiss institutions; Health system,Salud: LAMal y sistema sanitario
+541,"déc 22, 2025 8:26:05 am",Españoles que realmente se ayudan en Suiza,2533,1,10.44,1,informational,Cost of living; Fraud alerts; Community life,Alertas: fraudes y estafas
+542,"déc 22, 2025 1:26:41 pm",Españoles que realmente se ayudan en Suiza,1821,1,8.07,1,informational,Cost of living; Health system,Salud: LAMal y sistema sanitario
+543,"déc 22, 2025 8:34:58 pm",Españoles que realmente se ayudan en Suiza,2340,1,9.80,1,informational,Working in Switzerland; Cost of living,Vida práctica: coste de vida
+544,"déc 23, 2025 8:49:41 am",Españoles que realmente se ayudan en Suiza,2782,1,11.27,1,informational,Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+545,"déc 23, 2025 1:27:36 pm",Españoles que realmente se ayudan en Suiza,2098,1,8.99,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Events and culture,Trámites: permisos y residencia
+546,"déc 23, 2025 8:25:05 pm",Españoles que realmente se ayudan en Suiza,3681,1,14.27,1,informational,Working in Switzerland; Housing; Community life,Vivienda: alquiler y contratos
+547,"déc 24, 2025 8:25:43 am",Españoles que realmente se ayudan en Suiza,743,1,4.48,1,informational,Cost of living,Vida práctica: coste de vida
+548,"déc 24, 2025 1:25:07 pm",Españoles que realmente se ayudan en Suiza,1563,1,7.21,1,informational,Working in Switzerland; Health system,Salud: LAMal y sistema sanitario
+549,"déc 25, 2025 8:05:02 am",Españoles que realmente se ayudan en Suiza,2249,1,9.50,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+550,"déc 25, 2025 1:30:02 pm",Españoles que realmente se ayudan en Suiza,2038,1,8.79,1,informational,Working in Switzerland; Health system; Community life,Salud: LAMal y sistema sanitario
+551,"déc 25, 2025 8:40:01 pm",Españoles que realmente se ayudan en Suiza,2289,1,9.63,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+552,"déc 26, 2025 8:25:02 am",Españoles que realmente se ayudan en Suiza,1829,1,8.10,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Fraud alerts,Alertas: fraudes y estafas
+553,"déc 26, 2025 1:25:02 pm",Españoles que realmente se ayudan en Suiza,3397,1,13.32,1,informational,Swiss institutions; Working in Switzerland; Cost of living; Health system,Salud: LAMal y sistema sanitario
+554,"déc 26, 2025 8:33:36 pm",EspaÑoles en Ginebra,2158,1,9.19,1,informational,Swiss institutions; Housing; Cost of living; Swiss politics; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+555,"déc 26, 2025 8:42:20 pm",Españoles que realmente se ayudan en Suiza,2299,1,9.66,1,informational,Health system; Swiss politics; Community life,Salud: LAMal y sistema sanitario
+556,"déc 27, 2025 8:45:01 am",Españoles que realmente se ayudan en Suiza,2826,1,11.42,1,informational,Working in Switzerland; Community life,"Trabajo: empleo, contratos y derechos"
+557,"déc 27, 2025 8:25:01 pm",Españoles que realmente se ayudan en Suiza,1618,1,7.39,1,informational,Swiss institutions; Housing; Health system,Salud: LAMal y sistema sanitario
+558,"déc 28, 2025 8:21:45 am",Españoles que realmente se ayudan en Suiza,1790,1,7.97,1,informational,Working in Switzerland; Community life,"Trabajo: empleo, contratos y derechos"
+559,"déc 28, 2025 1:46:55 pm",Españoles que realmente se ayudan en Suiza,1573,1,7.24,1,informational,Immigration and permits; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+560,"déc 29, 2025 9:00:05 pm",Españoles que realmente se ayudan en Suiza,15,1,0.05,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+561,"jan 01, 2026 11:55:06 am",Españoles que realmente se ayudan en Suiza,1919,1,8.40,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+562,"jan 02, 2026 8:35:59 am",Españoles que realmente se ayudan en Suiza,2194,1,9.31,1,informational,Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+563,"jan 02, 2026 1:35:01 pm",Españoles que realmente se ayudan en Suiza,3007,1,12.02,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Health system,Trámites: permisos y residencia
+564,"jan 02, 2026 8:39:01 pm",Españoles que realmente se ayudan en Suiza,2190,1,9.30,1,informational,Swiss institutions,Miscelánea (Españoles que realmente se ayudan en Suiza)
+565,"jan 03, 2026 8:20:01 am",Españoles que realmente se ayudan en Suiza,1728,1,7.76,1,informational,Swiss institutions; Swiss politics,Sistema suizo: política y democracia directa
+566,"jan 03, 2026 1:45:00 pm",Españoles que realmente se ayudan en Suiza,2943,1,11.81,1,informational,Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+567,"jan 03, 2026 7:55:02 pm",Españoles que realmente se ayudan en Suiza,2217,1,9.39,1,informational,Health system,Salud: LAMal y sistema sanitario
+568,"jan 04, 2026 8:15:01 am",Españoles que realmente se ayudan en Suiza,1541,1,7.14,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+569,"jan 04, 2026 1:35:02 pm",Españoles que realmente se ayudan en Suiza,1921,1,8.40,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+570,"jan 04, 2026 5:10:10 pm",Españoles que realmente se ayudan en Suiza,47,0,0.16,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+571,"jan 04, 2026 8:40:02 pm",Españoles que realmente se ayudan en Suiza,1777,1,7.92,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+572,"jan 05, 2026 8:10:00 am",Españoles que realmente se ayudan en Suiza,2868,1,11.56,1,informational,Working in Switzerland; Housing; Cost of living; Health system; Events and culture,Salud: LAMal y sistema sanitario
+573,"jan 05, 2026 1:24:33 pm",Españoles que realmente se ayudan en Suiza,1635,1,7.45,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+574,"jan 05, 2026 9:03:47 pm",Españoles que realmente se ayudan en Suiza,2189,1,9.30,1,informational,Health system; Events and culture,Salud: LAMal y sistema sanitario
+575,"jan 06, 2026 8:19:14 am",Españoles que realmente se ayudan en Suiza,2686,1,10.95,1,informational,Swiss institutions; Working in Switzerland; Housing; Health system; Swiss politics,Salud: LAMal y sistema sanitario
+576,"jan 06, 2026 1:28:24 pm",Españoles que realmente se ayudan en Suiza,2034,1,8.78,1,informational,Cost of living; Health system; Community life; Events and culture,Salud: LAMal y sistema sanitario
+577,"jan 06, 2026 7:57:53 pm",Españoles que realmente se ayudan en Suiza,1649,1,7.50,1,informational,Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+578,"jan 07, 2026 8:19:50 am",Españoles que realmente se ayudan en Suiza,2463,1,10.21,1,informational,Working in Switzerland; Health system,Salud: LAMal y sistema sanitario
+579,"jan 07, 2026 1:28:27 pm",Españoles que realmente se ayudan en Suiza,2132,1,9.11,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+580,"jan 07, 2026 5:06:16 pm",Españoles que realmente se ayudan en Suiza,2416,1,10.05,1,informational,Immigration and permits; Working in Switzerland; Community life,Trámites: permisos y residencia
+581,"jan 07, 2026 7:00:47 pm",Españoles que realmente se ayudan en Suiza,117,0,0.39,0,low-density,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+582,"jan 07, 2026 8:20:59 pm",Españoles que realmente se ayudan en Suiza,2586,1,10.62,1,informational,Swiss institutions; Events and culture,Vida local: eventos y cultura
+583,"jan 08, 2026 8:29:39 am",Españoles que realmente se ayudan en Suiza,1628,1,7.43,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+584,"jan 08, 2026 1:22:41 pm",Españoles que realmente se ayudan en Suiza,2099,1,9.00,1,informational,Working in Switzerland; Health system; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+585,"jan 08, 2026 7:59:13 pm",Españoles que realmente se ayudan en Suiza,1722,1,7.74,1,informational,Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+586,"jan 09, 2026 8:20:22 am",Españoles que realmente se ayudan en Suiza,1581,1,7.27,1,informational,Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+587,"jan 09, 2026 11:11:09 am",Españoles que realmente se ayudan en Suiza,50,0,0.17,0,low-density,Fraud alerts,Alertas: fraudes y estafas
+588,"jan 09, 2026 8:19:09 pm",Españoles que realmente se ayudan en Suiza,1783,1,7.94,1,informational,Swiss institutions; Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+589,"jan 10, 2026 8:14:35 am",Españoles que realmente se ayudan en Suiza,2256,1,9.52,1,informational,Working in Switzerland; Health system,Salud: LAMal y sistema sanitario
+590,"jan 10, 2026 12:08:47 pm",Españoles que realmente se ayudan en Suiza,1731,1,7.77,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+591,"jan 10, 2026 3:50:04 pm",Españoles que realmente se ayudan en Suiza,1983,1,8.61,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+592,"jan 10, 2026 8:23:26 pm",Españoles que realmente se ayudan en Suiza,1611,1,7.37,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+593,"jan 11, 2026 8:35:30 am",Españoles que realmente se ayudan en Suiza,1215,1,6.05,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+594,"jan 11, 2026 1:35:41 pm",Españoles que realmente se ayudan en Suiza,1412,1,6.71,1,informational,Working in Switzerland; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+595,"jan 11, 2026 1:39:55 pm",Españoles que realmente se ayudan en Suiza,2021,1,8.74,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+596,"jan 11, 2026 4:19:38 pm",Españoles que realmente se ayudan en Suiza,2182,1,9.27,1,informational,Cost of living; Health system; Community life,Salud: LAMal y sistema sanitario
+597,"jan 12, 2026 8:12:07 am",Españoles que realmente se ayudan en Suiza,1585,1,7.28,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+598,"jan 12, 2026 8:20:26 pm",Españoles que realmente se ayudan en Suiza,1610,1,7.37,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+599,"jan 13, 2026 6:53:56 am",Españoles que realmente se ayudan en Suiza,72,0,2.24,0,low-density,Immigration and permits,Trámites: permisos y residencia
+600,"jan 13, 2026 8:10:02 am",Españoles que realmente se ayudan en Suiza,2312,1,9.71,1,informational,Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+601,"jan 13, 2026 1:25:01 pm",Españoles que realmente se ayudan en Suiza,2082,1,8.94,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+602,"jan 13, 2026 7:40:02 pm",Españoles que realmente se ayudan en Suiza,4719,1,17.73,1,informational,Swiss institutions; Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+603,"jan 14, 2026 8:17:02 am",Españoles que realmente se ayudan en Suiza,2079,1,8.93,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+604,"jan 14, 2026 1:25:01 pm",Españoles que realmente se ayudan en Suiza,2160,1,9.20,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+605,"jan 14, 2026 7:50:02 pm",Españoles que realmente se ayudan en Suiza,4302,1,16.34,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+606,"jan 15, 2026 8:21:45 am",Españoles que realmente se ayudan en Suiza,2360,1,9.87,1,informational,Working in Switzerland; Housing; Health system; Events and culture,Salud: LAMal y sistema sanitario
+607,"jan 15, 2026 1:17:01 pm",Españoles que realmente se ayudan en Suiza,3549,1,13.83,1,informational,Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+608,"jan 15, 2026 8:17:01 pm",Españoles que realmente se ayudan en Suiza,3313,1,13.04,1,informational,Working in Switzerland; Housing; Health system,Salud: LAMal y sistema sanitario
+609,"jan 16, 2026 1:20:00 pm",Españoles que realmente se ayudan en Suiza,3876,1,14.92,1,informational,Immigration and permits; Working in Switzerland; Community life,Trámites: permisos y residencia
+610,"jan 16, 2026 8:15:00 pm",Españoles que realmente se ayudan en Suiza,2456,1,10.19,1,informational,Swiss institutions; Swiss politics; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+611,"jan 17, 2026 8:14:45 am",Españoles que realmente se ayudan en Suiza,2911,1,11.70,1,informational,Swiss institutions; Working in Switzerland; Housing; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+612,"jan 17, 2026 1:25:52 pm",Españoles que realmente se ayudan en Suiza,2192,1,9.31,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+613,"jan 17, 2026 7:37:35 pm",Españoles que realmente se ayudan en Suiza,1586,1,7.29,1,informational,Swiss institutions; Working in Switzerland; Health system; Community life,Salud: LAMal y sistema sanitario
+614,"jan 18, 2026 8:21:03 am",Españoles que realmente se ayudan en Suiza,2089,1,8.96,1,informational,Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+615,"jan 18, 2026 8:55:32 am",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+616,"jan 18, 2026 8:55:32 am",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+617,"jan 18, 2026 10:39:10 am",Españoles que realmente se ayudan en Suiza,3667,1,14.22,1,informational,Swiss institutions; Immigration and permits; Housing; Health system; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+618,"jan 18, 2026 1:32:55 pm",Españoles que realmente se ayudan en Suiza,3178,1,12.59,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+619,"jan 18, 2026 4:15:02 pm",Españoles que realmente se ayudan en Suiza,1279,1,6.26,1,informational,Swiss institutions,Miscelánea (Españoles que realmente se ayudan en Suiza)
+620,"jan 18, 2026 8:37:07 pm",Españoles que realmente se ayudan en Suiza,1298,1,6.33,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+621,"jan 19, 2026 8:23:01 am",Españoles que realmente se ayudan en Suiza,2411,1,10.04,1,informational,Community life,Comunidad: vida del grupo
+622,"jan 19, 2026 1:15:01 pm",Españoles que realmente se ayudan en Suiza,1885,1,8.28,1,informational,Immigration and permits; Working in Switzerland; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+623,"jan 19, 2026 4:58:43 pm",Españoles que realmente se ayudan en Suiza,2090,1,8.97,1,informational,Swiss institutions; Housing,Vivienda: alquiler y contratos
+624,"jan 19, 2026 8:20:01 pm",Españoles que realmente se ayudan en Suiza,1956,1,8.52,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Housing; Health system,Trámites: permisos y residencia
+625,"jan 20, 2026 8:17:50 am",Españoles que realmente se ayudan en Suiza,1659,1,7.53,1,informational,Events and culture,Vida local: eventos y cultura
+626,"jan 20, 2026 1:23:06 pm",Españoles que realmente se ayudan en Suiza,1818,1,8.06,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+627,"jan 20, 2026 8:20:01 pm",Españoles que realmente se ayudan en Suiza,2172,1,9.24,1,informational,Working in Switzerland; Community life,"Trabajo: empleo, contratos y derechos"
+628,"jan 21, 2026 8:17:44 am",Españoles que realmente se ayudan en Suiza,1843,1,8.14,1,informational,Swiss institutions; Housing; Community life,Vivienda: alquiler y contratos
+629,"jan 21, 2026 1:14:47 pm",Españoles que realmente se ayudan en Suiza,2236,1,9.45,1,informational,Housing,Vivienda: alquiler y contratos
+630,"jan 21, 2026 8:37:14 pm",Españoles que realmente se ayudan en Suiza,1827,1,8.09,1,informational,Working in Switzerland; Housing; Health system,Salud: LAMal y sistema sanitario
+631,"jan 22, 2026 8:25:02 am",Españoles que realmente se ayudan en Suiza,1563,1,7.21,1,informational,Swiss institutions; Health system; Swiss politics; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+632,"jan 22, 2026 1:17:43 pm",Españoles que realmente se ayudan en Suiza,2208,1,9.36,1,informational,Swiss institutions; Working in Switzerland; Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+633,"jan 22, 2026 8:26:55 pm",Españoles que realmente se ayudan en Suiza,3521,1,13.74,1,informational,Immigration and permits; Working in Switzerland; Housing; Cost of living,Trámites: permisos y residencia
+634,"jan 23, 2026 8:22:26 am",Españoles que realmente se ayudan en Suiza,2516,1,10.39,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+635,"jan 23, 2026 1:07:13 pm",Españoles que realmente se ayudan en Suiza,1242,1,6.14,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+636,"jan 24, 2026 8:40:16 am",Españoles que realmente se ayudan en Suiza,2871,1,11.57,1,informational,Swiss institutions; Immigration and permits; Housing; Cost of living; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+637,"jan 24, 2026 10:25:38 am",Españoles que realmente se ayudan en Suiza,1587,1,7.29,1,informational,Community life,Comunidad: vida del grupo
+638,"jan 24, 2026 11:44:02 am",Españoles que realmente se ayudan en Suiza,79,1,0.26,0,short-link,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+639,"jan 24, 2026 1:21:29 pm",Españoles que realmente se ayudan en Suiza,2095,1,8.98,1,informational,Working in Switzerland; Events and culture,"Trabajo: empleo, contratos y derechos"
+640,"jan 24, 2026 5:08:40 pm",Españoles que realmente se ayudan en Suiza,33,0,0.11,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+641,"jan 25, 2026 8:45:01 am",Españoles que realmente se ayudan en Suiza,2295,1,9.65,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland,Trámites: permisos y residencia
+642,"jan 25, 2026 1:50:02 pm",Españoles que realmente se ayudan en Suiza,1383,1,6.61,1,informational,Immigration and permits; Working in Switzerland; Housing; Community life,Trámites: permisos y residencia
+643,"jan 25, 2026 8:45:07 pm",Españoles que realmente se ayudan en Suiza,1024,1,5.41,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+644,"jan 26, 2026 8:21:50 am",Españoles que realmente se ayudan en Suiza,2972,1,11.91,1,informational,Swiss institutions; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+645,"jan 26, 2026 1:22:56 pm",Españoles que realmente se ayudan en Suiza,824,0,4.75,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+646,"jan 26, 2026 8:10:01 pm",Españoles que realmente se ayudan en Suiza,4378,1,16.59,1,informational,Swiss institutions; Working in Switzerland; Housing,Vivienda: alquiler y contratos
+647,"jan 27, 2026 8:20:33 am",Españoles que realmente se ayudan en Suiza,1450,1,6.83,1,informational,Cost of living,Vida práctica: coste de vida
+648,"jan 27, 2026 1:13:15 pm",Españoles que realmente se ayudan en Suiza,737,1,4.46,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+649,"jan 27, 2026 3:55:58 pm",Españoles que realmente se ayudan en Suiza,49,0,0.16,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+650,"jan 27, 2026 8:10:01 pm",Españoles que realmente se ayudan en Suiza,1934,1,8.45,1,informational,Swiss institutions; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+651,"jan 28, 2026 8:12:58 am",Españoles que realmente se ayudan en Suiza,1764,1,7.88,1,informational,Health system,Salud: LAMal y sistema sanitario
+652,"jan 28, 2026 4:13:20 pm",EspaÑoles en Ginebra,1106,0,5.69,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+653,"jan 28, 2026 8:15:01 pm",Españoles que realmente se ayudan en Suiza,2924,1,11.75,1,informational,Working in Switzerland; Housing,Vivienda: alquiler y contratos
+654,"jan 29, 2026 8:13:03 am",Españoles que realmente se ayudan en Suiza,1874,1,8.25,1,informational,Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+655,"jan 29, 2026 1:15:02 pm",Españoles que realmente se ayudan en Suiza,1958,1,8.53,1,informational,Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+656,"jan 29, 2026 8:15:02 pm",Españoles que realmente se ayudan en Suiza,2855,1,11.52,1,informational,Working in Switzerland; Health system,Salud: LAMal y sistema sanitario
+657,"jan 31, 2026 8:12:02 am",Españoles que realmente se ayudan en Suiza,1878,1,8.26,1,informational,Immigration and permits; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+658,"jan 31, 2026 1:23:22 pm",Españoles que realmente se ayudan en Suiza,2480,1,10.27,1,informational,Housing; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+659,"jan 31, 2026 8:24:03 pm",Españoles que realmente se ayudan en Suiza,3064,1,12.21,1,informational,Immigration and permits; Working in Switzerland; Housing,Trámites: permisos y residencia
+660,"fév 01, 2026 8:23:18 am",Españoles que realmente se ayudan en Suiza,1688,1,7.63,1,informational,Swiss institutions; Working in Switzerland; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+661,"fév 01, 2026 10:02:04 am",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+662,"fév 01, 2026 10:02:04 am",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+663,"fév 01, 2026 10:02:04 am",Españoles que realmente se ayudan en Suiza,1009,1,5.36,1,informational,Working in Switzerland; Housing; Local rules in Geneva; Fraud alerts; Community life,Alertas: fraudes y estafas
+664,"fév 01, 2026 10:02:04 am",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+665,"fév 01, 2026 10:02:04 am",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+666,"fév 01, 2026 10:02:04 am",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+667,"fév 01, 2026 10:02:04 am",Españoles que realmente se ayudan en Suiza,23,0,0.08,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+668,"fév 01, 2026 10:02:04 am",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+669,"fév 01, 2026 1:36:13 pm",Españoles que realmente se ayudan en Suiza,2186,1,9.29,1,informational,Working in Switzerland; Housing; Community life,Vivienda: alquiler y contratos
+670,"fév 02, 2026 8:12:38 am",Españoles que realmente se ayudan en Suiza,1202,1,6.01,1,informational,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+671,"fév 03, 2026 8:05:01 pm",Españoles que realmente se ayudan en Suiza,1980,1,8.60,1,informational,Swiss institutions; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+672,"fév 04, 2026 8:15:03 am",Españoles que realmente se ayudan en Suiza,3977,1,15.26,1,informational,Swiss institutions; Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+673,"fév 04, 2026 1:19:50 pm",Españoles que realmente se ayudan en Suiza,2631,1,10.77,1,informational,Immigration and permits; Working in Switzerland; Health system,Trámites: permisos y residencia
+674,"fév 05, 2026 8:14:50 am",Españoles que realmente se ayudan en Suiza,1580,1,7.27,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+675,"fév 05, 2026 11:01:23 am",EspaÑoles en Ginebra,1580,1,7.27,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+676,"fév 05, 2026 1:19:35 pm",Españoles que realmente se ayudan en Suiza,2219,1,9.40,1,informational,Working in Switzerland; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+677,"fév 05, 2026 8:17:12 pm",Españoles que realmente se ayudan en Suiza,2438,0,10.13,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+678,"fév 06, 2026 8:15:02 am",Españoles que realmente se ayudan en Suiza,2033,1,8.78,1,informational,Swiss politics,Sistema suizo: política y democracia directa
+679,"fév 06, 2026 1:15:02 pm",Españoles que realmente se ayudan en Suiza,2777,1,11.26,1,informational,Working in Switzerland; Housing; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+680,"fév 06, 2026 8:10:03 pm",Españoles que realmente se ayudan en Suiza,1813,1,8.04,1,informational,Working in Switzerland; Community life,"Trabajo: empleo, contratos y derechos"
+681,"fév 07, 2026 8:50:03 am",Españoles que realmente se ayudan en Suiza,1595,1,7.32,1,informational,Cost of living; Swiss politics; Events and culture,Vida práctica: coste de vida
+682,"fév 07, 2026 1:28:26 pm",Españoles que realmente se ayudan en Suiza,1768,1,7.89,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+683,"fév 07, 2026 8:19:29 pm",Españoles que realmente se ayudan en Suiza,1827,1,8.09,1,informational,Events and culture,Vida local: eventos y cultura
+684,"fév 08, 2026 8:12:40 am",Españoles que realmente se ayudan en Suiza,1742,1,7.81,1,informational,Working in Switzerland,"Trabajo: empleo, contratos y derechos"
+685,"fév 08, 2026 1:40:02 pm",Españoles que realmente se ayudan en Suiza,1778,1,7.93,1,informational,Cost of living; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+686,"fév 09, 2026 8:25:42 am",Españoles que realmente se ayudan en Suiza,1627,1,7.42,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+687,"fév 09, 2026 1:08:35 pm",Españoles que realmente se ayudan en Suiza,2288,1,9.63,1,informational,Working in Switzerland; Fraud alerts,Alertas: fraudes y estafas
+688,"fév 09, 2026 8:46:23 pm",Españoles que realmente se ayudan en Suiza,1274,1,6.25,1,informational,Immigration and permits; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+689,"fév 10, 2026 8:15:56 am",Españoles que realmente se ayudan en Suiza,1530,1,7.10,1,informational,Working in Switzerland; Events and culture,"Trabajo: empleo, contratos y derechos"
+690,"fév 10, 2026 10:49:26 am",EspaÑoles en Ginebra,104,1,0.35,0,short-link,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+691,"fév 10, 2026 10:50:01 am",Españoles que realmente se ayudan en Suiza,104,1,0.35,0,short-link,Local rules in Geneva,Vida local: Ginebra (normas y multas)
+692,"fév 10, 2026 1:32:10 pm",Españoles que realmente se ayudan en Suiza,2170,1,9.23,1,informational,Swiss institutions; Working in Switzerland; Health system; Community life,Salud: LAMal y sistema sanitario
+693,"fév 10, 2026 8:22:34 pm",Españoles que realmente se ayudan en Suiza,2588,1,10.63,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+694,"fév 10, 2026 9:30:40 pm",Españoles que realmente se ayudan en Suiza,17,1,0.06,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+695,"fév 11, 2026 8:15:01 am",Españoles que realmente se ayudan en Suiza,2040,1,8.80,1,informational,Housing; Cost of living; Health system; Fraud alerts,Alertas: fraudes y estafas
+696,"fév 11, 2026 1:27:00 pm",Españoles que realmente se ayudan en Suiza,2009,1,8.70,1,informational,Swiss institutions; Working in Switzerland; Cost of living; Health system; Events and culture,Salud: LAMal y sistema sanitario
+697,"fév 11, 2026 8:15:57 pm",Españoles que realmente se ayudan en Suiza,2368,1,9.89,1,informational,Immigration and permits; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+698,"fév 12, 2026 8:15:00 am",Españoles que realmente se ayudan en Suiza,2105,1,9.02,1,informational,Cost of living; Health system; Local rules in Geneva; Community life; Events and culture,Vida local: Ginebra (normas y multas)
+699,"fév 12, 2026 12:39:13 pm",Españoles que realmente se ayudan en Suiza,2394,1,9.98,1,informational,Working in Switzerland; Housing; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+700,"fév 12, 2026 8:11:38 pm",Españoles que realmente se ayudan en Suiza,3406,1,13.35,1,informational,Immigration and permits; Working in Switzerland; Housing; Health system; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+701,"fév 13, 2026 1:25:01 pm",Españoles que realmente se ayudan en Suiza,2660,1,10.87,1,informational,Swiss institutions; Working in Switzerland; Housing; Cost of living; Health system; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+702,"fév 17, 2026 8:10:01 am",Españoles que realmente se ayudan en Suiza,1326,0,6.42,1,informational,Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+703,"fév 19, 2026 12:14:38 pm",Españoles que realmente se ayudan en Suiza,1487,1,6.96,1,informational,Health system; Swiss politics,Salud: LAMal y sistema sanitario
+704,"fév 27, 2026 8:10:01 am",Españoles que realmente se ayudan en Suiza,1568,1,7.23,1,informational,Swiss institutions; Immigration and permits; Fraud alerts,Alertas: fraudes y estafas
+705,"fév 27, 2026 1:20:02 pm",Españoles que realmente se ayudan en Suiza,2813,1,11.38,1,informational,Immigration and permits; Working in Switzerland; Health system; Community life,Trámites: permisos y residencia
+706,"fév 28, 2026 8:25:02 am",Españoles que realmente se ayudan en Suiza,2651,1,10.84,1,informational,Working in Switzerland; Housing; Cost of living; Swiss politics; Local rules in Geneva; Events and culture,Vida local: Ginebra (normas y multas)
+707,"fév 28, 2026 1:38:27 pm",Españoles que realmente se ayudan en Suiza,3056,1,12.19,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland,Trámites: permisos y residencia
+708,"fév 28, 2026 8:22:09 pm",Españoles que realmente se ayudan en Suiza,1677,1,7.59,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+709,"mar 01, 2026 8:53:13 am",Españoles que realmente se ayudan en Suiza,4013,1,15.38,1,informational,Working in Switzerland; Local rules in Geneva; Community life,Vida local: Ginebra (normas y multas)
+710,"mar 01, 2026 1:38:59 pm",Españoles que realmente se ayudan en Suiza,2377,1,9.92,1,informational,Cost of living; Swiss politics; Events and culture,Vida práctica: coste de vida
+711,"mar 02, 2026 8:28:02 pm",Españoles que realmente se ayudan en Suiza,3925,1,15.08,1,informational,Immigration and permits; Working in Switzerland; Swiss politics,Trámites: permisos y residencia
+712,"mar 03, 2026 8:22:33 am",Españoles que realmente se ayudan en Suiza,80,0,0.27,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+713,"mar 03, 2026 8:26:28 pm",Españoles que realmente se ayudan en Suiza,2875,1,11.58,1,informational,Immigration and permits; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+714,"mar 04, 2026 8:15:02 am",Españoles que realmente se ayudan en Suiza,2767,1,11.22,1,informational,Swiss institutions; Working in Switzerland; Cost of living,Vida práctica: coste de vida
+715,"mar 04, 2026 1:25:01 pm",Españoles que realmente se ayudan en Suiza,1864,1,8.21,1,informational,Health system,Salud: LAMal y sistema sanitario
+716,"mar 05, 2026 7:21:05 am",Españoles que realmente se ayudan en Suiza,2805,1,11.35,1,informational,Immigration and permits; Working in Switzerland; Housing; Community life,Trámites: permisos y residencia
+717,"mar 05, 2026 1:25:03 pm",Españoles que realmente se ayudan en Suiza,1905,1,8.35,1,informational,Working in Switzerland; Health system; Events and culture,Salud: LAMal y sistema sanitario
+718,"mar 06, 2026 1:38:23 pm",Españoles que realmente se ayudan en Suiza,2609,1,10.70,1,informational,Cost of living; Health system,Salud: LAMal y sistema sanitario
+719,"mar 06, 2026 8:24:03 pm",Españoles que realmente se ayudan en Suiza,1803,1,8.01,1,informational,Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+720,"mar 07, 2026 9:06:50 am",Españoles que realmente se ayudan en Suiza,2070,1,8.90,1,informational,Swiss institutions; Working in Switzerland; Housing; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+721,"mar 07, 2026 4:15:09 pm",Españoles que realmente se ayudan en Suiza,83,0,0.28,0,low-density,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+722,"mar 07, 2026 5:47:50 pm",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+723,"mar 07, 2026 5:47:50 pm",Españoles que realmente se ayudan en Suiza,0,1,0.00,0,empty,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+724,"mar 07, 2026 8:25:02 pm",Españoles que realmente se ayudan en Suiza,1904,1,8.35,1,informational,Housing,Vivienda: alquiler y contratos
+725,"mar 08, 2026 8:40:02 am",Españoles que realmente se ayudan en Suiza,3147,1,12.49,1,informational,Swiss institutions; Working in Switzerland; Swiss politics,"Trabajo: empleo, contratos y derechos"
+726,"mar 08, 2026 1:25:01 pm",Españoles que realmente se ayudan en Suiza,1767,1,7.89,1,informational,Working in Switzerland; Health system,Salud: LAMal y sistema sanitario
+727,"mar 08, 2026 8:25:02 pm",Españoles que realmente se ayudan en Suiza,1526,1,7.09,1,informational,Swiss politics; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+728,"mar 09, 2026 8:25:43 am",Españoles que realmente se ayudan en Suiza,2173,1,9.24,1,informational,Swiss politics,Sistema suizo: política y democracia directa
+729,"mar 09, 2026 1:23:56 pm",Españoles que realmente se ayudan en Suiza,1884,1,8.28,1,informational,Swiss institutions; Immigration and permits; Working in Switzerland; Local rules in Geneva,Vida local: Ginebra (normas y multas)
+730,"mar 09, 2026 8:25:02 pm",Españoles que realmente se ayudan en Suiza,2855,1,11.52,1,informational,Immigration and permits; Working in Switzerland; Cost of living; Community life,Trámites: permisos y residencia
+731,"mar 10, 2026 8:25:03 am",Españoles que realmente se ayudan en Suiza,1696,1,7.65,1,informational,(unclassified),Miscelánea (Españoles que realmente se ayudan en Suiza)
+732,"mar 10, 2026 1:25:02 pm",Españoles que realmente se ayudan en Suiza,2200,1,9.33,1,informational,Working in Switzerland; Housing; Cost of living; Swiss politics,Vivienda: alquiler y contratos
+733,"mar 10, 2026 8:25:02 pm",Españoles que realmente se ayudan en Suiza,1617,0,7.39,1,informational,Working in Switzerland; Housing,Vivienda: alquiler y contratos
+734,"mar 11, 2026 8:25:01 am",Españoles que realmente se ayudan en Suiza,2548,1,10.49,1,informational,Health system; Swiss politics,Salud: LAMal y sistema sanitario
+735,"mar 11, 2026 1:30:20 pm",Españoles que realmente se ayudan en Suiza,1702,1,7.67,1,informational,Swiss institutions; Working in Switzerland; Community life,"Trabajo: empleo, contratos y derechos"
+736,"mar 11, 2026 8:25:02 pm",Españoles que realmente se ayudan en Suiza,2004,1,8.68,1,informational,Working in Switzerland; Housing,Vivienda: alquiler y contratos
