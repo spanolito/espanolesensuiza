@@ -1270,12 +1270,16 @@ window.siteContent.es.articles = {
         category: 'Costo de Vida',
         hub: 'vivir-en-suiza',
         slug: "costo-de-vida-suiza",
+        supportingImages: ["images/suiza/mapa-regiones-culturales.png"],
         readingTime: 4,
         summary: 'Un sueldo de 5000 CHF puede parecer alto, pero tras seguros, impuestos y alquiler, el margen de maniobra se reduce significativamente.',
         summary: 'Un sueldo de 5000 CHF puede parecer alto, pero tras seguros, impuestos y alquiler, el margen de maniobra se reduce significativamente.',
         content: `
             <div class="article-content">
                 <p>Si bien los salarios suizos son los más altos de Europa Occidental, los precios de los bienes y servicios también están a la par (la llamada "Ilot de cherté suisse").</p>
+
+                <h2>Diferencias regionales y coste de vida</h2>
+                <p>El coste de vida cambia mucho según la región: las grandes ciudades (Zúrich, Ginebra, Lausana, Basilea) suelen ser más caras, especialmente en vivienda. Usa el mapa como orientación geográfica y ajusta siempre con datos reales del cantón y la comuna.</p>
 
                 <h2>Presupuesto Orientativo Mensual (1 persona)</h2>
                 <p>Gastos medios para una persona soltera viviendo en un núcleo urbano promedio (fuera del centro súper exclusivo o campo lejano):</p>

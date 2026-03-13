@@ -23,7 +23,7 @@ window.siteContent.fr.articles = {
 <p>En Suisse, il existe plusieurs permis de séjour pour les citoyens de l’Union européenne.<br>
 Les plus courants sont les permis L, B et C.<br>
 Chacun correspond à une situation différente selon le type de contrat et la durée du séjour.<br>
-Le tableau suivant résume leurs principales caractéristiques. Si vous préparez votre arrivée, voir aussi <a href="#/sinstaller-en-suisse-depuis-lespagne">le guide étape par étape</a>.</p>
+Le tableau suivant résume leurs principales caractéristiques. Si vous préparez votre arrivée, voir aussi <a href="#/mudarse-a-suiza-desde-espana">le guide étape par étape</a>.</p>
 
 <table class="info-table">
 <thead><tr><th>Permis</th><th>Profil (typique)</th><th>Durée</th><th>Notes</th></tr></thead>
@@ -80,6 +80,7 @@ Le tableau suivant résume leurs principales caractéristiques. Si vous prépare
         audience: "newcomer",
         category: "Démarches Administratives",
         hub: "tramites",
+        slug: "mudarse-a-suiza-desde-espana",
         readingTime: 5,
         summary: "Les étapes clés pour venir vivre en Suisse, avec des conseils courts et des liens internes utiles.",
         content: `<div class="article-content">
@@ -517,7 +518,7 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
         
         content: `<div class="article-content">
 <p>La Suisse dispose d'un marché du travail dynamique, tiré non seulement par les grandes entreprises pharmaceutiques, les banques et les horlogers, mais aussi par des milliers de PME.</p>
-<p>Si vous préparez votre arrivée, voir aussi <a href="#/sinstaller-en-suisse-depuis-lespagne">S’installer en Suisse depuis l’Espagne : guide étape par étape</a>.</p>
+<p>Si vous préparez votre arrivée, voir aussi <a href="#/mudarse-a-suiza-desde-espana">S’installer en Suisse depuis l’Espagne : guide étape par étape</a>.</p>
 
 <h2>Le Curriculum (Dossier de Candidature)</h2>
 <p>Le modèle suisse est traditionnellement formel et complet. Un dossier standard suisse doit comprendre, sur demande :</p>
@@ -607,11 +608,15 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
         keywords: "presupuesto suiza, el costo de vivir en suiza, precios suiza",
         category: `Coût de la Vie`,
         hub: 'vivir-en-suiza',
+        supportingImages: ["images/suiza/mapa-regiones-culturales.png"],
         readingTime: 4,
         summary: `Un salaire de 5000 CHF peut sembler élevé, mais les frais fixes sont importants.`,
         
         content: `<div class="article-content">
 <p>Alors que les salaires suisses sont les plus élevés d'Europe occidentale, les prix des biens et des services sont également à égalité (ce qu'on appelle "l'Ilot de cherté suisse").</p>
+
+<h2>Différences régionales et coût de la vie</h2>
+<p>Le coût de la vie varie fortement selon la région : les grandes villes (Zurich, Genève, Lausanne, Bâle) sont souvent plus chères, surtout pour le logement. Utilisez la carte comme repère géographique et vérifiez toujours avec des chiffres concrets du canton et de la commune.</p>
 
 <h2>Budget Orientatif Mensuel (1 personne)</h2>
 <p>Dépenses moyennes pour une personne seule vivant dans un centre urbain moyen (hors centre super exclusif ou campagne éloignée) :</p>
@@ -1230,7 +1235,7 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
 (() => {
     const slugMap = {
         "articulo-permisos": "permis-sejour-suisse",
-        "articulo-mudarse-suiza": "sinstaller-en-suisse-depuis-lespagne",
+        "articulo-mudarse-suiza": "mudarse-a-suiza-desde-espana",
         "articulo-registro": "inscription-commune-suisse",
         "articulo-lamal": "assurance-maladie-suisse-lamal",
         "articulo-franquicia": "franchise-et-quote-part-suisse",

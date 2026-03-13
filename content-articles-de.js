@@ -23,7 +23,7 @@ window.siteContent.de.articles = {
 <p>In der Schweiz gibt es mehrere Aufenthaltsbewilligungen für Bürgerinnen und Bürger der Europäischen Union.<br>
 Am häufigsten sind die Bewilligungen L, B und C.<br>
 Welche Sie erhalten, hängt vom Vertragstyp und der Aufenthaltsdauer ab.<br>
-Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umzug planen, siehe auch <a href="#/aus-spanien-in-die-schweiz-ziehen">den Schritt-für-Schritt-Leitfaden</a>.</p>
+Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umzug planen, siehe auch <a href="#/mudarse-a-suiza-desde-espana">den Schritt-für-Schritt-Leitfaden</a>.</p>
 
 <table class="info-table">
 <thead><tr><th>Bewilligung</th><th>Typisch für</th><th>Dauer</th><th>Hinweise</th></tr></thead>
@@ -80,6 +80,7 @@ Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umz
         audience: "newcomer",
         category: "Verwaltungsverfahren",
         hub: "tramites",
+        slug: "mudarse-a-suiza-desde-espana",
         readingTime: 5,
         summary: "Die wichtigsten Schritte für Ihren Umzug in die Schweiz – kompakt und mit hilfreichen Links.",
         content: `<div class="article-content">
@@ -517,7 +518,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         
         content: `<div class="article-content">
 <p>Die Schweiz verfügt über einen dynamischen Arbeitsmarkt, der nicht nur von großen Pharmaunternehmen, Banken und Uhrmachern, sondern auch von Tausenden KMU angetrieben wird.</p>
-<p>Wenn Sie Ihren Umzug planen, siehe auch <a href="#/aus-spanien-in-die-schweiz-ziehen">Aus Spanien in die Schweiz ziehen: Schritt-für-Schritt-Leitfaden</a>.</p>
+<p>Wenn Sie Ihren Umzug planen, siehe auch <a href="#/mudarse-a-suiza-desde-espana">Aus Spanien in die Schweiz ziehen: Schritt-für-Schritt-Leitfaden</a>.</p>
 
 <h2>Der Lehrplan (Kandidaturdossier)</h2>
 <p>Das Schweizer Modell ist traditionell formal und vollständig. Ein Schweizer Standarddossier sollte auf Wunsch Folgendes enthalten:</p>
@@ -607,11 +608,15 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         keywords: "presupuesto suiza, el costo de vivir en suiza, precios suiza",
         category: `Lebenshaltungskosten`,
         hub: 'vivir-en-suiza',
+        supportingImages: ["images/suiza/mapa-regiones-culturales.png"],
         readingTime: 4,
         summary: `Ein Gehalt von 5000 CHF kann nach Abzug der Fixkosten knapp werden.`,
         
         content: `<div class="article-content">
 <p>Während die Schweizer Löhne die höchsten in Westeuropa sind, sind auch die Preise für Waren und Dienstleistungen gleichauf (der sogenannte „Ilot de cherté suisse“).</p>
+
+<h2>Regionale Unterschiede und Lebenshaltungskosten</h2>
+<p>Die Kosten unterscheiden sich je nach Region deutlich: grosse Städte (Zürich, Genf, Lausanne, Basel) sind meist teurer, besonders beim Wohnen. Nutzen Sie die Karte zur geografischen Orientierung und prüfen Sie die Zahlen immer konkret für Kanton und Gemeinde.</p>
 
 <h2>Monatliches Orientierungsbudget (1 Person)</h2>
 <p>Durchschnittliche Ausgaben für eine einzelne Person, die in einem durchschnittlichen städtischen Zentrum lebt (außerhalb des superexklusiven Zentrums oder einer abgelegenen ländlichen Gegend):</p>
@@ -1180,7 +1185,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
 (() => {
     const slugMap = {
         "articulo-permisos": "aufenthaltsbewilligungen-schweiz",
-        "articulo-mudarse-suiza": "aus-spanien-in-die-schweiz-ziehen",
+        "articulo-mudarse-suiza": "mudarse-a-suiza-desde-espana",
         "articulo-registro": "anmeldung-gemeinde-schweiz",
         "articulo-lamal": "krankenversicherung-schweiz-kvg",
         "articulo-franquicia": "franchise-und-selbstbehalt-schweiz",

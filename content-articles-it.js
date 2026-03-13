@@ -27,7 +27,7 @@ window.siteContent.it.articles = {
 <p>In Svizzera esistono diversi permessi di soggiorno per i cittadini dell’Unione Europea.<br>
 I più comuni sono i permessi L, B e C.<br>
 Ognuno corrisponde a una situazione diversa in base al tipo di contratto e alla durata del soggiorno.<br>
-La tabella seguente riassume le principali caratteristiche. Se stai pianificando il trasferimento, vedi anche <a href="#/trasferirsi-in-svizzera-dalla-spagna">la guida passo passo</a>.</p>
+La tabella seguente riassume le principali caratteristiche. Se stai pianificando il trasferimento, vedi anche <a href="#/mudarse-a-suiza-desde-espana">la guida passo passo</a>.</p>
 
 <table class="info-table">
 <thead><tr><th>Permesso</th><th>Profilo (tipico)</th><th>Durata</th><th>Note</th></tr></thead>
@@ -84,7 +84,7 @@ La tabella seguente riassume le principali caratteristiche. Se stai pianificando
         audience: "newcomer",
         category: "Procedure Ordinarie",
         hub: "tramites",
-        slug: "trasferirsi-in-svizzera-dalla-spagna",
+        slug: "mudarse-a-suiza-desde-espana",
         readingTime: 5,
         summary: "Passi principali per trasferirsi in Svizzera dalla Spagna, con consigli brevi e link utili.",
         content: `<div class="article-content">
@@ -517,7 +517,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 </div>
 <div class="contenuto-articolo">
 <p>La Svizzera ha un mercato del lavoro dinamico, guidato non solo da grandi aziende farmaceutiche, banche e orologiai, ma anche da migliaia di PMI.</p>
-<p>Se stai pianificando il trasferimento, vedi anche <a href="#/trasferirsi-in-svizzera-dalla-spagna">Trasferirsi in Svizzera dalla Spagna: guida passo passo</a>.</p>
+<p>Se stai pianificando il trasferimento, vedi anche <a href="#/mudarse-a-suiza-desde-espana">Trasferirsi in Svizzera dalla Spagna: guida passo passo</a>.</p>
 
 <h2>Il curriculum (dossier di candidatura)</h2>
 <p>Il modello svizzero è tradizionalmente formale e completo. Un dossier standard svizzero dovrebbe includere, se richiesto:</p>
@@ -615,6 +615,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         category: `Costo della Vita`,
         hub: 'vivir-en-suiza',
         slug: "costo-della-vita-in-svizzera",
+        supportingImages: ["images/suiza/mapa-regiones-culturales.png"],
         readingTime: 4,
         summary: `Uno stipendio di 5000 CHF può essere limitato dopo le spese fisse.`,
         
@@ -623,6 +624,9 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 </div>
 <div class="contenuto-articolo">
 <p>Mentre i salari svizzeri sono i più alti dell'Europa occidentale, anche i prezzi di beni e servizi sono alla pari (il cosiddetto "Ilot de cherté suisse").</p>
+
+<h2>Differenze regionali e costo della vita</h2>
+<p>I costi cambiano molto in base alla regione: le grandi città (Zurigo, Ginevra, Losanna, Basilea) sono spesso più care, soprattutto per l’alloggio. Usa la mappa come riferimento geografico e verifica sempre con dati reali del cantone e del comune.</p>
 
 <h2>Budget orientativo mensile (1 persona)</h2>
 <p>Spese medie per una persona single che vive in un centro urbano medio (fuori dal centro super esclusivo o campagna lontana):</p>

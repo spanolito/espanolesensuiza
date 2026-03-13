@@ -23,7 +23,7 @@ window.siteContent.en.articles = {
 <p>Switzerland has several residence permits for citizens of the European Union.<br>
 The most common are the L permit, the B permit and the C permit.<br>
 Each one corresponds to a different situation depending on the type of contract and the length of stay.<br>
-The following table summarizes their main characteristics. If you’re planning your move, see also <a href="#/moving-to-switzerland-from-spain">the step-by-step guide</a>.</p>
+The following table summarizes their main characteristics. If you’re planning your move, see also <a href="#/mudarse-a-suiza-desde-espana">the step-by-step guide</a>.</p>
 
 <table class="info-table">
 <thead><tr><th>Permit</th><th>Typical situation</th><th>Duration</th><th>Notes</th></tr></thead>
@@ -80,6 +80,7 @@ The following table summarizes their main characteristics. If you’re planning 
         audience: "newcomer",
         category: "Ordinary Procedures",
         hub: "tramites",
+        slug: "mudarse-a-suiza-desde-espana",
         readingTime: 5,
         summary: "Short, practical steps to move to Switzerland from Spain with links to the key pages.",
         content: `<div class="article-content">
@@ -517,7 +518,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         
         content: `<div class="article-content"> 
 <p>Switzerland has a dynamic labor market, driven not only by large pharmaceutical companies, banks and watchmakers, but also by thousands of SMEs.</p> 
-<p>If you’re planning to relocate, see also <a href="#/moving-to-switzerland-from-spain">Moving to Switzerland from Spain: step-by-step guide</a>.</p>
+<p>If you’re planning to relocate, see also <a href="#/mudarse-a-suiza-desde-espana">Moving to Switzerland from Spain: step-by-step guide</a>.</p>
 
 <h2>The Curriculum (Candidacy Dossier)</h2> 
 <p>The Swiss model is traditionally formal and complete. A Swiss standard dossier should include, if requested:</p> 
@@ -607,11 +608,15 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         keywords: "presupuesto suiza, el costo de vivir en suiza, precios suiza",
         category: `Cost of Living`,
         hub: 'vivir-en-suiza',
+        supportingImages: ["images/suiza/mapa-regiones-culturales.png"],
         readingTime: 4,
         summary: `A 5000 CHF salary can be tight after taxes, insurance, and rent.`,
         
         content: `<div class="article-content"> 
 <p>While Swiss wages are the highest in Western Europe, the prices of goods and services are also on par (the so-called "Ilot de cherté suisse").</p> 
+
+<h2>Regional differences and cost of living</h2>
+<p>Costs vary a lot by region: large cities (Zurich, Geneva, Lausanne, Basel) are usually more expensive, especially for housing. Use the map for geographic orientation and always validate with real figures for the canton and commune.</p>
 
 <h2>Monthly Orientative Budget (1 person)</h2> 
 <p>Average expenses for a single person living in an average urban center (outside the super exclusive center or distant countryside):</p> 
@@ -1215,11 +1220,11 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 (() => {
     const slugMap = {
         "articulo-permisos": "residence-permits-switzerland",
-        "articulo-mudarse-suiza": "moving-to-switzerland-from-spain",
-        "articulo-registro": "registering-in-switzerland-commune",
-        "articulo-lamal": "health-insurance-switzerland-lamal",
-        "articulo-franquicia": "deductible-and-copayment-switzerland",
-        "articulo-impuestos": "taxes-in-switzerland",
+                "articulo-mudarse-suiza": "mudarse-a-suiza-desde-espana",
+                "articulo-registro": "registering-in-switzerland-commune",
+                "articulo-lamal": "health-insurance-switzerland-lamal",
+                "articulo-franquicia": "deductible-and-copayment-switzerland",
+                "articulo-impuestos": "taxes-in-switzerland",
         "articulo-impuesto-fuente": "withholding-tax-switzerland-quellensteuer",
         "articulo-seguros-sociales": "social-security-avs-lpp-and-unemployment",
         "articulo-rav-paro": "unemployment-rav-switzerland",
