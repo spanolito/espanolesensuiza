@@ -7,6 +7,9 @@ const fs = require("fs");
 const vm = require("vm");
 const path = require("path");
 
+const args = new Set(process.argv.slice(2));
+const strictLength = args.has("--strict-length");
+
 function loadScript(filePath) {
   const abs = path.resolve(filePath);
   const code = fs.readFileSync(abs, "utf8");
@@ -79,7 +82,24 @@ const requiredH2ByLang = {
   ],
 };
 
+function stripHtml(html) {
+  return String(html)
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function wordCount(text) {
+  const matches = String(text).match(/[A-Za-zÀ-ÖØ-öø-ÿÄÖÜäöüß'’]+/g);
+  return matches ? matches.length : 0;
+}
+
 let ok = true;
+const lengthFindings = [];
 for (const lang of langs) {
   const articles = (window.siteContent[lang] && window.siteContent[lang].articles) || {};
   const bySlug = new Map(Object.entries(articles).map(([k, v]) => [v.slug, { key: k, value: v }]));
@@ -107,10 +127,30 @@ for (const lang of langs) {
         ok = false;
       }
     }
+
+    const text = stripHtml(content);
+    const wc = wordCount(text);
+    lengthFindings.push({ lang, slug, wc });
+    if (wc < 800 || wc > 1200) {
+      const msg = `[${lang}] Length out of target (800–1200): ${slug} ≈ ${wc} words`;
+      if (strictLength) {
+        console.error(msg);
+        ok = false;
+      } else {
+        console.warn(msg);
+      }
+    }
   }
 }
 
 if (!ok) {
   process.exit(1);
 }
-console.log("OK: Facebook-derived routes present for es/en/fr/de.");
+const byLang = Object.fromEntries(langs.map((l) => [l, []]));
+for (const f of lengthFindings) byLang[f.lang].push(f);
+for (const lang of langs) {
+  const sorted = byLang[lang].sort((a, b) => a.wc - b.wc);
+  const worst = sorted.slice(0, 3).map((x) => `${x.slug}(${x.wc})`).join(", ");
+  console.log(`[${lang}] Word count: min=${sorted[0].wc}, max=${sorted[sorted.length - 1].wc}, worst3=${worst}`);
+}
+console.log(`OK: Facebook-derived routes present for es/en/fr/de. Length checks are ${strictLength ? "strict" : "warnings"} (use --strict-length to fail).`);
