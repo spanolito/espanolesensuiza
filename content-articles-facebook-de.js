@@ -195,6 +195,7 @@ Object.assign(window.siteContent.de.articles, {
         category: "Leben in der Schweiz",
         hub: "vivir-en-suiza",
         slug: "costo-de-vida-suiza-presupuesto",
+        supportingImages: [],
         readingTime: 4,
         dateUpdated: "März 2026",
         summary: "Budgetieren in der Schweiz: Miete, Krankenkasse, Steuern, Transport und versteckte Kosten. Tipps für Neuankömmlinge.",
@@ -210,12 +211,16 @@ Object.assign(window.siteContent.de.articles, {
 <p>Diese Seite hilft dir, ein realistisches Budget aufzubauen – ohne «magische Zahlen», die am Ende nicht zu deiner Situation passen.</p>
 <h2>Kontext in der Schweiz</h2>
 <p>Deine grössten Variablen sind meist:</p>
-<h3>Region (Kanton/Gemeinde)</h3>
-<p>Die grössten Unterschiede siehst du bei <strong>Miete</strong> und <strong>Krankenkassenprämien (LAMal/KVG)</strong>. Auch Steuern und gewisse lokale Gebühren können variieren. Praxisregel: Ein Budget “wie in der Stadt” erstellen und später günstiger wohnen ist einfacher als umgekehrt.</p>
-<h3>Haushalt (Single/Paar/Familie)</h3>
-<p>Mit Kindern sprengt nicht zwingend der Einkauf das Budget, sondern häufig die <strong>Kinderbetreuung (Kita)</strong> und die Organisation der Arbeitszeiten.</p>
-<h3>Mobilität und Lebensstil</h3>
-<p>ÖV, Auto, auswärts essen, Freizeit: das sind flexible Kosten, die schnell wachsen, wenn man sie nicht begrenzt. Definiere deinen Ziel‑Lebensstil und verankere ihn am Nettolohn.</p>
+	<h3>Region (Kanton/Gemeinde)</h3>
+	<p>Die grössten Unterschiede siehst du bei <strong>Miete</strong> und <strong>Krankenkassenprämien (LAMal/KVG)</strong>. Auch Steuern und gewisse lokale Gebühren können variieren. Praxisregel: Ein Budget “wie in der Stadt” erstellen und später günstiger wohnen ist einfacher als umgekehrt.</p>
+    <figure class="article-figure">
+      <img src="images/suiza/mapa-coste-vida-zonas-caras.svg" alt="Orientierungskarte: typischerweise teurere Regionen zum Leben in der Schweiz (z. B. Zürich/Zug und Arc lémanique)" loading="lazy" decoding="async">
+      <figcaption>Orientierung: Kosten unterscheiden sich stark nach Stadt, Quartier und Wohnungstyp.</figcaption>
+    </figure>
+	<h3>Haushalt (Single/Paar/Familie)</h3>
+	<p>Mit Kindern sprengt nicht zwingend der Einkauf das Budget, sondern häufig die <strong>Kinderbetreuung (Kita)</strong> und die Organisation der Arbeitszeiten.</p>
+	<h3>Mobilität und Lebensstil</h3>
+	<p>ÖV, Auto, auswärts essen, Freizeit: das sind flexible Kosten, die schnell wachsen, wenn man sie nicht begrenzt. Definiere deinen Ziel‑Lebensstil und verankere ihn am Nettolohn.</p>
 <h2>Häufige Situationen, die Probleme verursachen</h2>
 <h3>Die 5 Posten, die das Budget am stärksten bewegen</h3>
 <ol>

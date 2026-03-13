@@ -187,6 +187,7 @@ Object.assign(window.siteContent.en.articles, {
         category: "Living in Switzerland",
         hub: "vivir-en-suiza",
         slug: "costo-de-vida-suiza-presupuesto",
+        supportingImages: [],
         readingTime: 4,
         dateUpdated: "March 2026",
         summary: "How to budget for Switzerland: rent, health insurance, taxes, transport and “hidden costs”. Practical guidance for newcomers.",
@@ -202,12 +203,16 @@ Object.assign(window.siteContent.en.articles, {
 <p>This guide helps you build a realistic budget without relying on “magic numbers” that may not match your situation.</p>
 <h2>Context in Switzerland</h2>
 <p>Your biggest variables are usually:</p>
-<h3>Region (canton/municipality)</h3>
-<p>The biggest differences are <strong>rent</strong> and <strong>LAMal/KVG premiums</strong>. Taxes and local fees can also vary. Practical rule: budgeting for a larger city and then moving to a cheaper area is easier than the reverse.</p>
-<h3>Household (single/couple/family)</h3>
-<p>With children, the budget breaker is often not groceries but <strong>childcare (Kita/daycare)</strong> and schedule constraints.</p>
-<h3>Mobility and lifestyle</h3>
-<p>Public transport, a car, eating out, and leisure are flexible costs that can silently drift upward. Define a target lifestyle and anchor it to your net income.</p>
+	<h3>Region (canton/municipality)</h3>
+	<p>The biggest differences are <strong>rent</strong> and <strong>LAMal/KVG premiums</strong>. Taxes and local fees can also vary. Practical rule: budgeting for a larger city and then moving to a cheaper area is easier than the reverse.</p>
+    <figure class="article-figure">
+      <img src="images/suiza/mapa-coste-vida-zonas-caras.svg" alt="Indicative map: typically more expensive areas to live in Switzerland (e.g., Zurich/Zug and the Lake Geneva area)" loading="lazy" decoding="async">
+      <figcaption>Indicative only: costs vary a lot by city, neighborhood and housing type.</figcaption>
+    </figure>
+	<h3>Household (single/couple/family)</h3>
+	<p>With children, the budget breaker is often not groceries but <strong>childcare (Kita/daycare)</strong> and schedule constraints.</p>
+	<h3>Mobility and lifestyle</h3>
+	<p>Public transport, a car, eating out, and leisure are flexible costs that can silently drift upward. Define a target lifestyle and anchor it to your net income.</p>
 <h2>Common situations that cause problems</h2>
 <h3>The 5 budget items that move the needle most</h3>
 <ol>

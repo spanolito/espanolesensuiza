@@ -186,6 +186,7 @@ Object.assign(window.siteContent.fr.articles, {
         category: "Vivre en Suisse",
         hub: "vivir-en-suiza",
         slug: "costo-de-vida-suiza-presupuesto",
+        supportingImages: [],
         readingTime: 5,
         dateUpdated: "Mars 2026",
         summary: "Comment budgéter en Suisse : loyer, assurance maladie, impôts, transports et dépenses “invisibles”. Conseils pour nouveaux arrivants.",
@@ -201,12 +202,16 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Cette page vous aide à construire un budget réaliste sans vous appuyer sur des chiffres « magiques » qui ne correspondent pas à votre cas.</p>
 <h2>Contexte en Suisse</h2>
 <p>Vos variables principales sont généralement :</p>
-<h3>Région (canton/commune)</h3>
-<p>Les plus gros écarts concernent le <strong>loyer</strong> et les <strong>primes LAMal/KVG</strong>. Les impôts et certaines taxes locales peuvent aussi varier. Règle pratique : budgéter comme si vous étiez dans une grande ville puis déménager moins cher est plus simple que l’inverse.</p>
-<h3>Foyer (seul/couple/famille)</h3>
-<p>Avec des enfants, la dépense qui déséquilibre souvent le budget n’est pas l’alimentation mais la <strong>garde (Kita/crèche)</strong> et les contraintes d’horaires.</p>
-<h3>Mobilité et style de vie</h3>
-<p>Transports publics, voiture, restaurants, loisirs : ce sont des postes flexibles qui « dérivent » facilement. Fixez un niveau de vie cible et ancrez-le sur votre revenu net.</p>
+	<h3>Région (canton/commune)</h3>
+	<p>Les plus gros écarts concernent le <strong>loyer</strong> et les <strong>primes LAMal/KVG</strong>. Les impôts et certaines taxes locales peuvent aussi varier. Règle pratique : budgéter comme si vous étiez dans une grande ville puis déménager moins cher est plus simple que l’inverse.</p>
+    <figure class="article-figure">
+      <img src="images/suiza/mapa-coste-vida-zonas-caras.svg" alt="Carte indicative : zones généralement plus chères pour vivre en Suisse (p. ex. Zurich/Zoug et l’arc lémanique)" loading="lazy" decoding="async">
+      <figcaption>Indicatif : le coût varie beaucoup selon la ville, le quartier et le type de logement.</figcaption>
+    </figure>
+	<h3>Foyer (seul/couple/famille)</h3>
+	<p>Avec des enfants, la dépense qui déséquilibre souvent le budget n’est pas l’alimentation mais la <strong>garde (Kita/crèche)</strong> et les contraintes d’horaires.</p>
+	<h3>Mobilité et style de vie</h3>
+	<p>Transports publics, voiture, restaurants, loisirs : ce sont des postes flexibles qui « dérivent » facilement. Fixez un niveau de vie cible et ancrez-le sur votre revenu net.</p>
 <h2>Situations fréquentes qui créent des problèmes</h2>
 <h3>Les 5 postes qui font vraiment varier le budget</h3>
 <ol>

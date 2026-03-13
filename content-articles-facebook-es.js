@@ -201,6 +201,7 @@ Object.assign(window.siteContent.es.articles, {
         category: "Vivir en Suiza",
         hub: "vivir-en-suiza",
         slug: "costo-de-vida-suiza-presupuesto",
+        supportingImages: [],
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "Cómo estimar tu coste de vida en Suiza: alquiler, seguro médico, impuestos, transporte y “gastos invisibles”. Ejemplos por cantón y consejos.",
@@ -216,12 +217,16 @@ Object.assign(window.siteContent.es.articles, {
 <p>Esta guía te ayuda a estimar un presupuesto realista sin entrar en números “mágicos” que luego no aplican a tu caso.</p>
 <h2>Contexto en Suiza</h2>
 <p>Tus grandes variables suelen ser:</p>
-<h3>Región (cantón/comuna)</h3>
-<p>Cambian sobre todo el <strong>alquiler</strong> y las <strong>primas de la LAMal</strong>. También puede cambiar la fiscalidad y tasas locales. Regla práctica: presupuestar en una ciudad grande y luego mudarte a una zona más barata es más fácil que al revés.</p>
-<h3>Hogar (solo/pareja/familia)</h3>
-<p>Con niños, la partida que rompe presupuestos no es el supermercado: suele ser la <strong>guardería/Kita</strong> y la organización de horarios.</p>
-<h3>Movilidad y hábitos</h3>
-<p>Transporte público, coche, comer fuera, ocio: son partidas “flexibles” que a veces se inflan sin darse cuenta. Define un nivel de vida objetivo y ajústalo a tu salario neto.</p>
+	<h3>Región (cantón/comuna)</h3>
+	<p>Cambian sobre todo el <strong>alquiler</strong> y las <strong>primas de la LAMal</strong>. También puede cambiar la fiscalidad y tasas locales. Regla práctica: presupuestar en una ciudad grande y luego mudarte a una zona más barata es más fácil que al revés.</p>
+    <figure class="article-figure">
+      <img src="images/suiza/mapa-coste-vida-zonas-caras.svg" alt="Mapa orientativo: zonas más caras para vivir en Suiza (por ejemplo, Zúrich/Zug y el arco lémanico)" loading="lazy" decoding="async">
+      <figcaption>Orientativo: dentro de cada región hay diferencias por ciudad, barrio y tipo de vivienda.</figcaption>
+    </figure>
+	<h3>Hogar (solo/pareja/familia)</h3>
+	<p>Con niños, la partida que rompe presupuestos no es el supermercado: suele ser la <strong>guardería/Kita</strong> y la organización de horarios.</p>
+	<h3>Movilidad y hábitos</h3>
+	<p>Transporte público, coche, comer fuera, ocio: son partidas “flexibles” que a veces se inflan sin darse cuenta. Define un nivel de vida objetivo y ajústalo a tu salario neto.</p>
 <h2>Situaciones comunes que generan problemas</h2>
 <h3>Las 5 partidas que más mueven el presupuesto</h3>
 <ol>

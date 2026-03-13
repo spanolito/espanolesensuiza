@@ -1400,9 +1400,8 @@ document.addEventListener("DOMContentLoaded", () => {
             if (es && es.featuredImage) hero = es.featuredImage;
         }
         if (!hero) hero = preset.hero;
-        const supporting = Array.isArray(pageData && pageData.supportingImages) && pageData.supportingImages.length > 0
-            ? pageData.supportingImages
-            : preset.supporting;
+        const hasSupportingOverride = Array.isArray(pageData && pageData.supportingImages);
+        const supporting = hasSupportingOverride ? pageData.supportingImages : preset.supporting;
         return { hero, supporting };
     }
 
