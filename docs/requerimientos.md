@@ -74,7 +74,7 @@ La estructura debe permitir:
 
 URL:
 
-https://espanolesensuiza.ch
+https://www.espanolesensuiza.ch
 
 Contenido esperado:
 
@@ -261,7 +261,7 @@ Debe enviarse a Google Search Console.
 
 Ejemplo:
 
-https://espanolesensuiza.ch/sitemap.xml
+https://www.espanolesensuiza.ch/sitemap.xml
 
 ---
 

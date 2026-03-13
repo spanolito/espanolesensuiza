@@ -308,8 +308,8 @@ Principle: every article should answer “what’s the next step?” and link to
 ## Technical SEO observations (high impact)
 
 ### 1) Sitemap and domain consistency
-- `sitemap.xml` currently lists only a few URLs and uses mixed domains (`espanolesensuiza.com` hash routes and `.ch` home). This is a major SEO gap: **articles are not discoverable via sitemap**.
-- `robots.txt` points to `https://espanolesensuiza.com/sitemap.xml`, while the canonical base in `app.js` is `https://www.espanolesensuiza.ch`.
+- Previously, `sitemap.xml` listed only a few URLs and used mixed domains/hash routes. This prevented clean article URLs from being discoverable via sitemap.
+- `robots.txt` now should point to `https://www.espanolesensuiza.ch/sitemap.xml`, aligned with the canonical base in `app.js` (`https://www.espanolesensuiza.ch`).
 
 ### 2) SPA routing and canonicals
 - The SPA uses hash routing, but `app.js` generates **clean canonical URLs** (e.g., `https://www.espanolesensuiza.ch/permisos-suiza`). This can work, but it increases the importance of:

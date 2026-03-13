@@ -1101,3 +1101,47 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
 </div>`
     }
 };
+
+// Technical SEO: ensure every FR article has a stable, clean slug for canonical URLs and sitemap generation.
+(() => {
+    const slugMap = {
+        "articulo-permisos": "permis-sejour-suisse",
+        "articulo-registro": "inscription-commune-suisse",
+        "articulo-lamal": "assurance-maladie-suisse-lamal",
+        "articulo-franquicia": "franchise-et-quote-part-suisse",
+        "articulo-impuestos": "impots-en-suisse",
+        "articulo-impuesto-fuente": "impot-a-la-source-suisse-quellensteuer",
+        "articulo-seguros-sociales": "assurances-sociales-avs-ai-lpp-et-chomage",
+        "articulo-rav-paro": "chomage-rav-suisse",
+        "articulo-salarios": "salaires-en-suisse-par-secteur-et-region",
+        "articulo-contratos": "contrats-de-travail-en-suisse-droits-et-obligations",
+        "articulo-periodo-prueba": "periode-dessai-et-delais-de-conge-en-suisse",
+        "articulo-buscar-empleo": "recherche-demploi-plateformes-et-strategies",
+        "articulo-alquiler": "louer-appartement-suisse",
+        "articulo-fianzas": "garanties-de-loyer-et-droits-des-locataires",
+        "articulo-costo-vida": "cout-de-la-vie-en-suisse-logement-nourriture-impots",
+        "articulo-frontaliers": "travailleurs-frontaliers-regles-et-fiscalite",
+        "articulo-diplomas": "reconnaissance-des-diplomes-etrangers-en-suisse",
+        "articulo-sistema-escolar": "le-systeme-scolaire-en-suisse-explique",
+        "articulo-sistema-salud": "systeme-de-sante-medecins-et-urgences",
+        "articulo-transporte": "transports-publics-cff-demi-tarif-et-ag",
+        "articulo-ciudadania": "citoyennete-suisse-et-naturalisation",
+        "articulo-consulados": "consulats-espagne-suisse",
+        "articulo-tramites-llegada": "checklist-demarches-du-premier-mois-en-suisse",
+        "articulo-trabajar-sin-permiso-fisico": "travailler-avant-de-recevoir-la-carte-de-permis",
+        "articulo-reagrupacion-familiar": "regroupement-familial-en-suisse-faire-venir-sa-famille",
+        "articulo-subalquiler": "sous-location-en-suisse-bases-legales-et-conseils",
+        "articulo-jubilacion": "retraite-en-suisse-comprendre-avs-et-lpp-3-piliers",
+        "articulo-vivir-sin-trabajar": "vivre-en-suisse-sans-travailler-ue-aele-conditions",
+        "articulo-ai-invalidez": "assurance-invalidite-ai-iv-reinsertion-avant-rente",
+        "articulo-vacunas": "vaccins-en-suisse-recommandations-pas-dobligation-generale",
+        "articulo-danza-patos": "le-saviez-vous-la-danse-des-canards-est-dorigine-suisse",
+        "articulo-introduccion-suiza": "comment-fonctionne-la-suisse-guide",
+        "articulo-cantones": "les-26-cantons-suisses-ce-qui-change-dun-canton-a-lautre",
+        "articulo-lenguas": "langues-en-suisse-allemand-francais-italien-romanche"
+    };
+
+    Object.entries(slugMap).forEach(([key, slug]) => {
+        if (window.siteContent.fr.articles[key]) window.siteContent.fr.articles[key].slug = slug;
+    });
+})();

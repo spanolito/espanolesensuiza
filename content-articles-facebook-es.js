@@ -872,134 +872,230 @@ Object.assign(window.siteContent.es.articles, {
         </div>`
     },
 
-    "fb-trabajar-en-suiza-guia": {
-        title: "Trabajar en Suiza: cómo buscar empleo, negociar y empezar bien",
-        description: "Guía para encontrar trabajo en Suiza: CV, entrevistas, negociación salarial, contrato y errores frecuentes. Enfoque práctico para recién llegados.",
-        keywords: "trabajar en suiza, buscar empleo suiza, cv suizo, entrevista suiza, contrato suiza",
-        keywordsLocalized: true,
-        category: "Trabajo y Salarios",
-        hub: "trabajo",
-        slug: "trabajar-en-suiza-guia",
-        readingTime: 4,
-        dateUpdated: "Marzo 2026",
-        summary: "Guía para encontrar trabajo en Suiza: CV, entrevistas, negociación salarial, contrato y errores frecuentes. Enfoque práctico para recién llegados.",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-            <h2>Introducción</h2>
-<p>Trabajar en Suiza no es “imposible”, pero sí exige método. El mercado suele premiar la <strong>claridad</strong> (CV bien estructurado, logros medibles), la <strong>coherencia</strong> (perfil alineado con el puesto) y el <strong>seguimiento</strong> (documentación y plazos).</p>
-<p>Esta guía es una hoja de ruta práctica: cómo buscar empleo, cómo presentarte, qué mirar en el contrato y cómo empezar bien para evitar errores típicos de recién llegado.</p>
-<h2>Contexto en Suiza</h2>
-<p>Tres factores cambian totalmente la experiencia:</p>
-<h3>Idioma y región</h3>
-<p>Suiza es multilingüe. La lengua de trabajo depende de la región y del sector. Incluso con buen inglés, muchos empleos valoran mucho el idioma local (alemán/francés/italiano) para integración y trato con clientes.</p>
-<h3>Tu situación de residencia/permisos</h3>
-<p>La posibilidad de contratación y los tiempos administrativos dependen de tu nacionalidad y de tu derecho de residencia. Si ya tienes derecho a trabajar (por permiso o por estatus), dilo claramente en la candidatura.</p>
-<h3>Sector y “normas” del mercado</h3>
-<p>En algunos sectores (salud, educación, oficios) se piden homologaciones o certificados. En otros, pesa más el portfolio/proyectos.</p>
-<h2>Situaciones comunes que generan problemas</h2>
-<h3>1) Candidaturas que no pasan el filtro</h3>
-<p>Errores típicos:</p>
-<ul>
-<li>CV genérico “para todo” (sin logros ni resultados).</li>
-<li>Carta larga sin información útil (o sin adaptar al puesto).</li>
-<li>No indicar disponibilidad, ubicación o permiso/derecho a trabajar.</li>
-</ul>
-<p>Qué suele funcionar mejor:</p>
-<ul>
-<li>CV de 1–2 páginas, con <strong>logros medibles</strong> (impacto, números, proyectos).</li>
-<li>Experiencia reciente arriba y adaptada al anuncio.</li>
-<li>Carta breve (si se pide) con 3 ideas: encaje, ejemplo concreto, disponibilidad.</li>
-</ul>
-<h3>2) CV y documentos: lo que conviene preparar antes de postular</h3>
-<p>Checklist práctico:</p>
-<ul>
-<li>CV en PDF (nombre claro: <code>Nombre_Apellido_CV.pdf</code>).</li>
-<li>Copias de títulos/certificados relevantes.</li>
-<li>Lista de referencias (idealmente avisadas de que pueden llamar).</li>
-<li>Si aplica: permisos, diplomas homologados o estado de homologación.</li>
-</ul>
-<p>Consejo: crea una carpeta “candidaturas” con subcarpetas por empresa. Te ahorra caos y olvidos.</p>
-<h3>3) Entrevistas: lo que realmente se evalúa</h3>
-<p>Además de tu experiencia, se mira:</p>
-<ul>
-<li><strong>puntualidad</strong> y preparación (haber leído la empresa),</li>
-<li>claridad al explicar decisiones y responsabilidades,</li>
-<li>capacidad de colaborar (casos de conflicto y cómo lo resolviste),</li>
-<li>expectativas salariales realistas.</li>
-</ul>
-<p>Táctica simple: prepara 6–8 historias tipo STAR (Situación–Tarea–Acción–Resultado) y reutilízalas según la pregunta.</p>
-<h3>4) Salario y negociación: evita “pedir a ciegas”</h3>
-<p>Antes de dar una cifra:</p>
-<ul>
-<li>investiga rangos por sector y región,</li>
-<li>pregunta si el salario incluye 13.º (si aplica) o bonus,</li>
-<li>aclara el porcentaje (80%/100%) y el modelo de horas.</li>
-</ul>
-<p>Negociar no es “regatear”: es alinear expectativas. Si pides más, justifica con valor (responsabilidades, experiencia, escasez del perfil, etc.).</p>
-<h3>5) Contrato: puntos que generan problemas a los recién llegados</h3>
-<p>Revisa con calma:</p>
-<ul>
-<li><strong>periodo de prueba</strong> y condiciones,</li>
-<li><strong>preaviso</strong> (duración y cuándo aplica),</li>
-<li>jornada (horas/semana) y registro de horas,</li>
-<li>vacaciones (mínimo legal y política interna),</li>
-<li>si hay <strong>13.º salario</strong> o no,</li>
-<li>trabajo remoto (si existe) y reglas,</li>
-<li>seguro de accidentes (normalmente lo gestiona el empleador para empleados).</li>
-</ul>
-<p>Pregunta todo lo ambiguo por escrito antes de firmar.</p>
-<h3>6) Primeros meses: integración y “errores tontos” que cuestan</h3>
-<p>Situaciones frecuentes:</p>
-<ul>
-<li>no guardar justificantes/confirmaciones (gastos, horarios, acuerdos),</li>
-<li>no entender quién hace qué (RRHH, responsable directo, nómina),</li>
-<li>no preguntar a tiempo por impuestos en la fuente (según situación) o por altas de seguros.</li>
-</ul>
-<p>Si vienes de fuera, el primer mes es para construir tu “sistema” (documentos, nómina, seguros, calendario).</p>
-<h3>7) Canales: dónde se consiguen empleos en la práctica</h3>
-<p>Combina varios canales a la vez:</p>
-<ul>
-<li>páginas de empleo de las empresas (muchas ofertas buenas están ahí),</li>
-<li>portales generalistas y portales sectoriales,</li>
-<li>recruiters/agencias especializadas (sobre todo perfiles nicho),</li>
-<li>y networking (muchos procesos avanzan por referencias).</li>
-</ul>
-<h2>Cómo evitar multas o conflictos</h2>
-<h3>Checklist de seguridad (lo mínimo que te evita líos)</h3>
-<ol>
-<li>CV + LinkedIn coherentes (mismas fechas y roles).</li>
-<li>Objetivo claro: 2–3 tipos de puesto (no 15).</li>
-<li>Tabla de seguimiento: anuncio, fecha, versión CV, contacto, estado.</li>
-<li>Documentos listos: títulos, certificados, referencias, permisos (si aplica).</li>
-<li>Todo lo importante por escrito (salario total, fecha inicio, condiciones especiales).</li>
-</ol>
-<h3>Señales de oferta dudosa (posible estafa)</h3>
-<ul>
-<li>“Contratación inmediata” sin entrevista real ni verificación.</li>
-<li>Piden dinero para “tramitar” contrato o permiso.</li>
-<li>Email/empresa sin rastro verificable o con dominios sospechosos.</li>
-</ul>
-<p>En Suiza, una empresa seria no te pide pagar para contratarte.</p>
-<h2>Consejos prácticos</h2>
-<h3>Plan de 30 días para recién llegados (funciona)</h3>
-<ul>
-<li>Semana 1: adaptar CV + LinkedIn, preparar dossier, identificar 30 empresas/roles.</li>
-<li>Semana 2: 10–15 candidaturas muy ajustadas + networking (contactos, eventos, antiguos colegas).</li>
-<li>Semana 3: practicar entrevistas (STAR), preparar argumentos salariales, revisar preguntas típicas.</li>
-<li>Semana 4: seguimiento, iterar CV, ampliar canales (agencias, portales sectoriales).</li>
-</ul>
-<h3>Evita el “spam” de CV</h3>
-<p>Mejor 10 candidaturas muy alineadas que 80 genéricas. La calidad se nota rápido en la tasa de respuesta.</p>
-<h3>Sé claro con tu situación</h3>
-<p>Si tienes derecho a trabajar, dilo. Si estás en trámite, explica qué falta y cuándo. Quita incertidumbre.</p>
-<h3>Primer día y nómina: pon orden desde el inicio</h3>
-<p>En cuanto empieces, guarda en una carpeta: contrato firmado, datos de RRHH, nóminas, comunicaciones importantes y (si aplica) documentos de impuestos/seguros. Te ahorra tiempo cuando tengas que justificar algo o cambiar de situación.</p>
-<h2>Fuentes oficiales</h2>
-<ul>
-<li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>SEM (permisos/migración): <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
-</ul>
-        </div>`
-    }
+	    "fb-trabajar-en-suiza-guia": {
+	        title: "Trabajar en Suiza: cómo buscar empleo, negociar y empezar bien",
+	        description: "Guía para encontrar trabajo en Suiza: CV, entrevistas, negociación salarial, contrato y errores frecuentes. Enfoque práctico para recién llegados.",
+	        keywords: "trabajar en suiza, buscar empleo suiza, cv suizo, entrevista suiza, contrato suiza",
+	        keywordsLocalized: true,
+	        category: "Trabajo y Salarios",
+	        hub: "trabajo",
+	        slug: "trabajar-en-suiza-guia",
+	        readingTime: 14,
+	        dateUpdated: "Marzo 2026",
+	        summary: "Guía cornerstone para trabajar en Suiza: cómo buscar empleo, plataformas clave, salarios, contratos, periodo de prueba, paro (RAV) y errores típicos de recién llegados.",
+	        relatedSlugs: ["buscar-empleo-suiza", "contratos-de-trabajo-suiza", "periodo-prueba-preaviso-suiza", "salarios-sueldo-suiza", "rav-paro-suiza", "seguros-sociales-suiza", "permisos-suiza"],
+	        content: `<div class="article-content">
+	            <h2>Introducción</h2>
+	            <p>Trabajar en Suiza no es “imposible”, pero sí exige método. El mercado suele premiar la <strong>claridad</strong> (CV bien estructurado, logros medibles), la <strong>coherencia</strong> (perfil alineado con el puesto) y el <strong>seguimiento</strong> (documentación, plazos y respuestas rápidas).</p>
+	            <p>Esta guía es un “mapa” para recién llegados: cómo encontrar empleo, qué plataformas funcionan de verdad, cómo leer un contrato, cómo estimar un salario realista y qué errores típicos generan problemas en los primeros meses.</p>
+
+	            <h2>Panorama del mercado laboral</h2>
+	            <h3>1) Idioma y región</h3>
+	            <p>Suiza es multilingüe. La lengua de trabajo depende de la región (alemán/francés/italiano) y del sector. El inglés abre puertas en multinacionales, IT o roles técnicos, pero en muchos puestos el idioma local es la diferencia entre “me llaman” y “me descartan”.</p>
+	            <p>Consejo práctico: si estás en Suiza alemana y tu alemán es básico, prioriza empresas internacionales, equipos globales o sectores donde el inglés sea habitual, y planifica un camino realista para mejorar el idioma local.</p>
+
+	            <h3>2) Derecho a trabajar (permiso)</h3>
+	            <p>La contratación es más simple si la empresa entiende que puedes trabajar sin “riesgo administrativo”. Si ya tienes derecho a trabajar, dilo de forma clara. Si estás en trámite, explica qué te falta y cuál es el plazo estimado. Si eres de terceros países, el proceso puede ser más restrictivo y lento.</p>
+	            <p>Si necesitas contexto, revisa <a href="#/permisos-suiza">Permisos de residencia</a>.</p>
+
+	            <h3>3) Qué valora Suiza: evidencias</h3>
+	            <p>En Suiza se valora mucho lo verificable: diplomas, certificados, referencias y, cuando existen, <strong>certificados de trabajo</strong> (Arbeitszeugnis / certificats de travail). No siempre te los pedirán el primer día, pero si tu candidatura compite con otras similares, estos documentos pueden inclinar la balanza.</p>
+
+	            <h3>4) Cómo es un proceso de selección típico</h3>
+	            <p>Aunque cada empresa tiene su estilo, un proceso frecuente suele ser:</p>
+	            <ol>
+	                <li><strong>Filtro inicial</strong> (ATS o RRHH): revisan si tu perfil encaja con requisitos y si tu CV es claro.</li>
+	                <li><strong>Llamada corta</strong> (15–30 min): validación de motivación, disponibilidad, salario esperado y permiso/derecho a trabajar.</li>
+	                <li><strong>Entrevista(s)</strong> con responsable y/o equipo: casos reales, ejemplos de proyectos, cultura de trabajo.</li>
+	                <li><strong>Referencias</strong> (a veces): contacto con antiguos jefes o confirmación de experiencia.</li>
+	                <li><strong>Oferta</strong> por escrito: salario, jornada, fecha de inicio, periodo de prueba y condiciones.</li>
+	            </ol>
+	            <p>Los tiempos varían: algunas contrataciones son rápidas (1–2 semanas), otras tardan 4–8 semanas. Por eso conviene llevar un seguimiento ordenado y no depender de una sola candidatura.</p>
+
+	            <h3>5) El “dossier” suizo (lo que conviene tener listo)</h3>
+	            <p>Piensa en tu candidatura como un paquete que debe ser fácil de evaluar en 60 segundos. Checklist práctico:</p>
+	            <ul>
+	                <li>CV en PDF (1–2 páginas) con logros medibles.</li>
+	                <li>Carta breve si la piden (3 ideas: encaje, ejemplo, disponibilidad).</li>
+	                <li>Diplomas/certificados relevantes (y homologación si aplica).</li>
+	                <li>Referencias avisadas y disponibles.</li>
+	                <li>Portfolio (si eres de producto/UX/IT/creativo) con 2–3 casos bien explicados.</li>
+	                <li>Frase clara sobre tu situación de permiso/derecho a trabajar.</li>
+	            </ul>
+
+	            <h2>Dónde encontrar empleo</h2>
+	            <h3>Plataformas principales</h3>
+	            <p>Para empezar sin perderte:</p>
+	            <ul>
+	                <li><strong>jobs.ch</strong> y <strong>jobup.ch</strong>: dos de los portales más usados.</li>
+	                <li><strong>Indeed</strong>: agregador útil para descubrir ofertas.</li>
+	                <li><strong>LinkedIn</strong>: clave para perfiles cualificados, multinacionales y recruiters.</li>
+	                <li><strong>Job-Room</strong> (servicio público): ofertas y recursos del mercado laboral.</li>
+	            </ul>
+
+	            <h3>Portales sectoriales y canales “invisibles”</h3>
+	            <p>Además de los portales generalistas, muchos sectores se mueven por canales propios: asociaciones profesionales, webs de hospitales/escuelas, cadenas de retail, o páginas de empleo de grupos empresariales. Si estás en un sector regulado (salud, educación, oficios), revisa también requisitos de diplomas y permisos antes de “spam” de CV.</p>
+
+	            <h3>Candidaturas espontáneas (cuando no hay vacante publicada)</h3>
+	            <p>En Suiza, una candidatura espontánea bien hecha puede funcionar si apuntas a empresas concretas. Claves:</p>
+	            <ul>
+	                <li>Explica en 3–4 líneas qué aportas y qué rol buscas.</li>
+	                <li>Propón una llamada corta de 10 minutos (no una “entrevista”).</li>
+	                <li>Adjunta CV y, si aplica, portfolio.</li>
+	                <li>No envíes en masa: selecciona empresas y personaliza el mensaje.</li>
+	            </ul>
+
+	            <h3>Webs de empresas (candidatura directa)</h3>
+	            <p>Muchas ofertas buenas se publican solo en “Careers” de la empresa. Estrategia efectiva: lista de 30–50 empresas objetivo + revisión semanal + alertas + candidatura rápida (con CV adaptado).</p>
+
+	            <h3>Agencias y temporal</h3>
+	            <p>En hostelería, logística, industria o retail, las agencias temporales son un canal real. En perfiles nicho, los recruiters especializados pueden acelerar procesos. Regla de oro: controla tu calendario y evita duplicar candidaturas a la misma vacante por canales distintos sin avisar.</p>
+
+	            <h3>Networking (bien hecho)</h3>
+	            <p>Networking no es “pedir trabajo”. Es generar confianza y acceso a información. Funciona cuando:</p>
+	            <ul>
+	                <li>tienes claro el objetivo (2–3 tipos de puesto, no 15),</li>
+	                <li>explicas tu valor con ejemplos (qué problema resuelves),</li>
+	                <li>pides algo concreto: recomendaciones de empresas, feedback de CV, presentación a un contacto.</li>
+	            </ul>
+
+	            <h2>Entender contratos</h2>
+	            <h3>Tipos de contrato</h3>
+	            <p>Los más habituales:</p>
+	            <ul>
+	                <li><strong>Indefinido</strong>: sin fecha final, con plazos de preaviso.</li>
+	                <li><strong>Duración determinada</strong>: con fecha final (temporada, sustitución).</li>
+	                <li><strong>Temporal</strong> vía agencia: reglas específicas, a veces rotación alta.</li>
+	            </ul>
+	            <p>Además, muchos sectores están cubiertos por <strong>convenios colectivos</strong> (CCT/GAV) que pueden fijar mínimos (salario, vacaciones, reglas de horas extra). Pregunta si tu puesto está sujeto a un CCT.</p>
+
+	            <h3>Periodo de prueba y preaviso</h3>
+	            <p>El periodo de prueba suele ser de 1–3 meses. Durante ese periodo, el preaviso suele ser corto y la relación es más “frágil”. Después, el preaviso aumenta según ley, contrato o CCT. Para el detalle: <a href="#/periodo-prueba-preaviso-suiza">Periodo de prueba y plazos de preaviso</a>.</p>
+
+	            <h3>Qué revisar antes de firmar</h3>
+	            <ul>
+	                <li><strong>Salario</strong> (bruto) y si existe <strong>13.º</strong> o bonus.</li>
+	                <li><strong>Jornada</strong> (horas/semana), registro de horas y compensación de horas extra.</li>
+	                <li><strong>Vacaciones</strong> (mínimo legal y política de empresa).</li>
+	                <li><strong>Teletrabajo</strong> (si existe): días, equipo, reglas.</li>
+	                <li><strong>Seguro de accidentes</strong> (habitualmente del empleador) y cobertura.</li>
+	                <li><strong>Fecha de inicio</strong> y condiciones especiales por escrito.</li>
+	            </ul>
+	            <p>Si algo es importante, no lo dejes “por entendido”: pide confirmación <strong>por escrito</strong>.</p>
+
+	            <h3>Nómina: qué te descuentan (y por qué)</h3>
+	            <p>Cuando negocies salario, recuerda que el “neto” depende de varias deducciones. En una nómina típica aparecen (según el caso):</p>
+	            <ul>
+	                <li><strong>AVS/AI/APG</strong> (seguridad social básica) y otras contribuciones obligatorias.</li>
+	                <li><strong>ALV/AC</strong> (seguro de desempleo).</li>
+	                <li><strong>LPP</strong> (2.º pilar / previsión profesional) a partir de ciertos umbrales y según edad.</li>
+	                <li><strong>Impuesto a la fuente</strong> para muchas personas con permiso L/B (varía por cantón y situación familiar).</li>
+	            </ul>
+	            <p>Los porcentajes exactos dependen de tu situación y de la empresa. La idea práctica es: pregunta si el salario es bruto anual, si hay 13.º, y calcula tu presupuesto con margen.</p>
+
+	            <h3>Enfermedad y accidentes (punto crítico)</h3>
+	            <p>En Suiza, el seguro de accidentes suele estar vinculado al empleo. Confirma qué cubre la empresa y qué debes cubrir tú. Si cambias de trabajo o dejas de trabajar, revisa tu situación para no quedarte con “agujeros” de cobertura.</p>
+
+	            <h3>Al salir de un empleo: certificado de trabajo</h3>
+	            <p>En muchos sectores es habitual pedir un <strong>certificado de trabajo</strong> al terminar. No es un “favor”: es un documento muy valorado en futuras candidaturas. Pídelo con tiempo y guarda copia.</p>
+
+	            <h3>Seguro de desempleo (paro) y RAV</h3>
+	            <p>En Suiza, el desempleo se gestiona con el RAV/ORP y una caja de desempleo. Si pierdes el empleo, puedes tener derecho a prestación si cumples condiciones, pero el sistema exige <strong>búsqueda documentada</strong> y plazos. No esperes a “ver qué pasa”: prepara evidencias y actúa rápido.</p>
+	            <p>Guía relacionada: <a href="#/rav-paro-suiza">RAV y paro en Suiza</a>.</p>
+
+	            <h2>Expectativas salariales</h2>
+	            <h3>Cómo estimar un rango realista</h3>
+	            <p>Los salarios varían muchísimo por cantón, sector y experiencia. Para evitar pedir a ciegas:</p>
+	            <ul>
+	                <li>Usa la herramienta oficial <strong>Salarium</strong> (estadísticas de la Oficina Federal de Estadística).</li>
+	                <li>Compara por región y nivel (junior/medio/senior) y por jornada (80% no es lo mismo que 100%).</li>
+	                <li>Aclara siempre: cifra <strong>bruta</strong>, si incluye 13.º, y qué pasa con horas extra/bonus.</li>
+	            </ul>
+
+	            <h3>Bruto vs neto: ejemplo orientativo</h3>
+	            <p>Ejemplo (muy orientativo): si te ofrecen 6.000 CHF brutos/mes, tu neto dependerá de tus deducciones sociales, previsión profesional y fiscalidad (cantón/comuna y, a menudo, impuesto a la fuente). No uses una “regla única” de internet: usa tu nómina real y, si dudas, pregunta a RRHH qué conceptos aplicarán.</p>
+
+	            <h3>Salario mínimo y CCT (varía por cantón/sector)</h3>
+	            <p>No existe un salario mínimo federal único para todos los sectores, pero hay cantones con reglas propias y, sobre todo, <strong>CCT</strong> que fijan mínimos obligatorios por sector. Para recién llegados, esto es importante: tu “suelo” puede venir del CCT aunque el anuncio no lo destaque.</p>
+
+	            <h3>Ejemplo práctico (cómo preguntar en entrevista)</h3>
+	            <p>Si te piden expectativas: da un rango y demuestra que has hecho deberes. Por ejemplo: “Según mi experiencia y el mercado en este cantón, me muevo en un rango X–Y CHF brutos anuales. Estoy abierto a ajustar según responsabilidades, 13.º, bonus y porcentaje de jornada”.</p>
+
+	            <h3>Lo que importa de verdad: el paquete</h3>
+	            <p>Tu “calidad de vida” depende de salario <em>y</em> de: coste de vivienda, seguro médico, transporte, estabilidad del contrato y crecimiento. No optimices solo el bruto: optimiza el conjunto.</p>
+
+	            <h2>Errores frecuentes</h2>
+	            <h3>1) Enviar CV genérico (sin logros)</h3>
+	            <p>Mejor 10 candidaturas alineadas que 80 genéricas. Un CV suizo eficaz suele ser de 1–2 páginas, con resultados y responsabilidades claras. Si necesitas ayuda, revisa <a href="#/buscar-empleo-suiza">Buscar empleo en Suiza</a>.</p>
+
+	            <h3>2) No indicar disponibilidad, ubicación y permiso</h3>
+	            <p>Si la empresa no entiende si puedes empezar y bajo qué condiciones, te descarta por incertidumbre. Indica fecha de disponibilidad, ciudad/cantón, y tu situación de derecho a trabajar.</p>
+
+	            <h3>3) Negociar sin entender 13.º y porcentaje</h3>
+	            <p>Un error típico es comparar un salario “mensual” sin saber si incluye 13.º. Otro: olvidarse de que un 80% reduce salario, vacaciones y a veces beneficios de forma proporcional. Pregunta siempre.</p>
+
+	            <h3>4) Firmar sin entender periodo de prueba y preaviso</h3>
+	            <p>Muchos conflictos nacen de asumir que “me voy con 30 días” o de no saber qué pasa durante la prueba. Léelo y pide aclaración.</p>
+
+	            <h3>5) No documentar la búsqueda si acabas en paro</h3>
+	            <p>En el RAV, una candidatura sin prueba puede contar como “no hecha”. Guarda emails, PDFs y capturas desde el primer día.</p>
+
+	            <h3>6) No adaptar idioma y formato</h3>
+	            <p>Enviar un CV en el idioma equivocado o con un formato difícil de leer reduce mucho respuestas. Si la oferta está en alemán, intenta responder en alemán (o explica claramente tu nivel y por qué el inglés sería viable para el puesto).</p>
+
+	            <h3>7) No hacer seguimiento</h3>
+	            <p>En Suiza, un seguimiento breve y profesional puede ayudarte: “Gracias por la entrevista, adjunto X, quedo disponible”. No es insistir; es demostrar fiabilidad.</p>
+
+	            <h2>Consejos prácticos</h2>
+	            <h3>Plan de 14 días (para empezar con orden)</h3>
+	            <ol>
+	                <li>Define 2–3 roles objetivo y 1 zona principal.</li>
+	                <li>Adapta CV y LinkedIn (coherencia de fechas y roles).</li>
+	                <li>Prepara carpeta de documentos (CV, diplomas, certificados, referencias).</li>
+	                <li>Crea una tabla de seguimiento: empresa, puesto, fecha, versión de CV, estado.</li>
+	                <li>Aplica y mejora: ajusta CV según respuestas reales.</li>
+	                <li>Activa alertas y revisa webs de empresas objetivo.</li>
+	            </ol>
+
+	            <h3>Rutina semanal (cuando la búsqueda se alarga)</h3>
+	            <ul>
+	                <li>2 días: candidaturas (calidad, CV adaptado, seguimiento).</li>
+	                <li>1 día: networking (llamadas cortas, mensajes, eventos).</li>
+	                <li>1 día: mejora (idioma, portfolio, entrevistas, certificaciones).</li>
+	                <li>1 día: revisión de estrategia (qué funciona y qué no).</li>
+	            </ul>
+
+	            <h3>Primer mes en el trabajo: checklist rápido</h3>
+	            <ul>
+	                <li>Guarda contrato, anexos y políticas internas en una carpeta.</li>
+	                <li>Verifica tu primera nómina: jornada, salario, 13.º, deducciones.</li>
+	                <li>Confirma coberturas de accidentes y qué debes hacer en caso de baja médica.</li>
+	                <li>Si estás a impuesto a la fuente, revisa que tu categoría sea correcta.</li>
+	            </ul>
+
+	            <h3>Checklist antes de una entrevista</h3>
+	            <ul>
+	                <li>Lee la empresa (actividad, clientes, noticias).</li>
+	                <li>Prepara 6 historias STAR (Situación–Tarea–Acción–Resultado).</li>
+	                <li>Ten un rango salarial listo y justificado (y preguntas sobre 13.º/bonus).</li>
+	                <li>Pregunta por objetivos 90 días, equipo, horarios reales y evaluación.</li>
+	            </ul>
+
+	            <h3>Señales de oferta dudosa (posible estafa)</h3>
+	            <ul>
+	                <li>“Contratación inmediata” sin entrevista real ni verificación.</li>
+	                <li>Piden dinero para “tramitar” contrato o permiso.</li>
+	                <li>Empresa sin rastro verificable o correos/dominios sospechosos.</li>
+	            </ul>
+
+	            <h2>Fuentes oficiales</h2>
+	            <ul>
+	                <li>ch.ch — Trabajo: <a href="https://www.ch.ch/es/trabajo/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/es/trabajo/</a></li>
+	                <li>ch.ch — Desempleo: <a href="https://www.ch.ch/es/trabajo/desempleo/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/es/trabajo/desempleo/</a></li>
+	                <li>SECO (mercado laboral): <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
+	                <li>Job-Room (servicio público): <a href="https://www.job-room.ch" target="_blank" rel="noopener noreferrer">https://www.job-room.ch</a></li>
+	                <li>OFS/BFS (Salarium): <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bfs.admin.ch</a></li>
+	            </ul>
+	        </div>`
+	    }
 });

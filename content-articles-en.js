@@ -1092,3 +1092,47 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 </div>`
     }
 };
+
+// Technical SEO: ensure every EN article has a stable, clean slug for canonical URLs and sitemap generation.
+(() => {
+    const slugMap = {
+        "articulo-permisos": "residence-permits-switzerland",
+        "articulo-registro": "registering-in-switzerland-commune",
+        "articulo-lamal": "health-insurance-switzerland-lamal",
+        "articulo-franquicia": "deductible-and-copayment-switzerland",
+        "articulo-impuestos": "taxes-in-switzerland",
+        "articulo-impuesto-fuente": "withholding-tax-switzerland-quellensteuer",
+        "articulo-seguros-sociales": "social-security-avs-lpp-and-unemployment",
+        "articulo-rav-paro": "unemployment-rav-switzerland",
+        "articulo-salarios": "salaries-in-switzerland",
+        "articulo-contratos": "employment-contracts-switzerland",
+        "articulo-periodo-prueba": "probation-and-notice-periods-switzerland",
+        "articulo-buscar-empleo": "job-searching-platforms-and-strategies",
+        "articulo-alquiler": "renting-apartment-switzerland",
+        "articulo-fianzas": "rental-deposits-and-tenant-rights",
+        "articulo-costo-vida": "cost-of-living-in-switzerland",
+        "articulo-frontaliers": "cross-border-workers-frontaliers-rules-and-taxes",
+        "articulo-diplomas": "recognition-of-foreign-diplomas",
+        "articulo-sistema-escolar": "the-swiss-school-system-explained",
+        "articulo-sistema-salud": "healthcare-system-doctors-and-emergencies",
+        "articulo-transporte": "public-transport-sbb-halbtax-and-ga",
+        "articulo-ciudadania": "swiss-citizenship-and-naturalization",
+        "articulo-tramites-llegada": "first-month-checklist-essential-steps-when-you-arrive-in-switzerland",
+        "articulo-trabajar-sin-permiso-fisico": "can-i-work-before-the-physical-permit-card-arrives",
+        "articulo-reagrupacion-familiar": "family-reunification-in-switzerland-how-to-bring-your-family",
+        "articulo-subalquiler": "subletting-in-switzerland-a-practical-legal-guide",
+        "articulo-jubilacion": "retirement-in-switzerland-what-you-might-receive-avs-ahv-lpp",
+        "articulo-vivir-sin-trabajar": "living-in-switzerland-without-working-eu-residents-requirements",
+        "articulo-ai-invalidez": "swiss-disability-insurance-iv-ai-reintegration-first",
+        "articulo-vacunas": "vaccines-in-switzerland-recommendations-and-choice",
+        "articulo-danza-patos": "fun-fact-the-duck-dance-is-swiss",
+        "articulo-introduccion-suiza": "how-switzerland-works-guide",
+        "articulo-cantones": "swiss-cantons-guide",
+        "articulo-lenguas": "languages-in-switzerland",
+        "articulo-consulados": "spanish-consulates-switzerland"
+    };
+
+    Object.entries(slugMap).forEach(([key, slug]) => {
+        if (window.siteContent.en.articles[key]) window.siteContent.en.articles[key].slug = slug;
+    });
+})();

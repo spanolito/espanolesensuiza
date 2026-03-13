@@ -886,11 +886,10 @@ document.addEventListener("DOMContentLoaded", () => {
     let currentLang = localStorage.getItem("lang") || "es";
     document.documentElement.lang = currentLang;
 
-    function setLanguage(lang) {
-        if (!window.siteContent[lang]) {
-            alert("This language is not yet available.");
-            return;
-        }
+    function applyLanguage(lang) {
+        if (!lang || !window.siteContent[lang]) return false;
+        if (currentLang === lang) return true;
+
         currentLang = lang;
         localStorage.setItem("lang", lang);
         document.documentElement.lang = currentLang;
@@ -904,6 +903,15 @@ document.addEventListener("DOMContentLoaded", () => {
         });
         if (currentLangDisplay) currentLangDisplay.textContent = currentLang.toUpperCase();
 
+        return true;
+    }
+
+    function setLanguage(lang) {
+        if (!window.siteContent[lang]) {
+            alert("This language is not yet available.");
+            return;
+        }
+        applyLanguage(lang);
         renderRoute();
     }
     window.setLanguage = setLanguage;
@@ -1274,6 +1282,72 @@ document.addEventListener("DOMContentLoaded", () => {
         return "/";
     }
 
+    const SUPPORTED_LANG_PREFIXES = ['es', 'en', 'fr', 'de', 'it'];
+    const HREFLANG_LANGS = ['es', 'en', 'fr', 'de'];
+
+    function extractLangFromPath(rawPath) {
+        const normalized = (rawPath || "").startsWith("/") ? rawPath : `/${rawPath || ""}`;
+        const parts = normalized.split("/").filter(Boolean);
+        const first = parts[0];
+        if (SUPPORTED_LANG_PREFIXES.includes(first)) {
+            const rest = "/" + parts.slice(1).join("/");
+            return { lang: first, path: (rest === "/" ? "/" : rest) };
+        }
+        return { lang: null, path: normalized || "/" };
+    }
+
+    function langPrefix(lang) {
+        return (!lang || lang === "es") ? "" : `/${lang}`;
+    }
+
+    function buildCleanPath({ lang, routeKey, isArticle, pageData }) {
+        const prefix = langPrefix(lang);
+        if (routeKey === "home") return prefix ? `${prefix}/` : "/";
+        if (isArticle) {
+            if (pageData && pageData.slug) return `${prefix}/${pageData.slug}`;
+            return `${prefix}/articulo/${routeKey}`;
+        }
+        return `${prefix}/${routeKey}`;
+    }
+
+    function updateHreflangAlternates({ baseUrl, routeKey, isArticle }) {
+        // Remove previous alternates injected by JS
+        document.querySelectorAll('link[data-hreflang-generated="1"]').forEach(el => el.remove());
+
+        const head = document.head || document.getElementsByTagName('head')[0];
+        if (!head) return;
+
+        const addAlt = (hreflang, href) => {
+            const link = document.createElement("link");
+            link.setAttribute("rel", "alternate");
+            link.setAttribute("hreflang", hreflang);
+            link.setAttribute("href", href);
+            link.setAttribute("data-hreflang-generated", "1");
+            head.appendChild(link);
+        };
+
+        let xDefaultHref = `${baseUrl}/`;
+
+        for (const lang of HREFLANG_LANGS) {
+            const langData = window.siteContent[lang];
+            if (!langData) continue;
+
+            if (isArticle) {
+                const article = langData.articles && langData.articles[routeKey];
+                if (!article || !article.slug) continue;
+                const href = baseUrl + buildCleanPath({ lang, routeKey, isArticle: true, pageData: article });
+                addAlt(lang, href);
+                if (lang === "es") xDefaultHref = href;
+            } else {
+                const href = baseUrl + buildCleanPath({ lang, routeKey, isArticle: false, pageData: null });
+                addAlt(lang, href);
+                if (lang === "es") xDefaultHref = href;
+            }
+        }
+
+        addAlt("x-default", xDefaultHref);
+    }
+
     /**
      * Resolves a raw string path into structured page data from memory.
      * @param {string} path - The raw path (e.g., "/tramites" or "/articulo/slug")
@@ -1428,16 +1502,8 @@ document.addEventListener("DOMContentLoaded", () => {
         const fullTitle = resolvedTitle + suffix;
         document.title = fullTitle;
 
-        // 2. Determine clean path for Search Engines (No hash)
-        let cleanPath = "/";
-        if (routeKey !== "home") {
-            // Prioritize clean slug for articles if available
-            if (isArticle && pageData.slug) {
-                cleanPath = `/${pageData.slug}`;
-            } else {
-                cleanPath = isArticle ? `/articulo/${routeKey}` : `/${routeKey}`;
-            }
-        }
+        // 2. Determine clean path for Search Engines (No hash), including language prefixes.
+        const cleanPath = buildCleanPath({ lang: currentLang, routeKey, isArticle, pageData });
         const fullUrl = baseUrl + cleanPath;
 
         // 3. Update Meta Description and Keywords
@@ -1471,6 +1537,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const twDesc = document.getElementById("twitter-description");
         if (twDesc) twDesc.setAttribute("content", resolvedDescription);
+
+        // 7. hreflang alternates (es/fr/de/en + x-default)
+        updateHreflangAlternates({ baseUrl, routeKey, isArticle });
     }
 
     /**
@@ -1478,7 +1547,10 @@ document.addEventListener("DOMContentLoaded", () => {
      * Centralized entry point for rendering any route.
      */
     function renderRoute() {
-        const path = getCurrentPath();
+        const rawPath = getCurrentPath();
+        const { lang: langFromUrl, path } = extractLangFromPath(rawPath);
+        if (langFromUrl) applyLanguage(langFromUrl);
+
         const langData = window.siteContent[currentLang];
         const { routeKey, pageData, isArticle } = resolveRoute(path);
 

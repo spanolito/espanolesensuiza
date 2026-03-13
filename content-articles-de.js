@@ -1051,3 +1051,47 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
 </div>`
     }
 };
+
+// Technical SEO: ensure every DE article has a stable, clean slug for canonical URLs and sitemap generation.
+(() => {
+    const slugMap = {
+        "articulo-permisos": "aufenthaltsbewilligungen-schweiz",
+        "articulo-registro": "anmeldung-gemeinde-schweiz",
+        "articulo-lamal": "krankenversicherung-schweiz-kvg",
+        "articulo-franquicia": "franchise-und-selbstbehalt-schweiz",
+        "articulo-impuestos": "steuern-schweiz",
+        "articulo-impuesto-fuente": "quellensteuer-schweiz",
+        "articulo-seguros-sociales": "sozialversicherungen-ahv-iv-bvg-und-alv",
+        "articulo-rav-paro": "arbeitslosigkeit-rav-schweiz",
+        "articulo-salarios": "lohne-in-der-schweiz-nach-branche-und-region",
+        "articulo-contratos": "arbeitsvertrage-in-der-schweiz-rechte-und-pflichten",
+        "articulo-periodo-prueba": "probezeit-und-kundigungsfristen",
+        "articulo-buscar-empleo": "jobsuche-plattformen-und-strategien",
+        "articulo-alquiler": "wohnung-mieten-schweiz",
+        "articulo-fianzas": "mietkaution-und-mieterrechte",
+        "articulo-costo-vida": "lebenshaltungskosten-in-der-schweiz",
+        "articulo-frontaliers": "grenzganger-regeln-und-steuern",
+        "articulo-diplomas": "anerkennung-auslandischer-diplome",
+        "articulo-sistema-escolar": "das-schweizer-schulsystem-erklart",
+        "articulo-sistema-salud": "gesundheitssystem-arzte-und-notfalle",
+        "articulo-transporte": "offentlicher-verkehr-sbb-halbtax-und-ga",
+        "articulo-ciudadania": "schweizer-burgerrecht-und-einburgerung",
+        "articulo-tramites-llegada": "checkliste-die-wichtigsten-schritte-im-ersten-monat-in-der-schweiz",
+        "articulo-trabajar-sin-permiso-fisico": "arbeiten-bevor-die-bewilligungskarte-da-ist",
+        "articulo-reagrupacion-familiar": "familiennachzug-in-der-schweiz-partner-und-kinder-nachholen",
+        "articulo-subalquiler": "untermiete-in-der-schweiz-das-wichtigste-rechtlich-and-praktisch",
+        "articulo-jubilacion": "rente-in-der-schweiz-was-sie-erwarten-konnen-ahv-avs-bvg-lpp",
+        "articulo-vivir-sin-trabajar": "in-der-schweiz-leben-ohne-zu-arbeiten-eu-efta-voraussetzungen",
+        "articulo-ai-invalidez": "iv-ai-in-der-schweiz-unterstutzung-und-wiedereingliederung",
+        "articulo-vacunas": "impfungen-in-der-schweiz-empfehlungen-statt-pflicht",
+        "articulo-danza-patos": "kuriositat-der-ententanz-hat-schweizer-ursprung",
+        "articulo-introduccion-suiza": "wie-die-schweiz-funktioniert-guide",
+        "articulo-cantones": "die-26-kantone-der-schweiz-was-sich-von-kanton-zu-kanton-andert",
+        "articulo-lenguas": "sprachen-in-der-schweiz-deutsch-franzosisch-italienisch-romanisch",
+        "articulo-consulados": "spanische-konsulate-schweiz"
+    };
+
+    Object.entries(slugMap).forEach(([key, slug]) => {
+        if (window.siteContent.de.articles[key]) window.siteContent.de.articles[key].slug = slug;
+    });
+})();
