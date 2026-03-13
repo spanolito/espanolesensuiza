@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import argparse
 import textwrap
 from pathlib import Path
 
@@ -2184,7 +2185,16 @@ def write_all(out_dir: Path) -> None:
 
 def main() -> int:
     add_remaining_articles()
-    out_dir = Path("docs/facebook-pipeline/articles")
+    parser = argparse.ArgumentParser(description="Write curated Facebook-derived articles (all languages).")
+    parser.add_argument(
+        "--out",
+        type=Path,
+        default=Path("docs/facebook-pipeline/articles"),
+        help="Output directory (default: docs/facebook-pipeline/articles)",
+    )
+    args = parser.parse_args()
+
+    out_dir = args.out
     write_all(out_dir)
     return 0
 

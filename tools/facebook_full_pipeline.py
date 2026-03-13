@@ -5,6 +5,7 @@ import argparse
 import csv
 import json
 import re
+import sys
 from collections import Counter, defaultdict
 from dataclasses import asdict, dataclass
 from html import unescape
@@ -511,6 +512,12 @@ def main() -> int:
     parser.add_argument("--input", type=Path, required=True, help="Path to group_posts_and_comments.html")
     parser.add_argument("--author", default="Oscar Antonio", help="Exact author label in the export")
     parser.add_argument("--out", type=Path, default=Path("docs/facebook-pipeline"), help="Output directory")
+    parser.add_argument(
+        "--articles",
+        choices=["curated", "template", "none"],
+        default="curated",
+        help="How to write articles: curated (recommended), template (boilerplate), or none.",
+    )
     args = parser.parse_args()
 
     html_text = args.input.read_text("utf-8", errors="ignore")
@@ -540,11 +547,19 @@ def main() -> int:
     out_dir: Path = args.out
     write_classification(posts, out_dir / "classification.csv", out_dir / "classification.md")
     write_clusters(posts, out_dir / "clusters.json", out_dir / "clusters.md")
-    write_articles(out_dir / "articles")
+    if args.articles == "template":
+        write_articles(out_dir / "articles")
+    elif args.articles == "curated":
+        tools_dir = Path(__file__).resolve().parent
+        if str(tools_dir) not in sys.path:
+            sys.path.insert(0, str(tools_dir))
+        import write_facebook_articles  # type: ignore
+
+        write_facebook_articles.add_remaining_articles()
+        write_facebook_articles.write_all(out_dir / "articles")
     write_roadmap(out_dir / "roadmap.md")
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
