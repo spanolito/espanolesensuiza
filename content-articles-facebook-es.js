@@ -19,7 +19,7 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 5,
         dateUpdated: "Marzo 2026",
         summary: "Guía para alquilar piso en Suiza: cómo preparar el dossier, contrato, fianza/depósito y señales de estafa (alquiler). Consejos para recién llegados.",
-        featuredImage: "media/v2-alquiler-claves.png",
+        featuredImage: "media/guides/alquilar-en-suiza-evitar-estafas.jpg",
         imageAlt: "Un juego de llaves de casa sobre una mesa de madera con un contrato de alquiler suizo de fondo",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -149,7 +149,7 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Consejos prácticos para tu día a día en Suiza: administración, vecinos, compras, transporte, salud y hábitos que evitan problemas.",
-        featuredImage: "media/guide-consejos-vida-diaria-suiza.svg",
+        featuredImage: "media/guides/consejos-vida-diaria-suiza.jpg",
         imageAlt: "Checklist de consejos prácticos para la vida diaria en Suiza",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -209,7 +209,7 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "Cómo estimar tu coste de vida en Suiza: alquiler, seguro médico, impuestos, transporte y “gastos invisibles”. Ejemplos por cantón y consejos.",
-        featuredImage: "media/guide-costo-vida-presupuesto-suiza.svg",
+        featuredImage: "media/guides/costo-de-vida-suiza-presupuesto.jpg",
         imageAlt: "Ilustración de presupuesto: cartera, calculadora y gastos para vivir en Suiza",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -342,7 +342,7 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Qué es la democracia directa suiza y cómo se decide: referéndums, iniciativas, votaciones y niveles (federal/cantonal/comunal). Guía para expatriados.",
-        featuredImage: "media/guide-democracia-directa-suiza.svg",
+        featuredImage: "media/guides/democracia-directa-suiza.jpg",
         imageAlt: "Urna y papeleta de votación, representando la democracia directa en Suiza",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -397,7 +397,7 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Alertas prácticas: estafas de alquiler, falsas multas, phishing, “ofertas de trabajo” falsas y suplantación. Señales típicas y cómo actuar en Suiza.",
-        featuredImage: "media/v2-fraudes-inmigrantes-suiza.png",
+        featuredImage: "media/guides/fraudes-inmigrantes-suiza.jpg",
         imageAlt: "Imagen conceptual de precaución con las llaves de casa y contratos",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -454,7 +454,7 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 3,
         dateUpdated: "Marzo 2026",
         summary: "Guía nacional de convivencia en Suiza: horas de silencio, residuos/reciclaje, aparcamiento, reglas de edificio y malentendidos típicos. Explicamos qué depende del cantón, la comuna o el reglamento interno.",
-        featuredImage: "media/guide-normas-convivencia-suiza.svg",
+        featuredImage: "media/guides/normas-locales-ginebra.jpg",
         imageAlt: "Casa, ruido y reciclaje, representando normas de convivencia en Suiza",
         relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
@@ -536,7 +536,7 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Guía práctica para recién llegados: diferencias L/B/C, checklist de llegada, cambios de situación y errores frecuentes, con enlaces oficiales.",
-        featuredImage: "media/v2-permisos-residencia.png",
+        featuredImage: "media/guides/permisos-suiza-actualizacion.jpg",
         imageAlt: "Primer plano de documentos de identidad y permisos de residencia suizos",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -582,7 +582,7 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "Guía práctica para elegir LAMal en Suiza: modelos (standard/cabecera/telmed/HMO), franquicia y copago, accidentes, complementarios, plazos de cambio y checklist para recién llegados.",
-        featuredImage: "media/v2-ahorro-salud.png",
+        featuredImage: "media/guides/seguro-medico-lamal-elegir.jpg",
         imageAlt: "Imagen conceptual de ahorro y salud en el sistema suizo",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -718,7 +718,7 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Guía clara del sistema suizo para expatriados: qué decide la Confederación, qué cambia por cantón y qué gestiona tu comuna. Con ejemplos y fuentes oficiales.",
-        featuredImage: "media/guide-sistema-politico-suiza.svg",
+        featuredImage: "media/guides/sistema-politico-suiza.jpg",
         imageAlt: "Instituciones suizas y federalismo: Confederación, cantones y comuna",
         relatedSlugs: [],
         content: `<div class="article-content">
