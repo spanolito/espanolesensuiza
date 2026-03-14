@@ -214,7 +214,7 @@ Object.assign(window.siteContent.de.articles, {
 	<h3>Region (Kanton/Gemeinde)</h3>
 	<p>Die grössten Unterschiede siehst du bei <strong>Miete</strong> und <strong>Krankenkassenprämien (LAMal/KVG)</strong>. Auch Steuern und gewisse lokale Gebühren können variieren. Praxisregel: Ein Budget “wie in der Stadt” erstellen und später günstiger wohnen ist einfacher als umgekehrt.</p>
     <figure class="article-figure">
-      <img src="images/suiza/mapa-coste-vida-zonas-caras.svg" alt="Orientierungskarte: typischerweise teurere Regionen zum Leben in der Schweiz (z. B. Zürich/Zug und Arc lémanique)" loading="lazy" decoding="async">
+      <img src="media/guides/coste-regiones-suiza.png" alt="Orientierungskarte: typischerweise teurere Regionen zum Leben in der Schweiz (z. B. Zürich/Zug und Arc lémanique)" loading="lazy" decoding="async">
       <figcaption>Orientierung: Kosten unterscheiden sich stark nach Stadt, Quartier und Wohnungstyp.</figcaption>
     </figure>
 	<h3>Haushalt (Single/Paar/Familie)</h3>
