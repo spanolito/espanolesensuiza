@@ -34,7 +34,7 @@ loadScript("content-articles-facebook-de.js");
 const slugs = [
   "alquilar-en-suiza-evitar-estafas",
   "consejos-vida-diaria-suiza",
-  "costo-de-vida-suiza-presupuesto",
+  "costo-de-vida-suiza",
   "democracia-directa-suiza",
   "fraudes-inmigrantes-suiza",
   "normas-locales-ginebra",

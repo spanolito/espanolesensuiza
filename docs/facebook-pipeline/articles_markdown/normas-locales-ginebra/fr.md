@@ -69,4 +69,4 @@ Beaucoup de conflits se règlent via le règlement :
 - Confédération (cadre général) : https://www.admin.ch
 - Portails officiels de ton canton et de ta commune (selon la région).
 
-Liens utiles : `#/alquilar-en-suiza-evitar-estafas`, `#/costo-de-vida-suiza-presupuesto`, `#/fraudes-inmigrantes-suiza`
+Liens utiles : `#/alquilar-en-suiza-evitar-estafas`, `#/presupuesto-suiza`, `#/fraudes-inmigrantes-suiza`

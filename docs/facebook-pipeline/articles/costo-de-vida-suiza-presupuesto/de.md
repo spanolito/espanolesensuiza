@@ -1,6 +1,6 @@
 ---
 lang: de
-slug: costo-de-vida-suiza-presupuesto
+slug: costo-de-vida-suiza
 hub: vivir-en-suiza
 seo_title: Lebenshaltungskosten in der Schweiz: realistisches Budget und versteckte Kosten
 meta_description: Budgetieren in der Schweiz: Miete, Krankenkasse, Steuern, Transport und versteckte Kosten. Tipps für Neuankömmlinge.

@@ -187,14 +187,14 @@ Object.assign(window.siteContent.de.articles, {
         </div>`
     },
 
-    "fb-costo-de-vida-suiza-presupuesto": {
+    "fb-costo-de-vida-suiza": {
         title: "Lebenshaltungskosten in der Schweiz",
         description: "Budgetieren in der Schweiz: Miete, Krankenkasse, Steuern, Transport und versteckte Kosten. Tipps für Neuankömmlinge.",
         keywords: "lebenshaltungskosten schweiz, budget schweiz, miete schweiz, krankenkasse schweiz",
         keywordsLocalized: true,
         category: "Leben in der Schweiz",
         hub: "vivir-en-suiza",
-        slug: "costo-de-vida-suiza-presupuesto",
+        slug: "costo-de-vida-suiza",
         supportingImages: [],
         readingTime: 4,
         dateUpdated: "März 2026",
@@ -444,7 +444,7 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 2,
         dateUpdated: "März 2026",
         summary: "Schweizweiter Leitfaden fürs Zusammenleben: Ruhezeiten, Abfall/Recycling, Parkieren, Hausordnung und typische Missverständnisse. Was vom Kanton, der Gemeinde oder der Hausordnung abhängt.",
-        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
+        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Einleitung</h2>
 <p>In der Schweiz sind Regeln oft klar – und werden auch umgesetzt. Viele Probleme von Neuankömmlingen entstehen nicht aus “Strenge”, sondern weil unklar ist, was kantonal, kommunal oder Teil der <strong>Hausordnung</strong> ist.</p>

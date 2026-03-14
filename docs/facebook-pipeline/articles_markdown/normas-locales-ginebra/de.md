@@ -69,4 +69,4 @@ Viele Konflikte lösen sich über die Hausordnung:
 - Eidgenossenschaft (allgemeiner Rahmen): https://www.admin.ch
 - Offizielle Portale von Kanton und Gemeinde (je nach Region).
 
-Weiterlesen: `#/alquilar-en-suiza-evitar-estafas`, `#/costo-de-vida-suiza-presupuesto`, `#/fraudes-inmigrantes-suiza`
+Weiterlesen: `#/alquilar-en-suiza-evitar-estafas`, `#/presupuesto-suiza`, `#/fraudes-inmigrantes-suiza`

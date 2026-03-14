@@ -69,4 +69,4 @@ Many everyday conflicts are solved via the building rules:
 - Swiss Confederation (general framework): https://www.admin.ch
 - Your canton and commune official portals (vary by region).
 
-Related: `#/alquilar-en-suiza-evitar-estafas`, `#/costo-de-vida-suiza-presupuesto`, `#/fraudes-inmigrantes-suiza`
+Related: `#/alquilar-en-suiza-evitar-estafas`, `#/presupuesto-suiza`, `#/fraudes-inmigrantes-suiza`

@@ -71,4 +71,4 @@ Muchas fricciones no se resuelven “con sentido común”, sino con el reglamen
 - Confederación (marco general): https://www.admin.ch
 - Portales de tu cantón y tu comuna (varían por región).
 
-Relacionado: `#/alquilar-en-suiza-evitar-estafas`, `#/costo-de-vida-suiza-presupuesto`, `#/fraudes-inmigrantes-suiza`
+Relacionado: `#/alquilar-en-suiza-evitar-estafas`, `#/presupuesto-suiza`, `#/fraudes-inmigrantes-suiza`

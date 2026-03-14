@@ -1,6 +1,6 @@
 ---
 lang: es
-slug: costo-de-vida-suiza-presupuesto
+slug: costo-de-vida-suiza
 hub: vivir-en-suiza
 seo_title: Costo de vida en Suiza: presupuesto realista y gastos invisibles
 meta_description: Cómo estimar tu coste de vida en Suiza: alquiler, seguro médico, impuestos, transporte y “gastos invisibles”. Ejemplos por cantón y consejos.
@@ -48,4 +48,4 @@ Tus grandes variables son:
 ## Conclusión
 Un presupuesto realista convierte “Suiza es cara” en una lista concreta: qué pagas, cuándo y cómo optimizarlo.
 
-Relacionado: `#/costo-de-vida-suiza`, `#/transporte-publico-suiza`, `#/seguro-medico-lamal-suiza`
+Relacionado: `#/presupuesto-suiza`, `#/transporte-publico-suiza`, `#/seguro-medico-lamal-suiza`

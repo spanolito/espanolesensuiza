@@ -179,14 +179,14 @@ Object.assign(window.siteContent.en.articles, {
         </div>`
     },
 
-    "fb-costo-de-vida-suiza-presupuesto": {
+    "fb-costo-de-vida-suiza": {
         title: "Cost of living in Switzerland",
         description: "How to budget for Switzerland: rent, health insurance, taxes, transport and “hidden costs”. Practical guidance for newcomers.",
         keywords: "cost of living switzerland, budget switzerland, rent switzerland, health insurance switzerland",
         keywordsLocalized: true,
         category: "Living in Switzerland",
         hub: "vivir-en-suiza",
-        slug: "costo-de-vida-suiza-presupuesto",
+        slug: "costo-de-vida-suiza",
         supportingImages: [],
         readingTime: 4,
         dateUpdated: "March 2026",
@@ -425,7 +425,7 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 2,
         dateUpdated: "March 2026",
         summary: "Switzerland-wide coexistence guide: quiet hours, waste/recycling habits, parking rules, building regulations and common newcomer misunderstandings. We explain what depends on your canton, commune or building rules.",
-        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
+        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>Switzerland is generally predictable: if a rule exists, it tends to be applied. Many newcomer problems are not about “strictness”, but about not knowing which rules are <strong>cantonal</strong>, <strong>communal</strong>, or simply part of a <strong>building’s internal regulations</strong>.</p>

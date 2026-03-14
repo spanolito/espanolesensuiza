@@ -23,7 +23,7 @@ Notes:
 | cantones-suiza | Los 26 cantones de Suiza: mapa, capitales e idiomas | vivir-en-suiza | 685 | good supporting article |
 | consulados-espanoles-suiza | Consulados españoles en Suiza: dónde están y qué trámites hacen | fuentes-oficiales | 512 | good supporting article |
 | contratos-de-trabajo-suiza | Contratos de trabajo en Suiza: derechos y obligaciones | trabajo | 182 | too short or weak |
-| costo-de-vida-suiza | Costo de vida en Suiza: vivienda, alimentación e impuestos | vivir-en-suiza | 177 | too short or weak |
+| presupuesto-suiza | Costo de vida en Suiza: vivienda, alimentación e impuestos | vivir-en-suiza | 177 | too short or weak |
 | fianzas-alquiler-suiza | Fianzas de alquiler y derechos del inquilino (ASLOCA/MV) | vivienda | 226 | too short or weak |
 | franquicia-seguro-medico-suiza | Franquicia y copago en el sistema de salud suizo | salud | 222 | too short or weak |
 | homologar-titulos-suiza | Reconocimiento de diplomas extranjeros en Suiza | tramites | 162 | too short or weak |
@@ -209,7 +209,7 @@ Important nuance: many cornerstone topics are **present as slugs**, but are curr
 
 ### High‑intent cornerstone topics that are weak today
 - Working in Switzerland (job search, contracts, salaries, labour rights): `buscar-empleo-suiza`, `contratos-de-trabajo-suiza`, `salarios-sueldo-suiza` (all thin)
-- Cost of living in Switzerland: `costo-de-vida-suiza` (thin)
+- Cost of living in Switzerland: `presupuesto-suiza` (thin)
 - Swiss taxes explained: `impuestos-en-suiza`, `impuesto-fuente-suiza` (thin)
 - Unemployment / RAV: `rav-paro-suiza` (thin)
 - Renting: `alquilar-vivienda-suiza`, `fianzas-alquiler-suiza`, `subalquiler-vivienda-suiza` (thin)
@@ -263,7 +263,7 @@ Supporting clusters:
 
 ### Pillar 4 — Cost of living in Switzerland
 **Pillar guide (target):** “Coste de vida en Suiza: presupuesto realista (vivienda, seguro, impuestos, transporte)”
-- Use/upgrade existing: `costo-de-vida-suiza`, plus link strongly to:
+- Use/upgrade existing: `presupuesto-suiza`, plus link strongly to:
   - housing costs (`alquilar-vivienda-suiza`, `fianzas-alquiler-suiza`)
   - taxes (`impuestos-en-suiza`, `impuesto-fuente-suiza`)
   - health insurance (`seguro-medico-lamal-suiza`, `franquicia-seguro-medico-suiza`)
@@ -292,7 +292,7 @@ Principle: every article should answer “what’s the next step?” and link to
 
 ### Housing cluster
 - `alquilar-vivienda-suiza` ↔ `fianzas-alquiler-suiza` ↔ `subalquiler-vivienda-suiza`
-- `alquilar-vivienda-suiza` → `costo-de-vida-suiza` (budget integration)
+- `alquilar-vivienda-suiza` → `presupuesto-suiza` (budget integration)
 - `fianzas-alquiler-suiza` → `impuestos-en-suiza` (deposit/budget planning)
 
 ### Health cluster

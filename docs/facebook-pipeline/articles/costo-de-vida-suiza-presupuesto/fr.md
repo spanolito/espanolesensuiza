@@ -1,6 +1,6 @@
 ---
 lang: fr
-slug: costo-de-vida-suiza-presupuesto
+slug: costo-de-vida-suiza
 hub: vivir-en-suiza
 seo_title: Coût de la vie en Suisse : budget réaliste et dépenses cachées
 meta_description: Comment budgéter en Suisse : loyer, assurance maladie, impôts, transports et dépenses “invisibles”. Conseils pour nouveaux arrivants.

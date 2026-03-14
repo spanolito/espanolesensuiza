@@ -7,7 +7,7 @@ These priorities match common expat search intent and your requested list.
 3. `permisos-suiza-actualizacion` — VIVIR EN SUIZA — hub `tramites` — Permisos en Suiza (L, B, C): checklist, errores típicos y casos reales
 4. `trabajar-en-suiza-guia` — TRABAJAR EN SUIZA — hub `trabajo` — Trabajar en Suiza: cómo buscar empleo, negociar y empezar bien
 5. `seguro-medico-lamal-elegir` — VIVIR EN SUIZA — hub `salud` — Cómo elegir seguro médico (LAMal) en Suiza: modelo, franquicia y prima
-6. `costo-de-vida-suiza-presupuesto` — VIVIR EN SUIZA — hub `vivir-en-suiza` — Costo de vida en Suiza: presupuesto realista y gastos invisibles
+6. `costo-de-vida-suiza` — VIVIR EN SUIZA — hub `vivir-en-suiza` — Costo de vida en Suiza: presupuesto realista y gastos invisibles
 7. `alquilar-en-suiza-evitar-estafas` — INSTALARSE — hub `vivienda` — Alquilar en Suiza: pasos, dossier, fianza y cómo evitar estafas
 8. `normas-locales-ginebra` — VIDA LOCAL — hub `vivir-en-suiza` — Normas locales en Ginebra (GE): convivencia, multas y buenas prácticas
 9. `fraudes-inmigrantes-suiza` — ALERTAS — hub `recursos` — Fraudes comunes contra inmigrantes en Suiza: señales y cómo protegerte

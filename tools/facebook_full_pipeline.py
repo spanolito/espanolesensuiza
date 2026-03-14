@@ -199,7 +199,7 @@ ARTICLE_SPECS = [
         "title_es": "Cómo elegir seguro médico (LAMal) en Suiza: modelo, franquicia y prima",
     },
     {
-        "slug": "costo-de-vida-suiza-presupuesto",
+        "slug": "costo-de-vida-suiza",
         "hub": "vivir-en-suiza",
         "section": "VIVIR EN SUIZA",
         "title_es": "Costo de vida en Suiza: presupuesto realista y gastos invisibles",

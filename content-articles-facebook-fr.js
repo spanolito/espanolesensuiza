@@ -178,14 +178,14 @@ Object.assign(window.siteContent.fr.articles, {
         </div>`
     },
 
-    "fb-costo-de-vida-suiza-presupuesto": {
+    "fb-costo-de-vida-suiza": {
         title: "Coût de la vie en Suisse",
         description: "Comment budgéter en Suisse : loyer, assurance maladie, impôts, transports et dépenses “invisibles”. Conseils pour nouveaux arrivants.",
         keywords: "cout de la vie suisse, budget suisse, loyer suisse, assurance maladie suisse",
         keywordsLocalized: true,
         category: "Vivre en Suisse",
         hub: "vivir-en-suiza",
-        slug: "costo-de-vida-suiza-presupuesto",
+        slug: "costo-de-vida-suiza",
         supportingImages: [],
         readingTime: 5,
         dateUpdated: "Mars 2026",
@@ -424,7 +424,7 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "Mars 2026",
         summary: "Guide national de cohabitation en Suisse : heures de silence, déchets/recyclage, stationnement, règlement d’immeuble et malentendus typiques. Ce qui dépend du canton, de la commune ou du règlement interne.",
-        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
+        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introduction</h2>
 <p>En Suisse, les règles sont souvent simples… et appliquées. Beaucoup de difficultés des nouveaux arrivants viennent moins de la “sévérité” que du fait de ne pas savoir ce qui relève du <strong>canton</strong>, de la <strong>commune</strong>, ou du <strong>règlement d’immeuble</strong>.</p>

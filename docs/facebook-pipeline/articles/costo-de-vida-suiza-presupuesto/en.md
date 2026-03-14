@@ -1,6 +1,6 @@
 ---
 lang: en
-slug: costo-de-vida-suiza-presupuesto
+slug: costo-de-vida-suiza
 hub: vivir-en-suiza
 seo_title: Cost of living in Switzerland: a realistic budget and hidden costs
 meta_description: How to budget for Switzerland: rent, health insurance, taxes, transport and “hidden costs”. Practical guidance for newcomers.

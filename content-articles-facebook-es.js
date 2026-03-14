@@ -197,14 +197,14 @@ Object.assign(window.siteContent.es.articles, {
         </div>`
     },
 
-    "fb-costo-de-vida-suiza-presupuesto": {
+    "fb-costo-de-vida-suiza": {
         title: "Costo de vida en Suiza",
         description: "Cómo estimar tu coste de vida en Suiza: alquiler, seguro médico, impuestos, transporte y “gastos invisibles”. Ejemplos por cantón y consejos.",
         keywords: "costo de vida suiza, vivir en suiza, alquiler suiza, seguro medico suiza, presupuesto suiza",
         keywordsLocalized: true,
         category: "Vivir en Suiza",
         hub: "vivir-en-suiza",
-        slug: "costo-de-vida-suiza-presupuesto",
+        slug: "costo-de-vida-suiza",
         supportingImages: [],
         readingTime: 4,
         dateUpdated: "Marzo 2026",
@@ -456,7 +456,7 @@ Object.assign(window.siteContent.es.articles, {
         summary: "Guía nacional de convivencia en Suiza: horas de silencio, residuos/reciclaje, aparcamiento, reglas de edificio y malentendidos típicos. Explicamos qué depende del cantón, la comuna o el reglamento interno.",
         featuredImage: "media/guides/normas-locales-ginebra.jpg",
         imageAlt: "Casa, ruido y reciclaje, representando normas de convivencia en Suiza",
-        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza-presupuesto", "fraudes-inmigrantes-suiza"],
+        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>Suiza es, en general, un país con normas claras y aplicación constante. El “choque cultural” para muchos recién llegados no es la dureza de la norma, sino <strong>la previsibilidad</strong>: si existe una regla, se espera que la conozcas y la cumplas.</p>

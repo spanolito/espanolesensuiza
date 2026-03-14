@@ -174,7 +174,7 @@ window.siteContent.es.articles = {
                 <ul>
                     <li><strong>Buscar trabajo</strong> y entender el mercado por cantón/idioma.</li>
                     <li>Preparar un <strong>CV adaptado a Suiza</strong> (dossier completo).</li>
-                    <li>Informarte sobre el <a href="#/costo-de-vida-suiza">coste de vida</a> y ajustar expectativas.</li>
+                    <li>Informarte sobre el <a href="#/presupuesto-suiza">coste de vida</a> y ajustar expectativas.</li>
                     <li>Tener <strong>ahorros</strong> para los primeros meses (alquiler, seguro, trámites).</li>
                 </ul>
                 <div class="callout info">
@@ -231,7 +231,7 @@ window.siteContent.es.articles = {
                         <tr><td><strong>Transporte</strong></td><td>70 – 150 CHF</td><td>Depende de ciudad/abonos; el tren interurbano encarece</td></tr>
                     </tbody>
                 </table>
-                <p>Más detalle: <a href="#/costo-de-vida-suiza">Costo de vida en Suiza</a>.</p>
+                <p>Más detalle: <a href="#/presupuesto-suiza">Costo de vida en Suiza</a>.</p>
 
                 <div class="callout info">
                     <strong>Consejo final</strong>
@@ -657,7 +657,7 @@ window.siteContent.es.articles = {
                     <li>Calcula tu “peor caso anual”: prima + franquicia + copago, para decidir con cabeza.</li>
                     <li>Si vas a contratar complementarios (dental, etc.), suele ser más fácil hacerlo cuando estás sano y antes de diagnósticos.</li>
                     <li>Si tu presupuesto es ajustado, revisa el tema de la <strong>reducción de primas</strong> de tu cantón (subsidio).</li>
-                    <li>Conecta esta guía con <a href="#/franquicia-seguro-medico-suiza">franquicia/copago</a> y <a href="#/costo-de-vida-suiza">coste de vida</a>.</li>
+                    <li>Conecta esta guía con <a href="#/franquicia-seguro-medico-suiza">franquicia/copago</a> y <a href="#/presupuesto-suiza">coste de vida</a>.</li>
                 </ul>
 
                 <h2>Fuentes oficiales</h2>
@@ -815,7 +815,7 @@ window.siteContent.es.articles = {
                     <li>Si cambias de comuna o cantón, asume que cambian reglas y revisa tu presupuesto.</li>
                     <li>Crea una carpeta fiscal anual (PDFs y cartas): Lohnausweis, contratos, recibos de 3er pilar y comunicaciones del cantón.</li>
                     <li>Si tienes dudas, consulta la autoridad fiscal de tu cantón: una llamada a tiempo evita errores caros.</li>
-                    <li>Conecta esta guía con <a href="#/costo-de-vida-suiza">coste de vida</a> y <a href="#/trabajadores-fronterizos-suiza">fronterizos</a> si aplica.</li>
+                    <li>Conecta esta guía con <a href="#/presupuesto-suiza">coste de vida</a> y <a href="#/trabajadores-fronterizos-suiza">fronterizos</a> si aplica.</li>
                 </ul>
 
                 <h2>Fuentes oficiales</h2>
@@ -1238,7 +1238,7 @@ window.siteContent.es.articles = {
                     <li>Escribe una mini presentación profesional (3–4 líneas) para acompañar la candidatura.</li>
                     <li>En visitas colectivas: llega puntual, sé breve y profesional, y envía la candidatura ese mismo día (si te interesa).</li>
                     <li>Si dudas de cláusulas del contrato o devolución de fianza, busca apoyo (por ejemplo, asociaciones de inquilinos) y revisa <a href="#/fianzas-alquiler-suiza">Fianzas y derechos</a>.</li>
-                    <li>Conecta vivienda con presupuesto y trámites: <a href="#/costo-de-vida-suiza">coste de vida</a> y <a href="#/tramites-llegada-suiza">primer mes</a>.</li>
+                    <li>Conecta vivienda con presupuesto y trámites: <a href="#/presupuesto-suiza">coste de vida</a> y <a href="#/tramites-llegada-suiza">primer mes</a>.</li>
                 </ul>
 
                 <h2>Fuentes oficiales</h2>
@@ -1284,7 +1284,7 @@ window.siteContent.es.articles = {
         keywords: "presupuesto suiza, el costo de vivir en suiza, precios suiza",
         category: 'Costo de Vida',
         hub: 'vivir-en-suiza',
-        slug: "costo-de-vida-suiza",
+        slug: "presupuesto-suiza",
         featuredImage: "media/guides/costo-de-vida-suiza.jpg",
         imageAlt: "Camión de mudanzas en un paisaje suizo, representando el coste de transporte y vida",
         supportingImages: [],
@@ -1961,7 +1961,7 @@ window.siteContent.es.articles = {
                     <a href="#/alquilar-vivienda-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🏠 Alquilar vivienda</a>
                     <a href="#/impuesto-fuente-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💰 Impuestos en Suiza</a>
                     <a href="#/sistema-escolar-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🎓 Sistema educativo</a>
-                    <a href="#/costo-de-vida-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💶 Costo de vida</a>
+                    <a href="#/presupuesto-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💶 Costo de vida</a>
                 </div>
             </div>
         `
