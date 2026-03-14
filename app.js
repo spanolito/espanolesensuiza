@@ -1264,14 +1264,11 @@ document.addEventListener("DOMContentLoaded", () => {
         const langArticles = window.siteContent[currentLang] && window.siteContent[currentLang].articles;
         if (!langArticles) return;
 
-        const featuredSlugs = [
-            "permisos-suiza-actualizacion",
-            "seguro-medico-lamal-elegir",
-            "alquilar-en-suiza-evitar-estafas",
-            "costo-de-vida-suiza-presupuesto",
-            "rav-paro-suiza",
-            "fraudes-inmigrantes-suiza"
-        ];
+	        const featuredSlugs = [
+	            "permisos-suiza-actualizacion",
+	            "seguro-medico-lamal-elegir",
+	            "alquilar-en-suiza-evitar-estafas"
+	        ];
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
         const scoreGuideCandidate = (article) => {

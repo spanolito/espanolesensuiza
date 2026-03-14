@@ -59,12 +59,12 @@ window.siteContent.es.pages = {
                 <h2 style="border-bottom:none; margin-bottom: 0.5rem;">${ui['home-title-start']}</h2>
                 <p style="font-size: 1.125rem; margin-bottom: 2rem; color: var(--text-secondary);">${ui['home-desc-start']}</p>
                 <div class="quick-start-grid">
-                    <a href="#/tramites-llegada-suiza" class="card-icon">
+	                    <a href="#/checklist-tramites-llegada-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
                         <h3>${ui['start-card-2-title']}</h3>
                         <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['start-card-2-desc']}</span>
                     </a>
-                    <a href="#/buscar-empleo-suiza" class="card-icon">
+	                    <a href="#/trabajar-en-suiza-guia" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
                         <h3>${ui['start-card-3-title']}</h3>
                         <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['start-card-3-desc']}</span>
@@ -79,7 +79,7 @@ window.siteContent.es.pages = {
                         <h3>${ui['start-card-5-title']}</h3>
                         <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['start-card-5-desc']}</span>
                     </a>
-                    <a href="#/impuesto-fuente-suiza" class="card-icon">
+	                    <a href="#/impuestos-en-suiza" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
                         <h3>${ui['cat-impuestos']}</h3>
                         <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['home-tax-topic-label']}</span>
