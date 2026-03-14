@@ -209,7 +209,7 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         summary: "Cómo estimar tu coste de vida en Suiza: alquiler, seguro médico, impuestos, transporte y “gastos invisibles”. Ejemplos por cantón y consejos.",
-        featuredImage: "media/guides/costo-de-vida-suiza-presupuesto.jpg",
+        featuredImage: "media/guides/costes-vida-suiza.png",
         imageAlt: "Ilustración de presupuesto: cartera, calculadora y gastos para vivir en Suiza",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -226,7 +226,7 @@ Object.assign(window.siteContent.es.articles, {
 	<h3>Región (cantón/comuna)</h3>
 	<p>Cambian sobre todo el <strong>alquiler</strong> y las <strong>primas de la LAMal</strong>. También puede cambiar la fiscalidad y tasas locales. Regla práctica: presupuestar en una ciudad grande y luego mudarte a una zona más barata es más fácil que al revés.</p>
     <figure class="article-figure">
-      <img src="images/suiza/mapa-coste-vida-zonas-caras.svg" alt="Mapa orientativo: zonas más caras para vivir en Suiza (por ejemplo, Zúrich/Zug y el arco lémanico)" loading="lazy" decoding="async">
+      <img src="media/guides/coste-regiones-suiza.png" alt="Mapa orientativo: zonas más caras para vivir en Suiza (por ejemplo, Zúrich/Zug y el arco lémanico)" loading="lazy" decoding="async">
       <figcaption>Orientativo: dentro de cada región hay diferencias por ciudad, barrio y tipo de vivienda.</figcaption>
     </figure>
 	<h3>Hogar (solo/pareja/familia)</h3>

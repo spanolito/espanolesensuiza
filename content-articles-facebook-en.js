@@ -206,7 +206,7 @@ Object.assign(window.siteContent.en.articles, {
 	<h3>Region (canton/municipality)</h3>
 	<p>The biggest differences are <strong>rent</strong> and <strong>LAMal/KVG premiums</strong>. Taxes and local fees can also vary. Practical rule: budgeting for a larger city and then moving to a cheaper area is easier than the reverse.</p>
     <figure class="article-figure">
-      <img src="images/suiza/mapa-coste-vida-zonas-caras.svg" alt="Indicative map: typically more expensive areas to live in Switzerland (e.g., Zurich/Zug and the Lake Geneva area)" loading="lazy" decoding="async">
+      <img src="media/guides/coste-regiones-suiza.png" alt="Indicative map: typically more expensive areas to live in Switzerland (e.g., Zurich/Zug and the Lake Geneva area)" loading="lazy" decoding="async">
       <figcaption>Indicative only: costs vary a lot by city, neighborhood and housing type.</figcaption>
     </figure>
 	<h3>Household (single/couple/family)</h3>

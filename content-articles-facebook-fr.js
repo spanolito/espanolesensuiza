@@ -205,7 +205,7 @@ Object.assign(window.siteContent.fr.articles, {
 	<h3>Région (canton/commune)</h3>
 	<p>Les plus gros écarts concernent le <strong>loyer</strong> et les <strong>primes LAMal/KVG</strong>. Les impôts et certaines taxes locales peuvent aussi varier. Règle pratique : budgéter comme si vous étiez dans une grande ville puis déménager moins cher est plus simple que l’inverse.</p>
     <figure class="article-figure">
-      <img src="images/suiza/mapa-coste-vida-zonas-caras.svg" alt="Carte indicative : zones généralement plus chères pour vivre en Suisse (p. ex. Zurich/Zoug et l’arc lémanique)" loading="lazy" decoding="async">
+      <img src="media/guides/coste-regiones-suiza.png" alt="Carte indicative : zones généralement plus chères pour vivre en Suisse (p. ex. Zurich/Zoug et l’arc lémanique)" loading="lazy" decoding="async">
       <figcaption>Indicatif : le coût varie beaucoup selon la ville, le quartier et le type de logement.</figcaption>
     </figure>
 	<h3>Foyer (seul/couple/famille)</h3>
