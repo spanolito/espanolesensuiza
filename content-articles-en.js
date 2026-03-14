@@ -1253,11 +1253,11 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 
 // Technical SEO: ensure every EN article has a stable, clean slug for canonical URLs and sitemap generation.
 (() => {
-    const slugMap = {
-        "articulo-permisos": "residence-permits-switzerland",
-                "articulo-mudarse-suiza": "mudarse-a-suiza-desde-espana",
-                "articulo-registro": "registering-in-switzerland-commune",
-                "articulo-lamal": "health-insurance-switzerland-lamal",
+	    const slugMap = {
+	        "articulo-permisos": "tramites-llegada-suiza",
+	                "articulo-mudarse-suiza": "mudarse-a-suiza-desde-espana",
+	                "articulo-registro": "registering-in-switzerland-commune",
+	                "articulo-lamal": "health-insurance-switzerland-lamal",
                 "articulo-franquicia": "deductible-and-copayment-switzerland",
                 "articulo-impuestos": "taxes-in-switzerland",
         "articulo-impuesto-fuente": "withholding-tax-switzerland-quellensteuer",

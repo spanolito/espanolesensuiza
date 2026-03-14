@@ -1269,7 +1269,7 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
 // Technical SEO: ensure every FR article has a stable, clean slug for canonical URLs and sitemap generation.
 (() => {
     const slugMap = {
-        "articulo-permisos": "permis-sejour-suisse",
+	        "articulo-permisos": "tramites-llegada-suiza",
         "articulo-mudarse-suiza": "mudarse-a-suiza-desde-espana",
         "articulo-registro": "inscription-commune-suisse",
         "articulo-lamal": "assurance-maladie-suisse-lamal",

@@ -11,13 +11,13 @@ window.siteContent.it.articles = {
         title: "Permessi di soggiorno in Svizzera: L, B, C e differenze",
         description: "Todo sobre los permisos suizos para residentes extranjeros. Conoce las diferencias entre permiso L, B y C.",
         keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
-        featuredImage: "media/guides/permisos-suiza.jpg",
-        category: "Procedure Ordinarie",
-        hub: "tramites",
-        slug: "permessi-soggiorno-svizzera",
-        readingTime: 4,
-        dateUpdated: "Actualizado frecuentemente",
-        summary: "Guida completa per comprendere i permessi di soggiorno svizzeri: L (breve durata), B (dimorante) e C (domiciliato).",
+	        featuredImage: "media/guides/permisos-suiza.jpg",
+	        category: "Procedure Ordinarie",
+	        hub: "tramites",
+	        slug: "tramites-llegada-suiza",
+	        readingTime: 4,
+	        dateUpdated: "Actualizado frecuentemente",
+	        summary: "Guida completa per comprendere i permessi di soggiorno svizzeri: L (breve durata), B (dimorante) e C (domiciliato).",
         content: `<div class="page-header">
 <h1>Permessi di soggiorno in Svizzera: permessi L, B, C e le loro differenze</h1>
 </div>

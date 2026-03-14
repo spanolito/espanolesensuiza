@@ -1219,7 +1219,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
 // Technical SEO: ensure every DE article has a stable, clean slug for canonical URLs and sitemap generation.
 (() => {
     const slugMap = {
-        "articulo-permisos": "aufenthaltsbewilligungen-schweiz",
+	        "articulo-permisos": "tramites-llegada-suiza",
         "articulo-mudarse-suiza": "mudarse-a-suiza-desde-espana",
         "articulo-registro": "anmeldung-gemeinde-schweiz",
         "articulo-lamal": "krankenversicherung-schweiz-kvg",
