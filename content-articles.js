@@ -1829,7 +1829,7 @@ window.siteContent.es.articles = {
                 <h2 id="lenguas">Sección 3 — Las 4 lenguas de Suiza</h2>
 
                 <figure style="margin: 1.5rem 0; text-align: center;">
-                    <img src="media/guides/lenguas-suiza.jpg"
+                    <img src="media/guides/lenguas-suiza.png"
                          alt="Mapa lingüístico de Suiza con las 4 regiones de lenguas oficiales: alemán, francés, italiano y romanche"
                          style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
                          loading="lazy">
