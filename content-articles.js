@@ -1778,6 +1778,16 @@ window.siteContent.es.articles = {
 
                 <h2 id="organizacion">Sección 1 — Cantones y organización territorial</h2>
 
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/mapa-politico-cantones.png"
+                         alt="Mapa político de Suiza con los 26 cantones y los tres niveles de gobierno"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Cada cantón tiene una historia y competencias propias dentro del Estado federal suizo.
+                    </figcaption>
+                </figure>
+
                 <p>Suiza es una <strong>Confederación Helvética</strong> formada por <strong>26 cantones</strong>. Esta estructura existe desde el siglo XIII y es la razón por la que el país tiene un funcionamiento tan peculiar. Cada cantón es, en esencia, un mini-estado con su propio gobierno, su propio parlamento y sus propias leyes.</p>
 
                 <p>La estructura administrativa tiene tres niveles:</p>
@@ -1790,16 +1800,6 @@ window.siteContent.es.articles = {
                 <div class="callout">
                     <strong>Ejemplo práctico:</strong> Cuando llegas a Suiza, no te registras en el Estado. Te registras en <em>tu commune</em> (municipio). Desde allí, te empadronan, gestionan tu permiso de residencia y determinan parte de tus impuestos.
                 </div>
-
-                <figure style="margin: 1.5rem 0; text-align: center;">
-                    <img src="media/guides/mapa-politico-cantones.png"
-                         alt="Mapa político de Suiza con los 26 cantones y los tres niveles de gobierno"
-                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
-                         loading="lazy">
-                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
-                        Cada cantón tiene una historia y competencias propias dentro del Estado federal suizo.
-                    </figcaption>
-                </figure>
 
                 <p>Los 26 cantones son, por orden de entrada en la Confederación: Uri, Schwyz, Obwalden, Nidwalden, Glaris, Zug, Friburgo, Soleura, Basilea-Ciudad, Basilea-Campo, Schaffhausen, Appenzell Rodas Exteriores, Appenzell Rodas Interiores, San Galo, Grisones, Argovia, Turgovia, Ticino, Vaud, Valais, Neuchâtel, Ginebra, Jura, Berna, Lucerna y Zúrich.</p>
 
