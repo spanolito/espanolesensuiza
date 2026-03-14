@@ -34,7 +34,7 @@ Ce document sert de passerelle entre :
 Priorité : transformer des clusters de posts en **guides piliers** (H2/H3, listes, cas pratiques) + liens internes.
 
 ### A) À enrichir (guides existants)
-- Permis L/B/C (`permisos-suiza`)
+- Permis L/B/C (`tramites-llegada-suiza`)
 - Checklist arrivée (`tramites-llegada-suiza`)
 - Contrats + période d’essai + préavis (`contratos-de-trabajo-suiza` + `periodo-prueba-preaviso-suiza`)
 - LAMal + franchise/copaiement (`seguro-medico-lamal-suiza` + `franquicia-seguro-medico-suiza`)
@@ -66,4 +66,3 @@ Pour éviter de stocker des textes (et rester “anti copier-coller”), on trav
 - présence d’images
 
 Outil : `tools/facebook_posts_index.py` (sortie Markdown ou JSON “metadata only”).
-

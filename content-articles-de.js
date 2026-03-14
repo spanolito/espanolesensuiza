@@ -6,18 +6,19 @@
 window.siteContent = window.siteContent || { es: { global: {}, pages: {}, articles: {} } };
 
 window.siteContent.de.articles = {
-    // 1. Permisos de residencia
-    "articulo-permisos": {
-        title: "Aufenthaltsbewilligungen in der Schweiz: L, B, C und die Unterschiede",
-        description: "Todo sobre los permisos suizos para residentes extranjeros. Conoce las diferencias entre permiso L, B y C.",
-        keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
-        featuredImage: "media/guides/permisos-suiza.jpg",
-        category: "Verwaltungsverfahren",
-        hub: "tramites",
-        readingTime: 4,
-        dateUpdated: "Actualizado frecuentemente",
-        summary: "Ein vollständiger Leitfaden zum Verständnis der Schweizer Aufenthaltsbewilligungen: Ausweis L (Kurzaufenthalt), B (Aufenthalt) und C (Niederlassung).",
-        content: `<div class="article-content">
+	    // 1. Permisos de residencia
+	    "articulo-permisos": {
+	        title: "Aufenthaltsbewilligungen in der Schweiz: L, B, C und die Unterschiede",
+	        description: "Todo sobre los permisos suizos para residentes extranjeros. Conoce las diferencias entre permiso L, B y C.",
+	        keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
+	        featuredImage: "media/guides/permisos-suiza.jpg",
+	        category: "Verwaltungsverfahren",
+	        hub: "tramites",
+	        slug: "tramites-llegada-suiza",
+	        readingTime: 4,
+	        dateUpdated: "Actualizado frecuentemente",
+	        summary: "Ein vollständiger Leitfaden zum Verständnis der Schweizer Aufenthaltsbewilligungen: Ausweis L (Kurzaufenthalt), B (Aufenthalt) und C (Niederlassung).",
+	        content: `<div class="article-content">
 <p>Um in die Schweiz zu ziehen, müssen Sie sich anmelden und eine Aufenthaltserlaubnis erhalten. Wenn Sie aus einem EU/EFTA-Land (einschließlich Spanien) kommen, wird der Prozess durch das Abkommen über den freien Personenverkehr (ALCP) erleichtert.</p>
 
 <h2>Vergleichstabelle</h2>

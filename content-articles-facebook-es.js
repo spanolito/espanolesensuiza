@@ -784,7 +784,7 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 14,
 	        dateUpdated: "Marzo 2026",
 	        summary: "Guía cornerstone para trabajar en Suiza: cómo buscar empleo, plataformas clave, salarios, contratos, periodo de prueba, paro (RAV) y errores típicos de recién llegados.",
-	        relatedSlugs: ["buscar-empleo-suiza", "contratos-de-trabajo-suiza", "periodo-prueba-preaviso-suiza", "salarios-sueldo-suiza", "rav-paro-suiza", "seguros-sociales-suiza", "permisos-suiza"],
+	        relatedSlugs: ["buscar-empleo-suiza", "contratos-de-trabajo-suiza", "periodo-prueba-preaviso-suiza", "salarios-sueldo-suiza", "rav-paro-suiza", "seguros-sociales-suiza", "tramites-llegada-suiza"],
 	        content: `<div class="article-content">
 	            <h2>Introducción</h2>
 	            <p>Trabajar en Suiza no es “imposible”, pero sí exige método. El mercado suele premiar la <strong>claridad</strong> (CV bien estructurado, logros medibles), la <strong>coherencia</strong> (perfil alineado con el puesto) y el <strong>seguimiento</strong> (documentación, plazos y respuestas rápidas).</p>
@@ -797,7 +797,7 @@ Object.assign(window.siteContent.es.articles, {
 
 	            <h3>2) Derecho a trabajar (permiso)</h3>
 	            <p>La contratación es más simple si la empresa entiende que puedes trabajar sin “riesgo administrativo”. Si ya tienes derecho a trabajar, dilo de forma clara. Si estás en trámite, explica qué te falta y cuál es el plazo estimado. Si eres de terceros países, el proceso puede ser más restrictivo y lento.</p>
-	            <p>Si necesitas contexto, revisa <a href="#/permisos-suiza">Permisos de residencia</a>.</p>
+	            <p>Si necesitas contexto, revisa <a href="#/tramites-llegada-suiza">Permisos de residencia</a>.</p>
 
 	            <h3>3) Qué valora Suiza: evidencias</h3>
 	            <p>En Suiza se valora mucho lo verificable: diplomas, certificados, referencias y, cuando existen, <strong>certificados de trabajo</strong> (Arbeitszeugnis / certificats de travail). No siempre te los pedirán el primer día, pero si tu candidatura compite con otras similares, estos documentos pueden inclinar la balanza.</p>

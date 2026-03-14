@@ -6,18 +6,19 @@
 window.siteContent = window.siteContent || { es: { global: {}, pages: {}, articles: {} } };
 
 window.siteContent.en.articles = {
-    // 1. Permisos de residencia
-    "articulo-permisos": {
-        title: "Residence permits in Switzerland: L, B, C and differences",
-        description: "Todo sobre los permisos suizos para residentes extranjeros. Conoce las diferencias entre permiso L, B y C.",
-        keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
-        featuredImage: "media/guides/permisos-suiza.jpg",
-        category: "Ordinary Procedures",
-        hub: "tramites",
-        readingTime: 4,
-        dateUpdated: "Actualizado frecuentemente",
-        summary: "A complete guide to understanding Swiss residence permits: L (short-term), B (resident) and C (settlement).",
-        content: `<div class="article-content"> 
+	    // 1. Permisos de residencia
+	    "articulo-permisos": {
+	        title: "Residence permits in Switzerland: L, B, C and differences",
+	        description: "Todo sobre los permisos suizos para residentes extranjeros. Conoce las diferencias entre permiso L, B y C.",
+	        keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
+	        featuredImage: "media/guides/permisos-suiza.jpg",
+	        category: "Ordinary Procedures",
+	        hub: "tramites",
+	        slug: "tramites-llegada-suiza",
+	        readingTime: 4,
+	        dateUpdated: "Actualizado frecuentemente",
+	        summary: "A complete guide to understanding Swiss residence permits: L (short-term), B (resident) and C (settlement).",
+	        content: `<div class="article-content"> 
 <p>Moving to Switzerland involves registering and obtaining a residence permit. If you come from an EU/EFTA country (including Spain), the process is facilitated by the Agreement on Free Movement of Persons (ALCP).</p> 
 
 <h2>Quick comparison</h2>

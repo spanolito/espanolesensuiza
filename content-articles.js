@@ -186,7 +186,7 @@ window.siteContent.es.articles = {
                 <ul>
                     <li>Encontrar <strong>alojamiento temporal</strong> para poder registrarte.</li>
                     <li>Registrarte en el ayuntamiento / comuna: <a href="#/registrarse-en-suiza">control de habitantes</a>.</li>
-                    <li>Solicitar el <a href="#/permisos-suiza">permiso de residencia</a> (según tu situación).</li>
+                    <li>Solicitar el <a href="#/tramites-llegada-suiza">permiso de residencia</a> (según tu situación).</li>
                 </ul>
 
                 <h2>3) Seguro médico</h2>
@@ -997,7 +997,7 @@ window.siteContent.es.articles = {
                     <li>Prepara el dossier “suizo”: CV, carta, diplomas y certificados. Apóyate en <a href="#/buscar-empleo-suiza">Buscar empleo en Suiza</a>.</li>
                     <li>Reserva dinero: la primera liquidación puede tardar y puede haber ajustes. Evita quedarte sin colchón.</li>
                     <li>Haz “pruebas a prueba de RAV”: guarda PDFs, emails y capturas con fecha. Una candidatura sin prueba suele contar como “no hecha”.</li>
-                    <li>Conecta tu situación de paro con permisos y trámites: <a href="#/permisos-suiza">permisos</a>, <a href="#/impuesto-fuente-suiza">impuesto a la fuente</a> si aplica.</li>
+                    <li>Conecta tu situación de paro con permisos y trámites: <a href="#/tramites-llegada-suiza">permisos</a>, <a href="#/impuesto-fuente-suiza">impuesto a la fuente</a> si aplica.</li>
                 </ul>
 
                 <h2>Fuentes oficiales</h2>
@@ -1943,7 +1943,7 @@ window.siteContent.es.articles = {
                 <h2>Artículos esenciales para nuevos residentes</h2>
                 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0.75rem; margin-top: 1rem;">
                     <a href="#/registrarse-en-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">📋 Registrarse en Suiza</a>
-                    <a href="#/permisos-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🪪 Permisos de residencia</a>
+                    <a href="#/tramites-llegada-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🪪 Permisos de residencia</a>
                     <a href="#/buscar-empleo-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💼 Buscar empleo</a>
                     <a href="#/seguro-medico-lamal-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🏥 Seguro médico LAMal</a>
                     <a href="#/alquilar-vivienda-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🏠 Alquilar vivienda</a>
@@ -2285,7 +2285,7 @@ window.siteContent.es.articles = {
                 <h2>Artículos relacionados</h2>
                 <ul>
                     <li><a href="#/registrarse-en-suiza">Registrarse en Suiza al llegar</a></li>
-                    <li><a href="#/permisos-suiza">Permisos de residencia L, B y C</a></li>
+                    <li><a href="#/tramites-llegada-suiza">Permisos de residencia L, B y C</a></li>
                     <li><a href="#/tramites-llegada-suiza">Trámites al llegar: lista completa</a></li>
                 </ul>
             </div>

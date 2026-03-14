@@ -1868,7 +1868,7 @@ def add_remaining_articles() -> None:
                     ## Conclusión
                     Permisos = planificación + plazos + documentación. Eso evita la mayoría de bloqueos.
 
-                    Relacionado: `#/permisos-suiza`, `#/registrarse-en-suiza`, `#/reagrupacion-familiar-suiza`
+                    Relacionado: `#/tramites-llegada-suiza`, `#/registrarse-en-suiza`, `#/reagrupacion-familiar-suiza`
                     """
                 ),
                 "en": md(

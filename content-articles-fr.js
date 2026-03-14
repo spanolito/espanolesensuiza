@@ -6,18 +6,19 @@
 window.siteContent = window.siteContent || { es: { global: {}, pages: {}, articles: {} } };
 
 window.siteContent.fr.articles = {
-    // 1. Permisos de residencia
-    "articulo-permisos": {
-        title: "Permis de séjour en Suisse : L, B, C et différences",
-        description: "Todo sobre los permisos suizos para residentes extranjeros. Conoce las diferencias entre permiso L, B y C.",
-        keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
-        featuredImage: "media/guides/permisos-suiza.jpg",
-        category: "Démarches Administratives",
-        hub: "tramites",
-        readingTime: 4,
-        dateUpdated: "Actualizado frecuentemente",
-        summary: "Guide complet pour comprendre les titres de séjour suisses : L (courte durée), B (résident) et C (établissement).",
-        content: `<div class="article-content">
+	    // 1. Permisos de residencia
+	    "articulo-permisos": {
+	        title: "Permis de séjour en Suisse : L, B, C et différences",
+	        description: "Todo sobre los permisos suizos para residentes extranjeros. Conoce las diferencias entre permiso L, B y C.",
+	        keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
+	        featuredImage: "media/guides/permisos-suiza.jpg",
+	        category: "Démarches Administratives",
+	        hub: "tramites",
+	        slug: "tramites-llegada-suiza",
+	        readingTime: 4,
+	        dateUpdated: "Actualizado frecuentemente",
+	        summary: "Guide complet pour comprendre les titres de séjour suisses : L (courte durée), B (résident) et C (établissement).",
+	        content: `<div class="article-content">
 <p>S'installer en Suisse implique de s'inscrire et d'obtenir un permis de séjour. Si vous venez d'un pays de l'UE/AELE (y compris l'Espagne), la démarche est facilitée par l'Accord sur la libre circulation des personnes (ALCP).</p>
 
 <h2>Tableau comparatif</h2>
@@ -936,7 +937,7 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
                 <h2>Articles associés</h2>
                 <ul>
                     <li><a href="#/registrarse-en-suiza">S'inscrire en Suisse à l'arrivée</a></li>
-                    <li><a href="#/permisos-suiza">Permis de sejour L, B et C</a></li>
+                    <li><a href="#/tramites-llegada-suiza">Permis de sejour L, B et C</a></li>
                     <li><a href="#/tramites-llegada-suiza">Démarches à l'arrivée : liste complète</a></li>
                 </ul>
             </div>

@@ -36,7 +36,7 @@ Notes:
 | nacionalidad-suiza-pasaporte | Ciudadanía suiza y el proceso de naturalización por residencia | tramites | 248 | too short or weak |
 | origen-danza-de-los-patos-suiza | ¿Sabías que la danza de los patos es de origen suizo? | vivir | 158 | too short or weak |
 | periodo-prueba-preaviso-suiza | El periodo de prueba y los plazos de preaviso en Suiza | trabajo | 171 | too short or weak |
-| permisos-suiza | Permisos de residencia en Suiza: L, B, C y diferencias | tramites | 458 | good supporting article |
+| tramites-llegada-suiza | Permisos de residencia en Suiza: L, B, C y diferencias | tramites | 458 | good supporting article |
 | rav-paro-suiza | RAV y paro en Suiza: cómo funciona el desempleo, requisitos y pasos | trabajo | 320 | too short or weak |
 | reagrupacion-familiar-suiza | Reagrupación familiar en Suiza: cómo traer a tu familia | tramites | 362 | too short or weak |
 | registrarse-en-suiza | Cómo registrarse al llegar a Suiza (Control de Habitantes) | tramites | 445 | too short or weak |
@@ -214,7 +214,7 @@ Important nuance: many cornerstone topics are **present as slugs**, but are curr
 - Unemployment / RAV: `rav-paro-suiza` (thin)
 - Renting: `alquilar-vivienda-suiza`, `fianzas-alquiler-suiza`, `subalquiler-vivienda-suiza` (thin)
 - Health insurance system: `seguro-medico-lamal-suiza`, `franquicia-seguro-medico-suiza` (thin)
-- Residence permits: `permisos-suiza` (supporting; still needs expansion to cornerstone depth)
+- Residence permits: `tramites-llegada-suiza` (supporting; still needs expansion to cornerstone depth)
 
 ### High‑value newcomer topics not clearly covered as core cornerstones
 (May exist elsewhere in the repo, but not as deep pages in the 4 “core” article bundles.)
@@ -254,7 +254,7 @@ Supporting clusters:
 
 ### Pillar 3 — Settling in Switzerland
 **Pillar guide (target):** “Instalarse en Suiza: permisos, vivienda, familia, primeros trámites”
-- Use/upgrade existing: `permisos-suiza`, `reagrupacion-familiar-suiza`, `residir-en-suiza-sin-trabajo`, `trabajar-antes-permiso-fisico-suiza`
+- Use/upgrade existing: `tramites-llegada-suiza`, `reagrupacion-familiar-suiza`, `residir-en-suiza-sin-trabajo`, `trabajar-antes-permiso-fisico-suiza`
 - Housing cluster: `alquilar-vivienda-suiza`, `fianzas-alquiler-suiza`, `subalquiler-vivienda-suiza`
 
 Supporting clusters:
@@ -280,7 +280,7 @@ Supporting clusters:
 Principle: every article should answer “what’s the next step?” and link to it. Below are recommended bidirectional links using existing slugs.
 
 ### Core “first month” flow
-- `tramites-llegada-suiza` → `registrarse-en-suiza` → `permisos-suiza`
+- `tramites-llegada-suiza` → `registrarse-en-suiza` → `tramites-llegada-suiza`
 - `tramites-llegada-suiza` → `seguro-medico-lamal-suiza` → `franquicia-seguro-medico-suiza`
 - `tramites-llegada-suiza` → `impuesto-fuente-suiza` → `impuestos-en-suiza`
 - `tramites-llegada-suiza` → `alquilar-vivienda-suiza` → `fianzas-alquiler-suiza`
@@ -288,7 +288,7 @@ Principle: every article should answer “what’s the next step?” and link to
 ### Work cluster
 - `buscar-empleo-suiza` → `salarios-sueldo-suiza` → `contratos-de-trabajo-suiza` → `periodo-prueba-preaviso-suiza`
 - `contratos-de-trabajo-suiza` → `seguros-sociales-suiza` → `jubilacion-pension-suiza`
-- `rav-paro-suiza` → `impuesto-fuente-suiza` (benefits/tax context) + → `permisos-suiza` (residence anxiety)
+- `rav-paro-suiza` → `impuesto-fuente-suiza` (benefits/tax context) + → `tramites-llegada-suiza` (residence anxiety)
 
 ### Housing cluster
 - `alquilar-vivienda-suiza` ↔ `fianzas-alquiler-suiza` ↔ `subalquiler-vivienda-suiza`
@@ -312,7 +312,7 @@ Principle: every article should answer “what’s the next step?” and link to
 - `robots.txt` now should point to `https://www.espanolesensuiza.ch/sitemap.xml`, aligned with the canonical base in `app.js` (`https://www.espanolesensuiza.ch`).
 
 ### 2) SPA routing and canonicals
-- The SPA uses hash routing, but `app.js` generates **clean canonical URLs** (e.g., `https://www.espanolesensuiza.ch/permisos-suiza`). This can work, but it increases the importance of:
+- The SPA uses hash routing, but `app.js` generates **clean canonical URLs** (e.g., `https://www.espanolesensuiza.ch/tramites-llegada-suiza`). This can work, but it increases the importance of:
   - consistent sitemaps for the same domain,
   - server behavior for clean paths (if they 404 at the edge, indexing can suffer).
 
