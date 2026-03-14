@@ -16,8 +16,8 @@ window.siteContent.es.articles = {
 	        slug: "tramites-llegada-suiza",
 	        readingTime: 12,
 	        dateUpdated: "Marzo 2026",
-	        featuredImage: "media/guides/permisos-suiza.jpg",
-        imageAlt: "Primer plano de documentos de identidad y permisos de residencia suizos",
+        featuredImage: "media/guides/tramites-llegada-suiza.jpg",
+    imageAlt: "Checklist de llegada con documentos, llaves y tarjetas suizas",
         summary: "Existen tres permisos principales (L, B, C). Tu nacionalidad (UE vs Terceros Países) y duración del contrato dictan cuál recibes. Puedes trabajar antes de tener la tarjeta física.",
         content: `
             <div class="article-content">
@@ -716,8 +716,8 @@ window.siteContent.es.articles = {
         hub: 'impuestos',
         slug: "impuestos-en-suiza",
         readingTime: 12,
-        featuredImage: "media/guides/impuestos-en-suiza.jpg",
-        imageAlt: "Persona revisando documentación fiscal con mapa de cantones suizos al fondo",
+        featuredImage: "media/impuestos-suiza.png",
+        imageAlt: "Formularios de impuestos, calculadora y monedas suizas sobre un escritorio ordenado",
         summary: 'En Suiza pagas impuestos a 3 niveles. El cantonal y comunal suponen la mayor carga y varían drásticamente incluso cruzando la calle.',
         content: `
             <div class="article-content">

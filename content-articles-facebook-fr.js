@@ -803,6 +803,8 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "Mars 2026",
         summary: "Guide clair pour nouveaux arrivants : ce qui relève du fédéral, ce qui change selon le canton et ce que gère votre commune. Exemples + sources officielles.",
+        featuredImage: "media/mapa-politico-cantones.png",
+        imageAlt: "Carte politique de la Suisse avec cantons et communes",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>

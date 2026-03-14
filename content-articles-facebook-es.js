@@ -718,8 +718,8 @@ Object.assign(window.siteContent.es.articles, {
         readingTime: 2,
         dateUpdated: "Marzo 2026",
         summary: "Guía clara del sistema suizo para expatriados: qué decide la Confederación, qué cambia por cantón y qué gestiona tu comuna. Con ejemplos y fuentes oficiales.",
-        featuredImage: "media/guides/sistema-politico-suiza.jpg",
-        imageAlt: "Instituciones suizas y federalismo: Confederación, cantones y comuna",
+        featuredImage: "media/mapa-politico-cantones.png",
+        imageAlt: "Mapa político de Suiza con Confederación, cantones y comunas",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introducción</h2>
