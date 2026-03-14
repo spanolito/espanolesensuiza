@@ -1285,7 +1285,7 @@ window.siteContent.es.articles = {
         category: 'Costo de Vida',
         hub: 'vivir-en-suiza',
         slug: "presupuesto-suiza",
-        featuredImage: "media/guides/costes-vida-suiza.png",
+        featuredImage: "media/guides/presupuesto-suiza.png",
         imageAlt: "Ilustración de presupuesto: cartera, calculadora y gastos para vivir en Suiza",
         supportingImages: [],
         readingTime: 5,
