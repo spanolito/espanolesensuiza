@@ -1279,45 +1279,71 @@ window.siteContent.es.articles = {
 
     // 14. Costo de vida
     "articulo-costo-vida": {
-        title: "Costo de vida en Suiza: vivienda, alimentación e impuestos",
-        description: "Ejemplo de presupuesto mensual suizo desglosado. ¿Es caro vivir en Suiza si vienes con salario suizo?",
-        keywords: "presupuesto suiza, el costo de vivir en suiza, precios suiza",
+        title: "Presupuestos en Suiza: Vivienda, Alimentación e Impuestos",
+        description: "Planificación financiera en Suiza con ejemplos de presupuestos para solteros, parejas y familias que enfrentan vivienda, alimentación e impuestos.",
+        keywords: "presupuesto suiza, planificación financiera suiza, familias suizas",
         category: 'Costo de Vida',
         hub: 'vivir-en-suiza',
         slug: "presupuesto-suiza",
         featuredImage: "media/guides/costo-de-vida-suiza.jpg",
         imageAlt: "Camión de mudanzas en un paisaje suizo, representando el coste de transporte y vida",
         supportingImages: [],
-        readingTime: 4,
-        summary: 'Un sueldo de 5000 CHF puede parecer alto, pero tras seguros, impuestos y alquiler, el margen de maniobra se reduce significativamente.',
+        readingTime: 5,
+        summary: 'Guía de planificación financiera para Suiza con ejemplos de presupuestos reales, desde personas solteras hasta familias con hijos.',
         content: `
             <div class="article-content">
-                <p>Si bien los salarios suizos son los más altos de Europa Occidental, los precios de los bienes y servicios también están a la par (la llamada "Ilot de cherté suisse").</p>
+                <h2>Introducción</h2>
+                <p>Suiza es uno de los países con el costo de vida más elevado de Europa, y por eso organizar cada franco es clave. La planificación financiera permite evitar sorpresas, controlar gastos y decidir con calma sobre vivienda, alimentación e impuestos. El Servicio de Asesoramiento Presupuestario Suizo (Conseil Budgetaire) publica ejemplos reales que ayudan a tomar referencia en la vida diaria.</p>
 
-                <h2>Diferencias regionales y coste de vida</h2>
-                <p>El coste de vida cambia mucho según la región: las grandes ciudades (Zúrich, Ginebra, Lausana, Basilea) suelen ser más caras, especialmente en vivienda. Usa el mapa como orientación geográfica y ajusta siempre con datos reales del cantón y la comuna.</p>
-
-                <h2>Presupuesto Orientativo Mensual (1 persona)</h2>
+                <h2>Presupuesto para una persona soltera</h2>
+                <p>Vivir solo exige equilibrar los gastos fijos con el ingreso neto mensual.</p>
                 <ul>
-                    <li><strong>Alquiler mensual (incluidos gastos carga, internet):</strong> 1.500 - 2.200 CHF (los precios en Ginebra y Zúrich son notablemente mayores a la media nacional).</li>
-                    <li><strong>Seguro de Salud Obligatorio (LAMal):</strong> 350 - 450 CHF.</li>
-                    <li><strong>La cesta de la compra y supermercado:</strong> 400 - 600 CHF (Migros, Coop, Aldi, Lidl).</li>
-                    <li><strong>Transporte (Abono mensual zona centro):</strong> 70 - 150 CHF.</li>
-                    <li><strong>Impuestos y Previsión Social (AVS/LPP/Quellensteuer):</strong> Ya están deducidos de tu sueldo bruto, representan aproximadamente el 15-25% antes de pagarte en cuenta (dependiendo del cantón).</li>
+                    <li><strong>Alquiler:</strong> un estudio o apartamento de una habitación suele costar entre 1.400 y 2.200 CHF con cargas incluidas. Planifica aumentos anuales y comparte gastos cuando sea posible.</li>
+                    <li><strong>Alimentación:</strong> preparar comida en casa en cadenas como Migros o Coop mantiene el gasto entre 400 y 500 CHF; comer fuera duplica la partida.</li>
+                    <li><strong>Transporte:</strong> el abono mensual urbano ronda 80-140 CHF; los menores de 25 años o quienes viven cerca pueden optar por opciones más asequibles.</li>
+                    <li><strong>Seguro de salud:</strong> la prima básica LAMal va de 300 a 450 CHF (según cantón y edad); define la franquicia y separa un fondo para cubrir copagos.</li>
                 </ul>
 
-                <h2>¿Se vive mejor?</h2>
-                <p>Pese a lo caro, el <em>poder adquisitivo disponible</em> al final de mes es en general superior al del resto de Europa. El sobrante económico real tras cubrir las altas necesidades básicas permite tener capacidad de ahorro, si el estilo de vida no es desmedido.</p>
-
-                <div class="callout info">
-                    <strong>Consejo práctico</strong>
-                    <p>El presupuesto real cambia mucho según el cantón y la comuna: alquiler, seguro médico e impuestos no cuestan lo mismo en todas partes. Antes de decidir una zona, compara cifras con datos oficiales y ajusta tu cálculo a tu situación.</p>
-                </div>
-
-                <h3>Enlaces útiles</h3>
+                <h2>Presupuesto para parejas sin hijos</h2>
+                <p>Dos adultos comparten gastos pero también reservan espacio para ocio y futuro.</p>
                 <ul>
-                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
-                    <li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">estv.admin.ch</a> (impuestos)</li>
+                    <li><strong>Vivienda:</strong> un apartamento de 2-3 habitaciones asciende a 2.300-3.200 CHF; reparten electricidad, internet y mantenimiento.</li>
+                    <li><strong>Ocio:</strong> restauración, gimnasio y escapadas representan 200-400 CHF; fijad un tope mensual para no sacrificar el ahorro.</li>
+                    <li><strong>Seguros:</strong> además del LAMal, suman responsabilidad civil y hogar, especialmente si tienen mascotas o coche.</li>
+                    <li><strong>Ahorro:</strong> reservad al menos el 10-15% de los ingresos para emergencias o metas (misma recomendación que los asesores presupuestarios suizos).</li>
+                </ul>
+
+                <h2>Presupuesto para familias con niños</h2>
+                <p>Las familias enfrentan partidas que se multiplican con cada niño.</p>
+                <ul>
+                    <li><strong>Guardería:</strong> una plaza cuesta entre 1.200 y 2.000 CHF por niño, aunque los subsidios cantonales pueden reducir el importe.</li>
+                    <li><strong>Educación:</strong> materiales, excursiones y cursos de idiomas suman 100-200 CHF al mes por niño.</li>
+                    <li><strong>Alimentación:</strong> preparar menús familiares eleva la partida a 700-900 CHF mensuales.</li>
+                    <li><strong>Ropa:</strong> planificad renovaciones y descuentos para no exagerar el gasto.</li>
+                    <li><strong>Transporte:</strong> abonos familiares o desplazamientos escolares agregan 150-250 CHF.</li>
+                    <li><strong>Actividades extraescolares:</strong> música, deporte o tutorías pueden costar 100-250 CHF por niño cada mes.</li>
+                </ul>
+
+                <h3>Familia con 1 hijo</h3>
+                <p>Un ejemplo típico combina un alquiler de 2.400 CHF, guardería parcial de 1.000 CHF y alimentación cercana a 650 CHF. Compartir traslados ayuda a reducir el gasto en transporte.</p>
+                <h3>Familia con 2 hijos</h3>
+                <p>Las guarderías y actividades extraescolares se duplican; conviene priorizar opciones públicas o centros con precios escalonados por hermano.</p>
+                <h3>Familia con 3 hijos</h3>
+                <p>El foco debe ser la eficiencia: energía y transporte más económicos, un fondo para imprevistos y aprovechar la escolaridad pública gratuita.</p>
+
+                <h2>¿Por qué es importante tener un presupuesto?</h2>
+                <p>Un presupuesto bien planificado transforma la incertidumbre en decisiones informadas.</p>
+                <ul>
+                    <li><strong>Controlar los gastos:</strong> registrar cada partida revela huecos donde se puede ahorrar (suscripciones, compras impulsivas, movilidad).</li>
+                    <li><strong>Planificar el futuro:</strong> saber cuánto sobra permite decidir si ahorrar para vivienda, cambiar de coche o invertir en educación.</li>
+                    <li><strong>Crear un fondo para imprevistos:</strong> los asesores recomiendan mínimo tres meses de gastos fijos para emergencias como reparaciones o pérdida de empleo.</li>
+                    <li><strong>Vivir con mayor tranquilidad financiera:</strong> menos sorpresas significa más confianza para adaptarse a cambios de cantón, familia o trabajo.</li>
+                </ul>
+
+                <h2>Fuentes oficiales</h2>
+                <ul>
+                    <li><a href="https://conseil-budgetaire.ch/" target="_blank" rel="noopener noreferrer">Servicio de Asesoramiento Presupuestario Suizo (Conseil Budgetaire)</a> – ejemplos reales de presupuestos y asesoramiento gratuito.</li>
+                    <li><a href="https://conseil-budgetaire.ch/individus/budgethilfen/budgetvorlagen" target="_blank" rel="noopener noreferrer">Modelos de presupuestos</a> listos para descargar y adaptar.</li>
                 </ul>
             </div>
         `
