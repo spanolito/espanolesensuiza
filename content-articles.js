@@ -1816,7 +1816,7 @@ window.siteContent.es.articles = {
                 </div>
 
                 <figure style="margin: 1.5rem 0; text-align: center;">
-                    <img src="media/mapa-politico-cantones.png"
+                    <img src="media/guides/mapa-politico-cantones.png"
                          alt="Mapa político de Suiza con los 26 cantones y los tres niveles de gobierno"
                          style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
                          loading="lazy">
