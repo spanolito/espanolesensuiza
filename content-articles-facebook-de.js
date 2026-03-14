@@ -188,7 +188,7 @@ Object.assign(window.siteContent.de.articles, {
     },
 
     "fb-costo-de-vida-suiza-presupuesto": {
-        title: "Lebenshaltungskosten in der Schweiz: realistisches Budget und versteckte Kosten",
+        title: "Lebenshaltungskosten in der Schweiz",
         description: "Budgetieren in der Schweiz: Miete, Krankenkasse, Steuern, Transport und versteckte Kosten. Tipps für Neuankömmlinge.",
         keywords: "lebenshaltungskosten schweiz, budget schweiz, miete schweiz, krankenkasse schweiz",
         keywordsLocalized: true,

@@ -198,7 +198,7 @@ Object.assign(window.siteContent.es.articles, {
     },
 
     "fb-costo-de-vida-suiza-presupuesto": {
-        title: "Costo de vida en Suiza: presupuesto realista y gastos invisibles",
+        title: "Costo de vida en Suiza",
         description: "Cómo estimar tu coste de vida en Suiza: alquiler, seguro médico, impuestos, transporte y “gastos invisibles”. Ejemplos por cantón y consejos.",
         keywords: "costo de vida suiza, vivir en suiza, alquiler suiza, seguro medico suiza, presupuesto suiza",
         keywordsLocalized: true,

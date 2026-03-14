@@ -180,7 +180,7 @@ Object.assign(window.siteContent.en.articles, {
     },
 
     "fb-costo-de-vida-suiza-presupuesto": {
-        title: "Cost of living in Switzerland: a realistic budget and hidden costs",
+        title: "Cost of living in Switzerland",
         description: "How to budget for Switzerland: rent, health insurance, taxes, transport and “hidden costs”. Practical guidance for newcomers.",
         keywords: "cost of living switzerland, budget switzerland, rent switzerland, health insurance switzerland",
         keywordsLocalized: true,

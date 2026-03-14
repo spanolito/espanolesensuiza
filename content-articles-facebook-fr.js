@@ -179,7 +179,7 @@ Object.assign(window.siteContent.fr.articles, {
     },
 
     "fb-costo-de-vida-suiza-presupuesto": {
-        title: "Coût de la vie en Suisse : budget réaliste et dépenses cachées",
+        title: "Coût de la vie en Suisse",
         description: "Comment budgéter en Suisse : loyer, assurance maladie, impôts, transports et dépenses “invisibles”. Conseils pour nouveaux arrivants.",
         keywords: "cout de la vie suisse, budget suisse, loyer suisse, assurance maladie suisse",
         keywordsLocalized: true,
