@@ -1201,7 +1201,7 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
         description: "Introduction pratique : fédéralisme, 26 cantons, démocratie directe, langues – et pourquoi votre canton impacte impôts, école et démarches.",
         keywords: "comment fonctionne la suisse, cantons, fédéralisme, démocratie directe, langues suisse",
         audience: "newcomer",
-        featuredImage: "media/guides/introduccion-suiza-como-funciona.jpg",
+        featuredImage: "media/guides/integracion-suiza.png",
         category: "Pays",
         hub: "vivir-en-suiza",
         readingTime: 7,

@@ -1744,7 +1744,7 @@ window.siteContent.es.articles = {
 
     // 26. Introducción a Suiza: página pilier
     "articulo-introduccion-suiza": {
-        featuredImage: "media/guides/introduccion-suiza-como-funciona.jpg",
+        featuredImage: "media/guides/integracion-suiza.png",
         title: "Cómo funciona Suiza: guía completa para nuevos residentes",
         description: "Guía completa sobre Suiza: organización federal, 26 cantones, sistema político, 4 lenguas, diferencias regionales, educación y vida cotidiana. Esencial antes de instalarse.",
         keywords: "suiza como funciona, cantones suiza, federalismo, democracia directa, lenguas suiza, sistema escolar suizo, diferencias cantones",
@@ -1755,7 +1755,7 @@ window.siteContent.es.articles = {
         readingTime: 10,
         dateUpdated: "Marzo 2026",
         summary: "Suiza no es un país convencional. Es una Confederación de 26 cantones autónomos, 4 lenguas oficiales, democracia directa y un federalismo que afecta tu vida diaria desde el primer día.",
-        imageAlt: "Vista panorámica de una ciudad suiza con arquitectura tradicional y moderna",
+        imageAlt: "Personas integrándose en la comunidad suiza frente a edificios públicos",
         content: `
             <div class="article-content">
                 <p>Si estás pensando en mudarte a Suiza, o acabas de llegar, entender cómo funciona el país es el primer paso. Suiza no funciona como España, ni como Francia, ni como ningún otro país europeo. Su sistema político, su organización territorial y su cultura administrativa son únicos — y afectan a tu vida diaria desde el momento en que firmas un contrato, eliges un seguro médico o te registras en la commune.</p>

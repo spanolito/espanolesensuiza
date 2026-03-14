@@ -1105,7 +1105,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         description: "Kurze Einführung: Föderalismus, 26 Kantone, direkte Demokratie, Sprachen – und warum Ihr Wohnkanton Steuern, Schule und Verfahren prägt.",
         keywords: "wie funktioniert die schweiz, kantone, föderalismus, direkte demokratie, sprachen",
         audience: "newcomer",
-        featuredImage: "media/guides/introduccion-suiza-como-funciona.jpg",
+        featuredImage: "media/guides/integracion-suiza.png",
         category: "Land",
         hub: "vivir-en-suiza",
         readingTime: 7,

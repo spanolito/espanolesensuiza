@@ -1136,7 +1136,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         description: "A practical introduction: federalism, 26 cantons, direct democracy, languages, and why the canton you live in affects taxes, school, and procedures.",
         keywords: "how switzerland works, cantons, federalism, direct democracy, languages in switzerland",
         audience: "newcomer",
-        featuredImage: "media/guides/introduccion-suiza-como-funciona.jpg",
+        featuredImage: "media/guides/integracion-suiza.png",
         category: "Country",
         hub: "vivir-en-suiza",
         readingTime: 7,

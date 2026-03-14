@@ -1111,7 +1111,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         description: "Introduzione pratica: federalismo, 26 cantoni, democrazia diretta, lingue e perché il cantone in cui vivi cambia tasse, scuola e pratiche.",
         keywords: "come funziona la svizzera, cantoni, federalismo, democrazia diretta, lingue svizzera",
         audience: "newcomer",
-        featuredImage: "media/guides/introduccion-suiza-como-funciona.jpg",
+        featuredImage: "media/guides/integracion-suiza.png",
         category: "Paese",
         hub: "vivir-en-suiza",
         readingTime: 7,
