@@ -827,8 +827,8 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 2,
         dateUpdated: "März 2026",
         summary: "Klarer Leitfaden für Neuankömmlinge: Was der Bund regelt, was je nach Kanton variiert und was die Gemeinde macht. Beispiele + offizielle Quellen.",
-        featuredImage: "media/mapa-politico-cantones.png",
-        imageAlt: "Politische Karte der Schweiz mit Kantonen und Gemeinden",
+        featuredImage: "media/guides/palacio-federal.jpg",
+        imageAlt: "Bundeshaus in Bern mit seiner klassizistischen Fassade",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Einleitung</h2>

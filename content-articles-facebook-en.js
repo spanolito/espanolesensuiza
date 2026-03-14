@@ -800,8 +800,8 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 2,
         dateUpdated: "March 2026",
         summary: "A clear guide for newcomers: what the federal level decides, what changes by canton, and what your commune manages. With practical examples and official sources.",
-        featuredImage: "media/mapa-politico-cantones.png",
-        imageAlt: "Political map of Switzerland highlighting cantons and communes",
+        featuredImage: "media/guides/palacio-federal.jpg",
+        imageAlt: "Swiss Federal Palace in Bern with its classical façade",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
