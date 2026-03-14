@@ -1791,6 +1791,16 @@ window.siteContent.es.articles = {
                     <strong>Ejemplo práctico:</strong> Cuando llegas a Suiza, no te registras en el Estado. Te registras en <em>tu commune</em> (municipio). Desde allí, te empadronan, gestionan tu permiso de residencia y determinan parte de tus impuestos.
                 </div>
 
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/mapa-politico-cantones.png"
+                         alt="Mapa político de Suiza con los 26 cantones y los tres niveles de gobierno"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Cada cantón tiene una historia y competencias propias dentro del Estado federal suizo.
+                    </figcaption>
+                </figure>
+
                 <p>Los 26 cantones son, por orden de entrada en la Confederación: Uri, Schwyz, Obwalden, Nidwalden, Glaris, Zug, Friburgo, Soleura, Basilea-Ciudad, Basilea-Campo, Schaffhausen, Appenzell Rodas Exteriores, Appenzell Rodas Interiores, San Galo, Grisones, Argovia, Turgovia, Ticino, Vaud, Valais, Neuchâtel, Ginebra, Jura, Berna, Lucerna y Zúrich.</p>
 
                 <p><a href="https://www.ch.ch/en/cantons/" target="_blank" rel="noopener noreferrer">→ Ver portales oficiales de los 26 cantones en ch.ch</a></p>
@@ -1817,7 +1827,8 @@ window.siteContent.es.articles = {
 
                 <h2 id="lenguas">Sección 3 — Las 4 lenguas de Suiza</h2>
 
-                    <img src="media/v2-lenguas-suiza.png"
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/lenguas-suiza.jpg"
                          alt="Mapa lingüístico de Suiza con las 4 regiones de lenguas oficiales: alemán, francés, italiano y romanche"
                          style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
                          loading="lazy">
@@ -1910,8 +1921,8 @@ window.siteContent.es.articles = {
                 <h2 id="regiones">Sección 6 — Diferencias culturales y regionales</h2>
 
                 <figure style="margin: 1.5rem 0; text-align: center;">
-                    <img src="media/v2-consulados-suiza.png"
-                         alt="Mapa de regiones culturales de Suiza: Suiza alemana (Deutschschweiz), Romandia (La Romandie) y Ticino"
+                    <img src="media/guides/mapa-regiones-suiza.png"
+                         alt="Mapa de regiones culturales y lingüísticas de Suiza con marcados Deutschschweiz, Romandie y Ticino"
                          style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
                          loading="lazy">
                     <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
