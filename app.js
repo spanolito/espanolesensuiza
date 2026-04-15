@@ -1270,9 +1270,9 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!langArticles) return;
 
 	        const featuredSlugs = [
-	            "permisos-suiza-actualizacion",
-	            "seguro-medico-lamal-elegir",
-	            "alquilar-en-suiza-evitar-estafas"
+	            "tramites-llegada-suiza",
+	            "seguro-medico-lamal-suiza",
+	            "alquilar-vivienda-suiza"
 	        ];
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];

@@ -68,7 +68,7 @@ window.siteContent.es.pages = {
                         <h3>${ui['start-card-2-title']}</h3>
                         <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['start-card-2-desc']}</span>
                     </a>
-	                    <a href="#/trabajar-en-suiza-guia" class="card-icon">
+	                    <a href="#/trabajo" class="card-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
                         <h3>${ui['start-card-3-title']}</h3>
                         <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['start-card-3-desc']}</span>
