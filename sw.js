@@ -1,5 +1,5 @@
 /* Simple SW: cache core assets + offline navigation fallback. */
-const CACHE_VERSION = "pwa-v1";
+const CACHE_VERSION = "pwa-v2";
 const CORE_ASSETS = [
   "/",
   "/index.html",
@@ -14,6 +14,10 @@ const CORE_ASSETS = [
   "/content-articles-fr.js",
   "/content-articles-de.js",
   "/content-articles-it.js",
+  "/content-articles-facebook-es.js",
+  "/content-articles-facebook-en.js",
+  "/content-articles-facebook-fr.js",
+  "/content-articles-facebook-de.js",
   "/icons/icon-192.png",
   "/icons/icon-512.png",
   "/icons/apple-touch-icon.png"
