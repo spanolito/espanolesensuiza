@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "dev": "npx serve . -p 3000",
     "check:i18n": "node check_i18n_coverage.js"
   },
   "dependencies": {
