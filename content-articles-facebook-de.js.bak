@@ -19,6 +19,8 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 4,
         dateUpdated: "März 2026",
         summary: "Praxisguide: Bewerbungsdossier, Vertrag, Kaution/Depot und typische Betrugszeichen. Für Neuankömmlinge.",
+        featuredImage: "media/guides/alquilar-en-suiza-evitar-estafas.jpg",
+        imageAlt: "Mietwohnung in der Schweiz mit Schlüssel und Mietvertrag",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Einleitung</h2>
@@ -156,6 +158,8 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 2,
         dateUpdated: "März 2026",
         summary: "Alltagstipps: Verwaltung, Nachbarn, ÖV, Krankenkasse, Budget und Gewohnheiten, die Probleme vermeiden.",
+        featuredImage: "media/guides/consejos-vida-diaria-suiza.jpg",
+        imageAlt: "Person organisiert ihren Alltag nach der Ankunft in der Schweiz",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Einleitung</h2>
@@ -199,6 +203,8 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 4,
         dateUpdated: "März 2026",
         summary: "Budgetieren in der Schweiz: Miete, Krankenkasse, Steuern, Transport und versteckte Kosten. Tipps für Neuankömmlinge.",
+        featuredImage: "media/guides/costes-vida-suiza.png",
+        imageAlt: "Diagramm der Lebenshaltungskosten in der Schweiz: Miete, Transport, Lebensmittel",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Einleitung</h2>
@@ -341,6 +347,8 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 2,
         dateUpdated: "März 2026",
         summary: "Was direkte Demokratie in der Schweiz bedeutet: Referenden, Volksinitiativen und Abstimmungen auf Bundes-, Kantons- und Gemeindeebene. Guide für Expats.",
+        featuredImage: "media/guides/democracia-directa-suiza.jpg",
+        imageAlt: "Wahlurne und Stimmzettel zur direkten Demokratie in der Schweiz",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Einleitung</h2>
@@ -394,6 +402,8 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 2,
         dateUpdated: "März 2026",
         summary: "Praktische Warnungen: Mietbetrug, falsche Bussen/QR, Phishing, Fake-Jobs. Warnzeichen und Vorgehen in der Schweiz.",
+        featuredImage: "media/guides/fraudes-inmigrantes-suiza.jpg",
+        imageAlt: "Warnung vor Betrugsmaschen gegen Expats in der Schweiz",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Einleitung</h2>
@@ -444,6 +454,8 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 2,
         dateUpdated: "März 2026",
         summary: "Schweizweiter Leitfaden fürs Zusammenleben: Ruhezeiten, Abfall/Recycling, Parkieren, Hausordnung und typische Missverständnisse. Was vom Kanton, der Gemeinde oder der Hausordnung abhängt.",
+        featuredImage: "media/guides/normas-locales-ginebra.jpg",
+        imageAlt: "Schweizer Zusammenlebensregeln: Lärm, Abfall, Parkieren",
         relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Einleitung</h2>
@@ -523,6 +535,8 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 2,
         dateUpdated: "März 2026",
         summary: "Praxisguide: Unterschiede L/B/C, Checkliste nach Zuzug, Situationswechsel und häufige Fehler, mit offiziellen Links.",
+        featuredImage: "media/guides/permisos-suiza-actualizacion.jpg",
+        imageAlt: "Schweizer Aufenthaltsbewilligungen L, B und C nebeneinander",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Einleitung</h2>
@@ -567,6 +581,8 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 4,
         dateUpdated: "März 2026",
         summary: "Praxisguide zur Arbeitslosenversicherung (ALV/AC): Rolle des RAV, Anspruch (Überblick), Höhe (indikativ), Dauer, Pflichten, typische Sanktionen und Checkliste für Neuankömmlinge.",
+        featuredImage: "media/guides/rav-paro-suiza.jpg",
+        imageAlt: "RAV-Büro und Formular zur Arbeitslosenversicherung in der Schweiz",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Einleitung</h2>
@@ -707,6 +723,8 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 4,
         dateUpdated: "März 2026",
         summary: "Praxisguide: Modelle (Standard/Hausarzt/Telmed/HMO), Franchise, Kostenbeteiligung, Wechsel und typische Fehler. Mit offiziellen Quellen.",
+        featuredImage: "media/guides/seguro-medico-lamal-elegir.jpg",
+        imageAlt: "Vergleich der Krankenversicherungen (LAMal/KVG) in der Schweiz",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Einleitung</h2>
@@ -890,6 +908,8 @@ Object.assign(window.siteContent.de.articles, {
         readingTime: 4,
         dateUpdated: "März 2026",
         summary: "Praxisguide: Schweizer CV, Interviews, Lohnverhandlung, Vertrag und typische Fehler für Neuankömmlinge.",
+        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
+        imageAlt: "Fachkraft im Vorstellungsgespräch in der Schweiz",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Einleitung</h2>

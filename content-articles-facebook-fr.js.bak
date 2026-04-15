@@ -19,6 +19,8 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 4,
         dateUpdated: "Mars 2026",
         summary: "Guide pratique : dossier de location, contrat, dépôt/caution et signaux d’arnaque. Pour nouveaux arrivants.",
+        featuredImage: "media/guides/alquilar-en-suiza-evitar-estafas.jpg",
+        imageAlt: "Appartement à louer en Suisse avec clés et contrat",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -147,6 +149,8 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "Mars 2026",
         summary: "Conseils pratiques : démarches, voisinage, transports, assurance maladie, budget et habitudes qui évitent les problèmes.",
+        featuredImage: "media/guides/consejos-vida-diaria-suiza.jpg",
+        imageAlt: "Personne organisant son quotidien à l'arrivée en Suisse",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -190,6 +194,8 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 5,
         dateUpdated: "Mars 2026",
         summary: "Comment budgéter en Suisse : loyer, assurance maladie, impôts, transports et dépenses “invisibles”. Conseils pour nouveaux arrivants.",
+        featuredImage: "media/guides/costes-vida-suiza.png",
+        imageAlt: "Graphique illustrant le coût de la vie en Suisse : loyer, transport, alimentation",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -321,6 +327,8 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "Mars 2026",
         summary: "Comprendre la démocratie directe suisse : référendum, initiative populaire et votations aux niveaux fédéral/cantonal/communal. Guide pour expatriés.",
+        featuredImage: "media/guides/democracia-directa-suiza.jpg",
+        imageAlt: "Urne et bulletin de vote illustrant la démocratie directe en Suisse",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -374,6 +382,8 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "Mars 2026",
         summary: "Alertes pratiques : arnaques de location, fausses amendes/QR, phishing, fausses offres d’emploi. Signaux typiques et conduite à tenir.",
+        featuredImage: "media/guides/fraudes-inmigrantes-suiza.jpg",
+        imageAlt: "Alerte aux arnaques ciblant les expatriés en Suisse",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -424,6 +434,8 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "Mars 2026",
         summary: "Guide national de cohabitation en Suisse : heures de silence, déchets/recyclage, stationnement, règlement d’immeuble et malentendus typiques. Ce qui dépend du canton, de la commune ou du règlement interne.",
+        featuredImage: "media/guides/normas-locales-ginebra.jpg",
+        imageAlt: "Règles de cohabitation en Suisse : bruit, déchets, stationnement",
         relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -503,6 +515,8 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "Mars 2026",
         summary: "Guide pratique : différences L/B/C, checklist à l’arrivée, changements de situation et erreurs typiques, avec liens officiels.",
+        featuredImage: "media/guides/permisos-suiza-actualizacion.jpg",
+        imageAlt: "Permis de séjour suisses L, B et C côte à côte",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -547,6 +561,8 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 4,
         dateUpdated: "Mars 2026",
         summary: "Guide pratique de l’assurance‑chômage (AC/ALV) : rôle du RAV, conditions (vue d’ensemble), montant (indicatif), durée, obligations, sanctions fréquentes et checklist pour nouveaux arrivants.",
+        featuredImage: "media/guides/rav-paro-suiza.jpg",
+        imageAlt: "Bureaux du RAV et formulaire d'assurance-chômage en Suisse",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -674,6 +690,8 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 4,
         dateUpdated: "Mars 2026",
         summary: "Guide pratique LAMal : modèles (standard/médecin de famille/telmed/HMO), franchise et quote‑part, couverture accident, complémentaires, délais de changement et checklist pour nouveaux arrivants.",
+        featuredImage: "media/guides/seguro-medico-lamal-elegir.jpg",
+        imageAlt: "Comparaison des assurances maladie LAMal en Suisse",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -866,6 +884,8 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 4,
         dateUpdated: "Mars 2026",
         summary: "Guide pratique : CV “suisse”, entretiens, négociation salariale, contrat et erreurs fréquentes pour nouveaux arrivants.",
+        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
+        imageAlt: "Professionnel lors d'un entretien d'embauche en Suisse",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
