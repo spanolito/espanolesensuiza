@@ -19,8 +19,6 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 4,
         dateUpdated: "March 2026",
         summary: "Practical guide: rental application dossier, contract, deposits and common scam signals. For newcomers renting a flat in Switzerland.",
-        featuredImage: "media/guides/alquilar-en-suiza-evitar-estafas.jpg",
-        imageAlt: "Rental apartment in Switzerland with keys and lease contract",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -149,8 +147,6 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 2,
         dateUpdated: "March 2026",
         summary: "Practical day-to-day tips: admin, neighbours, transport, health insurance, budgeting and habits that prevent problems.",
-        featuredImage: "media/guides/consejos-vida-diaria-suiza.jpg",
-        imageAlt: "Person organizing daily life after arriving in Switzerland",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -195,8 +191,6 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 4,
         dateUpdated: "March 2026",
         summary: "How to budget for Switzerland: rent, health insurance, taxes, transport and “hidden costs”. Practical guidance for newcomers.",
-        featuredImage: "media/guides/costes-vida-suiza.png",
-        imageAlt: "Chart showing cost of living in Switzerland: rent, transport, food",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -328,8 +322,6 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 2,
         dateUpdated: "March 2026",
         summary: "What Swiss direct democracy is and how decisions are made: referendums, popular initiatives and multi-level voting (federal/cantonal/communal). A guide for expats.",
-        featuredImage: "media/guides/democracia-directa-suiza.jpg",
-        imageAlt: "Ballot box and voting slip illustrating direct democracy in Switzerland",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -383,8 +375,6 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 2,
         dateUpdated: "March 2026",
         summary: "Practical alerts: rental scams, fake fines/QR, phishing, fake job offers and impersonation. Red flags and what to do in Switzerland.",
-        featuredImage: "media/guides/fraudes-inmigrantes-suiza.jpg",
-        imageAlt: "Warning against fraud targeting expatriates in Switzerland",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -435,8 +425,6 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 2,
         dateUpdated: "March 2026",
         summary: "Switzerland-wide coexistence guide: quiet hours, waste/recycling habits, parking rules, building regulations and common newcomer misunderstandings. We explain what depends on your canton, commune or building rules.",
-        featuredImage: "media/guides/normas-locales-ginebra.jpg",
-        imageAlt: "Swiss coexistence rules: noise, waste disposal, parking",
         relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -516,8 +504,6 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 2,
         dateUpdated: "March 2026",
         summary: "Practical newcomer guide: L/B/C differences, arrival checklist, situation changes and common mistakes, with official links.",
-        featuredImage: "media/guides/permisos-suiza-actualizacion.jpg",
-        imageAlt: "Swiss residence permits L, B and C side by side",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -562,8 +548,6 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 4,
         dateUpdated: "March 2026",
         summary: "Practical guide to Swiss unemployment insurance (ALV/AC): what the RAV does, who is eligible, how payments are calculated (indicative), duration, obligations, common sanctions and a newcomer checklist.",
-        featuredImage: "media/guides/rav-paro-suiza.jpg",
-        imageAlt: "RAV office and unemployment insurance form in Switzerland",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -688,8 +672,6 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 4,
         dateUpdated: "March 2026",
         summary: "Practical guide to choosing LAMal in Switzerland: access models (standard/GP/telmed/HMO), deductible and cost sharing, accident cover, add-ons, switching deadlines and a newcomer checklist.",
-        featuredImage: "media/guides/seguro-medico-lamal-elegir.jpg",
-        imageAlt: "Comparing LAMal health insurance plans in Switzerland",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -881,8 +863,6 @@ Object.assign(window.siteContent.en.articles, {
         readingTime: 4,
         dateUpdated: "March 2026",
         summary: "Practical job guide: Swiss-style CV, interviews, salary negotiation, contracts and common mistakes for newcomers.",
-        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
-        imageAlt: "Professional in a job interview in Switzerland",
         relatedSlugs: [],
         content: `<div class="article-content">
             <h2>Introduction</h2>

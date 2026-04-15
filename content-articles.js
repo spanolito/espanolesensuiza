@@ -2005,8 +2005,8 @@ window.siteContent.es.articles = {
         readingTime: 7,
         dateUpdated: "Marzo 2026",
         summary: "Suiza está formada por 26 cantones autónomos, cada uno con su propio sistema fiscal, educativo y administrativo. El cantón donde vives lo cambia casi todo.",
-        featuredImage: "media/guides/cantones-suiza.jpg",
-        imageAlt: "Mapa político de los 26 cantones de Suiza",
+        featuredImage: "media/guides/mapa-politico-cantones.png",
+        imageAlt: "Mapa político de los 26 cantones de Suiza con capitales e idiomas",
         content: `
                 <p>En Suiza, el cantón donde te instalas es tan importante como el país en sí. Cada uno de los 26 cantones tiene su propio gobierno, sus propias leyes fiscales, su propio sistema educativo y su propia identidad cultural. Entender esta estructura es esencial antes de decidir dónde vivir.</p>
 
@@ -2236,7 +2236,7 @@ window.siteContent.es.articles = {
         keywords: "consulado español suiza, consulado ginebra, consulado zurich, consulado berna, registro consular, pasaporte suiza, MAEC",
         audience: 'newcomer',
         category: 'Recursos Oficiales',
-        hub: 'recursos',
+        hub: 'tramites',
         slug: "consulados-espanoles-suiza",
         readingTime: 5,
         dateUpdated: "Marzo 2026",

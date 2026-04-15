@@ -80,16 +80,20 @@ Chaque article est un objet JS dans les fichiers `content-articles-*.js` :
 
 ## Sections du site (hubs)
 
-| Hub slug       | Thème principal              |
-|----------------|------------------------------|
-| trabajo        | Travail, contrats, salaires  |
-| tramites       | Permis, administrative       |
-| vivienda       | Logement, loyer              |
-| fiscalidad     | Impôts, source, frontaliers  |
-| educacion      | Scolarité, formation         |
-| salud          | Santé, assurances            |
-| vida-cotidiana | Vie quotidienne              |
-| fronterizos    | Travailleurs frontaliers     |
+Hubs réels définis dans `content-pages.js` :
+
+| Hub slug       | Thème principal                        |
+|----------------|----------------------------------------|
+| tramites       | Permis, démarches administratives      |
+| trabajo        | Travail, contrats, salaires            |
+| vivienda       | Logement, loyer, sous-location         |
+| vivir-en-suiza | Vie quotidienne, culture, intégration  |
+| salud          | Santé, assurances maladie              |
+| impuestos      | Impôts, fiscalité, source              |
+| fronterizos    | Travailleurs frontaliers               |
+| recursos       | Ressources officielles, outils         |
+
+Note : ne pas utiliser `fiscalidad`, `educacion` ou `vida-cotidiana` — ces slugs n'existent pas dans le site.
 
 ---
 
