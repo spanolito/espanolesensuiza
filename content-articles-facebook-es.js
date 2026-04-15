@@ -779,7 +779,7 @@ Object.assign(window.siteContent.es.articles, {
 	        category: "Trabajo y Salarios",
 	        hub: "trabajo",
 	        slug: "trabajar-en-suiza-guia",
-        featuredImage: "media/v2-trabajar-suiza.png",
+        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
         imageAlt: "Persona trabajando en una oficina moderna en Suiza con vistas a las montañas",
         readingTime: 14,
 	        dateUpdated: "Marzo 2026",

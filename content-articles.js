@@ -350,7 +350,7 @@ window.siteContent.es.articles = {
 	        slug: "checklist-tramites-llegada-suiza",
 	        readingTime: 7,
 	        dateUpdated: "Marzo 2026",
-	        featuredImage: "media/guides/tramites-llegada-suiza.jpg",
+	        featuredImage: "media/guides/checklist-llegada-suiza.jpg",
         imageAlt: "Documentos suizos: permiso de residencia, tarjeta de seguro médico, llaves y checklist",
         summary: "Guía práctica para quienes se mudan a Suiza a residir: orden recomendado de trámites del primer mes (registro, banco, LAMal, transporte, correo y normas básicas), con plazos y errores frecuentes.",
         content: `
@@ -716,7 +716,7 @@ window.siteContent.es.articles = {
         hub: 'impuestos',
         slug: "impuestos-en-suiza",
         readingTime: 12,
-        featuredImage: "media/guides/impuesto-fuente-suiza.jpg",
+        featuredImage: "media/guides/impuestos-generales-suiza.jpg",
         imageAlt: "Formularios de impuestos, calculadora y monedas suizas sobre un escritorio ordenado",
         summary: 'En Suiza pagas impuestos a 3 niveles. El cantonal y comunal suponen la mayor carga y varían drásticamente incluso cruzando la calle.',
         content: `
