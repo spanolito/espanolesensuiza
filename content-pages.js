@@ -34,19 +34,25 @@ window.siteContent.es.pages = {
             const zurich = formatConsulateDetails(ui['home-consulate-zurich-details']);
             return `
             <!-- SECCIÓN 1: Hero -->
-            <section class="hero-section" style="padding: 0; margin-bottom: var(--space-xl);">
+            <section style="margin-bottom: var(--space-xl);">
                 <h1 class="sr-only">${ui['home-sr-title']}</h1>
                 <p class="sr-only">${ui['home-sr-desc']}</p>
-                <div style="width: 100%; max-width: 1000px; margin: 0 auto; line-height: 0;">
-                    <img src="media/banner.jpg" alt="${ui['home-banner-alt']}" style="width: 100%; height: auto; display: block; filter: contrast(1.05);">
+
+                <!-- Banner + overlay -->
+                <div style="position:relative; width:100%; border-radius: var(--radius-md); overflow:hidden; margin-bottom: 2rem;">
+                    <img src="media/banner.jpg" alt="${ui['home-banner-alt']}" style="width:100%; max-height:500px; object-fit:cover; object-position:center 45%; display:block; filter:brightness(0.85);">
+                    <div style="position:absolute; inset:0;"></div>
                 </div>
-                <div class="search-container" style="margin-top: -30px;">
+
+                <!-- Barre de recherche -->
+                <div class="search-container">
                     <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
                     <input type="text" id="global-search" class="search-input" placeholder="${ui['search-placeholder']}" autocomplete="off">
                     <div id="search-results"></div>
                 </div>
-                <div class="hero-actions">
-                    <a href="#/tramites" class="btn btn-primary">${ui['cat-tramites']}</a>
+
+                <!-- CTA secondaires -->
+                <div class="hero-actions" style="margin-top:1.5rem;">
                     <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" rel="noopener noreferrer" class="btn" style="background:#1877F2; color:white; display:inline-flex; align-items:center; gap:8px;">
                         <svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
                         ${ui['home-hero-group-cta']}
@@ -56,7 +62,35 @@ window.siteContent.es.pages = {
                         ${ui['home-hero-whatsapp']}
                     </a>
                 </div>
+
+                <!-- Tagline + subtítulo bajo los botones -->
+                <p style="color: var(--color-primary, #c8102e); font-size:clamp(1.2rem,3vw,1.8rem); font-weight:700; text-align:center; margin-top:1.25rem; margin-bottom:0.4rem;">
+                    ${ui['home-hero-tagline'] || 'Tu guía de referencia para vivir y trabajar en Suiza'}
+                </p>
+                <p style="color: var(--color-primary, #c8102e); font-size:1rem; font-weight:500; text-align:center; margin:0; max-width:600px; margin-left:auto; margin-right:auto;">
+                    ${ui['home-hero-sub'] || 'Información práctica, verificada y directamente explotable sobre permisos, trabajo, vivienda, fiscalidad y vida diaria.'}
+                </p>
             </section>
+
+            <!-- STATS STRIP -->
+            <div class="stats-strip animate-fade-up">
+                <div class="stat-item">
+                    <span class="stat-number">80k+</span>
+                    <span class="stat-label">Miembros comunidad</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">45+</span>
+                    <span class="stat-label">Guías publicadas</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">4</span>
+                    <span class="stat-label">Idiomas</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">26</span>
+                    <span class="stat-label">Cantones cubiertos</span>
+                </div>
+            </div>
 
             <!-- SECCIÓN 1: Empezar aquí -->
             <section class="animate-fade-up delay-100" style="margin-top: var(--space-xl);">
@@ -103,40 +137,54 @@ window.siteContent.es.pages = {
                 <h2>${ui['home-title-fuentes']}</h2>
                 <p style="margin-bottom:2rem; color:var(--text-secondary);">${ui['home-desc-fuentes']}</p>
                 <div class="featured-grid">
-                    <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">${ui['fuente-label-federal']}</div>
-                        <h3>ch.ch</h3>
-                        <p>${ui['fuente-ch-desc']}</p>
+                    <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer" class="card-article no-image">
+                        <div class="card-article-body">
+                            <div class="card-meta">${ui['fuente-label-federal']}</div>
+                            <h3>ch.ch</h3>
+                            <p>${ui['fuente-ch-desc']}</p>
+                        </div>
                     </a>
-                    <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">${ui['fuente-label-migracion']}</div>
-                        <h3>SEM</h3>
-                        <p>${ui['fuente-sem-desc']}</p>
+                    <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article no-image">
+                        <div class="card-article-body">
+                            <div class="card-meta">${ui['fuente-label-migracion']}</div>
+                            <h3>SEM</h3>
+                            <p>${ui['fuente-sem-desc']}</p>
+                        </div>
                     </a>
-                    <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">${ui['fuente-label-estadistica']}</div>
-                        <h3>OFS / BFS</h3>
-                        <p>${ui['fuente-bfs-desc']}</p>
+                    <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article no-image">
+                        <div class="card-article-body">
+                            <div class="card-meta">${ui['fuente-label-estadistica']}</div>
+                            <h3>OFS / BFS</h3>
+                            <p>${ui['fuente-bfs-desc']}</p>
+                        </div>
                     </a>
-                    <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">${ui['fuente-label-economia']}</div>
-                        <h3>SECO</h3>
-                        <p>${ui['fuente-seco-desc']}</p>
+                    <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer" class="card-article no-image">
+                        <div class="card-article-body">
+                            <div class="card-meta">${ui['fuente-label-economia']}</div>
+                            <h3>SECO</h3>
+                            <p>${ui['fuente-seco-desc']}</p>
+                        </div>
                     </a>
-                    <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">${ui['fuente-label-consulado']} · GE · VD · VS · NE · FR · JU</div>
-                        <h3>${ui['home-consulate-geneva']}</h3>
-                        <p>${geneva.address}${geneva.phone ? `<br>${geneva.phone}` : ''}</p>
+                    <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" class="card-article no-image">
+                        <div class="card-article-body">
+                            <div class="card-meta">${ui['fuente-label-consulado']} · GE · VD · VS · NE · FR · JU</div>
+                            <h3>${ui['home-consulate-geneva']}</h3>
+                            <p>${geneva.address}${geneva.phone ? `<br>${geneva.phone}` : ''}</p>
+                        </div>
                     </a>
-                    <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">${ui['fuente-label-consulado']} · BE · SO · FR · VS</div>
-                        <h3>${ui['home-consulate-bern']}</h3>
-                        <p>${bern.address}${bern.phone ? `<br>${bern.phone}` : ''}</p>
+                    <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" class="card-article no-image">
+                        <div class="card-article-body">
+                            <div class="card-meta">${ui['fuente-label-consulado']} · BE · SO · FR · VS</div>
+                            <h3>${ui['home-consulate-bern']}</h3>
+                            <p>${bern.address}${bern.phone ? `<br>${bern.phone}` : ''}</p>
+                        </div>
                     </a>
-                    <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="card-article">
-                        <div class="card-meta">${ui['fuente-label-consulado']} · ZH · BS · LU · AG · TI ···</div>
-                        <h3>${ui['home-consulate-zurich']}</h3>
-                        <p>${zurich.address}${zurich.phone ? `<br>${zurich.phone}` : ''}</p>
+                    <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="card-article no-image">
+                        <div class="card-article-body">
+                            <div class="card-meta">${ui['fuente-label-consulado']} · ZH · BS · LU · AG · TI ···</div>
+                            <h3>${ui['home-consulate-zurich']}</h3>
+                            <p>${zurich.address}${zurich.phone ? `<br>${zurich.phone}` : ''}</p>
+                        </div>
                     </a>
                 </div>
                 <p style="margin-top:0.75rem; font-size:0.85rem; color:var(--text-light);">

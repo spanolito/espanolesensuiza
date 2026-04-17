@@ -106,7 +106,7 @@
                     <li><a href="#/tramites" class="nav-link" data-i18n="nav-tramites">Trámites</a></li>
                     <li><a href="#/trabajo" class="nav-link" data-i18n="nav-trabajo">Trabajo</a></li>
                     <li><a href="#/vivienda" class="nav-link" data-i18n="nav-vivienda">Vivienda</a></li>
-                    <li><a href="#/fronterizos" class="nav-link" data-i18n="nav-fronterizos">Fronterizos</a></li>
+                    <li><a href="#/impuestos" class="nav-link" data-i18n="nav-impuestos">Impuestos</a></li>
                     <li class="dropdown">
                         <button class="dropdown-toggle" aria-expanded="false"><span data-i18n="nav-mas">Más</span> <svg
                                 width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -115,7 +115,7 @@
                             </svg></button>
                         <ul class="dropdown-menu">
                             <li><a href="#/salud" class="nav-link" data-i18n="nav-salud">Salud (LAMal)</a></li>
-                            <li><a href="#/impuestos" class="nav-link" data-i18n="nav-impuestos">Impuestos</a></li>
+                            <li><a href="#/fronterizos" class="nav-link" data-i18n="nav-fronterizos">Fronterizos</a></li>
                             <li><a href="#/recursos" class="nav-link" data-i18n="nav-recursos">Recursos Útiles</a></li>
                             <li><a href="#/comunidad" class="nav-link" data-i18n="nav-comunidad">Comunidad</a></li>
                             <li><a href="#/contacto" class="nav-link" data-i18n="nav-contacto">Contacto</a></li>
@@ -157,37 +157,67 @@
     <!-- Footer -->
     <footer class="site-footer">
         <div class="container footer-inner">
+            <!-- Colonne 1 : Brand + newsletter -->
             <div class="footer-col">
-                <h3 data-i18n="footer-title">Españoles en Suiza</h3>
-                <p data-i18n="footer-desc">Información práctica y fiable para la comunidad hispanohablante residente o
-                    con planes de residencia en Suiza.</p>
-                <a href="#comunidad" class="fb-link" data-i18n="footer-fb">Únete a nuestro grupo en Facebook &rarr;</a>
+                <div class="footer-logo">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="24" rx="2" fill="#D52B1E"/><path d="M10 5H14V10H19V14H14V19H10V14H5V10H10V5Z" fill="white"/></svg>
+                    Españoles en Suiza
+                    <svg width="30" height="20" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="16" rx="1.5" fill="#AD1519"/><rect y="4" width="24" height="8" fill="#FABD00"/></svg>
+                </div>
+                <p data-i18n="footer-desc">Información práctica y fiable para la comunidad hispanohablante en Suiza.</p>
+                <form class="footer-newsletter" onsubmit="return false;">
+                    <input type="email" placeholder="tu@email.com" aria-label="Email newsletter">
+                    <button type="submit">Suscribirse</button>
+                </form>
+                <div class="footer-social">
+                    <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+                    </a>
+                    <a href="https://chat.whatsapp.com/Gd1Zei1Nycu69GM3zpKymC" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.4 15.3l-1 4 4-1A10 10 0 1 0 12 2z"/></svg>
+                    </a>
+                </div>
             </div>
+            <!-- Colonne 2 : Guías -->
             <div class="footer-col">
-                <h4 data-i18n="footer-links-title">Enlaces Rápidos</h4>
+                <h4>Guías</h4>
                 <ul>
-                    <li><a href="#tramites" data-i18n="nav-tramites">Trámites Administrativos</a></li>
-                    <li><a href="#trabajo" data-i18n="nav-trabajo">Trabajar en Suiza</a></li>
-                    <li><a href="#vivienda" data-i18n="nav-vivienda">Buscar Vivienda</a></li>
-                    <li><a href="#salud" data-i18n="nav-salud">Seguro de Salud (LAMal)</a></li>
+                    <li><a href="#/tramites">Trámites y Permisos</a></li>
+                    <li><a href="#/trabajo">Trabajo y Salarios</a></li>
+                    <li><a href="#/vivienda">Vivienda y Alquiler</a></li>
+                    <li><a href="#/vivir-en-suiza">Vivir en Suiza</a></li>
+                    <li><a href="#/salud">Salud y LAMal</a></li>
+                    <li><a href="#/impuestos">Impuestos</a></li>
+                    <li><a href="#/fronterizos">Fronterizos</a></li>
                 </ul>
             </div>
+            <!-- Colonne 3 : Fuentes oficiales -->
             <div class="footer-col">
-                <h4 data-i18n="footer-sources-title">Fuentes Oficiales</h4>
+                <h4>Fuentes Oficiales</h4>
                 <ul>
-                    <li><a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">ch.ch <span
-                                data-i18n="footer-source-ch">(Portal Suizo)</span></a></li>
-                    <li><a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer"><span
-                                data-i18n="footer-source-sem">Secretaría de Estado de Migración</span></a></li>
-                    <li><a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer"><span
-                                data-i18n="footer-source-bfs">Oficina Federal de Estadística</span></a></li>
+                    <li><a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">ch.ch — Portal Federal</a></li>
+                    <li><a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">SEM — Migración</a></li>
+                    <li><a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">OFS / BFS — Estadística</a></li>
+                    <li><a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">SECO — Economía</a></li>
+                </ul>
+            </div>
+            <!-- Colonne 4 : Site -->
+            <div class="footer-col">
+                <h4>El Sitio</h4>
+                <ul>
+                    <li><a href="#/comunidad">Comunidad</a></li>
+                    <li><a href="#/recursos">Recursos</a></li>
+                    <li><a href="#/contacto">Contacto</a></li>
+                    <li><a href="#/consulados-espanoles-suiza">Consulados españoles</a></li>
                 </ul>
             </div>
         </div>
         <div class="footer-bottom">
-            <div class="container">
-		        <p>&copy; <span id="current-year"></span> <span data-i18n="footer-copyright">Comunidad Españoles que
-		                realmente se ayudan en Suiza. Creado con un propósito informativo.</span></p>
+            <div class="container" style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem;">
+                <p style="margin:0; color:#555;">&copy; <span id="current-year"></span> Españoles en Suiza. Información con propósito comunitario.</p>
+                <div style="display:flex; gap:1.5rem;">
+                    <a href="#/contacto">Contacto</a>
+                </div>
             </div>
         </div>
     </footer>

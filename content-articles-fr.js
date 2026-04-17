@@ -849,7 +849,7 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
         description: "Guide complet des trois consulats généraux d'Espagne en Suisse (Genève, Berne, Zurich) : services, rendez-vous, passeports et registre consulaire.",
         keywords: "consulat espagne suisse, consulat geneve, consulat zurich, consulat berne, registre consulaire, passeport espagne, MAEC",
         audience: 'newcomer',
-        featuredImage: "media/guides/consulados-espanoles-suiza.jpg",
+        featuredImage: "media/guides/consulados-espanoles-suiza.png",
         category: 'Ressources officielles',
         hub: 'recursos',
         slug: "consulados-espanoles-suiza",

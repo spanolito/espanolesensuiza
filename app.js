@@ -1189,15 +1189,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (results.length > 0) {
                     displayArea.innerHTML = `
                         <div class="featured-grid" style="margin-top: 2rem;">
-                            ${results.map(r => `
-                                <a href="#/${r.slug || 'articulo/' + r.id}" class="card-article">
-                                    <div class="card-meta">${r.category || ui['lbl-guide']}</div>
-                                    <div class="card-content">
-                                        <h3>${r.title}</h3>
-                                        <p>${r.summary || r.description || ""}</p>
-                                    </div>
-                                </a>
-                            `).join('')}
+                            ${results.map(r => renderCard(r, ui, { compact: true })).join('')}
                         </div>
                     `;
                 } else {
@@ -1205,6 +1197,41 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
             });
         }
+    }
+
+    // ── Helper: article card with image, hub badge, meta ──────
+    function renderCard(r, ui, opts = {}) {
+        const hub     = r.hub || '';
+        const slug    = r.slug || ('articulo/' + (r.id || ''));
+        const img     = r.featuredImage ? r.featuredImage + '?v=1776395259' : null;
+        const rt      = r.readingTime || 0;
+        const date    = r.dateUpdated || '';
+        const summary = r.summary || r.description || '';
+        const compact = opts.compact || false;
+        const hubLabels = {
+            tramites: 'Trámites', trabajo: 'Trabajo', vivienda: 'Vivienda',
+            'vivir-en-suiza': 'Vivir en Suiza', salud: 'Salud', impuestos: 'Impuestos',
+            fronterizos: 'Fronterizos', recursos: 'Recursos'
+        };
+        const badgeLabel = hubLabels[hub] || (r.category || hub);
+        const thumbHTML = (img && !compact)
+            ? `<img class="card-article-thumb" src="${img}" alt="${r.title || ''}" loading="lazy" onerror="this.style.display='none'">`
+            : '';
+        const footerHTML = (rt || date) ? `
+            <div class="card-article-footer">
+                ${rt ? `<span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>${rt} ${ui['lbl-read-time'] || 'min'}</span>` : ''}
+                ${date ? `<span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>${date}</span>` : ''}
+            </div>` : '';
+        return `
+            <a href="#/${slug}" class="card-article${img && !compact ? '' : ' no-image'}">
+                ${thumbHTML}
+                <div class="card-article-body">
+                    <span class="hub-badge" data-hub="${hub}">${badgeLabel}</span>
+                    <h3>${r.title || ''}</h3>
+                    ${summary && !compact ? `<p>${summary}</p>` : ''}
+                    ${footerHTML}
+                </div>
+            </a>`;
     }
 
     /**
@@ -1244,14 +1271,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (hubArticles.length > 0) {
             container.innerHTML = `
                 <div class="featured-grid">
-                    ${hubArticles.map(r => `
-                        <a href="#/${r.slug || 'articulo/' + r.id}" class="card-article">
-                            <div class="card-meta">${r.category || ui['lbl-guide']} ${r.readingTime ? `· ${r.readingTime} min` : ''}</div>
-                            <h3>${r.title}</h3>
-                            <p>${r.summary || r.description || ""}</p>
-                            <span class="btn-secondary" style="margin-top:auto; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600;">${ui['btn-read-guide']}</span>
-                        </a>
-                    `).join('')}
+                    ${hubArticles.map(r => renderCard(r, ui)).join('')}
                 </div>
             `;
         } else {
@@ -1295,14 +1315,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         container.innerHTML = `
             <div class="featured-grid">
-                ${picked.map(r => `
-                    <a href="#/${r.slug || 'articulo/' + r.id}" class="card-article">
-                        <div class="card-meta">${r.category || ui['lbl-guide']} ${r.readingTime ? `· ${r.readingTime} ${ui['lbl-read-time']}` : ''}</div>
-                        <h3>${r.title}</h3>
-                        <p>${r.summary || r.description || ""}</p>
-                        <span class="btn-secondary" style="margin-top:auto; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600;">${ui['btn-read-guide']}</span>
-                    </a>
-                `).join('')}
+                ${picked.map(r => renderCard(r, ui)).join('')}
             </div>
         `;
     }
@@ -1399,7 +1412,7 @@ document.addEventListener("DOMContentLoaded", () => {
             : null;
 
         // Use ES as the canonical source of truth, so all languages share the same article images.
-        let hero = (esArticle && esArticle.featuredImage) ? esArticle.featuredImage : (pageData && pageData.featuredImage ? pageData.featuredImage : null);
+        let hero = (esArticle && esArticle.featuredImage) ? esArticle.featuredImage + '?v=1776395259' : (pageData && pageData.featuredImage ? pageData.featuredImage + '?v=1776395259' : null);
 
         // Safety Rule: Never use the homepage banner in articles.
         if (hero === HOMEPAGE_BANNER) {
@@ -2071,13 +2084,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             <div class="featured-grid" style="margin-top: 2rem; margin-bottom: 2rem;">
                                 ${relatedKeys.map(k => {
                                     const r = langData.articles[k];
-                                    return `
-                                    <a href="#/${r.slug || 'articulo/' + k}" class="card-article" style="min-height: auto;">
-                                        <div class="card-meta">${r.category || ui['lbl-guide']}</div>
-                                        <h3 style="font-size: 1.125rem;">${r.title}</h3>
-                                        <span class="btn-secondary" style="margin-top:1rem; width:fit-content; border:none; padding:0; color:var(--swiss-red); font-weight:600; font-size: 0.9rem;">${ui['btn-read-guide']}</span>
-                                    </a>
-                                    `;
+                                    return renderCard({ ...r, id: k }, ui, { compact: false });
                                 }).join('')}
                             </div>
                             <a href="#/${pageData.hub}" class="btn btn-secondary" style="width: 100%;">${ui['btn-view-all']}</a>

@@ -716,7 +716,7 @@ window.siteContent.es.articles = {
         hub: 'impuestos',
         slug: "impuestos-en-suiza",
         readingTime: 12,
-        featuredImage: "media/guides/impuestos-generales-suiza.jpg",
+        featuredImage: "media/guides/impuestos-suiza.png",
         imageAlt: "Formularios de impuestos, calculadora y monedas suizas sobre un escritorio ordenado",
         summary: 'En Suiza pagas impuestos a 3 niveles. El cantonal y comunal suponen la mayor carga y varían drásticamente incluso cruzando la calle.',
         content: `
@@ -1096,46 +1096,6 @@ window.siteContent.es.articles = {
                 </div>
             </div>
         `
-    },
-
-    // 11. Búsqueda de empleo
-    "articulo-buscar-empleo": {
-        title: "Búsqueda de empleo en Suiza: Plataformas y Estrategias",
-        description: "Dónde buscar trabajo, cómo hacer tu CV estilo suizo (foto, certificados) y principales portales de empleo.",
-        keywords: "buscar empleo suiza, cv suiza, jobup, jobs.ch",
-        category: 'Candidaturas',
-        hub: 'trabajo',
-        slug: "buscar-empleo-suiza",
-        readingTime: 4,
-        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
-        imageAlt: "Persona buscando trabajo en Suiza en un café con vistas a Zúrich repasando su CV",
-        summary: 'El CV al estilo suizo debe incluir foto, fecha de nacimiento y estado civil. Las plataformas más usadas son Jobup, Jobs.ch y LinkedIn.',
-        content: `
-            <div class="article-content">
-                <p>En Suiza, una parte enorme de las ofertas se publica en portales locales y en el idioma del cantón. Tener una lista clara de webs y adaptar palabras clave suele marcar la diferencia.</p>
-                <p>Si estás planificando el salto, mira también <a href="#/mudarse-a-suiza-desde-espana">Mudarse a Suiza desde España: guía paso a paso</a>.</p>
-
-                <h2>Principales portales de empleo en Suiza</h2>
-                <ul>
-                    <li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
-                    <li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
-                    <li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
-                    <li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a> (portal del RAV)</li>
-                </ul>
-
-                <div class="callout info">
-                    <strong>Consejo práctico</strong>
-                    <p>En Suiza suele ser más eficaz buscar trabajo en el idioma local. Por ejemplo, en lugar de buscar en español, puedes buscar directamente en alemán, francés o italiano.</p>
-                    <p><strong>Ejemplo de búsqueda en Google:</strong> <code>Glaser Arbeit Zürich</code></p>
-                </div>
-
-                <h3>Enlaces útiles</h3>
-                <ul>
-                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
-                    <li><a href="https://www.arbeit.swiss/" target="_blank" rel="noopener noreferrer">arbeit.swiss</a> (RAV / SECO)</li>
-                </ul>
-            </div>
-            `
     },
 
     // 12. Alquiler de vivienda
@@ -1770,7 +1730,7 @@ window.siteContent.es.articles = {
 
     // 26. Introducción a Suiza: página pilier
     "articulo-introduccion-suiza": {
-        featuredImage: "media/guides/introduccion-suiza-como-funciona.jpg",
+        featuredImage: "media/guides/introduccion-suiza-como-funciona.png",
         title: "Cómo funciona Suiza: guía completa para nuevos residentes",
         description: "Guía completa sobre Suiza: organización federal, 26 cantones, sistema político, 4 lenguas, diferencias regionales, educación y vida cotidiana. Esencial antes de instalarse.",
         keywords: "suiza como funciona, cantones suiza, federalismo, democracia directa, lenguas suiza, sistema escolar suizo, diferencias cantones",
@@ -2005,7 +1965,7 @@ window.siteContent.es.articles = {
         readingTime: 7,
         dateUpdated: "Marzo 2026",
         summary: "Suiza está formada por 26 cantones autónomos, cada uno con su propio sistema fiscal, educativo y administrativo. El cantón donde vives lo cambia casi todo.",
-        featuredImage: "media/guides/mapa-politico-cantones.png",
+        featuredImage: "media/guides/cantones-suiza.png",
         imageAlt: "Mapa político de los 26 cantones de Suiza con capitales e idiomas",
         content: `
                 <p>En Suiza, el cantón donde te instalas es tan importante como el país en sí. Cada uno de los 26 cantones tiene su propio gobierno, sus propias leyes fiscales, su propio sistema educativo y su propia identidad cultural. Entender esta estructura es esencial antes de decidir dónde vivir.</p>
@@ -2241,7 +2201,7 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Marzo 2026",
         summary: "España tiene tres consulados en Suiza: Ginebra, Berna y Zúrich. El registro consular es el primer trámite que debes hacer al llegar. Sin él, no puedes renovar el pasaporte ni votar.",
-        featuredImage: "media/guides/consulados-espanoles-suiza.jpg",
+        featuredImage: "media/guides/consulados-espanoles-suiza.png",
         imageAlt: "Sede de un consulado español en Suiza con la bandera oficial",
         content: `
             <div class="article-content">
