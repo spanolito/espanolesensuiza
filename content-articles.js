@@ -352,96 +352,79 @@ window.siteContent.es.articles = {
 	        dateUpdated: "Marzo 2026",
 	        featuredImage: "media/guides/checklist-llegada-suiza.jpg",
         imageAlt: "Documentos suizos: permiso de residencia, tarjeta de seguro médico, llaves y checklist",
-        summary: "Guía práctica para quienes se mudan a Suiza a residir: orden recomendado de trámites del primer mes (registro, banco, LAMal, transporte, correo y normas básicas), con plazos y errores frecuentes.",
+        summary: “Dos situaciones, dos circuitos distintos: si vienes a buscar trabajo no tienes ninguna obligación administrativa; si te instalas con contrato, el registro en la comuna es el primer paso obligatorio.”,
         content: `
-            <div class="article-content">
-                <h2>Introducción</h2>
-                <p>Los primeros días en Suiza pueden ser abrumadores: hay trámites con plazos reales y otros que, si los haces tarde o en el orden equivocado, te complican la vida (banco, seguro, permisos, correo, etc.). Esta checklist prioriza lo que <strong>desbloquea</strong> el resto.</p>
+            <div class=”article-content”>
 
-                <div class="callout info">
-                    <strong>Ámbito:</strong> Esta guía está pensada para personas que <strong>se mudan a Suiza para residir</strong> (trabajo, estudios, familia). Si vienes como turista/estancia corta, no todo aplica. Si eres fronterizo/a (permiso G), parte del circuito cambia.
+                <div class=”callout warning”>
+                    <strong>Importante:</strong> si vienes a Suiza como turista o para buscar trabajo, no tienes que registrarte en el ayuntamiento ni solicitar ningún permiso de residencia. Esta obligación solo existe cuando te instalas en el país, normalmente tras firmar un contrato de trabajo o establecer tu residencia de forma efectiva.
                 </div>
 
-                <h2>Cómo funciona el sistema</h2>
-                <p>En la práctica, casi todo depende de dos piezas: <strong>domicilio</strong> y <strong>registro</strong>. Con el justificante de la comuna puedes avanzar (banco, seguro, empleo) mientras la tarjeta física del permiso tarda semanas.</p>
+                <hr style=”border:none; border-top:1px solid var(--border-light); margin: 2rem 0;”>
 
-                <div class="callout warning">
-                    <strong>Regla básica:</strong> en Suiza “no lo sabía” no suele servir. Si te pasas de plazo, pueden multarte. Si no contratas LAMal en 3 meses, te la asignan y pagas igualmente desde el día 1.
+                <h2>Si vienes como turista o a buscar trabajo</h2>
+                <p>Como ciudadano de la UE/EFTA, tienes derecho a entrar en Suiza y permanecer sin ningún trámite administrativo durante un periodo de búsqueda de empleo. No hay obligación de registrarse, no hay permiso que solicitar, no hay plazo que respetar en esa fase.</p>
+                <p>Lo que sí conviene tener en orden antes de viajar o durante la estancia:</p>
+
+                <h3>Documentación personal</h3>
+                <p>Lleva el DNI o pasaporte en vigor. No necesitas ningún otro documento para entrar ni para moverte por el país.</p>
+
+                <h3>Alojamiento y movilidad</h3>
+                <p>Define dónde te vas a alojar desde el primer día, aunque sea de forma provisional. Para desplazarte, el transporte público suizo es eficiente y puntual. Si planeas usarlo intensivamente, el <strong>Demi-tarif / Halbtax</strong> (unos 190 CHF anuales) divide a la mitad el precio de todos los billetes en el país. Se amortiza en pocas semanas y se compra en <a href=”https://www.sbb.ch” target=”_blank” rel=”noopener noreferrer”>sbb.ch</a> o en cualquier taquilla CFF/SBB.</p>
+
+                <h3>CV y búsqueda de empleo</h3>
+                <p>El mercado laboral suizo tiene sus propias convenciones. El CV estándar incluye foto, fecha de nacimiento y estado civil. Las principales plataformas son <a href=”https://www.jobs.ch” target=”_blank” rel=”noopener noreferrer”>jobs.ch</a>, <a href=”https://www.jobup.ch” target=”_blank” rel=”noopener noreferrer”>jobup.ch</a> y LinkedIn. Busca en el idioma del cantón donde quieres trabajar: aumenta significativamente las respuestas.</p>
+
+                <h3>Seguro médico durante la búsqueda</h3>
+                <p>Mientras no resides oficialmente en Suiza, la LAMal (seguro médico obligatorio suizo) no te es aplicable. Si tienes tarjeta sanitaria europea o un seguro de viaje, eso es suficiente para una estancia de búsqueda. La obligación de contratar LAMal empieza solo cuando te registras como residente.</p>
+
+                <hr style=”border:none; border-top:1px solid var(--border-light); margin: 2rem 0;”>
+
+                <h2>Si vienes a instalarte (con contrato o residencia)</h2>
+                <p>En cuanto firmas un contrato de trabajo o estableces tu residencia efectiva en Suiza, el circuito administrativo se activa. Los plazos son reales y su incumplimiento puede acarrear multas.</p>
+
+                <div class=”callout info”>
+                    <strong>Regla general:</strong> el registro en la comuna debe hacerse en un plazo de <strong>14 días</strong> desde la llegada, y en muchos cantones <strong>antes del primer día de trabajo</strong>. El plazo exacto varía por cantón: consulta siempre la web de tu municipio.
                 </div>
 
-                <h2>Requisitos y reglas</h2>
-                <ul>
-                    <li><strong>Registro en la comuna:</strong> muchas comunas exigen hacerlo en <strong>14 días</strong> (a veces menos) y, si vienes a trabajar, normalmente <strong>antes del primer día</strong>.</li>
-                    <li><strong>Seguro médico (LAMal):</strong> tienes <strong>3 meses</strong> desde la llegada/inscripción para contratarlo, con efecto retroactivo al día 1.</li>
-                    <li><strong>Variaciones cantonales:</strong> citas, tasas y documentos cambian por cantón y comuna. Confirma siempre en la web oficial local.</li>
-                </ul>
+                <h3>1. Regístrate en la comuna (Control de Habitantes)</h3>
+                <p>Es el primer trámite y desbloquea todos los demás. Al registrarte, recibes en el acto un certificado provisional de residencia (“Attestation de résidence” / “Meldebestätigung”) que tiene plena validez legal: con él puedes empezar a trabajar, abrir cuenta bancaria y contratar el seguro médico, aunque la tarjeta física del permiso tarde semanas en llegar.</p>
+                <p><strong>Qué llevar:</strong> DNI o pasaporte, contrato de trabajo o de alquiler, dirección donde resides (aunque sea provisional).</p>
+                <p><strong>Coste:</strong> entre 65 y 100 CHF según el cantón y el tipo de permiso solicitado.</p>
 
-                <h2>Ejemplos concretos</h2>
-                <ul>
-                    <li><strong>Llegas con trabajo:</strong> prioriza registro → cuenta bancaria → seguro médico, y luego el resto.</li>
-                    <li><strong>Llegas sin trabajo (UE/EFTA):</strong> el registro puede requerir prueba de medios/cobertura; planifica fondos y tiempos.</li>
-                    <li><strong>Llega una familia:</strong> además del registro, anticípate con certificados y escolarización.</li>
-                </ul>
+                <h3>2. Abre una cuenta bancaria</h3>
+                <p>Tu empleador necesita un IBAN suizo para pagarte el salario. Con el certificado de registro ya puedes ir al banco. Si necesitas una cuenta operativa desde el primer día, las opciones digitales como Neon, Yuh o Revolut (cuenta suiza) se activan en menos de 24 horas sin desplazamiento. Las tradicionales — PostFinance, UBS, Raiffeisen, Migros Bank — requieren cita previa pero ofrecen más servicios.</p>
 
-                <h2>Consejos prácticos (checklist)</h2>
-                <h3>Semana 1 — Antes de empezar a trabajar</h3>
+                <h3>3. Contrata el seguro médico LAMal</h3>
+                <p>Tienes un plazo de <strong>3 meses</strong> desde la fecha de registro para contratar el seguro obligatorio (LAMal), con efecto retroactivo al día 1. No esperes al último momento: si sufres cualquier incidente antes de tenerlo, pagarás igualmente las primas desde el inicio. La cobertura básica es idéntica en todas las aseguradoras; solo varía el precio. Compara en <a href=”https://www.priminfo.admin.ch” target=”_blank” rel=”noopener noreferrer”>Priminfo.admin.ch</a> (comparador oficial federal). La decisión más importante es la franquicia: 300 CHF mínimo (prima alta) o hasta 2.500 CHF (prima baja). Si estás sano, la franquicia alta suele resultar más rentable.</p>
 
-                <h4>✅ 1. Regístrate en la comuna (Control de Habitantes)</h4>
-                <p>Es el primer trámite y desbloquea todos los demás. Con el certificado provisional ya eres legal y puedes incorporarte al trabajo aunque la tarjeta física tarde semanas.</p>
-                <p><strong>Qué llevar:</strong> DNI/Pasaporte, contrato de trabajo o alquiler, dirección donde resides (aunque sea temporal).</p>
-                <p><strong>Coste:</strong> 65–100 CHF según cantón y tipo de permiso.</p>
+                <h3>4. Comunica tu situación familiar al empleador</h3>
+                <p>Si tienes pareja o hijos a cargo, el empleador necesita esos datos para aplicar la tarifa correcta del impuesto a la fuente. Un error en este punto es difícil de corregir retroactivamente.</p>
 
-                <h4>✅ 2. Abre una cuenta bancaria</h4>
-                <p>Tu empleador necesita un IBAN suizo para pagarte el salario. Sin cuenta bancaria suiza, no cobras. Con el certificado de registro, ya puedes ir al banco.</p>
-                <p><strong>Opción rápida (digital):</strong> Neon, Yuh o Revolut. Cuenta activa en 24 horas sin ir a sucursal.</p>
-                <p><strong>Opciones tradicionales:</strong> PostFinance (la más extendida), UBS, Raiffeisen, Migros Bank.</p>
+                <h3>5. Pon tu nombre en el buzón de correo</h3>
+                <p>En Suiza, la administración funciona principalmente por correo postal. Recibirás la tarjeta del permiso, las facturas del seguro y las cartas fiscales en papel. Si el buzón no tiene tu nombre desde el primer día, esas comunicaciones pueden perderse o devolverse.</p>
 
-                <h3>Primeras 2 semanas</h3>
+                <h3>6. Aprende el sistema de basura de tu municipio</h3>
+                <p>En muchos cantones solo se permiten bolsas de basura oficiales de pago, que incluyen la tasa de recogida. Usar bolsas ordinarias puede acarrear multas. Pregunta en tu edificio o en la commune desde el primer día.</p>
 
-                <h4>✅ 3. Contrata el seguro médico (LAMal)</h4>
-                <p>Tienes hasta 3 meses desde la llegada. No esperes. Si enfermases el día 2 sin seguro, igualmente pagarías las primas desde el día 1 cuando lo contrates, con efecto retroactivo.</p>
-                <p><strong>Herramienta oficial:</strong> Compara precios en <a href="https://www.priminfo.admin.ch" target="_blank">Priminfo.admin.ch</a>. La cobertura básica es idéntica en todas las aseguradoras; solo varía el precio.</p>
-                <p><strong>Decide la franquicia:</strong> La mínima es 300 CHF (prima más alta) y la máxima 2.500 CHF (prima más baja). Si eres sano, la franquicia alta suele ser más rentable.</p>
+                <h3>7. Obtén el Demi-tarif para el transporte</h3>
+                <p>Si usas trenes o transporte público con regularidad, el <strong>Demi-tarif / Halbtax</strong> (unos 190 CHF anuales) divide el precio de todos los billetes a la mitad en todo el país. Se amortiza en pocas semanas. Se compra en <a href=”https://www.sbb.ch” target=”_blank” rel=”noopener noreferrer”>sbb.ch</a> o en cualquier taquilla CFF/SBB.</p>
 
-                <h4>✅ 4. Comunica tu estado civil y número de hijos al empleador</h4>
-                <p>Si tienes pareja o hijos a cargo, el empleador necesita estos datos para aplicar la tarifa fiscal correcta del impuesto a la fuente. Un error inicial es difícil de corregir después.</p>
+                <h3>En los primeros 3 meses</h3>
+                <p>Una vez resuelto lo urgente, conviene informarse sobre los seguros complementarios (el LAMal básico no cubre dentista, gafas ni hospitalización privada) y sobre el tercer pilar (3a), que es un ahorro para la jubilación con importantes ventajas fiscales. Cuanto antes se empiece, más se acumula.</p>
 
-                <h3>Primer mes completo</h3>
-
-                <h4>✅ 5. Obtén el Demi-tarif para el transporte</h4>
-                <p>Si vas a usar trenes o transporte público, el <strong>Demi-tarif / Halbtax</strong> (unos 190 CHF anuales) te divide el precio de todos los billetes a la mitad en todo el país. Se amortiza en pocas semanas. Compra en <a href="https://www.sbb.ch" target="_blank">sbb.ch</a> o en cualquier taquilla CFF/SBB.</p>
-
-                <h4>✅ 6. Asegúrate de tener tu nombre en el buzón de correo</h4>
-                <p>En Suiza, la administración sigue funcionando principalmente por correo postal. Recibirás cartas importantes desde el primer día: tarjeta de permiso, facturas del seguro médico, cartas fiscales. Si el buzón no tiene tu nombre, esas cartas pueden no llegarte.</p>
-
-                <h4>✅ 7. Aprende el sistema de basura</h4>
-                <p>En Suiza la gestión de residuos está regulada y se controla. En muchos cantones existen <strong>bolsas de basura oficiales con tasa incluida</strong> que son las únicas que puedes usar. Tirar en bolsas normales puede acarrear multas. Pregunta en tu edificio o en la commune desde el primer día.</p>
-
-                <h3>Primeros 3 meses</h3>
-
-                <h4>✅ 8. Infórmate sobre seguros complementarios</h4>
-                <p>El seguro básico (LAMal) no cubre dentista, gafas u hospitalización privada. Los seguros complementarios (LCA) cubren estas necesidades, pero requieren aceptación médica. Si tienes problemas de salud previos, actualos cuanto antes.</p>
-
-                <h4>✅ 9. Considera abrir el tercer pilar (3a)</h4>
-                <p>El tercer pilar es un ahorro privado para la jubilación con deducciones fiscales muy ventajosas. Cuanto antes empieces a cotizar, más se acumula. Bancos y aseguradoras ofrecen este producto.</p>
-
-                <div class="callout tip">
-                    <strong>Veteranos dicen:</strong> El primer mes en Suiza es el más difícil logísticamente. Habrá papeles y esperas. La clave es empezar por el registro y el seguro médico. El resto se ordena solo.
+                <div class=”callout tip”>
+                    <strong>Orden recomendado:</strong> registro en la comuna → cuenta bancaria → LAMal → comunicación al empleador → buzón y basura → Demi-tarif. Cada paso desbloquea el siguiente.
                 </div>
 
-                <h2>Errores comunes</h2>
-                <ul>
-                    <li><strong>Dejar el registro para “cuando esté todo listo”</strong> y pasarte del plazo.</li>
-                    <li><strong>No entender la retroactividad de LAMal</strong> y llevarte una factura inesperada.</li>
-                    <li><strong>Olvidar el buzón</strong>: si tu nombre no está, la administración puede no encontrarte.</li>
-                    <li><strong>No preguntar el sistema de bolsas/tasas</strong> y exponerte a multas por residuos.</li>
-                </ul>
+                <h2>Errores frecuentes al instalarse</h2>
+                <p>Dejar el registro para “cuando esté todo listo” y pasarse del plazo es el error más habitual y tiene consecuencias directas. No entender la retroactividad de LAMal genera facturas inesperadas. Olvidar poner el nombre en el buzón puede hacer que la tarjeta del permiso o cartas fiscales no lleguen. No preguntar el sistema de bolsas de basura desde el primer día expone a multas evitables.</p>
 
                 <h2>Fuentes oficiales</h2>
                 <ul>
-                    <li><a href="https://www.ch.ch/es/entrar-y-vivir-en-suiza/" target="_blank" rel="noopener noreferrer">ch.ch — Entrar y vivir en Suiza</a></li>
-                    <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo — comparador oficial LAMal</a></li>
-                    <li><a href="https://www.sbb.ch" target="_blank" rel="noopener noreferrer">SBB/CFF/FFS — transporte público</a></li>
+                    <li><a href=”https://www.ch.ch/es/entrar-y-vivir-en-suiza/” target=”_blank” rel=”noopener noreferrer”>ch.ch — Entrar y vivir en Suiza</a></li>
+                    <li><a href=”https://www.priminfo.admin.ch/” target=”_blank” rel=”noopener noreferrer”>Priminfo — comparador oficial LAMal</a></li>
+                    <li><a href=”https://www.sbb.ch” target=”_blank” rel=”noopener noreferrer”>SBB/CFF/FFS — transporte público</a></li>
                 </ul>
             </div>
         `
