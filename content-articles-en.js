@@ -16,7 +16,7 @@ window.siteContent.en.articles = {
 	        hub: "tramites",
 	        slug: "tramites-llegada-suiza",
 	        readingTime: 4,
-	        dateUpdated: "Actualizado frecuentemente",
+	        dateUpdated: "April 2026",
 	        summary: "A complete guide to understanding Swiss residence permits: L (short-term), B (resident) and C (settlement).",
 	        content: `<div class="article-content"> 
 <p>Moving to Switzerland involves registering and obtaining a residence permit. If you come from an EU/EFTA country (including Spain), the process is facilitated by the Agreement on Free Movement of Persons (ALCP).</p> 
@@ -346,7 +346,7 @@ The following table summarizes their main characteristics. If you’re planning 
         category: `Withholding Tax`,
         hub: 'impuestos',
         readingTime: 3,
-        dateUpdated: 'Actualizado recientemente',
+        dateUpdated: 'April 2026',
         summary: `How direct tax deduction from the monthly payroll works for foreigners and cross-border commuters.`,
         content: `<div class="article-content"> 
 <p>The majority of Swiss citizens and permanent residents (Permit C) fill out their income tax return once a year and pay taxes afterwards. However, for newly arrived foreigners there is the <strong>Source Tax</strong>.</p> 
@@ -404,7 +404,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         hub: "trabajo",
         slug: "rav-paro-suiza",
         readingTime: 7,
-        dateUpdated: "March 2026",
+        dateUpdated: "April 2026",
         summary: "RAV can support you after job loss, but deadlines and documented job-search efforts matter.",
         content: `<div class="article-content">
 <p>In Switzerland, unemployment is handled through <strong>RAV</strong> (the regional employment office) and an <strong>unemployment fund</strong> that pays benefits. It can help a lot, but it comes with clear rules.</p>

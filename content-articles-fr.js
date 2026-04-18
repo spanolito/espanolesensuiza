@@ -16,7 +16,7 @@ window.siteContent.fr.articles = {
 	        hub: "tramites",
 	        slug: "tramites-llegada-suiza",
 	        readingTime: 4,
-	        dateUpdated: "Actualizado frecuentemente",
+	        dateUpdated: "Avril 2026",
 	        summary: "Guide complet pour comprendre les titres de séjour suisses : L (courte durée), B (résident) et C (établissement).",
 	        content: `<div class="article-content">
 <p>S'installer en Suisse implique de s'inscrire et d'obtenir un permis de séjour. Si vous venez d'un pays de l'UE/AELE (y compris l'Espagne), la démarche est facilitée par l'Accord sur la libre circulation des personnes (ALCP).</p>
@@ -346,7 +346,7 @@ Le tableau suivant résume leurs principales caractéristiques. Si vous prépare
         category: `Retenues`,
         hub: 'impuestos',
         readingTime: 3,
-        dateUpdated: 'Actualizado recientemente',
+        dateUpdated: 'Avril 2026',
         summary: `Comment fonctionne le prélèvement des impôts directement sur le salaire mensuel pour les étrangers et travailleurs frontaliers.`,
         content: `<div class="article-content">
 <p>La majorité des citoyens suisses et des résidents permanents (permis C) remplissent leur déclaration de revenus une fois par an et paient ensuite des impôts. Cependant, pour les étrangers nouvellement arrivés, il existe la <strong>Taxe à la Source</strong>.</p>
@@ -404,7 +404,7 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
         hub: "trabajo",
         slug: "rav-paro-suiza",
         readingTime: 7,
-        dateUpdated: "Mars 2026",
+        dateUpdated: "Avril 2026",
         summary: "Le RAV peut beaucoup aider après une perte d’emploi, mais les délais et les preuves de recherche d’emploi sont essentiels.",
         content: `<div class="article-content">
 <p>En Suisse, le chômage se gère via le <strong>RAV</strong> (office régional de placement) et une <strong>caisse de chômage</strong> qui verse l’indemnité. Le système est efficace, mais exigeant.</p>
@@ -854,7 +854,7 @@ L'objectif est que, ajouté au premier pilier, vous mainteniez à la retraite un
         hub: 'recursos',
         slug: "consulados-espanoles-suiza",
         readingTime: 5,
-        dateUpdated: "Mars 2026",
+        dateUpdated: "Avril 2026",
         summary: "L'Espagne dispose de trois consulats en Suisse : Genève, Berne et Zurich. Le registre consulaire est la première démarche à faire à l'arrivée.",
         content: `
             <div class="article-content">

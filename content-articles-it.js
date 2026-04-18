@@ -16,7 +16,7 @@ window.siteContent.it.articles = {
 	        hub: "tramites",
 	        slug: "tramites-llegada-suiza",
 	        readingTime: 4,
-	        dateUpdated: "Actualizado frecuentemente",
+	        dateUpdated: "Aprile 2026",
 	        summary: "Guida completa per comprendere i permessi di soggiorno svizzeri: L (breve durata), B (dimorante) e C (domiciliato).",
         content: `<div class="page-header">
 <h1>Permessi di soggiorno in Svizzera: permessi L, B, C e le loro differenze</h1>
@@ -322,7 +322,7 @@ La tabella seguente riassume le principali caratteristiche. Se stai pianificando
         category: `Ritenute`,
         hub: 'impuestos',
         readingTime: 3,
-        dateUpdated: 'Actualizado recentemente',
+        dateUpdated: 'Aprile 2026',
         summary: `Come funziona la trattenuta sulle tasse direttamente dalla busta paga mensile per stranieri e frontalieri.`,
         content: `<div class="page-header">
 <h1>Imposta alla fonte (Quellensteuer / Impôt à la source)</h1>
@@ -386,7 +386,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         hub: "trabajo",
         slug: "rav-paro-suiza",
         readingTime: 7,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Aprile 2026",
         summary: "Il RAV può aiutare dopo la perdita del lavoro, ma scadenze e prove della ricerca sono fondamentali.",
         content: `<div class="page-header">
 <h1>RAV e disoccupazione in Svizzera</h1>

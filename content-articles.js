@@ -8,8 +8,8 @@ window.siteContent = window.siteContent || { es: { global: {}, pages: {}, articl
 window.siteContent.es.articles = {
     // 1. Permisos de residencia
     "articulo-permisos": {
-        title: "Permisos de residencia en Suiza: L, B, C y diferencias",
-        description: "Todo sobre los permisos suizos para residentes extranjeros. Conoce las diferencias entre permiso L, B y C.",
+        title: "Permisos de residencia en Suiza: tipos B, C, L y G explicados (2026)",
+        description: "Guía completa de permisos de residencia en Suiza en 2026: permiso B, C, L y G, quién los tramita, plazos y diferencias por cantón.",
 	        keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
 	        category: "Trámites Ordinarios",
 	        hub: "tramites",
@@ -17,7 +17,8 @@ window.siteContent.es.articles = {
 	        readingTime: 12,
 	        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/tramites-llegada-suiza.jpg",
-    imageAlt: "Checklist de llegada con documentos, llaves y tarjetas suizas",
+    imageAlt: "Tarjeta de permiso de residencia suizo tipo B sobre documentos oficiales de la administración",
+        relatedSlugs: ["checklist-tramites-llegada-suiza", "registrarse-en-suiza", "mudarse-a-suiza-desde-espana", "permiso-trabajo-suiza"],
         summary: "El permiso lo obtienes registrándote en tu comuna, no pidiendo nada a distancia. L, B, C y G tienen usos distintos según situación y contrato.",
         content: `
             <div class="article-content">
@@ -28,6 +29,31 @@ window.siteContent.es.articles = {
 
                 <h2>Introducción</h2>
                 <p>Si vas a vivir y trabajar en Suiza, necesitas un <strong>título de residencia</strong> (permiso). Para españoles y otros ciudadanos UE/EFTA, el proceso suele ser relativamente directo si tienes un motivo claro (un contrato de trabajo, estudios o reagrupación familiar). Para nacionales de terceros países, el sistema es distinto y normalmente exige autorizaciones previas y condiciones más estrictas.</p>
+
+                <div class="callout info" style="padding:0;">
+                    <div style="padding:0.75rem 1rem 0.5rem 1rem; font-weight:700; border-bottom:1px solid rgba(0,0,0,0.08);">Tu situacion cambia todo</div>
+                    <div style="overflow-x:auto;">
+                    <table style="width:100%; border-collapse:collapse; font-size:0.92rem;">
+                        <tbody>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🧳 Turista / visita</td>
+                        <td style="padding:0.7rem 1rem;">Sin permiso de residencia. Estancia libre hasta 90 dias.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#fdf2ee;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🔍 Buscador de empleo UE/EFTA</td>
+                        <td style="padding:0.7rem 1rem;">Puedes estar sin permiso hasta que firmes contrato. A partir del contrato, proceso de permiso.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#b5451b; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica parcialmente</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">📋 Con contrato / residente</td>
+                        <td style="padding:0.7rem 1rem;">Tu empresa o tu gestionas el permiso B, L o C segun el caso.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
 
                 <div class="callout info">
                     <strong>Lo más importante primero:</strong> en Suiza el permiso físico (la tarjeta) puede tardar semanas. En la práctica, con el <strong>justificante/certificado de registro</strong> de la comuna, normalmente puedes empezar a trabajar y avanzar trámites mientras llega la tarjeta.
@@ -160,8 +186,8 @@ window.siteContent.es.articles = {
 
     // Mudarse a Suiza (guía rápida)
     "articulo-mudarse-suiza": {
-        title: "Mudarse a Suiza desde España: guía paso a paso",
-        description: "Guía práctica para españoles que quieren instalarse en Suiza: pasos, trámites administrativos y lo que debes preparar antes y después de llegar.",
+        title: "Mudarse a Suiza desde España: trámites paso a paso (2026)",
+        description: "Todo lo que debes hacer antes y después de mudarte a Suiza: registro en la comuna, permiso de trabajo, LAMal y checklist por situación.",
         keywords: "mudarse a suiza desde españa, vivir en suiza siendo español, como ir a vivir a suiza",
         category: "Trámites Ordinarios",
         hub: "tramites",
@@ -170,7 +196,8 @@ window.siteContent.es.articles = {
         dateUpdated: "Abril 2026",
         summary: "Dos fases bien diferenciadas: preparación antes de salir de España, y circuito administrativo obligatorio una vez firmado el contrato e instalado en Suiza.",
         featuredImage: "media/guides/mudarse-a-suiza-desde-espana.jpg",
-        imageAlt: "Camión de mudanzas circulando por una carretera suiza con montañas al fondo",
+        imageAlt: "Maletas y cajas de mudanza con la bandera suiza al fondo, representando la llegada a Suiza",
+        relatedSlugs: ["checklist-tramites-llegada-suiza", "registrarse-en-suiza", "permiso-trabajo-suiza", "seguro-medico-lamal-suiza"],
         content: `
             <div class="article-content">
 
@@ -230,8 +257,8 @@ window.siteContent.es.articles = {
 
     // 2. Registro en la comuna
     "articulo-registro": {
-        title: "Cómo registrarse al llegar a Suiza (Control de Habitantes)",
-        description: "Guía paso a paso sobre el registro en tu nueva comuna (Contrôle des habitants) tras mudarte a Suiza. Plazos, documentos y qué pasa después.",
+        title: "Registrarse en el ayuntamiento de Suiza: plazo, documentos y proceso (2026)",
+        description: "Cómo registrarse en la comuna suiza: quién debe hacerlo, en qué plazo, qué documentos llevar y qué pasa si no lo haces.",
         keywords: "registro comuna suiza, empadronamiento suiza, controle des habitants, vivir en Suiza, primer mes suiza",
         category: "Trámites Iniciales",
         hub: "tramites",
@@ -239,13 +266,39 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/registrarse-en-suiza.jpg",
-        imageAlt: "Persona llegando al Rathaus (ayuntamiento) suizo para registrarse con su maleta",
+        imageAlt: "Ventanilla de atención ciudadana en un ayuntamiento suizo donde se realiza el registro de residencia",
+        relatedSlugs: ["checklist-tramites-llegada-suiza", "permiso-trabajo-suiza", "mudarse-a-suiza-desde-espana", "seguro-medico-lamal-suiza"],
         summary: "Si te mudas a Suiza para residir, normalmente debes registrarte en tu comuna en pocos días (a menudo 14). El justificante de registro suele permitirte empezar a trabajar y avanzar trámites mientras llega la tarjeta del permiso.",
         content: `
             <div class="article-content">
                 <h2>Introducción</h2>
                 <p>El <strong>registro en la comuna</strong> (Control de Habitantes / <i>Contrôle des habitants</i> / <i>Einwohnerkontrolle</i>) es el trámite que <strong>formaliza tu residencia</strong> en Suiza. Es clave para activar el circuito administrativo: permiso, seguro médico, impuestos, escuela, etc.</p>
                 <p>Importante: <strong>no todos los que "entran a Suiza" se registran</strong>. Este artículo va dirigido a personas que <strong>se mudan para vivir</strong> (por trabajo, estudios o motivos familiares) y necesitan un domicilio oficial.</p>
+
+                <div class="callout info" style="padding:0;">
+                    <div style="padding:0.75rem 1rem 0.5rem 1rem; font-weight:700; border-bottom:1px solid rgba(0,0,0,0.08);">Tu situacion cambia todo</div>
+                    <div style="overflow-x:auto;">
+                    <table style="width:100%; border-collapse:collapse; font-size:0.92rem;">
+                        <tbody>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🧳 Turista</td>
+                        <td style="padding:0.7rem 1rem;">No tienes que registrarte en el ayuntamiento. El registro es solo para residentes.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🔍 Buscador de empleo</td>
+                        <td style="padding:0.7rem 1rem;">Mientras buscas trabajo sin contrato, no es obligatorio registrarte.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">📋 Con contrato de trabajo</td>
+                        <td style="padding:0.7rem 1rem;">Registro obligatorio en la comuna en los primeros 14 dias tras la llegada.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
 
                 <h2>Cómo funciona el sistema</h2>
                 <ol>
@@ -322,8 +375,8 @@ window.siteContent.es.articles = {
 
     // 2b. Trámites iniciales completos (NUEVO - fusión posts Facebook)
     "articulo-tramites-llegada": {
-        title: "Checklist completo: trámites al llegar a Suiza el primer mes",
-        description: "Todo lo que debes hacer el primer mes en Suiza ordenado por urgencia: registro, seguro médico, cuenta bancaria, transporte, basura y más.",
+        title: "Checklist de llegada a Suiza: qué hacer los primeros días (2026)",
+        description: "Lista completa de trámites al llegar a Suiza: registro, permiso, cuenta bancaria, LAMal y seguridad social. Diferenciado por situación.",
 	        keywords: "tramites llegada suiza, checklist llegada suiza, primeros pasos suiza, recien llegado suiza, que hacer al llegar suiza",
 	        category: "Trámites Iniciales",
 	        hub: "tramites",
@@ -331,7 +384,8 @@ window.siteContent.es.articles = {
 	        readingTime: 7,
 	        dateUpdated: "Abril 2026",
 	        featuredImage: "media/guides/checklist-llegada-suiza.jpg",
-        imageAlt: "Documentos suizos: permiso de residencia, tarjeta de seguro médico, llaves y checklist",
+        imageAlt: "Lista de verificación (checklist) con documentos y trámites administrativos para llegar a Suiza",
+        relatedSlugs: ["registrarse-en-suiza", "permiso-trabajo-suiza", "seguro-medico-lamal-suiza", "alquilar-vivienda-suiza"],
         summary: "Dos situaciones, dos circuitos distintos: si vienes a buscar trabajo no tienes ninguna obligación administrativa; si te instalas con contrato, el registro en la comuna es el primer paso obligatorio.",
         content: `
             <div class="article-content">
@@ -412,8 +466,8 @@ window.siteContent.es.articles = {
 
     // 2c. Trabajar sin el permiso físico (NUEVO)
     "articulo-trabajar-sin-permiso-fisico": {
-        title: "¿Puedo trabajar en Suiza antes de tener el permiso físico?",
-        description: "Sí, puedes trabajar legalmente en Suiza aunque el permiso físico tarde semanas en llegar. Explicamos cómo funciona el certificado provisional.",
+        title: "Trabajar en Suiza sin tener el permiso físico en mano: ¿es legal? (2026)",
+        description: "Explicación clara de qué ocurre si empiezas a trabajar antes de recibir la tarjeta de permiso: qué es legal y qué no según la ley suiza.",
         keywords: "trabajar sin permiso suiza, permiso provisional suiza, attestation residence suiza, esperar permiso suiza",
         category: "Trámites Ordinarios",
         hub: "tramites",
@@ -421,7 +475,8 @@ window.siteContent.es.articles = {
         readingTime: 3,
         dateUpdated: "Marzo 2026",
         featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
-        imageAlt: "Persona trabajando en Suiza en un entorno profesional",
+        imageAlt: "Trabajador en una oficina suiza con documentos de solicitud de permiso de trabajo pendiente de recibir",
+        relatedSlugs: ["permiso-trabajo-suiza", "contratos-de-trabajo-suiza", "checklist-tramites-llegada-suiza"],
         summary: "Puedes empezar a trabajar desde el primer día tras registrarte en la comuna. El permiso físico puede tardar semanas, pero el comprobante de registro ya tiene validez legal.",
         content: `
             <div class="article-content">
@@ -457,8 +512,8 @@ window.siteContent.es.articles = {
 
     // 2d. Reagrupación familiar (NUEVO)
     "articulo-reagrupacion-familiar": {
-        title: "Reagrupación familiar en Suiza: cómo traer a tu familia",
-        description: "Guía completa para traer a tu pareja e hijos a Suiza. Condiciones, documentación, plazos y derechos de los familiares reagrupados.",
+        title: "Reagrupación familiar en Suiza: requisitos y proceso (2026)",
+        description: "Cómo reagrupar a tu familia en Suiza: condiciones por tipo de permiso, plazos, documentación y diferencias cantonales.",
         keywords: "reagrupacion familiar suiza, traer familia suiza, permiso familiar suiza, conyuge suiza, apostilla suiza",
         category: "Trámites Ordinarios",
         hub: "tramites",
@@ -466,7 +521,8 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Marzo 2026",
         featuredImage: "media/guides/reagrupacion-familiar-suiza.jpg",
-        imageAlt: "Familia feliz llegando a Suiza con maletas en una estación de tren con los Alpes de fondo",
+        imageAlt: "Familia española reunida en Suiza frente a un edificio residencial helvético",
+        relatedSlugs: ["permiso-trabajo-suiza", "registrarse-en-suiza", "seguro-medico-lamal-suiza"],
         summary: "Si tienes Permiso B o C puedes traer a tu cónyuge e hijos menores de 18 años. Los familiares obtienen su propio permiso y tienen derecho a trabajar desde el primer día.",
         content: `
             <div class="article-content">
@@ -525,8 +581,8 @@ window.siteContent.es.articles = {
 
     // 3. Seguro de salud (LAMal)
     "articulo-lamal": {
-        title: "Seguro de salud en Suiza (LAMal): cómo funciona",
-        description: "El seguro médico obligatorio en Suiza (LAMal/KVG): cómo funciona, cómo elegirlo y qué plazos debes respetar.",
+        title: "Seguro médico LAMal en Suiza: cómo funciona y cómo elegirlo (2026)",
+        description: "Guía completa del seguro médico obligatorio en Suiza (LAMal/KVG): plazos, modelos, franquicia, copago y cómo comparar aseguradoras.",
         keywords: "seguro medico suiza, LAMal, KVG, vivir en Suiza, sistema salud suizo",
         category: "Seguro Médico",
         hub: "salud",
@@ -534,7 +590,8 @@ window.siteContent.es.articles = {
         readingTime: 12,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/seguro-medico-lamal-suiza.jpg",
-        imageAlt: "Persona revisando su tarjeta de seguro médico suizo junto a documentos de la Krankenkasse",
+        imageAlt: "Tarjeta del seguro médico suizo (Krankenkasse) junto a documentos de la LAMal",
+        relatedSlugs: ["franquicia-seguro-medico-suiza", "seguro-medico-lamal-elegir", "seguros-sociales-suiza", "checklist-tramites-llegada-suiza"],
         summary: "La LAMal es obligatoria para todos los residentes en Suiza. Tienes 3 meses desde tu registro para contratarla, con efecto retroactivo al día 1.",
         content: `
             <div class="article-content">
@@ -642,8 +699,8 @@ window.siteContent.es.articles = {
 
     // 4. Franquicia y copago en el sistema de salud
     "articulo-franquicia": {
-        title: "Franquicia y copago en el sistema de salud suizo",
-        description: "Explicación detallada de la franquicia y el copago en los seguros médicos suizos (LAMal).",
+        title: "Franquicia y copago del seguro médico suizo: cómo funciona (2026)",
+        description: "Explicación detallada de la franquicia y el copago (quote-part) en la LAMal suiza: cómo elegir, cuánto cuesta y ejemplos prácticos.",
         keywords: "franquicia LAMal, copago suiza, quote-part, seguro medico",
         audience: 'resident',
         category: 'Costos Médicos',
@@ -652,7 +709,8 @@ window.siteContent.es.articles = {
         readingTime: 4,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/franquicia-seguro-medico-suiza.jpg",
-        imageAlt: "Imagen conceptual de ahorro y salud en el sistema suizo",
+        imageAlt: "Calculadora, factura médica y monedas suizas sobre un escritorio, representando el cálculo de franquicia",
+        relatedSlugs: ["seguro-medico-lamal-suiza", "seguro-medico-lamal-elegir", "seguros-sociales-suiza"],
         summary: 'En Suiza tú pagas el 100% de los primeros gastos médicos hasta cubrir tu Franquicia elegida. Después, pagas un 10% de copago.',
         content: `
             <div class="article-content">
@@ -684,8 +742,8 @@ window.siteContent.es.articles = {
 
     // 5. Impuestos en Suiza: federal, cantonal y comunal
     "articulo-impuestos": {
-        title: "Impuestos en Suiza: federal, cantonal y comunal",
-        description: "Comprende el sistema de triple imposición en Suiza: de la Confederación, de los cantones y de las comunas.",
+        title: "Impuestos en Suiza: sistema federal, cantonal y comunal explicado (2026)",
+        description: "Cómo funciona el sistema fiscal suizo en 2026: tres niveles de imposición, cómo se calcula tu carga fiscal y diferencias entre cantones.",
         keywords: "impuestos suiza, fiscalidad Suiza, cantones impuestos",
         audience: 'worker',
         category: 'Sistema Tributario',
@@ -694,7 +752,8 @@ window.siteContent.es.articles = {
         readingTime: 12,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/impuestos-suiza.png",
-        imageAlt: "Formularios de impuestos, calculadora y monedas suizas sobre un escritorio ordenado",
+        imageAlt: "Formularios de declaración fiscal suiza, calculadora y monedas del sistema impositivo cantonal",
+        relatedSlugs: ["impuesto-fuente-suiza", "trabajadores-fronterizos-suiza", "salarios-sueldo-suiza", "seguros-sociales-suiza"],
         summary: 'En Suiza pagas impuestos a 3 niveles. El cantonal y comunal suponen la mayor carga y varían drásticamente incluso cruzando la calle.',
         content: `
             <div class="article-content">
@@ -806,8 +865,8 @@ window.siteContent.es.articles = {
 
     // 6. Impuesto a la fuente
     "articulo-impuesto-fuente": {
-        title: "El impuesto a la fuente (Quellensteuer) explicado",
-        description: "Qué es el impuesto a la fuente, a quiénes afecta y cómo se calcula en Suiza para extranjeros.",
+        title: "Impuesto a la fuente en Suiza: quién lo paga y cómo funciona (2026)",
+        description: "Todo sobre el impuesto retenido en origen en Suiza: titulares de permiso B y L, cómo se calcula, corrección y diferencias cantonales.",
         keywords: "impuesto fuente suiza, quellensteuer, impot a la source",
         audience: 'worker',
         category: 'Retenciones',
@@ -816,10 +875,37 @@ window.siteContent.es.articles = {
         readingTime: 3,
         dateUpdated: 'Abril 2026',
         featuredImage: "media/guides/impuesto-fuente-suiza.jpg",
-        imageAlt: "Persona revisando el cálculo de su impuesto a la fuente en una oficina suiza",
+        imageAlt: "Nómina suiza con retención del impuesto a la fuente (Quellensteuer) destacada en rojo",
+        relatedSlugs: ["impuestos-en-suiza", "salarios-sueldo-suiza", "trabajadores-fronterizos-suiza"],
         summary: 'Si tienes Permiso B o L, la empresa descuenta tu impuesto a la fuente directamente. La tarifa depende del cantón, estado civil e hijos.',
         content: `
             <div class="article-content">
+
+                <div class="callout info" style="padding:0;">
+                    <div style="padding:0.75rem 1rem 0.5rem 1rem; font-weight:700; border-bottom:1px solid rgba(0,0,0,0.08);">Tu situacion cambia todo</div>
+                    <div style="overflow-x:auto;">
+                    <table style="width:100%; border-collapse:collapse; font-size:0.92rem;">
+                        <tbody>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🧳 Turista</td>
+                        <td style="padding:0.7rem 1rem;">Sin residencia ni empleo en Suiza, no pagas impuesto a la fuente.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">📋 Permiso B o L (trabajador extranjero)</td>
+                        <td style="padding:0.7rem 1rem;">Impuesto retenido directamente del salario por el empleador. Esta guia es para ti.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🏠 Permiso C o ciudadano suizo</td>
+                        <td style="padding:0.7rem 1rem;">Con permiso C haces declaracion fiscal ordinaria. El impuesto a la fuente no te aplica.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
+
 
                 <div class="callout info">
                     <strong>A quién aplica:</strong> el impuesto a la fuente (Quellensteuer / impôt à la source) se aplica a trabajadores extranjeros con permiso L o B, y en algunos casos a fronterizos (permiso G). Si tienes permiso C o la nacionalidad suiza, tributas por declaración ordinaria anual.
@@ -842,8 +928,8 @@ window.siteContent.es.articles = {
 
     // 7. Seguros Sociales
     "articulo-seguros-sociales": {
-        title: "Seguros sociales en Suiza: AVS, AI, LPP y Seguro de Desempleo (Paro)",
-        description: "Desglose de los seguros sociales suizos: primer pilar (AVS/AI), segundo pilar (LPP/Caja de Pensiones) y paro.",
+        title: "Seguros sociales en Suiza: AHV/AVS, cotizaciones y prestaciones (2026)",
+        description: "Guía completa del sistema de seguros sociales suizo: AHV/AVS, seguro de desempleo, accidentes y pensiones. Qué cotizas y qué recibes.",
         keywords: "AVS suiza, LPP, paro suiza, sistema pensiones suizo",
         audience: 'worker',
         category: 'Trabajo',
@@ -852,10 +938,37 @@ window.siteContent.es.articles = {
         readingTime: 6,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/seguros-sociales-suiza.jpg",
-        imageAlt: "Ilustración conceptual de los tres pilares del sistema de previsión suizo (AVS, LPP, 3er pilar)",
+        imageAlt: "Documentación del sistema de seguros sociales suizo (AHV/AVS) sobre una mesa de trabajo",
+        relatedSlugs: ["rav-paro-suiza", "jubilacion-pension-suiza", "salarios-sueldo-suiza", "seguro-medico-lamal-suiza"],
         summary: 'El sistema de pensiones suizo se basa en 3 pilares: el AVS (estatal), la LPP (seguro profesional obligatorio) y el 3er pilar (ahorro privado).',
         content: `
             <div class="article-content">
+
+                <div class="callout info" style="padding:0;">
+                    <div style="padding:0.75rem 1rem 0.5rem 1rem; font-weight:700; border-bottom:1px solid rgba(0,0,0,0.08);">Tu situacion cambia todo</div>
+                    <div style="overflow-x:auto;">
+                    <table style="width:100%; border-collapse:collapse; font-size:0.92rem;">
+                        <tbody>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🧳 Turista</td>
+                        <td style="padding:0.7rem 1rem;">Sin actividad laboral en Suiza, no cotizas al sistema suizo.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">📋 Con contrato de trabajo</td>
+                        <td style="padding:0.7rem 1rem;">Desde el primer dia cotizas a AHV/AVS, seguro de desempleo y accidentes laborales.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                    <tr style="background:#fdf2ee;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🏠 Autonomo o sin empleo / residente</td>
+                        <td style="padding:0.7rem 1rem;">Obligacion de cotizar a la AHV existe igualmente. Consulta el procedimiento segun tu situacion.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#b5451b; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica parcialmente</span></td>
+                    </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
+
 
                 <div class="callout info">
                     <strong>Esta guía es para trabajadores y residentes en Suiza.</strong> Las cotizaciones a la seguridad social (AVS, AI, LPP, paro) se descuentan automáticamente de la nómina desde el primer mes de trabajo. No hay ningún trámite de adhesión por tu parte.
@@ -882,8 +995,8 @@ window.siteContent.es.articles = {
 
     // 7b. RAV / Paro
     "articulo-rav-paro": {
-        title: "RAV y paro en Suiza: cómo funciona el desempleo, requisitos y pasos",
-        description: "Guía práctica del seguro de desempleo suizo (ALV/AC): requisitos, plazos, inscripción en el RAV, obligaciones y sanciones.",
+        title: "RAV y paro en Suiza: cómo inscribirse y cobrar el seguro de desempleo (2026)",
+        description: "Cómo funciona el seguro de desempleo en Suiza: RAV, quién puede acceder, cuánto se cobra, cuánto tiempo y qué documentos necesitas.",
         keywords: "RAV suiza, paro suiza, desempleo suiza, ALV AC, seguro desempleo suiza",
         audience: "worker",
         category: "Trabajo",
@@ -892,7 +1005,8 @@ window.siteContent.es.articles = {
         readingTime: 12,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/rav-paro-suiza.jpg",
-        imageAlt: "Oficina del RAV en Suiza con asesores ayudando a candidatos en su búsqueda de empleo",
+        imageAlt: "Oficina del RAV (Regionaler Arbeitsvermittlungszentrum) donde se tramita el seguro de desempleo suizo",
+        relatedSlugs: ["seguros-sociales-suiza", "contratos-de-trabajo-suiza", "salarios-sueldo-suiza", "trabajar-en-suiza-guia"],
         summary: "Si pierdes tu empleo en Suiza, el RAV (y la caja de paro) puede cubrir parte de tu salario, pero exige plazos y una búsqueda de empleo demostrable.",
         content: `
             <div class="article-content">
@@ -908,6 +1022,31 @@ window.siteContent.es.articles = {
                     <li><strong>Caja de desempleo (Kasse / caisse):</strong> evalúa tu derecho y <strong>paga</strong> la prestación.</li>
                 </ul>
                 <p>Los detalles (por ejemplo, cómo pedir cita, formularios específicos o ritmo de seguimiento) pueden variar según <strong>cantón</strong> y oficina. La lógica general es común en toda Suiza.</p>
+
+                <div class="callout info" style="padding:0;">
+                    <div style="padding:0.75rem 1rem 0.5rem 1rem; font-weight:700; border-bottom:1px solid rgba(0,0,0,0.08);">Tu situacion cambia todo</div>
+                    <div style="overflow-x:auto;">
+                    <table style="width:100%; border-collapse:collapse; font-size:0.92rem;">
+                        <tbody>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🧳 Turista / recien llegado</td>
+                        <td style="padding:0.7rem 1rem;">Sin cotizaciones en Suiza, no tienes derecho al seguro de desempleo suizo.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">📋 Con contrato activo</td>
+                        <td style="padding:0.7rem 1rem;">El RAV es para despues de perder el empleo. Mientras trabajas, no necesitas inscribirte.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🏠 Desempleado con cotizaciones CH</td>
+                        <td style="padding:0.7rem 1rem;">Si has cotizado el minimo exigido en Suiza, tienes derecho a las prestaciones. Esta guia es para ti.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
 
                 <div class="callout warning">
                     <strong>Mensaje claro:</strong> si tu contrato termina en 2–4 semanas, empieza hoy mismo a guardar pruebas de búsqueda. Muchos expedientes se complican por no poder demostrar "qué hiciste" antes del último día.
@@ -1011,8 +1150,8 @@ window.siteContent.es.articles = {
 
     // 8. Salarios por sector y región
     "articulo-salarios": {
-        title: "Salarios en Suiza por sector y región: ¿Cuánto se gana?",
-        description: "Descubre cuál es el salario medio en Suiza, diferencias por cantón, el calculador Salarium y si existe el salario mínimo.",
+        title: "Salarios en Suiza en 2026: bruto vs neto, deducciones y convenios",
+        description: "Cuánto se cobra en Suiza: diferencia entre salario bruto y neto, qué se deduce, salarios mínimos por sector y cómo negociar.",
         keywords: "salario suiza, sueldo medio suiza, salarium, salario minimo ginebra",
         category: 'Mercado Laboral',
         hub: 'trabajo',
@@ -1020,7 +1159,8 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/salarios-sueldo-suiza.jpg",
-        imageAlt: "Certificado de salario suizo (Lohnausweis) con monedas de francos suizos en un escritorio profesional",
+        imageAlt: "Nómina suiza mostrando salario bruto, deducciones AHV y salario neto",
+        relatedSlugs: ["contratos-de-trabajo-suiza", "impuesto-fuente-suiza", "seguros-sociales-suiza", "periodo-prueba-preaviso-suiza"],
         summary: 'Suiza tiene salarios muy altos pero costos en proporción. Solo unos pocos cantones (ej. Ginebra, Neuchâtel) tienen salario mínimo legal.',
         content: `
             <div class="article-content">
@@ -1041,6 +1181,31 @@ window.siteContent.es.articles = {
                     <strong>Enlace útil:</strong> <a href="https://www.bfs.admin.ch/bfs/es/home/estadisticas/trabajo-remuneracion/salarios-ingresos-costo-trabajo/nivel-salarial-suiza/salarium.html" target="_blank">Calculador de Salarios Salarium</a>
                 </div>
 
+                <div class="callout info" style="padding:0;">
+                    <div style="padding:0.75rem 1rem 0.5rem 1rem; font-weight:700; border-bottom:1px solid rgba(0,0,0,0.08);">Tu situacion cambia todo</div>
+                    <div style="overflow-x:auto;">
+                    <table style="width:100%; border-collapse:collapse; font-size:0.92rem;">
+                        <tbody>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🧳 Turista</td>
+                        <td style="padding:0.7rem 1rem;">Sin relacion laboral en Suiza, esta guia no aplica.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">📋 Con oferta de trabajo</td>
+                        <td style="padding:0.7rem 1rem;">Antes de aceptar, entiende la diferencia bruto/neto y las deducciones obligatorias.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🏠 Ya trabajas aqui</td>
+                        <td style="padding:0.7rem 1rem;">Revisa tu nomina: deducciones, imputaciones y si tu salario respeta el convenio de tu sector.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
+
                 <h2>Los Convenios Colectivos (CCT)</h2>
                 <p>Muchos sectores (hostelería, construcción, peluquería) están regidos por Contratos Colectivos de Trabajo (CCT / GAV). Estos contratos establecen salarios mínimos obligatorios, número de días de vacaciones y pago de horas extra, ofreciendo una sólida protección al trabajador.</p>
             </div>
@@ -1049,8 +1214,8 @@ window.siteContent.es.articles = {
 
     // 9. Contratos de trabajo
     "articulo-contratos": {
-        title: "Contratos de trabajo en Suiza: derechos y obligaciones",
-        description: "Todo sobre el contrato de trabajo suizo (CDI, CDD), las vacaciones legales y el pago de sueldo completo en caso de enfermedad.",
+        title: "Contratos de trabajo en Suiza: tipos, derechos y obligaciones (2026)",
+        description: "Guía sobre contratos laborales en Suiza: CDI, CDD, período de prueba, vacaciones, baja por enfermedad, maternidad y horas extra.",
         keywords: "contrato trabajo suiza, derechos trabajador suiza, vacaciones suiza, code des obligations",
         category: 'Contratos',
         hub: 'trabajo',
@@ -1058,7 +1223,8 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/contratos-de-trabajo-suiza.jpg",
-        imageAlt: "Dos personas estrechándose la mano al firmar un contrato de trabajo, representando el acuerdo laboral",
+        imageAlt: "Contrato de trabajo suizo firmándose entre empleado y empleador en una oficina",
+        relatedSlugs: ["salarios-sueldo-suiza", "periodo-prueba-preaviso-suiza", "seguros-sociales-suiza", "rav-paro-suiza"],
         summary: 'El mercado laboral suizo es flexible para el empleador pero garantiza derechos claros al trabajador. Las vacaciones mínimas son 4 semanas y la enfermedad tiene protección legal.',
         content: `
             <div class="article-content">
@@ -1081,6 +1247,31 @@ window.siteContent.es.articles = {
 
                 <div class="callout warning">
                     <strong>Protección durante la enfermedad:</strong> mientras estás de baja médica, el empleador no puede despedirte durante los periodos de protección previstos en el CO (que varían según antigüedad). Si recibes una carta de despido mientras estás enfermo, el plazo de preaviso queda suspendido.
+                </div>
+
+                <div class="callout info" style="padding:0;">
+                    <div style="padding:0.75rem 1rem 0.5rem 1rem; font-weight:700; border-bottom:1px solid rgba(0,0,0,0.08);">Tu situacion cambia todo</div>
+                    <div style="overflow-x:auto;">
+                    <table style="width:100%; border-collapse:collapse; font-size:0.92rem;">
+                        <tbody>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🧳 Turista</td>
+                        <td style="padding:0.7rem 1rem;">Sin contrato de trabajo, esta guia no te aplica todavia.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">📋 Con oferta / contrato</td>
+                        <td style="padding:0.7rem 1rem;">Tu situacion laboral en Suiza depende del contrato. Revisa cada punto antes de firmar.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🏠 Ya trabajas en Suiza</td>
+                        <td style="padding:0.7rem 1rem;">Verifica que tu contrato respeta los minimos legales y el convenio colectivo de tu sector.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                        </tbody>
+                    </table>
+                    </div>
                 </div>
 
                 <h2>Maternidad y paternidad</h2>
@@ -1107,8 +1298,8 @@ window.siteContent.es.articles = {
 
     // 10. Periodo de prueba
     "articulo-periodo-prueba": {
-        title: "El periodo de prueba y los plazos de preaviso en Suiza",
-        description: "Conoce tus derechos durante el periodo de prueba suizo y cuánto tiempo de preaviso necesitas para renunciar o ser despedido.",
+        title: "Período de prueba en Suiza: duración, preaviso y derechos (2026)",
+        description: "Todo sobre el período de prueba en Suiza: cuánto dura, plazos de preaviso, qué puede pasar y cómo protegerte como trabajador.",
         keywords: "periodo prueba suiza, preaviso despido suiza, probezeit",
         audience: 'worker',
         category: 'Trabajo',
@@ -1117,7 +1308,8 @@ window.siteContent.es.articles = {
         readingTime: 3,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/periodo-prueba-preaviso-suiza.jpg",
-        imageAlt: "Reunión profesional de revisión al finalizar el periodo de prueba en una oficina con vistas a las montañas suizas",
+        imageAlt: "Calendario marcando el período de prueba laboral en Suiza con fechas de preaviso",
+        relatedSlugs: ["contratos-de-trabajo-suiza", "salarios-sueldo-suiza", "rav-paro-suiza"],
         summary: 'El periodo de prueba estándar es de 1 a 3 meses. Durante este tiempo, cualquiera de las partes puede rescindir el contrato con 7 días de preaviso.',
         content: `
             <div class="article-content">
@@ -1142,8 +1334,8 @@ window.siteContent.es.articles = {
 
     // 12. Alquiler de vivienda
     "articulo-alquiler": {
-        title: "Alquilar una vivienda en Suiza: el proceso paso a paso",
-        description: "Documentos necesarios (Betreibungsauszug) y el dosier que necesitas para conseguir un alquiler suizo en un mercado competitivo.",
+        title: "Alquilar piso en Suiza: proceso, documentos y derechos del inquilino (2026)",
+        description: "Cómo alquilar un piso en Suiza: documentación necesaria, fianza, derechos del inquilino y cómo evitar estafas.",
         keywords: "alquilar piso suiza, apartamento ginebra zarich, dossier alquiler suiza",
         category: 'Contrato de Alquiler',
         hub: 'vivienda',
@@ -1151,12 +1343,38 @@ window.siteContent.es.articles = {
         readingTime: 12,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/alquilar-vivienda-suiza.jpg",
-        imageAlt: "Persona recibiendo las llaves de su apartamento de manos de un agente inmobiliario en Suiza",
+        imageAlt: "Apartamento suizo disponible para alquilar con vista a los Alpes en el fondo",
+        relatedSlugs: ["fianzas-alquiler-suiza", "subalquiler-vivienda-suiza", "alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza"],
         summary: 'El mercado de alquiler es muy competitivo. Necesitas un dosier impecable: extracto de no deudas (poursuites), contrato y 3 últimas nóminas.',
         content: `
             <div class="article-content">
                 <h2>Introducción</h2>
                 <p>Alquilar vivienda en Suiza suele sorprender por dos motivos: (1) la <strong>competencia</strong> en ciertas zonas y (2) la importancia del <strong>dosier</strong>. No basta con "poder pagar": las agencias (régies/Verwaltungen) buscan perfiles estables, con documentación completa y sin historial de impagos. La buena noticia es que, si entiendes el proceso y te organizas, aumenta mucho tu probabilidad de éxito.</p>
+
+                <div class="callout info" style="padding:0;">
+                    <div style="padding:0.75rem 1rem 0.5rem 1rem; font-weight:700; border-bottom:1px solid rgba(0,0,0,0.08);">Tu situacion cambia todo</div>
+                    <div style="overflow-x:auto;">
+                    <table style="width:100%; border-collapse:collapse; font-size:0.92rem;">
+                        <tbody>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🧳 Turista</td>
+                        <td style="padding:0.7rem 1rem;">Sin contrato de alquiler suizo, esta guia no aplica para tu estancia.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🔍 Recien llegado buscando piso</td>
+                        <td style="padding:0.7rem 1rem;">Esta guia es exactamente para ti: proceso, documentos y como no caer en estafas.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🏠 Ya resides y quieres cambiar de piso</td>
+                        <td style="padding:0.7rem 1rem;">Los mismos derechos aplican. Revisa plazos de preaviso y condiciones de devolucion de fianza.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
 
                 <div class="callout info">
                     <strong>Puntos clave:</strong>
@@ -1254,8 +1472,8 @@ window.siteContent.es.articles = {
 
     // 13. Fianzas de alquiler
     "articulo-fianzas": {
-        title: "Fianzas de alquiler y derechos del inquilino (ASLOCA/MV)",
-        description: "Descubre cómo funcionan las garantías de alquiler suizas, alternativas con aseguradoras (SwissCaution) y asociaciones de defensa del inquilino.",
+        title: "Fianza de alquiler en Suiza: cómo funciona y cómo recuperarla (2026)",
+        description: "La fianza de alquiler en Suiza (dépôt de garantie): cuánto es, cómo depositarla, cuándo y cómo recuperarla al final del contrato.",
         keywords: "fianza alquiler suiza, swisscaution, asloca, mieterverband",
         audience: 'resident',
         category: 'Vivienda',
@@ -1264,7 +1482,8 @@ window.siteContent.es.articles = {
         readingTime: 3,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/fianzas-alquiler-suiza.jpg",
-        imageAlt: "Documento de garantía bancaria de alquiler suiza con las llaves de casa en un escritorio profesional",
+        imageAlt: "Documento de fianza de alquiler suizo (caution) con sello de una entidad bancaria helvética",
+        relatedSlugs: ["alquilar-vivienda-suiza", "subalquiler-vivienda-suiza", "costo-de-vida-suiza"],
         summary: 'La fianza máxima legal es de 3 meses de alquiler. Puedes depositarla en un banco o usar seguros como SwissCaution.',
         content: `
             <div class="article-content">
@@ -1283,16 +1502,18 @@ window.siteContent.es.articles = {
 
     // 14. Costo de vida
     "articulo-costo-vida": {
-        title: "Presupuestos en Suiza: Vivienda, Alimentación e Impuestos",
-        description: "Planificación financiera en Suiza con ejemplos de presupuestos para solteros, parejas y familias que enfrentan vivienda, alimentación e impuestos.",
+        title: "Coste de vida en Suiza en 2026: alquiler, comida, transporte y más",
+        description: "Cuánto cuesta vivir en Suiza en 2026: alquiler, supermercado, transporte público, seguros y comparativa entre ciudades y cantones.",
         keywords: "presupuesto suiza, planificación financiera suiza, familias suizas",
         category: 'Costo de Vida',
         hub: 'vivir-en-suiza',
         slug: "presupuesto-suiza",
         featuredImage: "media/guides/presupuesto-suiza.png",
-        imageAlt: "Ilustración de presupuesto: cartera, calculadora y gastos para vivir en Suiza",
+        imageAlt: "Compra en un supermercado suizo con precios en francos, representando el coste de vida en Suiza",
+        relatedSlugs: ["alquilar-vivienda-suiza", "transporte-publico-suiza", "salarios-sueldo-suiza", "costo-de-vida-suiza"],
         supportingImages: [],
         readingTime: 5,
+        dateUpdated: "Abril 2026",
         summary: 'Guía de planificación financiera para Suiza con ejemplos de presupuestos reales, desde personas solteras hasta familias con hijos.',
         content: `
             <div class="article-content">
@@ -1355,8 +1576,8 @@ window.siteContent.es.articles = {
 
     // 15. Trabajadores fronterizos (frontaliers)
     "articulo-frontaliers": {
-        title: "Trabajadores fronterizos (frontaliers): reglas y fiscalidad",
-        description: "Todo lo que necesitas saber si vives en Francia, Alemania o Italia y trabajas en Suiza como frontalier (Permiso G).",
+        title: "Trabajador frontalizo en Suiza (permiso G): fiscalidad y derechos (2026)",
+        description: "Todo sobre el permiso G para trabajadores frontaleros: quién puede solicitarlo, cómo tributa por cantón y qué cambió en 2023.",
         keywords: "frontalier suiza, permiso G, impuestos fronterizos suiza, vivir en francia trabajar en suiza",
         category: 'Fronterizos',
         hub: 'fronterizos',
@@ -1364,7 +1585,8 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/trabajadores-fronterizos-suiza.jpg",
-        imageAlt: "Mapa de Europa con fronteras entre Suiza, Francia, Alemania e Italia, destacando el flujo de trabajadores fronterizos",
+        imageAlt: "Paso fronterizo entre Francia y Suiza con coches de trabajadores fronterizos al amanecer",
+        relatedSlugs: ["impuesto-fuente-suiza", "impuestos-en-suiza", "permiso-trabajo-suiza", "seguro-medico-lamal-suiza"],
         summary: 'El Permiso G te permite vivir en Francia/Alemania y trabajar en Suiza. Debes elegir entre la LAMal o el seguro de tu país (derecho de opción).',
         content: `
             <div class="article-content">
@@ -1391,6 +1613,31 @@ window.siteContent.es.articles = {
                     <strong>El convenio fiscal con Francia cambió en 2023.</strong> Los acuerdos de doble imposición se actualizan. Si tienes dudas sobre cómo te afecta, consulta siempre a un asesor fiscal o a la autoridad fiscal de tu cantón.
                 </div>
 
+                <div class="callout info" style="padding:0;">
+                    <div style="padding:0.75rem 1rem 0.5rem 1rem; font-weight:700; border-bottom:1px solid rgba(0,0,0,0.08);">Tu situacion cambia todo</div>
+                    <div style="overflow-x:auto;">
+                    <table style="width:100%; border-collapse:collapse; font-size:0.92rem;">
+                        <tbody>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🏠 Residente en Suiza</td>
+                        <td style="padding:0.7rem 1rem;">Si resides en Suiza, no eres frontalizo. Esta guia es especificamente para trabajadores que regresan cada dia o semana.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">📋 Resides en FR/DE/IT, trabajas en CH</td>
+                        <td style="padding:0.7rem 1rem;">Eres trabajador frontalizo. Permiso G, doble convenio fiscal y reglas especificas para ti.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                    <tr style="background:#fdf2ee;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🏰 Frontalizo con derecho de opcion</td>
+                        <td style="padding:0.7rem 1rem;">Si eres frontalizo en GE o VS, verifica si te aplica el derecho de opcion LAMal. Plazo: 3 meses desde inicio.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#b5451b; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica parcialmente</span></td>
+                    </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
+
                 <h2>Seguro médico: el derecho de opción</h2>
                 <p>Al comenzar a trabajar en Suiza, tienes <strong>3 meses</strong> para ejercer el "derecho de opción": puedes elegir asegurarte en el sistema suizo (LAMal frontalier) o mantener el seguro de tu país de residencia (por ejemplo, la Sécurité Sociale francesa o la GKV alemana). Esta decisión es <strong>definitiva e irrevocable</strong> mientras mantengas el permiso G con el mismo país de residencia.</p>
                 <p>Si no ejerces el derecho de opción dentro del plazo, se te adscribirá automáticamente a la LAMal suiza. Hay que evaluar cuidadosamente los dos sistemas antes de decidir, porque las coberturas, primas y condiciones son muy diferentes.</p>
@@ -1409,8 +1656,8 @@ window.siteContent.es.articles = {
 
     // 16. Reconocimiento de diplomas
     "articulo-diplomas": {
-        title: "Reconocimiento de diplomas extranjeros en Suiza",
-        description: "Cómo convalidar tu título universitario o de formación profesional español o latinoamericano en Suiza (SEFRI, Cruz Roja).",
+        title: "Homologar títulos y diplomas en Suiza: proceso y organismos (2026)",
+        description: "Cómo reconocer tu titulación española o europea en Suiza: qué organismos gestionan la equivalencia y cuánto tiempo tarda.",
         keywords: "homologar titulo suiza, reconocimiento diplomas suiza, sefri, convalidar titulo",
         audience: 'newcomer',
         category: 'Trámites Avanzados',
@@ -1419,10 +1666,37 @@ window.siteContent.es.articles = {
         readingTime: 3,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/homologar-titulos-suiza.jpg",
-        imageAlt: "Manos sosteniendo un diploma con un sello oficial suizo, simbolizando la convalidación",
+        imageAlt: "Diploma universitario español junto a formulario de reconocimiento oficial de titulaciones en Suiza",
+        relatedSlugs: ["contratos-de-trabajo-suiza", "trabajar-en-suiza-guia", "permiso-trabajo-suiza"],
         summary: 'Solo las profesiones reguladas (médicos, profesores) necesitan reconocimiento obligatorio ante el SEFRI o MEBEKO.',
         content: `
             <div class="article-content">
+
+                <div class="callout info" style="padding:0;">
+                    <div style="padding:0.75rem 1rem 0.5rem 1rem; font-weight:700; border-bottom:1px solid rgba(0,0,0,0.08);">Tu situacion cambia todo</div>
+                    <div style="overflow-x:auto;">
+                    <table style="width:100%; border-collapse:collapse; font-size:0.92rem;">
+                        <tbody>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🧳 Turista</td>
+                        <td style="padding:0.7rem 1rem;">La homologacion solo es necesaria si trabajas o estudias formalmente en Suiza.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#fdf2ee;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🔍 Buscas trabajo en Suiza</td>
+                        <td style="padding:0.7rem 1rem;">Segun tu profesion, puede ser necesario homologar antes de trabajar (profesiones reguladas).</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#b5451b; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica parcialmente</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🏠 Con contrato / trabajando ya</td>
+                        <td style="padding:0.7rem 1rem;">Confirma con tu empleador si tu titulacion requiere reconocimiento formal para el puesto.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
+
                 <p>Si tienes una titulación extranjera y quieres ejercer en Suiza, el primer paso es saber si tu profesión está regulada (ej. medicina, enfermería, abogacía, docencia). Si no está regulada, no es obligatorio el reconocimiento oficial, y el mercado laboral decidirá el valor de tu título.</p>
 
                 <h2>Profesiones Reguladas y Entidades Competentes</h2>
@@ -1444,8 +1718,8 @@ window.siteContent.es.articles = {
 
     // 17. Sistema escolar suizo
     "articulo-sistema-escolar": {
-        title: "El sistema escolar en Suiza explicado",
-        description: "Guía sobre cómo funciona el colegio en Suiza, la escuela pública, los idiomas y la segregación temprana (filières).",
+        title: "Sistema escolar suizo: cómo funciona y cómo escolarizar a tus hijos (2026)",
+        description: "Guía del sistema educativo suizo: etapas, diferencias por cantón y lengua, cómo inscribir a tus hijos en el cole al llegar.",
         keywords: "colegio suiza, educacion suiza, sistema escolar suizo, escuela infantil suiza",
         audience: 'family',
         category: 'Familia',
@@ -1454,7 +1728,8 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/sistema-escolar-suiza.jpg",
-        imageAlt: "Edificio moderno de una escuela primaria pública en Suiza con zona de juegos y montañas al fondo",
+        imageAlt: "Niños entrando a una escuela pública suiza (Schule) con mochila y uniforme deportivo",
+        relatedSlugs: ["cantones-suiza", "vivir-en-suiza-introduccion", "consejos-vida-diaria-suiza"],
         summary: 'El sistema escolar orienta (segrega) a los alumnos rápido: más del 60% hace formación profesional dual (CFC) en lugar de bachillerato.',
         content: `
             <div class="article-content">
@@ -1480,8 +1755,8 @@ window.siteContent.es.articles = {
 
     // 18. Sistema de salud (médicos y urgencias)
     "articulo-sistema-salud": {
-        title: "Sistema de salud en Suiza: médicos, hospitales y urgencias",
-        description: "Cómo encontrar médico de cabecera en Suiza, cómo funcionan las urgencias (Urgences / Notfall) y cómo pagar las facturas médicas.",
+        title: "Sistema de salud en Suiza: médicos, urgencias y cómo funciona (2026)",
+        description: "Cómo acceder al sistema sanitario suizo: médico de cabecera, urgencias, hospitales y la diferencia entre LAMal y complementarios.",
         keywords: "medico cabecera suiza, urgencias suiza, pediatra suiza, sistema salud suizo",
         audience: 'resident',
         category: 'Red Médica',
@@ -1490,7 +1765,8 @@ window.siteContent.es.articles = {
         readingTime: 4,
         dateUpdated: "Abril 2026",
         featuredImage: "media/guides/medicos-urgencias-suiza.jpg",
-        imageAlt: "Recepción de un centro médico de urgencias (Permanence Médicale) en Suiza",
+        imageAlt: "Médico de cabecera suizo atendiendo a un paciente en una consulta general en Suiza",
+        relatedSlugs: ["seguro-medico-lamal-suiza", "franquicia-seguro-medico-suiza", "vacunacion-en-suiza"],
         summary: 'Evita ir a las urgencias de un hospital por dolencias leves. Usa las Permanences Médicales o llama antes a tu seguro si tienes modelo HMO.',
         content: `
             <div class="article-content">
@@ -1514,8 +1790,8 @@ window.siteContent.es.articles = {
 
     // 19. Transporte público y abonos
     "articulo-transporte": {
-        title: "Transporte público en Suiza: CFF/SBB, Halbtax y Abono General (AG)",
-        description: "Suiza tiene la red de trenes más densa y puntual. Descubre los abonos Demi-tarif / Halbtax, el Abono general y cómo moverte.",
+        title: "Transporte público en Suiza: abonos, billetes y cómo moverse (2026)",
+        description: "Guía completa del transporte público suizo: tren SBB, abono general (GA), abono semicuentral, Halbtax y cómo moverse por los cantones.",
         keywords: "trenes suiza, SBB CFF FFS, abono medio precio suiza, halbtax, demi tarif, abono general AG",
         category: 'Transporte Público',
         hub: 'vivir-en-suiza',
@@ -1524,7 +1800,8 @@ window.siteContent.es.articles = {
         dateUpdated: "Abril 2026",
         summary: 'El abono Demi-tarif / Halbtax (mitad de precio) es casi obligatorio para cualquier residente si planea usar el transporte público ocasionalmente.',
         featuredImage: "media/guides/transporte-publico-suiza.jpg",
-        imageAlt: "Mapa articulado de la red ferroviaria suiza",
+        imageAlt: "Tren rojo de los SBB (Ferrocarriles Federales Suizos) en una estación alpina",
+        relatedSlugs: ["costo-de-vida-suiza", "cantones-suiza", "vivir-en-suiza-introduccion"],
         content: `
             <div class="article-content">
                 <p>La Confederación Suiza está orgullosa de poseer uno de los sistemas de transporte público más densos, puntuales e integrados del mundo (trenes, autobuses, tranvías y barcos están en un solo reloj).</p>
@@ -1547,19 +1824,47 @@ window.siteContent.es.articles = {
 
     // 20. Ciudadanía suiza
     "articulo-ciudadania": {
-        title: "Ciudadanía suiza y el proceso de naturalización por residencia",
-        description: "Requisitos para conseguir el pasaporte suizo. Años de residencia, nivel de idioma y la prueba de integración (la naturalización ordinaria).",
+        title: "Ciudadanía suiza: requisitos, proceso y años de residencia (2026)",
+        description: "Cómo obtener la ciudadanía suiza en 2026: años de residencia exigidos, proceso de naturalización, requisitos lingüísticos y diferencias cantonales.",
         keywords: "nacionalidad suiza, naturalizacion suiza, ciudadania suiza, pasaporte suizo",
         audience: 'newcomer',
         category: 'Trámites Avanzados',
         hub: 'tramites',
         slug: "nacionalidad-suiza-pasaporte",
         readingTime: 5,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/nacionalidad-suiza-pasaporte.jpg",
-        imageAlt: "Simbólico pasaporte rojo suizo descansando sobre un escritorio de madera profesional",
+        imageAlt: "Pasaporte suizo rojo con la cruz blanca sobre documentos de naturalización",
+        relatedSlugs: ["permiso-trabajo-suiza", "registrarse-en-suiza", "cantones-suiza"],
         summary: 'La naturalización ordinaria requiere 10 años de residencia, un Permiso C, nivel de idioma (B1/A2) y superar un examen comunal de integración.',
         content: `
             <div class="article-content">
+
+                <div class="callout info" style="padding:0;">
+                    <div style="padding:0.75rem 1rem 0.5rem 1rem; font-weight:700; border-bottom:1px solid rgba(0,0,0,0.08);">Tu situacion cambia todo</div>
+                    <div style="overflow-x:auto;">
+                    <table style="width:100%; border-collapse:collapse; font-size:0.92rem;">
+                        <tbody>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🧳 Recien llegado / turista</td>
+                        <td style="padding:0.7rem 1rem;">La ciudadania requiere muchos anos de residencia legal. No es aplicable a corto plazo.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#f5f5f5;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">📋 Residente con permiso B (menos de 5 anos)</td>
+                        <td style="padding:0.7rem 1rem;">Todavia no cumples el minimo de residencia. Esta guia es util para planificar el futuro.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#888; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">No aplica todavia</span></td>
+                    </tr>
+                    <tr style="background:#eaf4f0;">
+                        <td style="padding:0.7rem 1rem; font-weight:600; white-space:nowrap;">🏠 Residente de larga duracion (10+ anos)</td>
+                        <td style="padding:0.7rem 1rem;">Si cumples los anos requeridos y los criterios de integracion, puedes iniciar el proceso.</td>
+                        <td style="padding:0.7rem 1rem; text-align:center; white-space:nowrap;"><span style="background:#2d6a4f; color:white; font-size:0.78rem; padding:3px 8px; border-radius:4px; font-weight:600;">Aplica</span></td>
+                    </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
+
 
                 <div class="callout info">
                     <strong>Esta guía es para personas con varios años de residencia efectiva en Suiza</strong> que quieren iniciar el proceso de naturalización. No aplica a turistas, trabajadores fronterizos ni residentes recién llegados.
@@ -1590,8 +1895,8 @@ window.siteContent.es.articles = {
 
     // 21. Subalquiler
     "articulo-subalquiler": {
-        title: "Subalquiler de habitación o piso en Suiza: guía legal",
-        description: "Todo sobre el subalquiler en Suiza: contratos, fianzas, derechos y obligaciones para inquilinos y subinquilinos.",
+        title: "Subarrendar el piso en Suiza: reglas, permiso y riesgos (2026)",
+        description: "Todo sobre el subarriendo en Suiza: cuándo está permitido, cómo pedirlo al casero, qué dice el CO y qué riesgos tiene el inquilino.",
         keywords: "subalquiler suiza, alquiler habitacion suiza, contrato subarriendo, fianza subalquiler",
         category: "Vivienda",
         hub: "vivienda",
@@ -1599,7 +1904,8 @@ window.siteContent.es.articles = {
         readingTime: 4,
         dateUpdated: "Marzo 2026",
         featuredImage: "media/guides/subalquiler-vivienda-suiza.jpg",
-        imageAlt: "Habitación acogedora en un piso compartido (colocación) en una ciudad suiza",
+        imageAlt: "Contrato de subarriendo de piso en Suiza con claves de apartamento encima",
+        relatedSlugs: ["alquilar-vivienda-suiza", "fianzas-alquiler-suiza", "normas-locales-ginebra"],
         summary: "El subalquiler es legal y común en Suiza. Requiere autorización del propietario y, preferiblemente, un contrato por escrito para evitar malentendidos.",
         content: `
             <div class="article-content">
@@ -1635,8 +1941,8 @@ window.siteContent.es.articles = {
 
     // 22. Jubilación (AVS / LPP)
     "articulo-jubilacion": {
-        title: "Jubilación en Suiza: cuánto cobrarás según tu edad de llegada",
-        description: "Análisis de la jubilación en Suiza (AVS y LPP) con ejemplos reales para quienes llegan con 30, 40 o 50 años.",
+        title: "Jubilación y pensión en Suiza: tres pilares y cómo funciona (2026)",
+        description: "Cómo funciona el sistema de pensiones suizo: AHV/AVS (primer pilar), pensión profesional (segundo pilar) y ahorro privado (tercer pilar).",
         keywords: "jubilacion suiza, pension suiza, AVS, LPP, cuanto cobro jubilacion suiza",
         category: "Previsión Social",
         hub: "trabajo",
@@ -1644,7 +1950,8 @@ window.siteContent.es.articles = {
         readingTime: 5,
         dateUpdated: "Marzo 2026",
         featuredImage: "media/guides/jubilacion-pension-suiza.jpg",
-        imageAlt: "Pareja de jubilados disfrutando de un café en una terraza con vistas a los Alpes suizos",
+        imageAlt: "Pareja jubilada en Suiza revisando documentos del sistema de pensiones AVS y segundo pilar",
+        relatedSlugs: ["seguros-sociales-suiza", "salarios-sueldo-suiza", "impuestos-en-suiza"],
         summary: "La jubilación suiza se basa en tres pilares. Los años cotizados marcan la diferencia: cuanto antes llegues, más sólida será tu pensión.",
         content: `
             <div class="article-content">
@@ -1673,8 +1980,8 @@ window.siteContent.es.articles = {
 
     // 23. Vivir sin trabajar
     "articulo-vivir-sin-trabajar": {
-        title: "Vivir en Suiza sin trabajar: requisitos para residentes UE",
-        description: "Guía sobre cómo residir en Suiza sin actividad lucrativa (ahorros, rentas o jubilación) y qué permisos necesitas.",
+        title: "Vivir en Suiza sin trabajar como ciudadano UE/EFTA: requisitos (2026)",
+        description: "Cómo residir en Suiza sin actividad laboral siendo ciudadano UE/EFTA: seguro médico, medios económicos suficientes y registro.",
         keywords: "vivir en suiza sin trabajar, permiso residencia ahorros, permiso B no lucrativo",
         category: "Trámites Ordinarios",
         hub: "tramites",
@@ -1683,7 +1990,8 @@ window.siteContent.es.articles = {
         dateUpdated: "Abril 2026",
         summary: "Es posible vivir en Suiza sin trabajar, pero debes demostrar medios económicos suficientes y disponer de un seguro médico completo (LAMal).",
         featuredImage: "media/guides/residir-en-suiza-sin-trabajo.jpg",
-        imageAlt: "Persona relajada disfrutando de la libertad financiera en un balcón con vistas a los Alpes suizos",
+        imageAlt: "Ciudadano europeo en Suiza sin actividad laboral, con permiso de residencia y seguro médico LAMal",
+        relatedSlugs: ["permiso-trabajo-suiza", "seguro-medico-lamal-suiza", "registrarse-en-suiza"],
         content: `
             <div class="article-content">
 
@@ -1713,8 +2021,8 @@ window.siteContent.es.articles = {
 
     // 24. AI (Assurance-invalidité)
     "articulo-ai-invalidez": {
-        title: "La AI suiza (Assurance-invalidité): ayuda y reincorporación",
-        description: "Comprende cómo funciona el seguro de invalidez en Suiza. Su objetivo principal es la reinserción laboral antes que la renta.",
+        title: "Seguro de invalidez AI en Suiza: quién puede solicitarlo y cómo (2026)",
+        description: "El seguro de invalidez (AI/IV) en Suiza: quién tiene derecho, cómo solicitarlo, cuánto tiempo lleva y qué prestaciones cubre.",
         keywords: "AI suiza, invalidez suiza, seguro incapacidad, renta AI",
         category: "Seguros Sociales",
         hub: "salud",
@@ -1723,7 +2031,8 @@ window.siteContent.es.articles = {
         dateUpdated: "Marzo 2026",
         summary: "La AI no es una jubilación anticipada. Su filosofía es: 'primero rehabilitación, después la renta'. Busca que el trabajador siga siendo activo.",
         featuredImage: "media/guides/seguro-invalidez-ai-suiza.jpg",
-        imageAlt: "Sesión de asesoramiento para la reincorporación laboral en Suiza",
+        imageAlt: "Formulario de solicitud del seguro de invalidez (AI/IV) suizo con sello oficial de la administración",
+        relatedSlugs: ["seguros-sociales-suiza", "rav-paro-suiza", "seguro-medico-lamal-suiza"],
         content: `
             <div class="article-content">
                 <p>La <i>Assurance-invalidité</i> (AI) es una parte fundamental del sistema de seguridad social suizo. Sin embargo, su funcionamiento suele malinterpretarse por quienes vienen de otros sistemas.</p>
@@ -1747,8 +2056,8 @@ window.siteContent.es.articles = {
 
     // 25. Vacunas en Suiza
     "articulo-vacunas": {
-        title: "Vacunas en Suiza: recomendaciones y libertad de elección",
-        description: "Todo sobre el calendario de vacunación suizo. No son obligatorias por ley, pero sí recomendadas oficialmente.",
+        title: "Vacunas en Suiza: calendario oficial y vacunación para adultos (2026)",
+        description: "Vacunas recomendadas u obligatorias en Suiza en 2026: calendario oficial, dónde vacunarse, cobertura LAMal y diferencias con España.",
         keywords: "vacunas suiza, calendario vacunacion suiza, BAG vacunas, colegio vacunas suiza",
         category: "Salud Pública",
         hub: "salud",
@@ -1757,7 +2066,8 @@ window.siteContent.es.articles = {
         dateUpdated: "Marzo 2026",
         summary: "En Suiza no existen las vacunas obligatorias. El sistema se basa en las recomendaciones de la Oficina Federal de Salud Pública (BAG) y la responsabilidad individual.",
         featuredImage: "media/guides/vacunacion-en-suiza.jpg",
-        imageAlt: "Viales de vacunas en un entorno médico suizo",
+        imageAlt: "Médico administrando una vacuna en un centro de salud suizo (centro médico del cantón)",
+        relatedSlugs: ["seguro-medico-lamal-suiza", "sistema-de-salud-suizo", "seguros-sociales-suiza"],
         content: `
             <div class="article-content">
                 <p>Al llegar a Suiza, muchas familias se sorprenden al descubrir que el sistema de vacunación funciona de forma distinta a la de otros países europeos. Aquí prima la libertad de elección del ciudadano.</p>
@@ -1780,8 +2090,8 @@ window.siteContent.es.articles = {
 
     // 26. Curiosidad: Danza de los patos
     "articulo-danza-patos": {
-        title: "¿Sabías que la danza de los patos es de origen suizo?",
-        description: "Descubre la historia de 'Der Ententanz', la pegadiza canción que nació en Suiza y conquistó el mundo.",
+        title: "La danza de los patos en Suiza: origen e historia de la tradición",
+        description: "Historia y origen de la famosa danza de los patos (La danse des canards) y por qué es parte de la cultura popular suiza.",
         keywords: "danza de los patos suiza, bobby setter, Werner Thomas, curiosidades suiza",
         category: "Cultura y Vida",
         hub: "recursos",
@@ -1789,7 +2099,8 @@ window.siteContent.es.articles = {
         readingTime: 3,
         dateUpdated: "Marzo 2026",
         featuredImage: "media/guides/origen-danza-de-los-patos-suiza.jpg",
-        imageAlt: "Icono oficial de Suiza con la cruz blanca sobre fondo rojo",
+        imageAlt: "Personas bailando la danza de los patos (La danse des canards) en una fiesta popular suiza",
+        relatedSlugs: ["vivir-en-suiza-introduccion", "consejos-vida-diaria-suiza", "cantones-suiza"],
         summary: "Aunque parezca una canción genérica, la famosa danza de los patos fue compuesta por un acordeonista suizo en Davos en los años 50.",
         content: `
             <div class="article-content">
@@ -1811,8 +2122,8 @@ window.siteContent.es.articles = {
     // 26. Introducción a Suiza: página pilier
     "articulo-introduccion-suiza": {
         featuredImage: "media/guides/introduccion-suiza-como-funciona.png",
-        title: "Cómo funciona Suiza: guía completa para nuevos residentes",
-        description: "Guía completa sobre Suiza: organización federal, 26 cantones, sistema político, 4 lenguas, diferencias regionales, educación y vida cotidiana. Esencial antes de instalarse.",
+        title: "Introducción a Suiza: cómo funciona el país para recién llegados (2026)",
+        description: "Guía de introducción a Suiza: organización política, idiomas, moneda, cultura y lo más importante que debes saber antes de llegar.",
         keywords: "suiza como funciona, cantones suiza, federalismo, democracia directa, lenguas suiza, sistema escolar suizo, diferencias cantones",
         audience: 'newcomer',
         category: 'País',
@@ -1821,7 +2132,8 @@ window.siteContent.es.articles = {
         readingTime: 10,
         dateUpdated: "Marzo 2026",
         summary: "Suiza no es un país convencional. Es una Confederación de 26 cantones autónomos, 4 lenguas oficiales, democracia directa y un federalismo que afecta tu vida diaria desde el primer día.",
-        imageAlt: "Personas integrándose en la comunidad suiza frente a edificios públicos",
+        imageAlt: "Mapa de Suiza con los 26 cantones y los colores de cada región lingüística",
+        relatedSlugs: ["cantones-suiza", "lenguas-suiza", "checklist-tramites-llegada-suiza"],
         content: `
             <div class="article-content">
                 <p>Si estás pensando en mudarte a Suiza, o acabas de llegar, entender cómo funciona el país es el primer paso. Suiza no funciona como España, ni como Francia, ni como ningún otro país europeo. Su sistema político, su organización territorial y su cultura administrativa son únicos — y afectan a tu vida diaria desde el momento en que firmas un contrato, eliges un seguro médico o te registras en la commune.</p>
@@ -2035,8 +2347,8 @@ window.siteContent.es.articles = {
 
     // 27. Cantones de Suiza
     "articulo-cantones": {
-        title: "Los 26 cantones de Suiza: mapa, capitales e idiomas",
-        description: "Guía completa de los 26 cantones suizos: mapa político, capital, idioma oficial y particularidades. Esencial para entender Suiza antes de instalarse.",
+        title: "Los 26 cantones suizos: diferencias, impuestos y vida en cada uno (2026)",
+        description: "Qué cambia según el cantón: impuestos, coste de vida, idioma, trámites y cómo elegir dónde instalarse en Suiza.",
         keywords: "cantones suiza, mapa cantones suiza, 26 cantones, canton suizo, diferencias cantones",
         audience: 'newcomer',
         category: 'Organización Territorial',
@@ -2046,7 +2358,8 @@ window.siteContent.es.articles = {
         dateUpdated: "Marzo 2026",
         summary: "Suiza está formada por 26 cantones autónomos, cada uno con su propio sistema fiscal, educativo y administrativo. El cantón donde vives lo cambia casi todo.",
         featuredImage: "media/guides/cantones-suiza.png",
-        imageAlt: "Mapa político de los 26 cantones de Suiza con capitales e idiomas",
+        imageAlt: "Mapa político de los 26 cantones suizos con sus capitales y regiones lingüísticas",
+        relatedSlugs: ["vivir-en-suiza-introduccion", "impuestos-en-suiza", "lenguas-suiza"],
         content: `
                 <p>En Suiza, el cantón donde te instalas es tan importante como el país en sí. Cada uno de los 26 cantones tiene su propio gobierno, sus propias leyes fiscales, su propio sistema educativo y su propia identidad cultural. Entender esta estructura es esencial antes de decidir dónde vivir.</p>
 
@@ -2177,8 +2490,8 @@ window.siteContent.es.articles = {
 
     // 28. Lenguas en Suiza
     "articulo-lenguas": {
-        title: "Las lenguas en Suiza: alemán, francés, italiano y romanche",
-        description: "Guía sobre las 4 lenguas nacionales de Suiza: regiones lingüísticas, cantones bilingües y consejos para hispanohablantes que llegan al país.",
+        title: "Idiomas oficiales de Suiza: alemán, francés, italiano y romanche (2026)",
+        description: "Las cuatro lenguas nacionales de Suiza: distribución geográfica, variantes regionales y cómo afecta tu idioma a los trámites administrativos.",
         keywords: "lenguas suiza, idiomas suiza, aleman suiza, frances suiza, italiano ticino, romanche, regiones linguisticas",
         audience: 'newcomer',
         category: 'Cultura e Idiomas',
@@ -2188,7 +2501,8 @@ window.siteContent.es.articles = {
         dateUpdated: "Marzo 2026",
         summary: "Suiza tiene 4 lenguas nacionales. El idioma que deberás aprender depende completamente del cantón donde te instales: alemán en el este y centro, francés en el oeste, italiano en el Ticino.",
         featuredImage: "media/guides/lenguas-suiza.png",
-        imageAlt: "Mapa de las cuatro regiones lingüísticas de Suiza",
+        imageAlt: "Mapa de Suiza con zonas de habla alemana, francesa, italiana y romanche coloreadas",
+        relatedSlugs: ["cantones-suiza", "vivir-en-suiza-introduccion", "sistema-escolar-suiza"],
         content: `
             <div class="article-content">
                     </figcaption>
@@ -2271,8 +2585,8 @@ window.siteContent.es.articles = {
 
     // 29. Consulados españoles en Suiza
     "articulo-consulados": {
-        title: "Consulados españoles en Suiza: dónde están y qué trámites hacen",
-        description: "Guía completa de los tres consulados españoles en Suiza (Ginebra, Berna, Zúrich): servicios, citas, pasaportes, padrón y registro consular.",
+        title: "Consulados españoles en Suiza: Ginebra, Berna y Zúrich (2026)",
+        description: "Información práctica de los tres consulados españoles en Suiza: competencias territoriales, servicios, cita previa y cómo contactarlos.",
         keywords: "consulado español suiza, consulado ginebra, consulado zurich, consulado berna, registro consular, pasaporte suiza, MAEC",
         audience: 'newcomer',
         category: 'Recursos Oficiales',
@@ -2282,7 +2596,8 @@ window.siteContent.es.articles = {
         dateUpdated: "Marzo 2026",
         summary: "España tiene tres consulados en Suiza: Ginebra, Berna y Zúrich. El registro consular es el primer trámite que debes hacer al llegar. Sin él, no puedes renovar el pasaporte ni votar.",
         featuredImage: "media/guides/consulados-espanoles-suiza.png",
-        imageAlt: "Sede de un consulado español en Suiza con la bandera oficial",
+        imageAlt: "Edificio del Consulado General de España en Ginebra con la bandera española y la suiza",
+        relatedSlugs: ["checklist-tramites-llegada-suiza", "registrarse-en-suiza", "permiso-trabajo-suiza"],
         content: `
             <div class="article-content">
                 <p>Si eres ciudadano español viviendo en Suiza, el consulado es tu ventanilla oficial para todos los trámites que vinculan tu vida en el extranjero con la administración española. Hay tres consulados generales de España en Suiza, y debes dirigirte al que corresponde a tu cantón de residencia.</p>

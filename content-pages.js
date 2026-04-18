@@ -92,6 +92,97 @@ window.siteContent.es.pages = {
                 </div>
             </div>
 
+            <!-- SECCIÓN 0: Tu situación cambia todo -->
+            ${(() => {
+                const sit = {
+                    es: {
+                        title: "Empieza según tu situación",
+                        desc: "El sistema suizo funciona de forma distinta dependiendo de si eres turista, tienes un contrato de trabajo o ya resides aquí. Elige tu caso:",
+                        c1t: "Llegué como turista",
+                        c1b: ["Sin registro en el ayuntamiento", "Estancia hasta 90 días sin trámites", "Sin permiso, sin cotizaciones, sin LAMal"],
+                        c1cta: "¿Qué no puedo hacer?", c1url: "#/permiso-trabajo-suiza",
+                        c2t: "Vengo con contrato de trabajo",
+                        c2b: ["Registrarte en la comuna en 14 días", "Tu empresa inicia el permiso B/L", "Contratar LAMal en 3 meses"],
+                        c2cta: "Checklist de llegada", c2url: "#/checklist-tramites-llegada-suiza",
+                        c3t: "Ya resido en Suiza",
+                        c3b: ["Renovación de permiso", "Declaración fiscal anual", "Cambio de cantón o de trabajo"],
+                        c3cta: "Todos los trámites", c3url: "#/tramites"
+                    },
+                    en: {
+                        title: "Start based on your situation",
+                        desc: "The Swiss system works differently depending on whether you are a tourist, have a work contract, or already live here. Choose your case:",
+                        c1t: "I arrived as a tourist",
+                        c1b: ["No registration required", "Up to 90 days without formalities", "No permit, no contributions, no LAMal"],
+                        c1cta: "What can't I do?", c1url: "#/permiso-trabajo-suiza",
+                        c2t: "I have a work contract",
+                        c2b: ["Register at the commune within 14 days", "Your employer starts permit B/L process", "Get LAMal coverage within 3 months"],
+                        c2cta: "Arrival checklist", c2url: "#/checklist-tramites-llegada-suiza",
+                        c3t: "I already live in Switzerland",
+                        c3b: ["Permit renewal", "Annual tax declaration", "Canton or job change"],
+                        c3cta: "All procedures", c3url: "#/tramites"
+                    },
+                    fr: {
+                        title: "Commencez selon votre situation",
+                        desc: "Le système suisse fonctionne différemment selon que vous êtes touriste, avez un contrat de travail ou résidez déjà ici. Choisissez votre cas :",
+                        c1t: "Je suis arrivé comme touriste",
+                        c1b: ["Aucune inscription en mairie", "Séjour jusqu'à 90 jours sans démarches", "Sans permis, sans cotisations, sans LAMal"],
+                        c1cta: "Que dois-je savoir ?", c1url: "#/permiso-trabajo-suiza",
+                        c2t: "Je viens avec un contrat de travail",
+                        c2b: ["S'inscrire à la commune sous 14 jours", "L'entreprise lance le permis B/L", "Souscrire la LAMal sous 3 mois"],
+                        c2cta: "Checklist d'arrivée", c2url: "#/checklist-tramites-llegada-suiza",
+                        c3t: "Je réside déjà en Suisse",
+                        c3b: ["Renouvellement de permis", "Déclaration fiscale annuelle", "Changement de canton ou d'emploi"],
+                        c3cta: "Toutes les démarches", c3url: "#/tramites"
+                    },
+                    de: {
+                        title: "Beginnen Sie je nach Ihrer Situation",
+                        desc: "Das Schweizer System funktioniert unterschiedlich, je nachdem ob Sie Tourist sind, einen Arbeitsvertrag haben oder bereits hier wohnen. Wählen Sie Ihren Fall:",
+                        c1t: "Ich bin als Tourist angekommen",
+                        c1b: ["Keine Gemeinderegistrierung erforderlich", "Aufenthalt bis 90 Tage ohne Formalitäten", "Kein Ausweis, keine Beiträge, keine LAMal"],
+                        c1cta: "Was darf ich nicht?", c1url: "#/permiso-trabajo-suiza",
+                        c2t: "Ich komme mit Arbeitsvertrag",
+                        c2b: ["Innerhalb 14 Tagen bei der Gemeinde anmelden", "Arbeitgeber beantragt Ausweis B/L", "LAMal innerhalb 3 Monaten abschliessen"],
+                        c2cta: "Ankunfts-Checkliste", c2url: "#/checklist-tramites-llegada-suiza",
+                        c3t: "Ich wohne bereits in der Schweiz",
+                        c3b: ["Verlängerung des Ausweises", "Jährliche Steuererklärung", "Kantons- oder Jobwechsel"],
+                        c3cta: "Alle Verfahren", c3url: "#/tramites"
+                    },
+                    it: {
+                        title: "Inizia in base alla tua situazione",
+                        desc: "Il sistema svizzero funziona diversamente a seconda che tu sia turista, abbia un contratto di lavoro o risieda già qui. Scegli il tuo caso:",
+                        c1t: "Sono arrivato come turista",
+                        c1b: ["Nessuna registrazione al comune", "Soggiorno fino a 90 giorni senza formalità", "Senza permesso, senza contributi, senza LAMal"],
+                        c1cta: "Cosa non posso fare?", c1url: "#/permiso-trabajo-suiza",
+                        c2t: "Vengo con un contratto di lavoro",
+                        c2b: ["Iscriversi al comune entro 14 giorni", "L'azienda avvia il permesso B/L", "Stipulare la LAMal entro 3 mesi"],
+                        c2cta: "Checklist di arrivo", c2url: "#/checklist-tramites-llegada-suiza",
+                        c3t: "Risiedo già in Svizzera",
+                        c3b: ["Rinnovo del permesso", "Dichiarazione fiscale annuale", "Cambio di cantone o di lavoro"],
+                        c3cta: "Tutte le procedure", c3url: "#/tramites"
+                    }
+                };
+                const s = sit[currentLang] || sit['es'];
+                const card = (icon, color, bg, title, bullets, cta, url) => `
+                    <a href="${url}" class="card-situation" style="display:flex; flex-direction:column; background:${bg}; border:2px solid ${color}; border-radius:var(--radius-md); padding:1.5rem; text-decoration:none; color:inherit; transition:transform 0.15s,box-shadow 0.15s;" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='';this.style.boxShadow=''">
+                        <div style="font-size:2rem; margin-bottom:0.75rem;">${icon}</div>
+                        <h3 style="font-size:1.1rem; font-weight:700; color:${color}; margin:0 0 0.75rem 0;">${title}</h3>
+                        <ul style="margin:0 0 1rem 0; padding-left:1.2rem; flex:1; font-size:0.92rem; line-height:1.6;">
+                            ${bullets.map(b => `<li>${b}</li>`).join('')}
+                        </ul>
+                        <span style="display:inline-flex; align-items:center; gap:6px; font-size:0.9rem; font-weight:600; color:${color};">${cta} →</span>
+                    </a>`;
+                return `
+                <section class="animate-fade-up" style="margin-top: var(--space-xl);">
+                    <h2 style="border-bottom:none; margin-bottom:0.5rem;">${s.title}</h2>
+                    <p style="font-size:1.05rem; margin-bottom:1.5rem; color:var(--text-secondary);">${s.desc}</p>
+                    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:1.25rem;">
+                        ${card('🧳', '#0077b6', '#e8f4fb', s.c1t, s.c1b, s.c1cta, s.c1url)}
+                        ${card('📋', '#b5451b', '#fdf2ee', s.c2t, s.c2b, s.c2cta, s.c2url)}
+                        ${card('🏠', '#2d6a4f', '#eaf4f0', s.c3t, s.c3b, s.c3cta, s.c3url)}
+                    </div>
+                </section>`;
+            })()}
+
             <!-- SECCIÓN 1: Empezar aquí -->
             <section class="animate-fade-up delay-100" style="margin-top: var(--space-xl);">
                 <h2 style="border-bottom:none; margin-bottom: 0.5rem;">${ui['home-title-start']}</h2>

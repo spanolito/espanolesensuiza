@@ -16,7 +16,7 @@ window.siteContent.de.articles = {
 	        hub: "tramites",
 	        slug: "tramites-llegada-suiza",
 	        readingTime: 4,
-	        dateUpdated: "Actualizado frecuentemente",
+	        dateUpdated: "April 2026",
 	        summary: "Ein vollständiger Leitfaden zum Verständnis der Schweizer Aufenthaltsbewilligungen: Ausweis L (Kurzaufenthalt), B (Aufenthalt) und C (Niederlassung).",
 	        content: `<div class="article-content">
 <p>Um in die Schweiz zu ziehen, müssen Sie sich anmelden und eine Aufenthaltserlaubnis erhalten. Wenn Sie aus einem EU/EFTA-Land (einschließlich Spanien) kommen, wird der Prozess durch das Abkommen über den freien Personenverkehr (ALCP) erleichtert.</p>
@@ -346,7 +346,7 @@ Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umz
         category: `Quellensteuer`,
         hub: 'impuestos',
         readingTime: 3,
-        dateUpdated: 'Actualizado recientemente',
+        dateUpdated: 'April 2026',
         summary: `Wie der Quellensteuerabzug direkt vom monatlichen Lohn für Ausländer und Grenzgänger funktioniert.`,
         content: `<div class="article-content">
 <p>Die Mehrheit der Schweizer Bürger und Personen mit ständigem Wohnsitz (Bewilligung C) füllen ihre Einkommenssteuererklärung einmal im Jahr aus und zahlen anschließend die Steuern. Für neu angekommene Ausländer gibt es jedoch die <strong>Quellensteuer</strong>.</p>
@@ -404,7 +404,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         hub: "trabajo",
         slug: "rav-paro-suiza",
         readingTime: 7,
-        dateUpdated: "März 2026",
+        dateUpdated: "April 2026",
         summary: "RAV kann nach Jobverlust unterstützen, aber Fristen und nachweisbare Stellensuche sind entscheidend.",
         content: `<div class="article-content">
 <p>In der Schweiz läuft Arbeitslosigkeit über das <strong>RAV</strong> (Regionales Arbeitsvermittlungszentrum) und eine <strong>Arbeitslosenkasse</strong>, die die Leistung auszahlt. Das System hilft, ist aber strikt.</p>

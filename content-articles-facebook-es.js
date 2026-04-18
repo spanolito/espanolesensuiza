@@ -9,19 +9,19 @@ window.siteContent.es.articles = window.siteContent.es.articles || {};
 
 Object.assign(window.siteContent.es.articles, {
     "fb-alquilar-en-suiza-evitar-estafas": {
-        title: "Alquilar en Suiza: pasos, dossier, fianza y cómo evitar estafas",
-        description: "Guía para alquilar piso en Suiza: cómo preparar el dossier, contrato, fianza/depósito y señales de estafa (alquiler). Consejos para recién llegados.",
+        title: "Alquilar piso en Suiza: cómo evitar estafas y anuncios falsos (2026)",
+        description: "Señales de alarma en el alquiler en Suiza: anuncios fraudulentos, pagos por adelantado y cómo protegerte antes de firmar.",
         keywords: "alquilar suiza, alquiler suiza, fianza suiza, asloca, estafa alquiler suiza",
         keywordsLocalized: true,
         category: "Vivienda",
         hub: "vivienda",
         slug: "alquilar-en-suiza-evitar-estafas",
         readingTime: 5,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Abril 2026",
         summary: "Guía para alquilar piso en Suiza: cómo preparar el dossier, contrato, fianza/depósito y señales de estafa (alquiler). Consejos para recién llegados.",
         featuredImage: "media/guides/alquilar-en-suiza-evitar-estafas.jpg",
-        imageAlt: "Un juego de llaves de casa sobre una mesa de madera con un contrato de alquiler suizo de fondo",
-        relatedSlugs: [],
+        imageAlt: "Anuncio de alquiler falso en internet con señales de alarma marcadas en rojo",
+        relatedSlugs: ["alquilar-vivienda-suiza", "fianzas-alquiler-suiza", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>Alquilar un piso en Suiza suele ser más “administrativo” de lo que esperan muchos recién llegados. No es (solo) una cuestión de ver un anuncio y firmar: hay competencia, un <strong>dossier</strong> estándar, reglas de contrato y, a la vez, riesgos de <strong>estafa</strong> si vas con prisa.</p>
@@ -139,19 +139,19 @@ Object.assign(window.siteContent.es.articles, {
     },
 
     "fb-consejos-vida-diaria-suiza": {
-        title: "Vida diaria en Suiza: 25 consejos prácticos para recién llegados",
-        description: "Consejos prácticos para tu día a día en Suiza: administración, vecinos, compras, transporte, salud y hábitos que evitan problemas.",
+        title: "Consejos prácticos para la vida diaria en Suiza: lo que nadie te cuenta (2026)",
+        description: "Guía de vida cotidiana en Suiza: normas no escritas, costumbres locales, errores frecuentes de los recién llegados y consejos útiles.",
         keywords: "vivir en suiza consejos, vida diaria suiza, recien llegado suiza",
         keywordsLocalized: true,
         category: "Vivir en Suiza",
         hub: "vivir-en-suiza",
         slug: "consejos-vida-diaria-suiza",
         readingTime: 2,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Abril 2026",
         summary: "Consejos prácticos para tu día a día en Suiza: administración, vecinos, compras, transporte, salud y hábitos que evitan problemas.",
         featuredImage: "media/guides/consejos-vida-diaria-suiza.jpg",
-        imageAlt: "Checklist de consejos prácticos para la vida diaria en Suiza",
-        relatedSlugs: [],
+        imageAlt: "Persona integrándose en la vida cotidiana suiza siguiendo normas locales de convivencia",
+        relatedSlugs: ["vivir-en-suiza-introduccion", "cantones-suiza", "normas-locales-ginebra"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>No necesitas “saberlo todo”. Con buenas rutinas evitas la mayoría de problemas típicos del primer año.</p>
@@ -198,8 +198,8 @@ Object.assign(window.siteContent.es.articles, {
     },
 
     "fb-costo-de-vida-suiza": {
-        title: "Costo de vida en Suiza",
-        description: "Cómo estimar tu coste de vida en Suiza: alquiler, seguro médico, impuestos, transporte y “gastos invisibles”. Ejemplos por cantón y consejos.",
+        title: "Coste de vida real en Suiza en 2026: alquiler, comida y transporte",
+        description: "Cuánto cuesta vivir de verdad en Suiza: datos reales de alquiler, compra, transporte y ocio con comparativas entre ciudades.",
         keywords: "costo de vida suiza, vivir en suiza, alquiler suiza, seguro medico suiza, presupuesto suiza",
         keywordsLocalized: true,
         category: "Vivir en Suiza",
@@ -207,11 +207,11 @@ Object.assign(window.siteContent.es.articles, {
         slug: "costo-de-vida-suiza",
         supportingImages: [],
         readingTime: 4,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Abril 2026",
         summary: "Cómo estimar tu coste de vida en Suiza: alquiler, seguro médico, impuestos, transporte y “gastos invisibles”. Ejemplos por cantón y consejos.",
         featuredImage: "media/guides/costes-vida-suiza.png",
-        imageAlt: "Ilustración de presupuesto: cartera, calculadora y gastos para vivir en Suiza",
-        relatedSlugs: [],
+        imageAlt: "Cesta de la compra en Suiza con productos y ticket de caja mostrando precios en francos suizos",
+        relatedSlugs: ["alquilar-vivienda-suiza", "transporte-publico-suiza", "salarios-sueldo-suiza"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>El coste de vida en Suiza no es solo “caro”. Es, sobre todo, <strong>estructurado y previsible</strong> si haces un presupuesto con las partidas correctas. El problema de muchos recién llegados no es pagar “mucho”, sino no anticipar:</p>
@@ -332,19 +332,19 @@ Object.assign(window.siteContent.es.articles, {
     },
 
     "fb-democracia-directa-suiza": {
-        title: "Democracia directa en Suiza: referéndum, iniciativa y votaciones",
-        description: "Qué es la democracia directa suiza y cómo se decide: referéndums, iniciativas, votaciones y niveles (federal/cantonal/comunal). Guía para expatriados.",
+        title: "Democracia directa en Suiza: votaciones, iniciativas y referéndums (2026)",
+        description: "Cómo funciona la democracia directa suiza: iniciativas populares, referéndums, quién puede votar y por qué importa si vives aquí.",
         keywords: "democracia directa suiza, referéndum suiza, iniciativa suiza, votaciones suiza",
         keywordsLocalized: true,
         category: "Vivir en Suiza",
         hub: "vivir-en-suiza",
         slug: "democracia-directa-suiza",
         readingTime: 2,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Abril 2026",
         summary: "Qué es la democracia directa suiza y cómo se decide: referéndums, iniciativas, votaciones y niveles (federal/cantonal/comunal). Guía para expatriados.",
         featuredImage: "media/guides/democracia-directa-suiza.jpg",
-        imageAlt: "Urna y papeleta de votación, representando la democracia directa en Suiza",
-        relatedSlugs: [],
+        imageAlt: "Ciudadanos votando en una urna durante una votación popular suiza (Abstimmung)",
+        relatedSlugs: ["sistema-politico-suiza", "cantones-suiza", "vivir-en-suiza-introduccion"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>Suiza no solo vota “cada cuatro años”. La ciudadanía participa con frecuencia mediante <strong>votaciones</strong> a distintos niveles.</p>
@@ -387,19 +387,19 @@ Object.assign(window.siteContent.es.articles, {
     },
 
     "fb-fraudes-inmigrantes-suiza": {
-        title: "Fraudes comunes contra inmigrantes en Suiza: señales y cómo protegerte",
-        description: "Alertas prácticas: estafas de alquiler, falsas multas, phishing, “ofertas de trabajo” falsas y suplantación. Señales típicas y cómo actuar en Suiza.",
+        title: "Fraudes y estafas contra inmigrantes en Suiza: cómo reconocerlos (2026)",
+        description: "Los fraudes más comunes que afectan a inmigrantes en Suiza: falsas ofertas de trabajo, estafas de alquiler y cómo denunciarlos.",
         keywords: "estafas suiza, fraudes suiza, phishing suiza, estafa alquiler suiza, multas falsas",
         keywordsLocalized: true,
         category: "Alertas y recursos",
         hub: "recursos",
         slug: "fraudes-inmigrantes-suiza",
         readingTime: 2,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Abril 2026",
         summary: "Alertas prácticas: estafas de alquiler, falsas multas, phishing, “ofertas de trabajo” falsas y suplantación. Señales típicas y cómo actuar en Suiza.",
         featuredImage: "media/guides/fraudes-inmigrantes-suiza.jpg",
-        imageAlt: "Imagen conceptual de precaución con las llaves de casa y contratos",
-        relatedSlugs: [],
+        imageAlt: "Señal de advertencia sobre fraudes y estafas dirigidas a inmigrantes en Suiza",
+        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "checklist-tramites-llegada-suiza", "permiso-trabajo-suiza"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>La mayoría de estafas no se basan en “tecnología”, sino en una cosa: <strong>urgencia</strong>. Si aprendes a frenar y verificar, reduces el riesgo de forma drástica.</p>
@@ -444,18 +444,18 @@ Object.assign(window.siteContent.es.articles, {
     },
 
     "fb-normas-locales-ginebra": {
-        title: "Normas de convivencia en Suiza: ruido, residuos, aparcamiento y reglas comunes",
-        description: "Guía nacional de convivencia en Suiza: horas de silencio, residuos/reciclaje, aparcamiento, reglas de edificio y malentendidos típicos. Explicamos qué depende del cantón, la comuna o el reglamento interno.",
+        title: "Normas y reglas locales en Ginebra: lo que debes saber (2026)",
+        description: "Reglas locales en Ginebra que sorprenden a los recién llegados: ruido, basura, bicicletas, horarios y convivencia vecinal.",
         keywords: "convivencia suiza, ruido suiza, reciclaje suiza, aparcamiento suiza, multas suiza",
         keywordsLocalized: true,
         category: "Vivir en Suiza",
         hub: "vivir-en-suiza",
         slug: "normas-locales-ginebra",
         readingTime: 3,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Abril 2026",
         summary: "Guía nacional de convivencia en Suiza: horas de silencio, residuos/reciclaje, aparcamiento, reglas de edificio y malentendidos típicos. Explicamos qué depende del cantón, la comuna o el reglamento interno.",
         featuredImage: "media/guides/normas-locales-ginebra.jpg",
-        imageAlt: "Casa, ruido y reciclaje, representando normas de convivencia en Suiza",
+        imageAlt: "Calle tranquila de Ginebra con carteles de normas municipales sobre ruido y reciclaje",
         relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
@@ -526,8 +526,8 @@ Object.assign(window.siteContent.es.articles, {
     },
 
     "fb-permisos-suiza-actualizacion": {
-        title: "Permisos en Suiza (L, B, C): checklist, errores típicos y casos reales",
-        description: "Guía práctica para recién llegados: diferencias L/B/C, checklist de llegada, cambios de situación y errores frecuentes, con enlaces oficiales.",
+        title: "Permisos de residencia en Suiza: actualización y novedades 2026",
+        description: "Novedades 2026 sobre permisos de residencia en Suiza: cambios en plazos, condiciones de renovación y qué debes revisar si ya tienes permiso.",
         keywords: "permiso l suiza, permiso b suiza, permiso c suiza, permisos suiza, tramites suiza",
         keywordsLocalized: true,
         category: "Trámites y Permisos",
@@ -537,8 +537,8 @@ Object.assign(window.siteContent.es.articles, {
         dateUpdated: "Abril 2026",
         summary: "Guía práctica para recién llegados: diferencias L/B/C, checklist de llegada, cambios de situación y errores frecuentes, con enlaces oficiales.",
         featuredImage: "media/guides/permisos-suiza-actualizacion.jpg",
-        imageAlt: "Primer plano de documentos de identidad y permisos de residencia suizos",
-        relatedSlugs: [],
+        imageAlt: "Tarjeta de permiso de residencia suizo actualizada con datos de renovación 2026",
+        relatedSlugs: ["permiso-trabajo-suiza", "registrarse-en-suiza", "checklist-tramites-llegada-suiza"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>Los permisos suizos dependen de tu situación (contrato, duración, familia) y del marco legal aplicable. No es solo “una tarjeta”.</p>
@@ -573,8 +573,8 @@ Object.assign(window.siteContent.es.articles, {
     },
 
     "fb-seguro-medico-lamal-elegir": {
-        title: "Cómo elegir seguro médico (LAMal) en Suiza: modelo, franquicia y prima",
-        description: "Guía práctica para elegir LAMal en Suiza: modelos (standard/cabecera/telmed/HMO), franquicia y copago, accidentes, complementarios, plazos de cambio y checklist para recién llegados.",
+        title: "Cómo elegir seguro médico LAMal en Suiza: modelo, franquicia y prima (2026)",
+        description: "Guía práctica para elegir tu LAMal en Suiza: diferencia entre modelos (standard, cabecera, telmed, HMO), cómo calcular la franquicia y cuándo cambiar.",
         keywords: "lamal suiza, seguro medico suiza, franquicia suiza, prima suiza, hmo telmed",
         keywordsLocalized: true,
         category: "Salud y LAMal",
@@ -584,8 +584,8 @@ Object.assign(window.siteContent.es.articles, {
         dateUpdated: "Abril 2026",
         summary: "Guía práctica para elegir LAMal en Suiza: modelos (standard/cabecera/telmed/HMO), franquicia y copago, accidentes, complementarios, plazos de cambio y checklist para recién llegados.",
         featuredImage: "media/guides/seguro-medico-lamal-elegir.jpg",
-        imageAlt: "Imagen conceptual de ahorro y salud en el sistema suizo",
-        relatedSlugs: [],
+        imageAlt: "Persona comparando ofertas de seguros médicos suizos en el portal Comparis y Priminfo",
+        relatedSlugs: ["seguro-medico-lamal-suiza", "franquicia-seguro-medico-suiza", "seguros-sociales-suiza"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>En Suiza, el seguro básico (LAMal/KVG) es obligatorio y <strong>cubre las mismas prestaciones legales</strong> en todas las aseguradoras. Lo que cambia es:</p>
@@ -710,19 +710,19 @@ Object.assign(window.siteContent.es.articles, {
     },
 
     "fb-sistema-politico-suiza": {
-        title: "Cómo funciona el sistema político suizo: Confederación, cantones y comuna",
-        description: "Guía clara del sistema suizo para expatriados: qué decide la Confederación, qué cambia por cantón y qué gestiona tu comuna. Con ejemplos y fuentes oficiales.",
+        title: "Sistema político suizo explicado: Confederación, cantones y comuna (2026)",
+        description: "Cómo funciona el sistema político suizo: qué decide la Confederación, qué cambia por cantón y qué gestiona tu comuna.",
         keywords: "sistema político suizo, cantones suiza, comuna suiza, confederación suiza, vivir en suiza",
         keywordsLocalized: true,
         category: "Vivir en Suiza",
         hub: "vivir-en-suiza",
         slug: "sistema-politico-suiza",
         readingTime: 2,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Abril 2026",
         summary: "Guía clara del sistema suizo para expatriados: qué decide la Confederación, qué cambia por cantón y qué gestiona tu comuna. Con ejemplos y fuentes oficiales.",
         featuredImage: "media/guides/palacio-federal.jpg",
-        imageAlt: "Palacio Federal suizo en Berna con su fachada monumental",
-        relatedSlugs: [],
+        imageAlt: "Palacio Federal de Berna (Bundeshaus) sede del gobierno de la Confederación Helvética",
+        relatedSlugs: ["cantones-suiza", "democracia-directa-suiza", "vivir-en-suiza-introduccion"],
         content: `<div class="article-content">
             <h2>Introducción</h2>
 <p>Muchas confusiones al llegar a Suiza vienen de una idea equivocada: “el país funciona igual en todas partes”. Suiza es <strong>federal y descentralizada</strong>. Eso afecta a impuestos, escuela, ciertos trámites y hasta normas locales.</p>
@@ -774,19 +774,19 @@ Object.assign(window.siteContent.es.articles, {
     },
 
 	    "fb-trabajar-en-suiza-guia": {
-	        title: "Trabajar en Suiza: cómo buscar empleo, negociar y empezar bien",
-	        description: "Guía para encontrar trabajo en Suiza: CV, entrevistas, negociación salarial, contrato y errores frecuentes. Enfoque práctico para recién llegados.",
+	        title: "Trabajar en Suiza: guía completa para españoles (2026)",
+	        description: "Todo lo que necesitas saber para trabajar en Suiza: cómo encontrar empleo, permisos, contratos, salarios y derechos laborales.",
 	        keywords: "trabajar en suiza, buscar empleo suiza, cv suizo, entrevista suiza, contrato suiza",
 	        keywordsLocalized: true,
 	        category: "Trabajo y Salarios",
 	        hub: "trabajo",
 	        slug: "trabajar-en-suiza-guia",
         featuredImage: "media/guides/buscar-empleo-suiza.jpg",
-        imageAlt: "Persona trabajando en una oficina moderna en Suiza con vistas a las montañas",
+        imageAlt: "Trabajador español en una empresa suiza firmando contrato laboral con derechos garantizados",
         readingTime: 14,
-	        dateUpdated: "Marzo 2026",
+	        dateUpdated: "Abril 2026",
 	        summary: "Guía cornerstone para trabajar en Suiza: cómo buscar empleo, plataformas clave, salarios, contratos, periodo de prueba, paro (RAV) y errores típicos de recién llegados.",
-	        relatedSlugs: ["contratos-de-trabajo-suiza", "periodo-prueba-preaviso-suiza", "salarios-sueldo-suiza", "rav-paro-suiza", "seguros-sociales-suiza", "tramites-llegada-suiza"],
+	        relatedSlugs: ["contratos-de-trabajo-suiza", "salarios-sueldo-suiza", "permiso-trabajo-suiza", "seguros-sociales-suiza"],
 	        content: `<div class="article-content">
 	            <h2>Introducción</h2>
 	            <p>Trabajar en Suiza no es “imposible”, pero sí exige método. El mercado suele premiar la <strong>claridad</strong> (CV bien estructurado, logros medibles), la <strong>coherencia</strong> (perfil alineado con el puesto) y el <strong>seguimiento</strong> (documentación, plazos y respuestas rápidas).</p>
