@@ -1414,8 +1414,8 @@ window.siteContent.de.articles = {
     },
 
     "articulo-tramites-llegada": {
-        title: "Komplette Checkliste: Behoerdengaenge im ersten Monat in der Schweiz",
-        description: "Alles, was du im ersten Monat in der Schweiz nach Dringlichkeit tun musst: Anmeldung, Krankenversicherung, Bankkonto, Verkehr, Muell und mehr.",
+        title: "Erster Monat in der Schweiz: komplette Ankommens-Checkliste",
+        description: "Alles, was du im ersten Monat in der Schweiz nach Prioritaet erledigen musst: Anmeldung, Krankenversicherung, Bankkonto, Transport, Briefkasten und mehr.",
         keywords: "behoerdengaenge ankunft schweiz, checkliste ankunft schweiz, erste schritte schweiz, neuankoemmling schweiz, was tun nach ankunft schweiz",
         category: "Behoerdengaenge Erste Schritte",
         hub: "tramites",
@@ -1424,121 +1424,80 @@ window.siteContent.de.articles = {
         dateUpdated: "Maerz 2026",
         featuredImage: "media/guides/checklist-llegada-suiza.jpg",
         imageAlt: "Schweizer Dokumente: Aufenthaltserlaubnis, Krankenkassenkarte, Schluessel und Checkliste",
-        summary: "Zwei Situationen, zwei unterschiedliche Ablauefe: Wenn du zum Arbeitssuchen kommst, hast du keine administrativen Verpflichtungen; Wenn du dich mit Arbeitsvertrag niederlaesst, ist die Anmeldung in der Gemeinde der erste obligatorische Schritt.",
+        summary: "Zwei Situationen, zwei verschiedene Wege: Wenn du zur Jobsuche kommst, hast du keine unmittelbaren administrativen Pflichten; wenn du dich mit Arbeitsvertrag oder festem Wohnsitz niederlaesst, ist die Anmeldung bei der Gemeinde der erste Pflichtschritt.",
         content: `
             <div class="article-content">
 
                 <div class="callout warning">
-                    <strong>Wichtig:</strong> Wenn du als Tourist oder zum Arbeitssuchen in die Schweiz kommst, musst du dich nicht beim Gemeindeamt anmelden oder einen Aufenthaltserlaubnis beantragen. Diese Verpflichtung besteht nur, wenn du dich im Land niederlaesst, normalerweise nach Unterzeichnung eines Arbeitsvertrags oder Begruendung deines Wohnsitzes.
+                    <strong>Wichtig:</strong> Wenn du als Tourist oder zur Jobsuche in die Schweiz kommst, musst du dich nicht bei der Gemeinde anmelden und auch keine Aufenthaltsbewilligung beantragen. Diese Pflicht entsteht erst, wenn du dich tatsaechlich im Land niederlaesst, normalerweise nach der Unterzeichnung eines Arbeitsvertrags oder mit der Begruendung deines effektiven Wohnsitzes.
                 </div>
 
                 <hr style="border:none; border-top:1px solid var(--border-light); margin: 2rem 0;">
 
-                <h2>Wenn du als Tourist oder zum Arbeitssuchen kommst</h2>
-                <p>Als EU/EFTA-Buerger hast du das Recht, in die Schweiz einzureisen und dich waehrend eines Arbeitsuchungszeitraums aufzuhalten, ohne administrative Formalitaeten. Es gibt keine Anmeldepflicht, keinen Genehmigungsantrag, keine Frist in dieser Phase.</p>
-                <p>Was es wert ist, vor der Reise oder waehrend des Aufenthalts in Ordnung zu bringen:</p>
+                <h2>Wenn du als Tourist oder zur Jobsuche kommst</h2>
+                <p>Als EU/EFTA-Buerger hast du das Recht, in die Schweiz einzureisen und dich waehrend deiner Jobsuche ohne administrative Formalitaeten im Land aufzuhalten. In dieser Phase gibt es keine Anmeldepflicht, keine Bewilligung zu beantragen und keine Verwaltungsfrist, die du beachten musst.</p>
+                <p>Trotzdem lohnt es sich, einige Dinge schon vor der Reise oder waehrend des Aufenthalts gut vorzubereiten:</p>
 
-                <h3>Persoenliche Dokumentation</h3>
-                <p>Bring einen gueltigen Personalausweis oder Reisepass mit. Du brauchst kein anderes Dokument zum Einreisen oder zum Bewegen im Land.</p>
+                <h3>Persoenliche Unterlagen</h3>
+                <p>Nimm einen gueltigen Personalausweis oder Reisepass mit. Du brauchst kein weiteres Dokument, um in die Schweiz einzureisen oder dich im Land zu bewegen.</p>
 
                 <h3>Unterkunft und Mobilitaet</h3>
-                <p>Bestimme, wo du ab dem ersten Tag untergebracht bist, auch wenn es vorerst provisorisch ist. Zur Fortbewegung ist der Schweizer Nahverkehr effizient und puenktlich. Wenn du ihn intensiv nutzen moechtest, wird die <strong>Demi-tarif / Halbtax</strong> (ca. 190 CHF pro Jahr) sehr lohnend.</p>
+                <p>Lege fest, wo du ab dem ersten Tag wohnen wirst, auch wenn es zunaechst nur eine provisorische Unterkunft ist. Der Schweizer oeffentliche Verkehr ist effizient und puenktlich. Wenn du ihn regelmaessig nutzen willst, lohnt sich das <strong>Halbtax / Demi-tarif</strong> fuer rund 190 CHF pro Jahr fast immer sehr schnell. Du bekommst es auf <a href="https://www.sbb.ch" target="_blank" rel="noopener noreferrer">sbb.ch</a> oder an jedem SBB/CFF-Schalter.</p>
 
-                <h3>Versicherung und Zahlmittel</h3>
-                <p>Du brauchst keine Krankenversicherung, um in die Schweiz zu reisen, aber wenn du hier arbeitest, wird es in den naechtsten zwei bis drei Wochen obligatorisch.</p>
-                <p>Bringen Sie eine debitkarte aus deinem Land mit oder planen Sie, eine zu oeffnen. Der Bargeldverkehr ist in der Schweiz minimal (weniger Geldautomaten als anderswo).</p>
+                <h3>Lebenslauf und Jobsuche</h3>
+                <p>Der Schweizer Arbeitsmarkt hat eigene Konventionen. Ein ueblicher Lebenslauf enthaelt oft ein Foto, Geburtsdatum und Zivilstand. Wichtige Plattformen sind <a href="https://www.jobs.ch" target="_blank" rel="noopener noreferrer">jobs.ch</a>, <a href="https://www.jobup.ch" target="_blank" rel="noopener noreferrer">jobup.ch</a> und LinkedIn. Suche moeglichst in der Sprache des Kantons, in dem du arbeiten willst. Das erhoeht die Rueckmeldungen deutlich.</p>
+
+                <h3>Krankenversicherung waehrend der Jobsuche</h3>
+                <p>Solange du nicht offiziell in der Schweiz wohnst, gilt die obligatorische Krankenversicherung KVG/LAMal fuer dich noch nicht. Wenn du eine europaeische Krankenversicherungskarte oder eine Reiseversicherung hast, reicht das fuer einen Aufenthalt zur Jobsuche in der Regel aus. Die Pflicht zum Abschluss der Schweizer Grundversicherung beginnt erst, wenn du dich als Bewohner anmeldest.</p>
 
                 <hr style="border:none; border-top:1px solid var(--border-light); margin: 2rem 0;">
 
-                <h2>Nach Unterzeichnung des Arbeitsvertrags: Schritt-fuer-Schritt</h2>
-
-                <h3>Woche 1: Anmeldung (das Allerwichtigste)</h3>
-                <p><strong>Anmeldung bei der Gemeinde / Kaendigung:</strong> Dies ist der erste und obligatorische Schritt. Die Gemeinde ist fuer die Verwaltung der Wohntaetigkeit zustaendig. Du bist waehrend deiner Arbeitsverfuegbarkeit Teil der Gemeindeverwaltung.</p>
-                <ul>
-                    <li><strong>Wann:</strong> Innerhalb von 8-14 Tagen nach Wohnungsbezug (variiert je nach Kanton).</li>
-                    <li><strong>Wo:</strong> Im Buero Einwohnermeldeamt / "Buero fuer Gemeindewohnung".</li>
-                    <li><strong>Dokumente:</strong> Pass oder Personalausweis, Mietvertrag, Bestaetigungsschreiben von Ihrem Arbeitgeber (das Unternehmen kann einen "Anstellungsbrief" ausstellen).</li>
-                    <li><strong>Gebuehr:</strong> Normalerweise kostenlos oder sehr wenig (3-50 CHF, je nach Kanton).</li>
-                </ul>
-
-                <p><strong>Was dann geschieht:</strong> Am selben Tag oder innerhalb weniger Tage erhaeltst du von der Gemeinde eine <strong>provisorische Bestaetigung</strong> deiner Anmeldung. Dieses Dokument hat volle rechtliche Kraft und wird von deinem Arbeitgeber fuer die Auftragsverarbeitung akzeptiert.</p>
-
-                <h3>Woche 2: Krankenversicherung anmelden</h3>
-                <p>Die Krankenversicherung ist in der Schweiz obligatorisch und muss innerhalb von <strong>3 Monaten nach Ankunft</strong> abgeschlossen sein. Die Verzoegerung kann mit Geldstrafen geahndet werden.</p>
-                <ul>
-                    <li><strong>Basiscoverage:</strong> Die Grundversicherung kostet zwischen 80 und 350 CHF pro Monat, je nach Kanton, Alter und Versicherer.</li>
-                    <li><strong>Zusaetze:</strong> Du kannst freiwillige Versicherungen hinzufuegen (Zahnmedizin, Brillen, Komplementaermedizin).</li>
-                    <li><strong>Wartefrist:</strong> Manche Zahnversicherungen haben eine Wartezeit von 12 Monaten.</li>
-                </ul>
+                <h2>Wenn du dich niederlaesst, mit Vertrag oder effektivem Wohnsitz</h2>
+                <p>Sobald du einen Arbeitsvertrag unterschreibst oder deinen effektiven Wohnsitz in der Schweiz begruendest, beginnt der administrative Ablauf. Die Fristen sind real, und wenn du sie verpasst, kann das zu Bussen fuehren.</p>
 
                 <div class="callout info">
-                    <strong>Hinweis:</strong> Die Versicherer sind verpflichtet, dich aufzunehmen. Es gibt keine "Ablehnungen" aus gesundheitlichen Gruenden. Vergleichen Sie die Preise ueber Vergleichsseiten wie <strong>priminfo.admin.ch</strong> (offizielle Schweizer Stelle).
+                    <strong>Allgemeine Regel:</strong> Die Anmeldung bei der Gemeinde muss in der Regel innerhalb von <strong>14 Tagen</strong> nach der Ankunft erfolgen und in vielen Kantonen <strong>vor dem ersten Arbeitstag</strong>. Die genaue Frist ist kantonal unterschiedlich. Pruefe immer die Website deiner Gemeinde.
                 </div>
 
-                <h3>Woche 2-3: Bankkonto erraeffnen</h3>
-                <p>Fast alle Schweizer Banken erfordern eine Ansaessigkeit. Ein Bankkonto ist praktisch notwendig fuer:</p>
-                <ul>
-                    <li>Lohnabrechnung (dein Arbeitgeber ueberweist auf dein Konto).</li>
-                    <li>Mietzahlung und Rechnungen (automatisierte Zahlungen sind Standard).</li>
-                    <li>Tagesgeschaeft.</li>
-                </ul>
+                <h3>1. Bei der Gemeinde anmelden</h3>
+                <p>Das ist der erste Schritt, und er schaltet praktisch alles Weitere frei. Bei der Anmeldung erhaeltst du haeufig sofort eine provisorische Wohnsitzbestaetigung, die administrativ voll gueltig ist: Damit kannst du anfangen zu arbeiten, ein Bankkonto eroeffnen und die Krankenversicherung abschliessen, auch wenn die physische Bewilligungskarte erst Wochen spaeter per Post ankommt.</p>
+                <p><strong>Mitbringen:</strong> gueltigen Ausweis oder Reisepass, Arbeits- oder Mietvertrag und die Adresse, unter der du wohnst, auch wenn sie noch provisorisch ist.</p>
+                <p><strong>Kosten:</strong> je nach Kanton und Bewilligungsart meist zwischen 65 und 100 CHF.</p>
 
-                <p>Die meisten grossen Banken (UBS, Credit Suisse, Raiffeisen) erraeffnen das Konto innerhalb von 3-5 Arbeitstagen nach Anmeldung. Du brauchst:</p>
-                <ul>
-                    <li>Personalausweis oder Reisepass.</li>
-                    <li>Meldebestaetigung von der Gemeinde.</li>
-                    <li>Arbeitsvertrag oder Bestaetigung des Arbeitgebers.</li>
-                    <li>Adresse in der Schweiz.</li>
-                </ul>
+                <h3>2. Ein Bankkonto eroeffnen</h3>
+                <p>Dein Arbeitgeber braucht eine Schweizer IBAN, um dir den Lohn zu ueberweisen. Mit der Anmeldebestaetigung kannst du direkt zur Bank gehen. Wenn du besonders schnell ein einsatzfaehiges Konto brauchst, koennen digitale Optionen wie Neon, Yuh oder Revolut mit Schweizer Konto oft sehr rasch aktiviert werden. Traditionelle Banken wie PostFinance, UBS, Raiffeisen oder Migros Bank brauchen manchmal etwas mehr Zeit, bieten aber mehr klassische Dienstleistungen an.</p>
 
-                <h3>Woche 3: Oeffentliche Dienstleistungen registrieren</h3>
+                <h3>3. Die obligatorische Krankenversicherung abschliessen</h3>
+                <p>Ab dem Datum deiner Anmeldung hast du <strong>3 Monate</strong> Zeit, die obligatorische Grundversicherung abzuschliessen. Sie gilt rueckwirkend ab dem ersten Tag. Warte nicht bis zur letzten Minute: Auch wenn du spaeter abschliesst, zahlst du die Praemien ab Beginn. Die Grunddeckung ist bei allen Versicherern gesetzlich gleich, nur der Preis aendert sich. Vergleiche deshalb auf <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">Priminfo.admin.ch</a>, dem offiziellen Vergleichstool des Bundes.</p>
 
-                <h4>Strom, Wasser und Heizung</h4>
-                <p>Wenn du ein Haus oder eine Wohnung mietest, sind diese normalerweise bereits in deinem Mietvertrag enthalten, oder der Vermieter hat sie angemeldet. Ueberpruefen Sie bei Wohnungsuebernahme, ob die Versorgung in Betrieb ist.</p>
+                <h3>4. Dem Arbeitgeber deine Familiensituation mitteilen</h3>
+                <p>Wenn du einen Partner oder unterhaltsberechtigte Kinder hast, muss dein Arbeitgeber diese Angaben kennen, um die korrekte Quellensteuer anzuwenden. Ein Fehler an dieser Stelle ist spaeter oft muhsam zu korrigieren.</p>
 
-                <h4>Gas / Heizung (je nach Region)</h4>
-                <p>In einigen Regionen ist Gas erforderlich. Der Vermieter informiert dich. Sie muessen sich bei der lokalen Verteilung anmelden.</p>
+                <h3>5. Deinen Namen am Briefkasten anbringen</h3>
+                <p>In der Schweiz laeuft ein grosser Teil der Verwaltung immer noch ueber die Post. Du bekommst die Bewilligungskarte, Versicherungsrechnungen und Steuerbriefe schriftlich. Wenn dein Name nicht von Anfang an am Briefkasten steht, koennen wichtige Sendungen verloren gehen oder zurueckgeschickt werden.</p>
 
-                <h4>Internet / Telefon</h4>
-                <p>Die Installation kann 1-2 Wochen dauern. Beliebte Anbieter sind Swisscom, Sunrise, Salt. Die Preise beginnen bei etwa 40 CHF pro Monat fuer ADSL und bis zu 120 CHF fuer Glasfaser.</p>
+                <h3>6. Das Abfallsystem deiner Gemeinde verstehen</h3>
+                <p>In vielen Kantonen sind fuer den Hausmuell nur offizielle gebuehrenpflichtige Saecke erlaubt. Normale Muellsaecke koennen zu Bussen fuehren. Frag deshalb in deinem Haus oder direkt bei der Gemeinde von Anfang an nach, wie das System funktioniert.</p>
 
-                <h3>Woche 3-4: Oeffentliche Verkehrsmittel</h3>
-                <p>Der Schweizer Nahverkehr ist ausgezeichnet. Du hast mehrere Moeglichkeiten:</p>
-                <ul>
-                    <li><strong>Halbtax (Demi-tarif):</strong> 190 CHF/Jahr, 50% Rabatt auf alle Fahrten (sehr lohnend).</li>
-                    <li><strong>Monatsticket:</strong> Je nach Region etwa 80-150 CHF.</li>
-                    <li><strong>GA (Generalabonnement):</strong> Uneingeschraenkter Zugang fuer etwa 3900 CHF/Jahr (fuer sehr haeufige Nutzer).</li>
-                </ul>
+                <h3>7. Halbtax fuer den Verkehr abschliessen</h3>
+                <p>Wenn du regelmaessig mit Zug oder oeffentlichem Verkehr unterwegs bist, lohnt sich das <strong>Halbtax / Demi-tarif</strong> fast immer. Es reduziert die Billette im ganzen Land um rund die Haelfte und amortisiert sich oft schon nach wenigen Wochen.</p>
 
-                <h3>Woche 4: Muellabfuhr und Recycling</h3>
-                <p>Das Abfallmanagementsystem unterscheidet sich stark nach Region. Die Gemeinde gibt kostenlos Informationen ueber die Sammlung aus:</p>
-                <ul>
-                    <li><strong>Restmuell:</strong> Normalerweise in Saecken bezahlt (0,40-1,20 CHF pro Sack).</li>
-                    <li><strong>Papier, Karton, Plastik:</strong> Sammelsysteme variieren (Abfallbehaelter, Saecke, Sammelplaetze).</li>
-                    <li><strong>Glas, Metall:</strong> Kostenloses Sammelsystem an oeffentlichen Punkte.</li>
-                    <li><strong>Biogene Abfaelle:</strong> Teilweise geboten, Gebuehr variiert.</li>
-                </ul>
-
-                <div class="callout warning">
-                    <strong>Wichtig:</strong> In manchen Kantonen / Gemeinden ist die ordnungslogique Entsorgung obligatorisch und wird bewaehrtet. Falsch entsorgter Muell kann Geldstrafen (30-500 CHF) zur Folge haben.
-                </div>
-
-                <h3>Laufend: Kanton- und Steuerverwaltung</h3>
-                <p>Im Jahr nach der Ankunft wirst du von der kantonalen Steuerverwaltung kontaktiert, um eine Steuererklarung einzureichen. Es ist wichtig, dieser Anforderung nachzukommen, selbst wenn du ein niedriges Einkommen hast.</p>
-
-                <h2>Zusammenfassung: Prioritaetsordnung</h2>
-                <ol>
-                    <li><strong>Woche 1:</strong> Anmeldung Gemeinde (Meldebestaetigung).</li>
-                    <li><strong>Woche 2:</strong> Krankenversicherung.</li>
-                    <li><strong>Woche 2:</strong> Bankkonto.</li>
-                    <li><strong>Woche 3:</strong> Dienstleistungen (Strom, Internet).</li>
-                    <li><strong>Woche 3-4:</strong> Oeffentliche Verkehrsmittel, Muellabfuhr, Recycling.</li>
-                    <li><strong>Laufend:</strong> Registrierung Steuern.</li>
-                </ol>
+                <h3>In den ersten 3 Monaten</h3>
+                <p>Wenn die dringendsten Schritte erledigt sind, lohnt es sich, sich mit Zusatzversicherungen und mit der Saeule 3a zu beschaeftigen. Die obligatorische Grundversicherung deckt weder Zahnarzt, noch Brillen oder Privatspital ab. Die Saeule 3a ist eine steuerbeguenstigte Altersvorsorge. Je frueher du anfaengst, desto staerker wirkt der Zinseszinseffekt.</p>
 
                 <div class="callout tip">
-                    <strong>Tipp:</strong> Lass dich nicht von der Komplexitaet einschuechtern. Die Schweizer sind sehr geordnet und die Systeme sind klar. Frag, wenn du unsicher bist. Die meisten Behoerdenablaeufe gehen schnell und ohne Komplikationen.
+                    <strong>Empfohlene Reihenfolge:</strong> Anmeldung bei der Gemeinde → Bankkonto → Krankenversicherung → Informationen an den Arbeitgeber → Briefkasten und Muell → Halbtax. Jeder Schritt erleichtert den naechsten.
                 </div>
+
+                <h2>Haeufige Fehler beim Einzug</h2>
+                <p>Die Anmeldung aufzuschieben, bis "alles bereit ist", und dadurch die Frist zu verpassen, ist der haeufigste Fehler. Wer die Rueckwirkung der Krankenversicherung nicht versteht, erlebt spaeter oft unerwartete Rechnungen. Wenn der Name nicht am Briefkasten steht, koennen Bewilligungskarte oder Steuerpost verloren gehen. Und wer sich nicht sofort ueber das lokale Muellsystem informiert, riskiert vermeidbare Bussen.</p>
+
+                <h2>Offizielle Quellen</h2>
+                <ul>
+                    <li><a href="https://www.ch.ch/de/umzug-in-die-schweiz/" target="_blank" rel="noopener noreferrer">ch.ch — In die Schweiz ziehen</a></li>
+                    <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo — offizieller KVG/LAMal-Vergleich</a></li>
+                    <li><a href="https://www.sbb.ch" target="_blank" rel="noopener noreferrer">SBB/CFF/FFS — oeffentlicher Verkehr</a></li>
+                </ul>
             </div>
         `
     },
