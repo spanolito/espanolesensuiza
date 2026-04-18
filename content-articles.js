@@ -1044,7 +1044,23 @@ window.siteContent.es.articles = {
         imageAlt: "Dos personas estrechándose la mano al firmar un contrato de trabajo, representando el acuerdo laboral",
         summary: 'El mercado laboral suizo es muy liberal. El despido es libre (respetando los plazos de preaviso) y las vacaciones mínimas son 4 semanas.',
         content: `
-            `
+            <div class="article-content">
+                <p>El mercado laboral suizo es muy flexible y las condiciones están reguladas fundamentalmente por el Código de Obligaciones (CO) y los convenios colectivos de trabajo (CCT).</p>
+
+                <h2>Tipos de contrato</h2>
+                <ul>
+                    <li><strong>Contrato indefinido (CDI):</strong> es el más común. No tiene fecha de finalización y permite al empleador o al empleado terminarlo, siempre respetando el plazo de preaviso acordado o legal.</li>
+                    <li><strong>Contrato de duración determinada (CDD):</strong> se firma por un tiempo específico (por ejemplo, temporada de invierno, sustitución por maternidad).</li>
+                    <li><strong>Trabajo temporal:</strong> a través de agencias (Adecco, Manpower...), sujeto a reglas específicas de cotización y preaviso muy flexible.</li>
+                </ul>
+
+                <h2>Jornada y vacaciones</h2>
+                <p>Por ley, todo trabajador en Suiza tiene derecho a un <strong>mínimo de 4 semanas</strong> de vacaciones pagadas al año (5 semanas si es menor de 20 años). La jornada laboral a "tiempo completo" suele variar entre 40 y 45 horas semanales.</p>
+
+                <h2>Enfermedad y accidentes</h2>
+                <p>Casi todos los grandes empleadores cuentan con un seguro de pérdida de ganancia por enfermedad que garantiza que recibas tu salario mientras te recuperas. Además, el empleador paga obligatoriamente un <strong>seguro contra accidentes laborales</strong>.</p>
+            </div>
+        `
     },
 
     // 10. Periodo de prueba
@@ -1079,6 +1095,46 @@ window.siteContent.es.articles = {
                 </div>
             </div>
         `
+    },
+
+    // 11. Búsqueda de empleo
+    "articulo-buscar-empleo": {
+        title: "Búsqueda de empleo en Suiza: Plataformas y Estrategias",
+        description: "Dónde buscar trabajo, cómo hacer tu CV estilo suizo (foto, certificados) y principales portales de empleo.",
+        keywords: "buscar empleo suiza, cv suiza, jobup, jobs.ch",
+        category: 'Candidaturas',
+        hub: 'trabajo',
+        slug: "buscar-empleo-suiza",
+        readingTime: 4,
+        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
+        imageAlt: "Persona buscando trabajo en Suiza en un café con vistas a Zúrich repasando su CV",
+        summary: 'El CV al estilo suizo debe incluir foto, fecha de nacimiento y estado civil. Las plataformas más usadas son Jobup, Jobs.ch y LinkedIn.',
+        content: `
+            <div class="article-content">
+                <p>En Suiza, una parte enorme de las ofertas se publica en portales locales y en el idioma del cantón. Tener una lista clara de webs y adaptar palabras clave suele marcar la diferencia.</p>
+                <p>Si estás planificando el salto, mira también <a href="#/mudarse-a-suiza-desde-espana">Mudarse a Suiza desde España: guía paso a paso</a>.</p>
+
+                <h2>Principales portales de empleo en Suiza</h2>
+                <ul>
+                    <li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+                    <li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+                    <li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+                    <li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a> (portal del RAV)</li>
+                </ul>
+
+                <div class="callout info">
+                    <strong>Consejo práctico</strong>
+                    <p>En Suiza suele ser más eficaz buscar trabajo en el idioma local. Por ejemplo, en lugar de buscar en español, puedes buscar directamente en alemán, francés o italiano.</p>
+                    <p><strong>Ejemplo de búsqueda en Google:</strong> <code>Glaser Arbeit Zürich</code></p>
+                </div>
+
+                <h3>Enlaces útiles</h3>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+                    <li><a href="https://www.arbeit.swiss/" target="_blank" rel="noopener noreferrer">arbeit.swiss</a> (RAV / SECO)</li>
+                </ul>
+            </div>
+            `
     },
 
     // 12. Alquiler de vivienda

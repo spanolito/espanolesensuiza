@@ -1,283 +1,510 @@
+(function() {
 /**
  * content-articles.js
  * Contains the 20 SEO optimized deep-dive articles.
  */
 
-window.siteContent = window.siteContent || { es: { global: {}, pages: {}, articles: {} } };
+window.siteContent = window.siteContent || {};
+window.siteContent.it = window.siteContent.it || { global: {}, pages: {}, articles: {} };
 
 window.siteContent.it.articles = {
     // 1. Permisos de residencia
     "articulo-permisos": {
         title: "Permessi di soggiorno in Svizzera: L, B, C e differenze",
-        description: "Tutto sui permessi di soggiorno svizzeri per i residenti stranieri: L, B, C e le loro differenze.",
-        keywords: "permessi svizzera, permesso L, permesso B, permesso C, vivere in svizzera, SEM",
+        description: "Tutto sui permessi svizzeri per i residenti stranieri. Scopri le differenze tra permesso L, B e C.",
+        keywords: "permessi Svizzera, permesso L, permesso B, permesso C, vivere in Svizzera, SEM",
+        category: "Procedure Ordinarie",
+        hub: "tramites",
+        slug: "tramites-llegada-suiza",
+        readingTime: 12,
+        dateUpdated: "Marzo 2026",
         featuredImage: "media/guides/tramites-llegada-suiza.jpg",
-	        category: "Procedure Ordinarie",
-	        hub: "tramites",
-	        slug: "tramites-llegada-suiza",
-	        readingTime: 4,
-	        dateUpdated: "Actualizado frecuentemente",
-	        summary: "Guida completa per comprendere i permessi di soggiorno svizzeri: L (breve durata), B (dimorante) e C (domiciliato).",
-        content: `<div class="page-header">
-<h1>Permessi di soggiorno in Svizzera: permessi L, B, C e le loro differenze</h1>
-</div>
-<div class="contenuto-articolo">
-<p>Trasferirsi in Svizzera implica la registrazione e l'ottenimento di un permesso di soggiorno. Se provieni da un paese UE/AELS (inclusa la Spagna), il processo è facilitato dall'Accordo sulla libera circolazione delle persone (ALCP).</p>
+        imageAlt: "Checklist di arrivo con documenti, chiavi e tessere svizzere",
+        summary: "Esistono tre permessi principali (L, B, C). La tua nazionalità (UE vs Paesi Terzi) e la durata del contratto determinano quale riceverai. Puoi lavorare prima di avere la tessera fisica.",
+        content: `
+            <div class="article-content">
+                <h2>Introduzione</h2>
+                <p>Se vivrai in Svizzera, hai bisogno di un <strong>titolo di soggiorno</strong> (permesso). Per i cittadini UE/AELS (come gli italiani o gli spagnoli), il processo è solitamente diretto se si ha un motivo chiaro per la permanenza (ad esempio, un contratto di lavoro). Per i cittadini di paesi terzi, il sistema è diverso e solitamente richiede autorizzazioni preventive e condizioni più restrittive.</p>
 
-<h2>Tabella comparativa</h2>
-<p>In Svizzera esistono diversi permessi di soggiorno per i cittadini dell’Unione Europea.<br>
-I più comuni sono i permessi L, B e C.<br>
-Ognuno corrisponde a una situazione diversa in base al tipo di contratto e alla durata del soggiorno.<br>
-La tabella seguente riassume le principali caratteristiche. Se stai pianificando il trasferimento, vedi anche <a href="#/mudarse-a-suiza-desde-espana">la guida passo passo</a>.</p>
+                <div class="callout info">
+                    <strong>La cosa più importante:</strong> in Svizzera il permesso fisico (la tessera) può richiedere settimane. In pratica, con la <strong>ricevuta/certificato di registrazione</strong> del comune, di solito puoi iniziare a lavorare e procedere con le altre pratiche mentre aspetti la tessera.
+                </div>
 
-<table class="info-table">
-<thead><tr><th>Permesso</th><th>Profilo (tipico)</th><th>Durata</th><th>Note</th></tr></thead>
-<tbody>
-<tr><td><strong>L</strong></td><td>Contratto temporaneo</td><td>Legata al contratto</td><td>Più restrizioni; dipende dal caso/cantone</td></tr>
-<tr><td><strong>B</strong></td><td>Soggiorno con lavoro/studio</td><td>Di solito diversi anni</td><td>Imposta alla fonte frequente all’inizio</td></tr>
-<tr><td><strong>C</strong></td><td>Stabilimento</td><td>Rinnovabile</td><td>Maggiore stabilità amministrativa</td></tr>
-<tr><td><strong>G</strong></td><td>Frontalieri</td><td>Di solito diversi anni</td><td>Regole fiscali speciali secondo gli accordi</td></tr>
-</tbody>
-</table>
+                <h2>Come funziona il sistema</h2>
+                <p>Il permesso non si "richiede via internet" in modo centralizzato. Nella maggior parte dei casi, il flusso reale è:</p>
+                <ol>
+                    <li><strong>Indirizzo in Svizzera</strong> (affitto, subaffitto, alloggio temporaneo).</li>
+                    <li><strong>Registrazione al comune</strong> (Controllo abitanti / Einwohnerkontrolle).</li>
+                    <li>La pratica passa all'<strong>autorità cantonale</strong> competente (migrazione).</li>
+                    <li>Ricevi un certificato e successivamente la <strong>tessera</strong> per posta.</li>
+                </ol>
+                <p>I dettagli su documenti e tempistiche <strong>variano a seconda del cantone e del comune</strong> (appuntamento, tasse, requisiti per la foto, ecc.). La logica generale, tuttavia, è la stessa.</p>
 
-<div class="callout info">
-<strong>Consiglio pratico</strong>
-<p>Con un permesso L può essere più difficile affittare un alloggio tramite un’agenzia immobiliare. Molte preferiscono inquilini con permesso B o con un contratto di lavoro a tempo indeterminato.</p>
-</div>
+                <h2>Requisiti e regole</h2>
+                <h3>Documenti tipici per la registrazione</h3>
+                <p>Per avviare la procedura, di solito ti verranno richiesti (a seconda del cantone e della situazione):</p>
+                <ul>
+                    <li>Documento d'identità/passaporto.</li>
+                    <li><strong>Motivo della permanenza:</strong> contratto di lavoro, ammissione agli studi, o documentazione di mezzi propri.</li>
+                    <li>Contratto di affitto o <strong>certificato di alloggio</strong> se sei ospite di qualcuno.</li>
+                    <li>Foto formato tessera (a volte viene scattata sul posto).</li>
+                    <li>Stato civile e documenti familiari se applicabile.</li>
+                </ul>
+                <p>Alla registrazione viene solitamente applicata una <strong>tassa amministrativa</strong> che varia a seconda del cantone e del tipo di permesso.</p>
 
-<h3>Link utili</h3>
-<ul>
-<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
-<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
-</ul>
+                <h3>Quale permesso ti spetta (visione pratica)</h3>
+                <p>I permessi più comuni per i nuovi arrivati sono:</p>
+                <ul>
+                    <li><strong>Permesso L</strong>: soggiorno di breve durata/temporaneo (spesso legato a un contrato inferiore a 12 mesi).</li>
+                    <li><strong>Permesso B</strong>: dimora (molto comune con un contratto di almeno 12 mesi o a tempo indeterminato per i cittadini UE/AELS).</li>
+                    <li><strong>Permesso C</strong>: domicilio (più stabile; solitamente arriva dopo diversi anni di residenza regolare).</li>
+                    <li><strong>Permesso G</strong>: frontaliere (vivi fuori dalla Svizzera e lavori in Svizzera).</li>
+                </ul>
 
-<h2>Permesso L (breve termine)</h2>
-<p>Rivolto a persone che soggiornano in Svizzera per un periodo inferiore a 12 mesi.</p>
-<ul>
-<li><strong>Contratti temporanei:</strong> se hai un contratto di durata compresa tra 3 e 12 mesi, ti verrà assegnato questo permesso.</li>
-<li><strong>Chi cerca lavoro:</strong> dopo 3 mesi di ricerca di lavoro, puoi richiedere un permesso L per continuare la ricerca, che viene rinnovato a determinate condizioni dimostrando di disporre di mezzi finanziari.</li>
-</ul>
+                <h3>Tabella comparativa rapida</h3>
+                <p>In Svizzera esistono diversi permessi di soggiorno per i cittadini dell’Unione Europea.<br>
+                I più comuni sono i permessi L, B e C.<br>
+                Ognuno corrisponde a una situazione diversa in base al tipo di contratto e alla durata del soggiorno.<br>
+                La tabella seguente riassume le principali caratteristiche. Se stai pianificando il tuo trasferimento, vedi anche <a href="#/mudarse-a-suiza-desde-espana">la guida passo dopo passo</a>.</p>
+                <table class="info-table">
+                    <thead><tr><th>Permesso</th><th>Per chi (tipico)</th><th>Durata</th><th>Note</th></tr></thead>
+                    <tbody>
+                        <tr><td><strong>L</strong></td><td>Contratto temporaneo</td><td>Legata al contratto</td><td>Più restrizioni; dipende dal caso/cantone</td></tr>
+                        <tr><td><strong>B</strong></td><td>Soggiorno con lavoro/studio</td><td>Solitamente diversi anni</td><td>Imposta alla fonte frequente all’inizio</td></tr>
+                        <tr><td><strong>C</strong></td><td>Domicilio</td><td>Rinnovabile</td><td>Maggiore stabilità amministrativa</td></tr>
+                        <tr><td><strong>G</strong></td><td>Frontalieri</td><td>Solitamente diversi anni</td><td>Regole fiscali speciali secondo gli accordi</td></tr>
+                    </tbody>
+                </table>
+                <div class="callout info">
+                    <strong>Consiglio pratico</strong>
+                    <p>Con un permesso L può essere più difficile affittare un alloggio tramite un’agenzia immobiliare. Molte organizzazioni preferiscono inquilini con permesso B o con un contratto di lavoro a tempo indeterminato.</p>
+                </div>
 
-<h2>Permesso B (Permesso di soggiorno / Livret B)</h2>
-<p>Per residenti con contratto a lungo termine o indeterminato.</p>
-<ul>
-<li><strong>Validità:</strong> 5 anni per i cittadini UE/AELS se hanno un contratto di almeno 12 mesi o a tempo indeterminato.</li>
-<li><strong>Diritti:</strong> consente la mobilità cantonale e un facile cambio di datore di lavoro all'interno del Paese.</li>
-</ul>
+                <h3>Link utili</h3>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+                    <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+                </ul>
 
-<h2>Permesso C (Permesso di stabilimento / Livret C)</h2>
-<p>È equivalente alla residenza permanente e non dipende dalle condizioni di lavoro.</p>
-<ul>
-<li><strong>Ottenuto:</strong> viene concesso dopo 5 anni di soggiorno ininterrotto e regolare per i cittadini spagnoli (e UE-15).</li>
-<li><strong>Vantaggi:</strong> Stessi diritti degli svizzeri (tranne il voto), puoi aprire la tua azienda liberamente e le tasse non vengono più trattenute alla fonte (Quellensteuer), ma attraverso una normale dichiarazione annuale.</li>
-</ul>
+                <h3>Scadenze, tasse e certificato provvisorio</h3>
+                <p>In pratica, ciò che sblocca la tua vita amministrativa è la <strong>registrazione al comune</strong>. Al momento della registrazione, molti comuni rilasciano un <strong>certificato provvisorio</strong> (o ricevuta) che serve mentre aspetti la tessera. Quel documento è solitamente sufficiente per:</p>
+                <ul>
+                    <li>Iniziare a lavorare (il tuo datore di lavoro solitamente conosce la procedura).</li>
+                    <li>Aprire un conto bancario.</li>
+                    <li>Contratte servizi di base e procedere con altre pratiche.</li>
+                </ul>
+                <p>Le <strong>tasse</strong> variano a seconda del cantone e del tipo di permesso. Normalmente si paga una somma moderata alla registrazione e, a volte, si paga separatamente per la foto/biometria se non viene fatta in ufficio.</p>
 
-<div class="informazioni callout">
-<strong>Fonte ufficiale:</strong> Controlla le condizioni di rinnovo sul portale della <a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank">Segreteria di Stato per la migrazione</a>. 
-</div>
-</div>`
+                <h3>Rinnovi e cambiamenti (domicilio, lavoro, situazione familiare)</h3>
+                <p>La vita reale cambia e il permesso "segue" questi cambiamenti:</p>
+                <ul>
+                    <li><strong>Cambio di domicilio:</strong> quando ti trasferisci, devi notificare la partenza/arrivo secondo il comune (ed entro i termini). Non è un dettaglio secondario: in Svizzera il domicilio è un elemento centrale.</li>
+                    <li><strong>Cambio di datore di lavoro:</strong> con i permessi UE/AELS solitamente c'è mobilità, ma l'obbligo di notificare o aggiornare può dipendere dal cantone e dal tipo di permesso.</li>
+                    <li><strong>Cambiamento di stato civile / figli:</strong> influisce sulle pratiche e, spesso, sulla fiscalità. Mantieni la documentazione aggiornata.</li>
+                </ul>
+
+                <h3>Famiglia (ricongiungimento) in due righe</h3>
+                <p>Se vieni con partner e figli, o vuoi portarli in seguito, l'amministrazione valuterà soprattutto:</p>
+                <ul>
+                    <li><strong>Reddito sufficiente</strong> (secondo il cantone e le dimensioni del nucleo familiare).</li>
+                    <li><strong>Alloggio adeguato</strong> (numero di stanze/spazio).</li>
+                    <li><strong>Documentazione</strong> (certificati con apostille/traduzione se richiesto).</li>
+                </ul>
+                <p>Come regola pratica, prepara questi documenti <strong>prima</strong> di venire, se possibile: certificati di nascita e di matrimonio, con le relative traduzioni quando necessario.</p>
+
+                <h2>Esempi concreti</h2>
+                <h3>Esempio 1 — Arrivi con un contratto a tempo indeterminato</h3>
+                <p>Ti registri al comune con il documento d'identità + contratto + indirizzo. Paghi la tassa, ricevi un certificato provvisorio e puoi iniziare a lavorare. Con quel certificato normalmente puoi aprire un conto bancario e stipulare l'assicurazione sanitaria.</p>
+
+                <h3>Esempio 2 — Arrivi senza contratto (UE/AELS)</h3>
+                <p>In alcuni casi puoi registrarti dimostrando di avere <strong>mezzi finanziari</strong> e copertura medica. La difficoltà pratica è che, senza un contratto, l'affitto e la banca possono essere più complicati. È uno scenario che richiede una pianificazione finanziaria realistica.</p>
+
+                <h3>Esempio 3 — Perdi il lavoro con Permesso B</h3>
+                <p>Perdere il posto di lavoro non implica automaticamente la "perdita del permesso", ma richiede di agire correttamente: iscriviti alla cassa disoccupazione (URC/RAV) se del caso, cerca lavoro attivamente e mantieni la tua registrazione in regola. Su questo punto è utile leggere <a href="#/rav-paro-suiza">RAV e disoccupazione in Svizzera</a>.</p>
+
+                <h3>Esempio 4 — Vieni come studente</h3>
+                <p>Al momento della registrazione ti verrà richiesta una prova di ammissione/iscrizione e, a seconda dei casi, i <strong>mezzi finanziari</strong> per il soggiorno. Come studente, ti interesserà anche pianificare l'assicurazione sanitaria e verificare se esistono regole specifiche o eccezioni cantonali.</p>
+
+                <h3>Esempio 5 — Sei frontaliere (Permesso G)</h3>
+                <p>Se vivi in Italia/Francia/Germania e lavori in Svizzera, il permesso G ha regole proprie e implicazioni fiscali importanti. Non trattarlo come "un B ma vivendo fuori": consulta la tua situazione presso fonti ufficiali e, se necessario, richiedi una consulenza fiscale.</p>
+
+                <h2>Errori comuni</h2>
+                <ul>
+                    <li><strong>Aspettare di avere una casa definitiva:</strong> se sei in un alloggio temporaneo, registrati e aggiorna l'indirizzo in seguito.</li>
+                    <li><strong>Assumere che tutto sia uguale in tutti i cantoni:</strong> scadenze, appuntamenti e documenti cambiano.</li>
+                    <li><strong>Non preparare i documenti familiari:</strong> i certificati (nascita/matrimonio) possono richiedere tempo per essere ottenuti; se vieni con la famiglia, preparali in anticipo.</li>
+                    <li><strong>Non collegare il permesso ad altri obblighi:</strong> LAMal, tasse e cambi di domicilio sono strettamente legati al permesso.</li>
+                </ul>
+
+                <h2>Consigli pratici</h2>
+                <ul>
+                    <li>Prenota un appuntamento (se necessario) al comune non appena hai un indirizzo.</li>
+                    <li>Porta con te copie cartacee e digitali di tutto.</li>
+                    <li>Se traslochi, effettua il cambio di domicilio entro i termini.</li>
+                    <li>Se vieni con la famiglia, prepara i certificati (nascita/matrimonio) in anticipo: apostille e traduzioni possono richiedere tempo.</li>
+                    <li>Per il "primo mese", usa la guida: <a href="#/tramites-llegada-suiza">Checklist delle pratiche</a>.</li>
+                </ul>
+
+                <h2>Fonti ufficiali</h2>
+                <ul>
+                    <li><a href="https://www.sem.admin.ch/sem/it/home/themen/aufenthalt.html" target="_blank" rel="noopener noreferrer">SEM — Soggiorno / Aufenthalt</a></li>
+                    <li><a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">ch.ch — Portale ufficiale svizzero</a></li>
+                    <li>Autorità cantonali della migrazione (sito web del cantone in cui risiedi).</li>
+                </ul>
+            </div>
+        `
     },
 
     "articulo-mudarse-suiza": {
         title: "Trasferirsi in Svizzera dalla Spagna: guida passo passo",
-        description: "Checklist pratica per trasferirsi in Svizzera dalla Spagna: lavoro, registrazione, permessi, assicurazione, casa e budget.",
-        keywords: "trasferirsi in svizzera dalla spagna, vivere in svizzera da spagnolo, come trasferirsi in svizzera",
-        audience: "newcomer",
-        featuredImage: "media/guides/mudarse-a-suiza-desde-espana.jpg",
+        description: "Guida rapida e pratica per gli spagnoli che vogliono vivere in Svizzera: passi, procedure e link utili.",
+        keywords: "trasferirsi in svizzera dalla spagna, vivere in svizzera da spagnolo, come andare a vivere in svizzera",
         category: "Procedure Ordinarie",
         hub: "tramites",
         slug: "mudarse-a-suiza-desde-espana",
         readingTime: 5,
-        summary: "Passi principali per trasferirsi in Svizzera dalla Spagna, con consigli brevi e link utili.",
-        content: `<div class="article-content">
-<p>Molti spagnoli vogliono vivere o lavorare in Svizzera per stipendi, stabilità e opportunità. Questa guida riassume i <strong>passi principali</strong> per iniziare, con blocchi brevi e link diretti.</p>
+        dateUpdated: "Marzo 2026",
+        summary: "Una chiara checklist dei passi per trasferirsi in Svizzera dalla Spagna: lavoro, registrazione, permessi, assicurazione sanitaria, alloggio e budget.",
+        featuredImage: "media/guides/mudarse-a-suiza-desde-espana.jpg",
+        imageAlt: "Camion dei traslochi che percorre una strada svizzera con le montagne sullo sfondo",
+        content: `
+            <div class="article-content">
+                <p>Molti spagnoli desiderano vivere o lavorare in Svizzera per i salari, la stabilità e le opportunità. Questa guida riassume i <strong>passaggi principali</strong> per stabilirsi, senza testi lunghi e con link diretti alle pagine chiave del sito.</p>
 
-<h2>1) Prima di venire in Svizzera</h2>
-<ul>
-<li><strong>Cercare lavoro</strong> e capire il mercato per cantone/lingua.</li>
-<li>Preparare un <strong>CV in stile svizzero</strong> (dossier di candidatura completo).</li>
-<li>Informarsi sul <a href="#/costo-della-vita-in-svizzera">costo della vita</a>.</li>
-<li>Avere <strong>risparmi</strong> per i primi mesi (affitto, assicurazione, pratiche).</li>
-</ul>
-<div class="callout info">
-<strong>Consiglio pratico</strong>
-<p>Molti datori di lavoro preferiscono candidati già in Svizzera o che possano spostarsi facilmente per un colloquio.</p>
-</div>
+                <h2>1) Prima di venire in Svizzera</h2>
+                <ul>
+                    <li><strong>Cercare lavoro</strong> e comprendere il mercato per cantone/lingua.</li>
+                    <li>Preparare un <strong>CV adatto alla Svizzera</strong> (dossier completo).</li>
+                    <li>Informarsi sul <a href="#/presupuesto-suiza">costo della vita</a> e regolare le aspettative.</li>
+                    <li>Avere dei <strong>risparmi</strong> per i primi mesi (affitto, assicurazione, pratiche).</li>
+                </ul>
+                <div class="callout info">
+                    <strong>Consiglio pratico</strong>
+                    <p>Molti datori di lavoro preferiscono candidati che si trovano già in Svizzera o che possono spostarsi facilmente per un colloquio.</p>
+                </div>
 
-<h2>2) Arrivare in Svizzera</h2>
-<ul>
-<li>Trovare un <strong>alloggio temporaneo</strong> per potersi registrare.</li>
-<li>Registrarsi al comune: <a href="#/registrarsi-in-svizzera-comune">registrazione (controllo abitanti)</a>.</li>
-<li>Richiedere il <a href="#/permessi-soggiorno-svizzera">permesso di soggiorno</a> adeguato.</li>
-</ul>
+                <h2>2) Arrivare in Svizzera</h2>
+                <ul>
+                    <li>Trovare un <strong>alloggio temporaneo</strong> per potersi registrare.</li>
+                    <li>Registrarsi presso il comune: <a href="#/registrarse-en-suiza">controllo degli abitanti</a>.</li>
+                    <li>Richiedere il <a href="#/tramites-llegada-suiza">permesso di soggiorno</a> (a seconda della propria situazione).</li>
+                </ul>
 
-<h2>3) Assicurazione sanitaria</h2>
-<ul>
-<li>L’assicurazione sanitaria è <strong>obbligatoria</strong>.</li>
-<li>Deve essere attivata entro i <strong>primi 3 mesi</strong> (spesso retroattiva).</li>
-<li>Ogni persona sceglie la propria assicurazione: confronta e decidi.</li>
-</ul>
-<p>Guida: <a href="#/assicurazione-sanitaria-svizzera-lamal">Assicurazione sanitaria (LAMal)</a>.</p>
+                <h2>3) Assicurazione sanitaria</h2>
+                <ul>
+                    <li>L'<strong>assicurazione sanitaria è obbligatoria</strong>.</li>
+                    <li>Deve essere stipulata entro i <strong>primi 3 mesi</strong> (con effetto retroattivo).</li>
+                    <li>Ogni persona sceglie la propria compagnia assicurativa: confronta e decidi.</li>
+                </ul>
+                <p>Guida: <a href="#/seguro-medico-lamal-suiza">Assicurazione sanitaria (LAMal)</a>.</p>
 
-<h2>4) Cercare lavoro</h2>
-<p>Dove cercare e come candidarsi: <a href="#/cercare-lavoro-svizzera-piattaforme-e-strategie">Ricerca di lavoro</a>.</p>
-<h3>Portali principali</h3>
-<ul>
-<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
-<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
-<li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
-<li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a></li>
-</ul>
-<div class="callout info">
-<strong>Consiglio pratico</strong>
-<p>In Svizzera spesso è più efficace cercare lavoro nella lingua locale (tedesco, francese o italiano).</p>
-<p><strong>Esempio di ricerca su Google:</strong> <code>Glaser Arbeit Zürich</code></p>
-</div>
+                <h2>4) Cercare lavoro</h2>
+                <p>Dove cercare offerte e come preparare le candidature: <a href="#/buscar-empleo-suiza">Ricerca di lavoro in Svizzera</a>.</p>
+                <h3>Portali principali</h3>
+                <ul>
+                    <li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+                    <li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+                    <li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+                    <li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a></li>
+                </ul>
+                <div class="callout info">
+                    <strong>Consiglio pratico</strong>
+                    <p>In Svizzera è solitamente più efficace cercare lavoro nella lingua locale (tedesco, francese o italiano).</p>
+                    <p><strong>Esempio di ricerca su Google:</strong> <code>Glaser Arbeit Zürich</code></p>
+                </div>
 
-<h2>5) Casa</h2>
-<ul>
-<li>Servono <strong>documenti</strong> (ID, buste paga/contratto, ecc.).</li>
-<li>Il <strong>dossier di affitto</strong> è fondamentale e la concorrenza è alta.</li>
-<li>Con il <strong>permesso L</strong> può essere più difficile affittare tramite un’agenzia.</li>
-</ul>
-<p>Guida: <a href="#/affittare-appartamento-svizzera">Affittare un appartamento</a>.</p>
+                <h2>5) Alloggio</h2>
+                <ul>
+                    <li>Ti verranno richiesti <strong>documenti</strong> (identità, buste paga/contratto, ecc.).</li>
+                    <li>Il <strong>dossier di affitto</strong> è fondamentale e il mercato è competitivo.</li>
+                    <li>Con un <strong>permesso L</strong> solitamente è più difficile affittare tramite un'agenzia immobiliare.</li>
+                </ul>
+                <p>Guida: <a href="#/alquilar-vivienda-suiza">Affittare una casa in Svizzera</a>.</p>
 
-<h2>6) Costo della vita</h2>
-<p>I costi variano a seconda del cantone (e della città). Riferimento rapido:</p>
-<table class="info-table">
-<thead><tr><th>Spesa</th><th>Range indicativo</th><th>Note</th></tr></thead>
-<tbody>
-<tr><td><strong>Affitto</strong></td><td>1.500 – 2.200 CHF</td><td>Più alto a Ginevra/Zurigo; dipende da zona e dimensione</td></tr>
-<tr><td><strong>Assicurazione sanitaria</strong></td><td>350 – 450 CHF</td><td>Varia per cantone/età/modello/franchigia</td></tr>
-<tr><td><strong>Cibo</strong></td><td>400 – 600 CHF</td><td>Supermercati e abitudini personali</td></tr>
-<tr><td><strong>Trasporti</strong></td><td>70 – 150 CHF</td><td>Abbonamenti; i treni interurbani aumentano il costo</td></tr>
-</tbody>
-</table>
-<p>Più dettagli: <a href="#/costo-della-vita-in-svizzera">Costo della vita in Svizzera</a>.</p>
+                <h2>6) Costo della vita</h2>
+                <p>Il costo varia a seconda del cantone (e della città). Come riferimento rapido:</p>
+                <table class="info-table">
+                    <thead><tr><th>Spesa</th><th>Range indicativo</th><th>Note</th></tr></thead>
+                    <tbody>
+                        <tr><td><strong>Affitto</strong></td><td>1.500 – 2.200 CHF</td><td>Più alto a Ginevra/Zurigo; dipende dalla zona e dalle dimensioni</td></tr>
+                        <tr><td><strong>Assicurazione sanitaria</strong></td><td>350 – 450 CHF</td><td>Varia per cantone/età/modello/franchigia</td></tr>
+                        <tr><td><strong>Cibo</strong></td><td>400 – 600 CHF</td><td>Migros/Coop vs discounters; abitudini personali</td></tr>
+                        <tr><td><strong>Trasporti</strong></td><td>70 – 150 CHF</td><td>Dipende dalla città/abbonamenti; il treno interurbano aumenta il costo</td></tr>
+                    </tbody>
+                </table>
+                <p>Maggiori dettagli: <a href="#/presupuesto-suiza">Costo della vita in Svizzera</a>.</p>
 
-<div class="callout info">
-<strong>Consiglio finale</strong>
-<p>Trasferirsi in Svizzera richiede pianificazione, ma con le informazioni giuste il processo è molto più semplice.</p>
-</div>
+                <div class="callout info">
+                    <strong>Consiglio finale</strong>
+                    <p>Trasferirsi in Svizzera richiede pianificazione, ma con le informazioni adeguate il processo è molto più semplice.</p>
+                </div>
 
-<h3>Link utili</h3>
-<ul>
-<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
-<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
-<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
-<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
-</ul>
-</div>`
+                <h3>Link utili</h3>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+                    <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+                    <li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+                    <li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+                </ul>
+            </div>
+        `
     },
 
     // 2. Registro en la comuna
     "articulo-registro": {
-        title: "Come registrarsi all'arrivo in Svizzera",
-        description: "Tutto sul processo di registrazione presso il comune (controllo abitanti) dopo il tuo arrivo in Svizzera.",
-        keywords: "registrazione comune svizzera, ufficio abitanti, controllo abitanti, vivere in svizzera",
-        featuredImage: "media/guides/registrarse-en-suiza.jpg",
-        category: "Primi Passi",
+        title: "Come registrarsi all'arrivo in Svizzera (Controllo Abitanti)",
+        description: "Guida passo dopo passo sulla registrazione nel tuo nuovo comune (Contrôle des habitants) dopo esserti trasferito in Svizzera. Scadenze, documenti e cosa succede dopo.",
+        keywords: "registrazione comune svizzera, empadronamento svizzera, controle des habitants, vivere in Svizzera, primo mese svizzera",
+        category: "Procedure Iniziali",
         hub: "tramites",
-        slug: "registrarsi-in-svizzera-comune",
-        readingTime: 3,
-        summary: "Devi registrarti nel tuo comune entro i primi 14 giorni.",
-        content: `<div class="page-header">
-<h1>Come registrarsi all'arrivo in Svizzera (registrazione nel comune)</h1>
-</div>
-<div class="contenuto-articolo">
-<p>La prima procedura obbligatoria e più importante quando si arriva a vivere in Svizzera è la registrazione presso l'ufficio di controllo degli abitanti (<i>Contrôle des habitants / Einwohnerkontrolle</i>) del comune in cui si intende risiedere (commune/Gemeinde).</p>
+        slug: "registrarse-en-suiza",
+        readingTime: 5,
+        featuredImage: "media/guides/registrarse-en-suiza.jpg",
+        imageAlt: "Persona che arriva al Rathaus (municipio) svizzero per registrarsi con la sua valigia",
+        summary: "Se ti trasferisci in Svizzera per risiedere, normalmente devi registrarti nel tuo comune entro pochi giorni (spesso 14). La ricevuta di registrazione ti permette solitamente di iniziare a lavorare e procedere con le pratiche mentre aspetti la tessera del permesso.",
+        content: `
+            <div class="article-content">
+                <h2>Introduzione</h2>
+                <p>La <strong>registrazione al comune</strong> (Controllo abitanti / <i>Contrôle des habitants</i> / <i>Einwohnerkontrolle</i>) è la pratica che <strong>formalizza la tua residenza</strong> in Svizzera. È fondamentale per attivare il circuito amministrativo: permesso, assicurazione sanitaria, tasse, scuola, ecc.</p>
+                <p>Importante: <strong>non tutti coloro che \"entrano in Svizzera\" si registrano</strong>. Questo articolo è rivolto a persone che <strong>si trasferiscono per vivere</strong> (per lavoro, studio o motivi familiari) e hanno bisogno di un domicilio ufficiale.</p>
 
-<h2>Scadenze importanti</h2>
-<p><strong>Hai un massimo di 14 giorni</strong> dalla data di arrivo per registrarti (anche se in alcuni cantoni sono 8 giorni, controlla sempre la scadenza locale). Inoltre, dovresti sempre registrarti <strong>prima del tuo primo giorno di lavoro</strong>.</p>
+                <h2>Come funziona il sistema</h2>
+                <ol>
+                    <li><strong>Scegli il tuo comune</strong> (il tuo domicilio reale) e individua l'ufficio di registrazione.</li>
+                    <li><strong>Prenota un appuntamento</strong> se necessario (molto comune nelle grandi città).</li>
+                    <li><strong>Presenta i documenti</strong>, paga una tassa e dichiara il tuo domicilio.</li>
+                    <li>Il comune ti rilascia una <strong>ricevuta/certificato di registrazione</strong> (a seconda del cantone e della situazione).</li>
+                    <li>La pratica passa all'<strong>autorità cantonale della migrazione</strong> e la <strong>tessera del permesso</strong> arriva per posta (dopo alcune settimane).</li>
+                </ol>
+                <div class="callout warning">
+                    <strong>Scadenze:</strong> in molti cantoni la registrazione deve essere effettuata entro <strong>14 giorni</strong> (a volte meno) e, se vieni per lavorare, normalmente <strong>prima del primo giorno di lavoro</strong>. I dettagli cambiano a seconda del cantone e del comune: conferma sempre sul sito ufficiale del tuo municipio.
+                </div>
 
-<h2>Documenti necessari</h2>
-<ul>
-<li>Passaporto o documento d'identità valido (DNI).</li>
-<li>Contratto di lavoro firmato, o documento comprovante l'ammissione ad un centro studi (per studenti).</li>
-<li>Contratto di affitto firmato o, in mancanza, certificato di alloggio (se soggiorni con un familiare o un amico, firmato dal proprietario dell'affitto).</li>
-<li>Fotografia formato passaggio (a seconda del cantone).</li>
-<li>Certificato di stato civile (certificato di matrimonio o di nascita) se applicabile.</li>
-</ul>
+                <h2>Requisiti e regole</h2>
+                <h3>1) Chi deve registrarsi (e chi no)?</h3>
+                <ul>
+                    <li><strong>Turista / soggiorno breve (es. fino a 90 giorni):</strong> normalmente <strong>non c'è registrazione comunale</strong> come residente.</li>
+                    <li><strong>Ti trasferisci per risiedere (lavoro, studio, famiglia):</strong> in pratica <strong>sì</strong>, devi registrarti al comune entro i termini locali.</li>
+                    <li><strong>In cerca di lavoro UE/AELS:</strong> puoi rimanere un certo periodo a cercare lavoro (con regole specifiche). Se ti stabilisci e/o superi il periodo consentito senza permesso, <strong>devi regolarizzare</strong> la tua situazione secondo il cantone.</li>
+                    <li><strong>Frontaliere (Permesso G):</strong> lavori in Svizzera ma <strong>vivi fuori</strong>. Non viene gestito come una registrazione di residenza \"normale\". Tuttavia, ci sono pratiche con il cantone/datore di lavoro e requisiti fiscali/assicurativi.</li>
+                </ul>
+                <p>Se il tuo caso è misto (es. inizi come soggiorno breve e poi vieni assunto), la regola pratica è: <strong>non appena hai un motivo di residenza e un domicilio, agisci rapidamente</strong> per evitare ritardi o sanzioni.</p>
 
-<h2>Il processo</h2>
-<p>Una volta presentati i documenti, pagherai una tassa per il rilascio del permesso (di solito circa CHF 65-100 a seconda del tipo e del cantone). Riceverai un certificato temporaneo ("Attestation de résidence") mentre la tua carta di permesso fisico viene rilasciata dal servizio di migrazione.</p>
+                <h3>2) Indirizzo e alloggio: sì, può essere temporaneo</h3>
+                <p>Se al tuo arrivo ti trovi in hotel, Airbnb o a casa di qualcuno, in molti casi puoi registrarti a un <strong>indirizzo provvisorio</strong> e aggiornarlo in seguito. Se alloggi presso un privato, solitamente è richiesto un <strong>certificato di alloggio</strong> firmato dal titolare del contratto di affitto.</p>
 
-<div class="callout">
-<strong>Nota per le famiglie:</strong> se arrivi con bambini, devi fornire certificati di nascita multilingue e un libro di famiglia. 
-</div>
-</div>`
+                <h3>3) Documenti abituali</h3>
+                <ul>
+                    <li>Documento d'identità (Carta d'identità/passaporto).</li>
+                    <li><strong>Motivo del soggiorno:</strong> contratto di lavoro, ammissione agli studi, o documentazione di mezzi propri (a seconda della situazione).</li>
+                    <li>Contratto di affitto o certificato di alloggio.</li>
+                    <li>Foto formato tessera (o viene scattata sul posto, a seconda del comune).</li>
+                    <li>Documentazione familiare se applicabile (matrimonio, nascita figli, ecc.).</li>
+                </ul>
+                <p>È inoltre frequente dover pagare una <strong>tasa amministrativa</strong>. L'importo dipende dal cantone e dal tipo di permesso.</p>
+
+                <h2>Esempi concreti</h2>
+                <h3>Esempio 1 — Arrivi con lavoro e alloggio temporaneo</h3>
+                <p>Ti registri con il tuo contratto + documento + indirizzo temporaneo. Ottieni una ricevuta e puoi procedere con banca/assicurazione mentre aspetti la tessera del permesso. Quando firmi il contratto di affitto definitivo, effettui il cambio di domicilio.</p>
+
+                <h3>Esempio 2 — Arrivi come studente</h3>
+                <p>Presenti l'ammissione/iscrizione e la prova di mezzi/copertura a seconda del cantone. La registrazione attiva le altre procedure (assicurazione, tasse se lavori, ecc.).</p>
+
+                <h3>Esempio 3 — Sei frontaliere</h3>
+                <p>Non segui lo stesso percorso di un residente. Il tuo permesso e i tuoi obblighi sono solitamente gestiti con il datore di lavoro e l'autorità cantonale, con regole fiscali/assicurative specifiche.</p>
+
+                <h2>Errori comuni</h2>
+                <ul>
+                    <li><strong>Confondere l'ingresso con la residenza:</strong> visitare la Svizzera non implica registrarsi; trasferirsi sì.</li>
+                    <li><strong>Aspettare di avere una casa definitiva</strong> e superare i termini previsti.</li>
+                    <li><strong>Non prenotare un appuntamento</strong> in tempo nei comuni con l'agenda satura.</li>
+                    <li><strong>Non aggiornare il domicilio</strong> quando ti trasferisci (i traslochi e le partenze/arrivi sono molto importanti in Svizzera).</li>
+                    <li><strong>Non preparare i documenti familiari</strong> in anticipo (apostille/traduzioni quando necessario).</li>
+                </ul>
+
+                <h2>Consigli pratici</h2>
+                <ul>
+                    <li>Cerca il sito ufficiale del tuo comune e controlla la sezione \"Anmeldung / Contrôle des habitants / Einwohnerkontrolle\".</li>
+                    <li>Prepara un PDF con i documenti + copie cartacee.</li>
+                    <li>Se la tua situazione non è standard (senza contratto, frontaliere, ricongiungimento), chiedi per iscritto l'elenco esatto dei requisiti.</li>
+                    <li>Dopo la registrazione, dai priorità a: <a href=\"#/assicurazione-sanitaria-svizzera-lamal\">assicurazione sanitaria (LAMal)</a> e conto bancario.</li>
+                    <li>Per il \"primo mese\", usa: <a href=\"#/checklist-tramites-llegada-suiza\">Checklist delle pratiche</a>.</li>
+                </ul>
+
+                <h2>Fonti ufficiali</h2>
+                <ul>
+                    <li><a href=\"https://www.ch.ch/it/entrare-e-vivere-in-svizzera/\" target=\"_blank\" rel=\"noopener noreferrer\">ch.ch — Entrare e vivere in Svizzera</a></li>
+                    <li><a href=\"https://www.sem.admin.ch/sem/it/home/themen/aufenthalt.html\" target=\"_blank\" rel=\"noopener noreferrer\">SEM — Soggiorno / Aufenthalt</a></li>
+                    <li>Sito ufficiale del tuo comune (Controllo abitanti / Einwohnerkontrolle).</li>
+                </ul>
+            </div>
+        `
     },
 
     // 3. Seguro de salud (LAMal)
     "articulo-lamal": {
-        title: "Assicurazione sanitaria in Svizzera (LAMal)",
-        description: "L'assicurazione sanitaria è obbligatoria. Scopri come funziona la LAMal (assicurazione base), termini e costi.",
-        keywords: "assicurazione sanitaria svizzera, LAMal, KVG, cassa malati svizzera",
-        featuredImage: "media/guides/seguro-medico-lamal-suiza.jpg",
+        title: "Assicurazione sanitaria in Svizzera (LAMal): come funziona",
+        description: "L'assicurazione medica è obbligatoria in Svizzera. Scopri come funziona la LAMal o assicurazione base per i residenti.",
+        keywords: "assicurazione sanitaria svizzera, LAMal, KVG, vivere in Svizzera, sistema sanitario svizzero",
         category: "Assicurazione Sanitaria",
         hub: "salud",
-        slug: "assicurazione-sanitaria-svizzera-lamal",
-        readingTime: 5,
-        summary: "La LAMal è obbligatoria e privata. Hai 3 mesi per attivarla.",
-        content: `<div class="page-header">
-<h1>L'assicurazione sanitaria in Svizzera (LAMal): come funziona</h1>
-</div>
-<div class="contenuto-articolo">
-<p>A differenza della Spagna, in Svizzera non esiste un sistema di previdenza sociale che copra direttamente l'assistenza sanitaria generale. La sanità è privata, ma regolamentata obbligatoriamente dalla legge federale sull'assicurazione malattie, conosciuta come <strong>LAMal</strong> (LAMal in tedesco).</p>
+        slug: "assicurazione-sanitaria-lamal-svizzera",
+        readingTime: 12,
+        featuredImage: "media/guides/seguro-medico-lamal-suiza.jpg",
+        imageAlt: "Persona che controlla la sua tessera dell'assicurazione sanitaria svizzera insieme ai documenti della cassa malati",
+        summary: "La LAMal è obbligatoria e privata, non è coperta automaticamente dallo Stato. Hai 3 mesi per stipularla, pagando gli arretrati dal primo giorno.",
+        content: `
+            <div class="article-content">
+                <h2>Introduzione</h2>
+                <p>Una delle maggiori differenze quando ci si trasferisce in Svizzera è che la sanità non funziona come una "previdenza sociale automatica". La copertura medica di base si stipula con un'assicuratore privato, ma è regolamentata dalla legge: la <strong>LAMal</strong> (KVG in tedesco). In parole povere: <strong>è obbligatoria, privata e standardizzata</strong> nella copertura.</p>
 
-<h2>Obblighi e scadenze</h2>
-<p>Ogni persona domiciliata in Svizzera deve stipulare l'assicurazione sanitaria di base (LAMal) entro un periodo massimo di <strong>3 mesi</strong> dalla data di arrivo o di registrazione. L'assicurazione avrà effetto retroattivo; Pagherai i premi dal primo giorno in cui metterai piede nel Paese.</p>
+                <div class="callout warning">
+                    <strong>Scadenza critica:</strong> hai tempo fino a <strong>3 mesi</strong> dal tuo arrivo/registrazione per stipulare l'assicurazione di base. La copertura è <strong>retroattiva</strong>: pagherai i premi dal giorno 1 anche se la stipuli in ritardo.
+                </div>
 
-<h2>Cosa copre l'Assicurazione di Base (LAMal)?</h2>
-<p>L'assicurazione di base è identica per legge in tutti gli assicuratori (casse di compensazione o <i>Caisses-maladie / Krankenkassen</i>). Copertine:</p>
-<ul>
-<li>Consulenze mediche generali e specialistiche.</li>
-<li>Medicinali prescritti nell'elenco ufficiale.</li>
-<li>Degenza ospedaliera (reparto comune del vostro cantone di domicilio).</li>
-<li>Spese di maternità.</li>
-</ul>
+                <h2>Come funziona il sistema</h2>
+                <h3>1) Assicurazione di base (LAMal) vs complementare (LCA)</h3>
+                <p>L'assicurazione di <strong>base</strong> copre l'essenziale e la sua copertura è identica per legge in tutte le compagnie assicurative. Le assicurazioni <strong>complementari</strong> (LCA/VVG) coprono gli extra (ad esempio, cure dentistiche, camera semiprivata/privata, occhiali, ecc.), ma non sono a accettazione obbligatoria: possono richiedere un questionario medico, imporre esclusioni o rifiutare la richiesta.</p>
 
-<h2>Cosa NON copre l'assicurazione di base?</h2>
-<p>In genere l'assicurazione di base <strong>non copre le cure odontoiatriche di routine (le visite dal dentista vengono pagate di tasca propria, a meno che non si stipuli un'assicurazione LCA complementare), gli occhiali o il ricovero ospedaliero in una stanza privata.</p>
+                <h3>2) Cosa si paga: premio, franchigia e partecipazione ai costi</h3>
+                <p>In Svizzera, essere assicurati non significa "tutto incluso". Il costo è composto da:</p>
+                <ul>
+                    <li><strong>Premio mensile:</strong> pagamento fisso (varia in base a cantone/comune, età e modello scelto).</li>
+                    <li><strong>Franchigia:</strong> importo annuale che paghi tu prima che l'assicurazione inizi a rimborsare.</li>
+                    <li><strong>Partecipazione ai costi (quote-part):</strong> dopo la franchigia, paghi una percentuale (con un tetto massimo annuale).</li>
+                    <li><strong>Contributo ospedaliero:</strong> in caso di ricovero, solitamente si applica un importo giornaliero (per gli adulti).</li>
+                </ul>
+                <p>Per capire bene e scegliere la strategia (franchigia 300 vs 2500, ecc.), leggi: <a href="#/franquicia-seguro-medico-suiza">Franchigia e partecipazione ai costi</a>.</p>
 
-<h2>Come scegliere una compagnia assicurativa?</h2>
-<p>Sebbene la copertura LAMal sia identica, i premi mensili variano sostanzialmente tra le aziende e in base al luogo di residenza. Puoi confrontare le offerte ufficiali su <a href="https://www.priminfo.admin.ch/" target="_blank">Priminfo</a> (sito della Confederazione).</p>
-</div>`
+                <h3>3) Modelli (libera scelta, medico di famiglia, telemedicina, HMO)</h3>
+                <p>Una decisione che cambia molto il tuo premio è il <strong>modello</strong>. In alcuni modelli devi chiamare prima la telemedicina o andare dal tuo medico di famiglia prima di consultare uno specialista. Se non segui le regole del modello, puoi perdere i rimborsi. Per molti nuovi arrivati, il modello economico funziona bene… se si è disciplinati.</p>
+
+                <h3>4) Scegliere e cambiare assicuratore (quando si fa)</h3>
+                <p>Nella LAMal, l'assicurazione di base si rinnova e si può cambiare cassa malati seguendo regole di calendario precise. Di solito si confrontano i premi in autunno per l'anno successivo e si procede al cambio entro i termini. Le date esatte e le condizioni dipendono dal prodotto e dall'anno, quindi segui sempre le istruzioni ufficiali e le condizioni del tuo assicuratore.</p>
+
+                <h3>5) Fatturazione: perché a volte "paghi prima"</h3>
+                <p>È molto comune ricevere fatture dal medico o dall'ospedale. A seconda del sistema di fatturazione, potresti dover pagare tu e poi chiedere il rimborso, oppure il medico può fatturare direttamente all'assicurazione. In ogni caso, se non hai raggiunto la tua franchigia, il costo esce dalle tue tasche. Per questo il sistema viene percepito come "costoso" anche pagando i premi mensili.</p>
+
+                <h2>Requisiti e regole</h2>
+                <h3>1) Chi deve assicurarsi</h3>
+                <p>In generale, ogni persona residente in Svizzera deve essere assicurata. Esistono eccezioni e regole specifiche (ad esempio, per alcuni casi di frontalieri o studenti). Se il tuo caso è "particolare", conferma per iscritto con il tuo cantone cosa si applica.</p>
+
+                <h3>2) Infortuni: l'errore più costoso</h3>
+                <p>Se lavori, è possibile che tu abbia un'<strong>assicurazione contro gli infortuni</strong> pagata dal datore di lavoro (a volte anche per infortuni non professionali, a seconda delle ore settimanali). In tal caso, normalmente puoi escludere la copertura infortuni dall'assicurazione di base e abbassare il premio. Se lasci il lavoro, devi <strong>riattivare</strong> gli infortuni nella tua LAMal per non rimanere scoperto. Molte persone se ne dimenticano proprio nel momento peggiore.</p>
+
+                <h3>3) Riduzione dei premi (sussidio) e aiuti</h3>
+                <p>Esiste un sistema di <strong>riduzione dei premi</strong> per persone e famiglie con redditi modesti, gestito a livello cantonale (le regole, le soglie e il processo <strong>variano per cantone</strong>). Se hai un budget limitato, questo punto è fondamentale: molte persone non lo richiedono per mancanza di informazioni.</p>
+
+                <h3>4) Cosa copre l'assicurazione di base</h3>
+                <p>L'assicurazione di base copre l'assistenza medica necessaria secondo la normativa. In termini pratici, solitamente include:</p>
+                <ul>
+                    <li>Consulti di medicina generale e specialistica (secondo il modello/invio).</li>
+                    <li>Medicinali prescritti inclusi nelle liste ufficiali.</li>
+                    <li>Ospedalizzazione in <strong>reparto comune</strong> (normalmente nel tuo cantone, salvo urgenze o regole specifiche).</li>
+                    <li>Maternità con condizioni particolari.</li>
+                </ul>
+
+                <h3>5) Cosa non copre (o copre in modo limitato)</h3>
+                <ul>
+                    <li><strong>Dentista:</strong> la maggior parte dei trattamenti dentistici di routine si paga a parte o tramite assicurazione complementare.</li>
+                    <li><strong>Occhiali/lenti a contatto:</strong> spesso con limiti o fuori dall'assicurazione di base.</li>
+                    <li><strong>Camera privata/semiprivata</strong> in ospedale: normalmente richiede un'assicurazione complementare.</li>
+                </ul>
+
+                <h2>Esempi concreti</h2>
+                <h3>Esempio 1 — Persona sana che vuole pagare meno al mese</h3>
+                <p>Se solitamente vai poco dal medico, è comune scegliere una franchigia alta per ridurre il premio mensile. Il "rischio" è che, se in quell'anno hai un'urgenza o un trattamento costoso, pagherai di più all'inizio.</p>
+
+                <h3>Esempio 2 — Famiglia con bambini piccoli</h3>
+                <p>Con i bambini, le visite mediche sono più frequenti. Molte famiglie preferiscono franchigie più basse per avere prevedibilità. Conviene anche scegliere un modello che si adatti a pediatria e urgenze.</p>
+
+                <h3>Esempio 3 — Arrivi e non stipuli entro i termini</h3>
+                <p>Se lasci passare i 3 mesi, non "risparmi" sui premi: ti fattureranno retroattivamente dal giorno 1 e potrebbero persino assegnarti d'ufficio a una cassa malati. Pianifica questa pratica entro il <a href="#/tramites-llegada-suiza">primo mese</a>.</p>
+
+                <h3>Esempio 4 — Calcolo del "peggiore dei casi annuale" (per decidere la franchigia)</h3>
+                <p>Un modo pratico per scegliere la franchigia è calcolare il tuo "peggiore dei casi". Ad esempio: se paghi 350 CHF/mese di premio (4.200 CHF/anno) e scegli una franchigia di 2.500 CHF, il tuo anno peggiore potrebbe assomigliare a: premio annuale + franchigia + partecipazione ai costi massima. Questo ti dà una cifra limite per il tuo budget. Poi confrontala con lo scenario della franchigia 300 (premio più alto, franchigia più bassa) e decidi cosa ti dà più tranquillità.</p>
+
+                <h2>Errori comuni</h2>
+                <ul>
+                    <li><strong>Scegliere solo in base al prezzo:</strong> senza capire il modello, potresti finire per pagare fatture non rimborsate.</li>
+                    <li><strong>Confondere assicurazione di base e complementare:</strong> dentista e camera privata non sono "inclusi" di default.</li>
+                    <li><strong>Sbagliare la scelta della franchigia:</strong> pagare un premio basso non conviene se ogni anno hai spese mediche prevedibili.</li>
+                    <li><strong>Non aggiornare gli infortuni quando si cambia lavoro:</strong> duplichi la copertura o rimani senza quella corretta.</li>
+                </ul>
+
+                <h2>Consigli pratici</h2>
+                <ul>
+                    <li>Confronta sul portale ufficiale <a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo</a> (premi per cantone/comune e modelli).</li>
+                    <li>Calcola il tuo "peggiore dei casi annuale": premio + franchigia + partecipazione ai costi, per decidere con la testa.</li>
+                    <li>Se intendi stipulare assicurazioni complementari (dentista, ecc.), solitamente è più facile farlo quando si è sani e prima di eventuali diagnosi.</li>
+                    <li>Se il tuo budget è limitato, verifica il tema della <strong>riduzione dei premi</strong> del tuo cantone (sussidio).</li>
+                    <li>Collega questa guida con <a href="#/franquicia-seguro-medico-suiza">franchigia/partecipazione ai costi</a> e <a href="#/presupuesto-suiza">costo della vita</a>.</li>
+                </ul>
+
+                <h2>Fonti ufficiali</h2>
+                <ul>
+                    <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo — Confronto ufficiale dei premi</a></li>
+                    <li><a href="https://www.bag.admin.ch/" target="_blank" rel="noopener noreferrer">UFSP / BAG — Ufficio Federale della Sanità Pubblica</a></li>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Portale ufficiale svizzero</a></li>
+                </ul>
+            </div>
+        `
     },
 
     // 4. Franquicia y copago en el sistema de salud
     "articulo-franquicia": {
-        title: "Franchigia e Ticket nel sistema sanitario svizzero",
-        description: "Explicación detallada de la franquicia y el copago en los seguros médicos suizos (LAMal).",
-        keywords: "franquicia LAMal, copago suiza, quote-part, seguro medico",
+        title: "Franchigia e partecipazione ai costi nel sistema sanitario svizzero",
+        description: "Spiegazione dettagliata della franchigia e del copagamento (partecipazione ai costi) nelle assicurazioni mediche svizzere (LAMal).",
+        keywords: "franchigia LAMal, partecipazione ai costi svizzera, quote-part, selbstbehalt, assicurazione medica",
         audience: 'resident',
         featuredImage: "media/guides/franquicia-seguro-medico-suiza.jpg",
+        imageAlt: "Immagine concettuale di risparmio e salute nel sistema svizzero",
         category: `Costi Medici`,
         hub: 'salud',
+        slug: "franchigia-partecipazione-costi-svizzera",
         readingTime: 4,
-        summary: `Perché l\'assicurazione sanitaria può diventare molto costosa se non scegli bene la tua franchigia di base (300 CHF vs 2500 CHF).`,
-        content: `<div class="page-header">
-<h1>Franchigia e partecipazione ai costi nel sistema sanitario svizzero</h1>
-</div>
-<div class="contenuto-articolo">
-<p>Anche dopo aver pagato i premi mensili dell'assicurazione di base (LAMal), sei responsabile di una parte delle spese mediche generate. Queste spese sono suddivise in franchigia e quota parziale (copagamento).</p>
+        summary: "In Svizzera paghi il 100% delle prime spese mediche fino a coprire la franchigia scelta. Successivamente, paghi il 10% di partecipazione ai costi.",
+        content: `
+            <div class="article-content">
+                <h2>Introduzione</h2>
+                <p>Anche dopo aver pagato il premio mensile dell'assicurazione di base (LAMal), per la maggior parte delle prestazioni mediche dovrai partecipare ai costi. La tua partecipazione annuale si compone di tre elementi: la franchigia, la partecipazione ai costi (10%) e il contributo ospedaliero.</p>
 
-<h2>Il franchising (franchising)</h2>
-<p>La franchigia è l'importo annuale che devi pagare interamente di tasca tua per visite mediche e farmaci prima che l'assicurazione inizi a rimborsare.</p>
-<ul>
-<li>Il minimo legale per gli adulti è <strong>300 CHF</strong>.</li>
-<li>Il massimo per gli adulti è <strong>2.500 CHF</strong>.</li>
-<li>Se scegli una franchigia bassa (300 CHF), il tuo premio mensile sarà elevato. Se scegli quello più alto (2.500 CHF), pagherai ogni mese meno per l'assicurazione, nella speranza di non ammalarti.</li>
-</ul>
-<p><em>Suggerimento statistico:</em> solitamente non è redditizio stipulare franchising intermedi. Generalmente opti per 300 (se pensi di avere molte spese) o 2500 (se sei molto sano).</p>
+                <h2>1) La Franchigia (Franchise)</h2>
+                <p>La franchigia è l'importo annuale fisso che devi pagare interamente di tasca tua per le prestazioni coperte dall'assicurazione prima che quest'ultima inizi a pagare. È un sistema di "scoperto" annuale.</p>
+                <ul>
+                    <li><strong>Adulti:</strong> puoi scegliere tra diverse franchigie: 300, 500, 1000, 1500, 2000 o 2500 CHF all'anno.</li>
+                    <li><strong>Bambini:</strong> solitamente la franchigia è 0 CHF, ma può essere aumentata fino a 600 CHF per ridurre il premio.</li>
+                    <li><strong>Regola:</strong> più alta è la franchigia scelta, più basso sarà il tuo premio mensile (lo sconto sul premio è regolamentato).</li>
+                </ul>
 
-<h2>Copagamento (parte preventivo / Selbstbehalt)</h2>
-<p>Una volta esaurita la franchigia (ad esempio, avete già speso CHF 2'500 per i medici), l'assicurazione copre i costi, ma voi dovete pagare il <strong>10% dell'importo residuo</strong>. Questo è il ticket.</p>
-<p>Fortunatamente, questo 10% è limitato annualmente a <strong>700 CHF</strong> per gli adulti (350 CHF per i bambini).</p>
+                <h2>2) La partecipazione ai costi (Quote-part / Selbstbehalt)</h2>
+                <p>Una volta superata la tua franchigia (ovvero quando hai già pagato di tasca tua l'importo scelto), l'assicurazione inizia a coprire le spese. Tuttavia, dovrai ancora pagare il <strong>10%</strong> di ogni fattura che eccede la franchigia.</p>
+                <p>Questa partecipazione al 10% ha un <strong>tetto massimo annuale</strong>:</p>
+                <ul>
+                    <li><strong>Adulti:</strong> massimo 700 CHF all'anno.</li>
+                    <li><strong>Bambini:</strong> massimo 350 CHF all'anno.</li>
+                </ul>
+                <p>Una volta raggiunto questo tetto, la tua cassa malati copre il 100% dei costi medici (sempre per quanto riguarda le prestazioni della LAMal).</p>
 
-<h2>Spese ospedaliere</h2>
-<p>Se sei ricoverato in ospedale, avrai un costo fisso aggiuntivo di CHF 15 per giorno di ricovero (contributo alle spese di soggiorno), applicabile indipendentemente dalla franchigia o dalla partecipazione ai costi.</p>
-</div>`
+                <h2>3) Contributo ospedaliero</h2>
+                <p>In caso di ricovero ospedaliero, gli adulti devono pagare un contributo fisso di <strong>15 CHF al giorno</strong>, senza limiti di tempo. Questo importo non rientra né nella franchigia né nella partecipazione ai costi (con alcune eccezioni, ad esempio per la maternità).</p>
+
+                <h2>Riepilogo dei costi massimi (Scenario peggiore)</h2>
+                <p>Se hai una salute cagionevole o hai un incidente grave durante l'anno, il costo massimo annuale che dovrai sostenere oltre al premio sarà:</p>
+                <div class="callout">
+                    <strong>Adulto con franchigia 2500:</strong> 2.500 (franchigia) + 700 (10% max) = <strong>3.200 CHF/anno</strong> (+ premi + ospedale).<br>
+                    <strong>Adulto con franchigia 300:</strong> 300 (franchigia) + 700 (10% max) = <strong>1.000 CHF/anno</strong> (+ premi + ospedale).
+                </div>
+
+                <h2>Quale franchigia scegliere?</h2>
+                <p>Statisticamente e finanziariamente, in Svizzera ha senso scegliere solo le due franchigie estreme:</p>
+                <ul>
+                    <li><strong>Franchigia 2500:</strong> se sei sano, vai raramente dal medico e hai una riserva di risparmio per coprire i 3200 CHF in caso di emergenza. È l'opzione che fa risparmiare di più a lungo termine grazie al premio basso.</li>
+                    <li><strong>Franchigia 300:</strong> se vai spesso dal medico (spese superiori a 1800-2000 CHF all'anno) o se non hai risparmi da parte e preferisci la tranquillità di un premio mensile più alto ma spese impreviste basse.</li>
+                    <li><strong>Le franchigie intermedie:</strong> raramente sono vantaggiose dal punto di vista matematico rispetto alle due opzioni citate.</li>
+                </ul>
+            </div>
+        `
     },
 
     // 5. Impuestos en Suiza: federal, cantonal y comunal
@@ -344,15 +571,17 @@ La tabella seguente riassume le principali caratteristiche. Se stai pianificando
 
     // 7. Seguros Sociales
     "articulo-seguros-sociales": {
-        title: "Assicurazioni sociali: AVS, LPP e Disoccupazione",
-        description: "Panoramica del sistema di sicurezza sociale svizzero: AVS, AI, LPP e disoccupazione.",
-        keywords: "assicurazioni sociali svizzera, AVS, LPP, sistema pensionistico svizzero",
+        title: "Assicurazioni sociali in Svizzera: AVS, AI, LPP e Assicurazione Disoccupazione",
+        description: "Dettaglio delle assicurazioni sociali svizzere: primo pilastro (AVS/AI), secondo pilastro (LPP/Cassa pensioni) e disoccupazione.",
+        keywords: "AVS svizzera, LPP, disoccupazione svizzera, sistema pensionistico svizzero, tre pilastri svizzera",
         audience: 'worker',
-        featuredImage: "media/guides/seguros-sociales-suiza.jpg",
-        category: `Lavoro`,
+        category: 'Lavoro',
         hub: 'trabajo',
+        slug: "assicurazioni-sociali-svizzera",
         readingTime: 6,
-        summary: `Il sistema pensionistico svizzero si basa su 3 pilastri.`,
+        featuredImage: "media/guides/seguros-sociales-suiza.jpg",
+        imageAlt: "Illustrazione concettuale dei tre pilastri del sistema di previdenza svizzero (AVS, LPP, 3° pilastro)",
+        summary: "Il sistema pensionistico svizzero si basa su 3 pilastri: l'AVS (statale), la LPP (assicurazione professionale obbligatoria) e il 3° pilastro (risparmio privato).",
         content: `<div class="page-header">
 <h1>Assicurazioni sociali e sistema pensionistico svizzero</h1>
 </div>
@@ -405,131 +634,119 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 <ul>
   <li>Ricerca di lavoro documentata</li>
   <li>Presenza agli appuntamenti RAV</li>
-  <li>Invio puntuale dei giustificativi</li>
-</ul>
-
-<h2>Link utili</h2>
-<ul>
-  <li><a href="https://www.ch.ch/it/lavoro/disoccupazione/" target="_blank" rel="noopener noreferrer">ch.ch — Disoccupazione</a></li>
-  <li><a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">SECO</a></li>
 </ul>
 </div>`
     },
 
-    // 8. Salari per settore e regione
     "articulo-salarios": {
-        title: "Salari in Svizzera per settore e regione",
-        description: "Scopri il salario medio in Svizzera per settore e regione, e utilizza il calcolatore fiscale Salarium.",
-        keywords: "salario svizzera, stipendio medio svizzera, salarium, salario minimo ginebra",
-        featuredImage: "media/guides/salarios-sueldo-suiza.jpg",
-        category: `Mercato del Lavoro`,
+        title: "Salari in Svizzera per settore e regione: quanto si guadagna?",
+        description: "Scopri qual è il salario medio in Svizzera, le differenze per cantone, il calcolatore Salarium e se esiste il salario minimo.",
+        keywords: "salario svizzera, stipendio medio svizzera, salarium, salario minimo ginevra",
+        category: 'Mercato del Lavoro',
         hub: 'trabajo',
+        slug: "salari-stipendio-svizzera",
         readingTime: 5,
-        summary: `La Svizzera ha stipendi elevati ma costi di vita proporzionati.`,
-        
-        content: `<div class="page-header">
-<h1>Stipendi in Svizzera per settore e cantone</h1>
-</div>
-<div class="contenuto-articolo">
-<p>Gli stipendi in Svizzera sono tra i più alti al mondo, ma lo è anche il costo della vita. È fondamentale capire che il tuo reale potere d'acquisto dipenderà da ciò che guadagni rispetto alle spese fisse del tuo cantone.</p>
+        featuredImage: "media/guides/salarios-sueldo-suiza.jpg",
+        imageAlt: "Certificado de salario suizo (Lohnausweis) con monete di franchi svizzeri su una scrivania professionale",
+        summary: 'La Svizzera ha salari molto alti ma costi in proporzione. Solo pochi cantoni (es. Ginevra, Neuchâtel) hanno un salario minimo legale.',
+        content: `
+            <div class="article-content">
+                <p>I salari in Svizzera sono tra i più alti al mondo, ma lo è anche il costo della vita. È fondamentale capire che il tuo reale potere d'acquisto dipenderà da quanto guadagni rispetto alle spese fisse del tuo cantone.</p>
 
-<h2>Esiste un salario minimo legale in Svizzera?</h2>
-<p>A livello federale <strong>non</strong> esiste un salario minimo interprofessionale. Alcuni Cantoni hanno tuttavia introdotto un proprio salario orario minimo. Ad esempio, Ginevra o Neuchâtel hanno un salario minimo legale di circa 23-24 franchi l'ora (circa 4.000 franchi lordi al mese a tempo pieno).</p>
+                <h2>Esiste un salario minimo legale in Svizzera?</h2>
+                <p>A livello federale <strong>non esiste</strong> un salario minimo interprofessionale. Tuttavia, alcuni cantoni hanno introdotto i propri salari minimi orari. Ad esempio, Ginevra o Neuchâtel hanno salari minimi legali che si aggirano intorno ai 23-24 CHF l'ora (circa 4.000 CHF lordi al mese a tempo pieno).</p>
 
-<h2>Il calcolatore del Salarium</h2>
-<p>Se vuoi sapere se un'offerta di lavoro è giusta per il tuo settore, esperienza, età e cantone, lo strumento più affidabile è il <strong>Salarium</strong>, un calcolatore statistico ufficiale gestito dall'Ufficio federale di statistica (OFS).</p>
+                <h2>Il calcolatore Salarium</h2>
+                <p>Se vuoi sapere se un'offerta di lavoro è equa per il tuo settore, esperienza, età e cantone, lo strumento più affidabile è il <strong>Salarium</strong>, un calcolatore statistico ufficiale gestito dall'Ufficio Federale di Statistica (UST).</p>
+                
+                <div class="callout info">
+                    <strong>Link utile:</strong> <a href="https://www.bfs.admin.ch/bfs/it/home/statistiche/lavoro-remunerazione/salari-redditi-costo-lavoro/livello-salari-svizzera/salarium.html" target="_blank">Calcolatore dei Salari Salarium</a>
+                </div>
 
-<div class="informazioni callout">
-<strong>Link utile:</strong> <a href="https://www.bfs.admin.ch/bfs/es/home/statistics/labor-remuneration/salaries-income-cost-work/salary-level-switzerland/salarium.html" target="_blank">Calcolatore dello stipendio</a>
-</div>
-
-<h2>Contratti collettivi (CCT)</h2>
-<p>Molti settori (ospitalità, edilizia, parrucchieri) sono regolati da Contratti Collettivi di Lavoro (CCT/GAV). Questi contratti stabiliscono il salario minimo obbligatorio, il numero di giorni di ferie e il pagamento degli straordinari, offrendo una solida protezione al lavoratore.</p>
-</div>`
+                <h2>I Contratti Collettivi (CCL)</h2>
+                <p>Molti settori (gastronomia, edilizia, parrucchieri) sono regolati da Contratti Collettivi di Lavoro (CCL / GAV). Questi contratti stabiliscono salari minimi obbligatori, numero di giorni di vacanza e pagamento degli straordinari, offrendo una solida protezione al lavoratore.</p>
+            </div>
+        `
     },
 
-    // 9. Contratos de trabajo
     "articulo-contratos": {
-        title: "Contratti di lavoro in Svizzera: diritti e doveri",
-        description: "Tutto quello che c'è da sapere sui contratti di lavoro svizzeri e sui diritti alle ferie.",
+        title: "Contratti di lavoro in Svizzera: diritti e obblighi",
+        description: "Tutto sul contratto di lavoro svizzero (CDI, CDD), le vacanze legali e il pagamento dello stipendio in caso di malattia.",
         keywords: "contratto lavoro svizzera, diritti lavoratore svizzera, vacanze svizzera, codice delle obbligazioni",
+        category: 'Contratti',
+        hub: 'trabajo',
+        slug: "contratti-di-lavoro-svizzera",
+        readingTime: 4,
         featuredImage: "media/guides/contratos-de-trabajo-suiza.jpg",
-        category: `Contratti`,
-        hub: 'trabajo',
-        readingTime: 4,
-        summary: `Il mercato del lavoro è molto liberale. Il licenziamento è flessibile.`,
-        
-        content: `<div class="page-header">
-<h1>Contratti di lavoro in Svizzera: diritti e doveri</h1>
-</div>
-<div class="contenuto-articolo">
-<p>Il mercato del lavoro svizzero è molto flessibile e le condizioni sono regolate fondamentalmente dal Codice delle obbligazioni (CO) e dai contratti collettivi di lavoro (CCT).</p>
+        imageAlt: "Due persone che si stringono la mano al momento della firma di un contratto di lavoro",
+        summary: 'Il mercato del lavoro svizzero è molto liberale. Il licenziamento è libero (rispettando i termini di preavviso) e le vacanze minime sono 4 settimane.',
+        content: `
+            <div class="article-content">
+                <p>Il mercato del lavoro svizzero è molto flessibile e le condizioni sono regolate fondamentalmente dal Codice delle Obbligazioni (CO) e dai contratti collettivi di lavoro (CCL).</p>
 
-<h2>Tipologie di contratto</h2>
-<ul>
-<li><strong>Contratto a tempo indeterminato (CDI):</strong> il più comune. Non ha una data di fine e consente al datore di lavoro o al dipendente di risolverlo, sempre rispettando il periodo di preavviso concordato o legale.</li>
-<li><strong>Contratto a Durata Definita (CDD):</strong> viene firmato per una durata specifica (es. stagione invernale, sostituzione maternità).</li>
-<li><strong>Lavoro temporaneo:</strong> tramite agenzie (Adecco, Manpower...), soggetti a regole specifiche sui contributi e preavviso molto flessibile.</li>
-</ul>
+                <h2>Tipi di contratto</h2>
+                <ul>
+                    <li><strong>Contratto a tempo indeterminato (CDI):</strong> è il più comune. Non ha una data di scadenza e permette al datore di lavoro o al dipendente di interromperlo, sempre rispettando il termine di preavviso concordato o legale.</li>
+                    <li><strong>Contratto a tempo determinato (CDD):</strong> viene firmato per un periodo specifico (ad esempio, stagione invernale, sostituzione maternità).</li>
+                    <li><strong>Lavoro interinale:</strong> tramite agenzie (Adecco, Manpower...), soggetto a regole specifiche di contribuzione e preavviso molto flessibile.</li>
+                </ul>
 
-<h2>Giorno e ferie</h2>
-<p>Per legge, ogni lavoratore in Svizzera ha diritto a un <strong>minimo 4 settimane</strong> di ferie retribuite all'anno (5 settimane se ha meno di 20 anni). La giornata lavorativa "a tempo pieno" varia solitamente tra le 40 e le 45 ore settimanali.</p>
+                <h2>Orario e vacanze</h2>
+                <p>Per legge, ogni lavoratore in Svizzera ha diritto a un <strong>minimo di 4 settimane</strong> di vacanze pagate all'anno (5 settimane se ha meno di 20 anni). La giornata lavorativa a "tempo pieno" varia solitamente tra le 40 e le 45 ore settimanali.</p>
 
-<h2>Malattie e infortuni</h2>
-<p>Quasi tutti i grandi datori di lavoro dispongono di un'assicurazione contro la perdita di guadagno in caso di malattia che garantisce la ricezione dello stipendio durante la convalescenza. Inoltre, il datore di lavoro paga obbligatoriamente l'<strong>assicurazione contro gli infortuni professionali</strong>.</p>
-</div>`
+                <h2>Malattia e infortuni</h2>
+                <p>Quasi tutti i grandi datori di lavoro dispongono di un'assicurazione per la perdita di guadagno in caso di malattia che garantisce la ricezione dello stipendio durante la convalescenza. Inoltre, il datore di lavoro paga obbligatoriamente un'<strong>assicurazione contro gli infortuni professionali</strong>.</p>
+            </div>
+        `
     },
 
-    // 10. Periodo de prueba
     "articulo-periodo-prueba": {
-        title: "Periodo di prova e termini di preavviso",
-        description: "Conosci i tuoi diritti durante il periodo di prova e i termini di preavviso in Svizzera.",
-        keywords: "periodo prova svizzera, preaviso licenziamento svizzera, probezeit",
+        title: "Il periodo di prova e i termini di preavviso in Svizzera",
+        description: "Conosci i tuoi diritti durante il periodo di prova svizzero e quanto tempo di preavviso devi dare per dimetterti o essere licenziato.",
+        keywords: "periodo prova svizzera, preavviso licenziamento svizzera, probezeit",
         audience: 'worker',
-        featuredImage: "media/guides/periodo-prueba-preaviso-suiza.jpg",
-        category: `Lavoro`,
+        category: 'Trabajo',
         hub: 'trabajo',
+        slug: "periodo-prova-preavviso-svizzera",
         readingTime: 3,
-        summary: `Il periodo di prova standard è di 1 a 3 mesi.`,
-        content: `<div class="page-header">
-<h1>Periodo di prova e periodi di preavviso</h1>
-</div>
-<div class="contenuto-articolo">
-<h2>Il periodo di prova (Probezeit / Temps d'essai)</h2>
-<p>Il primo mese di un contratto a tempo indeterminato è sempre considerato un periodo di prova per legge, salvo diversamente specificato nel contratto. Questo periodo può essere prorogato per iscritto fino a un massimo di tre mesi.</p>
-<p>Durante questo periodo, entrambe le parti possono recedere dal contratto con un preavviso di <strong>sette giorni</strong> (di calendario) e non è necessario fornire ulteriori giustificazioni.</p>
+        featuredImage: "media/guides/periodo-prueba-preaviso-suiza.jpg",
+        imageAlt: "Riunione professionale di revisione alla fine del periodo di prova in un ufficio con vista sulle montagne svizzere",
+        summary: 'Il periodo di prova standard è di 1 a 3 mesi. Durante questo periodo, ciascuna delle parti può rescindere il contratto con un preavviso di 7 giorni.',
+        content: `
+            <div class="article-content">
+                <h2>Il Periodo di Prova (Probezeit / Temps d'essai)</h2>
+                <p>Il primo mese di un contratto a tempo indeterminato è sempre considerato periodo di prova dalla legge, a meno che il contratto non specifichi altrimenti. Questo periodo può essere esteso per iscritto fino a un <strong>massimo di tre mesi</strong>.</p>
+                <p>Durante questo tempo, entrambe le parti possono annullare il contratto con un <strong>preavviso di sette giorni</strong> (naturali) e non è necessario fornire ulteriori giustificazioni.</p>
 
-<h2>Termini di preavviso (Kündigungsfrist / Délai de congé)</h2>
-<p>Trascorso il periodo di prova valgono i termini di legge o concordati tramite contratto scritto (o CCT). Secondo il Codice delle obbligazioni, il quadro generale è:</p>
-<ul>
-<li><strong>1° anno di servizio:</strong> 1 mese (disdetta entro fine mese).</li>
-<li><strong>Dal 2° al 9° anno di servizio:</strong> 2 mesi (disdetta entro fine mese).</li>
-<li><strong>Dal 10° anno di servizio:</strong> 3 mesi (disdetta entro fine mese).</li>
-</ul>
+                <h2>I Termini di Preavviso (Kündigungsfrist / Délai de congé)</h2>
+                <p>Una volta superato il periodo de prova, si applicano i termini legali o quelli concordati per contratto scritto (o CCL). Secondo il Codice delle Obbligazioni, il quadro generale è:</p>
+                <ul>
+                    <li><strong>1° anno di servizio:</strong> 1 mese (disdetta per la fine del mese).</li>
+                    <li><strong>Dal 2° al 9° anno di servizio:</strong> 2 mesi (disdetta per la fine del mese).</li>
+                    <li><strong>A partire dal 10° anno de servizio:</strong> 3 mesi (disdetta per la fine del mese).</li>
+                </ul>
 
-<div class="informazioni callout">
-<strong>Importante:</strong> la notifica deve sempre pervenire al tuo capo PRIMA dell'ultimo giorno lavorativo del mese affinché il mese successivo inizi a contare. 
-</div>
-</div>`
+                <div class="callout info">
+                    <strong>Importante:</strong> Il preavviso deve sempre arrivare nelle mani del tuo capo PRIMA dell'ultimo giorno lavorativo del mese affinché inizi a contare dal mese successivo.
+                </div>
+            </div>
+        `
     },
 
-    // 11. Búsqueda de empleo
     "articulo-buscar-empleo": {
-        title: "Ricerca di un lavoro: piattaforme e strategie",
-        description: "Dove cercare lavoro in Svizzera, come strutturare il CV e le piattaforme di reclutamento più efficaci.",
-        keywords: "cercare lavoro svizzera, cv svizzero, jobup, jobs.ch, ricerca impiego",
-        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
-        category: `Candidature`,
+        title: "Ricerca di un lavoro in Svizzera: Piattaforme e Strategie",
+        description: "Dove cercare lavoro, come creare il tuo CV in stile svizzero (foto, certificati) e i principali portali di lavoro.",
+        keywords: "cercare lavoro svizzera, cv svizzera, jobup, jobs.ch",
+        category: 'Candidature',
         hub: 'trabajo',
-        slug: "cercare-lavoro-svizzera-piattaforme-e-strategie",
+        slug: "cercare-lavoro-svizzera",
         readingTime: 4,
-        summary: `Un CV svizzero dovrebbe includere una foto e la data di nascita.`,
-        
-        content: `<div class="page-header">
-<h1>Come cercare lavoro in Svizzera</h1>
-</div>
-<div class="contenuto-articolo">
-<p>La Svizzera ha un mercato del lavoro dinamico, guidato non solo da grandi aziende farmaceutiche, banche e orologiai, ma anche da migliaia di PMI.</p>
+        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
+        imageAlt: "Persona in cerca di lavoro in Svizzera in un caffè con vista su Zurigo che ripassa il proprio CV",
+        summary: 'Il CV in stile svizzero deve includere foto, data di nascita e stato civile. Le piattaforme più utilizzate sono Jobup, Jobs.ch e LinkedIn.',
+        content: `
+            <div class="article-content">
+                <p>La Svizzera ha un mercato del lavoro dinamico, guidato non solo da grandi aziende farmaceutiche, banche e orologiai, ma anche da migliaia di PMI.</p>
 <p>Se stai pianificando il trasferimento, vedi anche <a href="#/mudarse-a-suiza-desde-espana">Trasferirsi in Svizzera dalla Spagna: guida passo passo</a>.</p>
 
 <h2>Il curriculum (dossier di candidatura)</h2>
@@ -555,119 +772,224 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 <p><strong>Esempio di ricerca su Google:</strong> <code>Glaser Arbeit Zürich</code></p>
 </div>
 
-<h3>Link utili</h3>
-<ul>
-<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
-<li><a href="https://www.arbeit.swiss/" target="_blank" rel="noopener noreferrer">arbeit.swiss</a> (RAV / SECO)</li>
-</ul>
-</div>`
+                <h3>Link utili</h3>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+                    <li><a href="https://www.arbeit.swiss/" target="_blank" rel="noopener noreferrer">arbeit.swiss</a> (RAV / SECO)</li>
+                </ul>
+            </div>
+        `
     },
 
     // 12. Alquiler de vivienda
     "articulo-alquiler": {
-        title: "Affittare un appartamento: il processo",
-        description: "Guida alla ricerca di un appartamento in Svizzera: documenti necessari (estratto esecuzioni), dossier e processo.",
-        keywords: "affittare appartamento svizzera, casa svizzera, dossier affitto svizzera, regie",
-        featuredImage: "media/guides/alquilar-vivienda-suiza.jpg",
-        category: `Contratto di Affitto`,
+        title: "Affittare una casa in Svizzera: il processo passo dopo passo",
+        description: "Documenti necessari (Betreibungsauszug) e il dossier necessario per ottenere un affitto svizzero in un mercato competitivo.",
+        keywords: "affittare appartamento svizzera, appartamento ginevra zurigo, dossier affitto svizzera",
+        category: 'Contratto di Affitto',
         hub: 'vivienda',
-        slug: "affittare-appartamento-svizzera",
-        readingTime: 5,
-        summary: `Il mercato degli affitti è competitivo; serve un dossier impeccabile.`,
-        
-        content: `<div class="page-header">
-<h1>Come affittare un appartamento in Svizzera</h1>
-</div>
-<div class="contenuto-articolo">
-<p>Cercare un alloggio in città come Zurigo, Ginevra o Losanna è notoriamente difficile a causa della mancanza di alloggi e dell'elevata domanda. Essere rapidi e avere un dossier completo è essenziale.</p>
+        slug: "affittare-casa-svizzera",
+        readingTime: 12,
+        featuredImage: "media/guides/alquilar-vivienda-suiza.jpg",
+        imageAlt: "Persona che riceve le chiavi del suo appartamento dalle mani di un agente immobiliare in Svizzera",
+        summary: "Il mercato degli affitti è molto competitivo. Serve un dossier impeccabile: estratto esecuzioni (poursuites), contratto e le ultime 3 buste paga.",
+        content: `
+            <div class="article-content">
+                <h2>Introduzione</h2>
+                <p>Affittare una casa in Svizzera spesso sorprende per due motivi: (1) la <strong>concorrenza</strong> in certe zone e (2) l'importanza del <strong>dossier</strong>. Non basta "poter pagare": le agenzie (régies/Verwaltungen) cercano profili stabili, con documentazione completa e senza precedenti di morosità. La buona notizia è che, se capisci il processo e ti organizzi, la tua probabilità di successo aumenta notevolmente.</p>
 
-<h2>Il dossier dell'inquilino</h2>
-<p>Non basta avere un reddito; Le agenzie immobiliari (Régies / Verwaltungen) chiedono di verificare solvibilità e precedenti con documentazione esatta. Il tuo dossier di candidatura, solitamente digitale attraverso portali come <a href="https://www.homegate.ch/" target="_blank">Homegate</a> o <a href="https://www.immoscout24.ch/" target="_blank">ImmoScout24</a>, deve includere:</p>
-<ul>
-<li>Copia della carta d'identità/passaporto e permesso di soggiorno (o contratto di lavoro che dimostri la tua imminente solvibilità).</li>
-<li>Le tue ultime tre buste paga mensili.</li>
-<li><strong>Estratto del registro dei debiti (Betreibungsauszug / Extrait de l'Office des Poursuites)</strong>: certificato, solitamente degli ultimi 3 mesi, comprovante che non avete debiti in Svizzera. Puoi richiederlo nella tua comunità o digitalmente.</li>
-<li>Copia dell'assicurazione di responsabilità civile (<i>RC / Privathaftpflichtversicherung</i>) se richiesta in anticipo.</li>
-</ul>
+                <div class="callout info">
+                    <strong>Punti chiave:</strong>
+                    <ul>
+                        <li>Prepara il tuo dossier <strong>prima</strong> di iniziare a visitare gli appartamenti.</li>
+                        <li>Il documento principale è il <strong>Betreibungsauszug / extrait des poursuites</strong> (certificato di esecuzioni/debiti in Svizzera).</li>
+                        <li>Pianifica il "costo d'entrata": cauzione (fino a 3 mesi), primo mese e trasloco.</li>
+                    </ul>
+                </div>
 
-<h2>Regola d'oro del reddito</h2>
-<p>Come standard generale di qualsiasi agenzia svizzera, <strong>l'affitto mensile lordo non può rappresentare più di un terzo (1/3) del salario lordo dell'economia domestica</strong>.</p>
-</div>`
+                <h2>Come funziona il sistema</h2>
+                <h3>1) Dove si pubblicano gli appartamenti</h3>
+                <p>La maggior parte dell'offerta si trova su portali come <a href="https://www.homegate.ch/" target="_blank" rel="noopener noreferrer">Homegate</a> o <a href="https://www.immoscout24.ch/" target="_blank" rel="noopener noreferrer">ImmoScout24</a>. Esistono anche siti di singole agenzie e, in alcune zone, gruppi locali. Consiglio pratico: crea avvisi per zona, fascia di prezzo e "Zimmer" (locali) per reagire rapidamente.</p>
+
+                <h3>2) Visita e candidatura</h3>
+                <p>In Svizzera, visitare un appartamento non significa "prenotarlo". Normalmente si visita e poi si presenta una <strong>candidatura</strong> formale con il dossier. Nelle visite collettive possono esserci decine di candidati. Chi consegna un dossier completo e in tempi brevi ha solitamente un vantaggio.</p>
+
+                <h3>3) Selezione e contratto</h3>
+                <p>L'agenzia verifica la solvibilità e il profilo del nucleo familiare. Se vieni selezionato, ti inviano il contratto o la conferma. Altrimenti, è comune non ricevere spiegazioni dettagliate.</p>
+
+                <h3>4) Consegna: cauzione, inventario e assicurazioni</h3>
+                <p>Prima della consegna delle chiavi, solitamente si formalizza:</p>
+                <ul>
+                    <li><strong>Cauzione (garanzia):</strong> per le abitazioni, è limitata a un massimo di 3 mesi di affitto e viene depositata su un conto bloccato a tuo nome (o tramite assicurazione di cauzione).</li>
+                    <li><strong>Inventario/stato dell'appartamento:</strong> l' "état des lieux" è fondamentale. Si registrano i difetti; se non lo fai, potrebbero esserti addebitati all'uscita.</li>
+                    <li><strong>Responsabilità Civile (RC):</strong> molto frequente per coprire danni a terzi (ad esempio, una perdita d'acqua).</li>
+                </ul>
+
+                <h2>Requisiti e regole</h2>
+                <h3>Il dossier dell'inquilino (cosa viene richiesto)</h3>
+                <p>Le agenzie immobiliari richiedono documentazione per verificare identità, reddito e "storia di pagamenti". Un dossier tipico include:</p>
+                <ul>
+                    <li>Copia di Carta d'Identità/passaporto e, se in possesso, permesso di soggiorno (altrimenti, contratto di lavoro + prova di registrazione in comune).</li>
+                    <li>Le <strong>ultime 3 buste paga</strong> (se sei appena arrivato: contratto di lavoro + lettera dell'azienda con stipendio e data d'inizio).</li>
+                    <li><strong>Betreibungsauszug / extrait des poursuites</strong> (certificato di assenza di esecuzioni in Svizzera). Costa circa 18-20 CHF e si richiede al comune di residenza.</li>
+                    <li>Modulo dell'agenzia (persone che vivranno nell'appartamento, stipendio, contatti, ecc.).</li>
+                    <li>In alcuni casi: RC, referenze o una breve lettera di presentazione.</li>
+                </ul>
+
+                <h3>Regola d'oro: un terzo dello stipendio</h3>
+                <p>Molte agenzie applicano una regola di prudenza: l'affitto mensile non dovrebbe superare circa <strong>1/3</strong> del reddito lordo familiare. Se lo supera, possono rifiutare la candidatura anche se "nel tuo budget" i conti quadrano. Per questo motivo, a volte conviene ampliare la zona di ricerca o regolare le aspettative all'inizio.</p>
+
+                <h3>"Zimmer" e "Nebenkosten/charges"</h3>
+                <p>Due dettagli che causano spesso malintesi:</p>
+                <ul>
+                    <li><strong>Zimmer:</strong> il soggiorno conta come un locale. Un "3.5 locali" solitamente è soggiorno + 2 camere + un mezzo locale.</li>
+                    <li><strong>Charges/Nebenkosten:</strong> possono includere riscaldamento/acqua calda e spese comuni, ma non sempre. Chiedi cosa è incluso e cosa no.</li>
+                </ul>
+
+                <h3>Il contratto: preavviso, date e disdetta</h3>
+                <p>La parte legale varia in base al contratto e al cantone, ma ci sono schemi comuni: il contratto ha spesso <strong>date di disdetta</strong> specifiche (ad esempio, fine trimestre) e un <strong>preavviso</strong> (spesso di diversi mesi). Inoltre, in alcuni cantoni si usano moduli ufficiali per comunicare aumenti d'affitto o disdetta. Traduzione pratica: non dare per scontato di potertene andare "quando vuoi" con 30 giorni di preavviso.</p>
+
+                <h3>Entrata e uscita: l'inventario (état des lieux) è la tua assicurazione</h3>
+                <p>Il giorno della consegna delle chiavi (entrata) si effettua un inventario dello stato dell'appartamento. Fai foto e annota ogni difetto (graffi, macchie, elettrodomestici, umidità). All'uscita, si confronta lo stato finale con l'inventario iniziale per decidere cosa rientra nell'usura normale e cosa ti viene addebitato. Moltissime dispute nascono dal non aver documentato bene l'entrata.</p>
+
+                <h2>Esempi concreti</h2>
+                <h3>Esempio 1 — Arrivi senza ancora buste paga svizzere</h3>
+                <p>Se non hai ancora 3 buste paga, rafforza il dossier con: contratto a tempo indeterminato, lettera dell'azienda con stipendio e data d'inizio, e un breve testo esplicativo. Non garantisce il successo, ma migliora le tue opzioni.</p>
+
+                <h3>Esempio 2 — Coppia: uno lavora, l'altro ancora no</h3>
+                <p>In molti casi conta il reddito totale, ma anche la stabilità. Allega il contratto di chi lavora e spiega il piano (ricerca del lavoro dell'altro, studio lingua, ecc.). Alcune agenzie accettano garanti, altre no.</p>
+
+                <h3>Esempio 3 — Ti offrono "assicurazione di cauzione" invece di deposito</h3>
+                <p>Invece di bloccare diverse migliaia di franchi, puoi pagare un premio annuale a una società che funge da garante. È utile se arrivi senza molta liquidità, ma non è un "deposito recuperabile": è un costo annuale. Confronta i pro e contro nella guida sulle <a href="#/fianzas-alquiler-suiza">Cauzioni</a>.</p>
+
+                <h3>Esempio 4 — Subaffitto (Untermiete) per iniziare</h3>
+                <p>Molti nuovi arrivati iniziano con una stanza o un subaffitto per potersi registrare in comune e ricevere il primo stipendio. È una strategia realistica se ti manca lo storico svizzero. Comunque, richiedi un contratto, regole chiare ed evita accordi "a voce".</p>
+
+                <h2>Errori comuni</h2>
+                <ul>
+                    <li><strong>Dossier incompleto:</strong> in un mercato competitivo, è quasi un "no automatico".</li>
+                    <li><strong>Non richiedere il Betreibungsauszug per tempo:</strong> richiedilo non appena hai un indirizzo.</li>
+                    <li><strong>Non verificare lo stato dell'appartamento:</strong> non annotare i difetti all'entrata è uno degli errori più costosi all'uscita.</li>
+                    <li><strong>Cadere in truffe:</strong> non inviare mai denaro in anticipo senza un contratto reale e verificato (attenzione alle "chiavi per posta").</li>
+                    <li><strong>Non verificare l'inserzionista:</strong> se il prezzo sembra troppo bello per essere vero o ti mettono pressione, diffida e verifica l'agenzia/proprietario.</li>
+                    <li><strong>Ignorare i costi iniziali:</strong> cauzione + primo mese + trasloco + assicurazioni si accumulano velocemente.</li>
+                </ul>
+
+                <h2>Consigli pratici</h2>
+                <ul>
+                    <li>Tieni il tuo dossier in un unico PDF, ben ordinato e pronto per essere inviato il giorno stesso della visita.</li>
+                    <li>Scrivi una mini presentazione professionale (3–4 righe) per accompagnare la candidatura.</li>
+                    <li>Nelle visite collettive: arriva puntuale, sii breve e professionale, e invia la candidatura il giorno stesso (se ti interessa).</li>
+                    <li>Se hai dubbi sulle clausole del contratto o sulla restituzione della cauzione, cerca supporto (ad esempio, associazioni inquilini) e consulta la guida su <a href="#/fianzas-alquiler-suiza">Cauzione e diritti</a>.</li>
+                    <li>Collega l'alloggio con il budget e le pratiche: <a href="#/presupuesto-suiza">costo della vita</a> e <a href="#/tramites-llegada-suiza">primo mese</a>.</li>
+                </ul>
+
+                <h2>Fonti ufficiali</h2>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Portale ufficiale svizzero</a></li>
+                </ul>
+            </div>
+        `
     },
 
     // 13. Fianzas de alquiler
     "articulo-fianzas": {
-        title: "Depositi cauzionali e diritti degli inquilini",
-        description: "Come funzionano le garanzie d'affitto (SwissCaution), il deposito cauzionale e l'aiuto dell'ASLOCA.",
-        keywords: "cauzione affitto svizzera, swisscaution, asloca, garanzia affitto",
+        title: "Cauzione d'affitto e diritti dell'inquilino (ASLOCA/MV)",
+        description: "Scopri come funzionano le garanzie d'affitto svizzere, le alternative con le assicurazioni (SwissCaution) e le associazioni di difesa dell'inquilino.",
+        keywords: "cauzione affitto svizzera, swisscaution, asloca, mieterverband, garanzia affitto",
         audience: 'resident',
-        featuredImage: "media/guides/fianzas-alquiler-suiza.jpg",
-        category: `Alloggi`,
+        category: 'Alloggi',
         hub: 'vivienda',
+        slug: "cauzione-affitto-svizzera",
         readingTime: 3,
-        summary: `Il deposito massimo legale è pari a 3 mesi di affitto.`,
-        content: `<div class="page-header">
-<h1>Garanzie, conto di garanzia e tutela dell'inquilino</h1>
-</div>
-<div class="contenuto-articolo">
-<h2>Il vincolo (Garantie de Loyer / Mietkaution)</h2>
-<p>Per legge il proprietario può richiedere fino a un massimo di 3 mesi di affitto come caparra per l'abitazione (nei locali commerciali non c'è limite). Questo denaro non viene mai consegnato al proprietario.</p>
-<p>Il denaro viene depositato su un "Conto bancario a garanzia dell'affitto" a tuo nome, ma bloccato. Può essere rilasciato solo con la firma congiunta dell'inquilino e del proprietario dopo la consegna delle chiavi o la risoluzione del contratto.</p>
+        featuredImage: "media/guides/fianzas-alquiler-suiza.jpg",
+        imageAlt: "Documento di garanzia bancaria d'affitto svizzera con le chiavi di casa su una scrivania professionale",
+        summary: "La cauzione massima legale è pari a 3 mesi di affitto. Puoi depositarla in banca o usare assicurazioni come SwissCaution.",
+        content: `
+            <div class="article-content">
+                <h2>La Cauzione (Garantie de Loyer / Mietkaution)</h2>
+                <p>Per legge, un proprietario può richiedere fino a un <strong>massimo di 3 mesi di affitto</strong> come cauzione per un'abitazione (per i locali commerciali non c'è limite). Questo denaro non viene mai consegnato a mano al locatore.</p>
+                <p>Il denaro viene depositato su un "Conto bancario di garanzia dell'affitto" (conto deposito) intestato a tuo nome, ma bloccato. Potrà essere liberato solo con la firma congiunta dell'inquilino e del locatore dopo la riconsegna delle chiavi o la risoluzione del contratto.</p>
 
-<h2>Assicurazione giudiziaria (alternativa al deposito di capitale)</h2>
-<p>Se non hai i 3 mesi in contanti (che potrebbero rappresentare 6.000 o 9.000 CHF alla volta), ci sono società come <a href="https://www.swisscaution.ch/" target="_blank">SwissCaution</a> che fungono da garanti. Paghi loro un premio annuale non rimborsabile (normalmente il 5% del deposito) e loro rilasciano il certificato di copertura all'agenzia come se fosse denaro reale.</p>
+                <h2>Assicurazioni di Cauzione (Alternativa al deposito di capitale)</h2>
+                <p>Se non disponi dei 3 mesi in contanti (che potrebbero rappresentare 6.000 o 9.000 CHF in un colpo solo), esistono società come <a href="https://www.swisscaution.ch/" target="_blank">SwissCaution</a> che fungono da garanti. Paghi loro un premio annuale non rimborsabile (normalmente il 5% della cauzione) e loro emettono all'agenzia il certificato di copertura come se fosse denaro reale.</p>
 
-<h2>Difesa dei tuoi diritti: ASLOCA / Mieterverband</h2>
-<p>Il sistema protegge molto l'inquilino ma può essere complesso. Se la tua agenzia cerca di addebitarti spese abusive quando lasci l'appartamento o si rifiuta di restituire la cauzione, ti consigliamo vivamente di affiliarti all'<a href="https://www.asloca.ch/" target="_blank">Associazione svizzera degli inquilini</a> (ASLOCA nella zona francese, Mieterverband nella zona tedesca) per una piccola quota annuale (circa 85 CHF). Offrono revisione contrattuale gratuita e supporto giudiziario, se necessario.</p>
-</div>`
+                <h2>Difesa dei tuoi diritti: ASLOCA / Mieterverband</h2>
+                <p>Il sistema protegge molto l'inquilino ma può essere complesso. Se la tua agenzia cerca di addebitarti spese abusive quando lasci l'appartamento o si rifiuta di restituire la cauzione, è vivamente consigliato affiliarsi all'<a href="https://www.asloca.ch/" target="_blank">Associazione Svizzera Inquilini</a> (ASLOCA nella zona francese, Mieterverband in quella tedesca) pagando una piccola quota annuale (circa 85 CHF). Offrono consulenza gratuita sui contratti e supporto legale se necessario.</p>
+            </div>
+        `
     },
 
     // 14. Costo de vida
     "articulo-costo-vida": {
-        title: "Costo della vita in Svizzera",
-        description: "Un'analisi dettagliata del budget mensile in Svizzera: affitto, assicurazione, cibo e trasporti.",
-        keywords: "budget svizzera, costo della vita svizzera, prezzi svizzera",
-        featuredImage: "media/template/costo-de-vida-suiza.jpg",
-        category: `Costo della Vita`,
+        title: "Budget in Svizzera: Alloggio, Alimentazione e Imposte",
+        description: "Pianificazione finanziaria in Svizzera con esempi di budget per single, coppie e famiglie che affrontano spese per alloggio, cibo e tasse.",
+        keywords: "budget svizzera, pianificazione finanziaria svizzera, costo della vita svizzera, famiglie svizzera",
+        category: 'Costo della Vita',
         hub: 'vivir-en-suiza',
-        slug: "costo-della-vita-in-svizzera",
+        slug: "budget-svizzera",
+        featuredImage: "media/guides/presupuesto-suiza.png",
+        imageAlt: "Illustrazione di budget: portafoglio, calcolatrice e spese per vivere in Svizzera",
         supportingImages: [],
-        readingTime: 4,
-        summary: `Uno stipendio di 5000 CHF può essere limitato dopo le spese fisse.`,
-        
-        content: `<div class="page-header">
-<h1>Il costo reale della vita in Svizzera</h1>
-</div>
-<div class="contenuto-articolo">
-<p>Mentre i salari svizzeri sono i più alti dell'Europa occidentale, anche i prezzi di beni e servizi sono alla pari (il cosiddetto "Ilot de cherté suisse").</p>
+        readingTime: 5,
+        summary: "Guida alla pianificazione finanziaria per la Svizzera con esempi di budget reali, dalle persone single alle famiglie con figli.",
+        content: `
+            <div class="article-content">
+                <h2>Introduzione</h2>
+                <p>La Svizzera è uno dei paesi con il costo della vita più elevato d'Europa, e per questo motivo organizzare ogni franco è fondamentale. La pianificazione finanziaria permette di evitare sorprese, controllare le spese e decidere con calma su alloggio, alimentazione e tasse. Il Servizio di Consulenza per il Budget Svizzero (Budget-Beratung / Conseil Budgetaire) pubblica esempi reali che aiutano a prendere riferimenti nella vita quotidiana.</p>
 
-<h2>Differenze regionali e costo della vita</h2>
-<p>I costi cambiano molto in base alla regione: le grandi città (Zurigo, Ginevra, Losanna, Basilea) sono spesso più care, soprattutto per l’alloggio. Usa la mappa come riferimento geografico e verifica sempre con dati reali del cantone e del comune.</p>
+                <h2>Budget per una persona single</h2>
+                <p>Vivere da soli richiede un equilibrio tra le spese fisse e il reddito netto mensile.</p>
+                <ul>
+                    <li><strong>Affitto:</strong> un monolocale o un appartamento di una camera costa solitamente tra 1.400 e 2.200 CHF, spese incluse. Pianifica i possibili aumenti annuali e condividi le spese quando possibile.</li>
+                    <li><strong>Alimentazione:</strong> preparare il cibo a casa acquistando in catene come Migros o Coop mantiene la spesa tra 400 e 500 CHF; mangiare fuori raddoppia facilmente questa voce.</li>
+                    <li><strong>Trasporto:</strong> l'abbonamento mensile urbano si aggira sui 80-140 CHF; chi ha meno di 25 anni o vive vicino al lavoro può optare per opzioni più economiche.</li>
+                    <li><strong>Assicurazione sanitaria:</strong> il premio base LAMal varia da 300 a 450 CHF (a seconda del cantone e dell'età); definisci bene la franchigia e metti da parte un fondo per coprire i copagamenti.</li>
+                </ul>
 
-<h2>Budget orientativo mensile (1 persona)</h2>
-<p>Spese medie per una persona single che vive in un centro urbano medio (fuori dal centro super esclusivo o campagna lontana):</p>
-<ul>
-<li><strong>Affitto mensile (compresi costi di ricarica, internet):</strong> 1.500 - 2.200 CHF (i prezzi a Ginevra e Zurigo sono notevolmente più alti della media nazionale).</li>
-<li><strong>Assicurazione sanitaria obbligatoria (LAMal):</strong> 350 - 450 CHF.</li>
-<li><strong>Carrello della spesa e supermercato:</strong> 400 - 600 CHF (Migros, Coop, Aldi, Lidl).</li>
-<li><strong>Trasporti (abbonamento mensile centro città):</strong> 70 - 150 CHF.</li>
-<li><strong>Imposte e previdenza sociale (AVS/LPP/Quellensteuer):</strong> Sono già detratte dal tuo salario lordo, rappresentano circa il 15-25% prima di versarti sul conto (a seconda del cantone).</li>
-</ul>
+                <h2>Budget per coppie senza figli</h2>
+                <p>Due adulti condividono le spese ma devono anche riservare spazio per il tempo libero e il futuro.</p>
+                <ul>
+                    <li><strong>Alloggio:</strong> un appartamento di 2-3 locali oscilla tra 2.300 e 3.200 CHF; si dividono elettricità, internet e manutenzione.</li>
+                    <li><strong>Tempo libero:</strong> ristoranti, palestra e gite rappresentano 200-400 CHF; fissate un tetto mensile per non sacrificare il risparmio.</li>
+                    <li><strong>Assicurazioni:</strong> oltre alla LAMal, si aggiungono responsabilità civile e assicurazione economia domestica, specialmente se si hanno animali o un'auto.</li>
+                    <li><strong>Risparmio:</strong> mettete da parte almeno il 10-15% delle entrate per emergenze o obiettivi (stessa raccomandazione dei consulenti di budget svizzeri).</li>
+                </ul>
 
-<h2>La vita è migliore?</h2>
-<p>Nonostante sia costoso, il <em>potere d'acquisto disponibile</em> alla fine del mese è generalmente superiore a quello del resto d'Europa. Il surplus economico reale dopo aver coperto gli elevati bisogni di base consente di avere la capacità di risparmiare, se lo stile di vita non è eccessivo.</p>
+                <h2>Budget per famiglie con bambini</h2>
+                <p>Le famiglie devono affrontare voci di spesa che si moltiplicano con ogni bambino.</p>
+                <ul>
+                    <li><strong>Asilo nido/Custodia:</strong> un posto costa tra 1.200 e 2.000 CHF per bambino, anche se i sussidi cantonali possono ridurre l'importo.</li>
+                    <li><strong>Istruzione:</strong> materiali, escursioni e corsi di lingua sommano 100-200 CHF al mese per bambino.</li>
+                    <li><strong>Alimentazione:</strong> preparare menù familiari alza la voce di spesa a 700-900 CHF mensili.</li>
+                    <li><strong>Abbigliamento:</strong> pianificate rinnovi e approfittate degli sconti per non esagerare con la spesa.</li>
+                    <li><strong>Trasporto:</strong> abbonamenti familiari o spostamenti scolastici aggiungono 150-250 CHF.</li>
+                    <li><strong>Attività extrascolastiche:</strong> musica, sport o lezioni private possono costare 100-250 CHF per bambino ogni mese.</li>
+                </ul>
 
-<div class="callout info">
-<strong>Consiglio pratico</strong>
-<p>Il budget reale varia molto in base al cantone e al comune: affitto, assicurazione sanitaria e imposte possono cambiare parecchio. Prima di scegliere una zona, confronta i dati con fonti ufficiali e adatta i numeri alla tua situazione.</p>
-</div>
+                <h3>Famiglia con 1 figlio</h3>
+                <p>Un esempio tipico combina un affitto di 2.400 CHF, nido parziale di 1.000 CHF e alimentazione vicina ai 650 CHF. Condividere i tragitti aiuta a ridurre la spesa per il trasporto.</p>
+                <h3>Famiglia con 2 figli</h3>
+                <p>Le spese per asili e attività extrascolastiche si duplicano; conviene dare priorità alle opzioni pubbliche o ai centri con prezzi scalati per fratelli.</p>
+                <h3>Famiglia con 3 figli</h3>
+                <p>Il focus deve essere l'efficienza: energia e trasporti più economici, un fondo per gli imprevisti e sfruttare l'istruzione pubblica gratuita.</p>
 
-<h3>Link utili</h3>
-<ul>
-<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
-<li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">estv.admin.ch</a> (imposte)</li>
-</ul>
-</div>`
+                <h2>Perché è importante avere un budget?</h2>
+                <p>Un budget ben pianificato trasforma l'incertezza in decisioni informate.</p>
+                <ul>
+                    <li><strong>Controllare le spese:</strong> registrare ogni voce rivela dove si può risparmiare (abbonamenti, acquisti impulsivi, mobilità).</li>
+                    <li><strong>Pianificare il futuro:</strong> sapere quanto avanza permette di decidere se risparmiare per la casa, cambiare auto o investire in formazione.</li>
+                    <li><strong>Creare un fondo per imprevisti:</strong> i consulenti raccomandano almeno tre mesi di spese fisse per emergenze come riparazioni o perdita del lavoro.</li>
+                    <li><strong>Vivere con maggiore tranquillità finanziaria:</strong> meno sorprese significa più fiducia per adattarsi a cambiamenti di cantone, famiglia o lavoro.</li>
+                </ul>
+
+                <h2>Fonti ufficiali</h2>
+                <ul>
+                    <li><a href="https://budgetberatung.ch/" target="_blank" rel="noopener noreferrer">Servizio di Consulenza per il Budget Svizzero (Budget-Beratung)</a> – esempi reali di budget e consulenza.</li>
+                    <li><a href="https://budgetberatung.ch/info-service/budgetbeispiele" target="_blank" rel="noopener noreferrer">Modelli di budget</a> pronti da scaricare e adattare.</li>
+                </ul>
+            </div>
+        `
     },
 
     // 15. Trabajadores fronterizos (frontaliers)
@@ -771,12 +1093,11 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 
     // 18. Sistema de salud (médicos y urgencias)
     "articulo-sistema-salud": {
-        title: "Rete sanitaria: medici e urgenze",
-        description: "Come funziona la rete sanitaria: scelta del medico, urgenze e pagamento delle fatture (Tiers-garant).",
-        keywords: "medico base svizzera, urgenze svizzera, pediatra svizzera, sistema sanitario svizzero",
+        title: "Sistema sanitario in Svizzera: medici, ospedali e urgenze",
+        description: "Come trovare un medico di famiglia in Svizzera, come funzionano le urgenze e come pagare le fatture mediche.",
+        keywords: "medico famiglia svizzera, urgenze svizzera, pediatra svizzera, sistema sanitario svizzero",
         audience: 'resident',
-        featuredImage: "media/guides/medicos-urgencias-suiza.jpg",
-        category: `Rete Medica`,
+        category: 'Rete Medica',
         hub: 'salud',
         readingTime: 4,
         summary: `Evita gli ospedali per i disturbi minori, vai alle guardie mediche.`,
@@ -872,39 +1193,92 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 
     // Traduzioni mancanti aggiunte (2026-03-12)
     "articulo-tramites-llegada": {
-        title: "Checklist: pratiche essenziali nel primo mese in Svizzera",
-        description: "Checklist pratica per i primi 30 giorni: registrazione, conto bancario, assicurazione malattia (LAMal), trasporti, posta, rifiuti e altro.",
-        keywords: "checklist arrivo svizzera, registrazione comune, assicurazione lamal, primo mese svizzera",
-        featuredImage: "media/guides/checklist-llegada-suiza.jpg",
-        category: "Primi Passi",
+        title: "Checklist completa: pratiche al tuo arrivo in Svizzera il primo mese",
+        description: "Tutto quello che devi fare il primo mese in Svizzera in ordine di urgenza: registrazione, assicurazione sanitaria, conto bancario, trasporti, rifiuti e altro.",
+        keywords: "pratiche arrivo svizzera, checklist arrivo svizzera, primi passi svizzera, nuovi arrivati svizzera, cosa fare all'arrivo svizzera",
+        category: "Procedure Iniziali",
         hub: "tramites",
-        readingTime: 6,
-        summary: "Scadenze chiave: registrazione in comune (spesso entro 14 giorni) e assicurazione malattia entro 3 mesi (retroattiva). Seguire l’ordine giusto evita ritardi.",
-        content: `<div class="page-header">
-<h1>Arrivo in Svizzera: checklist del primo mese</h1>
-</div>
-<div class="contenuto-articolo">
-<p>I primi giorni in Svizzera possono essere intensi. Alcune pratiche hanno scadenze precise e conviene farle nell’ordine corretto.</p>
+        slug: "checklist-tramites-llegada-suiza",
+        readingTime: 7,
+        dateUpdated: "Marzo 2026",
+        featuredImage: "media/guides/checklist-llegada-suiza.jpg",
+        imageAlt: "Documenti svizzeri: permesso di soggiorno, tessera dell'assicurazione sanitaria, chiavi e checklist",
+        summary: "Due situazioni, due percorsi diversi: se vieni per cercare lavoro non hai alcun obbligo amministrativo; se ti stabilisci con un contratto, la registrazione al comune è il primo passo obbligatorio.",
+        content: `
+            <div class="article-content">
 
-<h2>Settimana 1 — prima / all’inizio del lavoro</h2>
-<ul>
-  <li><strong>Registrazione al comune (controllo abitanti):</strong> spesso ricevi subito un attestato provvisorio.</li>
-  <li><strong>Apri un conto bancario svizzero:</strong> di solito serve un IBAN CH per lo stipendio.</li>
-</ul>
+                <div class="callout warning">
+                    <strong>Importante:</strong> se vieni in Svizzera come turista o per cercare lavoro, non devi registrarti in comune né richiedere alcun permesso di soggiorno. Questo obbligo esiste solo quando ti stabilisci nel Paese, solitamente dopo aver firmato un contratto di lavoro o aver stabilito la tua residenza in modo effettivo.
+                </div>
 
-<h2>Prime 2 settimane</h2>
-<ul>
-  <li><strong>Assicurazione malattia (LAMal):</strong> spesso hai fino a 3 mesi, ma è retroattiva dal giorno 1.</li>
-  <li><strong>Comunica lo stato civile al datore di lavoro:</strong> può influire sulla tassazione alla fonte.</li>
-</ul>
+                <hr style="border:none; border-top:1px solid var(--border-light); margin: 2rem 0;">
 
-<h2>Primo mese</h2>
-<ul>
-  <li><strong>Trasporti:</strong> se usi spesso i treni, valuta l’<em>Halbtax / Demi-tarif</em>.</li>
-  <li><strong>Nome sulla cassetta postale:</strong> molte comunicazioni ufficiali arrivano per posta.</li>
-  <li><strong>Regole rifiuti:</strong> in molti comuni servono sacchi ufficiali a tassa inclusa.</li>
-</ul>
-</div>`
+                <h2>Se vieni come turista o per cercare lavoro</h2>
+                <p>Come cittadino dell'UE/AELS, hai il diritto di entrare in Svizzera e soggiornare senza alcuna formalità amministrativa durante un periodo di ricerca di lavoro. Non c'è obbligo di registrazione, non c'è permesso da richiedere, non c'è termine da rispettare in questa fase.</p>
+                <p>Ciò che conviene avere in ordine prima di viaggiare o durante il soggiorno:</p>
+
+                <h3>Documentazione personale</h3>
+                <p>Porta con te la carta d'identità o il passaporto in corso di validità. Non hai bisogno di altri documenti per entrare o muoverti nel Paese.</p>
+
+                <h3>Alloggio e mobilità</h3>
+                <p>Definisci dove alloggerai dal primo giorno, anche se in modo provvisorio. Per spostarti, il trasporto pubblico svizzero è efficiente e puntuale. Se intendi usarlo intensivamente, il <strong>Metà-prezzo / Halbtax</strong> (circa 190 CHF all'anno) dimezza il prezzo di tutti i biglietti nel Paese. Si ammortizza in poche settimane e si acquista su <a href="https://www.sbb.ch" target="_blank" rel="noopener noreferrer">sbb.ch</a> o presso qualsiasi sportello FFS/CFF/SBB.</p>
+
+                <h3>CV e ricerca di lavoro</h3>
+                <p>Il mercato del lavoro svizzero ha le sue convenzioni. Il CV standard include foto, data di nascita e stato civile. Le principali piattaforme sono <a href="https://www.jobs.ch" target="_blank" rel="noopener noreferrer">jobs.ch</a>, <a href="https://www.jobup.ch" target="_blank" rel="noopener noreferrer">jobup.ch</a> e LinkedIn. Cerca nella lingua del cantone in cui vuoi lavorare: aumenta significativamente le risposte.</p>
+
+                <h3>Assicurazione sanitaria durante la ricerca</h3>
+                <p>Finché non risiedi ufficialmente in Svizzera, la LAMal (assicurazione sanitaria obbligatoria svizzera) non ti è applicabile. Se hai la tessera sanitaria europea o un'assicurazione di viaggio, è sufficiente per un soggiorno di ricerca. L'obbligo di stipulare la LAMal inizia solo quando ti registri come residente.</p>
+
+                <hr style="border:none; border-top:1px solid var(--border-light); margin: 2rem 0;">
+
+                <h2>Se vieni per stabilirti (con contratto o residenza)</h2>
+                <p>Non appena firmi un contratto di lavoro o stabilisci la tua residenza effettiva in Svizzera, il circuito amministrativo si attiva. Le scadenze sono reali e il loro mancato rispetto può comportare multe.</p>
+
+                <div class="callout info">
+                    <strong>Regola generale:</strong> la registrazione al comune deve essere effettuata entro <strong>14 giorni</strong> dall'arrivo, e in molti cantoni <strong>prima del primo giorno di lavoro</strong>. Il termine esatto varia a seconda del cantone: consulta sempre il sito web del tuo municipio.
+                </div>
+
+                <h3>1. Registrati al comune (Controllo Abitanti)</h3>
+                <p>È la prima pratica e sblocca tutte le altre. Al momento della registrazione, ricevi immediatamente un certificato di residenza provvisorio (\"Attestation de résidence\" / \"Meldebestätigung\") che ha piena validità legale: con esso puoi iniziare a lavorare, aprire un conto bancario e stipulare l'assicurazione sanitaria, anche se la tessera fisica del permesso richiede settimane per arrivare.</p>
+                <p><strong>Cosa portare:</strong> Carta d'identità o passaporto, contratto di lavoro o di affitto, indirizzo di residenza (anche se provvisorio).</p>
+                <p><strong>Costo:</strong> tra 65 e 100 CHF a seconda del cantone e del tipo di permesso richiesto.</p>
+
+                <h3>2. Apri un conto bancario</h3>
+                <p>Il tuo datore di lavoro ha bisogno di un IBAN svizzero per pagarti lo stipendio. Con il certificato di registrazione puoi già recarti in banca. Se hai bisogno di un conto operativo dal primo giorno, le opzioni digitali come Neon, Yuh o Revolut (conto svizzero) si attivano in meno di 24 ore senza spostamenti. Le banche tradizionali — PostFinance, UBS, Raiffeisen, Migros Bank — richiedono un appuntamento ma offrono più servizi.</p>
+
+                <h3>3. Stipula l'assicurazione sanitaria LAMal</h3>
+                <p>Hai un termine di <strong>3 mesi</strong> dalla data di registrazione per stipulare l'assicurazione obbligatoria (LAMal), con effetto retroattivo dal primo giorno. Non aspettare l'ultimo momento: se subisci un imprevisto prima di averla, pagherai comunque i premi dall'inizio. La copertura di base è identica in tutte le assicurazioni; varia solo il prezzo. Confronta su <a href=\"https://www.priminfo.admin.ch\" target=\"_blank\" rel=\"noopener noreferrer\">Priminfo.admin.ch</a> (comparatore ufficiale federale). La decisione più importante è la franchigia: 300 CHF minimo (premio alto) o fino a 2.500 CHF (premio basso). Se sei in salute, la franchigia alta solitamente risulta più vantaggiosa.</p>
+
+                <h3>4. Comunica la tua situazione familiare al datore di lavoro</h3>
+                <p>Se hai partner o figli a carico, il datore di lavoro ha bisogno di questi dati per applicare la tariffa corretta dell'imposta alla fonte. Un errore in questo punto è difficile da correggere retroattivamente.</p>
+
+                <h3>5. Metti il tuo nome sulla cassetta delle lettere</h3>
+                <p>In Svizzera, l'amministrazione funziona principalmente tramite posta cartacea. Riceverai la tessera del permesso, le fatture dell'assicurazione e le lettere fiscali su carta. Se la cassetta delle lettere non ha il tuo nome dal primo giorno, queste comunicazioni possono andare perse o essere restituite.</p>
+
+                <h3>6. Impara il sistema dei rifiuti del tuo comune</h3>
+                <p>In molti cantoni sono ammessi solo sacchi della spazzatura ufficiali a pagamento, che includono la tassa di raccolta. Usare sacchi ordinari può comportare multe. Chiedi nel tuo edificio o in comune fin dal primo giorno.</p>
+
+                <h3>7. Ottieni il Metà-prezzo per il trasporto</h3>
+                <p>Se usi i treni o i mezzi pubblici regolarmente, il <strong>Metà-prezzo / Halbtax</strong> (circa 190 CHF all'anno) dimezza il prezzo di tutti i biglietti in tutto il Paese. Si ammortizza in poche settimane. Si acquista su <a href=\"https://www.sbb.ch\" target=\"_blank\" rel=\"noopener noreferrer\">sbb.ch</a> o presso qualsiasi sportello FFS/CFF/SBB.</p>
+
+                <h3>Nei primi 3 mesi</h3>
+                <p>Una volta risolte le urgenze, conviene informarsi sulle assicurazioni complementari (la LAMal di base non copre dentista, occhiali né ospedalizzazione privata) e sul terzo pilastro (3a), che è un risparmio per la pensione con importanti vantaggi fiscali. Prima si inizia, più si accumula.</p>
+
+                <div class="callout tip">
+                    <strong>Ordine raccomandato:</strong> registrazione al comune → conto bancario → LAMal → comunicazione al datore di lavoro → cassetta delle lettere e rifiuti → Metà-prezzo. Ogni passo sblocca il successivo.
+                </div>
+
+                <h2>Errori frequenti al momento del trasferimento</h2>
+                <p>Rimandare la registrazione a \"quando tutto sarà pronto\" e superare i termini è l'errore più comune e ha conseguenze dirette. Non comprendere la retroattività della LAMal genera fatture inaspettate. Dimenticare di mettere il nome sulla cassetta delle lettere può far sì che la tessera del permesso o le lettere fiscali non arrivino. Non informarsi sul sistema dei sacchi della spazzatura dal primo giorno espone a multe evitabili.</p>
+
+                <h2>Fonti ufficiali</h2>
+                <ul>
+                    <li><a href=\"https://www.ch.ch/it/entrare-e-vivere-in-svizzera/\" target=\"_blank\" rel=\"noopener noreferrer\">ch.ch — Entrare e vivere in Svizzera</a></li>
+                    <li><a href=\"https://www.priminfo.admin.ch\" target=\"_blank\" rel=\"noopener noreferrer\">Priminfo — comparatore ufficiale LAMal</a></li>
+                    <li><a href=\"https://www.sbb.ch\" target=\"_blank\" rel=\"noopener noreferrer\">FFS/CFF/SBB — trasporti pubblici</a></li>
+                </ul>
+            </div>
+        `
     },
 
     "articulo-trabajar-sin-permiso-fisico": {
@@ -968,30 +1342,47 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
     },
 
     "articulo-subalquiler": {
-        title: "Sublocazione in Svizzera: guida pratica e legale",
-        description: "Basi della sublocazione: contratto scritto, deposito e autorizzazione del proprietario/agenzia.",
-        keywords: "sublocazione svizzera, contratto subaffitto, deposito cauzione, autorizzazione proprietario",
-        featuredImage: "media/guides/subalquiler-vivienda-suiza.jpg",
+        title: "Subaffitto di una stanza o appartamento in Svizzera: guida legale",
+        description: "Tutto sul subaffitto in Svizzera: contratti, cauzioni, diritti e obblighi per inquilini e subinquilini.",
+        keywords: "subaffitto svizzera, affitto stanza svizzera, contratto subaffitto, cauzione subaffitto",
         category: "Alloggio",
         hub: "vivienda",
+        slug: "subaffitto-vivienda-svizzera",
         readingTime: 4,
-        summary: "La sublocazione è comune e legale, ma serve (meglio) un contratto scritto e l’autorizzazione del locatore.",
-        content: `<div class="page-header">
-<h1>Sublocazione in Svizzera: cosa controllare</h1>
-</div>
-<div class="contenuto-articolo">
-<h2>1) Contratto scritto</h2>
-<ul>
-  <li>Chi affitta a chi, cosa è incluso, durata</li>
-  <li>Canone + spese, preavviso, inventario</li>
-</ul>
+        dateUpdated: "Marzo 2026",
+        featuredImage: "media/guides/subalquiler-vivienda-suiza.jpg",
+        imageAlt: "Stanza accogliente in un appartamento condiviso (colocation) in una città svizzera",
+        summary: "Il subaffitto è legale e comune in Svizzera. Richiede l'autorizzazione del proprietario e, preferibilmente, un contratto scritto per evitare malintesi.",
+        content: `
+            <div class="article-content">
+                <p>Il subaffitto è una pratica molto diffusa in Svizzera, che permette a un inquilino principale di affittare una stanza o l'intera abitazione a un terzo. Tuttavia, affinché sia sicuro e legale, devono essere seguite alcune regole chiare.</p>
+                
+                <h2>1. Il Contratto di Subaffitto</h2>
+                <p>Sebbene in Svizzera i contratti verbali possano avere validità, <strong>un contratto scritto è indispensabile</strong> per evitare dispute. Deve includere:</p>
+                <ul>
+                    <li>Identità dell'inquilino principale e del subinquilino.</li>
+                    <li>Oggetto: È una stanza o l'intero appartamento? Specificare le zone comuni.</li>
+                    <li>Durata: Data di inizio e fine (se determinata).</li>
+                    <li>Prezzo e spese: Specificare se include elettricità, internet, ecc.</li>
+                    <li>Preavviso: Tempo necessario per rescindere il contratto.</li>
+                </ul>
 
-<h2>2) Deposito</h2>
-<p>Spesso 1–2 mensilità. Foto all’ingresso/uscita aiutano a evitare dispute.</p>
+                <h2>2. La Cauzione (Garanzia)</h2>
+                <p>È comune richiedere tra 1 e 2 mesi di cauzione. È importante ricordare che:</p>
+                <ul>
+                    <li>La cauzione <strong>non può essere usata come pagamento dell'ultimo mese</strong>.</li>
+                    <li>Deve essere restituita integralmente se non ci sono danni né debiti in sospeso.</li>
+                    <li>Si raccomanda di effettuare un piccolo inventario con foto all'entrata per evitare discussioni all'uscita.</li>
+                </ul>
 
-<h2>3) Autorizzazione del locatore</h2>
-<p><strong>Da ottenere per iscritto</strong>. Sublocare di nascosto può mettere a rischio il contratto principale.</p>
-</div>`
+                <h2>3. Autorizzazione del Proprietario</h2>
+                <p>Questo è il punto più critico: <strong>il subaffitto deve essere autorizzato dal proprietario dell'immobile</strong>. Anche se solitamente non ci si oppone se non c'è abuso (come subaffittare a un prezzo molto superiore all'originale), farlo di nascosto può essere motivo di disdetta del contratto principale.</p>
+
+                <div class="callout info">
+                    <strong>Consiglio:</strong> Lascia sempre tutto messo "nero su bianco". In Svizzera, l'ambiguità gioca solitamente contro chi non ha prove scritte.
+                </div>
+            </div>
+        `
     },
 
     "articulo-jubilacion": {
@@ -1253,3 +1644,31 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 </div>`
     }
 };
+
+    const slugMap = {
+        "articulo-permisos": "permessi-soggiorno-svizzera-l-b-c",
+        "articulo-alquiler": "affittare-appartamento-svizzera-processo",
+        "articulo-fianzas": "deposito-affitto-diritti-inquilino",
+        "articulo-costo-vida": "costo-della-vita-svizzera-budget",
+        "articulo-lamal": "assicurazione-malattia-svizzera-lamal",
+        "articulo-franquicia": "franchigia-partecipazione-costi-salute",
+        "articulo-social-security": "sicurezza-sociale-svizzera-pilastri",
+        "articulo-seguros-sociales": "sicurezza-sociale-svizzera-avs-ai-lpp",
+        "articulo-frontaliers": "lavoratori-frontalieri-regole-tasse",
+        "articulo-diplomas": "riconoscimento-diplomi-stranieri-svizzera",
+        "articulo-sistema-escolar": "sistema-scolastico-svizzero-spiegato",
+        "articulo-sistema-salud": "sistema-sanitario-medici-emergenze",
+        "articulo-transporte": "trasporti-pubblici-fss-metaprezzo",
+        "articulo-ciudadania": "cittadinanza-svizzera-naturalizzazione",
+        "articulo-consulados": "consolati-spagna-svizzera",
+        "articulo-tramites-llegada": "checklist-primi-passi-in-svizzera",
+        "articulo-trabajar-sin-permiso-fisico": "lavorare-senza-permesso-fisico",
+        "articulo-reagrupacion-familiar": "ricongiungimento-familiare-svizzera",
+        "articulo-subalquiler": "subaffitto-svizzera-regole-contratti",
+        "articulo-jubilacion": "pensione-svizzera-avs-lpp-3-pilastri"
+    };
+
+    Object.entries(slugMap).forEach(([key, slug]) => {
+        if (window.siteContent.it.articles[key]) window.siteContent.it.articles[key].slug = slug;
+    });
+})();

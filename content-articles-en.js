@@ -1,170 +1,174 @@
+(function() {
 /**
  * content-articles.js
  * Contains the 20 SEO optimized deep-dive articles.
  */
 
-window.siteContent = window.siteContent || { es: { global: {}, pages: {}, articles: {} } };
+window.siteContent = window.siteContent || {};
+window.siteContent.en = window.siteContent.en || { global: {}, pages: {}, articles: {} };
 
 window.siteContent.en.articles = {
 	    // 1. Permisos de residencia
-	    "articulo-permisos": {
-	        title: "Residence permits in Switzerland: L, B, C and differences",
-	        description: "Everything about Swiss residence permits for foreign residents: L, B, C and their differences.",
-	        keywords: "residence permits switzerland, permit L, permit B, permit C, living in switzerland, SEM",
+    "articulo-permisos": {
+        title: "Residence permits in Switzerland: L, B, C and differences",
+        description: "Everything about Swiss residence permits for foreigners: L, B, C and their differences.",
+        keywords: "residence permits switzerland, permit L, permit B, permit C, living in switzerland, SEM",
+        category: 'Ordinary Procedures',
+        hub: 'tramites',
+        slug: "residence-permits-switzerland",
+        readingTime: 4,
         featuredImage: "media/guides/tramites-llegada-suiza.jpg",
-	        category: "Ordinary Procedures",
-	        hub: "tramites",
-	        slug: "tramites-llegada-suiza",
-	        readingTime: 4,
-	        dateUpdated: "Actualizado frecuentemente",
-	        summary: "A complete guide to understanding Swiss residence permits: L (short-term), B (resident) and C (settlement).",
-	        content: `<div class="article-content"> 
-<p>Moving to Switzerland involves registering and obtaining a residence permit. If you come from an EU/EFTA country (including Spain), the process is facilitated by the Agreement on Free Movement of Persons (ALCP).</p> 
+        imageAlt: "The three types of Swiss residence permits (L, B, C) displayed as cards over a map of Switzerland",
+        summary: "A complete guide to understanding Swiss residence permits: L (short-term), B (resident) and C (settlement).",
+        content: `
+            <div class="article-content">
+                <p>Moving to Switzerland involves registering and obtaining a residence permit. If you come from an EU/EFTA country (including Spain), the process is facilitated by the Agreement on Free Movement of Persons (ALCP).</p>
 
-<h2>Quick comparison</h2>
-<p>Switzerland has several residence permits for citizens of the European Union.<br>
-The most common are the L permit, the B permit and the C permit.<br>
-Each one corresponds to a different situation depending on the type of contract and the length of stay.<br>
-The following table summarizes their main characteristics. If you’re planning your move, see also <a href="#/mudarse-a-suiza-desde-espana">the step-by-step guide</a>.</p>
+                <h2>Quick comparison</h2>
+                <p>Switzerland has several residence permits for citizens of the European Union.<br>
+                The most common are the L permit, the B permit and the C permit.<br>
+                Each one corresponds to a different situation depending on the type of contract and the length of stay.<br>
+                The following table summarizes their main characteristics. If you’re planning your move, see also <a href="#/mudarse-a-suiza-desde-espana">the step-by-step guide</a>.</p>
 
-<table class="info-table">
-<thead><tr><th>Permit</th><th>Typical situation</th><th>Duration</th><th>Notes</th></tr></thead>
-<tbody>
-<tr><td><strong>L</strong></td><td>Temporary contract</td><td>Tied to the contract</td><td>More restrictions; depends on the case/canton</td></tr>
-<tr><td><strong>B</strong></td><td>Residence with work/studies</td><td>Usually several years</td><td>Withholding tax is common at the beginning</td></tr>
-<tr><td><strong>C</strong></td><td>Settlement</td><td>Renewable</td><td>Greater administrative stability</td></tr>
-<tr><td><strong>G</strong></td><td>Cross-border workers</td><td>Usually several years</td><td>Special tax rules depending on agreements</td></tr>
-</tbody>
-</table>
+                <table class="info-table">
+                    <thead><tr><th>Permit</th><th>Typical situation</th><th>Duration</th><th>Notes</th></tr></thead>
+                    <tbody>
+                        <tr><td><strong>L</strong></td><td>Temporary contract</td><td>Tied to the contract</td><td>More restrictions; depends on the case/canton</td></tr>
+                        <tr><td><strong>B</strong></td><td>Residence with work/studies</td><td>Usually several years</td><td>Withholding tax is common at the beginning</td></tr>
+                        <tr><td><strong>C</strong></td><td>Settlement</td><td>Renewable</td><td>Greater administrative stability</td></tr>
+                        <tr><td><strong>G</strong></td><td>Cross-border workers</td><td>Usually several years</td><td>Special tax rules depending on agreements</td></tr>
+                    </tbody>
+                </table>
 
-<div class="callout info">
-<strong>Practical tip</strong>
-<p>With an L permit it can be harder to rent a home through a real estate agency. Many agencies prefer tenants with a B permit or an open-ended employment contract.</p>
-</div>
+                <div class="callout info">
+                    <strong>Practical tip</strong>
+                    <p>With an L permit it can be harder to rent a home through a real estate agency. Many agencies prefer tenants with a B permit or an open-ended employment contract.</p>
+                </div>
 
-<h3>Useful links</h3>
-<ul>
-<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
-<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
-</ul>
+                <h3>Useful links</h3>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+                    <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+                </ul>
 
-<h2>L Permit (Short Term)</h2> 
-<p>Aimed at people who stay in Switzerland for a period of less than 12 months.</p> 
-<ul> 
-<li><strong>Temporary contracts:</strong> If you have a contract of between 3 and 12 months, you will be assigned this permit.</li> 
-<li><strong>Job seekers:</strong> After 3 months looking for a job, you can apply for an L Permit to continue searching, which is renewed under certain conditions by proving that you have financial means.</li> 
-</ul> 
+                <h2>L Permit (Short Term)</h2>
+                <p>Aimed at people who stay in Switzerland for a period of less than 12 months.</p>
+                <ul>
+                    <li><strong>Temporary contracts:</strong> If you have a contract between 3 and 12 months, you will be assigned this permit.</li>
+                    <li><strong>Job seekers:</strong> After 3 months looking for a job, you can apply for an L Permit to continue searching, which is renewed under certain conditions by proving you have financial means.</li>
+                </ul>
 
-<h2>Permission B (Residence Permit / Livret B)</h2> 
-<p>For residents with long-term or indefinite contracts.</p> 
-<ul> 
-<li><strong>Validity:</strong> 5 years for EU/EFTA citizens if they have a contract of at least 12 months or indefinite.</li> 
-<li><strong>Rights:</strong> Allows cantonal mobility and easy change of employer within the country.</li> 
-</ul> 
+                <h2>Permission B (Residence Permit / Livret B)</h2>
+                <p>For residents with long-term or indefinite contracts.</p>
+                <ul>
+                    <li><strong>Validity:</strong> 5 years for EU/EFTA citizens if they have a contract of at least 12 months or indefinite.</li>
+                    <li><strong>Rights:</strong> Allows cantonal mobility and easy change of employer within the country.</li>
+                </ul>
 
-<h2>Permission C (Establishment Permit / Livret C)</h2> 
-<p>It is equivalent to permanent residence and does not depend on working conditions.</p> 
-<ul> 
-<li><strong>Obtained:</strong> It is granted after 5 years of uninterrupted and regular residence for Spanish (and EU-15) citizens.</li> 
-<li><strong>Advantages:</strong> Same rights as the Swiss (except voting), you can open your company freely and taxes are no longer withheld at source (Quellensteuer), but through a normal annual declaration.</li> 
-</ul> 
+                <h2>Permission C (Establishment Permit / Livret C)</h2>
+                <p>It is equivalent to permanent residence and does not depend on working conditions.</p>
+                <ul>
+                    <li><strong>Obtained:</strong> It is granted after 5 years of uninterrupted and regular residence for Spanish (and EU-15) citizens.</li>
+                    <li><strong>Advantages:</strong> Same rights as the Swiss (except voting), you can open your company freely and taxes are no longer withheld at source (Quellensteuer), but through a normal annual declaration.</li>
+                </ul>
 
-<div class="callout info"> 
-<strong>Official Source:</strong> Check the renewal conditions on the portal of the <a href="https://www.sem.admin.ch/sem/es/home/themen/aufenthalt.html" target="_blank">State Secretariat for Migration</a>. 
-</div> 
-</div>`
+                <div class="callout info">
+                    <strong>Official Source:</strong> Check the renewal conditions on the portal of the <a href="https://www.sem.admin.ch/" target="_blank">State Secretariat for Migration</a>.
+                </div>
+            </div>
+        `
     },
 
     "articulo-mudarse-suiza": {
         title: "Moving to Switzerland from Spain: step-by-step guide",
         description: "A practical checklist for Spaniards planning to move to Switzerland: jobs, registration, permits, insurance, housing and budget.",
         keywords: "move to switzerland from spain, living in switzerland as a spaniard, how to move to switzerland",
-        audience: "newcomer",
-        featuredImage: "media/guides/mudarse-a-suiza-desde-espana.jpg",
-        category: "Ordinary Procedures",
-        hub: "tramites",
-        slug: "mudarse-a-suiza-desde-espana",
+        category: 'Ordinary Procedures',
+        hub: 'tramites',
+        slug: "moving-to-switzerland-from-spain",
         readingTime: 5,
+        featuredImage: "media/guides/mudarse-a-suiza-desde-espana.jpg",
+        imageAlt: "A person with a suitcase looking at a Swiss landscape, representing the migratory project from Spain",
         summary: "Short, practical steps to move to Switzerland from Spain with links to the key pages.",
-        content: `<div class="article-content">
-<p>Many Spaniards want to live or work in Switzerland because of salaries, stability and opportunities. This page summarizes the <strong>main steps</strong> to get settled, with short blocks and direct links.</p>
+        content: `
+            <div class="article-content">
+                <p>Many Spaniards want to live or work in Switzerland because of salaries, stability and opportunities. This page summarizes the <strong>main steps</strong> to get settled, with short blocks and direct links.</p>
 
-<h2>1) Before you come to Switzerland</h2>
-<ul>
-<li><strong>Job search</strong> and understand the market by canton/language.</li>
-<li>Prepare a <strong>Swiss-style CV</strong> (complete application dossier).</li>
-<li>Check the <a href="#/cost-of-living-in-switzerland">cost of living</a> and adjust expectations.</li>
-<li>Have some <strong>savings</strong> for the first months (rent, insurance, admin fees).</li>
-</ul>
-<div class="callout info">
-<strong>Practical tip</strong>
-<p>Many employers prefer candidates who are already in Switzerland or who can travel easily for an interview.</p>
-</div>
+                <h2>1) Before you come to Switzerland</h2>
+                <ul>
+                    <li><strong>Job search</strong> and understand the market by canton/language.</li>
+                    <li>Prepare a <strong>Swiss-style CV</strong> (complete application dossier).</li>
+                    <li>Check the <a href="#/cost-of-living-in-switzerland">cost of living</a> and adjust expectations.</li>
+                    <li>Have some <strong>savings</strong> for the first months (rent, insurance, admin fees).</li>
+                </ul>
+                <div class="callout info">
+                    <strong>Practical tip</strong>
+                    <p>Many employers prefer candidates who are already in Switzerland or who can travel easily for an interview.</p>
+                </div>
 
-<h2>2) Arriving in Switzerland</h2>
-<ul>
-<li>Find <strong>temporary accommodation</strong> so you can register.</li>
-<li>Register at your commune: <a href="#/registering-in-switzerland-commune">commune registration</a>.</li>
-<li>Apply for the <a href="#/residence-permits-switzerland">residence permit</a> that matches your situation.</li>
-</ul>
+                <h2>2) Arriving in Switzerland</h2>
+                <ul>
+                    <li>Find <strong>temporary accommodation</strong> so you can register.</li>
+                    <li>Register at your commune: <a href="#/registering-in-switzerland-commune">commune registration</a>.</li>
+                    <li>Apply for the <a href="#/residence-permits-switzerland">residence permit</a> that matches your situation.</li>
+                </ul>
 
-<h2>3) Health insurance</h2>
-<ul>
-<li>Health insurance is <strong>mandatory</strong>.</li>
-<li>You must arrange it within the <strong>first 3 months</strong> (often retroactive).</li>
-<li>You choose your insurer: compare and decide.</li>
-</ul>
-<p>Guide: <a href="#/health-insurance-switzerland-lamal">Health insurance (LAMal)</a>.</p>
+                <h2>3) Health insurance</h2>
+                <ul>
+                    <li>Health insurance is <strong>mandatory</strong>.</li>
+                    <li>You must arrange it within the <strong>first 3 months</strong> (often retroactive).</li>
+                    <li>You choose your insurer: compare and decide.</li>
+                </ul>
+                <p>Guide: <a href="#/health-insurance-switzerland-lamal">Health insurance (LAMal)</a>.</p>
 
-<h2>4) Finding a job</h2>
-<p>Where to search and how to apply: <a href="#/job-searching-platforms-and-strategies">Job searching in Switzerland</a>.</p>
-<h3>Main portals</h3>
-<ul>
-<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
-<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
-<li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
-<li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a></li>
-</ul>
-<div class="callout info">
-<strong>Practical tip</strong>
-<p>In Switzerland it’s often more effective to search in the local language (German, French or Italian).</p>
-<p><strong>Google example:</strong> <code>Glaser Arbeit Zürich</code></p>
-</div>
+                <h2>4) Finding a job</h2>
+                <p>Where to search and how to apply: <a href="#/job-searching-platforms-and-strategies">Job searching in Switzerland</a>.</p>
+                <h3>Main portals</h3>
+                <ul>
+                    <li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+                    <li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+                    <li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+                    <li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a></li>
+                </ul>
+                <div class="callout info">
+                    <strong>Practical tip</strong>
+                    <p>In Switzerland it’s often more effective to search in the local language (German, French or Italian).</p>
+                    <p><strong>Google example:</strong> <code>Glaser Arbeit Zürich</code></p>
+                </div>
 
-<h2>5) Housing</h2>
-<ul>
-<li>You’ll need <strong>documents</strong> (ID, payslips/contract, etc.).</li>
-<li>A strong <strong>rental dossier</strong> matters a lot and competition is high.</li>
-<li>With an <strong>L permit</strong> it can be harder to rent through an agency.</li>
-</ul>
-<p>Guide: <a href="#/renting-apartment-switzerland">Renting in Switzerland</a>.</p>
+                <h2>5) Housing</h2>
+                <ul>
+                    <li>You’ll need <strong>documents</strong> (ID, payslips/contract, etc.).</li>
+                    <li>A strong <strong>rental dossier</strong> matters a lot and competition is high.</li>
+                    <li>With an <strong>L permit</strong> it can be harder to rent through an agency.</li>
+                </ul>
+                <p>Guide: <a href="#/renting-apartment-switzerland">Renting in Switzerland</a>.</p>
 
-<h2>6) Cost of living</h2>
-<p>Costs vary by canton (and by city). As a quick reference:</p>
-<table class="info-table">
-<thead><tr><th>Expense</th><th>Indicative range</th><th>Notes</th></tr></thead>
-<tbody>
-<tr><td><strong>Rent</strong></td><td>1,500 – 2,200 CHF</td><td>Higher in Geneva/Zurich; depends on area and size</td></tr>
-<tr><td><strong>Health insurance</strong></td><td>350 – 450 CHF</td><td>Varies by canton/age/model/deductible</td></tr>
-<tr><td><strong>Food</strong></td><td>400 – 600 CHF</td><td>Retailers and personal habits matter</td></tr>
-<tr><td><strong>Transport</strong></td><td>70 – 150 CHF</td><td>Depends on city passes; intercity trains increase costs</td></tr>
-</tbody>
-</table>
-<p>More detail: <a href="#/cost-of-living-in-switzerland">Cost of living in Switzerland</a>.</p>
+                <h2>6) Cost of living</h2>
+                <p>Costs vary by canton (and by city). As a quick reference:</p>
+                <table class="info-table">
+                    <thead><tr><th>Expense</th><th>Indicative range</th><th>Notes</th></tr></thead>
+                    <tbody>
+                        <tr><td><strong>Rent</strong></td><td>1,500 – 2,200 CHF</td><td>Higher in Geneva/Zurich; depends on area and size</td></tr>
+                        <tr><td><strong>Health insurance</strong></td><td>350 – 450 CHF</td><td>Varies by canton/age/model/deductible</td></tr>
+                        <tr><td><strong>Food</strong></td><td>400 – 600 CHF</td><td>Retailers and personal habits matter</td></tr>
+                        <tr><td><strong>Transport</strong></td><td>70 – 150 CHF</td><td>Depends on city passes; intercity trains increase costs</td></tr>
+                    </tbody>
+                </table>
+                <p>More detail: <a href="#/cost-of-living-in-switzerland">Cost of living in Switzerland</a>.</p>
 
-<div class="callout info">
-<strong>Final tip</strong>
-<p>Moving to Switzerland takes planning, but with the right information the process becomes much easier.</p>
-</div>
+                <div class="callout info">
+                    <strong>Final tip</strong>
+                    <p>Moving to Switzerland takes planning, but with the right information the process becomes much easier.</p>
+                </div>
 
-<h3>Useful links</h3>
-<ul>
-<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
-<li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
-<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
-<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
-</ul>
-</div>`
+                <h3>Useful links</h3>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+                    <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
+                </ul>
+            </div>
+        `
     },
 
     // 2. Registro en la comuna
@@ -172,139 +176,173 @@ The following table summarizes their main characteristics. If you’re planning 
         title: "How to register upon arrival in Switzerland",
         description: "Everything about the process of registering at the commune (Einwohnerkontrolle) after your arrival in Switzerland.",
         keywords: "registering in switzerland, commune registration, einwohnerkontrolle, residence permit application",
-        featuredImage: "media/guides/registrarse-en-suiza.jpg",
-        category: "Initial Steps",
-        hub: "tramites",
+        category: 'Initial Steps',
+        hub: 'tramites',
+        slug: "registering-in-switzerland-commune",
         readingTime: 3,
+        featuredImage: "media/guides/registrarse-en-suiza.jpg",
+        imageAlt: "The entrance to a Swiss Swiss commune office (Contrôle des habitants) with the Swiss flag",
         summary: "If you move to Switzerland to live, you usually must register with your commune quickly (often within 14 days). The registration confirmation is typically enough to start working while the physical permit card is produced.",
-        content: `<div class="article-content">
-<h2>Introduction</h2>
-<p>Registering with your commune (<i>Contrôle des habitants / Einwohnerkontrolle</i>) is the step that <strong>formalizes your residence</strong> in Switzerland. It triggers the administrative chain: residence permit processing, health insurance, taxes, schooling, and more.</p>
-<p>Key clarification: <strong>not everyone who enters Switzerland must register</strong>. This guide is for people who <strong>move to Switzerland to live</strong> (work, studies, family).</p>
+        content: `
+            <div class="article-content">
+                <p>Registering with your commune (<i>Contrôle des habitants / Einwohnerkontrolle</i>) is the step that <strong>formalizes your residence</strong> in Switzerland. It triggers the administrative chain: residence permit processing, health insurance, taxes, schooling, and more.</p>
 
-<h2>How the system works</h2>
-<ol>
-<li>Identify your commune office and check whether an appointment is required.</li>
-<li>Bring the requested documents and declare your address (even if temporary).</li>
-<li>Pay the administrative fee and receive a <strong>registration confirmation</strong> (varies by canton/commune).</li>
-<li>Your file is forwarded to the cantonal migration authority; the <strong>permit card</strong> arrives later by post.</li>
-</ol>
-<div class="callout warning">
-<strong>Deadlines:</strong> many communes require registration within <strong>14 days</strong> (sometimes less) and usually <strong>before starting work</strong>. Rules vary by canton and commune—always confirm locally.
-</div>
+                <h2>How the system works</h2>
+                <ol>
+                    <li>Identify your commune office and check whether an appointment is required.</li>
+                    <li>Bring the requested documents and declare your address (even if temporary).</li>
+                    <li>Pay the administrative fee and receive a <strong>registration confirmation</strong> (varies by canton/commune).</li>
+                    <li>Your file is forwarded to the cantonal migration authority; the <strong>permit card</strong> arrives later by post.</li>
+                </ol>
+                <div class="callout warning">
+                    <strong>Deadlines:</strong> many communes require registration within <strong>14 days</strong> (sometimes less) and usually <strong>before starting work</strong>. Rules vary by canton and commune—always confirm locally.
+                </div>
 
-<h2>Requirements and rules</h2>
-<h3>Who needs to register (and who usually doesn’t)</h3>
-<ul>
-<li><strong>Tourist / short stay (e.g., up to 90 days):</strong> typically <strong>no commune registration</strong> as a resident.</li>
-<li><strong>Moving to reside (job, studies, family):</strong> yes—registration is normally required within the local deadline.</li>
-<li><strong>EU/EFTA job seeker:</strong> you may stay for a limited time while looking for work; if you settle and/or stay beyond the allowed period, you must regularize your status following cantonal rules.</li>
-<li><strong>Cross-border worker (G permit):</strong> you live outside Switzerland and work in Switzerland; this is not the same as resident registration, but there are specific steps via your employer/canton.</li>
-</ul>
+                <h2>Requirements and rules</h2>
+                <h3>Who needs to register?</h3>
+                <ul>
+                    <li><strong>Moving to reside (job, studies, family):</strong> Yes—registration is normally required within the local deadline.</li>
+                    <li><strong>Short stay (up to 90 days):</strong> Typically as a tourist, no resident registration is needed.</li>
+                </ul>
 
-<h3>Common documents</h3>
-<ul>
-<li>Passport/ID.</li>
-<li>Proof of purpose: employment contract, enrolment/admission, or proof of sufficient means (depending on your situation).</li>
-<li>Lease agreement or accommodation confirmation.</li>
-<li>Passport photo (or taken on site, depending on commune).</li>
-<li>Civil status/family documents if relevant.</li>
-</ul>
+                <h3>Common documents</h3>
+                <ul>
+                    <li>Passport or ID card.</li>
+                    <li>Employment contract or proof of sufficient financial means.</li>
+                    <li>Lease agreement or accommodation confirmation (logement).</li>
+                    <li>Civil status documents (for families).</li>
+                </ul>
 
-<h2>Concrete examples</h2>
-<h3>Example 1 — You arrive with a job and temporary housing</h3>
-<p>You register using your employment contract and a temporary address, get a confirmation, and update your address later once you sign a permanent lease.</p>
-<h3>Example 2 — Student arrival</h3>
-<p>You present proof of enrolment and the required financial/insurance evidence (varies by canton).</p>
-<h3>Example 3 — Cross-border worker</h3>
-<p>Your steps depend on the canton and employer process; don’t treat it as “a B permit while living abroad”.</p>
+                <h2>Practical advice</h2>
+                <ul>
+                    <li>Check your commune website for the exact list of documents and fees.</li>
+                    <li>After registration, prioritize <a href="#/health-insurance-switzerland-lamal">LAMal</a> and your bank account setup.</li>
+                </ul>
 
-<h2>Common mistakes</h2>
-<ul>
-<li>Mixing up “entering Switzerland” with “moving to reside”.</li>
-<li>Waiting for a permanent apartment and missing the deadline.</li>
-<li>Not booking an appointment early in busy communes.</li>
-<li>Forgetting to update your address when you move.</li>
-</ul>
-
-<h2>Practical advice</h2>
-<ul>
-<li>Check your commune website for the exact list of documents and fees.</li>
-<li>Bring both printed copies and a PDF folder.</li>
-<li>After registration, prioritize <a href="#/health-insurance-switzerland-lamal">LAMal</a> and your bank account setup.</li>
-</ul>
-
-<h2>Official Swiss sources</h2>
-<ul>
-<li><a href="https://www.ch.ch/en/foreign-nationals-in-switzerland/living-in-switzerland/" target="_blank" rel="noopener noreferrer">ch.ch — Living in Switzerland</a></li>
-<li><a href="https://www.sem.admin.ch/sem/en/home/themen/aufenthalt.html" target="_blank" rel="noopener noreferrer">SEM — Residence</a></li>
-</ul>
-</div>`
+                <h2>Official Swiss sources</h2>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Living in Switzerland</a></li>
+                    <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">SEM — Residence</a></li>
+                </ul>
+            </div>
+        `
     },
 
     // 3. Seguro de salud (LAMal)
     "articulo-lamal": {
-        title: "Health insurance in Switzerland (LAMal)",
-        description: "Health insurance is mandatory in Switzerland. Discover how LAMal (basic insurance) works, deadlines, and costs.",
-        keywords: "health insurance switzerland, LAMal, KVG, swiss health insurance",
+        title: "Health insurance in Switzerland (LAMal): A practical guide",
+        description: "Everything you need to know about the mandatory Swiss health insurance (LAMal): coverage, models, deadlines, and how to save on premiums.",
+        keywords: "health insurance switzerland, LAMal, KVG, swiss health insurance, premium reduction, HMO model",
+        audience: 'resident',
         featuredImage: "media/guides/seguro-medico-lamal-suiza.jpg",
+        imageAlt: "A Swiss health insurance card and a stethoscope, representing the LAMal system",
         category: "Health Insurance",
         hub: "salud",
-        readingTime: 5,
-        summary: "LAMal is mandatory and private. You have 3 months to arrange it.",
-        content: `<div class="article-content"> 
-<p>Unlike Spain, in Switzerland there is no Social Security system that directly covers general health care. Health is private, but regulated compulsorily by the Federal Health Insurance Act, known as <strong>LAMal</strong> (KVG in German).</p> 
+        slug: "health-insurance-switzerland-lamal",
+        readingTime: 6,
+        summary: "Health insurance in Switzerland is mandatory, private, and individual. You have three months to enroll after your arrival, and coverage is retroactive.",
+        content: `
+            <div class="article-content">
+                <p>Unlike many other European countries, Switzerland does not have a state-run healthcare system funded by social security taxes. Instead, every resident is required to purchase insurance from private insurers under the Federal Health Insurance Act (<strong>LAMal</strong> or <strong>KVG</strong>).</p>
 
-<h2>Obligation and Deadlines</h2> 
-<p>Every person residing in Switzerland must take out basic health insurance (LAMal) within a maximum period of <strong>3 months</strong> from their arrival or registration date. The insurance will have retroactive effect; You will pay the premiums from the first day you set foot in the country.</p> 
+                <h2>Obligation and Deadlines</h2>
+                <p>Every person residing in Switzerland must take out basic health insurance within <strong>three months</strong> of their official registration. The insurance coverage is retroactive to your first day of residence, meaning you must pay premiums for those initial months even if you sign up later.</p>
 
-<h2>What does Basic Insurance (LAMal) cover?</h2> 
-<p>The basic insurance is identical by law in all insurers (Compensation Funds or <i>Caisses-maladie / Krankenkassen</i>). Covers:</p> 
-<ul> 
-<li>General and specialist medical consultations.</li> 
-<li>Medicines prescribed on the official list.</li> 
-<li>Hospital stays (general ward in your canton of residence).</li> 
-<li>Maternity expenses.</li> 
-</ul> 
+                <h2>What does Basic Insurance (LAMal) cover?</h2>
+                <p>The benefits covered by basic insurance are identical across all companies by law. They include:</p>
+                <ul>
+                    <li>General and specialist medical consultations.</li>
+                    <li>Medicines prescribed by a doctor (from the official list).</li>
+                    <li>Hospital treatment in the general ward of your canton of residence.</li>
+                    <li>Maternity costs (no deductible/copayment applied).</li>
+                </ul>
 
-<h2>What does basic insurance NOT cover?</h2> 
-<p>Generally, basic insurance <strong>does not cover routine dental care (dentist visits are paid out of pocket unless you take out supplemental LCA insurance), glasses or hospitalization in a private room.</p> 
+                <h2>What is NOT covered?</h2>
+                <p>Basic insurance generally does <strong>not</strong> cover:</p>
+                <ul>
+                    <li>Routine dental care (check-ups, cleanings, fillings).</li>
+                    <li>Glasses or contact lenses (with minor exceptions for children).</li>
+                    <li>Hospitalization in private or semi-private rooms.</li>
+                </ul>
 
-<h2>How to choose an insurance company?</h2> 
-<p>Although LAMal coverage is identical, monthly premiums vary substantially between companies and depending on your place of residence. You can compare the official offers at <a href="https://www.priminfo.admin.ch/" target="_blank">Priminfo</a> (Confederation site).</p> 
-</div>`
+                <h2>Insurance Models: How to save on premiums</h2>
+                <p>While coverage is the same, you can choose a specific "model" to reduce your monthly cost:</p>
+                <ul>
+                    <li><strong>HMO Model:</strong> You agree to always visit a specific group health center first. It offers the highest discount.</li>
+                    <li><strong>Telmed:</strong> You must call a medical hotline for a first consultation before visiting a doctor.</li>
+                    <li><strong>Family Doctor:</strong> You must always consult your assigned primary care physician first.</li>
+                    <li><strong>Standard (Free Choice):</strong> You can go directly to any specialist, but it is the most expensive option.</li>
+                </ul>
+
+                <h2>How medical bills are paid</h2>
+                <p>There are two main systems for processing payments:</p>
+                <ul>
+                    <li><strong>Tiers-garant:</strong> You pay the bill or pharmacy first and send the receipt to your insurer for reimbursement.</li>
+                    <li><strong>Tiers-payant:</strong> The bill is sent directly from the provider to the insurer, who then bills you for your share (deductible/copayment).</li>
+                </ul>
+
+                <h2>Subsidies and Premium Reduction (Subsides)</h2>
+                <div class="callout info">
+                    <strong>Financial help:</strong> If your income is below a certain threshold, you are entitled to a <strong>premium reduction (Subsidies / Subsides)</strong> paid for by your canton. This can cover a significant portion of your monthly premium. You usually need to apply through the cantonal health office (SASP, OVAM, etc.).
+                </div>
+            </div>
+        `
     },
 
     // 4. Franquicia y copago en el sistema de salud
     "articulo-franquicia": {
-        title: "Franchise and Copayment in the Swiss health system",
-        description: "Explicación detallada de la franquicia y el copago en los seguros médicos suizos (LAMal).",
-        keywords: "franquicia LAMal, copago suiza, quote-part, seguro medico",
+        title: "Deductibles and cost-sharing in the Swiss health system",
+        description: "A detailed explanation of deductibles (franchise) and co-payments (quote-part) in Swiss health insurance (LAMal).",
+        keywords: "health insurance deductible switzerland, franchise, quote-part, selbstbehalt, medical costs switzerland",
         audience: 'resident',
         featuredImage: "media/guides/franquicia-seguro-medico-suiza.jpg",
+        imageAlt: "A conceptual illustration of savings and healthcare costs in Switzerland",
         category: `Medical Costs`,
         hub: 'salud',
+        slug: "deductibles-cost-sharing-switzerland",
         readingTime: 4,
-        summary: `Why health insurance can become very expensive if you don\'t choose your basic franchise correctly (300 CHF vs 2500 CHF).`,
-        content: `<div class="article-content"> 
-<p>Even after paying your monthly basic insurance premiums (LAMal), you are responsible for a portion of the medical expenses generated. These expenses are divided into Excess and Part Fee (Copayment).</p> 
+        summary: "In Switzerland, you pay 100% of your initial medical costs until you meet your chosen deductible. After that, you pay a 10% co-payment up to an annual limit.",
+        content: `
+            <div class="article-content">
+                <h2>Introduction</h2>
+                <p>Even after paying your monthly premium, you must personally contribute to the cost of most medical services. Your annual out-of-pocket contribution consists of three elements: the deductible (Franchise), the co-payment (Quote-part / Selbstbehalt), and the hospital contribution.</p>
 
-<h2>The Franchise (Franchise)</h2> 
-<p>The deductible is the annual amount that you must pay entirely out of your own pocket for medical visits and medications before the insurance begins to reimburse.</p> 
-<ul> 
-<li>The legal minimum for adults is <strong>300 CHF</strong>.</li> 
-<li>The maximum for adults is <strong>2,500 CHF</strong>.</li> 
-<li>If you choose a low deductible (300 CHF), your monthly premium will be high. If you choose the highest one (2,500 CHF), you will pay less each month for insurance, in the hope of not getting sick.</li> 
-</ul> 
-<p><em>Statistical tip:</em> It is not usually profitable to take intermediate franchises. Generally, you opt for 300 (if you think you will have a lot of expenses) or 2500 (if you are very healthy).</p> 
+                <h2>1) The Deductible (Franchise)</h2>
+                <p>The deductible is the fixed annual amount you must pay entirely by yourself before the insurance begins to cover any costs. It is an "excess" amount that resets every calendar year.</p>
+                <ul>
+                    <li><strong>Adults:</strong> You can choose between several levels: 300, 500, 1000, 1500, 2000, or 2500 CHF per year.</li>
+                    <li><strong>Children:</strong> Usually 0 CHF, but can be increased up to 600 CHF to lower the premium.</li>
+                    <li><strong>The Rule:</strong> The higher your chosen deductible, the lower your monthly premium will be.</li>
+                </ul>
 
-<h2>Copayment (Quote-part / Selbstbehalt)</h2> 
-<p>Once you exhaust your deductible (for example, you have already spent CHF 2,500 on doctors), the insurance covers the costs, but you must pay <strong>10% of the remaining amount</strong>. This is the co-payment.</p> 
-<p>Fortunately, this 10% is capped annually at <strong>700 CHF</strong> for adults (350 CHF for children).</p> 
+                <h2>2) The Co-payment (Quote-part / Selbstbehalt)</h2>
+                <p>Once you have met your deductible (i.e., you have already paid the chosen amount out of pocket), the insurance starts covering your medical bills. However, you must still pay <strong>10%</strong> of every bill above the deductible.</p>
+                <p>This 10% co-payment is <strong>capped annually</strong>:</p>
+                <ul>
+                    <li><strong>Adults:</strong> Maximum 700 CHF per year.</li>
+                    <li><strong>Children:</strong> Maximum 350 CHF per year.</li>
+                </ul>
+                <p>Once you hit this cap, your insurance covers 100% of further medical costs for the rest of the year.</p>
 
-<h2>Hospital Expenses</h2> 
-<p>If you are hospitalized, you will have an additional fixed charge of CHF 15 per day of hospitalization (contribution to living expenses), applicable regardless of the deductible or co-payment.</p> 
-</div>`
+                <h2>3) Hospital Contribution</h2>
+                <p>In case of hospitalization, adults must pay a fixed contribution of <strong>15 CHF per day</strong>, with no time limit. This amount is separate from the deductible and co-payment (with some exceptions, such as for maternity care).</p>
+
+                <h2>Maximum Annual Costs (Worst-case Scenario)</h2>
+                <p>If you have high medical needs or a serious accident during the year, the maximum you would pay out of pocket (besides premiums) is:</p>
+                <div class="callout">
+                    <strong>Adult with 2500 Franchise:</strong> 2500 (Franchise) + 700 (10% max) = <strong>3200 CHF/year</strong> (+ premiums + hospital).<br>
+                    <strong>Adult with 300 Franchise:</strong> 300 (Franchise) + 700 (10% max) = <strong>1000 CHF/year</strong> (+ premiums + hospital).
+                </div>
+
+                <h2>Which deductible should you choose?</h2>
+                <p>Statistically and financially, it usually only makes sense to choose one of the two extremes:</p>
+                <ul>
+                    <li><strong>2500 Franchise:</strong> If you are healthy, rarely visit the doctor, and have enough savings to cover the 3,200 CHF in case of an emergency. This option offers the most savings in the long run due to the low monthly premium.</li>
+                    <li><strong>300 Franchise:</strong> If you visit the doctor frequently (expecting costs over 1,800–2,000 CHF/year) or if you lack immediate savings and prefer the peace of mind of high monthly premiums but low unexpected costs.</li>
+                    <li><strong>Intermediate Franchises:</strong> These are rarely mathematically advantageous compared to the two options above.</li>
+                </ul>
+            </div>
+        `
     },
 
     // 5. Impuestos en Suiza: federal, cantonal y comunal
@@ -365,32 +403,36 @@ The following table summarizes their main characteristics. If you’re planning 
 
     // 7. Seguros Sociales
     "articulo-seguros-sociales": {
-        title: "Social Security: AVS, LPP, and Unemployment",
-        description: "A comprehensive breakdown of the Swiss social security system: AHV, IV, LPP, and unemployment insurance.",
-        keywords: "social security switzerland, AHV, LPP, 3 pillars system, swiss pensions",
+        title: "Social security in Switzerland: AVS, AI, LPP and Unemployment Insurance",
+        description: "A comprehensive breakdown of the Swiss social security system: the three pillars (AVS/AI and LPP) and unemployment insurance.",
+        keywords: "social security switzerland, AHV, AVS, LPP, 3 pillars system switzerland, swiss pensions",
         audience: 'worker',
-        featuredImage: "media/guides/seguros-sociales-suiza.jpg",
-        category: `Work`,
+        category: 'Work',
         hub: 'trabajo',
+        slug: "social-security-pensions-switzerland",
         readingTime: 6,
-        summary: `The Swiss pension system is based on 3 pillars.`,
-        content: `<div class="article-content"> 
-<p>Part of the gross salary is obligatorily allocated to the social security system. Switzerland bases its old-age provision on a peculiar three-pillar model.</p> 
+        featuredImage: "media/guides/seguros-sociales-suiza.jpg",
+        imageAlt: "A conceptual illustration of the three pillars of the Swiss pension system (AVS, LPP, 3rd pillar)",
+        summary: "The Swiss pension system is built on 3 pillars: the AVS (state-run), the LPP (mandatory occupational pension), and the 3rd pillar (private savings).",
+        content: `
+            <div class="article-content">
+                <p>A portion of your gross salary is automatically deducted to fund the social security system. Switzerland bases its old-age provision on a unique <strong>three-pillar</strong> model.</p>
 
-<h2>1st Pillar: AVS and AI (Old Age and Survival Insurance, Disability Insurance)</h2> 
-<p>This is a state distribution fee, mandatory for all residents or workers. Its purpose is to guarantee the vital minimum in old age or in the event of death and disability.<br/> 
-<strong>Contribution:</strong> As a general rule, it is around 10.6% of your salary, but the employer assumes half (5.3%) and you the other half. It appears directly deducted from the payroll.</p> 
+                <h2>1st Pillar: AVS and AI (Old-Age and Survivors' Insurance, Disability Insurance)</h2>
+                <p>This is a state-run redistribution system mandatory for all residents and workers. Its goal is to guarantee a basic subsistence level in old age or in case of death or disability.<br/>
+                <strong>Contribution:</strong> Generally, it amounts to about 10.6% of your salary. The employer pays half (5.3%) and you pay the other half. It is deducted directly from your monthly payroll.</p>
 
-<h2>2nd Pillar: LPP or Pension Fund (Professional Welfare)</h2> 
-<p>Starting on January 1 after turning 17 (for risks) and 24 (for old-age savings), and as long as the salary exceeds a certain threshold, employees contribute to this private capitalization fund. 
-The objective is that, added to the first pillar, you maintain in retirement a standard of living close to your last working years. This money is yours and it accumulates in your individual account with returns. If you leave the country permanently outside of Europe, you can sometimes recover part of this fund.</p> 
+                <h2>2nd Pillar: LPP or Pension Fund (Occupational Pension)</h2>
+                <p>Starting from January 1st following your 17th birthday (for risk coverage) and 24th birthday (for retirement savings), if your salary exceeds a certain threshold, you contribute to this private capitalization fund.
+                The objective is that, combined with the first pillar, you can maintain a standard of living close to what you had during your working years. This money belongs to you and accumulates in an individual account with interest. If you leave Switzerland permanently to move outside of Europe, you may sometimes be able to reclaim part of these funds.</p>
 
-<h2>Unemployment Insurance (ALV/AC - Unemployment)</h2> 
-<p>Contribution to unemployment insurance is also mandatory (half paid by the employee and half by the employer). If you unfortunately lose your job after having contributed at least 12 months, this organization will pay around 70% or 80% (if you have children) of your last salary, subject to your active and demonstrated effort in searching for a new job.</p> 
+                <h2>Unemployment Insurance (ALV/AC)</h2>
+                <p>Contributions to unemployment insurance are also mandatory (half paid by the employee and half by the employer). If you lose your job after having contributed for at least 12 months, this system will pay approximately 70% or 80% (if you have children) of your last insured salary, provided you can demonstrate active efforts to find new employment.</p>
 
-<h2>General summary:</h2> 
-<p>When your contract arrives with a gross number per month, the net salary is received after deducting the AVS/AI, the professional pension, unemployment insurance and (in many cases) the tax at source.</p> 
-</div>`
+                <h2>General Summary:</h2>
+                <p>When you receive an employment contract with a gross monthly figure, your net salary is what remains after deducting AVS/AI, the occupational pension (LPP), unemployment insurance, and (in many cases) withholding tax at source.</p>
+            </div>
+        `
     },
 
     // 7b. RAV / unemployment
@@ -436,28 +478,31 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         title: "Salaries in Switzerland by sector and region",
         description: "Explore average salaries in Switzerland by sector and region, and use the official Salarium calculator.",
         keywords: "salaries switzerland, average wage switzerland, salarium, minimum wage geneva",
-        featuredImage: "media/guides/salarios-sueldo-suiza.jpg",
-        category: `Job Market`,
+        category: 'Job Market',
         hub: 'trabajo',
+        slug: "salaries-in-switzerland-by-sector",
         readingTime: 5,
-        summary: `Switzerland has high salaries but living costs to match.`,
-        
-        content: `<div class="article-content"> 
-<p>Salaries in Switzerland are among the highest in the world, but so is the cost of living. It is crucial to understand that your real purchasing power will depend on what you earn against the fixed expenses of your canton.</p> 
+        featuredImage: "media/guides/salarios-sueldo-suiza.jpg",
+        imageAlt: "A financial graph showing Swiss salary growth compared to other European countries",
+        summary: "Switzerland has high salaries but living costs to match. It is crucial to understand that your real purchasing power will depend on what you earn against the fixed expenses of your canton.",
+        content: `
+            <div class="article-content">
+                <p>Salaries in Switzerland are among the highest in the world, but so is the cost of living. It is crucial to understand that your real purchasing power will depend on what you earn against the fixed expenses of your canton.</p>
 
-<h2>Is there a legal minimum wage in Switzerland?</h2> 
-<p>At the federal level <strong>there is no</strong> interprofessional minimum wage. However, some cantons have introduced their own minimum hourly wages. For example, Geneva or Neuchâtel have legal minimum wages of around CHF 23-24 per hour (about CHF 4,000 gross per month full-time).</p> 
+                <h2>Is there a legal minimum wage in Switzerland?</h2>
+                <p>At the federal level <strong>there is no</strong> interprofessional minimum wage. However, some cantons have introduced their own minimum hourly wages. For example, Geneva or Neuchâtel have legal minimum wages of around CHF 23-24 per hour (about CHF 4,100 gross per month full-time).</p>
 
-<h2>The Salarium calculator</h2> 
-<p>If you want to know if a job offer is fair for your sector, experience, age and canton, the most reliable tool is the <strong>Salarium</strong>, an official statistical calculator maintained by the Federal Statistical Office (OFS).</p> 
+                <h2>The Salarium calculator</h2>
+                <p>If you want to know if a job offer is fair for your sector, experience, age and canton, the most reliable tool is the <strong>Salarium</strong>, an official statistical calculator maintained by the Federal Statistical Office (OFS).</p>
 
-<div class="callout info"> 
-<strong>Useful link:</strong> <a href="https://www.bfs.admin.ch/bfs/es/home/statistics/labor-remuneration/salaries-income-cost-work/salary-level-switzerland/salarium.html" target="_blank">Salary Salary Calculator</a> 
-</div> 
+                <div class="callout info">
+                    <strong>Useful link:</strong> <a href="https://www.bfs.admin.ch/bfs/en/home/statistics/work-income/wages-income-employment-costs/wage-levels-switzerland/salarium.html" target="_blank">Salarium - Salary Calculator</a>
+                </div>
 
-<h2>Collective Agreements (CCT)</h2> 
-<p>Many sectors (hospitality, construction, hairdressing) are governed by Collective Labor Contracts (CCT / GAV). These contracts establish mandatory minimum wages, number of vacation days and payment of overtime, offering solid protection to the worker.</p> 
-</div>`
+                <h2>Collective Agreements (CCT)</h2>
+                <p>Many sectors (hospitality, construction, hairdressing) are governed by Collective Labor Contracts (CCT / GAV). These contracts establish mandatory minimum wages, number of vacation days and payment of overtime, offering solid protection to the worker.</p>
+            </div>
+        `
     },
 
     // 9. Contratos de trabajo
@@ -465,200 +510,255 @@ The objective is that, added to the first pillar, you maintain in retirement a s
         title: "Employment contracts in Switzerland: rights & obligations",
         description: "Everything you need to know about Swiss employment contracts, rights, and legal holidays.",
         keywords: "employment contract switzerland, worker rights switzerland, holiday allowance switzerland, code of obligations",
-        featuredImage: "media/guides/contratos-de-trabajo-suiza.jpg",
-        category: `Contracts`,
+        category: 'Contracts',
         hub: 'trabajo',
+        slug: "employment-contracts-switzerland-rights",
         readingTime: 4,
-        summary: `The labor market is very liberal, with flexible termination periods.`,
-        
-        content: `<div class="article-content"> 
-<p>The Swiss labor market is very flexible and conditions are fundamentally governed by the Code of Obligations (CO) and Collective Labor Agreements (CCT).</p> 
+        featuredImage: "media/guides/contratos-de-trabajo-suiza.jpg",
+        imageAlt: "A formal Swiss employment contract on a wooden table with a fountain pen",
+        summary: "The Swiss labor market is very flexible and conditions are fundamentally governed by the Code of Obligations (CO) and Collective Labor Agreements (CCT).",
+        content: `
+            <div class="article-content">
+                <p>The Swiss labor market is very flexible and conditions are fundamentally governed by the Code of Obligations (CO) and Collective Labor Agreements (CCT).</p>
 
-<h2>Types of contract</h2> 
-<ul> 
-<li><strong>Indefinite Contract (CDI):</strong> The most common. It has no end date and allows the employer or employee to terminate it, always respecting the agreed or legal notice period.</li> 
-<li><strong>Definite Duration Contract (CDD):</strong> It is signed for a specific duration (e.g. winter season, maternity replacement).</li> 
-<li><strong>Temporary Work:</strong> Through agencies (Adecco, Manpower...), subject to specific rules on contributions and very flexible notice.</li> 
-</ul> 
+                <h2>Types of contract</h2>
+                <ul>
+                    <li><strong>Indefinite Contract (CDI):</strong> The most common. It has no end date and allows the employer or employee to terminate it, always respecting the agreed or legal notice period.</li>
+                    <li><strong>Fixed-Term Contract (CDD):</strong> It is signed for a specific duration (e.g., winter season, maternity replacement).</li>
+                    <li><strong>Temporary Work:</strong> Through agencies (Adecco, Manpower...), subject to specific rules on contributions and very flexible notice.</li>
+                </ul>
 
-<h2>Day and Vacation</h2> 
-<p>By law, every worker in Switzerland is entitled to a <strong>minimum of 4 weeks</strong> of paid vacation per year (5 weeks if under 20 years of age). The "full-time" working day usually ranges between 40 and 45 hours per week.</p> 
+                <h2>Working Hours and Vacation</h2>
+                <p>By law, every worker in Switzerland is entitled to a <strong>minimum of 4 weeks</strong> of paid vacation per year (5 weeks if under 20 years of age). The "full-time" working day usually ranges between 40 and 45 hours per week.</p>
 
-<h2>Illness and Accidents</h2> 
-<p>Almost all large employers have insurance for loss of earnings in case of illness that ensures that you receive your salary while you recover. In addition, the employer compulsorily pays <strong>occupational accident insurance</strong>.</p> 
-</div>`
+                <h2>Illness and Accidents</h2>
+                <p>Almost all large employers have insurance for loss of earnings in case of illness that ensures you receive your salary while you recover. In addition, the employer compulsorily pays <strong>occupational accident insurance</strong>.</p>
+            </div>
+        `
     },
 
     // 10. Periodo de prueba
     "articulo-periodo-prueba": {
-        title: "Probationary period and notice periods",
+        title: "Probationary period and notice periods in Switzerland",
         description: "Understand your rights during the probationary period and standard notice periods in Switzerland.",
         keywords: "probation period switzerland, notice period switzerland, termination, labor law",
-        audience: 'worker',
-        featuredImage: "media/guides/periodo-prueba-preaviso-suiza.jpg",
-        category: `Work`,
+        category: 'Work',
         hub: 'trabajo',
+        slug: "probation-period-notice-switzerland",
         readingTime: 3,
-        summary: `The standard probation period is between 1 and 3 months.`,
-        content: `<div class="article-content"> 
-<h2>The Probation Period (Probezeit / Temps d'essai)</h2> 
-<p>The first month of a contract for an indefinite period is always considered a trial period by law, unless the contract specifies otherwise. This period may be extended in writing up to a maximum of three months.</p> 
-<p>During this time, both parties can cancel the contract with <strong>seven days' notice</strong> (calendar) and it is not necessary to provide further justification.</p> 
+        featuredImage: "media/guides/periodo-prueba-preaviso-suiza.jpg",
+        imageAlt: "A clock and a calendar next to an employment contract, symbolizing the expiration of the notice period in Switzerland",
+        summary: "The standard probation period is between 1 and 3 months. During this time, either party can terminate the contract with a 7-day notice period.",
+        content: `
+            <div class="article-content">
+                <h2>The Probation Period (Probezeit / Temps d'essai)</h2>
+                <p>The first month of an indefinite contract is always considered a trial period by law, unless specified otherwise. This period may be extended in writing up to a <strong>maximum of three months</strong>.</p>
+                <p>During this time, both parties can cancel the contract with <strong>seven days' notice</strong> (calendar) and it is not necessary to provide further justification.</p>
 
-<h2>Notice Periods (Kündigungsfrist / Délai de congé)</h2> 
-<p>Once the trial period has passed, the legal deadlines or those agreed by written contract (or CCT) apply. According to the Code of Obligations, the general framework is:</p> 
-<ul> 
-<li><strong>1st year of service:</strong> 1 month (cancellation by the end of the month).</li> 
-<li><strong>From the 2nd to the 9th year of service:</strong> 2 months (cancellation by the end of the month).</li> 
-<li><strong>From the 10th year of service:</strong> 3 months (cancellation by the end of the month).</li> 
-</ul> 
+                <h2>Notice Periods (Kündigungsfrist / Délai de congé)</h2>
+                <p>Once the trial period has passed, legal deadlines or those agreed by written contract (or CCT) apply. According to the Code of Obligations, the general framework is:</p>
+                <ul>
+                    <li><strong>1st year of service:</strong> 1 month (notice for the end of the month).</li>
+                    <li><strong>2nd to 9th year:</strong> 2 months (notice for the end of the month).</li>
+                    <li><strong>From the 10th year:</strong> 3 months (notice for the end of the month).</li>
+                </ul>
 
-<div class="callout info"> 
-<strong>Important:</strong> The notice must always reach your boss BEFORE the last working day of the month so that the following month begins to count. 
-</div> 
-</div>`
+                <div class="callout info">
+                    <strong>Important:</strong> The notice must always reach your boss BEFORE the last working day of the month so that the following month begins to count.
+                </div>
+            </div>
+        `
     },
 
     // 11. Búsqueda de empleo
     "articulo-buscar-empleo": {
-        title: "Job searching: Platforms and Strategies",
+        title: "Job searching in Switzerland: Platforms and Strategies",
         description: "Where to find jobs in Switzerland, how to build a Swiss-style CV, and the most effective recruitment platforms.",
         keywords: "job search switzerland, swiss cv, jobup, jobs.ch, employment platforms",
-        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
-        category: `Applications`,
+        category: 'Applications',
         hub: 'trabajo',
+        slug: "job-search-switzerland-platforms",
         readingTime: 4,
-        summary: `A Swiss-style CV should include a photo and date of birth.`,
-        
-        content: `<div class="article-content"> 
-<p>Switzerland has a dynamic labor market, driven not only by large pharmaceutical companies, banks and watchmakers, but also by thousands of SMEs.</p> 
-<p>If you’re planning to relocate, see also <a href="#/mudarse-a-suiza-desde-espana">Moving to Switzerland from Spain: step-by-step guide</a>.</p>
+        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
+        imageAlt: "A person searching for jobs in Switzerland on a laptop in a cafe with a view of Zurich while reviewing their CV",
+        summary: "In Switzerland, a huge share of offers is published on local portals and in the language of the canton. Having a clear list of websites and adapting keywords often makes the difference.",
+        content: `
+            <div class="article-content">
+                <p>In Switzerland, a huge share of offers is published on local portals and in the language of the canton. Having a clear list of websites and adapting keywords often makes the difference.</p>
+                <p>If you're planning to relocate, see also <a href="#/mudarse-a-suiza-desde-espana">Moving to Switzerland from Spain: step-by-step guide</a>.</p>
 
-<h2>The Curriculum (Candidacy Dossier)</h2> 
-<p>The Swiss model is traditionally formal and complete. A Swiss standard dossier should include, if requested:</p> 
-<ul> 
-<li>Your CV (with professional photograph, birth information and residence permit if you have one).</li> 
-<li>A structured motivation letter in the language of the offer.</li> 
-<li>Copies of training diplomas.</li> 
-<li><strong>Previous work certificates</strong> (Arbeitszeugnis). They are very important in Switzerland; They are letters from your previous bosses qualitatively evaluating your skills in a standardized format.</li> 
-</ul> 
+                <h2>Main job portals in Switzerland</h2>
+                <ul>
+                    <li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
+                    <li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+                    <li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
+                    <li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a> (RAV portal)</li>
+                </ul>
 
-<h2>Main job portals in Switzerland</h2> 
-<ul> 
-<li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li> 
-<li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li> 
-<li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li> 
-<li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a> (RAV portal)</li> 
-</ul> 
+                <div class="callout info">
+                    <strong>Practical tip</strong>
+                    <p>In Switzerland it’s often more effective to search in the local language. Instead of searching in Spanish, try searching directly in German, French or Italian.</p>
+                    <p><strong>Google example:</strong> <code>Glaser Arbeit Zürich</code></p>
+                </div>
 
-<div class="callout info">
-<strong>Practical tip</strong>
-<p>In Switzerland it’s often more effective to search in the local language. Instead of searching in Spanish, try searching directly in German, French or Italian.</p>
-<p><strong>Google example:</strong> <code>Glaser Arbeit Zürich</code></p>
-</div>
-
-<h3>Useful links</h3>
-<ul>
-<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
-<li><a href="https://www.arbeit.swiss/" target="_blank" rel="noopener noreferrer">arbeit.swiss</a> (RAV / SECO)</li>
-</ul>
-</div>`
+                <h3>Useful links</h3>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
+                    <li><a href="https://www.arbeit.swiss/" target="_blank" rel="noopener noreferrer">arbeit.swiss</a> (RAV / SECO)</li>
+                </ul>
+            </div>
+        `
     },
 
     // 12. Alquiler de vivienda
     "articulo-alquiler": {
-        title: "Renting an apartment: the process",
-        description: "Guide to finding an apartment in Switzerland: required documents (debt extract), application dossier, and process.",
-        keywords: "renting apartment switzerland, swiss housing, rental dossier, regie",
+        title: "Renting an apartment in Switzerland: The process",
+        description: "A comprehensive guide to renting an apartment in Switzerland: the application dossier, requirements, and top search platforms.",
+        keywords: "renting apartment switzerland, swiss housing, rental dossier, regie, homegate, immoscout24",
+        audience: 'resident',
         featuredImage: "media/guides/alquilar-vivienda-suiza.jpg",
+        imageAlt: "A set of keys for a Swiss apartment on a lease agreement",
         category: `Rental Contract`,
         hub: 'vivienda',
+        slug: "renting-apartment-switzerland",
         readingTime: 5,
-        summary: `The rental market is competitive; you need a flawless application.`,
-        
-        content: `<div class="article-content"> 
-<p>Looking for accommodation in cities like Zurich, Geneva or Lausanne is notoriously difficult due to the lack of housing and the very high demand. Being quick and having a complete dossier is essential.</p> 
+        summary: "Finding accommodation in Swiss cities is highly competitive. A flawless, complete application dossier is mandatory to stand a chance.",
+        content: `
+            <div class="article-content">
+                <p>Finding an apartment in cities like Zurich, Geneva, or Lausanne is notoriously difficult due to low vacancy rates and extremely high demand. Speed and a professional dossier are essential to success.</p>
 
-<h2>The Tenant's Dossier</h2> 
-<p>It is not enough to have income; Real estate agencies (Régies / Verwaltungen) ask to verify solvency and background with exact documentation. Your application dossier, usually digital through portals such as <a href="https://www.homegate.ch/" target="_blank">Homegate</a> or <a href="https://www.immoscout24.ch/" target="_blank">ImmoScout24</a>, must include:</p> 
-<ul> 
-<li>Copy of ID / Passport and residence permit (or work contract that proves your imminent solvency).</li> 
-<li>Your last three monthly pay slips.</li> 
-<li><strong>Extract from the debt register (Betreibungsauszug / Extrait de l'Office des Poursuites)</strong>: Certificate, usually for the last 3 months, proving that you do not owe money in Switzerland. You can request it in your community or digitally.</li> 
-<li>Copy of Civil Liability insurance (<i>RC / Privathaftpflichtversicherung</i>) if requested in advance.</li> 
-</ul> 
+                <h2>The Rental Dossier: Your business card</h2>
+                <p>In Switzerland, real estate agencies (<i>Régies / Verwaltungen</i>) rarely meet tenants individually before selecting them. They decide based on your "Dossier"—a folder containing all your financial and legal credentials. If your dossier is incomplete, it will usually be discarded immediately.</p>
 
-<h2>Golden rule of income</h2> 
-<p>As a general standard of any Swiss agency, <strong>the gross monthly rent cannot represent more than one third (1/3) of the household's gross salary</strong>.</p> 
-</div>`
+                <h2>Essential Documents</h2>
+                <p>Your application dossier (usually submitted digitally via portals) must include:</p>
+                <ul>
+                    <li><strong>Copy of ID/Passport:</strong> And your residence permit (or a copy of your signed work contract if you are a newcomer).</li>
+                    <li><strong>Last three payslips:</strong> Or proof of income.</li>
+                    <li><strong>Extract from the Debt Register (<i>Extrait de l'Office des Poursuites / Betreibungsauszug</i>):</strong> A mandatory certificate—usually less than 3 months old—proving you have no outstanding legal debts in Switzerland.</li>
+                    <li><strong>Civil Liability Insurance (RC):</strong> Although sometimes requested later, having it ready shows you are a serious candidate.</li>
+                </ul>
+
+                <h2>The 1/3 Income Golden Rule</h2>
+                <div class="callout warning">
+                    <strong>Financial criteria:</strong> As a general rule, Swiss agencies will only accept candidates whose <strong>gross monthly rent does not exceed one-third (1/3) of their gross monthly household income</strong>. If the rent is higher, your application will almost certainly be rejected regardless of your savings.
+                </div>
+
+                <h2>Top Search Portals</h2>
+                <p>While there are many sites, most listings are centralized on these three platforms:</p>
+                <ul>
+                    <li><a href="https://www.homegate.ch/" target="_blank" rel="noopener noreferrer">Homegate.ch</a></li>
+                    <li><a href="https://www.immoscout24.ch/" target="_blank" rel="noopener noreferrer">ImmoScout24.ch</a></li>
+                    <li><a href="https://www.comparis.ch/immobilien" target="_blank" rel="noopener noreferrer">Comparis (Aggregator)</a></li>
+                </ul>
+
+                <h2>The role of Régies and Gérances</h2>
+                <p>Most Swiss housing is not managed by private individuals but by large professional companies called <strong>Régies</strong> (French) or <strong>Liegenschaftsverwaltungen</strong> (German). They handle everything from viewings to repairs. Communication is formal and usually conducted in the local language.</p>
+            </div>
+        `
     },
 
     // 13. Fianzas de alquiler
     "articulo-fianzas": {
-        title: "Rental deposits and tenant rights",
-        description: "How rental guarantees (SwissCaution) work, security deposits, and tenant rights with ASLOCA.",
-        keywords: "rental deposit switzerland, swisscaution, asloca, rental guarantee",
+        title: "Rental deposits and tenant rights in Switzerland",
+        description: "How rental guarantees (Mietkaution) work in Switzerland, security deposits, and how to protect your rights as a tenant with ASLOCA.",
+        keywords: "rental deposit switzerland, swisscaution, asloca, rental guarantee, tenant rights switzerland",
         audience: 'resident',
         featuredImage: "media/guides/fianzas-alquiler-suiza.jpg",
+        imageAlt: "A piggy bank and a house key, representing a rental security deposit",
         category: `Housing`,
         hub: 'vivienda',
-        readingTime: 3,
-        summary: `The maximum legal deposit is 3 months' rent.`,
-        content: `<div class="article-content"> 
-<h2>The Bond (Garantie de Loyer / Mietkaution)</h2> 
-<p>By law, a landlord can request up to a maximum of 3 months' rent as a deposit for a home (in commercial premises there is no limit). This money is never handed over to the landlord.</p> 
-<p>The money is deposited in a "Rent Guarantee Bank Account" that is in your name, but blocked. It can only be released with the joint signature of the tenant and the landlord after the delivery of the keys or termination of the contract.</p> 
+        slug: "rental-deposits-tenant-rights",
+        readingTime: 4,
+        summary: "The maximum legal deposit for residential rentals is 3 months' rent. You can pay it in cash into a blocked account or use a guarantee insurance service.",
+        content: `
+            <div class="article-content">
+                <h2>The Security Deposit (<i>Garantie de Loyer / Mietkaution</i>)</h2>
+                <p>By law, a landlord can request a security deposit (bond) to cover any potential damages or unpaid rent. For residential properties, this deposit is capped at a maximum of <strong>3 months' rent</strong>.</p>
+                <div class="callout info">
+                    <strong>Important:</strong> This money is never handed directly to the landlord. It is deposited in a specialized "Rent Guarantee Bank Account" opened in your name but blocked. It can only be released at the end of the tenancy with the joint signature of both the tenant and the landlord.
+                </div>
 
-<h2>Court Insurance (Alternative to depositing capital)</h2> 
-<p>If you do not have the 3 months in cash (which could represent 6,000 or 9,000 CHF at a time), there are companies like <a href="https://www.swisscaution.ch/" target="_blank">SwissCaution</a> that act as guarantors. You pay them a non-refundable annual premium (normally 5% of the deposit), and they issue the coverage certificate to the agency as if it were real money.</p> 
+                <h2>Guarantee Insurance: An alternative to cash</h2>
+                <p>If you don't want to tie up several thousand francs in a blocked account, you can use specialized insurance companies like <strong>SwissCaution</strong>, <strong>Firstcaution</strong>, or <strong>goffrance</strong>.</p>
+                <ul>
+                    <li><strong>How it works:</strong> You pay a non-refundable annual premium (usually around 5% of the total deposit amount).</li>
+                    <li><strong>Benefit:</strong> The company provides a certificate to the agency as a guarantee, allowing you to keep your savings for other moving expenses.</li>
+                </ul>
 
-<h2>Defense of your rights: ASLOCA / Mieterverband</h2> 
-<p>The system protects the tenant a lot but can be complex. If your agency tries to charge you with abusive expenses when you leave the apartment or refuses to return the deposit, it is highly recommended to be affiliated with the <a href="https://www.asloca.ch/" target="_blank">Swiss Tenants Association</a> (ASLOCA in the French zone, Mieterverband in the German zone) for a small annual fee (approx. 85 CHF). They offer free contract review and judicial support if necessary.</p> 
-</div>`
+                <h2>Defending your rights: ASLOCA and Mieterverband</h2>
+                <p>The Swiss rental system is highly regulated but can be complex for newcomers. Disagreements over repairs or the return of the deposit at the end of a lease are common.</p>
+                <p>It is strongly recommended to join your local tenant association:</p>
+                <ul>
+                    <li><strong><a href="https://www.asloca.ch/" target="_blank" rel="noopener noreferrer">ASLOCA</a>:</strong> Serves the French and Italian-speaking regions.</li>
+                    <li><strong><a href="https://www.mieterverband.ch/" target="_blank" rel="noopener noreferrer">Mieterverband</a>:</strong> Serves the German-speaking region.</li>
+                </ul>
+                <p>For a small annual membership fee (approx. 80-100 CHF), they offer legal advice, contract reviews, and support in mediation hearings.</p>
+            </div>
+        `
     },
 
     // 14. Costo de vida
     "articulo-costo-vida": {
-        title: "Cost of living in Switzerland",
-        description: "A detailed breakdown of the monthly budget in Switzerland: rent, insurance, food, and transport.",
-        keywords: "budget switzerland, cost of living switzerland, swiss prices",
+        title: "Cost of living in Switzerland: Monthly budget and prices",
+        description: "A detailed breakdown of the cost of living in Switzerland. Examples of monthly budgets for singles and families, including rent, insurance, and food.",
+        keywords: "cost of living switzerland, swiss prices, monthly budget switzerland, how expensive is switzerland",
+        audience: 'resident',
         featuredImage: "media/template/costo-de-vida-suiza.jpg",
+        imageAlt: "A selection of Swiss products and bills, representing the cost of living",
         category: `Cost of Living`,
         hub: 'vivir-en-suiza',
-        supportingImages: [],
-        readingTime: 4,
-        summary: `A 5000 CHF salary can be tight after taxes, insurance, and rent.`,
-        
-        content: `<div class="article-content"> 
-<p>While Swiss wages are the highest in Western Europe, the prices of goods and services are also on par (the so-called "Ilot de cherté suisse").</p> 
+        slug: "cost-of-living-switzerland",
+        readingTime: 6,
+        summary: "While Swiss salaries are high, the expenses are equally significant. Understanding the breakdown of fixed costs is crucial for financial planning.",
+        content: `
+            <div class="article-content">
+                <p>Switzerland is consistently ranked as one of the most expensive countries in the world. However, high costs are balanced by the world's highest median salaries. To understand if a salary is "good," you must first look at what remains after fixed monthly expenses.</p>
 
-<h2>Regional differences and cost of living</h2>
-<p>Costs vary a lot by region: large cities (Zurich, Geneva, Lausanne, Basel) are usually more expensive, especially for housing. Use the map for geographic orientation and always validate with real figures for the canton and commune.</p>
+                <h2>Is Switzerland really that expensive?</h2>
+                <p>Yes, especially when it comes to services (restaurants, hair salons, repairs) and mandatory insurance. However, the <strong>purchasing power</strong> of a resident in Switzerland is generally higher than in most other European countries once the "fixed" bills are paid.</p>
 
-<h2>Monthly Orientative Budget (1 person)</h2> 
-<p>Average expenses for a single person living in an average urban center (outside the super exclusive center or distant countryside):</p> 
-<ul> 
-<li><strong>Monthly rent (including charging costs, internet):</strong> 1,500 - 2,200 CHF (prices in Geneva and Zurich are noticeably higher than the national average).</li> 
-<li><strong>Mandatory Health Insurance (LAMal):</strong> 350 - 450 CHF.</li> 
-<li><strong>Shopping basket and supermarket:</strong> 400 - 600 CHF (Migros, Coop, Aldi, Lidl).</li> 
-<li><strong>Transport (Monthly pass downtown area):</strong> 70 - 150 CHF.</li> 
-<li><strong>Taxes and Social Security (AVS/LPP/Quellensteuer):</strong> They are already deducted from your gross salary, they represent approximately 15-25% before paying you into account (depending on the canton).</li> 
-</ul> 
+                <h2>Sample Monthly Budget (Single Person)</h2>
+                <p>Indicative monthly expenses for a single person in an urban area (excluding taxes):</p>
+                <table class="info-table">
+                    <thead><tr><th>Expense</th><th>Amount (CHF)</th></tr></thead>
+                    <tbody>
+                        <tr><td>Rent (1.5 - 2.5 rooms)</td><td>1,400 - 1,900</td></tr>
+                        <tr><td>Basic Health Insurance (LAMal)</td><td>350 - 450</td></tr>
+                        <tr><td>Groceries & Household</td><td>500 - 700</td></tr>
+                        <tr><td>Transport (Local pass)</td><td>70 - 100</td></tr>
+                        <tr><td>Internet / Mobile / Billag</td><td>120 - 150</td></tr>
+                        <tr><td>Leisure / Eating out</td><td>300 - 500</td></tr>
+                        <tr><td><strong>Total Estimated</strong></td><td><strong>2,740 - 3,800</strong></td></tr>
+                    </tbody>
+                </table>
 
-<h2>Is life better?</h2> 
-<p>Despite how expensive it is, the <em>available purchasing power</em> at the end of the month is generally higher than the rest of Europe. The real economic surplus after covering the high basic needs allows one to have the capacity to save, if the lifestyle is not excessive.</p> 
+                <h2>Sample Monthly Budget (Family of 4)</h2>
+                <p>Indicative expenses for a couple with two children:</p>
+                <table class="info-table">
+                    <thead><tr><th>Expense</th><th>Amount (CHF)</th></tr></thead>
+                    <tbody>
+                        <tr><td>Rent (4.5 rooms)</td><td>2,400 - 3,500</td></tr>
+                        <tr><td>Health Insurance (Total family)</td><td>900 - 1,200</td></tr>
+                        <tr><td>Groceries & Supermarket</td><td>1,200 - 1,600</td></tr>
+                        <tr><td>Schooling / Extracurricular</td><td>200 - 500</td></tr>
+                        <tr><td>Household / Utilities</td><td>200 - 350</td></tr>
+                        <tr><td><strong>Total Estimated</strong></td><td><strong>4,900 - 7,150</strong></td></tr>
+                    </tbody>
+                </table>
 
-<div class="callout info">
-<strong>Practical tip</strong>
-<p>Your real budget varies a lot by canton and commune: rent, health insurance and taxes can change significantly. Before choosing an area, compare figures using official sources and adjust the numbers to your situation.</p>
-</div>
+                <h2>Regional Differences: City vs. Countryside</h2>
+                <p>Costs vary significantly depending on where you choose to live:</p>
+                <ul>
+                    <li><strong>Expensive Hubs:</strong> Zurich and Geneva have the highest rents and insurance premiums in the country.</li>
+                    <li><strong>Suburban/Rural:</strong> Cantons like Glarus, Appenzell, or parts of Fribourg offer significantly cheaper housing, though you may face higher transport costs for commuting.</li>
+                    <li><strong>Tax Paradises:</strong> Cantons like Zug or Schwyz have much lower income taxes, which often offsets the higher rents in those areas.</li>
+                </ul>
 
-<h3>Useful links</h3>
-<ul>
-<li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
-<li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">estv.admin.ch</a> (taxes)</li>
-</ul>
-</div>`
+                <h2>The Economic Surplus: Why salaries compensate</h2>
+                <p>The "Swiss secret" is that while a coffee might cost 5 CHF, your ability to save 10% of a 6,000 CHF salary yields 600 CHF—a much higher absolute value for traveling or personal projects than saving 10% of a 1,500 EUR salary elsewhere.</p>
+            </div>
+        `
     },
 
     // 15. Trabajadores fronterizos (frontaliers)
@@ -753,31 +853,35 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 
     // 18. Sistema de salud (médicos y urgencias)
     "articulo-sistema-salud": {
-        title: "Healthcare system: doctors and emergencies",
-        description: "How to navigate the healthcare network: choosing a doctor, emergencies, and paying medical bills.",
-        keywords: "family doctor switzerland, medical emergency switzerland, pediatrician switzerland, swiss healthcare system",
+        title: "Healthcare system in Switzerland: Doctors, hospitals and emergencies",
+        description: "How to find a family doctor in Switzerland, how emergencies work, and how to pay medical bills.",
+        keywords: "family doctor switzerland, medical emergency switzerland, pediatrician switzerland, swiss healthcare system, tiers-payant, tiers-garant",
         audience: 'resident',
         featuredImage: "media/guides/medicos-urgencias-suiza.jpg",
+        imageAlt: "The reception area of a Swiss medical center (Permanence Médicale)",
         category: `Medical Network`,
         hub: 'salud',
+        slug: "doctors-emergencies-switzerland",
         readingTime: 4,
-        summary: `Avoid hospitals for minor ailments; visit standard clinics instead.`,
-        content: `<div class="article-content"> 
-<p>Understanding how to navigate the daily practice of Swiss healthcare will save you trouble (and financial scares).</p> 
+        summary: "Avoid going to hospital emergency rooms for minor ailments. Use 'Permanences Médicales' or call your insurance's medical line if you have a managed care model.",
+        content: `
+            <div class="article-content">
+                <p>Navigating the day-to-day practice of Swiss healthcare will help you avoid administrative headaches and unexpected costs.</p>
 
-<h2>Choose a doctor according to your insurance model</h2> 
-<p>The cheapest LAMal model is usually the "HMO Model" or "Family Doctor". This means that you cannot go directly to a specialist or hospital without first calling a centralized line, or without strictly going through your assigned GP. If you skip this, your insurance may refuse to pay the bill.</p> 
+                <h2>Choosing a doctor according to your insurance model</h2>
+                <p>The cheapest LAMal models (HMO, Telmed, or Family Doctor) come with specific rules. Usually, you cannot visit a specialist or hospital directly without first consulting your assigned primary care physician or calling your insurer's medical hotline. If you skip this mandatory step, your insurance may refuse to pay the bill.</p>
+                
+                <h2>Medical Emergencies (Urgences / Notfall)</h2>
+                <p>Hospital emergency rooms (ER) should be reserved for life-threatening or very serious cases. In Switzerland, for non-vital but urgent care (e.g., a high fever or minor injury), it is standard to go to a <strong>Permanence Médicale</strong> (Polyclinic). They operate on a walk-in basis with much shorter wait times and significantly lower costs than a hospital.</p>
 
-<h2>The Emergencies (Urgences / Notfall)</h2> 
-<p>Going to a hospital emergency room should be genuinely for serious cases. For quick but non-vital care, the usual thing in Switzerland is to go to the "Permanence Médicale" (Polyclinics), where they treat you quickly in order of arrival at a much lower cost than the hospital.</p> 
-
-<h2>The payment system: The Tiers-garant vs Tiers-payant</h2> 
-<p>When you go to the pharmacy or receive a medical bill, you will be faced with two models:</p> 
-<ul> 
-<li><strong>Tiers-garant (Direct payment):</strong> You receive the bill at home (or you pay it at the pharmacy), you pay it out of your pocket, and then you send the QR code or receipt to your insurance. If you have already exceeded your deductible, the insurance will return the money to you.</li> 
-<li><strong>Tiers-payant:</strong> The doctor or pharmacy sends the bill directly to the insurer. The insurance company pays it, and if you have not exceeded your deductible, the insurance company will issue you an invoice so that you can pay the corresponding amount.</li> 
-</ul> 
-</div>`
+                <h2>The Payment System: Tiers-garant vs. Tiers-payant</h2>
+                <p>When you visit a pharmacy or receive a medical invoice, you will encounter two different payment models:</p>
+                <ul>
+                    <li><strong>Tiers-garant (Direct Payment):</strong> You receive the bill at home (or pay at the pharmacy), pay it out of your own pocket, and then send the receipt/QR code to your insurer. If you have already exceeded your annual deductible, the insurer will reimburse you.</li>
+                    <li><strong>Tiers-payant:</strong> The doctor or pharmacy sends the bill directly to the insurer. The insurer pays it and then issues you an invoice for your share (the deductible and co-payment).</li>
+                </ul>
+            </div>
+        `
     },
 
     // 19. Transporte público y abonos
@@ -843,83 +947,37 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 </div>`
     },
 
-    // Added missing translations (2026-03-12)
     "articulo-tramites-llegada": {
-        title: "First-month checklist: essential steps when you arrive in Switzerland",
-        description: "A practical checklist of what to do in your first 30 days: registration, bank account, health insurance (LAMal), transport, mail, and more.",
-        keywords: "switzerland arrival checklist, register commune, health insurance lamal, first month switzerland",
-        featuredImage: "media/guides/checklist-llegada-suiza.jpg",
-        category: "Initial Steps",
-        hub: "tramites",
+        title: "First month in Switzerland: essential steps checklist",
+        description: "What to do in your first 30 days: registration, bank account, health insurance (LAMal), transport, and mail.",
+        keywords: "switzerland arrival checklist, registration, lamal, swiss bank account",
+        category: 'Initial Steps',
+        hub: 'tramites',
+        slug: "first-month-checklist-switzerland",
         readingTime: 6,
-        summary: "A practical guide for people who move to Switzerland to live: what to do (and in what order) in your first month, with the key deadlines and frequent mistakes.",
-        content: `<div class="article-content">
-<h2>Introduction</h2>
-<p>Your first days in Switzerland can feel overwhelming. Some steps have strict deadlines, and doing them in the wrong order can slow everything down. This checklist focuses on what <strong>unlocks</strong> the rest.</p>
-<div class="callout info">
-<strong>Scope:</strong> This guide is for people who <strong>move to Switzerland to reside</strong> (work, studies, family). If you are a tourist/short stay visitor, not everything applies. If you are a cross-border worker (G permit), parts of the process differ.
-</div>
+        featuredImage: "media/guides/checklist-llegada-suiza.jpg",
+        imageAlt: "A physical checklist on a table with a pen, next to a Swiss passport and a train ticket",
+        summary: "If you move to Switzerland to live, the first 30 days are critical. This guide directs you in the correct order to avoid fines or delays.",
+        content: `
+            <div class="article-content">
+                <p>Establishing yourself in Switzerland requires following a specific administrative order. Most steps are linked to your registration confirmation.</p>
 
-<h2>How the system works</h2>
-<p>Most admin steps depend on two basics: your <strong>address</strong> and your <strong>commune registration</strong>. With the registration confirmation, you can often progress with the bank, insurance and work while the physical permit card is produced.</p>
+                <h2>I am a tourist (less than 90 days)</h2>
+                <p>If you are visiting Switzerland for less than 90 days as a tourist or for short-term stays (without gainful employment), you generally do not need to register with the commune as a resident.</p>
 
-<div class="callout warning">
-<strong>Rule of thumb:</strong> “I didn’t know” usually doesn’t help. Missing deadlines can lead to fines; and LAMal is retroactive even if you sign up late.
-</div>
+                <h2>I am moving to live</h2>
+                <p>If your intention is to stay longer than 90 days or if you have an employment contract, you must formalize your situation.</p>
 
-<h2>Requirements and rules</h2>
-<ul>
-  <li><strong>Commune registration:</strong> often required within <strong>14 days</strong> (sometimes less) and usually <strong>before starting work</strong> (rules vary by canton/commune).</li>
-  <li><strong>Health insurance (LAMal):</strong> typically within <strong>3 months</strong>, retroactive to day 1.</li>
-</ul>
-
-<h2>Concrete examples</h2>
-<ul>
-  <li><strong>You arrive with a job:</strong> prioritize registration → bank account → health insurance.</li>
-  <li><strong>You arrive without a job (EU/EFTA):</strong> plan funds and coverage; requirements can be stricter depending on your situation.</li>
-  <li><strong>Family relocation:</strong> prepare civil status documents and school registration early.</li>
-</ul>
-
-<h2>Practical advice</h2>
-<h3>Week 1 — before / as you start work</h3>
-<ul>
-  <li><strong>Register at your commune:</strong> this unlocks almost everything else. You typically receive a temporary registration confirmation.</li>
-  <li><strong>Open a Swiss bank account:</strong> most employers require a Swiss IBAN for salary payments.</li>
-</ul>
-
-<h3>First 2 weeks</h3>
-<ul>
-  <li><strong>Choose your health insurance (LAMal):</strong> you generally have up to 3 months, but coverage is retroactive from day 1, so don’t wait.</li>
-  <li><strong>Tell your employer your family status:</strong> it can affect withholding tax class and payroll details.</li>
-</ul>
-
-<h3>First month</h3>
-<ul>
-  <li><strong>Public transport:</strong> if you use trains, consider the half-fare card (<em>Halbtax / Demi-tarif</em>).</li>
-  <li><strong>Mailbox name:</strong> many official letters arrive by post (permit card, insurance invoices, tax letters).</li>
-  <li><strong>Trash rules:</strong> many communes require official taxed garbage bags.</li>
-</ul>
-
-<h3>First 3 months</h3>
-<ul>
-  <li><strong>Complementary insurance:</strong> optional add-ons (dental, private ward, etc.) may require medical acceptance.</li>
-  <li><strong>Pillar 3a:</strong> consider voluntary retirement savings if it fits your situation.</li>
-</ul>
-
-<h2>Common mistakes</h2>
-<ul>
-  <li>Waiting for a “perfect” apartment and missing the registration deadline.</li>
-  <li>Not understanding LAMal retroactivity and getting an unexpected invoice.</li>
-  <li>Forgetting to put your name on the mailbox and missing important letters.</li>
-</ul>
-
-<h2>Official Swiss sources</h2>
-<ul>
-  <li><a href="https://www.ch.ch/en/foreign-nationals-in-switzerland/living-in-switzerland/" target="_blank" rel="noopener noreferrer">ch.ch — Living in Switzerland</a></li>
-  <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo — official LAMal comparison</a></li>
-  <li><a href="https://www.sbb.ch/en" target="_blank" rel="noopener noreferrer">SBB — public transport</a></li>
-</ul>
-</div>`
+                <h3>Checklist of essential tasks</h3>
+                <ul>
+                    <li><strong>Register at your commune:</strong> You must do this within the first 14 days and always before starting work. This provides the "Attestation d'établissement".</li>
+                    <li><strong>Open a Swiss bank account:</strong> Essential for receiving your salary and paying bills (QR-bills).</li>
+                    <li><strong>Health insurance (LAMal):</strong> You have 3 months to choose a provider, but the premium is retroactive to the day of arrival.</li>
+                    <li><strong>Notify your employer:</strong> Provide your Swiss IBAN and your family status (for withholding tax purposes).</li>
+                    <li><strong>Mail and garbage:</strong> Put your name on the mailbox immediately and follow the local rules for taxed garbage bags.</li>
+                </ul>
+            </div>
+        `
     },
 
     "articulo-trabajar-sin-permiso-fisico": {
@@ -989,30 +1047,50 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     },
 
     "articulo-subalquiler": {
-        title: "Subletting in Switzerland: a practical legal guide",
-        description: "The basics of subletting: written agreements, deposits, and landlord permission—what to do to avoid problems.",
-        keywords: "sublet switzerland, subletting contract, rental deposit, landlord permission",
+        title: "Subletting in Switzerland: Rules, rights and legality",
+        description: "A complete guide to subletting in Switzerland: how to obtain landlord permission, legal requirements, and contract templates.",
+        keywords: "subletting switzerland, subrenting, sublet contract, landlord permission switzerland",
+        audience: 'resident',
         featuredImage: "media/guides/subalquiler-vivienda-suiza.jpg",
+        imageAlt: "A person signing a subletting agreement in a Swiss apartment",
         category: "Housing",
         hub: "vivienda",
+        slug: "subletting-in-switzerland-legal-guide",
         readingTime: 4,
-        summary: "Subletting is common and legal, but you should get landlord approval and put everything in writing (price, duration, notice, utilities).",
-        content: `<div class="article-content">
-<p>Subletting a room or a whole apartment is common in Switzerland. To keep it safe, follow a few clear rules.</p>
+        summary: "Subletting is a common and legal practice in Switzerland, but it is strictly regulated. You must inform your landlord and follow specific rules regarding price and duration.",
+        content: `
+            <div class="article-content">
+                <p>Subletting (<i>Sous-location / Untermiete</i>) is frequently used by people who go abroad for a few months or who have an extra room. While it is a right for the tenant, it must be done correctly to avoid the termination of the main lease.</p>
 
-<h2>1) Use a written agreement</h2>
-<ul>
-  <li>Who rents to whom (main tenant vs subtenant)</li>
-  <li>What is included (room, common areas, furniture)</li>
-  <li>Rent + utilities, start/end date, and notice period</li>
-</ul>
+                <h2>Is subletting legal in Switzerland?</h2>
+                <p>Yes, it is protected by the Swiss Code of Obligations. However, the landlord (or agency) can only refuse permission if the conditions are abusive or if the subtenant would cause significant disadvantage to the building.</p>
 
-<h2>2) Deposit (guarantee)</h2>
-<p>Deposits of 1–2 months are common. Document the condition with photos when moving in/out.</p>
+                <h2>Legal Requirements</h2>
+                <p>To stay within the law, you must follow these steps:</p>
+                <ul>
+                    <li><strong>Inform the Landlord:</strong> You must officially notify the landlord/agency of your intention to sublet and provide the terms (price, identity of subtenants).</li>
+                    <li><strong>Written Permission:</strong> Although verbal consent is theoretically possible, always get it in writing to protect yourself.</li>
+                    <li><strong>Non-Abusive Conditions:</strong> You cannot charge a subtenant significantly more than what you pay, unless you are providing furniture or extra services (see below).</li>
+                </ul>
 
-<h2>3) Landlord permission</h2>
-<p><strong>Get written approval</strong> from the landlord/management. Subletting secretly can jeopardize the main lease.</p>
-</div>`
+                <h2>The Subletting Contract</h2>
+                <p>Even if you are subletting to a friend, a written contract is <strong>essential</strong>. It should specify:</p>
+                <ul>
+                    <li>Rent amount and share of utility costs (heating, internet).</li>
+                    <li>Security deposit (can be held in a private account or blocked account).</li>
+                    <li>Notice period (usually consistent with the main lease).</li>
+                    <li>Inventory list (if the room/flat is furnished).</li>
+                </ul>
+
+                <h2>The Price: Can I make a profit?</h2>
+                <div class="callout warning">
+                    <strong>Rule on Profit:</strong> You are allowed to charge a small supplement for furniture, internet, or electricity (usually 10-20% above your base rent). However, if you charge an excessive "profit," the landlord has a legal right to refuse the sublet or even terminate your main contract.
+                </div>
+
+                <h2>What if I sublet without permission?</h2>
+                <p>Subletting "in secret" (e.g., via platforms like Airbnb without authorization) is considered a breach of contract. If discovered, the landlord can send a formal warning and, in persistent cases, terminate your lease with a 30-day notice.</p>
+            </div>
+        `
     },
 
     "articulo-jubilacion": {
@@ -1302,8 +1380,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
 };
 
 // Technical SEO: ensure every EN article has a stable, clean slug for canonical URLs and sitemap generation.
-(() => {
-	    const slugMap = {
+    const slugMap = {
 	        "articulo-permisos": "tramites-llegada-suiza",
 	                "articulo-mudarse-suiza": "mudarse-a-suiza-desde-espana",
 	                "articulo-registro": "registering-in-switzerland-commune",
