@@ -558,73 +558,73 @@ window.siteContent.fr.articles = {
     },
 
 "articulo-reagrupacion-familiar": {
-        title: "Reagrupación familiar en Suisse: cómo traer a tu familia",
-        description: "Guía completa para traer a tu pareja e hijos en Suisse. Condiciones, documentación, plazos y derechos de los familiares reagrupados.",
-        keywords: "reagrupacion familiar suiza, traer familia suiza, permiso familiar suiza, conyuge suiza, apostilla suiza",
-        category: "Trámites Ordinarios",
-        hub: "tramites",
-        slug: "reagrupacion-familiar-suiza",
+        title: "Regroupement familial en Suisse : comment faire venir sa famille",
+        description: "Guide complet pour faire venir votre conjoint et vos enfants en Suisse. Conditions, documents, delais et droits des membres de la famille regroupes.",
+        keywords: "regroupement familial suisse, faire venir famille suisse, permis famille suisse, conjoint suisse, apostille suisse",
+        category: 'Demarches administratives',
+        hub: 'tramites',
+        slug: "regroupement-familial-suisse",
         readingTime: 5,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Mars 2026",
         featuredImage: "media/guides/reagrupacion-familiar-suiza.jpg",
-        imageAlt: "Familia feliz llegando en Suisse con maletas en una estación de tren con los Alpes de fondo",
-        summary: "Si tienes Permiso B o C puedes traer a tu cónyuge e hijos menores de 18 años. Los familiares obtienen su propio permiso y tienen derecho a trabajar desde el primer día.",
+        imageAlt: "Famille heureuse arrivant en Suisse avec des bagages dans une gare avec les Alpes en arriere-plan",
+        summary: "Si vous avez un Permis B ou C, vous pouvez faire venir votre conjoint et vos enfants de moins de 18 ans. Les membres de la famille obtiennent leur propre permis et ont le droit de travailler des le premier jour.",
         content: `
             <div class="article-content">
-                <p>Uno de los momentos más importantes en la vida de un emigrante es poder traer a su familia. En Suisse, el proceso de reagrupación familiar está bien regulado y es factible para ciudadanos de la UE, pero tiene sus propias reglas y plazos.</p>
+                <p>L'un des moments les plus importants dans la vie d'un emigre est de pouvoir faire venir sa famille. En Suisse, la procedure de regroupement familial est bien encadree et realisable pour les citoyens de l'UE, mais elle a ses propres regles et delais.</p>
 
-                <h2>¿Quién puede solicitar la reagrupación?</h2>
-                <p>Pueden solicitarla los titulares de un <strong>Permiso B o C en vigor</strong>. Con Permiso L (corta duración) las posibilidades son muy limitadas. Los familiares que pueden ser reagrupados son:</p>
+                <h2>Qui peut demander le regroupement familial ?</h2>
+                <p>Les titulaires d'un <strong>Permis B ou C en cours de validite</strong> peuvent en faire la demande. Avec un Permis L (courte duree), les possibilites sont tres limitees. Les membres de la famille pouvant etre regroupes sont :</p>
                 <ul>
-                    <li>Cónyuge (matrimonio oficial reconocido).</li>
-                    <li>Pareja de hecho registrada.</li>
-                    <li>Hijos menores de 18 años (incluidos los adoptivos).</li>
-                    <li>En algunos casos, padres o familiares dependientes con necesidades acreditadas.</li>
+                    <li>Le conjoint (mariage officiel reconnu).</li>
+                    <li>Le partenaire enregistre.</li>
+                    <li>Les enfants mineurs de moins de 18 ans (y compris les enfants adoptes).</li>
+                    <li>Dans certains cas, les parents ou membres de la famille dependants avec des besoins attestes.</li>
                 </ul>
 
-                <h2>Condiciones que debe cumplir el residente en Suisse</h2>
+                <h2>Conditions requises pour le resident en Suisse</h2>
                 <ul>
-                    <li><strong>Vivienda adecuada:</strong> El piso debe tener espacio suficiente para toda la familia. Las autoridades verifican esto.</li>
-                    <li><strong>Medios económicos suficientes:</strong> No depender de la asistencia social.</li>
-                    <li><strong>Permiso en vigor:</strong> Sin sanciones ni el permiso en proceso de revocación.</li>
+                    <li><strong>Logement adequat :</strong> le logement doit disposer d'un espace suffisant pour toute la famille. Les autorites le verifient.</li>
+                    <li><strong>Ressources financieres suffisantes :</strong> ne pas dependre de l'aide sociale.</li>
+                    <li><strong>Permis en cours de validite :</strong> sans sanctions ni permis en cours de revocation.</li>
                 </ul>
 
-                <h2>Documentación necesaria</h2>
+                <h2>Documents necessaires</h2>
                 <ul>
-                    <li>Formulario oficial de reagrupación familiar (oficina cantonal de migración).</li>
-                    <li>Pasaportes de todos los familiares.</li>
-                    <li>Certificado de matrimonio o unión de hecho <strong>apostillado y traducido</strong>.</li>
-                    <li>Certificados de nacimiento de los hijos apostillados y traducidos.</li>
-                    <li>Contrato de alquiler del piso con espacio suficiente.</li>
-                    <li>Últimas nóminas o justificante de ingresos.</li>
+                    <li>Formulaire officiel de regroupement familial (office cantonal des migrations).</li>
+                    <li>Passeports de tous les membres de la famille.</li>
+                    <li>Acte de mariage ou de partenariat <strong>apostille et traduit</strong>.</li>
+                    <li>Actes de naissance des enfants apostilles et traduits.</li>
+                    <li>Contrat de bail du logement avec espace suffisant.</li>
+                    <li>Derniers bulletins de salaire ou justificatif de revenus.</li>
                 </ul>
 
                 <div class="callout info">
-                    <strong>La Apostilla de La Haya:</strong> Los documentos oficiales españoles deben llevar la Apostilla para ser válidos en Suisse. Se obtiene en el Ministerio de Asuntos Exteriores español o en las Delegaciones del Gobierno. Solicítala con antelación porque puede tardar días.
+                    <strong>L'Apostille de La Haye :</strong> les documents officiels espagnols doivent porter l'Apostille pour etre valables en Suisse. Elle s'obtient aupres du Ministere espagnol des Affaires etrangeres ou des Delegations du gouvernement. Faites-en la demande a l'avance car la procedure peut prendre plusieurs jours.
                 </div>
 
-                <h2>Plazos importantes</h2>
+                <h2>Delais importants</h2>
                 <ul>
-                    <li><strong>Ciudadanos UE con Permiso B:</strong> Dentro de los 5 años desde la obtención del permiso.</li>
-                    <li><strong>Titulares de Permiso C:</strong> Sin límite de plazo.</li>
+                    <li><strong>Citoyens UE avec Permis B :</strong> dans les 5 ans suivant l'obtention du permis.</li>
+                    <li><strong>Titulaires d'un Permis C :</strong> aucune limite de delai.</li>
                 </ul>
-                <p>El proceso tarda entre 4 y 12 semanas dependiendo del cantón y la carga de trabajo.</p>
+                <p>La procedure prend entre 4 et 12 semaines selon le canton et la charge de travail.</p>
 
-                <h2>¿Qué permiso reciben los familiares?</h2>
+                <h2>Quel permis les membres de la famille obtiennent-ils ?</h2>
                 <ul>
-                    <li>Principal con Permiso B → familiares obtienen Permiso B.</li>
-                    <li>Principal con Permiso C → familiares obtienen Permiso C.</li>
+                    <li>Principal titulaire d'un Permis B → les membres de la famille obtiennent un Permis B.</li>
+                    <li>Principal titulaire d'un Permis C → les membres de la famille obtiennent un Permis C.</li>
                 </ul>
-                <p><strong>Derecho a trabajar:</strong> Sí. El cónyuge tiene pleno derecho a trabajar con el permiso obtenido. Los hijos entran al sistema escolar público suizo automáticamente.</p>
+                <p><strong>Droit au travail :</strong> oui. Le conjoint a pleinement le droit de travailler avec le permis obtenu. Les enfants sont automatiquement integres dans le systeme scolaire public suisse.</p>
 
                 <div class="callout tip">
-                    <strong>Consejo práctico:</strong> Si necesitas buscar un piso más grande para cumplir el requisito de vivienda adecuada, hazlo antes de presentar la solicitud. Es uno de los motivos más comunes de retraso en el proceso.
+                    <strong>Conseil pratique :</strong> si vous devez chercher un logement plus grand pour satisfaire a l'exigence de logement adequat, faites-le avant de deposer la demande. C'est l'une des raisons les plus frequentes de retard dans la procedure.
                 </div>
             </div>
         `
     },
 
-    "articulo-jubilacion": {
+"articulo-jubilacion": {
         title: "Jubilación en Suisse: cuánto cobrarás según tu edad de llegada",
         description: "Análisis de la jubilación en Suisse (AVS y LPP) con ejemplos reales para quienes llegan con 30, 40 o 50 años.",
         keywords: "jubilacion suiza, pension suiza, AVS, LPP, cuanto cobro jubilacion suiza",
@@ -976,147 +976,147 @@ window.siteContent.fr.articles = {
     },
 
     "articulo-cantones": {
-        title: "Los 26 cantones de Suisse: mapa, capitales e idiomas",
-        description: "Guía completa de los 26 cantones suizos: mapa político, capital, idioma oficial y particularidades. Esencial para entender Suiza antes de instalarse.",
-        keywords: "cantones suiza, mapa cantones suiza, 26 cantones, canton suizo, diferencias cantones",
+        title: "Les 26 cantons suisses : carte, capitales et langues",
+        description: "Guide complet des 26 cantons suisses : carte politique, capitale, langue officielle et particularites. Essentiel pour comprendre la Suisse avant de s'y installer.",
+        keywords: "cantons suisse, carte cantons suisse, 26 cantons, canton suisse, differences cantons",
         audience: 'newcomer',
-        category: 'Organización Territorial',
+        category: 'Organisation territoriale',
         hub: 'vivir-en-suiza',
-        slug: "cantones-suiza",
+        slug: "cantons-suisse",
         readingTime: 7,
-        dateUpdated: "Marzo 2026",
-        summary: "Suiza está formada por 26 cantones autónomos, cada uno con su propio sistema fiscal, educativo y administrativo. El cantón donde vives lo cambia casi todo.",
+        dateUpdated: "Mars 2026",
+        summary: "La Suisse est composee de 26 cantons autonomes, chacun ayant son propre systeme fiscal, educatif et administratif. Le canton ou vous vivez change presque tout.",
         featuredImage: "media/guides/cantones-suiza.png",
-        imageAlt: "Mapa político de los 26 cantones de Suisse con capitales e idiomas",
+        imageAlt: "Carte politique des 26 cantons suisses avec capitales et langues",
         content: `
-                <p>En Suisse, el cantón donde te instalas es tan importante como el país en sí. Cada uno de los 26 cantones tiene su propio gobierno, sus propias leyes fiscales, su propio sistema educativo y su propia identidad cultural. Entender esta estructura es esencial antes de decidir dónde vivir.</p>
+                <p>En Suisse, le canton ou vous vous installez est aussi important que le pays lui-meme. Chacun des 26 cantons possede son propre gouvernement, ses propres lois fiscales, son propre systeme educatif et sa propre identite culturelle. Comprendre cette structure est indispensable avant de decider ou vivre.</p>
 
-                <h2>¿Qué es un cantón?</h2>
-                <p>Un cantón es la unidad territorial base de la Confederación Helvética. Equivale a lo que en España sería una comunidad autónoma, pero con muchos más poderes. Los cantones existían antes que la Confederación: se unieron por pacta de defensa mutua, no por imposición central. Esto explica por qué cada uno mantiene tanta autonomía.</p>
+                <h2>Qu'est-ce qu'un canton ?</h2>
+                <p>Un canton est l'unite territoriale de base de la Confederation helvetique. Il correspond a ce qu'en Espagne on appellerait une communaute autonome, mais avec des pouvoirs bien plus etendus. Les cantons existaient avant la Confederation : ils se sont unis par des pactes de defense mutuelle, non par une imposition centrale. Cela explique pourquoi chacun conserve une si grande autonomie.</p>
 
-                <p>Cada cantón tiene:</p>
+                <p>Chaque canton dispose de :</p>
                 <ul>
-                    <li>Su propio gobierno (<em>Conseil d'État / Regierungsrat</em>) y parlamento cantonal</li>
-                    <li>Sus propias leyes y tasas fiscales (cantonal + comunal)</li>
-                    <li>Su sistema de educación pública</li>
-                    <li>Su policía cantonal</li>
-                    <li>Sus propias normas sobre trámites de residencia</li>
+                    <li>Son propre gouvernement (<em>Conseil d'Etat / Regierungsrat</em>) et son parlement cantonal</li>
+                    <li>Ses propres lois et taux d'imposition (cantonal + communal)</li>
+                    <li>Son systeme d'enseignement public</li>
+                    <li>Sa police cantonale</li>
+                    <li>Ses propres regles en matiere de formalites de residence</li>
                 </ul>
 
-                <h2>Los 26 cantones: tabla completa</h2>
+                <h2>Les 26 cantons : tableau complet</h2>
 
                 <div style="overflow-x:auto;">
                 <table style="width:100%; border-collapse:collapse; font-size:0.9rem; margin:1rem 0;">
                     <thead>
                         <tr style="background:var(--bg-surface); border-bottom:2px solid var(--border-light);">
-                            <th style="padding:0.6rem 0.75rem; text-align:left;">Cantón</th>
-                            <th style="padding:0.6rem 0.75rem; text-align:left;">Abbr.</th>
-                            <th style="padding:0.6rem 0.75rem; text-align:left;">Capital</th>
-                            <th style="padding:0.6rem 0.75rem; text-align:left;">Idioma(s)</th>
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Canton</th>
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Abr.</th>
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Capitale</th>
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Langue(s)</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Argovia</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AG</td><td style="padding:0.5rem 0.75rem;">Aarau</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Appenzell R. Ext.</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AR</td><td style="padding:0.5rem 0.75rem;">Herisau</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Appenzell R. Int.</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AI</td><td style="padding:0.5rem 0.75rem;">Appenzell</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Basilea-Ciudad</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BS</td><td style="padding:0.5rem 0.75rem;">Basilea</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Basilea-Campo</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BL</td><td style="padding:0.5rem 0.75rem;">Liestal</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Berna</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BE</td><td style="padding:0.5rem 0.75rem;">Berna</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán / Francés</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Friburgo</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">FR</td><td style="padding:0.5rem 0.75rem;">Friburgo</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés / Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Ginebra</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GE</td><td style="padding:0.5rem 0.75rem;">Ginebra</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Glaris</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GL</td><td style="padding:0.5rem 0.75rem;">Glaris</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Grisones</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GR</td><td style="padding:0.5rem 0.75rem;">Coira</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán / Romanche / Italiano</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Jura</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">JU</td><td style="padding:0.5rem 0.75rem;">Delémont</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Lucerna</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">LU</td><td style="padding:0.5rem 0.75rem;">Lucerna</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Neuchâtel</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">NE</td><td style="padding:0.5rem 0.75rem;">Neuchâtel</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Nidwalden</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">NW</td><td style="padding:0.5rem 0.75rem;">Stans</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Obwalden</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">OW</td><td style="padding:0.5rem 0.75rem;">Sarnen</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Schaffhausen</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SH</td><td style="padding:0.5rem 0.75rem;">Schaffhausen</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Schwyz</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SZ</td><td style="padding:0.5rem 0.75rem;">Schwyz</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Solothurn</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SO</td><td style="padding:0.5rem 0.75rem;">Solothurn</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">San Galo</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SG</td><td style="padding:0.5rem 0.75rem;">San Galo</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Turgovia</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">TG</td><td style="padding:0.5rem 0.75rem;">Frauenfeld</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Ticino</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">TI</td><td style="padding:0.5rem 0.75rem;">Bellinzona</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Italiano</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Uri</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">UR</td><td style="padding:0.5rem 0.75rem;">Altdorf</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Valais / Wallis</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">VS</td><td style="padding:0.5rem 0.75rem;">Sion</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés / Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Vaud</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">VD</td><td style="padding:0.5rem 0.75rem;">Lausana</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francés</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Zug</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">ZG</td><td style="padding:0.5rem 0.75rem;">Zug</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
-                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Zúrich</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">ZH</td><td style="padding:0.5rem 0.75rem;">Zúrich</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Alemán</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Argovie</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AG</td><td style="padding:0.5rem 0.75rem;">Aarau</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Appenzell R.-Ext.</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AR</td><td style="padding:0.5rem 0.75rem;">Herisau</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Appenzell R.-Int.</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AI</td><td style="padding:0.5rem 0.75rem;">Appenzell</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Bale-Ville</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BS</td><td style="padding:0.5rem 0.75rem;">Bale</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Bale-Campagne</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BL</td><td style="padding:0.5rem 0.75rem;">Liestal</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Berne</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BE</td><td style="padding:0.5rem 0.75rem;">Berne</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand / Francais</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Fribourg</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">FR</td><td style="padding:0.5rem 0.75rem;">Fribourg</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francais / Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Geneve</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GE</td><td style="padding:0.5rem 0.75rem;">Geneve</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francais</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Glaris</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GL</td><td style="padding:0.5rem 0.75rem;">Glaris</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Grisons</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GR</td><td style="padding:0.5rem 0.75rem;">Coire</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand / Romanche / Italien</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Jura</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">JU</td><td style="padding:0.5rem 0.75rem;">Delemont</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francais</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Lucerne</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">LU</td><td style="padding:0.5rem 0.75rem;">Lucerne</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Neuchatel</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">NE</td><td style="padding:0.5rem 0.75rem;">Neuchatel</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francais</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Nidwald</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">NW</td><td style="padding:0.5rem 0.75rem;">Stans</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Obwald</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">OW</td><td style="padding:0.5rem 0.75rem;">Sarnen</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Schaffhouse</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SH</td><td style="padding:0.5rem 0.75rem;">Schaffhouse</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Schwytz</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SZ</td><td style="padding:0.5rem 0.75rem;">Schwytz</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Soleure</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SO</td><td style="padding:0.5rem 0.75rem;">Soleure</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Saint-Gall</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SG</td><td style="padding:0.5rem 0.75rem;">Saint-Gall</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Thurgovie</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">TG</td><td style="padding:0.5rem 0.75rem;">Frauenfeld</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Tessin</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">TI</td><td style="padding:0.5rem 0.75rem;">Bellinzone</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Italien</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Uri</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">UR</td><td style="padding:0.5rem 0.75rem;">Altdorf</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Valais / Wallis</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">VS</td><td style="padding:0.5rem 0.75rem;">Sion</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francais / Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Vaud</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">VD</td><td style="padding:0.5rem 0.75rem;">Lausanne</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Francais</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Zoug</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">ZG</td><td style="padding:0.5rem 0.75rem;">Zoug</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Zurich</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">ZH</td><td style="padding:0.5rem 0.75rem;">Zurich</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Allemand</td></tr>
                     </tbody>
                 </table>
                 </div>
 
-                <h2>¿Por qué importa el cantón donde vives?</h2>
+                <h2>Pourquoi le canton ou vous vivez est-il important ?</h2>
 
-                <h3>Impuestos</h3>
-                <p>Es la diferencia más importante. La carga fiscal total varía drásticamente entre cantones. Un ejemplo real: una persona soltera con 80.000 CHF de salario bruto anual paga aproximadamente:</p>
+                <h3>Impots</h3>
+                <p>C'est la difference la plus significative. La charge fiscale totale varie considerablement d'un canton a l'autre. Un exemple concret : une personne celibataire avec 80 000 CHF de salaire brut annuel paie approximativement :</p>
                 <ul>
-                    <li><strong>Zug:</strong> ~12.000 CHF en impuestos totales</li>
-                    <li><strong>Ginebra:</strong> ~22.000 CHF en impuestos totales</li>
+                    <li><strong>Zoug :</strong> ~12 000 CHF d'impots au total</li>
+                    <li><strong>Geneve :</strong> ~22 000 CHF d'impots au total</li>
                 </ul>
-                <p>La misma persona, la misma nómina, pero casi el doble de impuestos según donde vive.</p>
-                <p>→ <a href="#/impuesto-fuente-suiza">Leer: Cómo funciona el impuesto a la fuente</a></p>
+                <p>La meme personne, le meme salaire, mais presque le double d'impots selon le canton de residence.</p>
+                <p>-> <a href="#/impuesto-fuente-suiza">Lire : Comment fonctionne l'impot a la source</a></p>
 
-                <h3>Seguro médico (primas LAMal)</h3>
-                <p>Las primas del seguro obligatorio también varían por cantón y por región del cantón. Las más caras: Basilea-Ciudad, Ginebra, Vaud. Las más baratas: Appenzell Rodas Interiores, Glaris, Nidwalden.</p>
-                <p>→ <a href="#/seguro-medico-lamal-suiza">Leer: El seguro médico LAMal</a></p>
+                <h3>Assurance maladie (primes LAMal)</h3>
+                <p>Les primes de l'assurance obligatoire varient egalement selon le canton et la region du canton. Les plus cheres : Bale-Ville, Geneve, Vaud. Les moins cheres : Appenzell Rhodes-Interieures, Glaris, Nidwald.</p>
+                <p>-> <a href="#/seguro-medico-lamal-suiza">Lire : L'assurance maladie LAMal</a></p>
 
-                <h3>Educación</h3>
-                <p>El sistema escolar está completamente en manos de los cantones. El calendario escolar, la edad de inicio de la escolarización, las asignaturas y el sistema de orientación profesional varían entre cantones.</p>
-                <p>→ <a href="#/sistema-escolar-suiza">Leer: El sistema educativo suizo</a></p>
+                <h3>Education</h3>
+                <p>Le systeme scolaire est entierement du ressort des cantons. Le calendrier scolaire, l'age d'entree a l'ecole, les matieres et le systeme d'orientation professionnelle varient d'un canton a l'autre.</p>
+                <p>-> <a href="#/sistema-escolar-suiza">Lire : Le systeme educatif suisse</a></p>
 
-                <h3>Trámites de residencia y administración</h3>
-                <p>El registro de habitantes, los plazos, los formularios disponibles en línea y los horarios de atención varían de una commune a otra dentro de cada cantón.</p>
-                <p>→ <a href="#/registrarse-en-suiza">Leer: Cómo registrarse al llegar</a></p>
+                <h3>Formalites administratives</h3>
+                <p>L'enregistrement des habitants, les delais, les formulaires disponibles en ligne et les horaires d'accueil varient d'une commune a l'autre au sein de chaque canton.</p>
+                <p>-> <a href="#/registrarse-en-suiza">Lire : Comment s'enregistrer a l'arrivee</a></p>
 
-                <h2>Cantones con particularidades destacadas</h2>
+                <h2>Cantons aux particularites notables</h2>
                 <ul>
-                    <li><strong>Zug:</strong> El cantón con menor carga fiscal del país. Sede de muchas multinacionales y gestoras de inversión.</li>
-                    <li><strong>Ginebra:</strong> Ciudad internacional, sede de la ONU, la OMS y la Cruz Roja. Alta presencia de funcionarios internacionales. Primas médicas y alquileres muy elevados.</li>
-                    <li><strong>Zúrich:</strong> La ciudad más poblada y el principal centro financiero. Muy alto nivel de vida pero también los salarios más altos del país.</li>
-                    <li><strong>Ticino:</strong> El cantón italófono. Muchos trabajadores fronterizos. Clima mediterráneo y coste de vida algo inferior al norte.</li>
-                    <li><strong>Grisones:</strong> El cantón más grande, trilingüe (alemán, romanche, italiano). Economía basada en turismo alpino y agricultura.</li>
-                    <li><strong>Berna:</strong> Capital federal. Bilingüe (alemán con minoría francófona). Sede del parlamento y del gobierno federal.</li>
+                    <li><strong>Zoug :</strong> le canton a la charge fiscale la plus faible du pays. Siege de nombreuses multinationales et societes de gestion d'actifs.</li>
+                    <li><strong>Geneve :</strong> ville internationale, siege de l'ONU, de l'OMS et de la Croix-Rouge. Forte presence de fonctionnaires internationaux. Primes medicales et loyers tres eleves.</li>
+                    <li><strong>Zurich :</strong> la ville la plus peuplee et le principal centre financier. Niveau de vie tres eleve, mais aussi les salaires les plus importants du pays.</li>
+                    <li><strong>Tessin :</strong> le canton italophone. Nombreux travailleurs frontaliers. Climat mediterraneen et cout de la vie legerement inferieur au nord.</li>
+                    <li><strong>Grisons :</strong> le plus grand canton, trilingue (allemand, romanche, italien). Economie fondee sur le tourisme alpin et l'agriculture.</li>
+                    <li><strong>Berne :</strong> capitale federale. Bilingue (allemand avec minorite francophone). Siege du parlement et du gouvernement federal.</li>
                 </ul>
 
                 <div class="callout info">
-                    <strong>Consejo práctico:</strong> Antes de decidir dónde instalarte, compara la carga fiscal del cantón, las primas del seguro médico y la oferta de trabajo en tu sector. A veces, cambiar de cantón puede suponer miles de francos al año de diferencia.
+                    <strong>Conseil pratique :</strong> avant de decider ou vous installer, comparez la charge fiscale du canton, les primes d'assurance maladie et l'offre d'emploi dans votre secteur. Parfois, changer de canton peut representer une difference de plusieurs milliers de francs par an.
                 </div>
 
-                <h2>Acceder al portal oficial de cada cantón</h2>
+                <h2>Acceder au portail officiel de chaque canton</h2>
                 <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem; margin-top:1rem;">
-                    <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovia (AG)</a>
-                    <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">App. R. Int. (AI)</a>
-                    <a href="https://www.ar.ch" target="_blank" rel="noopener noreferrer" class="canton-link">App. R. Ext. (AR)</a>
-                    <a href="https://www.bs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Ciudad (BS)</a>
-                    <a href="https://www.bl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Campo (BL)</a>
-                    <a href="https://www.be.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Berna (BE)</a>
-                    <a href="https://www.fr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Friburgo (FR)</a>
-                    <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ginebra (GE)</a>
+                    <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovie (AG)</a>
+                    <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">App. R.-Int. (AI)</a>
+                    <a href="https://www.ar.ch" target="_blank" rel="noopener noreferrer" class="canton-link">App. R.-Ext. (AR)</a>
+                    <a href="https://www.bs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Bale-Ville (BS)</a>
+                    <a href="https://www.bl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Bale-Campagne (BL)</a>
+                    <a href="https://www.be.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Berne (BE)</a>
+                    <a href="https://www.fr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Fribourg (FR)</a>
+                    <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Geneve (GE)</a>
                     <a href="https://www.gl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Glaris (GL)</a>
-                    <a href="https://www.gr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Grisones (GR)</a>
+                    <a href="https://www.gr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Grisons (GR)</a>
                     <a href="https://www.jura.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Jura (JU)</a>
-                    <a href="https://www.lu.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Lucerna (LU)</a>
-                    <a href="https://www.ne.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Neuchâtel (NE)</a>
-                    <a href="https://www.nw.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Nidwalden (NW)</a>
-                    <a href="https://www.ow.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Obwalden (OW)</a>
-                    <a href="https://www.sh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schaffhausen (SH)</a>
-                    <a href="https://www.sz.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schwyz (SZ)</a>
-                    <a href="https://www.so.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Solothurn (SO)</a>
-                    <a href="https://www.sg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">San Galo (SG)</a>
-                    <a href="https://www.tg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Turgovia (TG)</a>
-                    <a href="https://www.ti.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ticino (TI)</a>
+                    <a href="https://www.lu.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Lucerne (LU)</a>
+                    <a href="https://www.ne.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Neuchatel (NE)</a>
+                    <a href="https://www.nw.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Nidwald (NW)</a>
+                    <a href="https://www.ow.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Obwald (OW)</a>
+                    <a href="https://www.sh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schaffhouse (SH)</a>
+                    <a href="https://www.sz.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schwytz (SZ)</a>
+                    <a href="https://www.so.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Soleure (SO)</a>
+                    <a href="https://www.sg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Saint-Gall (SG)</a>
+                    <a href="https://www.tg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Thurgovie (TG)</a>
+                    <a href="https://www.ti.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Tessin (TI)</a>
                     <a href="https://www.ur.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Uri (UR)</a>
                     <a href="https://www.vs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Valais/Wallis (VS)</a>
                     <a href="https://www.vd.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Vaud (VD)</a>
-                    <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zug (ZG)</a>
-                    <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zúrich (ZH)</a>
+                    <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zoug (ZG)</a>
+                    <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zurich (ZH)</a>
                 </div>
             </div>
         `
     },
 
-    "articulo-lenguas": {
+"articulo-lenguas": {
         title: "Les langues en Suisse : allemand, français, italien et romanche",
         description: "Guide sur les 4 langues nationales de Suisse : régions linguistiques, cantons bilingues et conseils pour les nouveaux arrivants.",
         keywords: "langues suisse, régions linguistiques, suisse allemand, romandie, tessin, romanche",
@@ -1573,36 +1573,38 @@ window.siteContent.fr.articles = {
         `
     },
         "articulo-salarios": {
-        title: "Salarios en Suisse por sector y región: ¿Cuánto se gana?",
-        description: "Descubre cuál es el salario medio en Suisse, diferencias por cantón, el calculador Salarium y si existe el salario mínimo.",
-        keywords: "salario suiza, sueldo medio suiza, salarium, salario minimo ginebra",
-        category: 'Mercado Laboral',
+        title: "Salaires en Suisse par secteur et region : combien gagne-t-on ?",
+        description: "Decouvrez le salaire moyen en Suisse, les differences par canton, le calculateur Salarium et l'existence du salaire minimum.",
+        keywords: "salaire suisse, salaire moyen suisse, salarium, salaire minimum geneve",
+        category: 'Marche du travail',
         hub: 'trabajo',
-        slug: "salarios-sueldo-suiza",
+        slug: "salaires-suisse",
         readingTime: 5,
+        dateUpdated: "Mars 2026",
         featuredImage: "media/guides/salarios-sueldo-suiza.jpg",
-        imageAlt: "Certificado de salario suizo (Lohnausweis) con monedas de francos suizos en un escritorio profesional",
-        summary: 'Suiza tiene salarios muy altos pero costos en proporción. Solo unos pocos cantones (ej. Ginebra, Neuchâtel) tienen salario mínimo legal.',
+        imageAlt: "Certificat de salaire suisse (Lohnausweis) avec des pieces de francs suisses sur un bureau professionnel",
+        summary: 'La Suisse offre parmi les salaires les plus eleves au monde, mais le cout de la vie est proportionnel. Seuls quelques cantons (ex. Geneve, Neuchatel) ont un salaire minimum legal.',
         content: `
             <div class="article-content">
-                <p>Los salarios en Suisse se encuentran entre los más altos del mundo, pero también lo es el coste de vida. Es crucial entender que tu poder adquisitivo real dependerá de lo que ganes frente a los gastos fijos de tu cantón.</p>
+                <p>Les salaires en Suisse comptent parmi les plus eleves au monde, mais le cout de la vie l'est egalement. Il est essentiel de comprendre que votre pouvoir d'achat reel dependra de ce que vous gagnez face aux charges fixes de votre canton.</p>
 
-                <h2>¿Existe un salario mínimo legal en Suisse?</h2>
-                <p>A nivel federal <strong>no existe</strong> un salario mínimo interprofesional. Sin embargo, algunos cantones han introducido sus propios salarios mínimos por hora. Por ejemplo, Ginebra o Neuchâtel tienen salarios mínimos legales que rondan los 23-24 CHF la hora (unos 4.000 CHF brutos al mes a tiempo completo).</p>
+                <h2>Existe-t-il un salaire minimum legal en Suisse ?</h2>
+                <p>Au niveau federal, <strong>il n'existe pas</strong> de salaire minimum interprofessionnel. Cependant, certains cantons ont introduit leur propre salaire minimum horaire. Par exemple, Geneve et Neuchatel ont des salaires minimaux legaux qui avoisinent les 23-24 CHF de l'heure (soit environ 4 000 CHF bruts par mois a temps complet).</p>
 
-                <h2>El calculador Salarium</h2>
-                <p>Si quieres saber si una oferta de trabajo es justa para tu sector, experiencia, edad y cantón, la herramienta más fiable es el <strong>Salarium</strong>, un calculador estadístico oficial mantenido por la Oficina Federal de Estadística (OFS).</p>
-                
+                <h2>Le calculateur Salarium</h2>
+                <p>Pour savoir si une offre d'emploi est juste pour votre secteur, votre experience, votre age et votre canton, l'outil le plus fiable est le <strong>Salarium</strong>, un calculateur statistique officiel maintenu par l'Office federal de la statistique (OFS).</p>
+
                 <div class="callout info">
-                    <strong>Enlace útil:</strong> <a href="https://www.bfs.admin.ch/bfs/es/home/estadisticas/trabajo-remuneracion/salarios-ingresos-costo-trabajo/nivel-salarial-suiza/salarium.html" target="_blank">Calculador de Salarios Salarium</a>
+                    <strong>Lien utile :</strong> <a href="https://www.bfs.admin.ch/bfs/fr/home/statistiques/travail-remuneration/salaires-revenus-cout-travail/niveau-salaires-suisse/salarium.html" target="_blank">Calculateur de salaires Salarium</a>
                 </div>
 
-                <h2>Los Convenios Colectivos (CCT)</h2>
-                <p>Muchos sectores (hostelería, construcción, peluquería) están regidos por Contratos Colectivos de Trabajo (CCT / GAV). Estos contratos establecen salarios mínimos obligatorios, número de días de vacaciones y pago de horas extra, ofreciendo una sólida protección al trabajador.</p>
+                <h2>Les conventions collectives de travail (CCT)</h2>
+                <p>De nombreux secteurs (hotellerie, construction, coiffure) sont regis par des conventions collectives de travail (CCT / GAV). Ces conventions fixent des salaires minimaux obligatoires, le nombre de jours de vacances et le paiement des heures supplementaires, offrant une protection solide aux travailleurs.</p>
             </div>
         `
     },
-        "articulo-contratos": {
+
+"articulo-contratos": {
         title: "Contratos de trabajo en Suisse: derechos y obligaciones",
         description: "Todo sobre el contrato de trabajo suizo (CDI, CDD), las vacaciones legales y el pago de sueldo completo en caso de enfermedad.",
         keywords: "contrato trabajo suiza, derechos trabajador suiza, vacaciones suiza, code des obligations",
@@ -1838,106 +1840,110 @@ window.siteContent.fr.articles = {
         `
     },
         "articulo-costo-vida": {
-        title: "Presupuestos en Suisse: Vivienda, Alimentación e Impuestos",
-        description: "Planificación financiera en Suisse con ejemplos de presupuestos para solteros, parejas y familias que enfrentan vivienda, alimentación e impuestos.",
-        keywords: "presupuesto suiza, planificación financiera suiza, familias suizas",
-        category: 'Costo de Vida',
+        title: "Budgets en Suisse : logement, alimentation et impots",
+        description: "Planification financiere en Suisse avec exemples de budgets pour celibataires, couples et familles face au logement, a l'alimentation et aux impots.",
+        keywords: "budget suisse, planification financiere suisse, familles suisses, cout vie suisse",
+        category: 'Cout de la vie',
         hub: 'vivir-en-suiza',
-        slug: "presupuesto-suiza",
-        featuredImage: "media/guides/presupuesto-suiza.png",
-        imageAlt: "Ilustración de presupuesto: cartera, calculadora y gastos para vivir en Suisse",
-        supportingImages: [],
+        slug: "budget-suisse",
         readingTime: 5,
-        summary: 'Guía de planificación financiera para Suiza con ejemplos de presupuestos reales, desde personas solteras hasta familias con hijos.',
+        dateUpdated: "Mars 2026",
+        featuredImage: "media/guides/presupuesto-suiza.png",
+        imageAlt: "Illustration d'un budget : portefeuille, calculatrice et depenses pour vivre en Suisse",
+        supportingImages: [],
+        summary: 'Guide de planification financiere pour la Suisse avec des exemples de budgets reels, des celibataires aux familles avec enfants.',
         content: `
             <div class="article-content">
-                <h2>Introducción</h2>
-                <p>Suiza es uno de los países con el costo de vida más elevado de Europa, y por eso organizar cada franco es clave. La planificación financiera permite evitar sorpresas, controlar gastos y decidir con calma sobre vivienda, alimentación e impuestos. El Servicio de Asesoramiento Presupuestario Suizo (Conseil Budgetaire) publica ejemplos reales que ayudan a tomar referencia en la vida diaria.</p>
+                <h2>Introduction</h2>
+                <p>La Suisse est l'un des pays avec le cout de la vie le plus eleve d'Europe, et c'est pourquoi optimiser chaque franc est essentiel. Une bonne planification financiere permet d'eviter les mauvaises surprises, de maitriser ses depenses et de prendre des decisions eclairees sur le logement, l'alimentation et les impots. Le Service de conseil budgetaire suisse (Conseil Budgetaire) publie des exemples reels utiles comme reference pour la vie quotidienne.</p>
 
-                <h2>Presupuesto para una persona soltera</h2>
-                <p>Vivir solo exige equilibrar los gastos fijos con el ingreso neto mensual.</p>
+                <h2>Budget pour une personne seule</h2>
+                <p>Vivre seul exige d'equilibrer les charges fixes avec les revenus mensuels nets.</p>
                 <ul>
-                    <li><strong>Alquiler:</strong> un estudio o apartamento de una habitación suele costar entre 1.400 y 2.200 CHF con cargas incluidas. Planifica aumentos anuales y comparte gastos cuando sea posible.</li>
-                    <li><strong>Alimentación:</strong> preparar comida en casa en cadenas como Migros o Coop mantiene el gasto entre 400 y 500 CHF; comer fuera duplica la partida.</li>
-                    <li><strong>Transporte:</strong> el abono mensual urbano ronda 80-140 CHF; los menores de 25 años o quienes viven cerca pueden optar por opciones más asequibles.</li>
-                    <li><strong>Seguro de salud:</strong> la prima básica LAMal va de 300 a 450 CHF (según cantón y edad); define la franquicia y separa un fondo para cubrir copagos.</li>
+                    <li><strong>Loyer :</strong> un studio ou un appartement d'une piece coute generalement entre 1 400 et 2 200 CHF charges comprises. Prevoyez des augmentations annuelles et partagez les depenses si possible.</li>
+                    <li><strong>Alimentation :</strong> cuisiner a la maison dans des chaines comme Migros ou Coop maintient les depenses entre 400 et 500 CHF ; manger au restaurant double cette enveloppe.</li>
+                    <li><strong>Transport :</strong> l'abonnement mensuel urbain tourne autour de 80 a 140 CHF ; les moins de 25 ans ou ceux qui habitent pres du travail peuvent opter pour des formules plus economiques.</li>
+                    <li><strong>Assurance maladie :</strong> la prime de base LAMal va de 300 a 450 CHF (selon le canton et l'age) ; choisissez la franchise et reservez une reserve pour couvrir les quotes-parts.</li>
                 </ul>
 
-                <h2>Presupuesto para parejas sin hijos</h2>
-                <p>Dos adultos comparten gastos pero también reservan espacio para ocio y futuro.</p>
+                <h2>Budget pour un couple sans enfants</h2>
+                <p>Deux adultes partagent les depenses mais menagent aussi de la place pour les loisirs et l'avenir.</p>
                 <ul>
-                    <li><strong>Vivienda:</strong> un apartamento de 2-3 habitaciones asciende a 2.300-3.200 CHF; reparten electricidad, internet y mantenimiento.</li>
-                    <li><strong>Ocio:</strong> restauración, gimnasio y escapadas representan 200-400 CHF; fijad un tope mensual para no sacrificar el ahorro.</li>
-                    <li><strong>Seguros:</strong> además del LAMal, suman responsabilidad civil y hogar, especialmente si tienen mascotas o coche.</li>
-                    <li><strong>Ahorro:</strong> reservad al menos el 10-15% de los ingresos para emergencias o metas (misma recomendación que los asesores presupuestarios suizos).</li>
+                    <li><strong>Logement :</strong> un appartement de 2 a 3 pieces s'eleve a 2 300-3 200 CHF ; ils se partagent l'electricite, internet et l'entretien.</li>
+                    <li><strong>Loisirs :</strong> restaurants, salle de sport et escapades representent 200 a 400 CHF ; fixez un plafond mensuel pour ne pas sacrifier l'epargne.</li>
+                    <li><strong>Assurances :</strong> en plus de la LAMal, ajoutez la responsabilite civile et l'assurance menage, surtout si vous avez des animaux de compagnie ou une voiture.</li>
+                    <li><strong>Epargne :</strong> reservez au moins 10 a 15 % des revenus pour les urgences ou des projets (recommandation des conseillers budgetaires suisses).</li>
                 </ul>
 
-                <h2>Presupuesto para familias con niños</h2>
-                <p>Las familias enfrentan partidas que se multiplican con cada niño.</p>
+                <h2>Budget pour une famille avec enfants</h2>
+                <p>Les familles font face a des postes de depenses qui se multiplient avec chaque enfant.</p>
                 <ul>
-                    <li><strong>Guardería:</strong> una plaza cuesta entre 1.200 y 2.000 CHF por niño, aunque los subsidios cantonales pueden reducir el importe.</li>
-                    <li><strong>Educación:</strong> materiales, excursiones y cursos de idiomas suman 100-200 CHF al mes por niño.</li>
-                    <li><strong>Alimentación:</strong> preparar menús familiares eleva la partida a 700-900 CHF mensuales.</li>
-                    <li><strong>Ropa:</strong> planificad renovaciones y descuentos para no exagerar el gasto.</li>
-                    <li><strong>Transporte:</strong> abonos familiares o desplazamientos escolares agregan 150-250 CHF.</li>
-                    <li><strong>Actividades extraescolares:</strong> música, deporte o tutorías pueden costar 100-250 CHF por niño cada mes.</li>
+                    <li><strong>Creche :</strong> une place coute entre 1 200 et 2 000 CHF par enfant, bien que les subventions cantonales puissent reduire ce montant.</li>
+                    <li><strong>Education :</strong> materiaux, excursions et cours de langues representent 100 a 200 CHF par mois et par enfant.</li>
+                    <li><strong>Alimentation :</strong> preparer des menus familiaux porte la depense a 700-900 CHF mensuels.</li>
+                    <li><strong>Vetements :</strong> planifiez les renouvellements et profitez des promotions pour maitriser ce poste.</li>
+                    <li><strong>Transport :</strong> abonnements familiaux ou trajets scolaires ajoutent 150 a 250 CHF.</li>
+                    <li><strong>Activites parascolaires :</strong> musique, sport ou soutien scolaire peuvent couter 100 a 250 CHF par enfant et par mois.</li>
                 </ul>
 
-                <h3>Familia con 1 hijo</h3>
-                <p>Un ejemplo típico combina un alquiler de 2.400 CHF, guardería parcial de 1.000 CHF y alimentación cercana a 650 CHF. Compartir traslados ayuda a reducir el gasto en transporte.</p>
-                <h3>Familia con 2 hijos</h3>
-                <p>Las guarderías y actividades extraescolares se duplican; conviene priorizar opciones públicas o centros con precios escalonados por hermano.</p>
-                <h3>Familia con 3 hijos</h3>
-                <p>El foco debe ser la eficiencia: energía y transporte más económicos, un fondo para imprevistos y aprovechar la escolaridad pública gratuita.</p>
+                <h3>Famille avec 1 enfant</h3>
+                <p>Un exemple typique combine un loyer de 2 400 CHF, une creche partielle de 1 000 CHF et une alimentation d'environ 650 CHF. Partager les trajets aide a reduire les depenses de transport.</p>
+                <h3>Famille avec 2 enfants</h3>
+                <p>Les frais de creche et d'activites parascolaires doublent ; privilegiez les options publiques ou les structures avec des tarifs degressifs par fratrie.</p>
+                <h3>Famille avec 3 enfants</h3>
+                <p>L'accent doit etre mis sur l'efficacite : energie et transport moins couteux, un fonds pour les imprevus et la scolarite publique gratuite.</p>
 
-                <h2>¿Por qué es importante tener un presupuesto?</h2>
-                <p>Un presupuesto bien planificado transforma la incertidumbre en decisiones informadas.</p>
+                <h2>Pourquoi etablir un budget ?</h2>
+                <p>Un budget bien planifie transforme l'incertitude en decisions eclairees.</p>
                 <ul>
-                    <li><strong>Controlar los gastos:</strong> registrar cada partida revela huecos donde se puede ahorrar (suscripciones, compras impulsivas, movilidad).</li>
-                    <li><strong>Planificar el futuro:</strong> saber cuánto sobra permite decidir si ahorrar para vivienda, cambiar de coche o invertir en educación.</li>
-                    <li><strong>Crear un fondo para imprevistos:</strong> los asesores recomiendan mínimo tres meses de gastos fijos para emergencias como reparaciones o pérdida de empleo.</li>
-                    <li><strong>Vivir con mayor tranquilidad financiera:</strong> menos sorpresas significa más confianza para adaptarse a cambios de cantón, familia o trabajo.</li>
+                    <li><strong>Maitriser les depenses :</strong> noter chaque poste revele ou il est possible d'economiser (abonnements, achats impulsifs, mobilite).</li>
+                    <li><strong>Planifier l'avenir :</strong> savoir ce qu'il reste permet de decider si on epargne pour un logement, change de voiture ou investit dans l'education.</li>
+                    <li><strong>Constituer une reserve d'urgence :</strong> les conseillers recommandent au minimum trois mois de charges fixes pour faire face aux urgences.</li>
+                    <li><strong>Vivre avec plus de serenite financiere :</strong> moins de surprises signifie plus de confiance pour s'adapter aux changements de canton, de famille ou de travail.</li>
                 </ul>
 
-                <h2>Fuentes oficiales</h2>
+                <h2>Sources officielles</h2>
                 <ul>
-                    <li><a href="https://conseil-budgetaire.ch/" target="_blank" rel="noopener noreferrer">Servicio de Asesoramiento Presupuestario Suizo (Conseil Budgetaire)</a> – ejemplos reales de presupuestos y asesoramiento gratuito.</li>
-                    <li><a href="https://conseil-budgetaire.ch/individus/budgethilfen/budgetvorlagen" target="_blank" rel="noopener noreferrer">Modelos de presupuestos</a> listos para descargar y adaptar.</li>
+                    <li><a href="https://conseil-budgetaire.ch/" target="_blank" rel="noopener noreferrer">Service de conseil budgetaire suisse (Conseil Budgetaire)</a> - exemples reels de budgets et conseil gratuit.</li>
+                    <li><a href="https://conseil-budgetaire.ch/individus/budgethilfen/budgetvorlagen" target="_blank" rel="noopener noreferrer">Modeles de budgets</a> prets a telecharger et adapter.</li>
                 </ul>
             </div>
         `
     },
-        "articulo-frontaliers": {
-        title: "Trabajadores fronterizos (frontaliers): reglas y fiscalidad",
-        description: "Todo lo que necesitas saber si vives en Francia, Alemania o Italia y trabajas en Suisse como frontalier (Permiso G).",
-        keywords: "frontalier suiza, permiso G, impuestos fronterizos suiza, vivir en francia trabajar en suiza",
-        category: 'Fronterizos',
+
+"articulo-frontaliers": {
+        title: "Travailleurs frontaliers : regles et fiscalite",
+        description: "Tout ce que vous devez savoir si vous residez en France, en Allemagne ou en Italie et travaillez en Suisse comme frontalier (Permis G).",
+        keywords: "frontalier suisse, permis G, impots frontaliers suisse, vivre en france travailler en suisse",
+        category: 'Frontaliers',
         hub: 'fronterizos',
-        slug: "trabajadores-fronterizos-suiza",
+        slug: "travailleurs-frontaliers-suisse",
         readingTime: 4,
+        dateUpdated: "Mars 2026",
         featuredImage: "media/guides/trabajadores-fronterizos-suiza.jpg",
-        imageAlt: "Mapa de Europa con fronteras entre Suisse, Francia, Alemania e Italia, destacando el flujo de trabajadores fronterizos",
-        summary: 'El Permiso G te permite vivir en Francia/Alemania y trabajar en Suisse. Debes elegir entre la LAMal o el seguro de tu país (derecho de opción).',
+        imageAlt: "Carte de l'Europe avec les frontieres entre la Suisse, la France, l'Allemagne et l'Italie, illustrant le flux des travailleurs frontaliers",
+        summary: "Le Permis G vous permet de resider en France ou en Allemagne et de travailler en Suisse. Vous devez choisir entre la LAMal et l'assurance de votre pays de residence (droit d'option).",
         content: `
             <div class="article-content">
-                <p>Los <em>frontaliers</em> son personas que residen de forma permanente en un país vecino (principalmente Francia, Alemania e Italia) y cruzan la frontera para trabajar en Suisse.</p>
+                <p>Les <em>frontaliers</em> sont des personnes residant de maniere permanente dans un pays voisin (principalement la France, l'Allemagne ou l'Italie) et franchissant la frontiere pour travailler en Suisse.</p>
 
-                <h2>El Permiso G</h2>
-                <p>Para trabajar en esta modalidad, necesitas un <strong>Permiso G (Permiso de trabajo fronterizo)</strong>. Una condición clave para mantenerlo es que debes retornar a tu residencia principal en el extranjero al menos una vez por semana (la mayoría lo hace a diario).</p>
+                <h2>Le Permis G</h2>
+                <p>Pour travailler dans ce cadre, vous avez besoin d'un <strong>Permis G (permis de travail frontalier)</strong>. Une condition essentielle pour le conserver est que vous devez retourner a votre residence principale a l'etranger au moins une fois par semaine (la plupart le font quotidiennement).</p>
 
-                <h2>Fiscalidad del Frontalier</h2>
-                <p>Las reglas impositivas varían enormemente según el cantón donde trabajes y tu país de residencia (debido a los tratados de doble imposición).</p>
+                <h2>Fiscalite du frontalier</h2>
+                <p>Les regles fiscales varient considerablement selon le canton ou vous travaillez et votre pays de residence (en raison des conventions de double imposition).</p>
                 <ul>
-                    <li><strong>Ginebra:</strong> Si vives en Francia y trabajas en Ginebra, el cantón de Ginebra te retiene el impuesto a la fuente directamente.</li>
-                    <li><strong>Vaud, Neuchâtel, Jura:</strong> En estos cantones, generalmente el impuesto se paga íntegramente en Francia y el empleador suizo no te retiene impuestos a la fuente (si entregas a tiempo el certificado de residencia fiscal).</li>
+                    <li><strong>Geneve :</strong> si vous residez en France et travaillez a Geneve, le canton de Geneve preleve l'impot a la source directement sur votre salaire.</li>
+                    <li><strong>Vaud, Neuchatel, Jura :</strong> dans ces cantons, l'impot est generalement paye integralement en France et l'employeur suisse ne preleve pas d'impot a la source (si vous remettez a temps votre certificat de residence fiscale).</li>
                 </ul>
 
-                <h2>Seguro de Salud (El Derecho de Opción)</h2>
-                <p>Al comenzar a trabajar en Suisse, tienes 3 meses para ejercer tu "Derecho de opción". Puedes elegir asegurarte en el sistema suizo (LAMal frontalier) o en el sistema de tu país de residencia (ej. CMU francesa). <strong>Atención:</strong> Esta decisión es irrevocable. Si no eliges, se te afiliará automáticamente a la LAMal suiza.</p>
+                <h2>Assurance maladie (le droit d'option)</h2>
+                <p>En debutant une activite en Suisse, vous disposez de 3 mois pour exercer votre "droit d'option". Vous pouvez choisir de vous assurer dans le systeme suisse (LAMal frontalier) ou dans le systeme de votre pays de residence (ex. Securite sociale francaise / CMU). <strong>Attention :</strong> cette decision est irrevocable. Si vous ne choisissez pas, vous serez automatiquement affilies a la LAMal suisse.</p>
             </div>
         `
     },
-        "articulo-diplomas": {
+
+"articulo-diplomas": {
         title: "Reconocimiento de diplomas extranjeros en Suisse",
         description: "Cómo convalidar tu título universitario o de formación profesional español o latinoamericano en Suisse (SEFRI, Cruz Roja).",
         keywords: "homologar titulo suiza, reconocimiento diplomas suiza, sefri, convalidar titulo",
