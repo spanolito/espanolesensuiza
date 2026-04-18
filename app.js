@@ -2161,6 +2161,9 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
 
                 if (routeKey === "home") {
+                    if (window.location.hash) {
+                        history.replaceState(null, '', window.location.pathname);
+                    }
                     injectHomepageFeatured();
                 }
             }

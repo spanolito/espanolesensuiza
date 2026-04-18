@@ -622,16 +622,17 @@ window.siteContent.es.articles = {
 
                 <h2>Consejos prácticos</h2>
                 <ul>
-                    <li>Compara en el portal oficial <a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo</a> (primas por cantón/municipio y modelos).</li>
+                    <li>Compara primas en el portal oficial <a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo.admin.ch</a> (datos por cantón/municipio y modelo). Para una comparación más visual con reviews de usuarios, también puedes usar <a href="https://www.comparis.ch/krankenkassen/praemienvergleich/info" target="_blank" rel="noopener noreferrer">Comparis.ch</a>: es el comparador privado más usado en Suiza y muestra primas, modelos y valoraciones de aseguradoras.</li>
                     <li>Calcula tu "peor caso anual": prima + franquicia + copago, para decidir con cabeza.</li>
                     <li>Si vas a contratar complementarios (dental, etc.), suele ser más fácil hacerlo cuando estás sano y antes de diagnósticos.</li>
                     <li>Si tu presupuesto es ajustado, revisa el tema de la <strong>reducción de primas</strong> de tu cantón (subsidio).</li>
                     <li>Conecta esta guía con <a href="#/franquicia-seguro-medico-suiza">franquicia/copago</a> y <a href="#/presupuesto-suiza">coste de vida</a>.</li>
                 </ul>
 
-                <h2>Fuentes oficiales</h2>
+                <h2>Fuentes y herramientas</h2>
                 <ul>
-                    <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo — Comparador oficial de primas</a></li>
+                    <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo.admin.ch — Comparador oficial de primas (Confederación)</a></li>
+                    <li><a href="https://www.comparis.ch/krankenkassen/praemienvergleich/info" target="_blank" rel="noopener noreferrer">Comparis.ch — Comparador privado de primas y aseguradoras</a></li>
                     <li><a href="https://www.bag.admin.ch/" target="_blank" rel="noopener noreferrer">OFSP / BAG — Oficina Federal de Salud Pública</a></li>
                     <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Portal oficial suizo</a></li>
                 </ul>

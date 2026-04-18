@@ -654,7 +654,7 @@ Object.assign(window.siteContent.es.articles, {
 <li>Elige el modelo que <strong>realmente</strong> vas a cumplir.</li>
 <li>Selecciona franquicia según riesgo y colchón (no solo por prima).</li>
 <li>Revisa si debes incluir “accidente” en el básico.</li>
-<li>Compara ofertas en el comparador oficial.</li>
+<li>Compara ofertas en el comparador oficial (<a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">Priminfo</a>) o en el comparador privado más usado en Suiza (<a href="https://www.comparis.ch/krankenkassen/praemienvergleich/info" target="_blank" rel="noopener noreferrer">Comparis.ch</a>).</li>
 <li>Documenta: correos, confirmaciones, fechas.</li>
 </ol>
 <h3>Cómo comparar sin perderte (método de 15 minutos)</h3>
@@ -703,7 +703,8 @@ Object.assign(window.siteContent.es.articles, {
 <ul>
 <li>ch.ch (seguro): <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>Oficina Federal de Salud Pública (BAG/OFSP): <a href="https://www.bag.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bag.admin.ch</a></li>
-<li>Priminfo (comparador oficial): <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
+<li>Priminfo (comparador oficial, Confederación): <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
+<li>Comparis.ch (comparador privado, el más usado en Suiza): <a href="https://www.comparis.ch/krankenkassen/praemienvergleich/info" target="_blank" rel="noopener noreferrer">https://www.comparis.ch</a></li>
 </ul>
         </div>`
     },
