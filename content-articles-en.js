@@ -10,8 +10,8 @@ window.siteContent.en = window.siteContent.en || { global: {}, pages: {}, articl
 window.siteContent.en.articles = {
 	    // 1. Permisos de residencia
     "articulo-permisos": {
-        title: "Residence permits in Switzerland: L, B, C and differences",
-        description: "Everything about Swiss residence permits for foreigners: L, B, C and their differences.",
+        title: "Residence permits in Switzerland: L, B, C and the differences",
+        description: "Everything about Swiss permits for foreign residents. Understand the differences between the L, B and C permits.",
         keywords: "residence permits switzerland, permit L, permit B, permit C, living in switzerland, SEM",
         category: 'Ordinary Procedures',
         hub: 'tramites',
@@ -19,16 +19,52 @@ window.siteContent.en.articles = {
         readingTime: 4,
         featuredImage: "media/guides/tramites-llegada-suiza.jpg",
         imageAlt: "The three types of Swiss residence permits (L, B, C) displayed as cards over a map of Switzerland",
-        summary: "A complete guide to understanding Swiss residence permits: L (short-term), B (resident) and C (settlement).",
+        summary: "There are three main permits for newcomers (L, B, C). Your nationality and contract length largely determine which one you receive, and you can usually work before the physical card arrives.",
         content: `
             <div class="article-content">
-                <p>Moving to Switzerland involves registering and obtaining a residence permit. If you come from an EU/EFTA country (including Spain), the process is facilitated by the Agreement on Free Movement of Persons (ALCP).</p>
+                <h2>Introduction</h2>
+                <p>If you are going to live in Switzerland, you need a <strong>residence status</strong> (permit). For Spaniards and other EU/EFTA citizens, the process is usually fairly straightforward if you have a clear reason for staying, such as an employment contract. For third-country nationals, the system is different and usually requires prior authorization and stricter conditions.</p>
 
-                <h2>Quick comparison</h2>
+                <div class="callout info">
+                    <strong>The most important point first:</strong> in Switzerland, the physical permit card can take weeks to arrive. In practice, the <strong>registration confirmation / certificate</strong> from your commune is usually enough to start working and move forward with other formalities while you wait for the card.
+                </div>
+
+                <h2>How the system works</h2>
+                <p>The permit is not usually applied for through one central online portal. In most cases, the real process is:</p>
+                <ol>
+                    <li><strong>An address in Switzerland</strong> (rental, sublet, or temporary accommodation).</li>
+                    <li><strong>Registration at the commune</strong> (<i>Contrôle des habitants / Einwohnerkontrolle</i>).</li>
+                    <li>Your file is forwarded to the competent <strong>cantonal migration authority</strong>.</li>
+                    <li>You receive a certificate first and then the <strong>permit card</strong> by post.</li>
+                </ol>
+                <p>The exact documents and deadlines <strong>vary by canton and commune</strong> (appointment systems, fees, photo requirements, and so on), but the general logic is the same.</p>
+
+                <h2>Requirements and rules</h2>
+                <h3>Typical registration documents</h3>
+                <p>To start the process, you will usually be asked for some or all of the following, depending on your canton and situation:</p>
+                <ul>
+                    <li>ID card or passport.</li>
+                    <li><strong>Reason for stay:</strong> employment contract, admission to studies, or proof of your own financial means.</li>
+                    <li>Lease agreement or an <strong>accommodation certificate</strong> if you are staying with someone.</li>
+                    <li>Passport-style photo (sometimes they take it on site).</li>
+                    <li>Civil-status and family documents if relevant.</li>
+                </ul>
+                <p>There is usually an <strong>administrative fee</strong> at registration, and the amount depends on the canton and type of permit.</p>
+
+                <h3>Which permit usually applies to you?</h3>
+                <p>The most common permits for newcomers are:</p>
+                <ul>
+                    <li><strong>L permit:</strong> short or temporary stay, often tied to a contract of less than 12 months.</li>
+                    <li><strong>B permit:</strong> residence permit, very common for EU/EFTA citizens with a contract of at least 12 months or an open-ended contract.</li>
+                    <li><strong>C permit:</strong> settlement permit, usually obtained after several years of regular residence.</li>
+                    <li><strong>G permit:</strong> cross-border permit, if you live outside Switzerland and work in Switzerland.</li>
+                </ul>
+
+                <h3>Quick comparison table</h3>
                 <p>Switzerland has several residence permits for citizens of the European Union.<br>
                 The most common are the L permit, the B permit and the C permit.<br>
                 Each one corresponds to a different situation depending on the type of contract and the length of stay.<br>
-                The following table summarizes their main characteristics. If you're planning your move, see also <a href="#/mudarse-a-suiza-desde-espana">the step-by-step guide</a>.</p>
+                The table below summarizes the main differences. If you are planning your move, also see <a href="#/mudarse-a-suiza-desde-espana">the step-by-step guide</a>.</p>
 
                 <table class="info-table">
                     <thead><tr><th>Permit</th><th>Typical situation</th><th>Duration</th><th>Notes</th></tr></thead>
@@ -51,30 +87,71 @@ window.siteContent.en.articles = {
                     <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
                 </ul>
 
-                <h2>L Permit (Short Term)</h2>
-                <p>Aimed at people who stay in Switzerland for a period of less than 12 months.</p>
+                <h3>Deadlines, fees and the provisional certificate</h3>
+                <p>In practice, what unlocks your administrative life is <strong>registration at the commune</strong>. When you register, many communes give you a <strong>provisional certificate</strong> or receipt while the card is being produced. That paper is often enough to:</p>
                 <ul>
-                    <li><strong>Temporary contracts:</strong> If you have a contract between 3 and 12 months, you will be assigned this permit.</li>
-                    <li><strong>Job seekers:</strong> After 3 months looking for a job, you can apply for an L Permit to continue searching, which is renewed under certain conditions by proving you have financial means.</li>
+                    <li>Start working, because employers are familiar with the process.</li>
+                    <li>Open a bank account.</li>
+                    <li>Sign up for basic services and continue with other formalities.</li>
+                </ul>
+                <p><strong>Fees</strong> vary by canton and permit type. Normally you pay a moderate amount at registration and, in some places, a separate fee for biometrics or photos if they are not taken in the office.</p>
+
+                <h3>Renewals and changes: address, job, family situation</h3>
+                <p>Real life changes, and your permit status follows those changes:</p>
+                <ul>
+                    <li><strong>Change of address:</strong> when you move, you must deregister/register with the relevant commune within the deadline. In Switzerland, your official address matters a great deal.</li>
+                    <li><strong>Change of employer:</strong> EU/EFTA permits often allow mobility, but the need to notify or update your status may still depend on the canton and the permit type.</li>
+                    <li><strong>Change in civil status or children:</strong> this affects your paperwork and often your taxes. Keep your documents updated.</li>
                 </ul>
 
-                <h2>Permission B (Residence Permit / Livret B)</h2>
-                <p>For residents with long-term or indefinite contracts.</p>
+                <h3>Family reunification in two lines</h3>
+                <p>If you arrive with a partner and children, or want to bring them later, the authorities will mainly look at:</p>
                 <ul>
-                    <li><strong>Validity:</strong> 5 years for EU/EFTA citizens if they have a contract of at least 12 months or indefinite.</li>
-                    <li><strong>Rights:</strong> Allows cantonal mobility and easy change of employer within the country.</li>
+                    <li><strong>Sufficient income</strong> for the size of the household.</li>
+                    <li><strong>Adequate housing</strong> with enough rooms/space.</li>
+                    <li><strong>Supporting documents</strong> such as certificates, apostilles and translations where required.</li>
+                </ul>
+                <p>As a practical rule, prepare these papers <strong>before</strong> you move if you can: birth certificates, marriage certificates and translations where needed.</p>
+
+                <h2>Concrete examples</h2>
+                <h3>Example 1: you arrive with an open-ended contract</h3>
+                <p>You register with your ID, contract and address. You pay the fee, receive a provisional certificate and can start working. With that certificate you can usually open a bank account and take out health insurance.</p>
+
+                <h3>Example 2: you arrive without a contract (EU/EFTA)</h3>
+                <p>In some cases you can register by proving <strong>sufficient means</strong> and health coverage. The practical difficulty is that, without a contract, renting and banking can be more complicated. This scenario requires realistic financial planning.</p>
+
+                <h3>Example 3: you lose your job while holding a B permit</h3>
+                <p>Losing your job does not automatically mean losing your permit, but you do need to act properly: register with the RAV if applicable, actively look for work, and keep your registration status in order. At that stage, read <a href="#/unemployment-rav-switzerland">RAV and unemployment in Switzerland</a>.</p>
+
+                <h3>Example 4: you come as a student</h3>
+                <p>At registration you will usually need proof of admission/enrolment and, depending on the case, <strong>proof of financial means</strong> for your stay. As a student, it is also important to plan your health insurance and confirm whether canton-specific rules or exemptions apply.</p>
+
+                <h3>Example 5: you are a cross-border worker (G permit)</h3>
+                <p>If you live in France, Germany or Italy and work in Switzerland, the G permit follows its own rules and has important tax implications. Do not treat it as "a B permit while living abroad": check official sources and get tax advice if needed.</p>
+
+                <h2>Common mistakes</h2>
+                <ul>
+                    <li><strong>Waiting until you have a final apartment:</strong> if you are in temporary accommodation, register first and update the address later.</li>
+                    <li><strong>Assuming all cantons work the same way:</strong> deadlines, appointments and document lists do change.</li>
+                    <li><strong>Not preparing family documents:</strong> birth and marriage certificates can take time to obtain; if you are moving with family, prepare them early.</li>
+                    <li><strong>Forgetting the permit triggers other obligations:</strong> LAMal, taxes and address changes come right behind it.</li>
                 </ul>
 
-                <h2>Permission C (Establishment Permit / Livret C)</h2>
-                <p>It is equivalent to permanent residence and does not depend on working conditions.</p>
+                <h2>Practical advice</h2>
                 <ul>
-                    <li><strong>Obtained:</strong> It is granted after 5 years of uninterrupted and regular residence for Spanish (and EU-15) citizens.</li>
-                    <li><strong>Advantages:</strong> Same rights as the Swiss (except voting), you can open your company freely and taxes are no longer withheld at source (Quellensteuer), but through a normal annual declaration.</li>
+                    <li>Book your appointment with the commune as soon as you have an address, if your commune requires one.</li>
+                    <li>Carry both paper and digital copies of everything.</li>
+                    <li>If you move, report the change of address on time.</li>
+                    <li>If you are moving with family, prepare certificates with some margin because apostilles and translations can take time.</li>
+                    <li>For your first weeks, use the checklist: <a href="#/first-month-checklist-essential-steps-when-you-arrive-in-switzerland">first month essential steps</a>.</li>
                 </ul>
 
-                <div class="callout info">
-                    <strong>Official Source:</strong> Check the renewal conditions on the portal of the <a href="https://www.sem.admin.ch/" target="_blank">State Secretariat for Migration</a>.
-                </div>
+                <h2>Official sources</h2>
+                <ul>
+                    <li><a href="https://www.sem.admin.ch/sem/en/home/themen/aufenthalt.html" target="_blank" rel="noopener noreferrer">SEM — Residence / Aufenthalt</a></li>
+                    <li><a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">ch.ch — Official Swiss portal</a></li>
+                    <li>Cantonal migration authorities (the website of the canton where you live).</li>
+                </ul>
             </div>
         `
     },
@@ -173,9 +250,9 @@ window.siteContent.en.articles = {
 
     // 2. Registro en la comuna
     "articulo-registro": {
-        title: "How to register upon arrival in Switzerland",
-        description: "Everything about the process of registering at the commune (Einwohnerkontrolle) after your arrival in Switzerland.",
-        keywords: "registering in switzerland, commune registration, einwohnerkontrolle, residence permit application",
+        title: "How to register when you arrive in Switzerland (commune registration)",
+        description: "Step-by-step guide to registering in your new commune after moving to Switzerland: deadlines, documents and what happens next.",
+        keywords: "switzerland commune registration, registering in switzerland, controle des habitants, first month switzerland",
         category: 'Initial Steps',
         hub: 'tramites',
         slug: "registering-in-switzerland-commune",
@@ -185,38 +262,69 @@ window.siteContent.en.articles = {
         summary: "If you move to Switzerland to live, you usually must register with your commune quickly (often within 14 days). The registration confirmation is typically enough to start working while the physical permit card is produced.",
         content: `
             <div class="article-content">
-                <p>Registering with your commune (<i>Contrôle des habitants / Einwohnerkontrolle</i>) is the step that <strong>formalizes your residence</strong> in Switzerland. It triggers the administrative chain: residence permit processing, health insurance, taxes, schooling, and more.</p>
+                <h2>Introduction</h2>
+                <p><strong>Registration with the commune</strong> (<i>Contrôle des habitants / Einwohnerkontrolle</i>) is the formality that <strong>makes your residence official</strong> in Switzerland. It triggers the administrative chain: permit, health insurance, taxes, school registration, and more.</p>
+                <p>Important: <strong>not everyone who enters Switzerland registers</strong>. This article is aimed at people who <strong>move to Switzerland to live</strong> there, whether for work, studies or family reasons, and therefore need an official address.</p>
 
                 <h2>How the system works</h2>
                 <ol>
-                    <li>Identify your commune office and check whether an appointment is required.</li>
-                    <li>Bring the requested documents and declare your address (even if temporary).</li>
-                    <li>Pay the administrative fee and receive a <strong>registration confirmation</strong> (varies by canton/commune).</li>
-                    <li>Your file is forwarded to the cantonal migration authority; the <strong>permit card</strong> arrives later by post.</li>
+                    <li><strong>Choose your commune</strong> (your real address) and locate the registration office.</li>
+                    <li><strong>Book an appointment</strong> if required, which is very common in larger cities.</li>
+                    <li><strong>Submit your documents</strong>, pay the fee, and declare your address.</li>
+                    <li>The commune issues a <strong>registration confirmation / certificate</strong> depending on the canton and situation.</li>
+                    <li>Your file is forwarded to the <strong>cantonal migration authority</strong>, and the <strong>permit card</strong> arrives later by post.</li>
                 </ol>
                 <div class="callout warning">
-                    <strong>Deadlines:</strong> many communes require registration within <strong>14 days</strong> (sometimes less) and usually <strong>before starting work</strong>. Rules vary by canton and commune—always confirm locally.
+                    <strong>Deadlines:</strong> in many cantons, you must register within <strong>14 days</strong> (sometimes less) and, if you are coming to work, usually <strong>before your first working day</strong>. The details vary by canton and commune, so always confirm on your municipality's official website.
                 </div>
 
                 <h2>Requirements and rules</h2>
-                <h3>Who needs to register?</h3>
+                <h3>1) Who needs to register, and who does not?</h3>
                 <ul>
-                    <li><strong>Moving to reside (job, studies, family):</strong> Yes—registration is normally required within the local deadline.</li>
-                    <li><strong>Short stay (up to 90 days):</strong> Typically as a tourist, no resident registration is needed.</li>
+                    <li><strong>Tourist / short stay (for example up to 90 days):</strong> usually <strong>no commune registration</strong> as a resident.</li>
+                    <li><strong>Moving to reside in Switzerland (job, studies, family):</strong> in practice, <strong>yes</strong>, you must register with your commune within the local deadline.</li>
+                    <li><strong>EU/EFTA job seeker:</strong> you may spend some time looking for work under specific rules. If you settle and/or stay beyond the permitted period, you <strong>must regularize</strong> your situation according to the canton.</li>
+                    <li><strong>Cross-border worker (G permit):</strong> you work in Switzerland but <strong>live abroad</strong>. This is not processed like a normal residence registration, although there are still cantonal, employer, tax and insurance formalities.</li>
                 </ul>
+                <p>If your case is mixed, for example you start as a short stay and then get hired, the practical rule is simple: <strong>as soon as you have a reason to reside and an address, act quickly</strong> so you do not run into delays or penalties.</p>
 
-                <h3>Common documents</h3>
+                <h3>2) Address and accommodation: yes, it can be temporary</h3>
+                <p>If you are staying in a hotel, Airbnb or with someone when you first arrive, in many cases you can register with a <strong>temporary address</strong> and update it later. If you stay in somebody else's home, a signed <strong>accommodation certificate</strong> from the tenant or owner is often required.</p>
+
+                <h3>3) Common documents</h3>
                 <ul>
-                    <li>Passport or ID card.</li>
-                    <li>Employment contract or proof of sufficient financial means.</li>
-                    <li>Lease agreement or accommodation confirmation (logement).</li>
-                    <li>Civil status documents (for families).</li>
+                    <li>ID card or passport.</li>
+                    <li><strong>Reason for stay:</strong> employment contract, proof of admission to studies, or proof of financial means, depending on the case.</li>
+                    <li>Lease agreement or accommodation certificate.</li>
+                    <li>Passport-style photo, or they may take it there depending on the commune.</li>
+                    <li>Family documents if relevant, such as marriage or birth certificates.</li>
+                </ul>
+                <p>It is also common to pay an <strong>administrative fee</strong>. The amount depends on the canton and the permit type.</p>
+
+                <h2>Concrete examples</h2>
+                <h3>Example 1: you arrive with a job and temporary accommodation</h3>
+                <p>You register with your contract, ID and temporary address. You receive a registration certificate and can move forward with banking and health insurance while you wait for the permit card. Once you sign your final lease, you report the address change.</p>
+
+                <h3>Example 2: you arrive as a student</h3>
+                <p>You show your admission/enrolment letter and proof of financial means or coverage according to the canton. Registration then activates the rest of your formalities, including insurance and taxes if you work.</p>
+
+                <h3>Example 3: you are a cross-border worker</h3>
+                <p>You do not follow the same process as a resident. Your permit and obligations are usually handled with the employer and the cantonal authority, under specific tax and insurance rules. Do not treat it like "a B permit while living abroad."</p>
+
+                <h2>Common mistakes</h2>
+                <ul>
+                    <li><strong>Confusing entry with residence:</strong> visiting Switzerland does not mean you register; moving there does.</li>
+                    <li><strong>Waiting for a final apartment</strong> and missing the deadline.</li>
+                    <li><strong>Not booking an appointment</strong> in time in communes with long waiting lists.</li>
+                    <li><strong>Failing to update your address</strong> when you move. Deregistration and new registration matter a lot in Switzerland.</li>
                 </ul>
 
                 <h2>Practical advice</h2>
                 <ul>
-                    <li>Check your commune website for the exact list of documents and fees.</li>
+                    <li>Check your commune website for the exact list of documents, fees and appointment rules.</li>
                     <li>After registration, prioritize <a href="#/health-insurance-switzerland-lamal">LAMal</a> and your bank account setup.</li>
+                    <li>Keep both paper and digital copies of everything you submit.</li>
+                    <li>If you move soon after arrival, report the change of address within the local deadline.</li>
                 </ul>
 
                 <h2>Official Swiss sources</h2>
@@ -230,8 +338,8 @@ window.siteContent.en.articles = {
 
     // 3. Seguro de salud (LAMal)
     "articulo-lamal": {
-        title: "Health insurance in Switzerland (LAMal): A practical guide",
-        description: "Everything you need to know about the mandatory Swiss health insurance (LAMal): coverage, models, deadlines, and how to save on premiums.",
+        title: "Health insurance in Switzerland (LAMal): how it works",
+        description: "Health insurance is mandatory in Switzerland. Learn how LAMal, the basic Swiss health insurance system, actually works.",
         keywords: "health insurance switzerland, LAMal, KVG, swiss health insurance, premium reduction, HMO model",
         audience: 'resident',
         featuredImage: "media/guides/seguro-medico-lamal-suiza.jpg",
@@ -240,51 +348,101 @@ window.siteContent.en.articles = {
         hub: "salud",
         slug: "health-insurance-switzerland-lamal",
         readingTime: 6,
-        summary: "Health insurance in Switzerland is mandatory, private, and individual. You have three months to enroll after your arrival, and coverage is retroactive.",
+        summary: "LAMal is mandatory and private. The state does not cover you automatically, and you have three months to sign up, with premiums due retroactively from day one.",
         content: `
             <div class="article-content">
-                <p>Unlike many other European countries, Switzerland does not have a state-run healthcare system funded by social security taxes. Instead, every resident is required to purchase insurance from private insurers under the Federal Health Insurance Act (<strong>LAMal</strong> or <strong>KVG</strong>).</p>
+                <h2>Introduction</h2>
+                <p>One of the biggest differences when moving to Switzerland is that healthcare is not handled through an automatic state-run social security system. Basic medical coverage is purchased from a private insurer, but the benefits are regulated by law under <strong>LAMal</strong> (<strong>KVG</strong> in German). In simple terms: <strong>it is mandatory, private, and standardized in coverage</strong>.</p>
 
-                <h2>Obligation and Deadlines</h2>
-                <p>Every person residing in Switzerland must take out basic health insurance within <strong>three months</strong> of their official registration. The insurance coverage is retroactive to your first day of residence, meaning you must pay premiums for those initial months even if you sign up later.</p>
-
-                <h2>What does Basic Insurance (LAMal) cover?</h2>
-                <p>The benefits covered by basic insurance are identical across all companies by law. They include:</p>
-                <ul>
-                    <li>General and specialist medical consultations.</li>
-                    <li>Medicines prescribed by a doctor (from the official list).</li>
-                    <li>Hospital treatment in the general ward of your canton of residence.</li>
-                    <li>Maternity costs (no deductible/copayment applied).</li>
-                </ul>
-
-                <h2>What is NOT covered?</h2>
-                <p>Basic insurance generally does <strong>not</strong> cover:</p>
-                <ul>
-                    <li>Routine dental care (check-ups, cleanings, fillings).</li>
-                    <li>Glasses or contact lenses (with minor exceptions for children).</li>
-                    <li>Hospitalization in private or semi-private rooms.</li>
-                </ul>
-
-                <h2>Insurance Models: How to save on premiums</h2>
-                <p>While coverage is the same, you can choose a specific "model" to reduce your monthly cost:</p>
-                <ul>
-                    <li><strong>HMO Model:</strong> You agree to always visit a specific group health center first. It offers the highest discount.</li>
-                    <li><strong>Telmed:</strong> You must call a medical hotline for a first consultation before visiting a doctor.</li>
-                    <li><strong>Family Doctor:</strong> You must always consult your assigned primary care physician first.</li>
-                    <li><strong>Standard (Free Choice):</strong> You can go directly to any specialist, but it is the most expensive option.</li>
-                </ul>
-
-                <h2>How medical bills are paid</h2>
-                <p>There are two main systems for processing payments:</p>
-                <ul>
-                    <li><strong>Tiers-garant:</strong> You pay the bill or pharmacy first and send the receipt to your insurer for reimbursement.</li>
-                    <li><strong>Tiers-payant:</strong> The bill is sent directly from the provider to the insurer, who then bills you for your share (deductible/copayment).</li>
-                </ul>
-
-                <h2>Subsidies and Premium Reduction (Subsides)</h2>
-                <div class="callout info">
-                    <strong>Financial help:</strong> If your income is below a certain threshold, you are entitled to a <strong>premium reduction (Subsidies / Subsides)</strong> paid for by your canton. This can cover a significant portion of your monthly premium. You usually need to apply through the cantonal health office (SASP, OVAM, etc.).
+                <div class="callout warning">
+                    <strong>Critical deadline:</strong> you have up to <strong>3 months</strong> from your arrival/registration to take out basic insurance. Coverage is <strong>retroactive</strong>, so you will owe premiums from day one even if you sign up late.
                 </div>
+
+                <h2>How the system works</h2>
+                <h3>1) Basic insurance (LAMal) vs supplementary insurance</h3>
+                <p><strong>Basic</strong> insurance covers essential healthcare, and by law the covered benefits are the same with every insurer. <strong>Supplementary</strong> insurance covers extras such as dental care, private/semi-private rooms, glasses, and so on. Unlike the basic policy, supplementary coverage is not guaranteed: the insurer can require a medical questionnaire, impose exclusions, or refuse the application.</p>
+
+                <h3>2) What you pay: premium, deductible and co-payment</h3>
+                <p>Being insured in Switzerland does not mean everything is included. The cost is made up of:</p>
+                <ul>
+                    <li><strong>Monthly premium:</strong> a fixed amount that varies by canton/municipality, age and insurance model.</li>
+                    <li><strong>Deductible:</strong> the annual amount you pay yourself before the insurer starts reimbursing.</li>
+                    <li><strong>Co-payment:</strong> after the deductible, you still pay a percentage of the remaining costs, up to the legal cap.</li>
+                    <li><strong>Hospital contribution:</strong> for hospitalization, adults usually pay a daily amount.</li>
+                </ul>
+                <p>To understand the numbers and choose a strategy, such as a 300 CHF versus 2,500 CHF deductible, see <a href="#/deductible-and-copayment-switzerland">deductibles and cost-sharing in Switzerland</a>.</p>
+
+                <h3>3) Models: free choice, family doctor, telemedicine, HMO</h3>
+                <p>A major factor in your premium is the <strong>model</strong>. In some models you must first call telemedicine or see your family doctor before going to a specialist. If you do not follow the rules of the model you chose, reimbursements can be refused. For many newcomers, a cheaper model works well, as long as they are disciplined about the rules.</p>
+
+                <h3>4) Choosing and changing insurer</h3>
+                <p>For LAMal basic insurance, the contract renews and can be changed according to a yearly calendar. In practice, people often compare premiums in autumn for the following year and submit the change within the applicable deadline. The exact dates and conditions depend on the product and the year, so always follow the official guidance and the insurer's own conditions.</p>
+
+                <h3>5) Billing: why you sometimes pay first</h3>
+                <p>It is very common to receive invoices from the doctor or hospital. Depending on the billing system, you may need to pay first and request reimbursement later, or the provider may bill the insurer directly. In either case, if you have not reached your deductible yet, that cost still comes out of your own pocket. This is why the Swiss system can feel expensive even when you are already paying monthly premiums.</p>
+
+                <h2>Requirements and rules</h2>
+                <h3>1) Who needs to be insured?</h3>
+                <p>In general, anyone residing in Switzerland must be insured. There are exceptions and special rules, for example in some cases for cross-border workers or students. If your case is unusual, get written confirmation from your canton about what applies to you.</p>
+
+                <h3>2) Accidents: the most expensive mistake</h3>
+                <p>If you work, you may already have <strong>accident insurance</strong> through your employer, sometimes including non-occupational accidents depending on your working time. In that case, you can usually exclude accident coverage from your LAMal policy and lower your premium. If you leave your job, you need to <strong>reactivate</strong> accident coverage in your LAMal policy so you are not left uninsured. Many people forget this at exactly the wrong moment.</p>
+
+                <h3>3) Premium reductions and financial support</h3>
+                <p>There is a system of <strong>premium reductions</strong> for individuals and families with modest income, managed at cantonal level. The rules, thresholds and application process <strong>vary by canton</strong>. If your budget is tight, this is essential because many people miss out simply because they do not know it exists.</p>
+
+                <h3>4) What basic insurance covers</h3>
+                <p>Basic insurance covers medically necessary care under the legal framework. In practical terms, this usually includes:</p>
+                <ul>
+                    <li>Visits to general practitioners and specialists, depending on your model and referral rules.</li>
+                    <li>Prescribed medicines that appear on the official lists.</li>
+                    <li>Hospital stays in the <strong>general ward</strong>, normally in your canton except in emergencies or specific situations.</li>
+                    <li>Maternity care under special reimbursement rules.</li>
+                </ul>
+
+                <h3>5) What it does not cover, or only covers in a limited way</h3>
+                <ul>
+                    <li><strong>Dental care:</strong> most routine dental treatment is paid separately or through supplementary insurance.</li>
+                    <li><strong>Glasses and contact lenses:</strong> often only partly covered or not covered by the basic policy.</li>
+                    <li><strong>Private or semi-private hospital rooms:</strong> usually supplementary insurance only.</li>
+                </ul>
+
+                <h2>Concrete examples</h2>
+                <h3>Example 1: a healthy person who wants to pay less each month</h3>
+                <p>If you rarely go to the doctor, choosing a high deductible is common because it reduces the monthly premium. The trade-off is that if you need urgent care or expensive treatment that year, you will pay more upfront.</p>
+
+                <h3>Example 2: a family with small children</h3>
+                <p>With children, doctor visits tend to be more frequent. Many families prefer lower deductibles for better predictability. It is also worth choosing a model that works well for pediatrics and urgent care.</p>
+
+                <h3>Example 3: you arrive and fail to sign up on time</h3>
+                <p>If you let the three months pass, you do not save premiums. You will usually be charged retroactively from day one and may even be assigned an insurer. This should be part of your <a href="#/first-month-checklist-essential-steps-when-you-arrive-in-switzerland">first month checklist</a>.</p>
+
+                <h3>Example 4: calculating your annual worst-case cost</h3>
+                <p>A practical way to choose a deductible is to calculate your worst-case year. For example, if your premium is 350 CHF/month (4,200 CHF/year) and you choose a 2,500 CHF deductible, your worst year may look like: annual premiums + deductible + maximum co-payment. Then compare that with the 300 CHF deductible scenario, where the premium is higher but the deductible is lower, and decide what gives you more peace of mind.</p>
+
+                <h2>Common mistakes</h2>
+                <ul>
+                    <li><strong>Choosing only by price:</strong> if you do not understand the model, you may end up with bills that are not reimbursed.</li>
+                    <li><strong>Confusing basic and supplementary insurance:</strong> dental care and private rooms are not included by default.</li>
+                    <li><strong>Choosing the wrong deductible:</strong> a low premium is not worth it if you reliably have medical expenses every year.</li>
+                    <li><strong>Not adjusting accident coverage when your job changes:</strong> you may duplicate coverage or lose the right one.</li>
+                </ul>
+
+                <h2>Practical advice</h2>
+                <ul>
+                    <li>Compare plans on the official portal <a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo</a>.</li>
+                    <li>Calculate your annual worst case: premium + deductible + co-payment.</li>
+                    <li>If you want supplementary coverage such as dental insurance, it is often easier to apply while you are healthy and before any diagnosis appears.</li>
+                    <li>If your budget is tight, check whether your canton offers a <strong>premium reduction</strong>.</li>
+                    <li>Read this guide together with <a href="#/deductible-and-copayment-switzerland">deductibles and co-payments</a> and <a href="#/cost-of-living-in-switzerland">the cost of living guide</a>.</li>
+                </ul>
+
+                <h2>Official sources</h2>
+                <ul>
+                    <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo — official premium comparison portal</a></li>
+                    <li><a href="https://www.bag.admin.ch/" target="_blank" rel="noopener noreferrer">FOPH / BAG — Federal Office of Public Health</a></li>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Official Swiss portal</a></li>
+                </ul>
             </div>
         `
     },
@@ -348,8 +506,8 @@ window.siteContent.en.articles = {
     // 5. Impuestos en Suiza: federal, cantonal y comunal
     "articulo-impuestos": {
         title: "Taxes in Switzerland: federal, cantonal and municipal",
-        description: "Understand Switzerland's triple taxation system: from the Confederation to the canton and municipality. How much you pay, deadlines and how to reduce your tax burden.",
-        keywords: "taxes Switzerland, source tax Switzerland, direct tax Switzerland, federal tax Switzerland, cantonal tax Switzerland, tax rates Switzerland",
+        description: "Understand the Swiss three-level tax system: Confederation, canton and municipality, and why where you live matters so much.",
+        keywords: "taxes switzerland, swiss tax system, cantonal taxes switzerland, municipal taxes switzerland, withholding tax switzerland",
         category: "Taxes and Finance",
         hub: "impuestos",
         slug: "taxes-switzerland-federal-cantonal-municipal",
@@ -357,75 +515,110 @@ window.siteContent.en.articles = {
         dateUpdated: "March 2026",
         featuredImage: "media/guides/impuestos-suiza.png",
         imageAlt: "Swiss tax documents and payslip showing federal, cantonal and municipal taxes",
-        summary: "Switzerland has three levels of taxation: federal, cantonal and municipal. As an employee you pay source tax (deducted automatically), but you must still file a tax return. Your canton and municipality determine the rates.",
+        summary: "In Switzerland you pay taxes at three levels. Cantonal and municipal taxation create the biggest differences, and they can change dramatically even between nearby communes.",
         content: `
             <div class="article-content">
+                <h2>Introduction</h2>
+                <p>In Switzerland, you do not understand taxes by looking at one national rate and stopping there. The country is federal, and your tax burden depends heavily on <strong>where you live</strong> (canton and commune), your marital status, children, and income level. Two people with the same salary can pay different amounts simply because they live in different communes.</p>
 
-                <h2>The three levels of taxation</h2>
-                <p>Switzerland's tax system is unique: you pay tax at three levels simultaneously. This "triple taxation" is characteristic of the federal structure.</p>
-                <ul>
-                    <li><strong>Federal tax:</strong> to the Confederation, same for everyone (8% average).</li>
-                    <li><strong>Cantonal tax:</strong> to your canton, varies from 5% to 22%.</li>
-                    <li><strong>Municipal tax:</strong> to your municipality, varies from 12% to 140% of cantonal tax.</li>
-                </ul>
-                <p>The total effective tax rate for an average worker with a salary of 80,000 CHF ranges from 18% to 35% depending on the canton and municipality you choose.</p>
-
-                <h2>How much do you really pay?</h2>
-                <p>Your payslip shows "source tax" (withholding tax) which is automatically withheld by your employer. This covers federal, cantonal and municipal taxes all in one deduction.</p>
-                <p>For a married employee with one child earning 80,000 CHF:</p>
-                <ul>
-                    <li>In Zug (low tax): approximately 10,000–12,000 CHF/year (12.5% effective rate).</li>
-                    <li>In Basel-Stadt (high tax): approximately 20,000–22,000 CHF/year (26% effective rate).</li>
-                </ul>
-                <p>The difference between cantons is substantial and influences long-term financial planning.</p>
-
-                <h2>Tax-friendly cantons: Zug, Uri, Schwyz</h2>
-                <p>Three cantons offer significantly lower tax rates:</p>
-                <ul>
-                    <li><strong>Zug:</strong> total tax ~12.5% (famous for company headquarters due to low corporate tax).</li>
-                    <li><strong>Uri:</strong> total tax ~13% (smallest canton, very low corporate tax).</li>
-                    <li><strong>Schwyz:</strong> total tax ~14% (no cantonal income tax for low earners).</li>
-                </ul>
-                <p>However, living costs in these cantons (especially Zug) may offset tax savings. The decision should be holistic.</p>
-
-                <h2>Expensive cantons: Geneva, Basel-Stadt, Valais</h2>
-                <ul>
-                    <li><strong>Geneva:</strong> total tax ~21% (high living costs, but good services).</li>
-                    <li><strong>Basel-Stadt:</strong> total tax ~26% (one of the highest in Switzerland).</li>
-                    <li><strong>Valais:</strong> total tax ~15% but high municipal taxes in some areas.</li>
-                </ul>
-
-                <h2>Do I have to file a tax return?</h2>
-                <p>Yes, you must file an annual tax return in your canton of residence, even though source tax is already withheld from your salary. This is mandatory and the deadline is typically March or April of the following year.</p>
-                <p>The tax return serves to calculate your final tax liability. If you paid too much through source tax, you get a refund. If you paid too little, you owe more.</p>
-
-                <h2>What can you deduct?</h2>
-                <p>Employee contributions to the pension fund (up to set limits), health insurance premiums, professional expenses (uniforms, tools, commuting over 120 km one way), mortgage interest (if you own property), donations to charitable organizations.</p>
-                <p>You cannot deduct rent, car payments, or daily living expenses.</p>
-
-                <h2>What about the third pillar (3a)?</h2>
-                <p>This is voluntary retirement savings that offers significant tax advantages. You can contribute up to 6,826 CHF/year (2024 limit for employees) and deduct it from your taxable income. The money grows tax-free until retirement (age 65). For someone in the 25% tax bracket, this is an immediate 25% return on investment through tax deduction.</p>
-                <p>Third pillar should be started as early as possible because compound interest benefits greatly from time.</p>
-
-                <h2>Tax deadlines and penalties</h2>
-                <p>Tax returns must be filed by March/April (exact date varies by canton). If you miss the deadline, you can request an extension of 30 days. After that, you face a penalty of 5–10% of the tax owed, plus interest.</p>
-                <p>If you move cantons, your source tax classification changes immediately. Notify your employer.</p>
-
-                <h2>Married couples and families</h2>
-                <p>Married couples file a joint tax return and benefit from higher deductions and lower rates. If both work, the combined income is taxed progressively, which can result in lower total tax than if you were single.</p>
-                <p>Having children increases your deductions significantly (child allowances, educational deductions).</p>
-
-                <h2>Frontier workers: special rules</h2>
-                <p>If you live in France/Germany/Italy and work in Switzerland, different rules apply. You typically pay source tax in Switzerland but also have obligations in your home country. This requires professional tax advice to optimize.</p>
-
-                <div class="callout tip">
-                    <strong>Strategy:</strong> Consider your canton choice carefully when deciding where to live. A 13% tax rate (Zug) vs. 26% (Basel-Stadt) is a 13 percentage point difference. Over a 30-year career earning 80,000 CHF, that's a difference of hundreds of thousands of CHF. Also maximize your third pillar contributions early.
+                <div class="callout info">
+                    <strong>Key points:</strong>
+                    <ul>
+                        <li>You pay taxes at <strong>three levels</strong>: Confederation, canton and commune.</li>
+                        <li>Cantonal and municipal taxation is usually what varies most, and what matters most in your budget.</li>
+                        <li>Many newcomers with L or B permits start with <a href="#/withholding-tax-switzerland-quellensteuer">withholding tax</a> deducted directly from salary.</li>
+                    </ul>
                 </div>
+
+                <h2>How the system works</h2>
+                <h3>1) Direct federal tax</h3>
+                <p>This is the national component. It is applied in a broadly uniform way across the country, with progressive brackets. It is often a smaller share of your total tax bill compared with canton and commune.</p>
+
+                <h3>2) Cantonal taxes</h3>
+                <p>Each canton defines its own brackets, deductions and rules. In many cantons there is also a <strong>wealth tax</strong>, with its own thresholds and logic. That is why talking about "taxes in Switzerland" without naming the canton only tells half the story.</p>
+
+                <h3>3) Municipal taxes</h3>
+                <p>In many cantons, the commune applies a coefficient or multiplier to the basic cantonal tax. The result is simple: moving just a few kilometres can change your tax burden without changing your employer.</p>
+
+                <h3>4) Withholding tax vs annual return</h3>
+                <p>There are two broad ways taxes are paid:</p>
+                <ul>
+                    <li><strong>Withholding tax:</strong> your employer deducts it monthly from your salary, very common with L and B permits.</li>
+                    <li><strong>Ordinary annual return:</strong> you file a tax return and pay or adjust according to the final assessment, common with a C permit and in other situations.</li>
+                </ul>
+                <p>In some cases, even if you are taxed at source, you may still be required to file an ordinary return or a correction, depending on the canton and your personal situation. If you are unsure, do not wait until the official letter arrives.</p>
+
+                <h3>5) Tax year, invoices and "surprises"</h3>
+                <p>Under ordinary taxation, it is common to receive provisional bills or advance-payment requests depending on the canton, followed by later adjustments. That is why you can receive a tax settlement months after the year has ended even if your salary has been stable. The practical advice is simple: <strong>keep a cash buffer</strong> and do not plan your finances down to the last franc.</p>
+
+                <h3>6) Church tax, depending on canton and affiliation</h3>
+                <p>In some cantons there is a tax linked to religious affiliation. If you are not a member of the relevant church, it should generally not apply. Because this is both sensitive and canton-specific, check your canton's documentation if you see a line item you do not understand.</p>
+
+                <h2>Requirements and rules</h2>
+                <h3>Documents that often form the basis of your tax situation</h3>
+                <ul>
+                    <li><strong>Lohnausweis / salary certificate:</strong> the annual document showing your salary and payroll items.</li>
+                    <li><strong>Marital status and children:</strong> they affect withholding tax categories and deductions.</li>
+                    <li><strong>Tax residence / commune:</strong> this determines a large part of the final bill.</li>
+                    <li><strong>Assets and debts:</strong> if applicable, especially in cantons with wealth tax.</li>
+                </ul>
+
+                <h3>What withholding tax means in practice</h3>
+                <p>If you are taxed at source, the tax administration applies a standard tariff based on categories such as marital status and children. For you, the important things are:</p>
+                <ul>
+                    <li>Checking that your category is correct, because family changes matter.</li>
+                    <li>Knowing whether your canton allows <strong>corrections</strong> or adjustments for deductions such as pillar 3a contributions or training expenses.</li>
+                    <li>Understanding that some thresholds or situations can move you into ordinary taxation under cantonal and federal rules.</li>
+                </ul>
+
+                <h3>What happens if you file an ordinary return</h3>
+                <p>With an ordinary tax return, the canton and commune apply their own deduction rules and tax scales. Deductions may exist for:</p>
+                <ul>
+                    <li>Pension-related contributions such as pillar 3a.</li>
+                    <li>Professional expenses, according to cantonal rules.</li>
+                    <li>Childcare costs, depending on the canton.</li>
+                    <li>Interest on debt, depending on the canton.</li>
+                </ul>
+                <p>The exact list of deductions and limits is <strong>canton-dependent</strong>. Do not copy tax advice from one canton to another without checking it first.</p>
+
+                <h3>You move within Switzerland: why everything changes</h3>
+                <p>In Switzerland, your tax residence matters enormously. If you move commune or canton, not only the rates change: deductions, forms, deadlines and payment methods can change as well. It is not unusual for the first year after a move to include adjustments because the system recalculates your new situation.</p>
+
+                <h2>Concrete examples</h2>
+                <h3>Example 1: same salary, different commune</h3>
+                <p>You are offered the same salary by the same employer, but you are deciding between two nearby communes. If one commune has a high multiplier and the other a low one, your real net income changes. That is why when comparing rents in Switzerland, you should compare taxes too.</p>
+
+                <h3>Example 2: you get married mid-year</h3>
+                <p>A change in marital status can change your withholding tax category or your deductions. In practice, you need to report the change and keep the documentation. The typical mistake is to leave it until the end of the year and then be surprised by adjustments.</p>
+
+                <h3>Example 3: extra income from self-employment, rent or investments</h3>
+                <p>If you have additional income, standard withholding tax may no longer reflect your final position. This is a classic case where a return or adjustment may become mandatory. The practical advice is to anticipate it and set money aside.</p>
+
+                <h3>Example 4: you move to another canton in summer</h3>
+                <p>You work the whole year but change cantons halfway through. Even though it is the same country, fiscally it is a major change. Report it properly when you register your new address and assume the final calculation may differ from what you expected.</p>
+
+                <h2>Common mistakes</h2>
+                <ul>
+                    <li><strong>Thinking "taxes are low in Switzerland" without checking canton and commune:</strong> the difference can be large.</li>
+                    <li><strong>Not checking your withholding tax category:</strong> one category error can affect the whole year.</li>
+                    <li><strong>Not keeping the annual salary certificate:</strong> it is the central document for any correction or tax return.</li>
+                    <li><strong>Not planning liquidity:</strong> in Switzerland, adjustments and later invoices do happen, so do not live too close to the edge.</li>
+                </ul>
+
+                <h2>Practical advice</h2>
+                <ul>
+                    <li>If you have just arrived, start by understanding <a href="#/withholding-tax-switzerland-quellensteuer">withholding tax</a>.</li>
+                    <li>When choosing where to live, look at the whole package: rent + taxes + transport.</li>
+                    <li>If you move commune or canton, assume the rules change and review your budget.</li>
+                    <li>Create one tax folder per year with your PDFs and letters: salary certificate, contracts, pillar 3a receipts and cantonal correspondence.</li>
+                    <li>If you are unsure, contact your cantonal tax authority. One timely phone call can prevent expensive mistakes.</li>
+                    <li>Read this guide together with <a href="#/cost-of-living-in-switzerland">the cost of living guide</a> and <a href="#/cross-border-workers-frontaliers-rules-and-taxes">cross-border worker rules</a> if relevant.</li>
+                </ul>
 
                 <h2>Official sources</h2>
                 <ul>
-                    <li><a href="https://www.swisstaxadvisor.ch" target="_blank" rel="noopener noreferrer">Swiss tax comparison tool</a></li>
-                    <li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">ESTV (Federal Tax Administration)</a></li>
+                    <li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">FTA / ESTV — Federal Tax Administration</a></li>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Official Swiss portal</a></li>
                 </ul>
             </div>
         `
@@ -918,9 +1111,9 @@ window.siteContent.en.articles = {
 
     // 14. Costo de vida
     "articulo-costo-vida": {
-        title: "Cost of living in Switzerland: Monthly budget and prices",
-        description: "A detailed breakdown of the cost of living in Switzerland. Examples of monthly budgets for singles and families, including rent, insurance, and food.",
-        keywords: "cost of living switzerland, swiss prices, monthly budget switzerland, how expensive is switzerland",
+        title: "Budgeting in Switzerland: housing, food and taxes",
+        description: "Financial planning in Switzerland with sample budgets for singles, couples and families dealing with housing, food and taxes.",
+        keywords: "budget switzerland, financial planning switzerland, swiss family budget, cost of living switzerland",
         audience: 'resident',
         featuredImage: "media/guides/presupuesto-suiza.png",
         imageAlt: "A selection of Swiss products and bills, representing the cost of living",
@@ -928,53 +1121,64 @@ window.siteContent.en.articles = {
         hub: 'vivir-en-suiza',
         slug: "cost-of-living-switzerland",
         readingTime: 6,
-        summary: "While Swiss salaries are high, the expenses are equally significant. Understanding the breakdown of fixed costs is crucial for financial planning.",
+        summary: "A practical budgeting guide for Switzerland with realistic examples, from a single adult to larger families with children.",
         content: `
             <div class="article-content">
-                <p>Switzerland is consistently ranked as one of the most expensive countries in the world. However, high costs are balanced by the world's highest median salaries. To understand if a salary is "good," you must first look at what remains after fixed monthly expenses.</p>
+                <h2>Introduction</h2>
+                <p>Switzerland is one of the countries with the highest cost of living in Europe, which is why planning every franc matters. Budgeting helps avoid surprises, control spending and make calmer decisions about housing, food and taxes. The Swiss Budget Advisory Service publishes real examples that are useful reference points for everyday life.</p>
 
-                <h2>Is Switzerland really that expensive?</h2>
-                <p>Yes, especially when it comes to services (restaurants, hair salons, repairs) and mandatory insurance. However, the <strong>purchasing power</strong> of a resident in Switzerland is generally higher than in most other European countries once the "fixed" bills are paid.</p>
-
-                <h2>Sample Monthly Budget (Single Person)</h2>
-                <p>Indicative monthly expenses for a single person in an urban area (excluding taxes):</p>
-                <table class="info-table">
-                    <thead><tr><th>Expense</th><th>Amount (CHF)</th></tr></thead>
-                    <tbody>
-                        <tr><td>Rent (1.5 - 2.5 rooms)</td><td>1,400 - 1,900</td></tr>
-                        <tr><td>Basic Health Insurance (LAMal)</td><td>350 - 450</td></tr>
-                        <tr><td>Groceries & Household</td><td>500 - 700</td></tr>
-                        <tr><td>Transport (Local pass)</td><td>70 - 100</td></tr>
-                        <tr><td>Internet / Mobile / Billag</td><td>120 - 150</td></tr>
-                        <tr><td>Leisure / Eating out</td><td>300 - 500</td></tr>
-                        <tr><td><strong>Total Estimated</strong></td><td><strong>2,740 - 3,800</strong></td></tr>
-                    </tbody>
-                </table>
-
-                <h2>Sample Monthly Budget (Family of 4)</h2>
-                <p>Indicative expenses for a couple with two children:</p>
-                <table class="info-table">
-                    <thead><tr><th>Expense</th><th>Amount (CHF)</th></tr></thead>
-                    <tbody>
-                        <tr><td>Rent (4.5 rooms)</td><td>2,400 - 3,500</td></tr>
-                        <tr><td>Health Insurance (Total family)</td><td>900 - 1,200</td></tr>
-                        <tr><td>Groceries & Supermarket</td><td>1,200 - 1,600</td></tr>
-                        <tr><td>Schooling / Extracurricular</td><td>200 - 500</td></tr>
-                        <tr><td>Household / Utilities</td><td>200 - 350</td></tr>
-                        <tr><td><strong>Total Estimated</strong></td><td><strong>4,900 - 7,150</strong></td></tr>
-                    </tbody>
-                </table>
-
-                <h2>Regional Differences: City vs. Countryside</h2>
-                <p>Costs vary significantly depending on where you choose to live:</p>
+                <h2>Budget for a single person</h2>
+                <p>Living alone means balancing fixed costs against your monthly net income.</p>
                 <ul>
-                    <li><strong>Expensive Hubs:</strong> Zurich and Geneva have the highest rents and insurance premiums in the country.</li>
-                    <li><strong>Suburban/Rural:</strong> Cantons like Glarus, Appenzell, or parts of Fribourg offer significantly cheaper housing, though you may face higher transport costs for commuting.</li>
-                    <li><strong>Tax Paradises:</strong> Cantons like Zug or Schwyz have much lower income taxes, which often offsets the higher rents in those areas.</li>
+                    <li><strong>Rent:</strong> a studio or one-bedroom apartment usually costs between 1,400 and 2,200 CHF including charges. Plan for annual increases and share costs when possible.</li>
+                    <li><strong>Food:</strong> cooking at home and shopping in chains such as Migros or Coop often keeps spending around 400 to 500 CHF; eating out regularly can double that.</li>
+                    <li><strong>Transport:</strong> a monthly urban pass often costs around 80 to 140 CHF. Under-25s or people who live close to work may find cheaper options.</li>
+                    <li><strong>Health insurance:</strong> the basic LAMal premium often ranges from 300 to 450 CHF depending on canton and age. Choose your deductible carefully and keep some money aside for co-payments.</li>
                 </ul>
 
-                <h2>The Economic Surplus: Why salaries compensate</h2>
-                <p>The "Swiss secret" is that while a coffee might cost 5 CHF, your ability to save 10% of a 6,000 CHF salary yields 600 CHF—a much higher absolute value for traveling or personal projects than saving 10% of a 1,500 EUR salary elsewhere.</p>
+                <h2>Budget for couples without children</h2>
+                <p>Two adults share costs, but they also need room for leisure and future plans.</p>
+                <ul>
+                    <li><strong>Housing:</strong> a two- or three-room apartment may cost 2,300 to 3,200 CHF, with electricity, internet and maintenance shared.</li>
+                    <li><strong>Leisure:</strong> restaurants, gym memberships and short trips can easily add 200 to 400 CHF; setting a monthly limit helps protect savings.</li>
+                    <li><strong>Insurance:</strong> beyond LAMal, many couples also carry liability and household insurance, especially if they have pets or a car.</li>
+                    <li><strong>Savings:</strong> putting aside at least 10 to 15% of income for emergencies or long-term goals matches the advice often given by Swiss budget counsellors.</li>
+                </ul>
+
+                <h2>Budget for families with children</h2>
+                <p>For families, some spending categories multiply with each child.</p>
+                <ul>
+                    <li><strong>Childcare:</strong> a daycare place can cost between 1,200 and 2,000 CHF per child, although cantonal subsidies may reduce the amount.</li>
+                    <li><strong>Education:</strong> school materials, outings and language classes can add 100 to 200 CHF per child each month.</li>
+                    <li><strong>Food:</strong> family meal planning often raises the budget to 700 to 900 CHF per month.</li>
+                    <li><strong>Clothing:</strong> plan renewals and use discounts to avoid overspending.</li>
+                    <li><strong>Transport:</strong> family travel passes or school travel often add 150 to 250 CHF.</li>
+                    <li><strong>Extracurricular activities:</strong> music, sports or tutoring can cost 100 to 250 CHF per child every month.</li>
+                </ul>
+
+                <h3>Family with 1 child</h3>
+                <p>A typical example might include 2,400 CHF in rent, around 1,000 CHF for part-time daycare, and roughly 650 CHF for food. Coordinating travel and errands can help keep transport costs down.</p>
+
+                <h3>Family with 2 children</h3>
+                <p>Daycare and extracurricular costs can double quickly, so it is often worth prioritizing public options or centres that offer discounts for siblings.</p>
+
+                <h3>Family with 3 children</h3>
+                <p>Efficiency becomes central: lower-cost transport and energy choices, a stronger emergency fund, and making full use of the free public school system.</p>
+
+                <h2>Why is it important to have a budget?</h2>
+                <p>A well-prepared budget turns uncertainty into informed decisions.</p>
+                <ul>
+                    <li><strong>Control spending:</strong> tracking each category shows where savings are actually possible, from subscriptions to impulse buying or transport habits.</li>
+                    <li><strong>Plan the future:</strong> once you know what remains each month, you can decide whether to save for housing, change car, or invest in education.</li>
+                    <li><strong>Create an emergency fund:</strong> advisers usually recommend at least three months of fixed expenses for emergencies such as repairs or job loss.</li>
+                    <li><strong>Live with more financial peace of mind:</strong> fewer surprises means more confidence when your canton, family situation or work changes.</li>
+                </ul>
+
+                <h2>Official sources</h2>
+                <ul>
+                    <li><a href="https://conseil-budgetaire.ch/" target="_blank" rel="noopener noreferrer">Swiss Budget Advisory Service</a> — real budget examples and free guidance.</li>
+                    <li><a href="https://conseil-budgetaire.ch/individus/budgethilfen/budgetvorlagen" target="_blank" rel="noopener noreferrer">Budget templates</a> ready to download and adapt.</li>
+                </ul>
             </div>
         `
     },
@@ -1412,28 +1616,33 @@ window.siteContent.en.articles = {
     },
 
     "articulo-jubilacion": {
-        title: "Retirement in Switzerland: what you might receive (AVS/AHV, LPP)",
-        description: "How Swiss retirement works (three pillars) and what changes if you arrive at 30, 40, or 50.",
-        keywords: "swiss pension AVS AHV, LPP occupational pension, pillar 3a, retirement switzerland",
+        title: "Retirement in Switzerland: how much you may receive depending on the age you arrive",
+        description: "An overview of retirement in Switzerland (AVS/AHV and LPP) with realistic examples for people who arrive at 30, 40 or 50.",
+        keywords: "retirement switzerland, swiss pension, AVS, AHV, LPP, swiss retirement income",
         featuredImage: "media/guides/jubilacion-pension-suiza.jpg",
         category: "Social Security",
         hub: "trabajo",
         readingTime: 5,
-        summary: "The Swiss system is based on three pillars. The earlier you contribute, the stronger your total pension tends to be—pillar 2 and 3 often matter a lot for newcomers.",
+        summary: "Swiss retirement is built on three pillars, but years of contributions make the difference. The earlier you arrive, the stronger your future pension is likely to be.",
         content: `<div class="article-content">
-<p>Swiss retirement is usually described as a <strong>3-pillar system</strong>. Your outcome depends heavily on years contributed and salary.</p>
+<p>One of the most common questions is what pension you can expect after a working life in Switzerland. In practice, the system relies mainly on two pillars for most employees: AVS/AHV and LPP/BVG.</p>
 
-<h2>Pillar 1: AVS/AHV</h2>
-<p>State pension funded via contributions. Missing years can reduce the pension.</p>
+<h2>The core pillars</h2>
+<ul>
+  <li><strong>1st pillar (AVS/AHV):</strong> the state pension. The minimum is roughly 1,200 CHF and the maximum around 2,450 CHF per month. It depends strongly on years contributed without gaps.</li>
+  <li><strong>2nd pillar (LPP/BVG):</strong> the occupational pension fund built up during employment. At retirement, you may usually choose between a monthly pension and a capital withdrawal, depending on the plan rules.</li>
+</ul>
 
-<h2>Pillar 2: LPP/BVG</h2>
-<p>Occupational pension through employers. Often a major part of retirement income for employees.</p>
-
-<h2>Pillar 3: 3a (voluntary)</h2>
-<p>Tax-advantaged voluntary savings that can help close gaps—especially if you arrived later.</p>
+<h2>Examples depending on the age you arrive</h2>
+<p>Your outlook changes drastically depending on when you start contributing in Switzerland:</p>
+<ul>
+  <li><strong>Arrival at age 30:</strong> this is the strongest scenario. After about 35 years of contributions, a total pension in the range of 4,000 to 5,500 CHF (AVS/AHV + LPP/BVG) can be realistic.</li>
+  <li><strong>Arrival at age 40:</strong> time starts to matter more. AVS/AHV will be partial and the occupational pension fund smaller. A total pension around 3,000 to 4,000 CHF may be more realistic.</li>
+  <li><strong>Arrival at age 50:</strong> this is much more delicate. Without high salaries, the total pension may end up around 2,000 to 3,000 CHF, which makes private savings more important.</li>
+</ul>
 
 <div class="callout tip">
-<strong>Coordination:</strong> contributions in Spain/EU typically don't «disappear»; each country pays its proportional part under coordination rules.
+<strong>Coordination note:</strong> years worked in Spain are not lost. Each country generally pays the proportional share that corresponds to the contributions made there once you reach retirement age.
 </div>
 </div>`
     },
@@ -1446,16 +1655,24 @@ window.siteContent.en.articles = {
         category: "Ordinary Procedures",
         hub: "tramites",
         readingTime: 4,
-        summary: "It can be possible, but you must show sufficient resources and comprehensive health insurance, and you still need to register officially.",
+        summary: "It is possible to live in Switzerland without working, but you must prove sufficient resources and have full health insurance, and you still need to register officially.",
         content: `<div class="article-content">
 <p>Many people ask whether they can live in Switzerland without an employment contract. For EU/EFTA citizens, this can be possible—but under strict conditions.</p>
 
-<h2>What you usually must prove</h2>
+<h2>Rules for EU/EFTA citizens</h2>
+<p>If you are Spanish or from another EU country and plan to stay for more than 90 days without working, you must register and apply for a residence permit by showing:</p>
 <ul>
-  <li><strong>Sufficient financial means</strong> (savings, income, pension) so you won't need social assistance</li>
-  <li><strong>Swiss health insurance</strong> (LAMal) or an accepted equivalent, depending on your status</li>
-  <li><strong>Registration</strong> at the commune for stays over 90 days</li>
+  <li><strong>Sufficient financial means:</strong> savings, pension income or other resources showing you can live without relying on Swiss social assistance.</li>
+  <li><strong>Health insurance (LAMal):</strong> you need full Swiss health coverage. Temporary travel insurance is not enough.</li>
+  <li><strong>Official registration:</strong> you still need to register with the residents' office in your commune of residence.</li>
 </ul>
+
+<h2>What about non-EU citizens?</h2>
+<p>In that case, the rules are much more restrictive. Residence without gainful activity is generally authorized only in specific situations such as retirement, studies or justified medical reasons, and usually only with substantial financial guarantees.</p>
+
+<div class="callout warning">
+<strong>Important:</strong> being informally registered at a friend's address does not replace a residence permit. Checks can lead to fines or forced departure if your situation is not regularized.
+</div>
 </div>`
     },
 
@@ -1469,17 +1686,21 @@ window.siteContent.en.articles = {
         readingTime: 4,
         summary: "IV/AI aims to keep people in the workforce through rehabilitation and adaptation. A pension is usually considered only after measures are exhausted.",
         content: `<div class="article-content">
-<p>Swiss disability insurance (IV/AI) is often misunderstood. Its core idea is <strong>rehabilitation first</strong>, not «early retirement».</p>
+<p>Swiss disability insurance (<i>Assurance-invalidité</i> / IV/AI) is a key part of the Swiss social security system, but it is often misunderstood by people coming from other countries.</p>
 
-<h2>What IV/AI can fund</h2>
+<h2>Rehabilitation before pension</h2>
+<p>Unlike in some other systems, the main goal of IV/AI is not to grant a lifetime pension immediately. The first objective is to restore or preserve a person's ability to work. Measures may include:</p>
 <ul>
-  <li>Medical and vocational rehabilitation</li>
-  <li>Workplace adaptations and assistive devices</li>
-  <li>Retraining for a new profession</li>
+  <li>Medical and vocational rehabilitation.</li>
+  <li>Workplace adaptations or technical aids.</li>
+  <li>Retraining for a new profession.</li>
 </ul>
 
-<h2>When is a pension granted?</h2>
-<p>A disability pension is considered when long-term loss of earning capacity remains after rehabilitation measures.</p>
+<h2>When is a pension paid?</h2>
+<p>A disability pension is granted only when it is shown that, after rehabilitation measures have been exhausted, the person still has a lasting loss of earning capacity. The pension can be partial or full depending on the degree of disability determined by the assessment.</p>
+
+<h2>Apply early</h2>
+<p>It is important to apply as soon as it is foreseeable that an illness or accident will cause long-term incapacity, typically longer than a year. Do not wait until the situation becomes critical; the process is long and involves multiple medical and professional assessments.</p>
 </div>`
     },
 
@@ -1491,46 +1712,53 @@ window.siteContent.en.articles = {
         category: "Public Health",
         hub: "salud",
         readingTime: 4,
-        summary: "Switzerland generally relies on recommendations rather than mandates. Standard vaccines are recommended; tick-borne encephalitis is often emphasized for outdoor activities.",
+        summary: "There are no compulsory vaccines in Switzerland. The system relies on recommendations from the Federal Office of Public Health and on individual responsibility.",
         content: `<div class="article-content">
-<p>In Switzerland, vaccines are usually <strong>not mandatory by law</strong>. The system relies on official recommendations and individual responsibility.</p>
+<p>Many families are surprised to learn that vaccination works differently in Switzerland than in some other European countries. The system places strong emphasis on personal choice.</p>
+
+<h2>Are vaccines mandatory?</h2>
+<p><strong>No. Vaccines are not mandatory in Switzerland</strong>, for either children or adults. Not even for entry into public school. The system relies on families discussing the topic with their doctor or pediatrician and deciding on the basis of official recommendations.</p>
 
 <h2>Official recommendations</h2>
-<p>The Federal Office of Public Health (FOPH/BAG) publishes a recommended schedule (e.g., DTP, polio, MMR).</p>
+<p>The Federal Office of Public Health (FOPH/BAG) publishes a recommended vaccination schedule that includes the standard vaccines such as diphtheria, tetanus, pertussis, polio and measles. In Switzerland, there is also particular emphasis on:</p>
 <ul>
-  <li><strong>Tick-borne encephalitis (TBE):</strong> often recommended for people spending time in forests/outdoors.</li>
-  <li><strong>Flu / HPV:</strong> depending on age and risk groups.</li>
+  <li><strong>Tick-borne encephalitis (TBE):</strong> especially important if you spend a lot of time outdoors or in forested areas.</li>
+  <li><strong>Flu and HPV:</strong> depending on age and risk group.</li>
 </ul>
 
 <h2>Costs and insurance</h2>
-<p>Recommended vaccines are generally covered by basic insurance, subject to deductible/franchise rules.</p>
+<p>Vaccines listed in the official recommended schedule are generally covered by basic insurance, although the costs may still be subject to the deductible you chose.</p>
 </div>`
     },
 
     "articulo-danza-patos": {
-        title: "Fun fact: the Duck Dance is Swiss",
-        description: "The story behind «Der Ententanz», a catchy tune composed in Switzerland that became a global party classic.",
+        title: "Did you know the Duck Dance is Swiss?",
+        description: "Discover the story behind \"Der Ententanz\", the catchy tune that was born in Switzerland and went around the world.",
         keywords: "duck dance swiss origin, der ententanz, werner thomas davos",
         featuredImage: "media/guides/origen-danza-de-los-patos-suiza.jpg",
         category: "Culture & Life",
         hub: "vivir-en-suiza",
         readingTime: 3,
-        summary: "The famous Duck Dance melody was composed by Swiss accordionist Werner Thomas in the Davos area in the late 1950s.",
+        summary: "Even though it feels like a generic party song, the famous Duck Dance was composed by a Swiss accordionist in Davos in the late 1950s.",
         content: `<div class="article-content">
-<p>You've probably heard it at weddings or local festivals. What many people don't know: <strong>«Der Ententanz»</strong> has Swiss roots.</p>
+<p>It is almost impossible not to have heard it at a wedding, a village festival or Oktoberfest. What fewer people know is that the <strong>Duck Dance</strong> (<i>Der Ententanz</i>) is thoroughly Swiss in origin.</p>
 
-<h2>Where it started</h2>
-<p>Swiss accordionist <strong>Werner Thomas</strong> composed the melody in the late 1950s, inspired by the movements of birds.</p>
+<h2>Werner Thomas: the man behind it</h2>
+<p>The melody was composed in the late 1950s by <strong>Werner Thomas</strong>, an accordionist from Davos. He originally called it "Der Ententanz" and is said to have been inspired by the movements of birds while performing in hotels and restaurants in the ski area.</p>
 
-<h2>How it went global</h2>
-<p>In the 1970s and 80s, different versions spread across Europe and beyond under names like «The Birdie Song».</p>
+<h2>From Davos to the whole world</h2>
+<p>Interestingly, the song did not become famous immediately. In the 1970s and 1980s, different European groups adapted it and turned it into a global hit under names such as "The Birdie Song" or "La danse des canards".</p>
+
+<div class="callout info">
+<strong>Did you know?</strong> Werner Thomas reportedly wrote it simply to get people dancing in a playful, uncomplicated way. Mission accomplished.
+</div>
 </div>`
     },
 
     "articulo-introduccion-suiza": {
         title: "How Switzerland works: complete guide for new residents",
-        description: "Complete guide to Switzerland: federal organization, 26 cantons, political system, economy, culture and what to expect as a newcomer.",
-        keywords: "how Switzerland works, Swiss system, cantons, Switzerland organization, federal system, direct democracy",
+        description: "Complete guide to Switzerland: federal organization, 26 cantons, political system, four national languages, regional differences, education and daily life. Essential before you settle in.",
+        keywords: "how switzerland works, swiss cantons, federalism, direct democracy, languages in switzerland, swiss school system, cantonal differences",
         category: "Introduction",
         hub: "vivir-en-suiza",
         slug: "how-switzerland-works-complete-guide",
@@ -1538,168 +1766,213 @@ window.siteContent.en.articles = {
         dateUpdated: "March 2026",
         featuredImage: "media/guides/introduccion-suiza-como-funciona.png",
         imageAlt: "Swiss flag with mountains in the background and the word Switzerland",
-        summary: "Understanding Switzerland starts with grasping its federal structure: 26 cantons with almost complete autonomy, three official languages, direct democracy, and a unique political culture.",
+        summary: "Switzerland is not a conventional country. It is a Confederation of 26 autonomous cantons, 4 national languages, direct democracy and a federal system that affects your daily life from day one.",
         content: `
             <div class="article-content">
+                <p>If you are thinking about moving to Switzerland, or you have just arrived, understanding how the country works is the first step. Switzerland does not work like Spain, France or most other European countries. Its political system, territorial organization and administrative culture are unique, and they affect your daily life from the moment you sign a contract, choose health insurance or register with your commune.</p>
 
-                <h2>Why is Switzerland different?</h2>
-                <p>Switzerland is fundamentally different from most countries because it is federal at its core. Unlike many countries with a strong central government, Switzerland gives most power to its 26 cantons and municipalities. This "bottom-up" approach shapes everything: taxation, education, healthcare, laws and even which language people speak in each region.</p>
+                <div class="callout info">
+                    <strong>Why does understanding the country's structure matter?</strong> Because in Switzerland, taxes, health insurance, schooling and residence procedures <strong>depend on the canton where you live</strong>, not only on the federal government.
+                </div>
 
-                <p>The practical consequence: the canton where you live matters enormously. Your taxes, schools, healthcare, even what you can do on Sundays, depends more on your canton than on national rules. Two apartments 10 km apart can have very different regulations and tax rates if they are in different cantons.</p>
-
-                <h2>The three levels: Confederation, Cantons, Municipalities</h2>
-
-                <h3>Level 1: The Confederation (national level)</h3>
-                <p>The Federal Government handles: national defense, foreign policy, immigration, federal taxes, pension system (AVS/AHV), unemployment insurance, and some aspects of healthcare and education standards.</p>
-                <p>The Parliament (Federal Assembly) has two chambers: the National Council (200 members, proportional representation) and the Council of States (46 members, 2 per canton). Laws require approval from both.</p>
-
-                <h3>Level 2: The Cantons (regional level)</h3>
-                <p>Each canton is almost a "mini-country". Cantons have their own: government, parliament, laws, taxes, education system, healthcare regulation, and more. In many ways, living in Zug is more like living in a different country than living in Geneva, despite both being Switzerland.</p>
-                <p>Example differences:</p>
+                <h2>Switzerland in numbers</h2>
                 <ul>
-                    <li><strong>Taxes:</strong> Zug = 13% total, Geneva = 21% total.</li>
-                    <li><strong>School start age:</strong> varies by canton (4–5 years old for kindergarten).</li>
-                    <li><strong>Sunday activities:</strong> some cantons allow shops to open Sundays, others do not.</li>
-                    <li><strong>Cost of living:</strong> Zug is expensive, Valais is cheaper.</li>
+                    <li><strong>Capital:</strong> Bern (seat of the federal government)</li>
+                    <li><strong>Area:</strong> 41,285 km²</li>
+                    <li><strong>Population:</strong> about 8.9 million</li>
+                    <li><strong>Currency:</strong> Swiss franc (CHF)</li>
+                    <li><strong>Borders:</strong> Germany to the north, Austria and Liechtenstein to the east, Italy to the south, France to the west</li>
+                    <li><strong>Structure:</strong> Swiss Confederation — 26 autonomous cantons</li>
+                    <li><strong>National languages:</strong> German, French, Italian and Romansh</li>
+                    <li><strong>Member of the UN and EFTA</strong>, but <strong>not of the European Union</strong></li>
                 </ul>
 
-                <h3>Level 3: Municipalities (local level)</h3>
-                <p>Each municipality has its own government, police, and local taxes. Some municipalities have very specific rules (e.g., "you must cut your grass by Tuesday"). Living in a rural commune is very different from living in a city. Many things that feel like "Swiss rules" are actually just your municipality's rules.</p>
+                <h2 id="organizacion">Section 1 — Cantons and territorial organization</h2>
 
-                <h2>The 26 cantons: overview</h2>
-                <p>Switzerland has 26 cantons, each with significant autonomy. Languages are split: 17 speak French, German and Italian; 4 are multilingual or have special regions.</p>
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/mapa-politico-cantones.png"
+                         alt="Political map of Switzerland showing the 26 cantons and the three levels of government"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Each canton has its own history and powers within the Swiss federal state.
+                    </figcaption>
+                </figure>
 
-                <p><strong>Major cantons by population:</strong></p>
+                <p>Switzerland is a <strong>Confederation</strong> made up of <strong>26 cantons</strong>. This structure goes back to the 13th century and is one of the reasons the country works in such a distinctive way. Each canton is essentially a mini-state with its own government, parliament and laws.</p>
+
+                <p>The administrative structure has three levels:</p>
                 <ul>
-                    <li>Zurich (1.5M) — largest, German-speaking, economically powerful.</li>
-                    <li>Bern (1M) — German-speaking, capital of Switzerland, very federal approach.</li>
-                    <li>Geneva (500k) — French-speaking, international hub, UN, Red Cross, etc.</li>
-                    <li>Vaud (850k) — French-speaking, includes Lausanne.</li>
-                    <li>Aargau (700k) — German-speaking, central.</li>
+                    <li><strong>Confederation (federal level):</strong> the federal government based in Bern. It handles foreign policy, defence, the currency, civil and constitutional law, and the broad lines of legislation that apply throughout the country.</li>
+                    <li><strong>Cantons (26):</strong> autonomous units with broad powers over taxation, education, healthcare, policing and local administration. A canton is roughly comparable to a region or autonomous community, but with more power than in most countries.</li>
+                    <li><strong>Communes (more than 2,000 municipalities):</strong> the level closest to residents. They handle resident registration, local taxes, local services and some educational tasks.</li>
                 </ul>
 
-                <h2>Languages</h2>
-                <p>Switzerland has four official languages: German (63%), French (23%), Italian (8%), Romansh (0.5%). Unlike many countries, there is no "official language" at the federal level. Each canton determines its official language(s).</p>
+                <div class="callout">
+                    <strong>Practical example:</strong> when you arrive in Switzerland, you do not register with "the state." You register with <em>your commune</em>. That is where your residence is entered, your permit process begins, and part of your taxation is determined.
+                </div>
+
+                <p>The 26 cantons, in the order in which they joined the Confederation, are: Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura, Bern, Lucerne and Zurich.</p>
+
+                <p><a href="https://www.ch.ch/en/cantons/" target="_blank" rel="noopener noreferrer">→ See the official portals of the 26 cantons on ch.ch</a></p>
+
+                <h2 id="politica">Section 2 — The Swiss political system</h2>
+
+                <p>Switzerland has one of the most participatory democracies in the world. Citizens do not only elect representatives: they <strong>vote directly on laws</strong> several times a year.</p>
+
+                <h3>Direct democracy</h3>
+                <p>Four times a year, Swiss citizens are called to vote in <strong>referendums</strong>. These votes can concern anything from tobacco tax increases to major constitutional reforms. It is not symbolic: the results are binding and can overturn laws passed by parliament.</p>
+
+                <h3>Popular initiatives</h3>
+                <p>If 100,000 citizens collect signatures within 18 months, they can propose a change to the federal Constitution. The people vote on it, and if it passes, the change is incorporated. This tool has shaped major decisions in modern Swiss history.</p>
+
+                <h3>Optional referendum</h3>
+                <p>If 50,000 citizens collect signatures within 100 days against a law passed by parliament, that law must be submitted to a popular vote. This is the main democratic brake citizens can apply to parliament.</p>
+
+                <h3>The Federal Council (government)</h3>
+                <p>Switzerland does not have a president with strong executive power. The government is a college of <strong>7 federal councillors</strong>, elected by parliament for four-year terms. Decisions are taken by consensus. The presidency of the Confederation rotates yearly among the seven members and is largely ceremonial.</p>
+
+                <div class="callout info">
+                    <strong>Note for foreign residents:</strong> as a resident without Swiss citizenship, you cannot vote in federal elections. However, some cantons such as Neuchâtel, Vaud or Jura allow participation in local or communal votes once certain residence conditions are met.
+                </div>
+
+                <h2 id="lenguas">Section 3 — Switzerland's 4 national languages</h2>
+
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/lenguas-suiza.png"
+                         alt="Linguistic map of Switzerland showing the four official language regions: German, French, Italian and Romansh"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Switzerland's language map. The language you need depends on the canton where you settle.
+                    </figcaption>
+                </figure>
+
+                <p>Switzerland has <strong>4 national languages</strong>. The language you use in daily life, at work and with the administration depends directly on where you live.</p>
+
+                <h3>🇩🇪 German — German-speaking Switzerland (<i>Deutschschweiz</i>)</h3>
+                <p>This is spoken in about <strong>17 to 18 cantons</strong>, representing roughly 63% of the population. There is an important nuance, though: in everyday life, people speak <i>Schweizerdeutsch</i>, a spoken dialect that is not standard German. Official texts, contracts and letters are written in <i>Hochdeutsch</i> (standard German).</p>
+                <p>If you settle in Zurich, Bern, Basel, Lucerne or most cantons in the centre and east of the country, German is essential.</p>
+
+                <h3>🇫🇷 French — <i>La Romandie</i></h3>
+                <p>French is spoken by around <strong>23% of the population</strong>, in the cantons of Geneva, Vaud, Neuchâtel and Jura, and as a major language in Valais as well as parts of Fribourg and Bern. This region is informally known as <i>La Romandie</i>. Swiss French is very close to standard French, with a few lexical differences.</p>
+
+                <h3>🇮🇹 Italian — Ticino</h3>
+                <p>Italian is spoken by around <strong>8% of the population</strong>, mainly in the canton of Ticino and in some valleys of Graubünden. Ticino is the only fully Italian-speaking canton and has a very distinct cultural personality.</p>
+
+                <h3>🏔️ Romansh</h3>
+                <p>A Rhaeto-Romance language spoken by roughly <strong>0.5%</strong> of the population, in parts of Graubünden. It has national-language status, but its administrative use is limited to the regions where it is spoken.</p>
+
+                <h3>Bilingual and trilingual cantons</h3>
                 <ul>
-                    <li><strong>German-speaking:</strong> Eastern and central Switzerland (Zurich, Bern, Lucerne, etc.).</li>
-                    <li><strong>French-speaking:</strong> Western Switzerland (Geneva, Vaud, Valais, Jura).</li>
-                    <li><strong>Italian-speaking:</strong> Ticino (south of Alps).</li>
-                    <li><strong>Romansh:</strong> only in Graubünden (very small percentage).</li>
+                    <li><strong>Fribourg (FR):</strong> bilingual French/German. The administration works in both languages.</li>
+                    <li><strong>Bern (BE):</strong> mainly German-speaking, with a French-speaking minority in the Bernese Jura.</li>
+                    <li><strong>Valais (VS):</strong> bilingual French/German depending on the area.</li>
+                    <li><strong>Graubünden (GR):</strong> trilingual German/Romansh/Italian. The only canton with 3 official languages.</li>
                 </ul>
 
-                <p>Important: within German-speaking cantons, people speak a German dialect (Schweizerdeutsch) that is very different from standard German. Understanding the dialect takes time. For work, standard German, French or English is usually fine.</p>
+                <div class="callout">
+                    <strong>Practical tip:</strong> learning the language of the canton where you live is one of the best investments you can make. In Switzerland, language is not only communication: it is integration, access to jobs and access to services.
+                </div>
 
-                <h2>Direct democracy</h2>
-                <p>Switzerland is famous for direct democracy: citizens can vote on major political decisions through referendums and popular initiatives. This has several practical consequences:</p>
-                <ul>
-                    <li>Voting happens frequently (4 times/year typically).</li>
-                    <li>Citizens can force a referendum on almost any law (50,000 signatures needed).</li>
-                    <li>Citizens can propose new laws (100,000 signatures needed).</li>
-                    <li>Major decisions often take longer because they go through public consultation and/or voting.</li>
-                </ul>
+                <h2 id="cantones">Section 4 — Differences between cantons</h2>
 
-                <p>As a foreign resident, you cannot vote in federal and cantonal elections. You can vote only at the municipal level if you become a Swiss citizen (naturalization takes 10–12 years minimum).</p>
-
-                <h2>Political culture</h2>
-                <p>Switzerland's political system is consensus-based: the goal is to reach agreement rather than win/lose. This leads to:</p>
-                <ul>
-                    <li><strong>Proportional representation:</strong> Parliament reflects the population's diversity, making coalitions necessary.</li>
-                    <li><strong>Consensus government:</strong> the executive (7-member Federal Council) includes all major parties.</li>
-                    <li><strong>Slow change:</strong> major changes require broad agreement, making Switzerland politically stable but sometimes slow to adapt.</li>
-                </ul>
-
-                <p>Political debates are civil. Extreme parties exist but have limited influence. Nationalism is present but expressed differently than in neighboring countries.</p>
-
-                <h2>The economy</h2>
-                <p>Switzerland is a wealthy, highly developed economy:</p>
-                <ul>
-                    <li><strong>Key sectors:</strong> banking/finance, pharmaceuticals, machinery, precision industries, tourism, watches.</li>
-                    <li><strong>GDP per capita:</strong> very high (~100,000 CHF), among the world's highest.</li>
-                    <li><strong>Employment:</strong> low unemployment (2–3%), strong labor protections, high minimum wages (though no national minimum wage; cantons/industries set their own).</li>
-                    <li><strong>Trade:</strong> very open economy, dependent on imports/exports. Part of EFTA but not EU.</li>
-                </ul>
-
-                <h2>Healthcare</h2>
-                <p>Switzerland has a mandatory health insurance system (LAMal/AOS) where you buy insurance from private companies, but the system is heavily regulated: insurers must accept all applicants and cannot refuse coverage. Costs vary by age and canton but are high (300–500 CHF/month for basic coverage as an adult).</p>
-
-                <p>The system is efficient and well-organized, but not "free" (you pay premiums and may pay out-of-pocket up to your deductible). Dentistry and glasses are usually not covered by basic insurance.</p>
-
-                <h2>Education</h2>
-                <p>Each canton manages its own education system, so standards vary. Generally:</p>
-                <ul>
-                    <li><strong>Compulsory:</strong> age 4–5 through age 15–16 (varies by canton).</li>
-                    <li><strong>Languages:</strong> German-speaking cantons teach French and English; French-speaking cantons teach German and English.</li>
-                    <li><strong>System:</strong> kindergarten → primary → lower secondary → upper secondary (choice between academic Gymnasium or vocational training).</li>
-                    <li><strong>Quality:</strong> high, with strong emphasis on vocational training (apprenticeships are not "second-class" as in many countries).</li>
-                </ul>
-
-                <h2>Social culture</h2>
-                <p>Swiss culture is often described as:</p>
-                <ul>
-                    <li><strong>Reserved:</strong> people tend to be polite but not immediately warm. Friendships develop slowly.</li>
-                    <li><strong>Punctual:</strong> being on time is not just expected, it is culturally important.</li>
-                    <li><strong>Direct:</strong> Swiss communication is factual and direct, sometimes perceived as blunt.</li>
-                    <li><strong>Organized:</strong> rules are many and followed. Parking illegally or leaving trash is genuinely shocking to most Swiss.</li>
-                    <li><strong>Outdoors-oriented:</strong> hiking, skiing and outdoor activities are central to culture.</li>
-                    <li><strong>Quality-focused:</strong> Swiss products are expected to be high-quality. "Made in Switzerland" means something.</li>
-                </ul>
-
-                <h2>Cost of living</h2>
-                <p>Switzerland is expensive. Daily expenses:</p>
-                <ul>
-                    <li>Groceries: 30–50% more expensive than neighboring countries.</li>
-                    <li>Rent: varies hugely (800–2,500 CHF for 1-bedroom depending on canton and city).</li>
-                    <li>Utilities: expensive, partly due to quality standards and environmental regulations.</li>
-                    <li>Transportation: reasonable (public transport is excellent and relatively affordable).</li>
-                    <li>Dining out: expensive (15–30 CHF for a lunch, 50–100 CHF for dinner at a decent restaurant).</li>
-                </ul>
-
-                <p>However, salaries are also high, typically 30–50% above neighboring countries for similar work.</p>
-
-                <h2>Work culture</h2>
-                <p>Swiss work culture is professional and hierarchical but not rigid:</p>
-                <ul>
-                    <li>Work-life balance is generally respected (40-hour weeks are standard, vacations are 4 weeks minimum).</li>
-                    <li>Overtime is less common than in neighboring countries, but expected in some sectors.</li>
-                    <li>Management tends to be by results, not by hours spent at desk.</li>
-                    <li>Women's participation in workforce is high but gender pay gaps exist.</li>
-                    <li>Training and development are valued; apprenticeships and continuing education are normal.</li>
-                </ul>
-
-                <h2>Practical essentials</h2>
-
-                <h3>Residency and visas</h3>
-                <p>EU/EFTA citizens (Spain included) have freedom of movement. You can stay as a tourist without a visa. To work, you need a work permit (usually automatic for EU citizens). To settle, you need a residence permit (Permit B after 5 years, Permanent Permit C).</p>
-
-                <h3>Banking</h3>
-                <p>You need a Swiss bank account to be paid. Major banks (UBS, Credit Suisse — now part of UBS, PostFinance, Raiffeisen) exist everywhere. Digital-only banks (Neon, Yuh) are increasingly popular and easier to open.</p>
+                <p>This section is essential for newcomers. In Switzerland, <strong>the canton where you live changes almost everything</strong>. That is not an exaggeration.</p>
 
                 <h3>Taxes</h3>
-                <p>Switzerland's tax system is triple-layered (federal, cantonal, municipal). You must file a tax return annually. No tax "surprises" usually occur if you file on time. The effective tax rate ranges from 15% to 40% depending on canton and income.</p>
-
-                <h3>Bureaucracy</h3>
-                <p>Switzerland is famous for its bureaucracy, but it is actually <strong>very efficient</strong>. Forms are clear, deadlines are respected, and the system works. However, there are many forms and rules. Failure to follow procedures can result in fines.</p>
-
-                <h2>Moving to Switzerland: what to expect</h2>
-                <p>In your first month, expect:</p>
+                <p>This is the clearest example. The total tax burden (federal + cantonal + municipal) can vary from roughly <strong>15% to 45%</strong> of gross salary, depending on the canton. Some extremes:</p>
                 <ul>
-                    <li>A fair amount of paperwork (registration, insurance, bank account).</li>
-                    <li>Higher costs than expected.</li>
-                    <li>Polite but reserved interactions with Swiss people.</li>
-                    <li>Excellent public services and infrastructure.</li>
-                    <li>Rules for everything (even waste disposal has specific rules).</li>
+                    <li><strong>Zug, Schwyz, Nidwalden:</strong> among the lowest-tax cantons in the country.</li>
+                    <li><strong>Geneva, Vaud, Bern:</strong> cantons with higher tax pressure.</li>
+                </ul>
+                <p>The difference between living in Geneva or Zug on the same salary can amount to thousands of francs per year.</p>
+                <p>→ <a href="#/withholding-tax-switzerland-quellensteuer">Read: How withholding tax works in Switzerland</a></p>
+
+                <h3>Health insurance (LAMal premiums)</h3>
+                <p>Health insurance is mandatory throughout Switzerland, but <strong>premiums vary by canton and by premium region</strong>, even with the same insurer. Higher premiums are often found in Basel-Stadt and Geneva, and lower ones in cantons such as Appenzell Innerrhoden or Glarus.</p>
+                <p>→ <a href="#/health-insurance-switzerland-lamal">Read: Swiss health insurance explained</a></p>
+
+                <h3>Education and schooling</h3>
+                <p>The school system is run by the cantons. That means the school calendar, the age at which compulsory schooling starts, textbooks, timetables and teaching languages can differ significantly. The cantons coordinate through the HarmoS concordat, but the differences remain real.</p>
+                <p>→ <a href="#/the-swiss-school-system-explained">Read: The Swiss school system</a></p>
+
+                <h3>Residence procedures and administration</h3>
+                <p>Registration after arrival, deadlines, forms and office hours vary from one commune to another. There is no one-size-fits-all process for all foreigners: it depends on where you settle.</p>
+                <p>→ <a href="#/registering-in-switzerland-commune">Read: How to register in Switzerland when you arrive</a></p>
+
+                <div class="callout">
+                    <strong>Practical conclusion:</strong> before deciding which canton to live in, compare taxes, health insurance premiums and local job opportunities. These choices will affect your finances for years.
+                </div>
+
+                <h2 id="educacion">Section 5 — The Swiss education system</h2>
+
+                <p>The Swiss education system is public, free and high quality. What makes it stand out is its <strong>early vocational orientation</strong> and the central role of dual apprenticeships in training the workforce.</p>
+
+                <h3>General structure (HarmoS)</h3>
+                <ul>
+                    <li><strong>Kindergarten (2 years):</strong> compulsory from age 4 in most cantons.</li>
+                    <li><strong>Primary school (6 years):</strong> usually from age 6 to 12. A second national language and English are introduced during schooling.</li>
+                    <li><strong>Lower secondary (3 years):</strong> usually from age 12 to 15. Orientation decisions start at the end of this stage.</li>
                 </ul>
 
-                <p>In your first year:</p>
+                <h3>Vocational orientation (upper secondary)</h3>
+                <p>At 15 or 16, students usually move toward one of two main paths:</p>
+                <ol>
+                    <li><strong>Dual vocational training (CFC / EFZ):</strong> the most common route. A large share of Swiss students complete an apprenticeship in a company while also attending school. At the end, they earn a federal vocational certificate. This path is respected and can be well paid from the beginning.</li>
+                    <li><strong>Academic route (Maturité / Matura / Gymnasium):</strong> for students with strong academic results. This prepares them for university or for the Federal Institutes of Technology (ETH Zurich / EPFL Lausanne), two of the best universities in the world.</li>
+                </ol>
+
+                <h3>Universities</h3>
+                <p>Switzerland has top public universities in Zurich, Bern, Basel, Geneva, Lausanne and Neuchâtel. ETH Zurich and EPFL Lausanne are among the world's leading institutions in science and engineering.</p>
+
+                <div class="callout info">
+                    <strong>For newly arrived families:</strong> if you have school-age children, register them in the public school of your commune during your first month. The process is free, and language integration is usually supported through the school system.
+                </div>
+
+                <h2 id="regiones">Section 6 — Cultural and regional differences</h2>
+
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/mapa-regiones-suiza.png"
+                         alt="Map of Switzerland's cultural and linguistic regions highlighting German-speaking Switzerland, Romandie and Ticino"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Switzerland's three main cultural regions have clearly different identities.
+                    </figcaption>
+                </figure>
+
+                <p>Beyond administrative borders, Switzerland has three major cultural regions with strong identities. Understanding them helps you make sense of differences in mentality, rhythm of life and social expectations.</p>
+
+                <h3>🔵 German-speaking Switzerland (<i>Deutschschweiz</i>)</h3>
+                <p>This is the largest region and the one with the greatest economic weight. It includes many bank, insurance and multinational headquarters such as Zurich, Basel and Zug. The culture is often more formal, punctual and direct. At first the pace can feel colder, but integration is very possible if you make a real linguistic effort.</p>
+
+                <h3>🟢 Romandie (French-speaking Switzerland)</h3>
+                <p>This includes Geneva, Vaud, Neuchâtel, Jura and parts of Valais, Fribourg and Bern. Compared with German-speaking Switzerland, the atmosphere is often perceived as more open and more Mediterranean. Geneva and Lausanne are international cities with a heavy presence of international organizations.</p>
+
+                <h3>🟡 Ticino (Italian-speaking Switzerland)</h3>
+                <p>The southernmost canton, with a Mediterranean climate and lake landscapes. Life is often slower and more outward-looking. Ticino's economy is linked to tourism, finance and proximity to Italy. The cost of living is somewhat lower than in Geneva or Zurich, but salaries can also be lower in non-specialized sectors.</p>
+
+                <h2>Summary: what you should know before arriving</h2>
                 <ul>
-                    <li>Expect to feel a bit isolated at first (Swiss friendships develop slowly).</li>
-                    <li>Language will be important if you are not in a major international city.</li>
-                    <li>You will appreciate the safety, order and quality of services.</li>
-                    <li>You will notice very high taxes and costs, but also very high salaries.</li>
+                    <li>Switzerland <strong>is not in the EU</strong>. It has its own rules and bilateral agreements.</li>
+                    <li>Each canton works differently, so research yours before you settle.</li>
+                    <li>The language of your canton is central to integration: German, French or Italian depending on the area.</li>
+                    <li>Registration with the commune is the first major formality after arrival.</li>
+                    <li>Health insurance is mandatory from the first day of residence.</li>
+                    <li>Direct democracy gives citizens more weight and responsibility than in many other countries.</li>
                 </ul>
 
-                <h2>Is Switzerland for you?</h2>
-                <p>Switzerland works well for people who value: order, quality, punctuality, outdoor lifestyle, financial security and political stability. It is harder for people who prefer: spontaneity, low costs, warm informality or strong government intervention in daily life.</p>
+                <h2>Essential articles for new residents</h2>
+                <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0.75rem; margin-top: 1rem;">
+                    <a href="#/registering-in-switzerland-commune" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">📋 Registering in Switzerland</a>
+                    <a href="#/tramites-llegada-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🪪 Residence permits</a>
+                    <a href="#/job-searching-platforms-and-strategies" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💼 Job search</a>
+                    <a href="#/health-insurance-switzerland-lamal" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🏥 LAMal health insurance</a>
+                    <a href="#/renting-apartment-switzerland" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🏠 Renting a home</a>
+                    <a href="#/withholding-tax-switzerland-quellensteuer" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💰 Taxes in Switzerland</a>
+                    <a href="#/the-swiss-school-system-explained" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🎓 Education system</a>
+                    <a href="#/cost-of-living-in-switzerland" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💶 Cost of living</a>
+                </div>
 
                 <h2>Official sources</h2>
                 <ul>
@@ -1714,8 +1987,8 @@ window.siteContent.en.articles = {
 
     "articulo-cantones": {
         title: "The 26 cantons of Switzerland: map, capitals and languages",
-        description: "Complete guide to the 26 Swiss cantons: map, capital city, languages, characteristics, economy and what differentiates each canton.",
-        keywords: "Swiss cantons, Switzerland map, cantons map, canton capitals, Switzerland regions",
+        description: "Complete guide to the 26 Swiss cantons: political map, capital city, official language and key differences. Essential if you want to understand Switzerland before settling in.",
+        keywords: "swiss cantons, map of switzerland cantons, 26 cantons, swiss canton, cantonal differences",
         category: "Introduction",
         hub: "vivir-en-suiza",
         slug: "26-swiss-cantons-map-capitals-languages",
@@ -1723,237 +1996,132 @@ window.siteContent.en.articles = {
         dateUpdated: "March 2026",
         featuredImage: "media/guides/cantones-suiza.png",
         imageAlt: "Political map of Switzerland showing all 26 cantons",
-        summary: "The 26 cantons are the core of Swiss federalism. Each has its own government, laws and even language. Understanding the cantons is key to understanding Switzerland.",
+        summary: "Switzerland is made up of 26 autonomous cantons, each with its own tax, school and administrative system. The canton where you live changes almost everything.",
         content: `
             <div class="article-content">
+                <p>In Switzerland, the canton where you settle is almost as important as the country itself. Each of the 26 cantons has its own government, its own tax rules, its own school system and its own cultural identity. Understanding this structure is essential before deciding where to live.</p>
 
-                <h2>The foundation of Switzerland: 26 cantons</h2>
-                <p>Switzerland is not a country in the traditional sense; it is a federation of 26 semi-autonomous regions (cantons). Each canton has its own government, parliament, laws, taxes and even language in some cases. This is why understanding Swiss cantons is crucial: where you choose to live changes your entire experience of the country.</p>
+                <h2>What is a canton?</h2>
+                <p>A canton is the basic territorial unit of the Swiss Confederation. It is somewhat comparable to a region or autonomous community, but with much broader powers. The cantons existed before the Confederation and joined together through mutual defence pacts rather than through central imposition. That helps explain why they retain so much autonomy today.</p>
 
-                <h2>How cantons are organized</h2>
-                <p>Cantons fall into two categories:</p>
+                <p>Each canton has:</p>
                 <ul>
-                    <li><strong>Full cantons (23):</strong> each has its own government and parliament.</li>
-                    <li><strong>Half-cantons (6, from 3 original cantons):</strong> Basel-Stadt, Basel-Landschaft (from Basel), Appenzell Ausserrhoden, Appenzell Innerrhoden (from Appenzell), and Nidwalden, Obwalden (from Unterwalden). These have less federal weight but function independently.</li>
+                    <li>Its own government (<i>Conseil d'État / Regierungsrat</i>) and cantonal parliament</li>
+                    <li>Its own laws and tax rates (cantonal + communal)</li>
+                    <li>Its own public education system</li>
+                    <li>Its own cantonal police</li>
+                    <li>Its own rules for residence-related procedures</li>
                 </ul>
 
-                <p>The distinction is historical and has minimal practical impact for residents.</p>
+                <h2>The 26 cantons: full table</h2>
 
-                <h2>The 26 cantons by language region</h2>
-
-                <h3>German-speaking cantons (17)</h3>
-                <p>Eastern, central and northern Switzerland speak German or Swiss German dialect.</p>
-
-                <table style="width: 100%; border-collapse: collapse;">
-                    <tr style="background: #f0f0f0;">
-                        <th style="border: 1px solid #ddd; padding: 10px;">Canton</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Capital</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Population</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Key feature</th>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Zurich</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Zurich</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">1.5M</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Largest canton, finance hub</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Bern</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Bern (capital of CH)</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">1M</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Capital canton, very federal</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Lucerne</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Lucerne</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">430k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Central, tourism, culture</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>St. Gallen</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">St. Gallen</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">520k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Textiles, crafts history</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Aargau</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Aarau</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">700k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Central Switzerland, growing</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Thurgau</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Frauenfeld</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">290k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Northeast, Lake Constance</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Appenzell Ausserrhoden</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Herisau</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">280k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Rural, traditional</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Appenzell Innerrhoden</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Appenzell</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">16k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Very small, traditional</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Basel-Stadt</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Basel</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">196k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Pharma hub, French border</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Basel-Landschaft</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Liestal</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">196k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Industrial, residential</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Solothurn</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Solothurn</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">280k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Northwest, industrial</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Glarus</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Glarus</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">40k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Very small, Alpine</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Zug</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Zug</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">130k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Lowest taxes, very wealthy</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Schwyz</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Schwyz</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">162k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Central, historic</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Uri</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Altdorf</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">36k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Very small, very low taxes</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Nidwalden</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Stans</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">42k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Very small, central</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Obwalden</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Sarnen</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">38k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Very small, central</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Graubunden</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Chur</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">200k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Largest canton by area, skiing, Romansh</td>
-                    </tr>
+                <div style="overflow-x:auto;">
+                <table style="width:100%; border-collapse:collapse; font-size:0.9rem; margin:1rem 0;">
+                    <thead>
+                        <tr style="background:var(--bg-surface); border-bottom:2px solid var(--border-light);">
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Canton</th>
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Abbr.</th>
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Capital</th>
+                            <th style="padding:0.6rem 0.75rem; text-align:left;">Language(s)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Aargau</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AG</td><td style="padding:0.5rem 0.75rem;">Aarau</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Appenzell Ausserrhoden</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AR</td><td style="padding:0.5rem 0.75rem;">Herisau</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Appenzell Innerrhoden</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">AI</td><td style="padding:0.5rem 0.75rem;">Appenzell</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Basel-Stadt</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BS</td><td style="padding:0.5rem 0.75rem;">Basel</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Basel-Landschaft</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BL</td><td style="padding:0.5rem 0.75rem;">Liestal</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Bern</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">BE</td><td style="padding:0.5rem 0.75rem;">Bern</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German / French</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Fribourg</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">FR</td><td style="padding:0.5rem 0.75rem;">Fribourg</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">French / German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Geneva</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GE</td><td style="padding:0.5rem 0.75rem;">Geneva</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">French</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Glarus</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GL</td><td style="padding:0.5rem 0.75rem;">Glarus</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Graubünden</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">GR</td><td style="padding:0.5rem 0.75rem;">Chur</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German / Romansh / Italian</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Jura</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">JU</td><td style="padding:0.5rem 0.75rem;">Delémont</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">French</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Lucerne</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">LU</td><td style="padding:0.5rem 0.75rem;">Lucerne</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Neuchâtel</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">NE</td><td style="padding:0.5rem 0.75rem;">Neuchâtel</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">French</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Nidwalden</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">NW</td><td style="padding:0.5rem 0.75rem;">Stans</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Obwalden</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">OW</td><td style="padding:0.5rem 0.75rem;">Sarnen</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Schaffhausen</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SH</td><td style="padding:0.5rem 0.75rem;">Schaffhausen</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Schwyz</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SZ</td><td style="padding:0.5rem 0.75rem;">Schwyz</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Solothurn</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SO</td><td style="padding:0.5rem 0.75rem;">Solothurn</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">St. Gallen</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">SG</td><td style="padding:0.5rem 0.75rem;">St. Gallen</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Thurgau</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">TG</td><td style="padding:0.5rem 0.75rem;">Frauenfeld</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Ticino</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">TI</td><td style="padding:0.5rem 0.75rem;">Bellinzona</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">Italian</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Uri</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">UR</td><td style="padding:0.5rem 0.75rem;">Altdorf</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Valais / Wallis</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">VS</td><td style="padding:0.5rem 0.75rem;">Sion</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">French / German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Vaud</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">VD</td><td style="padding:0.5rem 0.75rem;">Lausanne</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">French</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Zug</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">ZG</td><td style="padding:0.5rem 0.75rem;">Zug</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                        <tr style="border-bottom:1px solid var(--border-light);"><td style="padding:0.5rem 0.75rem; font-weight:500;">Zurich</td><td style="padding:0.5rem 0.75rem; font-family:monospace; color:var(--swiss-red);">ZH</td><td style="padding:0.5rem 0.75rem;">Zurich</td><td style="padding:0.5rem 0.75rem; font-size:0.85rem; color:var(--text-secondary);">German</td></tr>
+                    </tbody>
                 </table>
+                </div>
 
-                <h3>French-speaking cantons (5)</h3>
-                <p>Western Switzerland, along the French border.</p>
+                <h2>Why does the canton where you live matter?</h2>
 
-                <table style="width: 100%; border-collapse: collapse;">
-                    <tr style="background: #f0f0f0;">
-                        <th style="border: 1px solid #ddd; padding: 10px;">Canton</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Capital</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Population</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Key feature</th>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Geneva</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Geneva</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">500k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">International hub, UN, Red Cross, very expensive</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Vaud</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Lausanne</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">850k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Second largest by population, Lake Geneva, wine</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Valais</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Sion</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">340k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Skiing, Matterhorn, Alpine</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Neuchatel</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Neuchatel</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">180k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Lake Neuchatel, watches, French border</td>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Jura</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Delémont</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">73k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Newest canton (1979), watches, Jura mountains</td>
-                    </tr>
-                </table>
-
-                <h3>Italian-speaking canton (1)</h3>
-
-                <table style="width: 100%; border-collapse: collapse;">
-                    <tr style="background: #f0f0f0;">
-                        <th style="border: 1px solid #ddd; padding: 10px;">Canton</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Capital</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Population</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Key feature</th>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Ticino</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Bellinzona</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">360k</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">South of Alps, Italian culture, warmest climate</td>
-                    </tr>
-                </table>
-
-                <h3>Bilingual canton (1)</h3>
-
-                <table style="width: 100%; border-collapse: collapse;">
-                    <tr style="background: #f0f0f0;">
-                        <th style="border: 1px solid #ddd; padding: 10px;">Canton</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Capital</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Population</th>
-                        <th style="border: 1px solid #ddd; padding: 10px;">Key feature</th>
-                    </tr>
-                    <tr>
-                        <td style="border: 1px solid #ddd; padding: 10px;"><strong>Bern (partial)</strong></td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">Bern</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">1M</td>
-                        <td style="border: 1px solid #ddd; padding: 10px;">80% German, 20% French (Jura region)</td>
-                    </tr>
-                </table>
-
-                <h2>Choosing where to live</h2>
-                <p>When choosing a canton to live in, consider:</p>
-
+                <h3>Taxes</h3>
+                <p>This is often the biggest difference. The total tax burden varies sharply between cantons. One simple illustration: a single person earning 80,000 CHF gross per year may pay approximately:</p>
                 <ul>
-                    <li><strong>Taxes:</strong> ranges from 13% (Zug, Uri) to 26% (Basel-Stadt). Over a career, this is a huge difference.</li>
-                    <li><strong>Language:</strong> if you are not fluent in German, French or Italian, choose a canton in your preferred language region.</li>
-                    <li><strong>Cost of living:</strong> Zug is expensive despite low taxes. Valais is cheaper. Geneva is very expensive.</li>
-                    <li><strong>Job market:</strong> Zurich and Basel have the most jobs. Rural cantons have fewer opportunities.</li>
-                    <li><strong>Lifestyle:</strong> mountains (Valais, Graubunden), lakes (Geneva, Vaud), urban (Zurich, Geneva, Basel), rural (many options).</li>
-                    <li><strong>Schools:</strong> if you have children, check the canton's education system (quality varies).</li>
+                    <li><strong>Zug:</strong> about 12,000 CHF in total taxes</li>
+                    <li><strong>Geneva:</strong> about 22,000 CHF in total taxes</li>
+                </ul>
+                <p>Same person, same salary, but nearly double the taxes depending on where they live.</p>
+                <p>→ <a href="#/withholding-tax-switzerland-quellensteuer">Read: How withholding tax works</a></p>
+
+                <h3>Health insurance (LAMal premiums)</h3>
+                <p>Mandatory health insurance premiums also vary by canton and by premium region. Among the most expensive: Basel-Stadt, Geneva and Vaud. Among the cheapest: Appenzell Innerrhoden, Glarus and Nidwalden.</p>
+                <p>→ <a href="#/health-insurance-switzerland-lamal">Read: LAMal health insurance</a></p>
+
+                <h3>Education</h3>
+                <p>The school system is largely in the hands of the cantons. The school calendar, starting age, subjects taught and professional orientation pathways vary from canton to canton.</p>
+                <p>→ <a href="#/the-swiss-school-system-explained">Read: The Swiss school system</a></p>
+
+                <h3>Residence procedures and administration</h3>
+                <p>Resident registration, deadlines, online forms and office hours vary from one commune to another within each canton.</p>
+                <p>→ <a href="#/registering-in-switzerland-commune">Read: How to register when you arrive</a></p>
+
+                <h2>Cantons with particularly notable features</h2>
+                <ul>
+                    <li><strong>Zug:</strong> the canton with the lowest tax burden in the country. Home to many multinationals and investment firms.</li>
+                    <li><strong>Geneva:</strong> an international city and home to the UN, WHO and Red Cross. Medical premiums and rents are very high.</li>
+                    <li><strong>Zurich:</strong> the most populous city and the main financial centre. Extremely high living standards, but also some of the highest salaries in the country.</li>
+                    <li><strong>Ticino:</strong> the Italian-speaking canton. Many cross-border workers, Mediterranean climate, and somewhat lower living costs than northern Switzerland.</li>
+                    <li><strong>Graubünden:</strong> the largest canton by area, trilingual (German, Romansh, Italian), with an economy strongly linked to Alpine tourism and agriculture.</li>
+                    <li><strong>Bern:</strong> the federal capital. Bilingual in practice, with German predominating and a French-speaking minority. Home to parliament and the federal government.</li>
                 </ul>
 
-                <h2>Official sources</h2>
-                <ul>
-                    <li><a href="https://www.ch.ch/en/" target="_blank" rel="noopener noreferrer">ch.ch — Official cantonal information</a></li>
-                    <li><a href="https://www.statistik.admin.ch/" target="_blank" rel="noopener noreferrer">Swiss Statistics — population and economic data</a></li>
-                </ul>
+                <div class="callout info">
+                    <strong>Practical tip:</strong> before deciding where to settle, compare the canton's tax burden, health insurance premiums and job market in your sector. A move from one canton to another can mean thousands of francs per year in difference.
+                </div>
+
+                <h2>Official portal for each canton</h2>
+                <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem; margin-top:1rem;">
+                    <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Aargau (AG)</a>
+                    <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">App. Innerrhoden (AI)</a>
+                    <a href="https://www.ar.ch" target="_blank" rel="noopener noreferrer" class="canton-link">App. Ausserrhoden (AR)</a>
+                    <a href="https://www.bs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basel-Stadt (BS)</a>
+                    <a href="https://www.bl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basel-Landschaft (BL)</a>
+                    <a href="https://www.be.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Bern (BE)</a>
+                    <a href="https://www.fr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Fribourg (FR)</a>
+                    <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Geneva (GE)</a>
+                    <a href="https://www.gl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Glarus (GL)</a>
+                    <a href="https://www.gr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Graubünden (GR)</a>
+                    <a href="https://www.jura.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Jura (JU)</a>
+                    <a href="https://www.lu.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Lucerne (LU)</a>
+                    <a href="https://www.ne.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Neuchâtel (NE)</a>
+                    <a href="https://www.nw.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Nidwalden (NW)</a>
+                    <a href="https://www.ow.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Obwalden (OW)</a>
+                    <a href="https://www.sh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schaffhausen (SH)</a>
+                    <a href="https://www.sz.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schwyz (SZ)</a>
+                    <a href="https://www.so.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Solothurn (SO)</a>
+                    <a href="https://www.sg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">St. Gallen (SG)</a>
+                    <a href="https://www.tg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Thurgau (TG)</a>
+                    <a href="https://www.ti.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ticino (TI)</a>
+                    <a href="https://www.ur.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Uri (UR)</a>
+                    <a href="https://www.vs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Valais/Wallis (VS)</a>
+                    <a href="https://www.vd.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Vaud (VD)</a>
+                    <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zug (ZG)</a>
+                    <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zurich (ZH)</a>
+                </div>
             </div>
         `
 
@@ -2037,38 +2205,95 @@ window.siteContent.en.articles = {
 
     "articulo-consulados": {
         title: "Spanish consulates in Switzerland: where they are and what they do",
-        description: "Guide to the Spanish consular network in Switzerland (Geneva, Bern, Zurich): services, registration, passports/ID, civil registry and appointments.",
-        keywords: "spanish consulate switzerland, consular registration, passport renewal",
+        description: "Complete guide to the three Spanish consulates in Switzerland (Geneva, Bern, Zurich): services, appointments, passports, resident registration and civil registry.",
+        keywords: "spanish consulate switzerland, consulate geneva, consulate zurich, consulate bern, consular registration, passport switzerland, MAEC",
         audience: "newcomer",
         featuredImage: "media/guides/consulados-espanoles-suiza.png",
         category: "Resources",
         hub: "tramites",
         readingTime: 5,
-        summary: "If you are a Spanish citizen living in Switzerland, register with your consulate (RECA/CERA), and plan appointments early for passports/ID renewals.",
+        summary: "Spain has three consulates in Switzerland: Geneva, Bern and Zurich. Consular registration is the first step you should take after settling in, because without it you cannot renew your passport or vote from abroad.",
         content: `<div class="article-content">
-<p>Spain has three main consular offices in Switzerland (Geneva, Bern, Zurich). They handle key services for residents.</p>
+<p>If you are a Spanish citizen living in Switzerland, the consulate is your official point of contact for all procedures linking your life abroad to the Spanish administration. Spain has three consulates general in Switzerland, and you should deal with the one that covers your canton of residence.</p>
 
-<h2>Addresses and phones</h2>
+<div class="callout info">
+<strong>First mandatory step:</strong> once you settle in Switzerland, the most important consular formality is to <strong>register in the Consular Register of Spaniards Abroad</strong>. Without that registration, you cannot renew your Spanish ID or passport from Switzerland, and you cannot vote in Spanish elections from abroad.
+</div>
+
+<h2>The 3 Spanish consulates in Switzerland</h2>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr)); gap:1.25rem; margin:1.5rem 0;">
+  <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+    <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulate General in Geneva</h3>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons served:</strong> Geneva, Vaud, Valais, Fribourg, Neuchâtel, Jura</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Address:</strong> Avenue Blanc 53, 1202 Geneva</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Phone:</strong><br>+41 22 749 14 60</p>
+    <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Official portal →</a>
+  </div>
+  <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+    <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulate General in Bern</h3>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons served:</strong> Bern, Solothurn, Fribourg (part), Valais (part)</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Address:</strong> Marienstrasse 12, 3005 Bern</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Phone:</strong><br>+41 31 356 22 20</p>
+    <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Official portal →</a>
+  </div>
+  <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+    <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consulate General in Zurich</h3>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantons served:</strong> Zurich, Aargau, Basel, Lucerne, St. Gallen, Graubünden, Schaffhausen, Thurgau, Ticino, Zug and others</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Address:</strong> Riedtlistrasse 17, 8006 Zurich</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Phone:</strong><br>+41 44 368 61 00</p>
+    <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Official portal →</a>
+  </div>
+</div>
+
+<h2>What can you do at the consulate?</h2>
+
+<h3>Consular registration (RECA)</h3>
+<p>This is the <strong>first formality you should complete</strong> after settling in Switzerland. It formally records you as a Spanish resident abroad. Once you are registered:</p>
 <ul>
-  <li><strong>Geneva:</strong> Avenue Blanc 53, 1202 Geneva<br><strong>Phone:</strong> +41 22 749 14 60</li>
-  <li><strong>Bern:</strong> Marienstrasse 12, 3005 Bern<br><strong>Phone:</strong> +41 31 356 22 20</li>
-  <li><strong>Zurich:</strong> Riedtlistrasse 17, 8006 Zurich<br><strong>Phone:</strong> +41 44 368 61 00</li>
+  <li>You can renew your Spanish ID and passport from Switzerland.</li>
+  <li>You can vote in Spanish elections from abroad.</li>
+  <li>The Spanish administration formally records your place of residence.</li>
 </ul>
+<p>Registration is free. You generally need a valid passport or ID card, proof of residence in Switzerland such as a lease or commune registration, and in some cases your Swiss residence permit.</p>
 
-<h2>Main services</h2>
-<ul>
-  <li><strong>Consular registration (RECA/CERA)</strong> for residents abroad</li>
-  <li><strong>Passport / ID renewals</strong> (appointment required)</li>
-  <li><strong>Civil registry</strong> events (births, marriages, deaths)</li>
-  <li><strong>Assistance</strong> in emergencies</li>
-</ul>
+<h3>Spanish ID card and passport</h3>
+<p>You can renew or apply for your ID card and passport at the consulate that covers your district. It is <strong>essential to book an appointment in advance</strong> through the consular appointment portal of the Spanish Ministry of Foreign Affairs. Waiting times can be several weeks, especially in Geneva and Zurich.</p>
 
-<h2>Appointments</h2>
-<p>Most procedures require an appointment. Please check the official consulate pages for up-to-date instructions:</p>
+<div class="callout">
+<strong>Tip:</strong> book the appointment at least 2 to 3 months before your document expires. Do not leave it to the last minute.
+</div>
+
+<h3>Civil registry: births, marriages and deaths</h3>
+<p>If you have had a child in Switzerland, got married, or a Spanish family member has died, you should register the event through the consular civil registry so that it is entered into the Spanish civil registry system.</p>
+
+<h3>Pensions and social security</h3>
+<p>The consulate can guide you on Spanish-Swiss social security coordination, pension procedures, aggregation of contribution periods, and other matters linked to Spanish social security.</p>
+
+<h3>Consular assistance</h3>
+<p>In emergencies such as stolen documents, a serious accident or a death, the consulate can provide emergency consular assistance. For out-of-hours emergencies, each consulate has an emergency contact line.</p>
+
+<h2>How to book a consular appointment</h2>
+<p>Most procedures are handled only by appointment. Use the official pages of each consulate for up-to-date instructions:</p>
 <ul>
   <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Consulate in Geneva</a></li>
   <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Consulate in Bern</a></li>
   <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Consulate in Zurich</a></li>
+</ul>
+
+<h2>Spanish Ministry of Foreign Affairs portal</h2>
+<p>All updated information about procedures, requirements and news for Spaniards in Switzerland is published through the official consular portals:</p>
+<ul>
+  <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Consulate in Geneva</a></li>
+  <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Consulate in Bern</a></li>
+  <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Consulate in Zurich</a></li>
+</ul>
+
+<h2>Related articles</h2>
+<ul>
+  <li><a href="#/registering-in-switzerland-commune">Registering in Switzerland when you arrive</a></li>
+  <li><a href="#/tramites-llegada-suiza">Residence permits: L, B and C</a></li>
+  <li><a href="#/first-month-checklist-essential-steps-when-you-arrive-in-switzerland">Arrival formalities: full checklist</a></li>
 </ul>
 </div>`
     }

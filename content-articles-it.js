@@ -1622,115 +1622,153 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
     },
 
     "articulo-jubilacion": {
-        title: "Pensione in Svizzera: cosa aspettarsi (AVS/AHV, LPP/BVG)",
-        description: "Sistema dei 3 pilastri spiegato in modo semplice e perché l'età di arrivo (30/40/50) cambia le prospettive.",
-        keywords: "pensione svizzera AVS, LPP previdenza professionale, pilastro 3a, rendita vecchiaia",
+        title: "Pensione in Svizzera: quanto prenderai in base all'età di arrivo",
+        description: "Analisi della pensione in Svizzera (AVS e LPP) con esempi concreti per chi arriva a 30, 40 o 50 anni.",
+        keywords: "pensione svizzera, rendita svizzera, AVS, LPP, quanto prenderò di pensione in Svizzera",
         featuredImage: "media/guides/jubilacion-pension-suiza.jpg",
         category: "Previdenza Sociale",
         hub: "trabajo",
         readingTime: 5,
-        summary: "La previdenza svizzera si basa su tre pilastri. Arrivare prima significa più anni di contributi; pilastro 2 e 3 sono spesso cruciali.",
-        content: `<div class="page-header">
-<h1>Previdenza in Svizzera: i 3 pilastri</h1>
-</div>
-<div class="contenuto-articolo">
-<h2>Pilastro 1: AVS/AHV</h2>
-<p>Pensione statale di base. Anni mancanti possono ridurre l'importo.</p>
+        summary: "La pensione svizzera si basa su tre pilastri. Gli anni di contribuzione fanno la differenza: prima arrivi, più solida sarà la tua rendita.",
+        content: `
+            <div class="article-content">
+                <p>Una delle domande più frequenti è quale pensione si ottenga dopo una vita lavorativa in Svizzera. Il sistema si basa soprattutto su due pilastri: AVS e LPP.</p>
+                
+                <h2>I pilastri fondamentali</h2>
+                <ul>
+                    <li><strong>1° pilastro (AVS):</strong> Pensione statale. Il minimo si aggira intorno ai 1.200 CHF e il massimo ai 2.450 CHF mensili. Dipende dagli anni di contribuzione senza interruzioni.</li>
+                    <li><strong>2° pilastro (LPP):</strong> Cassa pensione professionale. È il capitale accumulato durante il lavoro. Al pensionamento puoi scegliere tra una rendita mensile o il ritiro del capitale.</li>
+                </ul>
 
-<h2>Pilastro 2: LPP/BVG</h2>
-<p>Previdenza professionale tramite datore di lavoro.</p>
+                <h2>Esempi in base all'età di arrivo</h2>
+                <p>Le prospettive cambiano molto a seconda di quando inizi a contribuire nel paese:</p>
+                <ul>
+                    <li><strong>Arrivo a 30 anni:</strong> Scenario ideale. Dopo 35 anni di contributi, è realistico puntare a una pensione totale tra 4.000 e 5.500 CHF (AVS + LPP).</li>
+                    <li><strong>Arrivo a 40 anni:</strong> Il tempo inizia a essere più stretto. L'AVS sarà parziale e la LPP più contenuta. La pensione potrebbe aggirarsi tra 3.000 e 4.000 CHF.</li>
+                    <li><strong>Arrivo a 50 anni:</strong> Caso delicato. Senza stipendi molto alti, la pensione totale potrebbe fermarsi tra 2.000 e 3.000 CHF, rendendo necessario un risparmio privato aggiuntivo.</li>
+                </ul>
 
-<h2>Pilastro 3: 3a (volontario)</h2>
-<p>Risparmio volontario con vantaggi fiscali per colmare eventuali gap.</p>
-</div>`
+                <div class="callout tip">
+                    <strong>Nota sugli accordi bilaterali:</strong> Gli anni lavorati in Spagna non si perdono; ogni paese pagherà la propria quota proporzionale al raggiungimento dell'età pensionabile.
+                </div>
+            </div>
+        `
     },
 
     "articulo-vivir-sin-trabajar": {
-        title: "Vivere in Svizzera senza lavorare (UE/AELS): requisiti",
-        description: "Come risiedere senza attività lucrativa: mezzi sufficienti, assicurazione sanitaria e registrazione.",
-        keywords: "vivere in svizzera senza lavoro, mezzi sufficienti, permesso senza attività lucrativa",
+        title: "Vivere in Svizzera senza lavorare: requisiti per residenti UE/AELS",
+        description: "Guida su come risiedere in Svizzera senza attività lucrativa, con risparmi, rendite o pensione, e quali permessi servono.",
+        keywords: "vivere in svizzera senza lavorare, permesso di soggiorno con risparmi, permesso B senza attività lucrativa",
         featuredImage: "media/guides/residir-en-suiza-sin-trabajo.jpg",
         category: "Procedure Ordinarie",
         hub: "tramites",
         readingTime: 4,
-        summary: "È possibile in alcuni casi, ma devi dimostrare risorse economiche e un'assicurazione sanitaria adeguata e registrarti ufficialmente.",
-        content: `<div class="page-header">
-<h1>Residenza in Svizzera senza contratto di lavoro</h1>
-</div>
-<div class="contenuto-articolo">
-<ul>
-  <li><strong>Mezzi economici sufficienti</strong> (risparmi, rendite, pensione)</li>
-  <li><strong>Assicurazione sanitaria</strong> (LAMal o equivalente accettato a seconda dello status)</li>
-  <li><strong>Registrazione</strong> al comune per soggiorni prolungati</li>
-</ul>
-</div>`
+        summary: "È possibile vivere in Svizzera senza lavorare, ma devi dimostrare mezzi economici sufficienti e disporre di un'assicurazione sanitaria completa (LAMal).",
+        content: `
+            <div class="article-content">
+                <p>Molti si chiedono se sia possibile stabilirsi in Svizzera senza avere un contratto di lavoro. La risposta è sì, soprattutto per i cittadini UE/AELS, ma a condizioni rigorose.</p>
+                
+                <h2>Regole per cittadini UE/AELS</h2>
+                <p>Se sei spagnolo o cittadino di un altro paese UE e prevedi di restare più di 90 giorni senza lavorare, devi registrarti e richiedere un permesso di soggiorno dimostrando:</p>
+                <ul>
+                    <li><strong>Mezzi economici sufficienti:</strong> Devi provare di avere risorse proprie, come risparmi, rendite o una pensione estera, per vivere senza ricorrere all'assistenza sociale svizzera.</li>
+                    <li><strong>Assicurazione sanitaria (LAMal):</strong> È obbligatorio stipulare un'assicurazione sanitaria svizzera completa. Le assicurazioni di viaggio temporanee non bastano.</li>
+                    <li><strong>Registrazione ufficiale:</strong> Devi iscriverti al controllo abitanti del comune in cui risiedi.</li>
+                </ul>
+
+                <h2>E per i cittadini extra UE?</h2>
+                <p>In questo caso le regole sono molto più restrittive. In generale, la residenza senza attività lucrativa viene autorizzata solo in situazioni molto specifiche, come pensionamento, studi o motivi medici giustificati, sempre con solide garanzie finanziarie.</p>
+
+                <div class="callout warning">
+                    <strong>Importante:</strong> Essere registrato all'indirizzo di un amico non sostituisce il permesso di soggiorno. I controlli possono portare a multe o all'obbligo di lasciare il paese se la procedura non viene rispettata.
+                </div>
+            </div>
+        `
     },
 
     "articulo-ai-invalidez": {
-        title: "Assicurazione invalidità (AI/IV) in Svizzera: reinserimento prima della rendita",
-        description: "Come funziona l'AI/IV: priorità a riabilitazione e reinserimento lavorativo; la rendita arriva solo se necessario.",
-        keywords: "AI IV svizzera, invalidità, reinserimento, rendita invalidità",
+        title: "L'AI svizzera (Assicurazione invalidità): sostegno e reinserimento",
+        description: "Capisci come funziona l'assicurazione invalidità in Svizzera. Il suo obiettivo principale è il reinserimento professionale prima della rendita.",
+        keywords: "AI svizzera, invalidità svizzera, assicurazione incapacità lavorativa, rendita AI",
         featuredImage: "media/guides/seguro-invalidez-ai-suiza.jpg",
         category: "Assicurazioni Sociali",
         hub: "salud",
         readingTime: 4,
-        summary: "Il principio è «reinserimento prima della rendita». L'AI finanzia misure di riabilitazione e adattamenti per tornare al lavoro.",
-        content: `<div class="page-header">
-<h1>AI/IV in Svizzera: supporto e reinserimento</h1>
-</div>
-<div class="contenuto-articolo">
-<h2>Misure possibili</h2>
-<ul>
-  <li>Riabilitazione medica e professionale</li>
-  <li>Adattamenti sul posto di lavoro e ausili</li>
-  <li>Riqualificazione / formazione</li>
-</ul>
+        summary: "L'AI non è un pensionamento anticipato. La sua filosofia è: prima la riabilitazione, poi la rendita. L'obiettivo è mantenere la persona attiva nel mondo del lavoro.",
+        content: `
+            <div class="article-content">
+                <p>L'<i>Assicurazione invalidità</i> (AI) è una parte fondamentale del sistema di sicurezza sociale svizzero. Tuttavia, il suo funzionamento viene spesso frainteso da chi arriva da altri sistemi.</p>
+                
+                <h2>Riabilitazione prima della rendita</h2>
+                <p>A differenza di altri paesi, l'obiettivo principale dell'AI non è pagare subito una pensione vitalizia, ma cercare di far recuperare alla persona la capacità lavorativa. Le misure possono includere:</p>
+                <ul>
+                    <li>Riabilitazione medica e professionale.</li>
+                    <li>Adattamento del posto di lavoro o ausili tecnici.</li>
+                    <li>Riqualificazione professionale, cioè formazione per un nuovo mestiere.</li>
+                </ul>
 
-<h2>Quando si parla di rendita?</h2>
-<p>Di solito dopo aver tentato le misure di reinserimento e se permane una perdita di capacità di guadagno a lungo termine.</p>
-</div>`
+                <h2>Quando si riceve la rendita?</h2>
+                <p>La rendita d'invalidità viene concessa solo quando si dimostra che, dopo aver esaurito le misure di riabilitazione, la persona continua ad avere una perdita duratura della capacità di guadagno. La rendita può essere parziale o totale, a seconda del grado d'invalidità stabilito dagli esperti.</p>
+
+                <h2>Domanda precoce</h2>
+                <p>È fondamentale richiedere l'AI non appena si prevede che una malattia o un incidente causeranno un'incapacità prolungata, in genere superiore a un anno. Non aspettare che la situazione diventi critica: la procedura è lunga e richiede numerose valutazioni mediche e professionali.</p>
+            </div>
+        `
     },
 
     "articulo-vacunas": {
-        title: "Vaccini in Svizzera: raccomandazioni, non obblighi",
-        description: "In generale non sono obbligatori per legge, ma sono raccomandati dall'Ufficio federale della sanità pubblica (UFSP/BAG).",
-        keywords: "vaccini svizzera, calendario vaccinale UFSP BAG, encefalite da zecche",
+        title: "Vaccini in Svizzera: raccomandazioni e libertà di scelta",
+        description: "Tutto sul calendario vaccinale svizzero. Non sono obbligatori per legge, ma sono ufficialmente raccomandati.",
+        keywords: "vaccini svizzera, calendario vaccinale svizzero, UFSP vaccini, scuola vaccini svizzera",
         featuredImage: "media/guides/vacunacion-en-suiza.jpg",
         category: "Salute Pubblica",
         hub: "salud",
         readingTime: 4,
-        summary: "Il sistema svizzero si basa soprattutto su raccomandazioni ufficiali e scelta informata. L'encefalite da zecche è spesso evidenziata per chi fa attività all'aperto.",
-        content: `<div class="page-header">
-<h1>Vaccinazioni in Svizzera</h1>
-</div>
-<div class="contenuto-articolo">
-<p>In Svizzera i vaccini sono in genere <strong>non obbligatori per legge</strong>. L'UFSP/BAG pubblica un calendario raccomandato.</p>
+        summary: "In Svizzera non esistono vaccini obbligatori. Il sistema si basa sulle raccomandazioni dell'Ufficio federale della sanità pubblica (UFSP) e sulla responsabilità individuale.",
+        content: `
+            <div class="article-content">
+                <p>Quando arrivano in Svizzera, molte famiglie si sorprendono nel vedere che il sistema vaccinale funziona in modo diverso rispetto ad altri paesi europei. Qui prevale la libertà di scelta del cittadino.</p>
+                
+                <h2>I vaccini sono obbligatori?</h2>
+                <p><strong>No. In Svizzera non ci sono vaccini obbligatori</strong>, né per i bambini né per gli adulti. Nemmeno per entrare nella scuola pubblica. Il sistema si basa sul fatto che le famiglie si informino con il pediatra e decidano in base alle raccomandazioni ufficiali.</p>
 
-<ul>
-  <li>Vaccini standard (DTP, polio, MPR, ecc.)</li>
-  <li><strong>Encefalite da zecche (FSME/TBE):</strong> spesso raccomandata in alcune zone e per attività outdoor</li>
-</ul>
+                <h2>Raccomandazioni dell'UFSP (BAG)</h2>
+                <p>L'Ufficio federale della sanità pubblica pubblica un calendario raccomandato che include i vaccini standard, come difterite, tetano, pertosse, polio, morbillo e altri. Inoltre, in Svizzera vengono raccomandati in particolare:</p>
+                <ul>
+                    <li><strong>Encefalite da zecche:</strong> Molto importante se fai attività all'aperto o frequenti boschi e zone verdi.</li>
+                    <li><strong>Influenza e HPV:</strong> A seconda dell'età e dei gruppi a rischio.</li>
+                </ul>
 
-<p>I vaccini raccomandati sono generalmente coperti dall'assicurazione di base, secondo franchigia/deduzione.</p>
-</div>`
+                <h2>Costo e assicurazione</h2>
+                <p>I vaccini raccomandati nel calendario ufficiale sono coperti dall'assicurazione di base (LAMal), anche se possono essere soggetti alla franchigia scelta dall'assicurato.</p>
+            </div>
+        `
     },
 
     "articulo-danza-patos": {
-        title: "Curiosità: la \"Danza dei anatroccoli\" è di origine svizzera",
-        description: "La storia di \"Der Ententanz\", melodia nata in Svizzera e diventata un classico mondiale delle feste.",
-        keywords: "danza dei anatroccoli origine svizzera, der ententanz, werner thomas davos",
+        title: "Lo sapevi? La danza degli anatroccoli ha origini svizzere",
+        description: "Scopri la storia di \"Der Ententanz\", la canzone contagiosa nata in Svizzera e diventata famosa in tutto il mondo.",
+        keywords: "danza degli anatroccoli svizzera, Bobby Setter, Werner Thomas, curiosità svizzere",
         featuredImage: "media/guides/origen-danza-de-los-patos-suiza.jpg",
         category: "Cultura e Vita",
         hub: "vivir-en-suiza",
         readingTime: 3,
-        summary: "La famosa melodia fu composta da Werner Thomas, fisarmonicista svizzero, alla fine degli anni '50 nella zona di Davos.",
-        content: `<div class="page-header">
-<h1>L'origine svizzera della Danza degli anatroccoli</h1>
-</div>
-<div class="contenuto-articolo">
-<p>Molti l'hanno sentita a matrimoni e sagre. Ma <strong>"Der Ententanz"</strong> ha radici svizzere.</p>
-<p>La melodia è attribuita a <strong>Werner Thomas</strong> e si è diffusa nel mondo con molte versioni negli anni '70 e '80.</p>
-</div>`
+        summary: "Anche se sembra una canzone universale, la celebre danza degli anatroccoli fu composta da un fisarmonicista svizzero a Davos negli anni '50.",
+        content: `
+            <div class="article-content">
+                <p>È quasi impossibile non averla mai sentita a un matrimonio, a una festa di paese o persino all'Oktoberfest. Quello che pochi sanno, però, è che la <strong>danza degli anatroccoli</strong> (<i>Der Ententanz</i>) ha un passaporto 100% svizzero.</p>
+                
+                <h2>Werner Thomas: il padre della melodia</h2>
+                <p>La melodia fu composta alla fine degli anni '50 da <strong>Werner Thomas</strong>, un fisarmonicista di Davos. In origine la chiamò "Der Ententanz" e si ispirò ai movimenti degli uccelli mentre suonava in hotel e ristoranti della zona sciistica.</p>
+
+                <h2>Da Davos al resto del mondo</h2>
+                <p>Curiosamente, la canzone non diventò famosa subito. Fu negli anni '70 e '80 che diversi gruppi europei iniziarono a reinterpretarla, trasformandola in un successo globale con nomi come "The Birdie Song" o "La danse des canards".</p>
+
+                <div class="callout info">
+                    <strong>Lo sapevi?</strong> Werner Thomas compose questo brano semplicemente per invitare la gente a ballare in modo divertente e senza complicazioni. Missione compiuta.
+                </div>
+            </div>
+        `
     },
 
     "articulo-introduccion-suiza": {
@@ -2067,58 +2105,90 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 
 
     "articulo-lenguas": {
-        title: "Le lingue in Svizzera: Tedesco, Francese, Italiano e Romancio",
-        description: "Guida alle 4 lingue nazionali: regioni linguistiche, cantoni bilingui e consigli per chi arriva.",
-        keywords: "lingue svizzera, regioni linguistiche, svizzero tedesco, romandia, ticino, romancio",
+        title: "Le lingue in Svizzera: tedesco, francese, italiano e romancio",
+        description: "Guida alle 4 lingue nazionali della Svizzera: regioni linguistiche, cantoni bilingui e consigli pratici per chi arriva nel paese.",
+        keywords: "lingue svizzera, idiomi svizzera, tedesco svizzera, francese svizzera, italiano ticino, romancio, regioni linguistiche",
         audience: "newcomer",
         featuredImage: "media/guides/lenguas-suiza.png",
         category: "Cultura & Lingue",
         hub: "vivir-en-suiza",
         readingTime: 5,
-        summary: "La Svizzera ha 4 lingue nazionali. La lingua da imparare dipende esclusivamente dal cantone in cui decidi di stabilirti: tedesco a est e al centro, francese a ovest, italiano in Ticino.",
+        summary: "La Svizzera ha 4 lingue nazionali. La lingua che dovrai imparare dipende interamente dal cantone in cui ti stabilisci: tedesco a est e al centro, francese a ovest, italiano in Ticino.",
         content: `
             <div class="article-content">
                 <p>La Svizzera è uno dei pochi paesi al mondo con quattro lingue nazionali ufficiali. Tuttavia, c'è un errore molto comune all'arrivo: credere che l'inglese sia sufficiente per l'integrazione. Non è così. La lingua del tuo cantone di residenza è la chiave per il lavoro, le procedure amministrative e l'integrazione sociale.</p>
 
                 <h2>Le 4 lingue nazionali</h2>
 
-                <h3>🇩🇪 Tedesco — Svizzera Tedesca</h3>
+                <h3>🇩🇪 Tedesco — Svizzera tedesca</h3>
                 <p>Parlato da circa il <strong>63%</strong> della popolazione. Copre gran parte della Svizzera centrale e orientale: Zurigo, Berna, Basilea, Lucerna, Zugo, Svitto, San Gallo e la maggior parte dei cantoni interni.</p>
 
-                <p>Ma c'è una particolarità fondamentale: nella vita quotidiana, gli svizzeri tedeschi non parlano il tedesco standard. Parlano lo <strong>svizzero tedesco</strong> (<em>Schwiizertüütsch</em>), un insieme di dialetti orali che variano da cantone a cantone e che possono essere quasi incomprensibili per chi ha studiato il tedesco standard. I testi scritti (contratti, lettere, moduli), invece, sono in tedesco standard (<em>Hochdeutsch</em>).</p>
+                <p>Ma c'è una sfumatura fondamentale: nella vita quotidiana, gli svizzeri germanofoni non parlano tedesco standard. Parlano <strong>Schweizerdeutsch</strong>, un insieme di dialetti orali che varia da cantone a cantone e che può risultare del tutto incomprensibile per chi ha studiato solo il tedesco standard. I testi scritti, come contratti, lettere e formulari, invece, sono redatti in tedesco standard (<em>Hochdeutsch</em>).</p>
 
                 <div class="callout">
-                    <strong>Per chi non è di lingua tedesca:</strong> Il tedesco è impegnativo, ma assolutamente fattibile. Con un livello B1 puoi già lavorare nella maggior parte dei lavori non specializzati. Molti corsi di tedesco in Svizzera sono sovvenzionati o gratuiti per i residenti.
+                    <strong>Per chi parla una lingua latina:</strong> Il tedesco è impegnativo, ma assolutamente raggiungibile. Con un livello B1 puoi già lavorare nella maggior parte degli impieghi non specializzati. Molti corsi di tedesco in Svizzera sono gratuiti o sovvenzionati per i residenti.
                 </div>
 
                 <h3>🇫🇷 Francese — Romandia</h3>
-                <p>Parlato da circa il <strong>23%</strong> della popolazione. Corrisponde ai cantoni dell'ovest: Ginevra, Vaud, Neuchâtel, Giura e parte del Vallese, Friburgo e Berna. Quest'area è chiamata informalmente <em>Romandia</em>.</p>
+                <p>Parlato da circa il <strong>23%</strong> della popolazione. Corrisponde ai cantoni dell'ovest: Ginevra, Vaud, Neuchâtel, Giura e, in parte, Vallese, Friburgo e Berna. Questa zona è chiamata informalmente <em>Romandia</em>.</p>
 
-                <p>Il francese svizzero è molto simile al francese standard, con alcune differenze lessicali che non rappresentano una vera barriera. Ad esempio, in alcuni cantoni della Romandia si usa <em>huitante</em> invece di <em>quatre-vingts</em> (80).</p>
+                <p>Il francese svizzero è molto simile al francese standard, con alcune differenze lessicali che non costituiscono una vera barriera. Per esempio, in alcuni cantoni della Romandia si usa <em>huitante</em> invece di <em>quatre-vingts</em> per indicare il numero 80.</p>
 
                 <div class="callout info">
-                    <strong>Suggerimento pratico:</strong> Il francese è spesso l'opzione più accessibile per chi ha radici latine. Il tempo di apprendimento è significativamente più breve rispetto al tedesco.
+                    <strong>Per chi parla una lingua latina:</strong> Il francese è spesso l'opzione più accessibile. La parentela linguistica rende l'apprendimento sensibilmente più rapido rispetto al tedesco.
                 </div>
 
                 <h3>🇮🇹 Italiano — Ticino</h3>
                 <p>Parlato da circa l'<strong>8%</strong> della popolazione, principalmente nel Canton Ticino (TI) e in alcune valli meridionali del Canton Grigioni. Il Ticino è l'unico cantone puramente italofono e ha un'identità culturale molto mediterranea.</p>
 
-                <p>L'italiano è molto vicino allo spagnolo e al francese. Tuttavia, il mercato del lavoro in Ticino è più piccolo e molte posizioni richiedono anche il tedesco o l'inglese per collaborare con il resto del paese.</p>
+                <p>Per chi parla spagnolo, l'italiano è la lingua svizzera più vicina. Tuttavia, il mercato del lavoro ticinese è più piccolo e molte posizioni richiedono anche il tedesco o l'inglese per collaborare con il resto del paese.</p>
 
                 <h3>🏔️ Romancio (Rumantsch)</h3>
-                <p>Parlato da meno dell'<strong>1%</strong> della popolazione, esclusivamente in parti del Canton Grigioni. È una lingua romanza con cinque diverse varianti scritte. Ha lo status di lingua nazionale ed è co-ufficiale nelle regioni in cui viene parlata.</p>
+                <p>Parlato da meno dell'<strong>1%</strong> della popolazione, esclusivamente in alcune zone del Canton Grigioni. È una lingua romanza con cinque varianti scritte diverse, nate da secoli di isolamento nelle valli alpine. Ha lo status di lingua nazionale ed è co-ufficiale nelle regioni in cui viene parlata, ma non viene usata a livello amministrativo federale se non per comunicare con i cittadini romanci.</p>
 
                 <h2>Cantoni bilingui e trilingui</h2>
 
                 <p>Tre cantoni hanno due o più lingue ufficiali:</p>
+
+                <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(200px, 1fr)); gap:1rem; margin:1.5rem 0;">
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1rem;">
+                        <strong>Friburgo (FR)</strong>
+                        <p style="font-size:0.9rem; margin:0.5rem 0 0; color:var(--text-secondary);">Bilingue francese / tedesco. L'amministrazione opera in entrambe le lingue. La città di Friburgo stessa è un punto di contatto tra le due culture.</p>
+                    </div>
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1rem;">
+                        <strong>Vallese / Wallis (VS)</strong>
+                        <p style="font-size:0.9rem; margin:0.5rem 0 0; color:var(--text-secondary);">Bilingue francese / tedesco a seconda della zona. Il Vallese romando è francofono, mentre l'Alto Vallese è germanofono.</p>
+                    </div>
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1rem;">
+                        <strong>Grigioni (GR)</strong>
+                        <p style="font-size:0.9rem; margin:0.5rem 0 0; color:var(--text-secondary);">Trilingue tedesco / romancio / italiano. È l'unico cantone con tre lingue ufficiali. Ogni valle può avere una lingua dominante diversa.</p>
+                    </div>
+                </div>
+
+                <h2>Quale lingua imparare?</h2>
+
+                <p>La risposta è sempre la stessa: <strong>la lingua del cantone in cui vivi</strong>. Ma se non hai ancora deciso dove stabilirti, ecco alcuni orientamenti utili:</p>
+
                 <ul>
-                    <li><strong>Berna, Friburgo, Vallese:</strong> Francese e Tedesco.</li>
-                    <li><strong>Grigioni:</strong> Tedesco, Italiano e Romancio.</li>
+                    <li><strong>Francese:</strong> È spesso il miglior punto di partenza per chi parla una lingua latina. Si impara più in fretta e apre le porte della Romandia e di città internazionali come Ginevra e Losanna.</li>
+                    <li><strong>Tedesco:</strong> È la lingua che apre più porte sul mercato del lavoro, perché copre circa il 63% del paese. È più difficile, ma l'offerta formativa è ampia e gli svizzeri apprezzano molto lo sforzo.</li>
+                    <li><strong>Italiano:</strong> Se lo conosci già, il Ticino può essere un ingresso più morbido. Se invece devi impararlo da zero, ricorda che il mercato del lavoro locale è più limitato.</li>
                 </ul>
 
-                <div class="callout warning">
-                    <strong>Integrazione e lingua:</strong> Non sottovalutare l'importance della lingua locale. Anche se lavori in inglese, conoscere la lingua del tuo cantone è essenziale per capire il contratto d'affitto, le tasse e per farsi degli amici locali.
+                <div class="callout">
+                    <strong>Investimento chiave:</strong> Molti cantoni offrono corsi di lingua sovvenzionati o persino gratuiti per i residenti stranieri. Anche alcuni datori di lavoro finanziano corsi linguistici. Informati già dal primo mese nel tuo comune.
                 </div>
+
+                <h2>L'inglese in Svizzera</h2>
+                <p>L'inglese è molto diffuso negli ambienti tecnici, finanziari e internazionali, soprattutto a Zurigo e Ginevra. Molte multinazionali lavorano quasi esclusivamente in inglese. Tuttavia, per le pratiche amministrative, per cercare lavoro nel settore pubblico o nelle PMI e per una vera integrazione sociale, la lingua locale resta indispensabile.</p>
+
+                <h2>Articoli correlati</h2>
+                <ul>
+                    <li><a href="#/introduccion-suiza-como-funciona">Come funziona la Svizzera</a></li>
+                    <li><a href="#/cantones-suiza">I 26 cantoni della Svizzera</a></li>
+                    <li><a href="#/registrarse-en-suiza">Registrarsi in Svizzera all'arrivo</a></li>
+                    <li><a href="#/buscar-empleo-suiza">Cercare lavoro in Svizzera</a></li>
+                </ul>
             </div>`
     },
 

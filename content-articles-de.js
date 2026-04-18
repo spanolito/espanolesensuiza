@@ -19,16 +19,52 @@ window.siteContent.de.articles = {
         readingTime: 4,
         featuredImage: "media/guides/tramites-llegada-suiza.jpg",
         imageAlt: "Die drei Arten von Schweizer Aufenthaltsbewilligungen (L, B, C) auf Karten über einer Schweizer Karte",
-        summary: "Ein vollständiger Leitfaden zum Verständnis der Schweizer Aufenthaltsbewilligungen: Ausweis L (Kurzaufenthalt), B (Aufenthalt) und C (Niederlassung).",
+        summary: "Es gibt drei Hauptbewilligungen (L, B und C). Welche Sie erhalten, hängt von Ihrer Nationalität, dem Aufenthaltsgrund und der Vertragsdauer ab. Oft können Sie bereits mit der Anmeldebestätigung arbeiten, bevor die physische Karte eintrifft.",
         content: `
             <div class="article-content">
-                <p>Der Umzug in die Schweiz erfordert eine Anmeldung und den Erhalt einer Aufenthaltsbewilligung. Wenn Sie aus einem EU/EFTA-Land (einschließlich Spanien) kommen, wird der Prozess durch das Abkommen über den freien Personenverkehr (ALCP) erleichtert.</p>
+                <h2>Einführung</h2>
+                <p>Wer in der Schweiz leben will, braucht in der Regel einen <strong>Aufenthaltstitel</strong>. Für Spanier und andere EU/EFTA-Bürger ist der Ablauf meist relativ geradlinig, wenn ein klarer Aufenthaltsgrund vorliegt, etwa ein Arbeitsvertrag, ein Studium oder genügend eigene Mittel. Für Staatsangehörige aus Drittstaaten gelten dagegen strengere Regeln und oft vorgängige Bewilligungen.</p>
 
-                <h2>Kurzer Vergleich</h2>
+                <div class="callout info">
+                    <strong>Das Wichtigste zuerst:</strong> Die physische Bewilligungskarte kann in der Schweiz einige Wochen auf sich warten lassen. In der Praxis reicht die <strong>Anmeldebestätigung Ihrer Gemeinde</strong> oft aus, um mit der Arbeit zu beginnen und weitere Formalitäten zu erledigen.
+                </div>
+
+                <h2>Wie das System funktioniert</h2>
+                <p>Die Bewilligung wird in den meisten Fällen nicht zentral online beantragt. Der praktische Ablauf sieht meist so aus:</p>
+                <ol>
+                    <li><strong>Adresse in der Schweiz</strong> organisieren, sei es Miete, Untermiete oder eine vorübergehende Unterkunft.</li>
+                    <li><strong>Anmeldung bei der Gemeinde</strong> bzw. Einwohnerkontrolle.</li>
+                    <li>Die Akte geht an die <strong>zuständige kantonale Behörde</strong> für Migration.</li>
+                    <li>Sie erhalten zuerst eine Bestätigung und später die <strong>Bewilligungskarte</strong> per Post.</li>
+                </ol>
+                <p>Dokumente, Fristen und Gebühren <strong>variieren je nach Kanton und Gemeinde</strong>. Die Logik des Verfahrens bleibt jedoch landesweit ähnlich.</p>
+
+                <h2>Voraussetzungen und Regeln</h2>
+                <h3>Typische Unterlagen für die Anmeldung</h3>
+                <p>Je nach Kanton und persönlicher Situation werden meist folgende Dokumente verlangt:</p>
+                <ul>
+                    <li>Personalausweis oder Reisepass.</li>
+                    <li><strong>Aufenthaltsgrund:</strong> Arbeitsvertrag, Zulassung zum Studium oder Nachweis eigener Mittel.</li>
+                    <li>Mietvertrag oder eine <strong>Wohnbestätigung</strong>, wenn Sie bei jemandem wohnen.</li>
+                    <li>Passfoto, falls die Gemeinde keines vor Ort aufnimmt.</li>
+                    <li>Zivilstandsdokumente und Familiennachweise, wenn diese für Ihren Fall relevant sind.</li>
+                </ul>
+                <p>Hinzu kommt in vielen Gemeinden eine <strong>Verwaltungsgebühr</strong>, deren Höhe nach Kanton und Bewilligungsart unterschiedlich ist.</p>
+
+                <h3>Welche Bewilligung ist die richtige?</h3>
+                <p>Für Neuankömmlinge sind vor allem folgende Bewilligungen relevant:</p>
+                <ul>
+                    <li><strong>L-Bewilligung:</strong> für einen kurzen oder befristeten Aufenthalt, oft bei Verträgen unter 12 Monaten.</li>
+                    <li><strong>B-Bewilligung:</strong> die klassische Aufenthaltsbewilligung, sehr häufig bei Verträgen ab 12 Monaten oder unbefristeten Arbeitsverträgen für EU/EFTA-Bürger.</li>
+                    <li><strong>C-Bewilligung:</strong> Niederlassungsbewilligung nach mehreren Jahren ordnungsgemäßem Aufenthalt.</li>
+                    <li><strong>G-Bewilligung:</strong> für Grenzgänger, die außerhalb der Schweiz wohnen und in der Schweiz arbeiten.</li>
+                </ul>
+
+                <h3>Kurzer Vergleich</h3>
                 <p>In der Schweiz gibt es mehrere Aufenthaltsbewilligungen für Bürger der Europäischen Union.<br>
                 Am häufigsten sind die Bewilligungen L, B und C.<br>
-                Jede entspricht einer anderen Situation, abhängig von der Art des Vertrags und der Dauer des Aufenthalts.<br>
-                Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umzug planen, siehe auch <a href="#/mudarse-a-suiza-desde-espana">den Schritt-für-Schritt-Leitfaden</a>.</p>
+                Jede passt zu einer anderen Situation, je nach Vertragsart und Aufenthaltsdauer.<br>
+                Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umzug planen, hilft auch <a href="#/mudarse-a-suiza-desde-espana">der Schritt-für-Schritt-Leitfaden</a>.</p>
 
                 <table class="info-table">
                     <thead><tr><th>Bewilligung</th><th>Typische Situation</th><th>Dauer</th><th>Hinweise</th></tr></thead>
@@ -51,30 +87,71 @@ window.siteContent.de.articles = {
                     <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
                 </ul>
 
-                <h2>L-Bewilligung (Kurzaufenthalt)</h2>
-                <p>An Personen gerichtet, die sich weniger als 12 Monate in der Schweiz aufhalten.</p>
+                <h3>Fristen, Gebühren und provisorische Bestätigung</h3>
+                <p>Entscheidend für den Alltag ist meist die <strong>Anmeldung bei der Gemeinde</strong>. Dort erhalten Sie oft eine <strong>provisorische Bestätigung</strong>, die bis zum Eintreffen der Karte gilt. Dieses Dokument genügt in vielen Fällen, um:</p>
                 <ul>
-                    <li><strong>Befristete Verträge:</strong> Wenn Sie einen Vertrag zwischen 3 und 12 Monaten haben, wird Ihnen diese Bewilligung zugewiesen.</li>
-                    <li><strong>Stellensuchende:</strong> Nach 3 Monaten Stellensuche können Sie eine L-Bewilligung beantragen, um die Suche fortzusetzen, die unter bestimmten Bedingungen durch den Nachweis finanzieller Mittel verlängert wird.</li>
+                    <li>eine Stelle anzutreten,</li>
+                    <li>ein Bankkonto zu eröffnen,</li>
+                    <li>Versicherungen und andere Basisdienste zu organisieren.</li>
+                </ul>
+                <p>Die Gebühren unterscheiden sich nach Kanton und Bewilligungsart. Häufig zahlen Sie bei der Anmeldung eine moderate Verwaltungsgebühr; Biometrie oder Fotos können separat verrechnet werden.</p>
+
+                <h3>Verlängerung und Änderungen im Alltag</h3>
+                <p>Bewilligungen begleiten Ihre Lebenssituation. Deshalb sollten Sie Änderungen immer sauber melden:</p>
+                <ul>
+                    <li><strong>Adresswechsel:</strong> Beim Umzug müssen Sie sich ab- und wieder anmelden, je nach Gemeinde innerhalb einer Frist.</li>
+                    <li><strong>Arbeitgeberwechsel:</strong> Bei EU/EFTA-Bewilligungen ist Mobilität meist möglich, doch Meldepflichten können nach Kanton und Ausweisart variieren.</li>
+                    <li><strong>Änderung des Zivilstands oder Kinder:</strong> Das wirkt sich oft auf Verfahren und Steuern aus. Halten Sie Ihre Unterlagen aktuell.</li>
                 </ul>
 
-                <h2>B-Bewilligung (Aufenthaltsbewilligung)</h2>
-                <p>Für Einwohner mit langfristigen oder unbefristeten Verträgen.</p>
+                <h3>Familie und Nachzug in Kürze</h3>
+                <p>Wenn Sie mit Partner oder Kindern kommen oder diese später nachholen möchten, prüft die Behörde vor allem:</p>
                 <ul>
-                    <li><strong>Gültigkeit:</strong> 5 Jahre für EU/EFTA-Bürger, wenn sie einen Vertrag von mindestens 12 Monaten oder unbefristet haben.</li>
-                    <li><strong>Rechte:</strong> Ermöglicht kantonale Mobilität und einfachen Arbeitgeberwechsel innerhalb des Landes.</li>
+                    <li><strong>ausreichendes Einkommen</strong> für den Haushalt,</li>
+                    <li><strong>geeigneten Wohnraum</strong>,</li>
+                    <li><strong>vollständige Unterlagen</strong> wie Geburts- oder Heiratsurkunden, gegebenenfalls mit Apostille und Übersetzung.</li>
+                </ul>
+                <p>Praktisch ist es sinnvoll, diese Dokumente möglichst schon vor dem Umzug vorzubereiten.</p>
+
+                <h2>Konkrete Beispiele</h2>
+                <h3>Beispiel 1: Sie kommen mit einem unbefristeten Arbeitsvertrag</h3>
+                <p>Sie melden sich mit Ausweis, Arbeitsvertrag und Adresse bei der Gemeinde an. Nach Zahlung der Gebühr erhalten Sie meist eine provisorische Bestätigung und können Ihre Arbeit aufnehmen. Damit lassen sich häufig auch Bankkonto und Krankenversicherung organisieren.</p>
+
+                <h3>Beispiel 2: Sie kommen ohne Arbeitsvertrag (EU/EFTA)</h3>
+                <p>Unter Umständen können Sie sich mit <strong>genügend eigenen Mitteln</strong> und Krankenversicherung anmelden. In der Praxis sind Wohnung und Bank ohne Arbeitsvertrag oft schwieriger. Dafür braucht es eine realistische finanzielle Planung.</p>
+
+                <h3>Beispiel 3: Sie verlieren Ihren Job mit einer B-Bewilligung</h3>
+                <p>Der Verlust der Stelle bedeutet nicht automatisch den Verlust der Bewilligung. Wichtig ist aber, korrekt zu handeln: Falls relevant, melden Sie sich beim <a href="#/arbeitslosigkeit-rav-schweiz">RAV</a>, suchen aktiv eine neue Stelle und halten Ihre Anmeldung aktuell.</p>
+
+                <h3>Beispiel 4: Sie kommen als Student</h3>
+                <p>Bei der Anmeldung werden Zulassung oder Immatrikulation sowie je nach Kanton auch <strong>Nachweise über finanzielle Mittel</strong> verlangt. Zusätzlich sollten Sie Ihre Krankenversicherung früh planen und allfällige kantonale Sonderregeln prüfen.</p>
+
+                <h3>Beispiel 5: Sie sind Grenzgänger</h3>
+                <p>Wer in Frankreich, Deutschland oder Italien wohnt und in der Schweiz arbeitet, fällt unter die <strong>G-Bewilligung</strong>. Diese folgt eigenen Regeln und hat wichtige steuerliche Folgen. Behandeln Sie sie nicht einfach als „B-Bewilligung mit Adresse im Ausland“.</p>
+
+                <h2>Häufige Fehler</h2>
+                <ul>
+                    <li><strong>Auf die endgültige Wohnung warten:</strong> Auch mit vorübergehender Unterkunft sollten Sie sich anmelden und die Adresse später aktualisieren.</li>
+                    <li><strong>Davon ausgehen, dass überall dieselben Regeln gelten:</strong> Fristen, Termine und Dokumente ändern sich von Kanton zu Kanton.</li>
+                    <li><strong>Familiendokumente zu spät vorbereiten:</strong> Geburts- und Heiratsurkunden mit Apostille können Zeit kosten.</li>
+                    <li><strong>Die Bewilligung isoliert betrachten:</strong> Kurz danach folgen Krankenversicherung, Steuern und Adressmeldungen.</li>
                 </ul>
 
-                <h2>C-Bewilligung (Niederlassungsbewilligung)</h2>
-                <p>Sie entspricht dem ständigen Wohnsitz und hängt nicht von den Arbeitsbedingungen ab.</p>
+                <h2>Praktische Tipps</h2>
                 <ul>
-                    <li><strong>Erhalt:</strong> Sie wird nach 5 Jahren ununterbrochenem und regulärem Aufenthalt für spanische (und EU-15) Staatsangehörige gewährt.</li>
-                    <li><strong>Vorteile:</strong> Gleiche Rechte wie Schweizer (außer Stimmrecht), Sie können Ihr Unternehmen frei gründen und die Steuern werden nicht mehr an der Quelle (Quellensteuer) einbehalten, sondern über eine normale jährliche Erklärung.</li>
+                    <li>Buchen Sie einen Termin bei der Gemeinde, sobald Sie eine Adresse haben.</li>
+                    <li>Nehmen Sie alle Dokumente digital und ausgedruckt mit.</li>
+                    <li>Melden Sie Adressänderungen fristgerecht.</li>
+                    <li>Wenn Sie mit Familie kommen, organisieren Sie Urkunden, Apostillen und Übersetzungen mit Zeitreserve.</li>
+                    <li>Für den ersten Monat hilft die <a href="#/checkliste-die-wichtigsten-schritte-im-ersten-monat-in-der-schweiz">Checkliste der wichtigsten Schritte</a>.</li>
                 </ul>
 
-                <div class="callout info">
-                    <strong>Offizielle Quelle:</strong> Überprüfen Sie die Verlängerungsbedingungen auf dem Portal des <a href="https://www.sem.admin.ch/" target="_blank">Staatssekretariats für Migration</a>.
-                </div>
+                <h2>Offizielle Quellen</h2>
+                <ul>
+                    <li><a href="https://www.sem.admin.ch/sem/de/home/themen/aufenthalt.html" target="_blank" rel="noopener noreferrer">SEM — Aufenthalt</a></li>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Offizielles Schweizer Portal</a></li>
+                    <li>Die kantonale Migrationsbehörde Ihres Wohnkantons.</li>
+                </ul>
             </div>
         `
     },
@@ -182,47 +259,81 @@ window.siteContent.de.articles = {
         readingTime: 3,
         featuredImage: "media/guides/registrarse-en-suiza.jpg",
         imageAlt: "Der Eingang zu einer Schweizer Gemeindeverwaltung (Einwohnerkontrolle) mit der Schweizer Flagge",
-        summary: "Wenn Sie in die Schweiz ziehen, um hier zu leben, müssen Sie sich in der Regel schnell bei Ihrer Gemeinde anmelden (oft innerhalb von 14 Tagen). Die Anmeldebestätigung reicht meist aus, um die Arbeit aufzunehmen, während die physische Bewilligungskarte erstellt wird.",
+        summary: "Wenn Sie in die Schweiz ziehen, müssen Sie sich in der Regel innerhalb weniger Tage bei Ihrer Gemeinde anmelden, oft innerhalb von 14 Tagen. Die Anmeldebestätigung reicht meist aus, um zu arbeiten und die ersten Formalitäten zu erledigen, während die Bewilligungskarte noch produziert wird.",
         content: `
             <div class="article-content">
-                <p>Die Anmeldung bei Ihrer Gemeinde (<i>Einwohnerkontrolle / Contrôle des habitants</i>) ist der Schritt, der Ihren <strong>Wohnsitz in der Schweiz formalisiert</strong>. Sie löst die administrative Kette aus: Bearbeitung der Aufenthaltsbewilligung, Krankenversicherung, Steuern, Schule und mehr.</p>
+                <h2>Einführung</h2>
+                <p>Die <strong>Anmeldung bei der Gemeinde</strong> (Einwohnerkontrolle / <i>Contrôle des habitants</i>) ist der Schritt, der Ihren Wohnsitz in der Schweiz offiziell macht. Damit beginnt die administrative Kette: Aufenthaltsbewilligung, Krankenversicherung, Steuern, Schule und viele weitere Formalitäten.</p>
+                <p>Wichtig: Nicht jede Person, die in die Schweiz einreist, muss sich anmelden. Dieser Artikel richtet sich an Menschen, die <strong>zum Wohnen</strong> in die Schweiz ziehen und deshalb eine offizielle Adresse benötigen.</p>
 
                 <h2>Wie das System funktioniert</h2>
                 <ol>
-                    <li>Suchen Sie das Büro Ihrer Gemeinde und prüfen Sie, ob ein Termin erforderlich ist.</li>
-                    <li>Bringen Sie die geforderten Dokumente mit und geben Sie Ihre Adresse an (auch wenn sie vorläufig ist).</li>
-                    <li>Zahlen Sie die Verwaltungsgebühr und erhalten Sie eine <strong>Anmeldebestätigung</strong> (variiert je nach Kanton/Gemeinde).</li>
-                    <li>Ihre Akte wird an die kantonale Migrationsbehörde weitergeleitet; die <strong>Bewilligungskarte</strong> kommt später per Post.</li>
+                    <li><strong>Sie wählen Ihre Gemeinde</strong> bzw. die tatsächliche Wohnadresse und finden das zuständige Büro.</li>
+                    <li><strong>Sie buchen einen Termin</strong>, falls das lokal verlangt wird.</li>
+                    <li><strong>Sie reichen die Unterlagen ein</strong>, zahlen die Gebühr und melden Ihre Adresse an.</li>
+                    <li>Die Gemeinde stellt eine <strong>Anmeldebestätigung</strong> aus, je nach Kanton und Fall.</li>
+                    <li>Ihre Akte geht an die <strong>kantonale Migrationsbehörde</strong>; die Bewilligungskarte folgt später per Post.</li>
                 </ol>
                 <div class="callout warning">
-                    <strong>Fristen:</strong> Viele Gemeinden verlangen die Anmeldung innerhalb von <strong>14 Tagen</strong> (manchmal weniger) und in der Regel <strong>vor Arbeitsbeginn</strong>. Die Regeln variieren je nach Kanton und Gemeinde – informieren Sie sich immer lokal.
+                    <strong>Fristen:</strong> In vielen Kantonen muss die Anmeldung innerhalb von <strong>14 Tagen</strong> erfolgen, manchmal sogar früher. Wer zum Arbeiten kommt, muss sich meist <strong>vor dem ersten Arbeitstag</strong> anmelden. Prüfen Sie immer die Regeln Ihrer Gemeinde.
                 </div>
 
                 <h2>Voraussetzungen und Regeln</h2>
-                <h3>Wer muss sich anmelden?</h3>
+                <h3>1) Wer muss sich anmelden und wer nicht?</h3>
                 <ul>
-                    <li><strong>Zuzug zum Wohnen (Arbeit, Studium, Familie):</strong> Ja – eine Anmeldung ist normalerweise innerhalb der lokalen Frist erforderlich.</li>
-                    <li><strong>Kurzaufenthalt (bis 90 Tage):</strong> In der Regel als Tourist, keine Anmeldung als Einwohner erforderlich.</li>
+                    <li><strong>Touristen oder kurze Aufenthalte bis etwa 90 Tage:</strong> In der Regel <strong>keine Anmeldung als Einwohner</strong>.</li>
+                    <li><strong>Umzug zum Wohnen</strong> wegen Arbeit, Studium oder Familie: In der Praxis <strong>ja</strong>, eine Anmeldung innerhalb der lokalen Frist ist Standard.</li>
+                    <li><strong>Arbeitssuchende aus EU/EFTA-Staaten:</strong> Ein gewisser Aufenthalt zur Stellensuche ist möglich. Sobald Sie sich niederlassen oder die zulässige Dauer überschreiten, müssen Sie Ihre Situation regularisieren.</li>
+                    <li><strong>Grenzgänger mit G-Bewilligung:</strong> Sie wohnen außerhalb der Schweiz. Das läuft nicht wie eine normale Wohnsitzanmeldung, auch wenn es kantonale und arbeitsbezogene Formalitäten gibt.</li>
                 </ul>
+                <p>Wenn Ihr Fall gemischt ist, etwa zunächst Kurzaufenthalt und später Arbeitsvertrag, lautet die praktische Regel: <strong>Sobald Sie einen Aufenthaltsgrund und eine Adresse haben, handeln Sie rasch</strong>.</p>
 
-                <h3>Übliche Dokumente</h3>
+                <h3>2) Adresse und Unterkunft: auch provisorisch möglich</h3>
+                <p>Wenn Sie anfangs im Hotel, Airbnb oder bei Bekannten wohnen, können Sie sich in vielen Gemeinden trotzdem mit einer <strong>provisorischen Adresse</strong> anmelden und diese später ändern. Wenn Sie privat untergebracht sind, wird oft eine <strong>Wohnbestätigung</strong> der hauptmietenden oder beherbergenden Person verlangt.</p>
+
+                <h3>3) Übliche Dokumente</h3>
                 <ul>
                     <li>Reisepass oder Personalausweis.</li>
-                    <li>Arbeitsvertrag oder Nachweis ausreichender finanzieller Mittel.</li>
-                    <li>Mietvertrag oder Unterkunftsbestätigung (Logis).</li>
-                    <li>Zivilstandsdokumente (für Familien).</li>
+                    <li><strong>Aufenthaltsgrund:</strong> Arbeitsvertrag, Studienzulassung oder Nachweis ausreichender finanzieller Mittel.</li>
+                    <li>Mietvertrag oder Unterkunftsbestätigung.</li>
+                    <li>Passfoto, falls die Gemeinde keines vor Ort aufnimmt.</li>
+                    <li>Familiendokumente, falls relevant, etwa Heirats- oder Geburtsurkunden.</li>
+                </ul>
+                <p>Hinzu kommt in vielen Gemeinden eine <strong>Verwaltungsgebühr</strong>, deren Höhe von Kanton und Bewilligungsart abhängt.</p>
+
+                <h2>Konkrete Beispiele</h2>
+                <h3>Beispiel 1: Sie kommen mit Job und provisorischer Unterkunft</h3>
+                <p>Sie melden sich mit Arbeitsvertrag, Ausweis und vorläufiger Adresse an. Mit der Bestätigung können Sie Bankkonto und Krankenversicherung anschieben, bis die Bewilligungskarte eintrifft. Sobald Sie die definitive Wohnung haben, melden Sie die neue Adresse.</p>
+
+                <h3>Beispiel 2: Sie kommen als Student</h3>
+                <p>Sie reichen Zulassung oder Immatrikulation sowie die geforderten Nachweise über finanzielle Mittel und Versicherung ein. Mit der Anmeldung werden die weiteren Formalitäten aktiviert.</p>
+
+                <h3>Beispiel 3: Sie sind Grenzgänger</h3>
+                <p>Hier läuft der Prozess anders als bei einem Einwohner. Bewilligung und Pflichten werden stärker über Arbeitgeber und Kanton abgewickelt. Behandeln Sie diesen Fall nicht wie eine B-Bewilligung mit Adresse im Ausland.</p>
+
+                <h2>Häufige Fehler</h2>
+                <ul>
+                    <li><strong>Einreise mit Wohnsitz verwechseln:</strong> Ein Besuch in der Schweiz löst keine Anmeldung aus, ein Umzug schon.</li>
+                    <li><strong>Auf die endgültige Wohnung warten</strong> und dadurch die Frist verpassen.</li>
+                    <li><strong>Den Termin zu spät buchen</strong> in Gemeinden mit überlasteten Schaltern.</li>
+                    <li><strong>Adressänderungen nicht melden</strong>, obwohl Umzüge in der Schweiz administrativ zentral sind.</li>
+                    <li><strong>Familiendokumente nicht vorbereiten</strong>, wenn Apostille oder Übersetzung nötig sind.</li>
                 </ul>
 
                 <h2>Praktische Ratschläge</h2>
                 <ul>
-                    <li>Prüfen Sie die Website Ihrer Gemeinde für die genaue Liste der Dokumente und Gebühren.</li>
-                    <li>Nach der Anmeldung priorisieren Sie <a href="#/krankenversicherung-schweiz-kvg">LAMal</a> und die Einrichtung Ihres Bankkontos.</li>
+                    <li>Prüfen Sie die offizielle Website Ihrer Gemeinde unter „Anmeldung“, „Einwohnerkontrolle“ oder „Contrôle des habitants“.</li>
+                    <li>Bereiten Sie ein PDF mit allen Unterlagen plus ausgedruckte Kopien vor.</li>
+                    <li>Wenn Ihr Fall speziell ist, bitten Sie die Gemeinde schriftlich um die exakte Dokumentenliste.</li>
+                    <li>Nach der Anmeldung sollten Sie zuerst <a href="#/krankenversicherung-schweiz-kvg">die Krankenversicherung</a> und Ihr Bankkonto organisieren.</li>
+                    <li>Für den ersten Monat ist die <a href="#/checkliste-die-wichtigsten-schritte-im-ersten-monat-in-der-schweiz">komplette Ankommens-Checkliste</a> hilfreich.</li>
                 </ul>
 
                 <h2>Offizielle Schweizer Quellen</h2>
                 <ul>
-                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Leben in der Schweiz</a></li>
-                    <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">SEM — Aufenthalt</a></li>
+                    <li><a href="https://www.ch.ch/de/auslander-in-der-schweiz/" target="_blank" rel="noopener noreferrer">ch.ch — Leben in der Schweiz</a></li>
+                    <li><a href="https://www.sem.admin.ch/sem/de/home/themen/aufenthalt.html" target="_blank" rel="noopener noreferrer">SEM — Aufenthalt</a></li>
+                    <li>Die offizielle Website Ihrer Gemeinde bzw. Einwohnerkontrolle.</li>
                 </ul>
             </div>
         `
@@ -240,51 +351,101 @@ window.siteContent.de.articles = {
         hub: "salud",
         slug: "krankenversicherung-schweiz-kvg",
         readingTime: 6,
-        summary: "Die Krankenversicherung in der Schweiz ist obligatorisch, privat und individuell. Sie haben nach Ihrer Ankunft drei Monate Zeit für den Abschluss, wobei der Schutz rückwirkend gilt.",
+        summary: "Die Krankenversicherung in der Schweiz ist obligatorisch, privat und individuell. Sie haben nach der Ankunft drei Monate Zeit für den Abschluss, zahlen aber rückwirkend ab dem ersten Tag Ihres Wohnsitzes.",
         content: `
             <div class="article-content">
-                <p>Im Gegensatz zu vielen anderen europäischen Ländern verfügt die Schweiz nicht über ein staatliches Gesundheitssystem, das durch Sozialversicherungsabgaben finanziert wird. Stattdessen ist jeder Einwohner verpflichtet, eine Versicherung bei privaten Anbietern gemäß dem Bundesgesetz über die Krankenversicherung (<strong>KVG</strong> oder <strong>LAMal</strong>) abzuschließen.</p>
+                <h2>Einführung</h2>
+                <p>Eine der größten Umstellungen beim Zuzug in die Schweiz ist, dass das Gesundheitssystem nicht wie eine automatische staatliche Absicherung funktioniert. Die medizinische Grundversorgung wird bei einem privaten Versicherer abgeschlossen, ist aber gesetzlich geregelt: das <strong>KVG</strong> bzw. die <strong>LAMal</strong>. Kurz gesagt: <strong>obligatorisch, privat und in der Grunddeckung standardisiert</strong>.</p>
 
-                <h2>Versicherungspflicht und Fristen</h2>
-                <p>Jede in der Schweiz wohnhafte Person muss innerhalb von <strong>drei Monaten</strong> nach ihrer offiziellen Anmeldung eine Grundversicherung abschließen. Der Versicherungsschutz gilt rückwirkend ab dem ersten Tag Ihres Aufenthalts, was bedeutet, dass Sie die Prämien für diese ersten Monate auch dann nachzahlen müssen, wenn Sie sich erst später anmelden.</p>
-
-                <h2>Was deckt die Grundversicherung (KVG) ab?</h2>
-                <p>Die Leistungen der Grundversicherung sind gesetzlich bei allen Gesellschaften identisch. Sie umfassen:</p>
-                <ul>
-                    <li>Allgemeine und fachärztliche Beratungen.</li>
-                    <li>Vom Arzt verschriebene Medikamente (aus der offiziellen Liste).</li>
-                    <li>Spitalbehandlungen in der allgemeinen Abteilung Ihres Wohnkantons.</li>
-                    <li>Mutterschaftskosten (hierauf wird weder Franchise noch Selbstbehalt erhoben).</li>
-                </ul>
-
-                <h2>Was wird NICHT übernommen?</h2>
-                <p>Die Grundversicherung deckt in der Regel <strong>nicht</strong> ab:</p>
-                <ul>
-                    <li>Routinemäßige Zahnbehandlungen (Kontrollen, Reinigungen, Füllungen).</li>
-                    <li>Brillen oder Kontaktlinsen (mit geringfügigen Ausnahmen für Kinder).</li>
-                    <li>Spitalaufenthalte in privaten oder halbprivaten Zimmern.</li>
-                </ul>
-
-                <h2>Versicherungsmodelle: So sparen Sie Prämien</h2>
-                <p>Obwohl die Leistungen gleich sind, können Sie ein spezifisches „Modell« wählen, um Ihre monatlichen Kosten zu senken:</p>
-                <ul>
-                    <li><strong>HMO-Modell:</strong> Sie verpflichten sich, immer zuerst ein bestimmtes Gesundheitszentrum aufzusuchen. Es bietet den höchsten Rabatt.</li>
-                    <li><strong>Telmed-Modell:</strong> Sie müssen vor einem Arztbesuch eine medizinische Hotline für eine Erstberatung anrufen.</li>
-                    <li><strong>Hausarzt-Modell:</strong> Sie müssen immer zuerst Ihren zugewiesenen Hausarzt konsultieren.</li>
-                    <li><strong>Standard (Freie Arztwahl):</strong> Sie können direkt zu jedem Spezialisten gehen, es ist jedoch die teuerste Option.</li>
-                </ul>
-
-                <h2>Wie Arztrechnungen bezahlt werden</h2>
-                <p>Es gibt zwei Hauptsysteme bei der Abrechnung:</p>
-                <ul>
-                    <li><strong>Tiers-garant:</strong> Sie bezahlen die Rechnung oder in der Apotheke zuerst selbst und senden den Beleg zur Rückerstattung an Ihren Versicherer.</li>
-                    <li><strong>Tiers-payant:</strong> Die Rechnung wird direkt vom Leistungserbringer an den Versicherer gesendet. Dieser stellt Ihnen dann Ihren Anteil (Franchise/Selbstbehalt) in Rechnung.</li>
-                </ul>
-
-                <h2>Subventionen und Prämienverbilligung</h2>
-                <div class="callout info">
-                    <strong>Finanzielle Hilfe:</strong> Wenn Ihr Einkommen unter einer bestimmten Schwelle liegt, haben Sie Anspruch auf eine <strong>Prämienverbilligung</strong>, die von Ihrem Kanton gezahlt wird. Dies kann einen erheblichen Teil Ihrer monatlichen Prämie abdecken. Den Antrag stellen Sie in der Regel beim kantonalen Amt für Sozialversicherungen.
+                <div class="callout warning">
+                    <strong>Kritische Frist:</strong> Sie haben <strong>drei Monate</strong> ab Ankunft bzw. Anmeldung Zeit, die Grundversicherung abzuschließen. Der Schutz gilt <strong>rückwirkend</strong> ab dem ersten Tag Ihres Aufenthalts. Wenn Sie spät abschließen, zahlen Sie die Prämien trotzdem ab Tag 1 nach.
                 </div>
+
+                <h2>Wie das System funktioniert</h2>
+                <h3>1) Grundversicherung versus Zusatzversicherungen</h3>
+                <p>Die <strong>Grundversicherung</strong> deckt die gesetzlich definierten Basisleistungen ab und ist bei allen Kassen inhaltlich gleich. <strong>Zusatzversicherungen</strong> decken Extras wie Zahnbehandlungen, halbprivate oder private Spitalzimmer, Brillen oder alternative Leistungen. Sie sind freiwillig und nicht garantierte Aufnahmeprodukte: Versicherer dürfen Gesundheitsfragen stellen, Ausschlüsse machen oder ablehnen.</p>
+
+                <h3>2) Wofür Sie zahlen: Prämie, Franchise und Selbstbehalt</h3>
+                <p>Versichert zu sein bedeutet in der Schweiz nicht „alles inklusive“. Ihre Kosten setzen sich in der Regel aus Folgendem zusammen:</p>
+                <ul>
+                    <li><strong>Monatsprämie:</strong> fixer Betrag, abhängig von Kanton, Gemeinde, Alter und Modell.</li>
+                    <li><strong>Franchise:</strong> Jahresbetrag, den Sie zuerst selbst bezahlen.</li>
+                    <li><strong>Selbstbehalt:</strong> Danach tragen Sie einen Prozentsatz der Kosten bis zu einer Obergrenze.</li>
+                    <li><strong>Spitalbeitrag:</strong> Bei stationären Aufenthalten fällt für Erwachsene meist ein Tagesbeitrag an.</li>
+                </ul>
+                <p>Für die Entscheidung zwischen hoher oder tiefer Franchise lohnt sich der Vergleich mit <a href="#/franchise-und-selbstbehalt-schweiz">Franchise und Selbstbehalt</a>.</p>
+
+                <h3>3) Versicherungsmodelle</h3>
+                <p>Ein wichtiger Hebel bei der Prämie ist das <strong>Versicherungsmodell</strong>. Bei manchen Modellen müssen Sie zuerst die Telemedizin anrufen oder immer den Hausarzt konsultieren, bevor Sie zu einem Spezialisten gehen. Wer die Regeln des gewählten Modells nicht einhält, riskiert gekürzte Leistungen.</p>
+
+                <h3>4) Kasse wählen und wechseln</h3>
+                <p>Die Grundversicherung kann nach festen Fristen gewechselt werden. Üblich ist der Vergleich der Prämien im Herbst für das Folgejahr. Die genauen Termine und Bedingungen hängen vom Produkt und vom Kalenderjahr ab, deshalb sollten Sie sich immer an die offiziellen Angaben und Ihre Vertragsbedingungen halten.</p>
+
+                <h3>5) Rechnungen: Warum Sie manchmal zuerst selbst zahlen</h3>
+                <p>In der Schweiz ist es normal, Rechnungen vom Arzt oder Spital zu erhalten. Je nach Abrechnungssystem bezahlen Sie die Rechnung selbst und reichen sie ein oder der Leistungserbringer rechnet direkt mit der Kasse ab. Solange Sie die Franchise nicht ausgeschöpft haben, tragen Sie die Kosten ohnehin selbst. Darum fühlt sich das System trotz Prämien oft teuer an.</p>
+
+                <h2>Voraussetzungen und Regeln</h2>
+                <h3>1) Wer sich versichern muss</h3>
+                <p>Grundsätzlich muss jede Person mit Wohnsitz in der Schweiz versichert sein. Es gibt Ausnahmen und Sonderregeln, etwa für gewisse Studierende oder Grenzgänger. Wenn Ihr Fall speziell ist, lassen Sie sich die anwendbare Regel schriftlich vom Kanton bestätigen.</p>
+
+                <h3>2) Unfallversicherung: der teuerste Denkfehler</h3>
+                <p>Wenn Sie angestellt sind, deckt Ihr Arbeitgeber oft die <strong>Unfallversicherung</strong> ab, je nach Pensum auch für Nichtberufsunfälle. In diesem Fall können Sie den Unfallschutz in der Grundversicherung meist ausschließen und Prämie sparen. Wenn Sie die Stelle verlieren, müssen Sie diese Deckung wieder aktivieren. Genau hier passieren viele teure Lücken.</p>
+
+                <h3>3) Prämienverbilligung und Unterstützung</h3>
+                <p>Für Personen und Familien mit tieferem Einkommen gibt es eine <strong>Prämienverbilligung</strong>. Sie wird kantonal geregelt: Kriterien, Einkommensgrenzen und Verfahren unterscheiden sich stark. Viele Neuzuzüger beantragen sie nicht, obwohl sie Anspruch hätten.</p>
+
+                <h3>4) Was die Grundversicherung abdeckt</h3>
+                <p>Die Leistungen der Grundversicherung sind bei allen Kassen gesetzlich identisch. Typischerweise umfasst sie:</p>
+                <ul>
+                    <li>Hausarzt- und Spezialistenkonsultationen, abhängig vom gewählten Modell.</li>
+                    <li>Ärztlich verschriebene Medikamente aus den offiziellen Listen.</li>
+                    <li>Spitalaufenthalte in der <strong>allgemeinen Abteilung</strong>, in der Regel im Wohnkanton, außer bei Notfällen oder besonderen Regeln.</li>
+                    <li>Mutterschaftsleistungen unter eigenen gesetzlichen Bedingungen.</li>
+                </ul>
+
+                <h3>5) Was nicht oder nur begrenzt gedeckt ist</h3>
+                <ul>
+                    <li><strong>Zahnbehandlungen:</strong> Routinebehandlungen werden meist separat bezahlt oder über Zusatzversicherungen gedeckt.</li>
+                    <li><strong>Brillen und Kontaktlinsen:</strong> oft nur begrenzt oder gar nicht in der Grundversicherung.</li>
+                    <li><strong>Privat- oder Halbprivatzimmer im Spital:</strong> normalerweise nur mit Zusatzversicherung.</li>
+                </ul>
+
+                <h2>Konkrete Beispiele</h2>
+                <h3>Beispiel 1: Gesunde Person, die die Monatskosten senken will</h3>
+                <p>Wer selten zum Arzt geht, wählt häufig eine hohe Franchise, um die Prämie zu senken. Das Risiko: In einem Jahr mit Unfall oder teurer Behandlung zahlen Sie zunächst deutlich mehr aus eigener Tasche.</p>
+
+                <h3>Beispiel 2: Familie mit kleinen Kindern</h3>
+                <p>Mit Kindern sind Arztbesuche häufiger. Viele Familien bevorzugen tiefere Franchisen, um die Ausgaben besser planbar zu halten. Ebenso wichtig ist ein Modell, das mit Pädiatrie und Notfällen alltagstauglich ist.</p>
+
+                <h3>Beispiel 3: Sie schließen die Versicherung nicht rechtzeitig ab</h3>
+                <p>Wenn Sie die Dreimonatsfrist verpassen, sparen Sie nichts. Die Prämien werden in der Regel rückwirkend ab Tag 1 geschuldet, und der Kanton kann Ihnen sogar eine Kasse zuteilen. Planen Sie diesen Schritt deshalb in den <a href="#/checkliste-die-wichtigsten-schritte-im-ersten-monat-in-der-schweiz">ersten Wochen</a> fest ein.</p>
+
+                <h3>Beispiel 4: Worst-Case-Rechnung für die Franchise</h3>
+                <p>Eine praktische Methode bei der Wahl der Franchise ist die Berechnung des schlimmsten Falls: Jahresprämie + Franchise + maximaler Selbstbehalt. So sehen Sie, ob eine tiefe oder hohe Franchise besser zu Ihrer finanziellen Situation passt.</p>
+
+                <h2>Häufige Fehler</h2>
+                <ul>
+                    <li><strong>Nur auf die Prämie schauen:</strong> Wer das Modell nicht versteht, zahlt später unter Umständen nicht erstattete Rechnungen.</li>
+                    <li><strong>Grund- und Zusatzversicherung verwechseln:</strong> Zahnbehandlungen oder Privatabteilungen sind nicht automatisch enthalten.</li>
+                    <li><strong>Die Franchise falsch wählen:</strong> Eine tiefe Prämie hilft wenig, wenn jedes Jahr planbare medizinische Kosten anfallen.</li>
+                    <li><strong>Unfalldeckung bei Jobwechsel vergessen:</strong> Das führt zu Doppeldeckung oder gefährlichen Lücken.</li>
+                </ul>
+
+                <h2>Praktische Tipps</h2>
+                <ul>
+                    <li>Vergleichen Sie Prämien auf <a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo</a>, dem offiziellen Prämienrechner.</li>
+                    <li>Berechnen Sie Ihren <strong>jährlichen Worst Case</strong>, nicht nur die Monatsprämie.</li>
+                    <li>Wenn Sie Zusatzversicherungen möchten, ist der Abschluss oft einfacher, solange Sie gesund sind und noch keine Diagnosen vorliegen.</li>
+                    <li>Bei knapperem Budget prüfen Sie die <strong>Prämienverbilligung</strong> Ihres Kantons.</li>
+                    <li>Diese Seite ergänzt die Artikel zu <a href="#/franchise-und-selbstbehalt-schweiz">Franchise und Selbstbehalt</a> sowie zu den <a href="#/lebenshaltungskosten-in-der-schweiz">Lebenshaltungskosten</a>.</li>
+                </ul>
+
+                <h2>Offizielle Quellen</h2>
+                <ul>
+                    <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo — offizieller Prämienvergleich</a></li>
+                    <li><a href="https://www.bag.admin.ch/" target="_blank" rel="noopener noreferrer">BAG — Bundesamt für Gesundheit</a></li>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Offizielles Schweizer Portal</a></li>
+                </ul>
             </div>
         `
     },
@@ -847,8 +1008,8 @@ window.siteContent.de.articles = {
 
     // 12. Alquiler de vivienda
     "articulo-alquiler": {
-        title: "Wohnung mieten in der Schweiz: Der Prozess",
-        description: "Ein umfassender Leitfaden zur Mietung einer Wohnung in der Schweiz: Bewerbungsdossier, Anforderungen und die wichtigsten Suchplattformen.",
+        title: "Wohnung mieten in der Schweiz: der Ablauf Schritt für Schritt",
+        description: "Welche Unterlagen Sie für eine Schweizer Mietbewerbung brauchen und wie Sie Ihr Dossier in einem umkämpften Markt vorbereiten.",
         keywords: "wohnung mieten schweiz, immobilien schweiz, mietdossier, verwaltung, homegate, immoscout24",
         audience: 'resident',
         featuredImage: "media/guides/alquilar-vivienda-suiza.jpg",
@@ -857,38 +1018,102 @@ window.siteContent.de.articles = {
         hub: "vivienda",
         slug: "wohnung-mieten-schweiz-prozess",
         readingTime: 5,
-        summary: "Die Wohnungssuche in Schweizer Städten ist hart umkämpft. Ein tadelloses und vollständiges Bewerbungsdossier ist zwingend erforderlich, um eine Chance zu haben.",
+        summary: "Der Mietmarkt ist sehr kompetitiv. Sie brauchen ein sauberes Dossier mit Betreibungsauszug, Arbeitsvertrag und Einkommensnachweisen, um realistische Chancen zu haben.",
         content: `
             <div class="article-content">
-                <p>Die Wohnungssuche in Städten wie Zürich, Genf oder Lausanne ist aufgrund niedriger Leerstandsquoten und einer enormen Nachfrage bekanntermaßen schwierig. Schnelligkeit und ein professionelles Dossier sind entscheidend für den Erfolg.</p>
+                <h2>Einführung</h2>
+                <p>Eine Wohnung in der Schweiz zu mieten überrascht viele Neuankömmlinge aus zwei Gründen: wegen des starken <strong>Wettbewerbs</strong> in vielen Regionen und wegen der zentralen Bedeutung des <strong>Mietdossiers</strong>. Es reicht nicht, sich die Wohnung leisten zu können. Verwaltungen suchen stabile Profile mit vollständigen Unterlagen und ohne Zahlungsausfälle. Wer den Prozess versteht und sich gut vorbereitet, verbessert seine Chancen deutlich.</p>
 
-                <h2>Das Mietdossier: Ihre Visitenkarte</h2>
-                <p>In der Schweiz lernen Immobilienverwaltungen (<i>Verwaltungen / Régies</i>) die Mieter selten persönlich kennen, bevor sie eine Auswahl treffen. Sie entscheiden basierend auf Ihrem „Dossier« – einer Mappe mit all Ihren finanziellen und rechtlichen Referenzen. Ist Ihr Dossier unvollständig, wird es in der Regel sofort aussortiert.</p>
-
-                <h2>Erforderliche Dokumente</h2>
-                <p>Ihr Bewerbungsdossier (meist digital über Portale eingereicht) muss Folgendes enthalten:</p>
-                <ul>
-                    <li><strong>Kopie von ID/Pass:</strong> Sowie Ihre Aufenthaltsbewilligung (oder eine Kopie Ihres unterzeichneten Arbeitsvertrags, wenn Sie neu ankommen).</li>
-                    <li><strong>Die letzten drei Lohnabrechnungen:</strong> Oder ein Einkommensnachweis.</li>
-                    <li><strong>Betreibungsauszug (<i>Extrait de l'Office des Poursuites</i>):</strong> Ein obligatorisches Zertifikat – meist nicht älter als 3 Monate –, das beweist, dass Sie in der Schweiz keine unbezahlten Schulden haben.</li>
-                    <li><strong>Privathaftpflichtversicherung (RC):</strong> Auch wenn diese manchmal erst später verlangt wird, zeigt ihre Vorbereitung, dass Sie ein seriöser Kandidat sind.</li>
-                </ul>
-
-                <h2>Die Goldene 1/3-Einkommensregel</h2>
-                <div class="callout warning">
-                    <strong>Finanzielle Kriterien:</strong> In der Regel akzeptieren Schweizer Verwaltungen nur Kandidaten, deren <strong>Bruttomonatsmiete ein Drittel (1/3) des Bruttomonatseinkommens des Haushalts nicht überschreitet</strong>. Ist die Miete höher, wird Ihre Bewerbung fast sicher abgelehnt, unabhängig von Ihren Ersparnissen.
+                <div class="callout info">
+                    <strong>Wichtige Punkte:</strong>
+                    <ul>
+                        <li>Bereiten Sie Ihr Dossier <strong>vor</strong>, bevor Sie mit Besichtigungen beginnen.</li>
+                        <li>Das zentrale Dokument ist der <strong>Betreibungsauszug</strong> bzw. in der Westschweiz der <strong>extrait des poursuites</strong>.</li>
+                        <li>Planen Sie die Einstiegskosten ein: Kaution, erste Miete, Umzug und Versicherungen.</li>
+                    </ul>
                 </div>
 
-                <h2>Wichtige Suchportale</h2>
-                <p>Obwohl es viele Seiten gibt, sind die meisten Inserate auf diesen drei Plattformen zentralisiert:</p>
+                <h2>Wie das System funktioniert</h2>
+                <h3>1) Wo Wohnungen inseriert werden</h3>
+                <p>Der Großteil der Angebote erscheint auf Portalen wie <a href="https://www.homegate.ch/" target="_blank" rel="noopener noreferrer">Homegate</a> oder <a href="https://www.immoscout24.ch/" target="_blank" rel="noopener noreferrer">ImmoScout24</a>. Daneben gibt es Websites von Verwaltungen und in manchen Regionen lokale Gruppen. Ein praktischer Schritt ist das Einrichten von Suchalarmen nach Gebiet, Preis und Zimmerzahl, damit Sie schnell reagieren können.</p>
+
+                <h3>2) Besichtigung und Bewerbung</h3>
+                <p>Eine Wohnungsbesichtigung bedeutet in der Schweiz nicht, dass die Wohnung reserviert ist. Normalerweise besichtigen Sie zuerst und reichen danach eine <strong>formelle Bewerbung</strong> mit Dossier ein. Bei Sammelbesichtigungen gibt es oft Dutzende Bewerber. Wer vollständig und schnell einreicht, hat einen echten Vorteil.</p>
+
+                <h3>3) Auswahl und Vertrag</h3>
+                <p>Die Verwaltung prüft Bonität, Einkommen und die Stabilität des Haushalts. Wenn Sie ausgewählt werden, erhalten Sie den Vertrag oder eine Zusage. Im Ablehnungsfall ist es üblich, keine ausführliche Begründung zu bekommen.</p>
+
+                <h3>4) Einzug: Kaution, Übergabeprotokoll und Versicherungen</h3>
+                <p>Vor der Schlüsselübergabe werden meist folgende Punkte geregelt:</p>
                 <ul>
-                    <li><a href="https://www.homegate.ch/" target="_blank" rel="noopener noreferrer">Homegate.ch</a></li>
-                    <li><a href="https://www.immoscout24.ch/" target="_blank" rel="noopener noreferrer">ImmoScout24.ch</a></li>
-                    <li><a href="https://www.comparis.ch/immobilien" target="_blank" rel="noopener noreferrer">Comparis (Aggregator)</a></li>
+                    <li><strong>Kaution:</strong> Bei Wohnungen ist sie gesetzlich auf maximal drei Monatsmieten begrenzt und wird meist auf ein Sperrkonto auf Ihren Namen einbezahlt oder über eine Mietkautionsversicherung abgedeckt.</li>
+                    <li><strong>Übergabeprotokoll:</strong> Das Protokoll beim Einzug ist entscheidend. Alle Mängel müssen dokumentiert werden, sonst können sie Ihnen beim Auszug angerechnet werden.</li>
+                    <li><strong>Privathaftpflicht:</strong> In der Praxis wird sie sehr häufig verlangt oder zumindest erwartet, weil sie Schäden an Dritten oder an der Mietsache mitabdeckt.</li>
                 </ul>
 
-                <h2>Die Rolle der Verwaltungen und Liegenschaftsverwaltungen</h2>
-                <p>Der Großteil des Schweizer Wohnungsmarktes wird nicht von Privatpersonen, sondern von großen professionellen Firmen verwaltet, den sogenannten <strong>Verwaltungen</strong> (Deutsch) oder <strong>Régies</strong> (Französisch). Sie kümmern sich um alles, von der Besichtigung bis zur Reparatur. Die Kommunikation ist formell und findet in der Regel in der Landessprache statt.</p>
+                <h2>Voraussetzungen und Regeln</h2>
+                <h3>Das Mietdossier: was typischerweise verlangt wird</h3>
+                <p>Immobilienverwaltungen prüfen mit dem Dossier Ihre Identität, Ihr Einkommen und Ihre Zahlungshistorie. Typisch sind:</p>
+                <ul>
+                    <li>Kopie von Ausweis oder Reisepass und, falls vorhanden, Aufenthaltsbewilligung. Wenn Sie neu ankommen, helfen Arbeitsvertrag und Anmeldebestätigung.</li>
+                    <li>Die <strong>letzten drei Lohnabrechnungen</strong> oder, bei Neueinreise, Arbeitsvertrag plus Bestätigung des Arbeitgebers mit Lohn und Startdatum.</li>
+                    <li><strong>Betreibungsauszug / extrait des poursuites</strong>, meist nur wenige Monate alt und gegen eine kleine Gebühr erhältlich.</li>
+                    <li>Das Formular der Verwaltung mit Angaben zu Haushaltsgröße, Einkommen und Kontaktinformationen.</li>
+                    <li>Manchmal zusätzlich Haftpflichtnachweis, Referenzen oder ein kurzes Vorstellungsschreiben.</li>
+                </ul>
+
+                <h3>Die goldene Regel: ein Drittel des Einkommens</h3>
+                <p>Viele Verwaltungen wenden eine Vorsichtsregel an: Die Monatsmiete sollte ungefähr <strong>ein Drittel</strong> des Bruttoeinkommens des Haushalts nicht überschreiten. Liegt die Wohnung darüber, ist eine Ablehnung häufig, selbst wenn Sie aus Ihrer Sicht genügend Budget hätten.</p>
+
+                <h3>Zimmer und Nebenkosten</h3>
+                <p>Zwei Punkte führen oft zu Missverständnissen:</p>
+                <ul>
+                    <li><strong>Zimmer:</strong> Das Wohnzimmer zählt mit. Eine Wohnung mit „3.5 Zimmern“ ist meist Wohnzimmer + zwei Schlafzimmer + ein kleiner zusätzlicher Raumanteil.</li>
+                    <li><strong>Nebenkosten:</strong> Heizung, Warmwasser und allgemeine Kosten können enthalten sein, müssen es aber nicht. Fragen Sie immer genau nach, was eingeschlossen ist.</li>
+                </ul>
+
+                <h3>Der Vertrag: Kündigungsfristen und Termine</h3>
+                <p>Die rechtlichen Details unterscheiden sich nach Vertrag und Kanton, aber es gibt typische Muster: Verträge haben oft <strong>bestimmte Kündigungstermine</strong> und eine <strong>Kündigungsfrist</strong> von mehreren Monaten. Man kann also nicht einfach mit 30 Tagen Frist „jederzeit“ ausziehen.</p>
+
+                <h3>Einzug und Auszug: Das Protokoll ist Ihre Absicherung</h3>
+                <p>Beim Einzug wird der Zustand der Wohnung dokumentiert. Machen Sie zusätzlich Fotos und notieren Sie Kratzer, Flecken, Schäden an Geräten oder Feuchtigkeitsprobleme. Sehr viele Streitfälle entstehen, weil der Zustand beim Einzug nicht sauber festgehalten wurde.</p>
+
+                <h2>Konkrete Beispiele</h2>
+                <h3>Beispiel 1: Sie haben noch keine Schweizer Lohnabrechnungen</h3>
+                <p>Wenn die ersten drei Lohnabrechnungen fehlen, stärken Sie das Dossier mit einem unbefristeten Vertrag, einer Arbeitgeberbestätigung über Lohn und Startdatum sowie einem kurzen Begleittext. Das garantiert nichts, verbessert aber die Ausgangslage.</p>
+
+                <h3>Beispiel 2: Paar, bei dem erst eine Person arbeitet</h3>
+                <p>Oft zählt das Gesamteinkommen, aber Verwaltungen beurteilen auch die Stabilität. Legen Sie den Vertrag der arbeitenden Person bei und erklären Sie kurz den Plan der zweiten Person, etwa Sprachkurs oder laufende Stellensuche.</p>
+
+                <h3>Beispiel 3: Angebot einer Mietkautionsversicherung statt Sperrkonto</h3>
+                <p>Statt mehrere tausend Franken zu blockieren, können Sie eine Jahresprämie an eine Gesellschaft zahlen, die als Garant auftritt. Das ist hilfreich bei knapper Liquidität, aber kein rückzahlbares Depot. Vergleichen Sie die Vor- und Nachteile mit dem Leitfaden zu <a href="#/mietkaution-und-mieterrechte">Mietkaution und Mieterrechten</a>.</p>
+
+                <h3>Beispiel 4: Start mit Untermiete</h3>
+                <p>Viele Neuankömmlinge beginnen mit einem Zimmer oder einer Untermiete, um sich anmelden zu können und das erste Gehalt zu erhalten. Das ist oft realistischer als sofort eine eigene Wohnung zu bekommen. Trotzdem sollten Sie auf einen schriftlichen Vertrag und klare Regeln bestehen.</p>
+
+                <h2>Häufige Fehler</h2>
+                <ul>
+                    <li><strong>Unvollständiges Dossier:</strong> In einem harten Markt ist das fast immer ein sofortiges Nein.</li>
+                    <li><strong>Den Betreibungsauszug zu spät besorgen:</strong> Beantragen Sie ihn, sobald Sie eine Adresse haben.</li>
+                    <li><strong>Den Zustand der Wohnung nicht zu dokumentieren:</strong> Das wird beim Auszug oft teuer.</li>
+                    <li><strong>Auf Betrug hereinzufallen:</strong> Überweisen Sie kein Geld ohne echten Vertrag und überprüfbare Gegenpartei.</li>
+                    <li><strong>Den Anbieter nicht zu prüfen:</strong> Wenn der Preis unrealistisch ist oder man Sie drängt, ist Vorsicht angebracht.</li>
+                    <li><strong>Die Einstiegskosten zu unterschätzen:</strong> Kaution, erste Miete, Umzug und Versicherungen summieren sich schnell.</li>
+                </ul>
+
+                <h2>Praktische Tipps</h2>
+                <ul>
+                    <li>Halten Sie Ihr Dossier als sauberes PDF bereit, damit Sie noch am selben Tag einreichen können.</li>
+                    <li>Fügen Sie eine kurze professionelle Vorstellung mit drei bis vier Zeilen hinzu.</li>
+                    <li>Seien Sie bei Sammelbesichtigungen pünktlich, knapp und verbindlich.</li>
+                    <li>Bei Fragen zu Vertragsklauseln oder zur Kautionsrückgabe helfen Mieterverbände und der Leitfaden zu <a href="#/mietkaution-und-mieterrechte">Kaution und Rechten</a>.</li>
+                    <li>Verbinden Sie die Wohnungssuche mit Ihrem <a href="#/lebenshaltungskosten-in-der-schweiz">Budget</a> und den ersten <a href="#/tramites-llegada-suiza">Ankunftsformalitäten</a>.</li>
+                </ul>
+
+                <h2>Offizielle Quellen</h2>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Offizielles Schweizer Portal</a></li>
+                </ul>
             </div>
         `
     },
@@ -944,51 +1169,64 @@ window.siteContent.de.articles = {
         hub: "vivir-en-suiza",
         slug: "lebenshaltungskosten-schweiz-budget",
         readingTime: 6,
-        summary: "Während die Schweizer Gehälter hoch sind, sind es auch die Fixausgaben. Ein klares Verständnis der monatlichen Kosten ist für die Finanzplanung unerlässlich.",
+        summary: "Die Schweizer Löhne sind hoch, aber ebenso die Fixkosten. Ein realistisches Budget für Miete, Versicherung, Verpflegung und Familie ist entscheidend, um den Umzug gut zu planen.",
         content: `
             <div class="article-content">
-                <p>Die Schweiz gilt regelmäßig als eines der teuersten Länder der Welt. Diesen hohen Kosten stehen jedoch die weltweit höchsten Mediangehälter gegenüber. Um zu beurteilen, ob ein Gehalt „gut« ist, muss man betrachten, was nach den fixen monatlichen Ausgaben übrig bleibt.</p>
+                <h2>Einführung</h2>
+                <p>Die Schweiz gehört zu den Ländern mit den höchsten Lebenshaltungskosten Europas. Gerade deshalb ist es wichtig, jeden Franken bewusst zu planen. Ein Budget hilft, Überraschungen zu vermeiden, Ausgaben zu kontrollieren und ruhiger über Wohnung, Verpflegung, Kinderbetreuung oder Steuern zu entscheiden. Schweizer Budgetberatungsstellen veröffentlichen regelmäßig reale Beispiele, die als Orientierung im Alltag dienen.</p>
 
-                <h2>Ist die Schweiz wirklich so teuer?</h2>
-                <p>Ja, insbesondere bei Dienstleistungen (Restaurants, Friseure, Reparaturen) und obligatorischen Versicherungen. Dennoch ist die <strong>Kaufkraft</strong> eines in der Schweiz ansässigen Bewohners meist höher als in den meisten anderen europäischen Ländern, sobald die Fixkosten bezahlt sind.</p>
-
-                <h2>Beispiel für ein Monatsbudget (Einzelperson)</h2>
-                <table class="info-table">
-                    <thead><tr><th>Ausgabe</th><th>Betrag (CHF)</th></tr></thead>
-                    <tbody>
-                        <tr><td>Miete (1.5 - 2.5 Zimmer)</td><td>1'400 - 1'900</td></tr>
-                        <tr><td>Krankenversicherung (Grundversicherung)</td><td>350 - 450</td></tr>
-                        <tr><td>Lebensmittel & Haushalt</td><td>500 - 700</td></tr>
-                        <tr><td>Transport (Lokales Abo)</td><td>70 - 100</td></tr>
-                        <tr><td>Internet / Mobilfunk / Billag</td><td>120 - 150</td></tr>
-                        <tr><td>Freizeit / Auswärts essen</td><td>300 - 500</td></tr>
-                        <tr><td><strong>Geschätztes Total</strong></td><td><strong>2'740 - 3'800</strong></td></tr>
-                    </tbody>
-                </table>
-
-                <h2>Beispiel für ein Monatsbudget (Familie mit 2 Kindern)</h2>
-                <table class="info-table">
-                    <thead><tr><th>Ausgabe</th><th>Betrag (CHF)</th></tr></thead>
-                    <tbody>
-                        <tr><td>Miete (4.5 Zimmer)</td><td>2'400 - 3'500</td></tr>
-                        <tr><td>Krankenversicherung (Ganze Familie)</td><td>900 - 1'200</td></tr>
-                        <tr><td>Lebensmittel & Haushalt</td><td>1'200 - 1'600</td></tr>
-                        <tr><td>Schule / Außerschulische Aktivitäten</td><td>200 - 500</td></tr>
-                        <tr><td>Nebenkosten / Haushalt</td><td>200 - 350</td></tr>
-                        <tr><td><strong>Geschätztes Total</strong></td><td><strong>4'900 - 7'150</strong></td></tr>
-                    </tbody>
-                </table>
-
-                <h2>Regionale Unterschiede: Stadt vs. Land</h2>
-                <p>Die Kosten variieren erheblich je nach Wohnort:</p>
+                <h2>Budget für eine alleinstehende Person</h2>
+                <p>Wer allein lebt, muss die Fixkosten mit dem monatlichen Nettoeinkommen sauber ins Gleichgewicht bringen.</p>
                 <ul>
-                    <li><strong>Teure Zentren:</strong> Zürich und Genf haben die höchsten Mieten und Versicherungsprämien des Landes.</li>
-                    <li><strong>Vorstadt/Ländlich:</strong> Kantone wie Glarus, Appenzell oder Teile von Freiburg bieten deutlich günstigeren Wohnraum, was jedoch oft höhere Transportkosten für Pendler bedeutet.</li>
-                    <li><strong>Steuerparadiese:</strong> Kantone wie Zug oder Schwyz haben sehr niedrige Einkommenssteuern, was die oft höheren Mieten in diesen Gebieten kompensieren kann.</li>
+                    <li><strong>Miete:</strong> Ein Studio oder eine kleine Wohnung kostet oft zwischen 1'400 und 2'200 CHF inklusive Nebenkosten, je nach Region.</li>
+                    <li><strong>Lebensmittel:</strong> Wer zu Hause kocht und überwiegend bei Migros, Coop, Lidl oder Aldi einkauft, liegt oft bei 400 bis 500 CHF; häufiges Auswärtsessen verdoppelt diesen Posten schnell.</li>
+                    <li><strong>Transport:</strong> Ein städtisches Monatsabo liegt oft zwischen 80 und 140 CHF. Wer nahe an der Arbeit wohnt oder jung ist, findet manchmal günstigere Lösungen.</li>
+                    <li><strong>Krankenversicherung:</strong> Die Grundprämie liegt je nach Kanton, Alter und Modell oft zwischen 300 und 450 CHF. Hinzu kommen Franchise und Selbstbehalt, weshalb ein Reserveposten sinnvoll ist.</li>
                 </ul>
 
-                <h2>Der wirtschaftliche Überschuss: Warum Gehälter ausgleichen</h2>
-                <p>Das „Schweizer Geheimnis« liegt darin, dass ein Kaffee zwar 5 CHF kosten mag, aber die Fähigkeit, 10 % eines Gehalts von 6'000 CHF zu sparen, 600 CHF ergibt – ein viel höherer absoluter Wert für Reisen oder persönliche Projekte, als 10 % eines Gehalts von 1'500 EUR anderswo zu sparen.</p>
+                <h2>Budget für Paare ohne Kinder</h2>
+                <p>Zwei Erwachsene teilen viele Fixkosten, brauchen aber trotzdem Platz für Freizeit, Rücklagen und mittelfristige Ziele.</p>
+                <ul>
+                    <li><strong>Wohnen:</strong> Eine Wohnung mit 2 bis 3 Zimmern kostet oft zwischen 2'300 und 3'200 CHF, je nach Lage und Standard.</li>
+                    <li><strong>Freizeit:</strong> Restaurants, Fitness, Kurzreisen und Ausgehen summieren sich schnell auf 200 bis 400 CHF oder mehr im Monat.</li>
+                    <li><strong>Versicherungen:</strong> Neben dem KVG kommen oft Haftpflicht- und Hausratversicherung hinzu, besonders wenn ein Auto oder Haustiere im Spiel sind.</li>
+                    <li><strong>Sparen:</strong> Schweizer Budgetberater empfehlen häufig, mindestens 10 bis 15 % des Einkommens für Notfälle oder größere Ziele zurückzulegen.</li>
+                </ul>
+
+                <h2>Budget für Familien mit Kindern</h2>
+                <p>Mit jedem Kind vervielfachen sich bestimmte Ausgabenblöcke deutlich.</p>
+                <ul>
+                    <li><strong>Kita:</strong> Ein Platz kostet oft zwischen 1'200 und 2'000 CHF pro Kind, wobei kantonale oder kommunale Subventionen den Betrag senken können.</li>
+                    <li><strong>Schule und Material:</strong> Ausflüge, Schulmaterial, Sprachkurse oder Lager schlagen schnell mit 100 bis 200 CHF pro Kind und Monat zu Buche.</li>
+                    <li><strong>Lebensmittel:</strong> Familienbudgets liegen häufig zwischen 700 und 900 CHF pro Monat oder mehr.</li>
+                    <li><strong>Kleidung:</strong> Ohne Planung kann dieser Posten schnell aus dem Ruder laufen. Saisonwechsel und Rabatte helfen.</li>
+                    <li><strong>Transport:</strong> Familienabos, Schulwege oder zusätzliche Fahrten erhöhen das Budget oft um 150 bis 250 CHF.</li>
+                    <li><strong>Freizeitaktivitäten:</strong> Musik, Sport oder Nachhilfe kosten häufig weitere 100 bis 250 CHF pro Kind und Monat.</li>
+                </ul>
+
+                <h3>Familie mit einem Kind</h3>
+                <p>Ein typisches Beispiel ist eine Wohnung für 2'400 CHF, eine teilweise finanzierte Kita um 1'000 CHF und Verpflegung um 650 CHF. Wer Fahrten bündelt oder öffentliche Angebote nutzt, kann Transportkosten reduzieren.</p>
+
+                <h3>Familie mit zwei Kindern</h3>
+                <p>Kita und Freizeitaktivitäten verdoppeln sich fast. Öffentliche oder gestaffelt bepreiste Angebote für Geschwister gewinnen stark an Bedeutung.</p>
+
+                <h3>Familie mit drei Kindern</h3>
+                <p>Hier wird Effizienz entscheidend: günstigeres Wohnen, clevere Transportlösungen, ein Notfallfonds und die volle Nutzung der öffentlichen Schule machen einen großen Unterschied.</p>
+
+                <h2>Warum ein Budget so wichtig ist</h2>
+                <p>Ein gutes Budget verwandelt Unsicherheit in informierte Entscheidungen.</p>
+                <ul>
+                    <li><strong>Ausgaben kontrollieren:</strong> Erst die Übersicht zeigt, wo sich sparen lässt, etwa bei Abos, Impulskäufen oder Mobilität.</li>
+                    <li><strong>Zukunft planen:</strong> Wer weiß, was übrig bleibt, kann gezielt für Wohnen, Auto, Weiterbildung oder Ferien sparen.</li>
+                    <li><strong>Notfallfonds aufbauen:</strong> Viele Berater empfehlen mindestens drei Monate Fixkosten für unerwartete Ereignisse wie Jobverlust oder Reparaturen.</li>
+                    <li><strong>Mehr finanzielle Ruhe:</strong> Weniger Überraschungen bedeuten mehr Sicherheit bei Familien- oder Kantonswechseln.</li>
+                </ul>
+
+                <h2>Offizielle Quellen</h2>
+                <ul>
+                    <li><a href="https://budgetberatung.ch/" target="_blank" rel="noopener noreferrer">Budgetberatung Schweiz</a> — Budgetbeispiele und Beratungsangebote.</li>
+                    <li><a href="https://budgetberatung.ch/budgetbeispiele/" target="_blank" rel="noopener noreferrer">Budgetvorlagen und Beispiele</a> zum Anpassen an den eigenen Haushalt.</li>
+                </ul>
             </div>
         `
     },
@@ -1471,18 +1709,28 @@ window.siteContent.de.articles = {
         category: "Sozialversicherung",
         hub: "trabajo",
         readingTime: 5,
-        summary: "Die Schweizer Altersvorsorge basiert auf 3 Säulen. Wer später kommt, sollte Säule 2 und 3 besonders aktiv planen.",
+        summary: "Die Schweizer Altersvorsorge stützt sich auf drei Säulen. Entscheidend sind die Beitragsjahre: Wer früher in die Schweiz kommt, baut in der Regel eine deutlich solidere Rente auf.",
         content: `<div class="article-content">
-<p>Die Rente in der Schweiz wird oft als <strong>3-Säulen-System</strong> beschrieben. Ihr Ergebnis hängt stark von Beitragsjahren und Lohn ab.</p>
+<p>Eine der häufigsten Fragen nach einigen Jahren in der Schweiz lautet: Wie hoch wird meine Rente eigentlich sein? Die Altersvorsorge stützt sich vor allem auf zwei Säulen, nämlich <strong>AHV/AVS</strong> und <strong>BVG/LPP</strong>, ergänzt durch die freiwillige dritte Säule.</p>
 
-<h2>Säule 1: AHV/AVS</h2>
-<p>Staatliche Grundrente. Beitragslücken können die Rente reduzieren.</p>
+<h2>Die grundlegenden Säulen</h2>
+<ul>
+  <li><strong>1. Säule (AHV/AVS):</strong> Staatliche Grundrente. Der Betrag hängt vor allem von lückenlosen Beitragsjahren ab. Bei vollen Beitragsjahren liegt die monatliche Rente ungefähr zwischen 1'200 und 2'450 CHF.</li>
+  <li><strong>2. Säule (BVG/LPP):</strong> Berufliche Vorsorge über die Pensionskasse des Arbeitgebers. Hier wird Kapital aufgebaut, das später als Monatsrente oder teilweise als Kapitalbezug ausbezahlt werden kann.</li>
+  <li><strong>3. Säule:</strong> Freiwilliges steuerbegünstigtes Sparen, um Lücken zu schließen oder den Lebensstandard im Alter zu stabilisieren.</li>
+</ul>
 
-<h2>Säule 2: BVG/LPP</h2>
-<p>Berufliche Vorsorge über den Arbeitgeber – für viele der größte Teil der späteren Rente.</p>
+<h2>Beispiele nach Alter bei Ankunft</h2>
+<p>Die Erwartungen ändern sich stark, je nachdem, wann Sie anfangen, in der Schweiz Beiträge zu leisten:</p>
+<ul>
+  <li><strong>Ankunft mit 30 Jahren:</strong> Das ist ein relativ günstiges Szenario. Nach rund 35 Beitragsjahren ist eine gesamte Altersrente von etwa 4'000 bis 5'500 CHF realistisch, je nach Lohnverlauf und Pensionskasse.</li>
+  <li><strong>Ankunft mit 40 Jahren:</strong> Die AHV wird bereits lückenhafter, und in der 2. Säule bleibt weniger Zeit zum Kapitalaufbau. Eine Gesamtrente von ungefähr 3'000 bis 4'000 CHF ist ein plausibler Rahmen.</li>
+  <li><strong>Ankunft mit 50 Jahren:</strong> Das ist deutlich heikler. Ohne hohe Löhne oder zusätzliche private Vorsorge kann die gesamte Rente eher bei 2'000 bis 3'000 CHF liegen.</li>
+</ul>
 
-<h2>Säule 3: 3a (freiwillig)</h2>
-<p>Steuerbegünstigtes Sparen, hilfreich um Lücken zu schließen.</p>
+<div class="callout tip">
+  <strong>Wichtig bei Spanien und der Schweiz:</strong> Die in Spanien gearbeiteten Jahre gehen nicht verloren. Jedes Land zahlt bei Erreichen des Rentenalters seinen proportionalen Anteil gemäss den Sozialversicherungsabkommen.
+</div>
 </div>`
     },
 
@@ -1494,14 +1742,24 @@ window.siteContent.de.articles = {
         category: "Verwaltungsverfahren",
         hub: "tramites",
         readingTime: 4,
-        summary: "Grundsätzlich möglich, aber Sie müssen ausreichende finanzielle Mittel und eine passende Krankenversicherung nachweisen und sich offiziell anmelden.",
+        summary: "Ein Aufenthalt ohne Erwerbstätigkeit ist möglich, aber nur mit ausreichenden finanziellen Mitteln, einer vollwertigen Krankenversicherung und einer formellen Anmeldung bei der Gemeinde.",
         content: `<div class="article-content">
-<h2>Typische Anforderungen</h2>
+<p>Viele fragen sich, ob man sich in der Schweiz auch ohne Arbeitsvertrag niederlassen kann. Die Antwort lautet: ja, besonders für Bürger aus der EU/EFTA, allerdings nur unter recht strengen Bedingungen.</p>
+
+<h2>Regeln für EU/EFTA-Bürger</h2>
+<p>Wenn Sie Spanier sind oder aus einem anderen EU-Land kommen und länger als 90 Tage ohne Erwerbstätigkeit in der Schweiz bleiben möchten, müssen Sie sich anmelden und eine Aufenthaltsbewilligung beantragen. Dafür müssen Sie in der Regel nachweisen:</p>
 <ul>
-  <li><strong>Ausreichende finanzielle Mittel</strong> (Ersparnisse, Einkommen, Rente)</li>
-  <li><strong>Krankenversicherung</strong> (KVG/LAMal oder anerkannte Alternative je nach Status)</li>
-  <li><strong>Anmeldung</strong> bei der Gemeinde bei längerem Aufenthalt</li>
+  <li><strong>Ausreichende finanzielle Mittel:</strong> Sie müssen zeigen, dass Sie von Ersparnissen, Renten oder anderen Einkünften leben können, ohne auf Schweizer Sozialhilfe angewiesen zu sein.</li>
+  <li><strong>Krankenversicherung:</strong> Eine vollwertige Krankenversicherung ist obligatorisch. Reiseversicherungen für kurze Aufenthalte reichen dafür normalerweise nicht aus.</li>
+  <li><strong>Offizielle Anmeldung:</strong> Sie müssen sich bei der Einwohnerkontrolle Ihrer Wohngemeinde registrieren.</li>
 </ul>
+
+<h2>Und für Bürger aus Drittstaaten?</h2>
+<p>Dann sind die Regeln deutlich restriktiver. Ein Aufenthalt ohne Erwerbstätigkeit wird in der Regel nur in besonderen Fällen bewilligt, etwa bei Ruhestand, Studium oder medizinisch begründeten Situationen, und fast immer mit hohen finanziellen Anforderungen.</p>
+
+<div class="callout warning">
+  <strong>Wichtig:</strong> Bei Freunden gemeldet oder „einfach wohnhaft“ zu sein ersetzt keine Aufenthaltsbewilligung. Wer die Formalitäten ignoriert, riskiert Bussen oder eine zwangsweise Ausreise.
+</div>
 </div>`
     },
 
@@ -1513,16 +1771,23 @@ window.siteContent.de.articles = {
         category: "Sozialversicherung",
         hub: "salud",
         readingTime: 4,
-        summary: "Die IV/AI verfolgt das Prinzip «Eingliederung vor Rente». Eine Rente kommt meist erst nach ausgeschöpften Maßnahmen in Betracht.",
+        summary: "Die IV/AI folgt dem Prinzip «Eingliederung vor Rente». Eine Rente wird in der Regel erst geprüft, wenn medizinische und berufliche Maßnahmen ausgeschöpft sind.",
         content: `<div class="article-content">
-<p>Die Schweizer IV/AI versucht in erster Linie, die Erwerbsfähigkeit zu erhalten oder wiederherzustellen.</p>
+<p>Die <i>Assurance-invalidité</i> bzw. Invalidenversicherung ist ein zentraler Bestandteil der Schweizer Sozialversicherung. Gleichzeitig wird sie von Menschen, die andere Systeme gewohnt sind, häufig missverstanden.</p>
 
-<h2>Typische Maßnahmen</h2>
+<h2>Rehabilitation vor Rente</h2>
+<p>Anders als in vielen Ländern ist das Hauptziel der IV nicht, möglichst schnell eine lebenslange Rente auszuzahlen. Zuerst versucht sie, die betroffene Person wieder in Arbeit zu bringen oder ihre Erwerbsfähigkeit zu erhalten. Typische Maßnahmen sind:</p>
 <ul>
-  <li>Medizinische und berufliche Rehabilitation</li>
-  <li>Anpassungen am Arbeitsplatz, Hilfsmittel</li>
-  <li>Umschulung</li>
+  <li>medizinische und berufliche Rehabilitation,</li>
+  <li>Anpassungen am Arbeitsplatz oder technische Hilfsmittel,</li>
+  <li>Umschulung oder Weiterbildung für einen neuen Beruf.</li>
 </ul>
+
+<h2>Wann wird eine Rente ausbezahlt?</h2>
+<p>Eine Invalidenrente wird grundsätzlich erst zugesprochen, wenn nach Ausschöpfung der Eingliederungsmaßnahmen weiterhin eine dauerhafte Erwerbseinbuße besteht. Je nach Invaliditätsgrad kann die Rente teilweise oder vollständig ausfallen.</p>
+
+<h2>Frühe Anmeldung</h2>
+<p>Es ist wichtig, die IV früh zu kontaktieren, sobald absehbar ist, dass eine Krankheit oder ein Unfall zu einer langen Arbeitsunfähigkeit führen könnte. Warten Sie nicht, bis die Situation kritisch wird: Das Verfahren ist lang und umfasst mehrere medizinische und berufliche Abklärungen.</p>
 </div>`
     },
 
@@ -1534,15 +1799,22 @@ window.siteContent.de.articles = {
         category: "Öffentliche Gesundheit",
         hub: "salud",
         readingTime: 4,
-        summary: "Die Schweiz arbeitet überwiegend mit Empfehlungen. Standardimpfungen werden empfohlen; FSME (Zecken) ist für Outdoor-Aktivitäten oft besonders relevant.",
+        summary: "In der Schweiz gibt es grundsätzlich keine Impfpflicht. Das System basiert auf Empfehlungen des BAG und auf der Eigenverantwortung der Bevölkerung.",
         content: `<div class="article-content">
-<p>In der Schweiz sind Impfungen in der Regel <strong>nicht gesetzlich verpflichtend</strong>. Das BAG veröffentlicht jedoch klare Empfehlungen.</p>
+<p>Viele Familien stellen nach dem Umzug in die Schweiz fest, dass das Impfsystem anders funktioniert als in anderen europäischen Ländern. Im Vordergrund stehen hier Information und individuelle Entscheidung.</p>
 
-<h2>BAG-Empfehlungen</h2>
+<h2>Sind Impfungen obligatorisch?</h2>
+<p><strong>Nein.</strong> In der Schweiz gibt es grundsätzlich keine gesetzlich vorgeschriebenen Impfungen, weder für Kinder noch für Erwachsene. Selbst für den Besuch der öffentlichen Schule besteht in der Regel keine Impfpflicht. Das System setzt darauf, dass Familien sich mit Kinderärzten oder Hausärzten informieren und auf Basis offizieller Empfehlungen entscheiden.</p>
+
+<h2>Empfehlungen des BAG</h2>
+<p>Das Bundesamt für Gesundheit veröffentlicht einen empfohlenen Impfplan mit den Standardimpfungen wie Diphtherie, Tetanus, Keuchhusten, Polio oder Masern. Darüber hinaus wird in der Schweiz besonders oft Folgendes empfohlen:</p>
 <ul>
-  <li>Standardimpfungen (z.B. DTP, Polio, MMR)</li>
-  <li><strong>FSME:</strong> je nach Region/Outdoor-Aktivität empfohlen</li>
+  <li><strong>FSME:</strong> besonders wichtig für Personen, die viel im Wald oder draußen unterwegs sind.</li>
+  <li><strong>Grippe und HPV:</strong> je nach Risikogruppe und Alter.</li>
 </ul>
+
+<h2>Kosten und Versicherung</h2>
+<p>Empfohlene Impfungen des offiziellen Impfplans werden in der Regel von der Grundversicherung übernommen, allerdings je nach gewählter Franchise und Kostenbeteiligung.</p>
 </div>`
     },
 
@@ -1554,206 +1826,235 @@ window.siteContent.de.articles = {
         category: "Kultur & Alltag",
         hub: "vivir-en-suiza",
         readingTime: 3,
-        summary: "Die bekannte Melodie stammt von einem Schweizer Akkordeonisten aus der Davoser Region (späte 1950er).",
+        summary: "So generisch die Melodie heute wirkt, der berühmte Ententanz wurde in den 1950er Jahren von einem Schweizer Akkordeonisten in Davos komponiert.",
         content: `<div class="article-content">
-<p>Viele kennen den Song von Hochzeiten oder Dorffesten. Weniger bekannt: <strong>«Der Ententanz»</strong> hat Schweizer Wurzeln.</p>
-<p>Komponiert wurde die Melodie von <strong>Werner Thomas</strong> und verbreitete sich später international in zahlreichen Versionen.</p>
+<p>Man kennt die Melodie von Hochzeiten, Dorffesten oder dem Oktoberfest. Was viele nicht wissen: Der berühmte <strong>Ententanz</strong> (<i>Der Ententanz</i>) hat einen hundertprozentig Schweizer Ursprung.</p>
+
+<h2>Werner Thomas: der Urheber</h2>
+<p>Die Melodie wurde Ende der 1950er Jahre von <strong>Werner Thomas</strong>, einem Akkordeonisten aus Davos, komponiert. Ursprünglich nannte er sie „Der Ententanz“, inspiriert von den Bewegungen der Vögel, die er beim Musizieren in Hotels und Restaurants der Skiregion beobachtete.</p>
+
+<h2>Von Davos in die ganze Welt</h2>
+<p>Berühmt wurde das Lied zunächst gar nicht. Erst in den 1970er- und 1980er-Jahren griffen verschiedene europäische Gruppen die Melodie auf und machten daraus einen weltweiten Hit unter Namen wie „The Birdie Song“ oder „La danse des canards“.</p>
+
+<div class="callout info">
+  <strong>Schon gewusst?</strong> Werner Thomas schrieb das Stück ursprünglich nur, damit die Leute auf einfache und lustige Weise tanzen konnten. Das hat offensichtlich funktioniert.
+</div>
 </div>`
     },
 
     "articulo-introduccion-suiza": {
         featuredImage: "media/guides/introduccion-suiza-como-funciona.png",
-        title: "Wie die Schweiz funktioniert: Vollstaendiger Leitfaden fuer neue Bewohner",
-        description: "Vollstaendiger Leitfaden ueber die Schweiz: Bundesorganisation, 26 Kantone, Politisches System, 4 Sprachen, Regionale Unterschiede, Bildung und Taegliches Leben. Essentiell vor der Ansiedelung.",
-        keywords: "schweiz wie es funktioniert, kantone schweiz, foederalismus, direkte demokratie, sprachen schweiz, schweizer schulsystem, unterschiede kantone",
+        title: "Wie die Schweiz funktioniert: kompletter Leitfaden für neue Bewohner",
+        description: "Umfassender Leitfaden zur Schweiz: Bundesstaat, 26 Kantone, politisches System, 4 Sprachen, regionale Unterschiede, Bildung und Alltag. Unverzichtbar vor dem Umzug.",
+        keywords: "wie funktioniert die schweiz, kantone schweiz, föderalismus, direkte demokratie, sprachen schweiz, schweizer schulsystem, unterschiede zwischen kantonen",
         audience: 'newcomer',
         category: 'Land',
         hub: 'vivir-en-suiza',
         slug: "wie-schweiz-funktioniert",
         readingTime: 10,
         dateUpdated: "Maerz 2026",
-        summary: "Die Schweiz ist kein konventionelles Land. Es ist eine Konfederation von 26 autonomen Kantonen, 4 Amtssprachen, direkter Demokratie und einem Foederalismus, der dein Leben vom ersten Tag an beeinflusst.",
+        summary: "Die Schweiz ist kein gewöhnliches Land. Sie ist eine Eidgenossenschaft mit 26 autonomen Kantonen, vier Landessprachen, direkter Demokratie und einem Föderalismus, der Ihren Alltag ab dem ersten Tag prägt.",
         imageAlt: "Menschen, die sich in der Schweizer Gemeinschaft vor oeffentlichen Gebaeuden integrieren",
         content: `
             <div class="article-content">
-                <p>Wenn du planst, in die Schweiz zu ziehen, oder gerade angekommen bist, ist das Verstaendnis, wie das Land funktioniert, der erste Schritt. Die Schweiz funktioniert nicht wie Spanien, Frankreich oder ein anderes europaeisches Land. Sein politisches System, seine territoriale Organisation und seine Verwaltungskultur sind einzigartig - und beeinflussen dein taegliches Leben vom Moment an, in dem du einen Arbeitsvertrag unterzeichnest, eine Versicherung waehlst oder dich in der Gemeinde anmeldest.</p>
+                <p>Wenn Sie gerade in die Schweiz gezogen sind oder den Umzug erst planen, ist das Verständnis des Landes der erste große Schritt. Die Schweiz funktioniert weder wie Spanien noch wie Frankreich oder die meisten anderen europäischen Staaten. Ihr politisches System, ihre territoriale Organisation und ihre Verwaltungskultur sind eigenständig und beeinflussen Ihren Alltag ab dem Moment, in dem Sie einen Arbeitsvertrag unterschreiben, eine Krankenversicherung wählen oder sich bei der Gemeinde anmelden.</p>
 
                 <div class="callout info">
-                    <strong>Warum ist es wichtig, die Landesorganisation zu verstehen?</strong> Weil in der Schweiz die Regeln fuer Steuern, Versicherungen, Schulbildung und Aufenthaltsverfahren <strong>vom Kanton, in dem du lebst, abhaengen</strong>, nicht nur von der Bundesregierung.
+                    <strong>Warum ist das wichtig?</strong> Weil in der Schweiz Regeln zu Steuern, Versicherungen, Schule oder Aufenthaltsfragen <strong>stark vom Wohnkanton abhängen</strong> und nicht nur vom Bund.
                 </div>
 
                 <h2>Die Schweiz in Zahlen</h2>
                 <ul>
-                    <li><strong>Hauptstadt:</strong> Bern (Sitz der Bundesregierung)</li>
-                    <li><strong>Flaeche:</strong> 41.285 km²</li>
-                    <li><strong>Bevoelkerung:</strong> ~8,9 Millionen Einwohner</li>
-                    <li><strong>Waehrung:</strong> Schweizer Franken (CHF)</li>
-                    <li><strong>Grenzen:</strong> Deutschland (Norden), Oesterreich und Liechtenstein (Osten), Italien (Sueden), Frankreich (Westen)</li>
-                    <li><strong>Organisation:</strong> Helvetische Konfederation — 26 autonome Kantone</li>
-                    <li><strong>Nationalsprachen:</strong> Deutsch, Franzoesisch, Italienisch, Romanisch</li>
-                    <li><strong>Mitglied der UNO und EFTA</strong>, aber <strong>nicht der Europaeischen Union</strong></li>
+                    <li><strong>Hauptstadt:</strong> Bern, Sitz der Bundesbehörden</li>
+                    <li><strong>Fläche:</strong> 41.285 km²</li>
+                    <li><strong>Bevölkerung:</strong> rund 8,9 Millionen Einwohner</li>
+                    <li><strong>Währung:</strong> Schweizer Franken (CHF)</li>
+                    <li><strong>Nachbarländer:</strong> Deutschland, Österreich, Liechtenstein, Italien und Frankreich</li>
+                    <li><strong>Staatsform:</strong> Schweizerische Eidgenossenschaft mit 26 autonomen Kantonen</li>
+                    <li><strong>Landessprachen:</strong> Deutsch, Französisch, Italienisch und Rätoromanisch</li>
+                    <li><strong>Mitglied der UNO und der EFTA</strong>, aber <strong>nicht der Europäischen Union</strong></li>
                 </ul>
 
                 <h2 id="organizacion">Abschnitt 1 — Kantone und territoriale Organisation</h2>
 
-                <h3>Was ist ein Kanton?</h3>
-                <p>Ein Kanton ist eine autonome Region der Schweiz mit eigenem Parlament, eigenem Gerichtssystem und eigener Verwaltung. Die Schweiz besteht aus 26 Kantonen. Jeder Kanton hat seine eigenen Regeln fuer:</p>
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/mapa-politico-cantones.png"
+                         alt="Mapa político de Suiza con los 26 cantones y los tres niveles de gobierno"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Jeder Kanton hat seine eigene Geschichte und weitreichende Kompetenzen innerhalb des Schweizer Bundesstaats.
+                    </figcaption>
+                </figure>
+
+                <p>Die Schweiz ist eine <strong>Eidgenossenschaft aus 26 Kantonen</strong>. Diese Struktur reicht bis ins Mittelalter zurück und erklärt, warum das Land so eigentümlich funktioniert. Jeder Kanton ist im Kern ein kleiner Staat mit eigener Regierung, eigenem Parlament und eigenen Regeln.</p>
+
+                <p>Die administrative Organisation hat drei Ebenen:</p>
                 <ul>
-                    <li>Steuern (auch wenn es Bundesregeln gibt, die einzelnen Kantone unterscheiden sich drastisch).</li>
-                    <li>Krankenversicherung (obligatorisch, aber Praemien und Abdeckung variieren).</li>
-                    <li>Schulbildung (unterschiedliche Curricula, unterschiedliche Altersgruppen fuer Schulstart und Schulende).</li>
-                    <li>Arbeitsrecht und Arbeitnehmerschutz (einige Kantone sind strenger als andere).</li>
-                    <li>Wohnrecht und Mietgesetze.</li>
-                    <li>Immigrationsgesetze fuer Nichteuropaeer.</li>
+                    <li><strong>Bund:</strong> Die Bundesbehörden in Bern kümmern sich um Außenpolitik, Armee, Währung, Zivil- und Verfassungsrecht sowie um die großen gemeinsamen Rechtsrahmen.</li>
+                    <li><strong>Kantone:</strong> 26 autonome Einheiten mit breiten Kompetenzen bei Steuern, Bildung, Gesundheit, Polizei und Verwaltung.</li>
+                    <li><strong>Gemeinden:</strong> Mehr als 2.000 Gemeinden, die den Alltag der Einwohner am direktesten prägen. Dort laufen Anmeldung, lokale Steuern, Bürgerdienste und ein Teil der Bildungsaufgaben zusammen.</li>
                 </ul>
 
-                <p><strong>Das ist kein Detail:</strong> Die Schweiz funktioniert wie 26 kleine Laender mit einer gemeinsamen Waehrung, einem gemeinsamen Passpunkt und einer gemeinsamen Aussenpolititk. Der Bund legt grobe Regeln fest; der Kanton entscheidet die Details.</p>
+                <div class="callout">
+                    <strong>Praktisches Beispiel:</strong> Wenn Sie in die Schweiz kommen, melden Sie sich nicht „beim Staat“ an, sondern bei <em>Ihrer Gemeinde</em>. Dort werden Wohnsitz, erste Formalitäten zur Aufenthaltsbewilligung und ein Teil Ihrer Steuerrealität festgelegt.
+                </div>
 
-                <h3>Die 26 Kantone: kurze Einfuehrung</h3>
-                <p>Statt jeden Kanton zu beschreiben (das waere ein Buch), hier ist ein schneller Ueberblick nach Sprachregion:</p>
+                <p>Die 26 Kantone heißen, in historischer Reihenfolge ihres Beitritts oder ihrer Entstehung: Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, Bern, Luzern und Zürich.</p>
 
-                <h4>Deutschsprachige Schweiz (ca. 63% der Bevoelkerung)</h4>
-                <ul>
-                    <li><strong>Grosse Kantone:</strong> Zuerich (largest, largest city), Bern (capital city), Basel-Stadt (banking center).</li>
-                    <li><strong>Zentral-kantone:</strong> Luzern, Zug (wealthy), Schwyz, Appenzell, St. Gallen.</li>
-                    <li><strong>Oestliche Kantone:</strong> Graubuenden, Glarus, Schaffhausen, Thurgau, Uri, Oelten.</li>
-                </ul>
+                <p><a href="https://www.ch.ch/en/cantons/" target="_blank" rel="noopener noreferrer">→ Offizielle Portale der 26 Kantone auf ch.ch ansehen</a></p>
 
-                <h4>Franzoesischsprachige Schweiz (ca. 23% - "Romandie")</h4>
-                <ul>
-                    <li><strong>Hauptkanton:</strong> Genf (international hub, UN institutions), Waadt (Lausanne), Neuenburg, Jura.</li>
-                </ul>
+                <h2 id="politica">Abschnitt 2 — Das politische System der Schweiz</h2>
 
-                <h4>Italienischsprachig (ca. 8% - Tessin)</h4>
-                <ul>
-                    <li><strong>Einziger Kanton:</strong> Tessin (Lugano, Locarno).</li>
-                </ul>
-
-                <h4>Mehrsprachig / Grenzregion</h4>
-                <ul>
-                    <li><strong>Bern:</strong> Deutsch (Norden) + Franzoesisch (Jura / Sueden).</li>
-                    <li><strong>Wallis:</strong> Deutsch (Oberwallis) + Franzoesisch (Unterwallis).</li>
-                    <li><strong>Graubuenden:</strong> Deutsch + Italienisch + Romanisch.</li>
-                </ul>
-
-                <h2>Abschnitt 2 — Foederalismus und Gewaltenteilung</h2>
-
-                <h3>Die drei Ebenen der Macht</h3>
-                <p>Die Schweiz funktioniert auf drei Ebenen:</p>
-
-                <h4>1) Bundesebene</h4>
-                <p>Das Bundesparlament und die Bundesregierung legen nationale Regeln fest: Ausenpolititk, Bundessteuern, Zollregeln, nationale Versicherungsstandards etc.</p>
-                <ul>
-                    <li><strong>Federal Council:</strong> 7 Minister, die zusammen regieren (nicht ein Praesident mit unbegrenzter Macht).</li>
-                    <li><strong>Parlament:</strong> Zwei Kammern - Nationalrat (200 Abgeordnete) und Staenderrat (44 Abgeordnete, 2 pro Kanton).</li>
-                </ul>
-
-                <h4>2) Kantonale Ebene</h4>
-                <p>Jeder Kanton hat sein eigenes Parlament und seine eigene "Regierung". Dies ist wo die meisten Entscheidungen getroffen werden, die dein Leben beeinflussen.</p>
-
-                <h4>3) Gemeinde-Ebene</h4>
-                <p>Jede Gemeinde (ca. 2.000 in der ganzen Schweiz) hat ihre eigene Verwaltung und oft eine Gemeindeversammlung (wo Bewohner direkt abstimmen). Die Gemeinde verwaltet: Schulen, lokale Infrastruktur, lokale Abgaben, Wohnerlaubnis usw.</p>
+                <p>Die Schweiz besitzt eine der partizipativsten Demokratien der Welt. Bürger wählen nicht nur Parlamente, sondern stimmen <strong>mehrmals pro Jahr direkt über Gesetze</strong> ab.</p>
 
                 <h3>Direkte Demokratie</h3>
-                <p>Dies ist das wichtigste Merkmal der Schweiz. Sowohl auf Bundes-, Kantons- als auch auf Gemeindeebene koennen Buerger <strong>direkt</strong> ueber Gesetzentwuerfe abstimmen (nicht durch Vertreter). Beispiele:</p>
+                <p>Mehrmals jährlich finden Volksabstimmungen statt. Dabei kann es um sehr konkrete Themen gehen, von Steuerfragen bis zu Verfassungsänderungen. Die Ergebnisse sind verbindlich und können Gesetze kippen, die das Parlament bereits verabschiedet hat.</p>
+
+                <h3>Volksinitiativen</h3>
+                <p>Wenn 100.000 Bürger innerhalb von 18 Monaten Unterschriften sammeln, können sie eine Änderung der Bundesverfassung vorschlagen. Das Volk stimmt darüber ab. Dieses Instrument hat wichtige politische Entscheidungen des Landes geprägt.</p>
+
+                <h3>Fakultatives Referendum</h3>
+                <p>Wenn 50.000 Bürger innert 100 Tagen gegen ein Gesetz Unterschriften sammeln, muss dieses dem Volk vorgelegt werden. Das ist die wichtigste Bremse der Bevölkerung gegenüber dem Parlament.</p>
+
+                <h3>Der Bundesrat</h3>
+                <p>Die Schweiz hat keinen Präsidenten mit starker Exekutivmacht. Die Regierung besteht aus <strong>sieben Bundesräten</strong>, die gemeinsam entscheiden. Der Vorsitz rotiert jedes Jahr und ist vor allem repräsentativ.</p>
+
+                <div class="callout info">
+                    <strong>Wichtig für Ausländer:</strong> Ohne Einbürgerung können Sie auf Bundesebene nicht abstimmen. Einige Kantone wie Neuenburg, Waadt oder Jura erlauben jedoch ausländischen Einwohnern unter bestimmten Voraussetzungen die Teilnahme an kommunalen oder kantonalen Abstimmungen.
+                </div>
+
+                <h2 id="lenguas">Abschnitt 3 — Die vier Sprachen der Schweiz</h2>
+
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/lenguas-suiza.png"
+                         alt="Mapa lingüístico de Suiza con las 4 regiones de lenguas oficiales: alemán, francés, italiano y romanche"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Welche Sprache Sie brauchen, hängt direkt vom Kanton ab, in dem Sie leben.
+                    </figcaption>
+                </figure>
+
+                <p>Die Schweiz hat <strong>vier Landessprachen</strong>. Welche Sie im Alltag, bei Behörden und am Arbeitsplatz brauchen, hängt unmittelbar vom Wohnort ab.</p>
+
+                <h3>Deutsch — Deutschschweiz</h3>
+                <p>Deutsch wird in rund 17 bis 18 Kantonen gesprochen und ist die Sprache von etwa 63 % der Bevölkerung. Im Alltag hören Sie meist <em>Schweizerdeutsch</em>, also Dialekte. Offizielle Schreiben, Verträge und E-Mails laufen jedoch in <em>Hochdeutsch</em>.</p>
+                <p>Wer in Zürich, Bern, Basel, Luzern oder generell in der Zentral- und Ostschweiz lebt, braucht Deutsch praktisch zwingend.</p>
+
+                <h3>Französisch — die Romandie</h3>
+                <p>Französisch ist die Alltagssprache für ungefähr 23 % der Bevölkerung. Es dominiert in Genf, Waadt, Neuenburg und Jura sowie in Teilen von Freiburg, Bern und Wallis. Für viele Spanischsprachige ist dieser Teil des Landes sprachlich leichter zugänglich als die Deutschschweiz.</p>
+
+                <h3>Italienisch — das Tessin</h3>
+                <p>Italienisch wird vor allem im Kanton Tessin und in einigen Tälern Graubündens gesprochen. Das Tessin hat kulturell einen deutlich mediterraneren Charakter als andere Regionen.</p>
+
+                <h3>Rätoromanisch</h3>
+                <p>Rätoromanisch ist eine Minderheitensprache mit stark regionalem Charakter in Graubünden. Sie hat den Status einer Landessprache, ist administrativ aber nur in den betroffenen Regionen relevant.</p>
+
+                <h3>Zwei- und dreisprachige Kantone</h3>
                 <ul>
-                    <li>Initiativen: Wenn 100.000 Buerger eine Petition unterschreiben, wird diese Initiative dem Volk zur Abstimmung gebracht.</li>
-                    <li>Referenduen: Wenn 50.000 Buerger gegen ein Gesetz unterschreiben, wird es zur Abstimmung gebracht.</li>
+                    <li><strong>Freiburg:</strong> offiziell zweisprachig, Französisch und Deutsch.</li>
+                    <li><strong>Bern:</strong> überwiegend deutschsprachig, mit französischsprachigem Berner Jura.</li>
+                    <li><strong>Wallis:</strong> deutsch und französisch, je nach Region.</li>
+                    <li><strong>Graubünden:</strong> der einzige dreisprachige Kanton mit Deutsch, Italienisch und Rätoromanisch.</li>
                 </ul>
 
-                <p>Dieses System macht die Schweiz zu einer der "demokratischsten" Laender der Welt, aber es bedeutet auch, dass es langsam vorangeht — es braucht viele Abstimmungsrunden fuer Maessnahmen.</p>
+                <div class="callout">
+                    <strong>Praktischer Rat:</strong> Die wichtigste Investition für Ihre Integration ist das Lernen der Sprache Ihres Kantons. In der Schweiz bedeutet Sprache nicht nur Kommunikation, sondern auch Zugang zu Arbeit, Verwaltung und sozialem Leben.
+                </div>
 
-                <h2>Abschnitt 3 — 4 Sprachen, 4 Kulturen</h2>
+                <h2 id="cantones">Abschnitt 4 — Was sich von Kanton zu Kanton ändert</h2>
 
-                <p>Die Schweiz ist mehrsprachig. Das ist nicht wie in Belgien (deutsch) oder der Schweiz (deutsch), sondern eine echte Mehrsprachigkeit auf nationaler Ebene:</p>
+                <p>Für Neuankömmlinge ist das entscheidend: In der Schweiz <strong>ändert der Wohnkanton fast alles</strong>. Das ist keine Übertreibung.</p>
 
+                <h3>Steuern</h3>
+                <p>Die kombinierte Steuerbelastung aus Bund, Kanton und Gemeinde kann je nach Wohnort massiv variieren. Kantone wie Zug, Schwyz oder Nidwalden gelten als steuerlich besonders attraktiv. Genf, Waadt oder Bern liegen oft spürbar höher.</p>
+                <p>→ <a href="#/quellensteuer-schweiz">Weiterlesen: Quellensteuer in der Schweiz</a></p>
+
+                <h3>Krankenversicherung</h3>
+                <p>Die Grundversicherung ist überall obligatorisch, aber die Prämien unterscheiden sich je nach Kanton und Region stark, selbst bei derselben Krankenkasse. Städte wie Genf oder Basel sind meist teurer als ländliche Kantone.</p>
+                <p>→ <a href="#/krankenversicherung-schweiz-kvg">Weiterlesen: Das KVG-System erklärt</a></p>
+
+                <h3>Bildung und Schule</h3>
+                <p>Die Schule ist kantonal organisiert. Schulkalender, Beginn der obligatorischen Schulzeit, Lehrmittel, Unterrichtszeiten und Sprachmodelle unterscheiden sich, auch wenn es mit HarmoS gewisse Koordination gibt.</p>
+                <p>→ <a href="#/das-schweizer-schulsystem-erklart">Weiterlesen: Das Schweizer Bildungssystem</a></p>
+
+                <h3>Aufenthalt und Verwaltung</h3>
+                <p>Anmeldung, Fristen, Formulare und Öffnungszeiten unterscheiden sich nicht nur zwischen Kantonen, sondern teils auch zwischen Gemeinden. Es gibt kein einheitliches Verfahren für alle Zuziehenden.</p>
+                <p>→ <a href="#/anmeldung-gemeinde-schweiz">Weiterlesen: Anmeldung bei der Gemeinde</a></p>
+
+                <div class="callout">
+                    <strong>Praktisches Fazit:</strong> Bevor Sie sich für einen Kanton entscheiden, vergleichen Sie Steuerbelastung, Krankenkassenprämien und Arbeitsmarkt. Diese Wahl wirkt sich über Jahre auf Ihr Budget aus.
+                </div>
+
+                <h2 id="educacion">Abschnitt 5 — Das Schweizer Bildungssystem</h2>
+
+                <p>Das Schweizer Bildungssystem ist öffentlich, kostenlos und qualitativ sehr stark. Besonders typisch sind die frühe Berufsorientierung und die zentrale Rolle der dualen Ausbildung.</p>
+
+                <h3>Grundstruktur</h3>
                 <ul>
-                    <li><strong>Deutsch:</strong> 63% (Zuerich, Bern, Basel, Zentral- und Ostkantone).</li>
-                    <li><strong>Franzoesisch:</strong> 23% (Genf, Waadt, Neuenburg, Jura).</li>
-                    <li><strong>Italienisch:</strong> 8% (Tessin).</li>
-                    <li><strong>Romanisch:</strong> 0,5% (Graubuenden).</li>
+                    <li><strong>Kindergarten:</strong> In den meisten Kantonen zwei Jahre, oft ab vier Jahren obligatorisch.</li>
+                    <li><strong>Primarschule:</strong> In der Regel sechs Jahre.</li>
+                    <li><strong>Sekundarstufe I:</strong> Meist drei Jahre, danach folgt die eigentliche Weichenstellung.</li>
                 </ul>
 
-                <p>Dies bedeutet, dass wenn du in der Deutschsprachigen Schweiz umzieht, MUSS du Deutsch lernen. Du kannst nicht in Zuerich lebeb und auf Franzoesisch oder Englisch arbeiten (gut moeglichkeit in internationalen Unternehmen, aber nicht die Norm).</p>
+                <h3>Berufsorientierung in der Sekundarstufe II</h3>
+                <p>Mit 15 oder 16 Jahren gehen viele Jugendliche in eine von zwei Hauptrichtungen:</p>
+                <ol>
+                    <li><strong>Duale Berufsbildung:</strong> Die Mehrheit der Jugendlichen macht eine Lehre in einem Unternehmen und besucht gleichzeitig die Berufsschule. Das führt zum eidgenössischen Fähigkeitszeugnis und ist gesellschaftlich anerkannt.</li>
+                    <li><strong>Akademischer Weg:</strong> Wer sehr gute schulische Leistungen hat, geht an ein Gymnasium und bereitet sich auf Universität oder ETH/EPFL vor.</li>
+                </ol>
 
-                <p><strong>Wichtig:</strong> Die Sprache, die du lernst, haengt AUSSCHLIESSLICH vom Kanton ab. Es gibt keine "Wahl". Es ist Deutsch ODER Franzoesisch ODER Italienisch.</p>
+                <h3>Universitäten</h3>
+                <p>Die Schweiz verfügt über mehrere starke öffentliche Universitäten, darunter Zürich, Bern, Basel, Genf und Lausanne. ETH Zürich und EPFL Lausanne gehören im Bereich Naturwissenschaften und Technik weltweit zur Spitzengruppe.</p>
 
-                <h2>Abschnitt 4 — Taegliches Leben: Kultur und Anforderungen</h2>
+                <div class="callout info">
+                    <strong>Für neu zugezogene Familien:</strong> Melden Sie schulpflichtige Kinder möglichst im ersten Monat an der öffentlichen Schule Ihrer Gemeinde an. Die Integration in Sprache und Unterricht wird dort aktiv begleitet.
+                </div>
 
-                <h3>Puntualitaet und Ordnung</h3>
-                <p>Die Schweiz ist, kurz gesagt, Germanien pur (Parodie, aber nicht ganz falsch). Die Schweizer erwarten:</p>
+                <h2 id="regiones">Abschnitt 6 — Kulturelle und regionale Unterschiede</h2>
+
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/mapa-regiones-suiza.png"
+                         alt="Mapa de regiones culturales y lingüísticas de Suiza con marcados Deutschschweiz, Romandie y Ticino"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Deutschschweiz, Romandie und Tessin unterscheiden sich deutlich in Rhythmus, Mentalität und sozialem Stil.
+                    </figcaption>
+                </figure>
+
+                <p>Jenseits der administrativen Grenzen gibt es in der Schweiz drei große Kulturregionen mit stark unterschiedlichem Charakter. Wer das versteht, interpretiert Verhalten, Arbeitswelt und Alltag realistischer.</p>
+
+                <h3>Deutschschweiz</h3>
+                <p>Die Deutschschweiz ist wirtschaftlich am stärksten und kulturell oft formeller. Pünktlichkeit, Planbarkeit und direkte Kommunikation zählen hier besonders viel. Der Einstieg kann zunächst kühler wirken, Integration gelingt aber gut mit Sprache und Verlässlichkeit.</p>
+
+                <h3>Romandie</h3>
+                <p>Die französischsprachige Schweiz wirkt in vielen Situationen offener und sozial sichtbarer. Städte wie Genf und Lausanne sind stark international geprägt und beherbergen viele Organisationen wie UNO, WHO oder Rotes Kreuz.</p>
+
+                <h3>Tessin</h3>
+                <p>Das Tessin hat mediterranes Klima, eine entspanntere Alltagskultur und enge wirtschaftliche Beziehungen zu Italien. Die Lebenshaltungskosten sind oft etwas tiefer als in Zürich oder Genf, allerdings auch die Löhne in manchen Branchen.</p>
+
+                <h2>Zusammenfassung: Was Sie vor der Ankunft wissen sollten</h2>
                 <ul>
-                    <li>Auf dem Punkt Puenktlichkeit (nicht 5 Minuten spaeter).</li>
-                    <li>Befolging von Regeln und Verordnungen, selbst wenn sie seltsam erscheinen (z.B. Rasen waessern nur morgens).</li>
-                    <li>Paperwork und Dokumentation (alles muss dokumentiert sein).</li>
-                    <li>Zivilitaet und Formalitaet in offiziellen Kontexten.</li>
+                    <li>Die Schweiz gehört <strong>nicht zur EU</strong> und hat eigene bilaterale Regeln.</li>
+                    <li>Jeder Kanton funktioniert anders. Recherchieren Sie Ihren Kanton vor dem Umzug.</li>
+                    <li>Die Sprache des Kantons ist entscheidend für Integration und Arbeit.</li>
+                    <li>Die Anmeldung bei der Gemeinde ist meist der erste Schritt nach der Ankunft.</li>
+                    <li>Die Krankenversicherung ist ab dem ersten Tag des Wohnsitzes relevant.</li>
+                    <li>Die direkte Demokratie gibt Bürgern mehr Einfluss, aber auch mehr Verantwortung.</li>
                 </ul>
 
-                <h3>Kosten des Lebens</h3>
-                <p>Die Schweiz ist teuer. Sehr teuer.</p>
-                <ul>
-                    <li>Miete: 1.500-3.000 CHF fuer ein 2-3 Zimmer Wohnung in den Staedten.</li>
-                    <li>Lebensmittel: 20-30% teurer als in Spanien.</li>
-                    <li>Kindergarten: 300-800 CHF / Monat (oft, aber nicht immer, von der Gemeinde subventioniert).</li>
-                    <li>Krankenversicherung: 100-350 CHF / Monat (obligatorisch).</li>
-                </ul>
-
-                <p>Aber die Gehaelter sind entsprechend hoch. Ein Arbeiter mit 50.000 CHF / Jahr in der Schweiz hat die gleiche Kaufkraft wie jemand mit 35.000 EUR / Jahr in Spanien.</p>
-
-                <h3>Arbeitskultur</h3>
-                <p>Die Arbeit ist ernst genommen. Erwartungen:</p>
-                <ul>
-                    <li>Hohe Qualitaetsstandards.</li>
-                    <li>Paenktlichkeit und Zuverlaessigkeit (verpaesse niemals einen Termin).</li>
-                    <li>Schriftliche Dokumentation (alles muss dokumentiert sein).</li>
-                    <li>Formalitaet in der Kommunikation.</li>
-                </ul>
-
-                <p>Die gute Nachricht: Die Arbeitsbedingungen sind hervorragend (4-5 Wochen Urlaub, gute Sozialleistungen, Gehaelter).</p>
-
-                <h3>Wohnungsmarkt</h3>
-                <p>Es ist schwierig, eine Wohnung in der Schweiz zu finden. Landlords sind waehlbar, und es gibt viele mehr Anfragen als Angebote. Vorbereitung:</p>
-                <ul>
-                    <li>Hohe Kaution (3 Monatsmieten typisch).</li>
-                    <li>Referenzen von vorherigen Vermietern.</li>
-                    <li>Arbeitgeberbestaetigung.</li>
-                    <li>Kreditausweis oder Bonitaetsbestaetigung.</li>
-                </ul>
-
-                <h3>Schulbildung</h3>
-                <p>Die Schulbildung ist kostenlos und sehr gut. Aber Struktur und Niveau variieren nach Kanton.</p>
-                <ul>
-                    <li><strong>Struktur:</strong> Kindergarten (2 Jahre, optional, aber sehr verbreitet), Grundschule (6 Jahre), Sekundarstufe I (3 Jahre), dann aufgeteilt in Gymnasien oder Berufslehren.</li>
-                    <li><strong>Sprachenunterricht:</strong> Englisch in der Grundschule, dann mindestens eine weitere Landessprache in der Sekundarstufe.</li>
-                    <li><strong>Universitaeten:</strong> Es gibt 12 kantonale Universitaeten (gebuehrenfrei oder sehr guenstig fuer Einwohner).</li>
-                </ul>
-
-                <h2>Abschnitt 5 — Was Sie als neuer Bewohner wissen sollten</h2>
-
-                <h3>Einfachheit und Transparenz</h3>
-                <p>Ein wichtiges Merkmal der Schweizer Verwaltung ist die relative Einfachheit. Fast alles ist dokumentiert, fast alles ist verfuegbar online. Es gibt wenig "Grauzonen" oder Bestechung. Das Vertrauen zwischen Buergern und Regierung ist hoch.</p>
-
-                <h3>Wohlstand aber nicht "sichtbar"</h3>
-                <p>Die Schweiz ist wohlhabend, aber Sie werden es nicht immer sehen. Das Durchschnittseinkommen ist hoch, aber die Ersparnisse sind private — nicht ostentativ. Die Architektur ist praktisch, nicht prunkhaft.</p>
-
-                <h3>Naturbeziehung</h3>
-                <p>Die Schweizer lieben Natur und Bergsteigen. Wochenenden sind fuer Familie und Outdoor-Aktivitaeten reserviert. Dies ist Teil der Kulturidentitaet.</p>
-
-                <h3>Datenschutz und Privatshaere</h3>
-                <p>Die Schweizer legen Wert auf Privatshaere und Datenschutz. Niemand wird dich fragen, wie viel du verdienst oder wie teuer dein Haus ist (das gilt auch umgekehrt — teil deine Gehalt nicht oeffentlich).</p>
-
-                <h2>Zusammenfassung</h2>
-                <p>Die Schweiz ist einzigartig. Es gibt keine bundesweit einheitlichen Regeln fuer vieles, was in anderen Laender zentral reglementiert wird. Dies bedeutet:</p>
-                <ul>
-                    <li>Dein Leben haengt stark vom Kanton ab, in dem du lebst.</li>
-                    <li>Die Sprache ist nicht waehlbar — sie ist durch deinen Kanton bestimmt.</li>
-                    <li>Die Kultur ist pragmatisch, ordnung-orientiert und direkt-demokratisch.</li>
-                    <li>Die Kosten sind hoch, aber Gehaelter und Lebensqualitaet auch.</li>
-                    <li>Die Integriation ist einfacher, wenn du die lokale Sprache lernen und die Regeln respektierst.</li>
-                </ul>
-
-                <div class="callout tip">
-                    <strong>Tipp:</strong> Wenn du gerade in die Schweiz ziehst, nimm dir Zeit, um die Strukturen zu verstehen. Die meisten "Ueberraschungen" sind nicht Probleme, sondern nur eine Frage von Lernen, wie das System funktioniert.
+                <h2>Wichtige Artikel für neue Bewohner</h2>
+                <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0.75rem; margin-top: 1rem;">
+                    <a href="#/anmeldung-gemeinde-schweiz" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">📋 Anmeldung in der Schweiz</a>
+                    <a href="#/tramites-llegada-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🪪 Aufenthaltsbewilligungen</a>
+                    <a href="#/jobsuche-plattformen-und-strategien" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💼 Jobsuche</a>
+                    <a href="#/krankenversicherung-schweiz-kvg" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🏥 Krankenversicherung KVG</a>
+                    <a href="#/wohnung-mieten-schweiz" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🏠 Wohnung mieten</a>
+                    <a href="#/quellensteuer-schweiz" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💰 Steuern in der Schweiz</a>
+                    <a href="#/das-schweizer-schulsystem-erklart" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🎓 Bildungssystem</a>
+                    <a href="#/lebenshaltungskosten-in-der-schweiz" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💶 Lebenshaltungskosten</a>
                 </div>
             </div>
         `
@@ -2125,31 +2426,80 @@ window.siteContent.de.articles = {
         category: "Ressourcen",
         hub: "tramites",
         readingTime: 5,
-        summary: "Für Spanier in der Schweiz ist die konsularische Registrierung wichtig. Termine für Pass/DNI frühzeitig buchen.",
+        summary: "Spanien unterhält in der Schweiz drei Generalkonsulate: Genf, Bern und Zürich. Die konsularische Registrierung ist meist der erste wichtige Schritt, denn ohne sie sind Passerneuerung oder Wahlen aus dem Ausland erschwert oder unmöglich.",
         content: `<div class="article-content">
-<p>In der Schweiz gibt es mehrere spanische Konsularstellen (u.a. Genf, Bern, Zürich). Viele Vorgänge funktionieren nur mit Termin.</p>
+<p>Wenn Sie als spanischer Staatsbürger in der Schweiz leben, ist das Konsulat Ihre offizielle Anlaufstelle für alle Angelegenheiten, die Ihre Auslandslebenssituation mit der spanischen Verwaltung verbinden. Spanien hat drei Generalkonsulate in der Schweiz, und je nach Wohnkanton ist ein anderes zuständig.</p>
 
-<h2>Adresse und Telefon</h2>
+<div class="callout info">
+  <strong>Erster wichtiger Schritt:</strong> Nach Ihrer Niederlassung in der Schweiz sollten Sie sich im <strong>Registro de Matrícula Consular</strong> eintragen. Ohne diese Registrierung können Sie weder Pass oder DNI aus der Schweiz erneuern noch problemlos an spanischen Wahlen aus dem Ausland teilnehmen.
+</div>
+
+<h2>Die drei spanischen Konsulate in der Schweiz</h2>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr)); gap:1.25rem; margin:1.5rem 0;">
+  <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+    <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Generalkonsulat in Genf</h3>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Zuständige Kantone:</strong> Genf, Waadt, Wallis, Freiburg, Neuenburg, Jura</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse:</strong> Avenue Blanc 53, 1202 Genf</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Telefon:</strong><br>+41 22 749 14 60</p>
+    <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Offizielles Portal →</a>
+  </div>
+  <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+    <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Generalkonsulat in Bern</h3>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Zuständige Kantone:</strong> Bern, Solothurn, Teile von Freiburg, Teile des Wallis</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse:</strong> Marienstrasse 12, 3005 Bern</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Telefon:</strong><br>+41 31 356 22 20</p>
+    <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Offizielles Portal →</a>
+  </div>
+  <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+    <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Generalkonsulat in Zürich</h3>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Zuständige Kantone:</strong> Zürich, Aargau, Basel, Luzern, St. Gallen, Graubünden, Schaffhausen, Thurgau, Tessin, Zug und weitere</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Adresse:</strong> Riedtlistrasse 17, 8006 Zürich</p>
+    <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Telefon:</strong><br>+41 44 368 61 00</p>
+    <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Offizielles Portal →</a>
+  </div>
+</div>
+
+<h2>Welche Verfahren erledigen Sie dort?</h2>
+
+<h3>Konsularische Registrierung</h3>
+<p>Das ist für viele Spanier in der Schweiz der <strong>erste formelle Schritt</strong>. Mit diesem Eintrag werden Sie als im Ausland wohnhafter spanischer Staatsbürger erfasst. Daraus ergeben sich mehrere praktische Folgen:</p>
 <ul>
-  <li><strong>Genf:</strong> Avenue Blanc 53, 1202 Genf<br><strong>Telefon:</strong> +41 22 749 14 60</li>
-  <li><strong>Bern:</strong> Marienstrasse 12, 3005 Bern<br><strong>Telefon:</strong> +41 31 356 22 20</li>
-  <li><strong>Zürich:</strong> Riedtlistrasse 17, 8006 Zürich<br><strong>Telefon:</strong> +41 44 368 61 00</li>
+  <li>Sie können DNI und Reisepass in der Schweiz erneuern.</li>
+  <li>Sie können bei spanischen Wahlen aus dem Ausland teilnehmen.</li>
+  <li>Die spanische Verwaltung kennt Ihren aktuellen Wohnsitz.</li>
 </ul>
+<p>Die Registrierung ist kostenlos. Normalerweise brauchen Sie einen gültigen DNI oder Reisepass, einen Wohnsitznachweis in der Schweiz und je nach Fall auch die Schweizer Aufenthaltsbewilligung.</p>
 
-<h2>Wichtige Dienste</h2>
-<ul>
-  <li>Konsularische Registrierung (RECA/CERA)</li>
-  <li>Pass- und DNI-Angelegenheiten</li>
-  <li>Personenstand (Geburt, Heirat, Todesfall)</li>
-  <li>Notfallhilfe</li>
-</ul>
+<h3>DNI und Reisepass</h3>
+<p>DNI und Pass können im zuständigen Konsulat beantragt oder erneuert werden. <strong>Ein Termin ist zwingend</strong>. Die Wartezeiten betragen gerade in Genf und Zürich oft mehrere Wochen.</p>
 
-<h2>Terminvereinbarung</h2>
-<p>Für die meisten Vorgänge ist ein Termin erforderlich. Aktuelle Hinweise stehen auf den offiziellen Seiten:</p>
+<div class="callout">
+  <strong>Tipp:</strong> Buchen Sie den Termin zwei bis drei Monate vor Ablauf Ihres Dokuments. Kurzfristige Termine sind nicht garantiert.
+</div>
+
+<h3>Personenstandsangelegenheiten</h3>
+<p>Geburten, Eheschließungen und Todesfälle spanischer Staatsbürger in der Schweiz müssen gegebenenfalls im konsularischen Zivilregister eingetragen werden, damit sie auch im spanischen Register erscheinen.</p>
+
+<h3>Rente und Sozialversicherung</h3>
+<p>Die Konsulate geben häufig Orientierung zu Abkommen zwischen Spanien und der Schweiz, zur Zusammenrechnung von Beitragszeiten und zu bestimmten Rentenverfahren.</p>
+
+<h3>Konsularische Hilfe in Notfällen</h3>
+<p>Bei Dokumentendiebstahl, schweren Unfällen oder Todesfällen können die Konsulate Notfallhilfe leisten. Für dringende Fälle außerhalb der Öffnungszeiten gibt es in der Regel Bereitschaftsnummern.</p>
+
+<h2>Wie buchen Sie einen Termin?</h2>
+<p>Die meisten Verfahren laufen ausschließlich nach Termin. Die offiziellen Portale enthalten die aktuellen Hinweise und Anforderungen:</p>
 <ul>
   <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Konsulat in Genf</a></li>
   <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Konsulat in Bern</a></li>
   <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Konsulat in Zürich</a></li>
+</ul>
+
+<h2>Nützliche Artikel dazu</h2>
+<ul>
+  <li><a href="#/anmeldung-gemeinde-schweiz">Anmeldung in der Schweiz nach der Ankunft</a></li>
+  <li><a href="#/tramites-llegada-suiza">Aufenthaltsbewilligungen L, B und C</a></li>
+  <li><a href="#/checkliste-die-wichtigsten-schritte-im-ersten-monat-in-der-schweiz">Checkliste für den ersten Monat in der Schweiz</a></li>
 </ul>
 </div>`
     }
