@@ -534,7 +534,7 @@ Object.assign(window.siteContent.es.articles, {
         hub: "tramites",
         slug: "permisos-suiza-actualizacion",
         readingTime: 2,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Abril 2026",
         summary: "Guía práctica para recién llegados: diferencias L/B/C, checklist de llegada, cambios de situación y errores frecuentes, con enlaces oficiales.",
         featuredImage: "media/guides/permisos-suiza-actualizacion.jpg",
         imageAlt: "Primer plano de documentos de identidad y permisos de residencia suizos",
@@ -551,11 +551,12 @@ Object.assign(window.siteContent.es.articles, {
 <li><strong>C</strong>: estatus más estable tras años; cambia el panorama de algunos trámites, pero no elimina obligaciones.</li>
 </ul>
 <h2>Cómo evitar multas o conflictos</h2>
-<p>Checklist al llegar:</p>
+<div class="callout info"><strong>Esta checklist es para personas que se instalan en Suiza con contrato de trabajo.</strong> Si eres turista o estás buscando trabajo, el registro no es obligatorio aún.</div>
+<p>Checklist al instalarte (con contrato):</p>
 <ol>
-<li>Registro en la comuna.</li>
-<li>Seguro médico dentro del plazo aplicable.</li>
-<li>Pruebas de domicilio y trabajo.</li>
+<li>Registro en la comuna (plazo habitual: 14 días).</li>
+<li>Seguro médico LAMal (plazo: 3 meses desde el registro).</li>
+<li>Pruebas de domicilio y contrato de trabajo.</li>
 <li>Archivo de cartas oficiales y nóminas.</li>
 </ol>
 <h2>Consejos prácticos</h2>
@@ -580,7 +581,7 @@ Object.assign(window.siteContent.es.articles, {
         hub: "salud",
         slug: "seguro-medico-lamal-elegir",
         readingTime: 4,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Abril 2026",
         summary: "Guía práctica para elegir LAMal en Suiza: modelos (standard/cabecera/telmed/HMO), franquicia y copago, accidentes, complementarios, plazos de cambio y checklist para recién llegados.",
         featuredImage: "media/guides/seguro-medico-lamal-elegir.jpg",
         imageAlt: "Imagen conceptual de ahorro y salud en el sistema suizo",

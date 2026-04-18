@@ -15,14 +15,19 @@ window.siteContent.es.articles = {
 	        hub: "tramites",
 	        slug: "tramites-llegada-suiza",
 	        readingTime: 12,
-	        dateUpdated: "Marzo 2026",
+	        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/tramites-llegada-suiza.jpg",
     imageAlt: "Checklist de llegada con documentos, llaves y tarjetas suizas",
-        summary: "Existen tres permisos principales (L, B, C). Tu nacionalidad (UE vs Terceros Países) y duración del contrato dictan cuál recibes. Puedes trabajar antes de tener la tarjeta física.",
+        summary: "El permiso lo obtienes registrándote en tu comuna, no pidiendo nada a distancia. L, B, C y G tienen usos distintos según situación y contrato.",
         content: `
             <div class="article-content">
+
+                <div class="callout warning">
+                    <strong>A quién aplica esta guía:</strong> los permisos de residencia (L, B, C, G) son para personas que se instalan en Suiza o trabajan aquí. Si eres turista o estás de visita, no necesitas ningún permiso. Si eres ciudadano UE/EFTA que viene a buscar trabajo, tampoco necesitas nada hasta que firmes un contrato y te registres como residente.
+                </div>
+
                 <h2>Introducción</h2>
-                <p>Si vas a vivir en Suiza, necesitas un <strong>título de residencia</strong> (permiso). Para españoles y otros ciudadanos UE/EFTA, el proceso suele ser relativamente directo si tienes un motivo claro de estancia (por ejemplo, un contrato de trabajo). Para nacionales de terceros países, el sistema es distinto y normalmente exige autorizaciones previas y condiciones más estrictas.</p>
+                <p>Si vas a vivir y trabajar en Suiza, necesitas un <strong>título de residencia</strong> (permiso). Para españoles y otros ciudadanos UE/EFTA, el proceso suele ser relativamente directo si tienes un motivo claro (un contrato de trabajo, estudios o reagrupación familiar). Para nacionales de terceros países, el sistema es distinto y normalmente exige autorizaciones previas y condiciones más estrictas.</p>
 
                 <div class="callout info">
                     <strong>Lo más importante primero:</strong> en Suiza el permiso físico (la tarjeta) puede tardar semanas. En la práctica, con el <strong>justificante/certificado de registro</strong> de la comuna, normalmente puedes empezar a trabajar y avanzar trámites mientras llega la tarjeta.
@@ -156,94 +161,68 @@ window.siteContent.es.articles = {
     // Mudarse a Suiza (guía rápida)
     "articulo-mudarse-suiza": {
         title: "Mudarse a Suiza desde España: guía paso a paso",
-        description: "Guía rápida y práctica para españoles que quieren vivir en Suiza: pasos, trámites y enlaces útiles.",
+        description: "Guía práctica para españoles que quieren instalarse en Suiza: pasos, trámites administrativos y lo que debes preparar antes y después de llegar.",
         keywords: "mudarse a suiza desde españa, vivir en suiza siendo español, como ir a vivir a suiza",
         category: "Trámites Ordinarios",
         hub: "tramites",
         slug: "mudarse-a-suiza-desde-espana",
         readingTime: 5,
-        dateUpdated: "Marzo 2026",
-        summary: "Checklist clara de pasos para mudarte a Suiza desde España: trabajo, registro, permisos, seguro médico, vivienda y presupuesto.",
+        dateUpdated: "Abril 2026",
+        summary: "Dos fases bien diferenciadas: preparación antes de salir de España, y circuito administrativo obligatorio una vez firmado el contrato e instalado en Suiza.",
         featuredImage: "media/guides/mudarse-a-suiza-desde-espana.jpg",
         imageAlt: "Camión de mudanzas circulando por una carretera suiza con montañas al fondo",
         content: `
             <div class="article-content">
-                <p>Muchos españoles quieren vivir o trabajar en Suiza por los salarios, la estabilidad y las oportunidades. Esta guía resume los <strong>pasos principales</strong> para instalarte, sin textos largos y con enlaces directos a las páginas clave del sitio.</p>
 
-                <h2>1) Antes de venir a Suiza</h2>
-                <ul>
-                    <li><strong>Buscar trabajo</strong> y entender el mercado por cantón/idioma.</li>
-                    <li>Preparar un <strong>CV adaptado a Suiza</strong> (dossier completo).</li>
-                    <li>Informarte sobre el <a href="#/presupuesto-suiza">coste de vida</a> y ajustar expectativas.</li>
-                    <li>Tener <strong>ahorros</strong> para los primeros meses (alquiler, seguro, trámites).</li>
-                </ul>
-                <div class="callout info">
-                    <strong>Consejo práctico</strong>
-                    <p>Muchos empleadores prefieren candidatos que ya se encuentran en Suiza o que pueden desplazarse fácilmente para una entrevista.</p>
+                <div class="callout warning">
+                    <strong>Importante:</strong> esta guía está pensada para personas que deciden instalarse en Suiza, normalmente con un contrato de trabajo firmado. Si solo vienes a buscar trabajo o como turista, el circuito administrativo no se aplica todavía. No hay obligación de registrarse ni de solicitar ningún permiso hasta que establezcas tu residencia efectiva.
                 </div>
 
-                <h2>2) Llegar a Suiza</h2>
-                <ul>
-                    <li>Encontrar <strong>alojamiento temporal</strong> para poder registrarte.</li>
-                    <li>Registrarte en el ayuntamiento / comuna: <a href="#/registrarse-en-suiza">control de habitantes</a>.</li>
-                    <li>Solicitar el <a href="#/tramites-llegada-suiza">permiso de residencia</a> (según tu situación).</li>
-                </ul>
+                <h2>Antes de salir de España</h2>
+                <p>Una mudanza a Suiza no se improvisa. Cuanto más organizado llegues, menos sorpresas encontrarás. Los puntos que conviene resolver antes de cruzar la frontera:</p>
+                <p><strong>Búsqueda de empleo y mercado laboral:</strong> el mercado suizo funciona por idioma y cantón. Buscar en alemán para Zúrich o en francés para Ginebra multiplica las respuestas. Las principales plataformas son <a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a>, <a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a>, <a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a> y <a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a>. El CV estándar suizo incluye foto, fecha de nacimiento y estado civil.</p>
 
-                <h2>3) Seguro médico</h2>
-                <ul>
-                    <li>El <strong>seguro médico es obligatorio</strong>.</li>
-                    <li>Debes contratarlo dentro de los <strong>3 primeros meses</strong> (con efecto retroactivo).</li>
-                    <li>Cada persona elige su aseguradora: compara y decide.</li>
-                </ul>
-                <p>Guía: <a href="#/seguro-medico-lamal-suiza">Seguro médico (LAMal)</a>.</p>
-
-                <h2>4) Buscar trabajo</h2>
-                <p>Dónde buscar ofertas y preparar candidaturas: <a href="#/buscar-empleo-suiza">Búsqueda de empleo en Suiza</a>.</p>
-                <h3>Portales principales</h3>
-                <ul>
-                    <li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
-                    <li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
-                    <li><a href="https://ch.indeed.com/" target="_blank" rel="noopener noreferrer">indeed.ch</a></li>
-                    <li><a href="https://www.job-room.ch/" target="_blank" rel="noopener noreferrer">job-room.ch</a></li>
-                </ul>
                 <div class="callout info">
-                    <strong>Consejo práctico</strong>
-                    <p>En Suiza suele ser más eficaz buscar trabajo en el idioma local (alemán, francés o italiano).</p>
-                    <p><strong>Ejemplo de búsqueda en Google:</strong> <code>Glaser Arbeit Zürich</code></p>
+                    <strong>Realidad del mercado:</strong> muchos empleadores prefieren candidatos que ya están en Suiza o que pueden desplazarse para una entrevista. Si te surge una oportunidad sin estar allí, es completamente factible, pero espera menos respuestas a candidaturas enviadas "desde lejos".
                 </div>
 
-                <h2>5) Vivienda</h2>
-                <ul>
-                    <li>Te pedirán <strong>documentos</strong> (identidad, nóminas/contrato, etc.).</li>
-                    <li>El <strong>dossier de alquiler</strong> es clave y el mercado es competitivo.</li>
-                    <li>Con <strong>permiso L</strong> suele ser más difícil alquilar con una inmobiliaria.</li>
-                </ul>
-                <p>Guía: <a href="#/alquilar-vivienda-suiza">Alquilar vivienda en Suiza</a>.</p>
+                <p><strong>Ahorro previo:</strong> los primeros meses en Suiza tienen costes de entrada importantes: fianza de alquiler (hasta 3 meses de renta), primer mes, seguro médico, trámites y mudanza. Calcula tener al menos 3–4 meses de gastos cubiertos antes de llegar.</p>
+                <p><strong>Coste de vida:</strong> el nivel de precios es significativamente más alto que en España. Consulta la <a href="#/presupuesto-suiza">guía de coste de vida</a> para estimar tu presupuesto real según cantón.</p>
+                <p><strong>Documentos a preparar:</strong> partida de nacimiento con apostilla (si tienes familia que pueda reagruparse), certificados de matrimonio o unión de hecho si aplica, y diplomas o títulos si ejerces una profesión regulada.</p>
 
-                <h2>6) Coste de vida</h2>
-                <p>El coste varía según el cantón (y la ciudad). Como referencia rápida:</p>
+                <hr style="border:none; border-top:1px solid var(--border-light); margin: 2rem 0;">
+
+                <h2>Una vez firmado el contrato e instalado en Suiza</h2>
+                <p>En el momento en que estableces tu residencia efectiva en Suiza (normalmente al firmar un contrato de trabajo y tener una dirección), el circuito administrativo se activa. Los plazos son reales.</p>
+
+                <h3>1. Registro en la comuna</h3>
+                <p>El primer trámite, y el que desbloquea todos los demás. Debes registrarte en el Control de Habitantes de tu municipio en un plazo de <strong>14 días</strong> desde la llegada (en muchos cantones, antes del primer día de trabajo). Con el certificado provisional que te entregan puedes empezar a trabajar y avanzar el resto de trámites. Lee la <a href="#/registrarse-en-suiza">guía completa de registro</a>.</p>
+
+                <h3>2. Cuenta bancaria</h3>
+                <p>Tu empleador necesita un IBAN suizo para pagarte. Con el certificado de registro puedes abrir cuenta. Las opciones digitales (Neon, Yuh, Revolut cuenta suiza) se activan en 24 horas sin desplazamiento. Las tradicionales (PostFinance, UBS, Raiffeisen) requieren cita pero ofrecen más servicios.</p>
+
+                <h3>3. Seguro médico LAMal</h3>
+                <p>Obligatorio. Tienes <strong>3 meses desde tu registro</strong> para contratarlo, con efecto retroactivo al día 1. Si no actúas, te asignan uno y pagas igualmente. Compara primas en <a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo.admin.ch</a>. Más detalle en la <a href="#/seguro-medico-lamal-suiza">guía de LAMal</a>.</p>
+
+                <h3>4. Vivienda definitiva</h3>
+                <p>Si llegaste con alojamiento provisional, la búsqueda de piso propio es el siguiente paso. El mercado es competitivo y exige un dossier completo: DNI, contrato de trabajo o nóminas, extracto de deudas (Betreibungsauszug) si ya llevas un tiempo en Suiza, y una carta de presentación. Con permiso L suele ser más difícil alquilar con inmobiliaria. Lee la <a href="#/alquilar-vivienda-suiza">guía de alquiler</a>.</p>
+
+                <h2>Referencia rápida de costes</h2>
                 <table class="info-table">
                     <thead><tr><th>Gasto</th><th>Rango orientativo</th><th>Notas</th></tr></thead>
                     <tbody>
-                        <tr><td><strong>Alquiler</strong></td><td>1.500 – 2.200 CHF</td><td>Más alto en Ginebra/Zúrich; depende de zona y tamaño</td></tr>
-                        <tr><td><strong>Seguro médico</strong></td><td>350 – 450 CHF</td><td>Varía por cantón/edad/modelo/franquicia</td></tr>
-                        <tr><td><strong>Comida</strong></td><td>400 – 600 CHF</td><td>Migros/Coop vs discounters; hábitos personales</td></tr>
-                        <tr><td><strong>Transporte</strong></td><td>70 – 150 CHF</td><td>Depende de ciudad/abonos; el tren interurbano encarece</td></tr>
+                        <tr><td><strong>Alquiler</strong></td><td>1.500 – 2.500 CHF</td><td>Más alto en Ginebra/Zúrich; depende de zona y tamaño</td></tr>
+                        <tr><td><strong>Seguro médico</strong></td><td>300 – 500 CHF</td><td>Varía por cantón, edad, modelo y franquicia elegida</td></tr>
+                        <tr><td><strong>Alimentación</strong></td><td>400 – 600 CHF</td><td>Cocinando en casa; comer fuera dobla la partida</td></tr>
+                        <tr><td><strong>Transporte</strong></td><td>80 – 180 CHF</td><td>Abono urbano; el tren interurbano encarece sin Halbtax</td></tr>
                     </tbody>
                 </table>
-                <p>Más detalle: <a href="#/presupuesto-suiza">Costo de vida en Suiza</a>.</p>
 
-                <div class="callout info">
-                    <strong>Consejo final</strong>
-                    <p>Mudarse a Suiza requiere planificación, pero con la información adecuada el proceso es mucho más sencillo.</p>
-                </div>
-
-                <h3>Enlaces útiles</h3>
+                <h2>Fuentes oficiales</h2>
                 <ul>
-                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch</a></li>
-                    <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">sem.admin.ch</a></li>
-                    <li><a href="https://www.jobs.ch/" target="_blank" rel="noopener noreferrer">jobs.ch</a></li>
-                    <li><a href="https://www.jobup.ch/" target="_blank" rel="noopener noreferrer">jobup.ch</a></li>
+                    <li><a href="https://www.ch.ch/es/entrar-y-vivir-en-suiza/" target="_blank" rel="noopener noreferrer">ch.ch — Entrar y vivir en Suiza</a></li>
+                    <li><a href="https://www.sem.admin.ch/" target="_blank" rel="noopener noreferrer">SEM — Migración</a></li>
+                    <li><a href="https://www.priminfo.admin.ch/" target="_blank" rel="noopener noreferrer">Priminfo — Comparador LAMal</a></li>
                 </ul>
             </div>
         `
@@ -258,6 +237,7 @@ window.siteContent.es.articles = {
         hub: "tramites",
         slug: "registrarse-en-suiza",
         readingTime: 5,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/registrarse-en-suiza.jpg",
         imageAlt: "Persona llegando al Rathaus (ayuntamiento) suizo para registrarse con su maleta",
         summary: "Si te mudas a Suiza para residir, normalmente debes registrarte en tu comuna en pocos días (a menudo 14). El justificante de registro suele permitirte empezar a trabajar y avanzar trámites mientras llega la tarjeta del permiso.",
@@ -349,7 +329,7 @@ window.siteContent.es.articles = {
 	        hub: "tramites",
 	        slug: "checklist-tramites-llegada-suiza",
 	        readingTime: 7,
-	        dateUpdated: "Marzo 2026",
+	        dateUpdated: "Abril 2026",
 	        featuredImage: "media/guides/checklist-llegada-suiza.jpg",
         imageAlt: "Documentos suizos: permiso de residencia, tarjeta de seguro médico, llaves y checklist",
         summary: "Dos situaciones, dos circuitos distintos: si vienes a buscar trabajo no tienes ninguna obligación administrativa; si te instalas con contrato, el registro en la comuna es el primer paso obligatorio.",
@@ -546,22 +526,28 @@ window.siteContent.es.articles = {
     // 3. Seguro de salud (LAMal)
     "articulo-lamal": {
         title: "Seguro de salud en Suiza (LAMal): cómo funciona",
-        description: "El seguro médico es obligatorio en Suiza. Descubre cómo funciona la LAMal o seguro básico para residentes.",
+        description: "El seguro médico obligatorio en Suiza (LAMal/KVG): cómo funciona, cómo elegirlo y qué plazos debes respetar.",
         keywords: "seguro medico suiza, LAMal, KVG, vivir en Suiza, sistema salud suizo",
         category: "Seguro Médico",
         hub: "salud",
         slug: "seguro-medico-lamal-suiza",
         readingTime: 12,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/seguro-medico-lamal-suiza.jpg",
         imageAlt: "Persona revisando su tarjeta de seguro médico suizo junto a documentos de la Krankenkasse",
-        summary: "La LAMal es obligatoria y privada, no te cubre automáticamente el Estado. Tienes 3 meses para tramitarla, pagando atrasos desde el día 1.",
+        summary: "La LAMal es obligatoria para todos los residentes en Suiza. Tienes 3 meses desde tu registro para contratarla, con efecto retroactivo al día 1.",
         content: `
             <div class="article-content">
+
+                <div class="callout info">
+                    <strong>A quién aplica esta guía:</strong> la LAMal solo es obligatoria para personas que están registradas como residentes en Suiza. Si eres turista o estás buscando trabajo sin haberte registrado aún, este trámite no te concierne todavía.
+                </div>
+
                 <h2>Introducción</h2>
-                <p>Una de las mayores diferencias al mudarte a Suiza es que la sanidad no funciona como "seguridad social automática". La cobertura médica básica se contrata con una aseguradora privada, pero está regulada por ley: la <strong>LAMal</strong> (KVG en alemán). Dicho de forma simple: <strong>es obligatoria, privada y estandarizada</strong> en cobertura.</p>
+                <p>Una de las mayores diferencias al instalarte en Suiza es que la sanidad no funciona como "seguridad social automática". La cobertura médica básica se contrata con una aseguradora privada, pero está regulada por ley: la <strong>LAMal</strong> (KVG en alemán). Dicho de forma simple: <strong>es obligatoria para todos los residentes, privada y estandarizada</strong> en cobertura.</p>
 
                 <div class="callout warning">
-                    <strong>Plazo crítico:</strong> tienes hasta <strong>3 meses</strong> desde tu llegada/registro para contratar el seguro básico. La cobertura es <strong>retroactiva</strong>: pagarás primas desde el día 1 aunque lo contrates tarde.
+                    <strong>Plazo crítico:</strong> tienes hasta <strong>3 meses desde tu registro como residente</strong> para contratar el seguro básico. La cobertura es <strong>retroactiva</strong>: pagarás primas desde el día 1 aunque lo contrates tarde. No esperes.
                 </div>
 
                 <h2>Cómo funciona el sistema</h2>
@@ -663,11 +649,17 @@ window.siteContent.es.articles = {
         hub: 'salud',
         slug: "franquicia-seguro-medico-suiza",
         readingTime: 4,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/franquicia-seguro-medico-suiza.jpg",
         imageAlt: "Imagen conceptual de ahorro y salud en el sistema suizo",
         summary: 'En Suiza tú pagas el 100% de los primeros gastos médicos hasta cubrir tu Franquicia elegida. Después, pagas un 10% de copago.',
         content: `
             <div class="article-content">
+
+                <div class="callout info">
+                    <strong>Esta guía complementa la <a href="#/seguro-medico-lamal-suiza">guía de LAMal</a>.</strong> Aplica a todos los residentes en Suiza que ya tienen contratado el seguro básico obligatorio.
+                </div>
+
                 <p>Incluso después de pagar tus primas mensuales del seguro básico (LAMal), tú eres responsable de una parte de los gastos médicos generados. Estos gastos se dividen en Franquicia y Cuota Parte (Copago).</p>
 
                 <h2>La Franquicia (Franchise)</h2>
@@ -699,6 +691,7 @@ window.siteContent.es.articles = {
         hub: 'impuestos',
         slug: "impuestos-en-suiza",
         readingTime: 12,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/impuestos-suiza.png",
         imageAlt: "Formularios de impuestos, calculadora y monedas suizas sobre un escritorio ordenado",
         summary: 'En Suiza pagas impuestos a 3 niveles. El cantonal y comunal suponen la mayor carga y varían drásticamente incluso cruzando la calle.',
@@ -820,12 +813,17 @@ window.siteContent.es.articles = {
         hub: 'impuestos',
         slug: "impuesto-fuente-suiza",
         readingTime: 3,
-        dateUpdated: 'Actualizado recientemente',
+        dateUpdated: 'Abril 2026',
         featuredImage: "media/guides/impuesto-fuente-suiza.jpg",
         imageAlt: "Persona revisando el cálculo de su impuesto a la fuente en una oficina suiza",
         summary: 'Si tienes Permiso B o L, la empresa descuenta tu impuesto a la fuente directamente. La tarifa depende del cantón, estado civil e hijos.',
         content: `
             <div class="article-content">
+
+                <div class="callout info">
+                    <strong>A quién aplica:</strong> el impuesto a la fuente (Quellensteuer / impôt à la source) se aplica a trabajadores extranjeros con permiso L o B, y en algunos casos a fronterizos (permiso G). Si tienes permiso C o la nacionalidad suiza, tributas por declaración ordinaria anual.
+                </div>
+
                 <p>La mayoría de los ciudadanos suizos y residentes permanentes (Permiso C) rellenan una vez al año su declaración de la renta y pagan los impuestos a posteriori. Sin embargo, para los extranjeros recién llegados existe el <strong>Impuesto a la Fuente</strong>.</p>
 
                 <h2>¿Quiénes están sometidos?</h2>
@@ -851,11 +849,17 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "seguros-sociales-suiza",
         readingTime: 6,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/seguros-sociales-suiza.jpg",
         imageAlt: "Ilustración conceptual de los tres pilares del sistema de previsión suizo (AVS, LPP, 3er pilar)",
         summary: 'El sistema de pensiones suizo se basa en 3 pilares: el AVS (estatal), la LPP (seguro profesional obligatorio) y el 3er pilar (ahorro privado).',
         content: `
             <div class="article-content">
+
+                <div class="callout info">
+                    <strong>Esta guía es para trabajadores y residentes en Suiza.</strong> Las cotizaciones a la seguridad social (AVS, AI, LPP, paro) se descuentan automáticamente de la nómina desde el primer mes de trabajo. No hay ningún trámite de adhesión por tu parte.
+                </div>
+
                 <p>Parte del salario bruto se destina obligatoriamente al sistema de seguridad social. Suiza basa su previsión para la vejez en un peculiar modelo de <strong>tres pilares</strong>.</p>
 
                 <h2>1er Pilar: AVS e AI (Seguro de Vejez y Supervivencia, Seguro de Invalidez)</h2>
@@ -885,12 +889,17 @@ window.siteContent.es.articles = {
         hub: "trabajo",
         slug: "rav-paro-suiza",
         readingTime: 12,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/rav-paro-suiza.jpg",
         imageAlt: "Oficina del RAV en Suiza con asesores ayudando a candidatos en su búsqueda de empleo",
         summary: "Si pierdes tu empleo en Suiza, el RAV (y la caja de paro) puede cubrir parte de tu salario, pero exige plazos y una búsqueda de empleo demostrable.",
         content: `
             <div class="article-content">
+
+                <div class="callout info">
+                    <strong>A quién aplica:</strong> el seguro de desempleo suizo (ALV/AC) cubre a personas que han cotizado al sistema trabajando en Suiza. Si acabas de llegar y estás buscando tu primer empleo sin haber cotizado, no tienes derecho a esta prestación. Consulta la <a href="#/trabajar-en-suiza-guia">guía de búsqueda de empleo</a>.
+                </div>
+
                 <h2>Introducción</h2>
                 <p>En Suiza, el "paro" (seguro de desempleo ALV/AC) es un sistema muy útil, pero <strong>exigente</strong>. No se trata solo de "apuntarte": se basa en documentación, plazos y una búsqueda de empleo demostrable. Además, hay dos actores distintos y conviene entenderlos desde el primer día:</p>
                 <ul>
@@ -1008,11 +1017,17 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "salarios-sueldo-suiza",
         readingTime: 5,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/salarios-sueldo-suiza.jpg",
         imageAlt: "Certificado de salario suizo (Lohnausweis) con monedas de francos suizos en un escritorio profesional",
         summary: 'Suiza tiene salarios muy altos pero costos en proporción. Solo unos pocos cantones (ej. Ginebra, Neuchâtel) tienen salario mínimo legal.',
         content: `
             <div class="article-content">
+
+                <div class="callout info">
+                    <strong>Esta guía es útil tanto para personas que buscan trabajo en Suiza como para quienes ya trabajan aquí.</strong> Los datos de salarios sirven para evaluar una oferta, negociar o comparar con el mercado.
+                </div>
+
                 <p>Los salarios en Suiza se encuentran entre los más altos del mundo, pero también lo es el coste de vida. Es crucial entender que tu poder adquisitivo real dependerá de lo que ganes frente a los gastos fijos de tu cantón.</p>
 
                 <h2>¿Existe un salario mínimo legal en Suiza?</h2>
@@ -1039,12 +1054,54 @@ window.siteContent.es.articles = {
         category: 'Contratos',
         hub: 'trabajo',
         slug: "contratos-de-trabajo-suiza",
-        readingTime: 4,
+        readingTime: 5,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/contratos-de-trabajo-suiza.jpg",
         imageAlt: "Dos personas estrechándose la mano al firmar un contrato de trabajo, representando el acuerdo laboral",
-        summary: 'El mercado laboral suizo es muy liberal. El despido es libre (respetando los plazos de preaviso) y las vacaciones mínimas son 4 semanas.',
+        summary: 'El mercado laboral suizo es flexible para el empleador pero garantiza derechos claros al trabajador. Las vacaciones mínimas son 4 semanas y la enfermedad tiene protección legal.',
         content: `
-            `
+            <div class="article-content">
+
+                <div class="callout info">
+                    <strong>Esta guía es para personas que trabajan o van a trabajar en Suiza con un contrato.</strong> No aplica a turistas ni a personas en búsqueda de empleo sin contrato firmado.
+                </div>
+
+                <p>El marco legal del trabajo en Suiza es el <strong>Code des Obligations / Obligationenrecht (CO)</strong>, complementado por los Convenios Colectivos de Trabajo (CCT/GAV) cuando existen en tu sector. A diferencia de España, Suiza no tiene un Estatuto de los Trabajadores unificado: las reglas mínimas están en el CO, pero muchos sectores tienen normas propias más favorables.</p>
+
+                <h2>Tipos de contrato</h2>
+                <p>Existen dos modalidades principales. El <strong>contrato indefinido (CDI / unbefristeter Vertrag)</strong> es el más común: no tiene fecha de fin y se rescinde mediante preaviso. El <strong>contrato temporal (CDD / befristeter Vertrag)</strong> tiene una fecha de fin pactada y puede renovarse, aunque renovaciones sucesivas pueden transformarse en indefinido según jurisprudencia.</p>
+                <p>En Suiza no es obligatorio un contrato escrito para que sea válido: los acuerdos verbales tienen fuerza legal. Sin embargo, el contrato escrito es la práctica habitual y la más recomendable. Si no te entregaron nada al firmar, puedes pedir siempre un documento que confirme las condiciones.</p>
+
+                <h2>Vacaciones anuales</h2>
+                <p>El mínimo legal son <strong>4 semanas de vacaciones pagadas</strong> al año para adultos (20 días con jornada de lunes a viernes). Los trabajadores menores de 20 años tienen derecho a <strong>5 semanas</strong>. Muchos CCT y empleadores ofrecen 5 semanas como estándar. Las vacaciones no se pueden compensar con dinero mientras dure el contrato: deben disfrutarse.</p>
+
+                <h2>Enfermedad y baja médica</h2>
+                <p>El CO establece que el empleador debe pagar el salario en caso de enfermedad durante un tiempo proporcional a la antigüedad. La escala legal mínima parte de 3 semanas en el primer año y aumenta con los años de servicio. En la práctica, la mayoría de empresas suizas tienen un <strong>seguro colectivo de pérdida de salario</strong> (assurance perte de gain / Krankentaggeldversicherung) que cubre normalmente el 80% del salario durante 720 o 730 días.</p>
+
+                <div class="callout warning">
+                    <strong>Protección durante la enfermedad:</strong> mientras estás de baja médica, el empleador no puede despedirte durante los periodos de protección previstos en el CO (que varían según antigüedad). Si recibes una carta de despido mientras estás enfermo, el plazo de preaviso queda suspendido.
+                </div>
+
+                <h2>Maternidad y paternidad</h2>
+                <p>La madre tiene derecho a <strong>14 semanas de baja por maternidad</strong> con el 80% del salario (pagadas por las Allocations Pour Perte de Gain, APG). El padre tiene derecho a <strong>2 semanas de baja de paternidad</strong> (también al 80% vía APG), que deben tomarse en los 6 meses siguientes al nacimiento.</p>
+
+                <h2>Horas extras</h2>
+                <p>Las horas que superan la jornada contractual son horas extra. El CO prevé que se compensen con tiempo libre equivalente o, si no se acuerda compensación en tiempo, con un recargo del 25% sobre el salario. Muchos contratos especifican reglas propias. Si tu contrato dice "las horas extra están incluidas en el salario", verifica que eso sea compatible con tu situación real y con las normas de tu sector.</p>
+
+                <h2>Convenios Colectivos (CCT/GAV)</h2>
+                <p>En sectores como hostelería, construcción, limpieza, peluquería o cuidado, existen CCT que fijan salarios mínimos, días de vacaciones, primas y condiciones superiores a la ley. Si trabajas en un sector regulado por CCT y no sabes si aplica, pregunta a tu empleador o a un sindicato. Muchos trabajadores descubren demasiado tarde que tenían derechos mejores que los de su contrato.</p>
+
+                <h2>Errores frecuentes</h2>
+                <p>No pedir el contrato por escrito desde el primer día deja el acuerdo en el aire si surge un conflicto. No guardar nóminas y comunicaciones complica cualquier reclamación posterior. No conocer el CCT del sector puede hacer que trabajes con condiciones inferiores a las obligatorias. Y firmar cláusulas de "horas extra incluidas" sin límite puede generar abusos si no se controla.</p>
+
+                <h2>Fuentes oficiales</h2>
+                <ul>
+                    <li><a href="https://www.ch.ch/es/trabajo/contrato-de-trabajo/" target="_blank" rel="noopener noreferrer">ch.ch — Contrato de trabajo</a></li>
+                    <li><a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">SECO — Secretaría de Estado de Economía</a></li>
+                    <li><a href="https://www.gesamtarbeitsvertrag.ch/" target="_blank" rel="noopener noreferrer">Portal oficial de CCT/GAV</a></li>
+                </ul>
+            </div>
+        `
     },
 
     // 10. Periodo de prueba
@@ -1057,6 +1114,7 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "periodo-prueba-preaviso-suiza",
         readingTime: 3,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/periodo-prueba-preaviso-suiza.jpg",
         imageAlt: "Reunión profesional de revisión al finalizar el periodo de prueba en una oficina con vistas a las montañas suizas",
         summary: 'El periodo de prueba estándar es de 1 a 3 meses. Durante este tiempo, cualquiera de las partes puede rescindir el contrato con 7 días de preaviso.',
@@ -1090,6 +1148,7 @@ window.siteContent.es.articles = {
         hub: 'vivienda',
         slug: "alquilar-vivienda-suiza",
         readingTime: 12,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/alquilar-vivienda-suiza.jpg",
         imageAlt: "Persona recibiendo las llaves de su apartamento de manos de un agente inmobiliario en Suiza",
         summary: 'El mercado de alquiler es muy competitivo. Necesitas un dosier impecable: extracto de no deudas (poursuites), contrato y 3 últimas nóminas.',
@@ -1202,6 +1261,7 @@ window.siteContent.es.articles = {
         hub: 'vivienda',
         slug: "fianzas-alquiler-suiza",
         readingTime: 3,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/fianzas-alquiler-suiza.jpg",
         imageAlt: "Documento de garantía bancaria de alquiler suiza con las llaves de casa en un escritorio profesional",
         summary: 'La fianza máxima legal es de 3 meses de alquiler. Puedes depositarla en un banco o usar seguros como SwissCaution.',
@@ -1300,26 +1360,48 @@ window.siteContent.es.articles = {
         category: 'Fronterizos',
         hub: 'fronterizos',
         slug: "trabajadores-fronterizos-suiza",
-        readingTime: 4,
+        readingTime: 5,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/trabajadores-fronterizos-suiza.jpg",
         imageAlt: "Mapa de Europa con fronteras entre Suiza, Francia, Alemania e Italia, destacando el flujo de trabajadores fronterizos",
         summary: 'El Permiso G te permite vivir en Francia/Alemania y trabajar en Suiza. Debes elegir entre la LAMal o el seguro de tu país (derecho de opción).',
         content: `
             <div class="article-content">
-                <p>Los <em>frontaliers</em> son personas que residen de forma permanente en un país vecino (principalmente Francia, Alemania e Italia) y cruzan la frontera para trabajar en Suiza.</p>
+
+                <div class="callout info">
+                    <strong>Esta guía es específicamente para trabajadores fronterizos (permiso G):</strong> personas que viven de forma permanente en Francia, Alemania, Italia o Austria y trabajan en Suiza cruzando la frontera regularmente. Su situación administrativa, fiscal y de seguro médico es distinta a la de un residente.
+                </div>
+
+                <p>Los <em>frontaliers</em> (trabajadores fronterizos) residen de forma permanente en un país vecino y cruzan la frontera para trabajar en Suiza. Es una modalidad muy común en las zonas de Ginebra, Basilea, Zúrich y Lugano.</p>
 
                 <h2>El Permiso G</h2>
-                <p>Para trabajar en esta modalidad, necesitas un <strong>Permiso G (Permiso de trabajo fronterizo)</strong>. Una condición clave para mantenerlo es que debes retornar a tu residencia principal en el extranjero al menos una vez por semana (la mayoría lo hace a diario).</p>
+                <p>Para trabajar en esta modalidad necesitas un <strong>Permiso G</strong>. Lo tramita el empleador ante las autoridades cantonales suizas. La condición esencial para mantenerlo es retornar regularmente a tu lugar de residencia principal en el extranjero (en la práctica, la mayoría lo hace a diario o al menos semanalmente). Si empiezas a residir de facto en Suiza (por ejemplo, quedándote varios días a la semana), el permiso G puede quedar en cuestión.</p>
+                <p>La vigencia habitual del permiso G es de cinco años (renovable), ligada al contrato de trabajo.</p>
 
-                <h2>Fiscalidad del Frontalier</h2>
-                <p>Las reglas impositivas varían enormemente según el cantón donde trabajes y tu país de residencia (debido a los tratados de doble imposición).</p>
+                <h2>Fiscalidad del frontaliero</h2>
+                <p>Las reglas fiscales dependen del cantón donde trabajas y de tu país de residencia, en virtud de los convenios de doble imposición. La situación más frecuente:</p>
                 <ul>
-                    <li><strong>Ginebra:</strong> Si vives en Francia y trabajas en Ginebra, el cantón de Ginebra te retiene el impuesto a la fuente directamente.</li>
-                    <li><strong>Vaud, Neuchâtel, Jura:</strong> En estos cantones, generalmente el impuesto se paga íntegramente en Francia y el empleador suizo no te retiene impuestos a la fuente (si entregas a tiempo el certificado de residencia fiscal).</li>
+                    <li><strong>Ginebra:</strong> el cantón de Ginebra retiene el impuesto a la fuente directamente sobre tu salario suizo. Francia aplica un crédito fiscal para evitar la doble imposición.</li>
+                    <li><strong>Vaud, Neuchâtel, Jura y otros cantones:</strong> generalmente el impuesto se paga íntegramente en Francia. El empleador suizo no retiene si entregas a tiempo el certificado de residencia fiscal (formulario). Si no lo entregas, el empleador puede retener por precaución.</li>
+                    <li><strong>Basilea, Zúrich (frontera alemana/austriaca):</strong> las reglas son distintas. Consulta el convenio específico con Alemania o Austria.</li>
                 </ul>
 
-                <h2>Seguro de Salud (El Derecho de Opción)</h2>
-                <p>Al comenzar a trabajar en Suiza, tienes 3 meses para ejercer tu "Derecho de opción". Puedes elegir asegurarte en el sistema suizo (LAMal frontalier) o en el sistema de tu país de residencia (ej. CMU francesa). <strong>Atención:</strong> Esta decisión es irrevocable. Si no eliges, se te afiliará automáticamente a la LAMal suiza.</p>
+                <div class="callout warning">
+                    <strong>El convenio fiscal con Francia cambió en 2023.</strong> Los acuerdos de doble imposición se actualizan. Si tienes dudas sobre cómo te afecta, consulta siempre a un asesor fiscal o a la autoridad fiscal de tu cantón.
+                </div>
+
+                <h2>Seguro médico: el derecho de opción</h2>
+                <p>Al comenzar a trabajar en Suiza, tienes <strong>3 meses</strong> para ejercer el "derecho de opción": puedes elegir asegurarte en el sistema suizo (LAMal frontalier) o mantener el seguro de tu país de residencia (por ejemplo, la Sécurité Sociale francesa o la GKV alemana). Esta decisión es <strong>definitiva e irrevocable</strong> mientras mantengas el permiso G con el mismo país de residencia.</p>
+                <p>Si no ejerces el derecho de opción dentro del plazo, se te adscribirá automáticamente a la LAMal suiza. Hay que evaluar cuidadosamente los dos sistemas antes de decidir, porque las coberturas, primas y condiciones son muy diferentes.</p>
+
+                <h2>Otros aspectos prácticos</h2>
+                <p>El frontaliero no está sujeto al sistema AVS/LPP suizo de la misma forma que un residente, pero sí cotiza al seguro de accidentes y al paro suizo (proporcional). En caso de desempleo, el país que gestiona la prestación es el de residencia, no Suiza. Las asignaciones familiares también tienen reglas propias según el cantón y el país de residencia.</p>
+
+                <h2>Fuentes oficiales</h2>
+                <ul>
+                    <li><a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">SEM — Permiso G e información fronterizos</a></li>
+                    <li><a href="https://www.estv.admin.ch" target="_blank" rel="noopener noreferrer">AFC/ESTV — Fiscalidad fronterizos</a></li>
+                </ul>
             </div>
         `
     },
@@ -1334,6 +1416,7 @@ window.siteContent.es.articles = {
         hub: 'tramites',
         slug: "homologar-titulos-suiza",
         readingTime: 3,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/homologar-titulos-suiza.jpg",
         imageAlt: "Manos sosteniendo un diploma con un sello oficial suizo, simbolizando la convalidación",
         summary: 'Solo las profesiones reguladas (médicos, profesores) necesitan reconocimiento obligatorio ante el SEFRI o MEBEKO.',
@@ -1368,6 +1451,7 @@ window.siteContent.es.articles = {
         hub: 'vivir-en-suiza',
         slug: "sistema-escolar-suiza",
         readingTime: 5,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/sistema-escolar-suiza.jpg",
         imageAlt: "Edificio moderno de una escuela primaria pública en Suiza con zona de juegos y montañas al fondo",
         summary: 'El sistema escolar orienta (segrega) a los alumnos rápido: más del 60% hace formación profesional dual (CFC) en lugar de bachillerato.',
@@ -1403,6 +1487,7 @@ window.siteContent.es.articles = {
         hub: 'salud',
         slug: "medicos-urgencias-suiza",
         readingTime: 4,
+        dateUpdated: "Abril 2026",
         featuredImage: "media/guides/medicos-urgencias-suiza.jpg",
         imageAlt: "Recepción de un centro médico de urgencias (Permanence Médicale) en Suiza",
         summary: 'Evita ir a las urgencias de un hospital por dolencias leves. Usa las Permanences Médicales o llama antes a tu seguro si tienes modelo HMO.',
@@ -1435,6 +1520,7 @@ window.siteContent.es.articles = {
         hub: 'vivir-en-suiza',
         slug: "transporte-publico-suiza",
         readingTime: 4,
+        dateUpdated: "Abril 2026",
         summary: 'El abono Demi-tarif / Halbtax (mitad de precio) es casi obligatorio para cualquier residente si planea usar el transporte público ocasionalmente.',
         featuredImage: "media/guides/transporte-publico-suiza.jpg",
         imageAlt: "Mapa articulado de la red ferroviaria suiza",
@@ -1473,6 +1559,11 @@ window.siteContent.es.articles = {
         summary: 'La naturalización ordinaria requiere 10 años de residencia, un Permiso C, nivel de idioma (B1/A2) y superar un examen comunal de integración.',
         content: `
             <div class="article-content">
+
+                <div class="callout info">
+                    <strong>Esta guía es para personas con varios años de residencia efectiva en Suiza</strong> que quieren iniciar el proceso de naturalización. No aplica a turistas, trabajadores fronterizos ni residentes recién llegados.
+                </div>
+
                 <p>Obtener el pasaporte con la cruz blanca no es un trámite puramente burocrático, sino que los suizos lo entienden como la constatación final de un nivel de integración óptimo.</p>
 
                 <h2>Requisitos de la Naturalización Ordinaria</h2>
@@ -1588,12 +1679,17 @@ window.siteContent.es.articles = {
         hub: "tramites",
         slug: "residir-en-suiza-sin-trabajo",
         readingTime: 4,
-        dateUpdated: "Marzo 2026",
+        dateUpdated: "Abril 2026",
         summary: "Es posible vivir en Suiza sin trabajar, pero debes demostrar medios económicos suficientes y disponer de un seguro médico completo (LAMal).",
         featuredImage: "media/guides/residir-en-suiza-sin-trabajo.jpg",
         imageAlt: "Persona relajada disfrutando de la libertad financiera en un balcón con vistas a los Alpes suizos",
         content: `
             <div class="article-content">
+
+                <div class="callout info">
+                    <strong>Esta guía es para ciudadanos UE/EFTA que quieren instalarse en Suiza sin actividad laboral</strong> (por ejemplo, rentistas, jubilados anticipados o personas con medios propios). No es una guía para turistas ni para personas que buscan trabajo: esas situaciones tienen sus propios circuitos.
+                </div>
+
                 <p>Muchos se preguntan si es posible establecerse en Suiza sin tener un contrato de trabajo. La respuesta es sí, especialmente para ciudadanos de la UE/AELC, pero bajo condiciones estrictas.</p>
                 
                 <h2>Normas para Ciudadanos UE/AELC</h2>
