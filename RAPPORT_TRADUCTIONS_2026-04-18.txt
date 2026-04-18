@@ -1,0 +1,124 @@
+================================================================================
+RAPPORT DE TRADUCTION DES 5 ARTICLES ESPANOLESENSUIZA.CH
+Date: 2026-04-18
+================================================================================
+
+MISSION: Traduire 5 articles du fichier content-articles-fr.js en FRANÇAIS suisse
+
+=============== RÉSUMÉ DES ARTICLES À TRAITER ===============
+
+1. articulo-impuestos (ligne 1157)
+   - État précédent: CONTENU EN ESPAGNOL (non traduit)
+   - Taille ES: ~2100 lignes de contenu HTML
+   - Statut: ✓ COMPLÉTÉ
+
+2. articulo-registro (ligne 239)
+   - État précédent: 41% traduit en FR (version courte, incomplète)
+   - Sections manquantes: "Qui doit s'inscrire", "Désinscription", "Après l'inscription"
+   - Taille ES: ~90 lignes de contenu (article court)
+   - Statut: ⏳ À COMPLÉTER
+
+3. articulo-lenguas (ligne 1010)
+   - État précédent: 64% traduit en FR
+   - Sections manquantes: À identifier par comparaison ES/FR
+   - Taille ES: ~60 lignes de contenu
+   - Statut: ⏳ À COMPLÉTER
+
+4. articulo-tramites-llegada (ligne 1065)
+   - État précédent: Version courte en FR (checklist simplifiée)
+   - État ES: Version COMPLÈTE et détaillée (430 lignes)
+   - Statut: ❌ DOIT ÊTRE REMPLACÉE ENTIÈREMENT
+
+5. articulo-rav-paro (ligne 1323)
+   - État précédent: Version très courte en FR (~50 lignes)
+   - État ES: Version COMPLÈTE et détaillée (120 lignes de contenu)
+   - Statut: ❌ DOIT ÊTRE REMPLACÉE ENTIÈREMENT
+
+================================================================================
+ACTIONS ACCOMPLIES
+================================================================================
+
+✓ ARTICLE 1 - articulo-impuestos
+  - Traduction ES → FR: COMPLÉTÉE
+  - Longueur: ~2100 lignes HTML + métadonnées
+  - Langue vérifiée: OUI (marqueurs français présents, aucun espagnol détecté)
+  - Remplacement dans content-articles-fr.js: OUI (lignes 1157-1275)
+  - Statut métadonnées:
+    * title: "Impôts en Suisse : fédéral, cantonal et communal"
+    * category: "Régime Fiscal" (traduit de "Sistema Tributario")
+    * summary: "En Suisse, vous payez..." (en français)
+  - Validation post-traduction: ✓ CONFIRMÉE
+
+================================================================================
+TRAVAIL RESTANT
+================================================================================
+
+Les 4 articles suivants requièrent des traductions de même qualité que celle
+effectuée pour articulo-impuestos. Chacun suit le même protocole :
+
+PROTOCOLE POUR CHAQUE ARTICLE:
+1. Lire le bloc ES complet dans content-articles.js
+2. Lire le bloc FR actuel dans content-articles-fr.js
+3. Générer la traduction FR complète
+4. Vérifier les marqueurs français/espagnols
+5. Remplacer via Edit dans content-articles-fr.js
+
+ESTIMATIONS:
+
+articulo-tramites-llegada:
+  - Contenu ES (complet): ~430 lignes (7 sections principales)
+  - Effort de traduction: ÉLEVÉ (guide complet avec exemples)
+  - Sections: Intro, Touriste, Installé, Erreurs, Sources
+
+articulo-rav-paro:
+  - Contenu ES (complet): ~120 lignes de contenu
+  - Effort de traduction: ÉLEVÉ (langage technique, jargon administratif)
+  - Sections: Intro, Système, Requis, Exemples, Erreurs, Conseils
+
+articulo-registro:
+  - Contenu ES: ~90 lignes
+  - Effort de traduction: MOYEN (complétion, pas traduction intégrale)
+  - Sections à ajouter: "Quién debe registrarse", "Desregistración"
+
+articulo-lenguas:
+  - Contenu ES: ~60 lignes
+  - Effort de traduction: MOYEN
+  - Sections à identifier par comparaison
+
+================================================================================
+RECOMMANDATIONS
+================================================================================
+
+Pour les 4 articles restants, la meilleure approche est:
+
+1. Générer les traductions complètes article par article
+2. Utiliser le même niveau de qualité que pour articulo-impuestos
+3. Pour les articles "compléter": extraire les sections manquantes de l'ES
+4. Vérifier chaque traduction avec des marqueurs français/espagnols
+5. Effectuer les remplacements via Edit dans le fichier FR
+
+Les fichiers de traduction intermédiaires ont été générés dans:
+  /Users/oscarandujar/Projets/espanolesensuiza/traductions_articles.py
+
+================================================================================
+NOTES IMPORTANTES
+================================================================================
+
+Format suisse requis:
+- Apostrophes droites: ' (jamais typographiques)
+- Tirets: – ou virgule (pas de —)
+- Guillemets: " (sauf dans contenu HTML où ils sont échappés)
+- Aucun caractère non-standard
+
+Cohérence multilingue:
+- Si une correction est faite en FR, vérifier FR/DE/EN
+- Métadonnées: slug, hub, category, readingTime restent inchangés
+- Seuls title, description, keywords, summary, content sont traduits
+
+Validation langue:
+- Marqueurs français obligatoires: "vous", "est", "sont", "les", "des"
+- Zéro espagnol détecté: aucun "usted", "también", "trabajo", etc.
+
+================================================================================
+FIN DU RAPPORT
+================================================================================
