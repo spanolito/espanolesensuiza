@@ -9,8 +9,8 @@ window.siteContent.de.articles = {
 	    // 1. Permisos de residencia
 	    "articulo-permisos": {
 	        title: "Aufenthaltsbewilligungen in der Schweiz: L, B, C und die Unterschiede",
-	        description: "Todo sobre los permisos suizos para residentes extranjeros. Conoce las diferencias entre permiso L, B y C.",
-	        keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
+	        description: "Alles über Schweizer Aufenthaltsbewilligungen für Ausländer: L, B, C und ihre Unterschiede.",
+	        keywords: "aufenthaltsbewilligung schweiz, ausweis L, ausweis B, ausweis C, leben in der schweiz, SEM",
         featuredImage: "media/guides/tramites-llegada-suiza.jpg",
 	        category: "Verwaltungsverfahren",
 	        hub: "tramites",
@@ -169,9 +169,9 @@ Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umz
 
     // 2. Registro en la comuna
     "articulo-registro": {
-        title: "Anmeldung bei der Ankunft in der Schweiz",
-        description: "Schritt-für-Schritt-Anleitung zur Anmeldung in Ihrer neuen Gemeinde.",
-        keywords: "registro comuna suiza, empadronamiento suiza, controle des habitants, vivir en Suiza",
+        title: "Anmeldung in der Gemeinde: Schritt für Schritt",
+        description: "Wie Sie sich in der Gemeinde anmelden, wenn Sie in die Schweiz ziehen. Fristen und Dokumente.",
+        keywords: "anmeldung gemeinde schweiz, einwohnerkontrolle, wohnsitzbestätigung, umzug schweiz",
         featuredImage: "media/guides/registrarse-en-suiza.jpg",
         category: "Erste Schritte",
         hub: "tramites",
@@ -244,9 +244,9 @@ Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umz
 
     // 3. Seguro de salud (LAMal)
     "articulo-lamal": {
-        title: "Krankenversicherung in der Schweiz (KVG)",
-        description: "Die Krankenversicherung ist obligatorisch. Wie die Grundversicherung funktioniert.",
-        keywords: "seguro medico suiza, LAMal, KVG, vivir en Suiza, sistema salud suizo",
+        title: "Krankenversicherung (LAMal/KVG) in der Schweiz",
+        description: "Leitfaden zur Schweizer Krankenversicherung (KVG): obligatorische Grundversicherung, Fristen und Anbieter.",
+        keywords: "krankenversicherung schweiz, kvg, lamal, krankenkasse schweiz, gesundheitswesen",
         featuredImage: "media/guides/seguro-medico-lamal-suiza.jpg",
         category: "Krankenversicherung",
         hub: "salud",
@@ -309,14 +309,15 @@ Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umz
 
     // 5. Impuestos en Suiza: federal, cantonal y comunal
     "articulo-impuestos": {
-        title: "Steuern in der Schweiz: Bund, Kantone und Gemeinden",
-        description: "Verstehen Sie das dreistufige Steuersystem der Schweiz.",
-        keywords: "impuestos suiza, fiscalidad Suiza, cantones impuestos",
+        title: "Steuern in der Schweiz: Bund, Kanton und Gemeinde",
+        description: "Das Schweizer Steuersystem verstehen: Bundes-, Kantons- und Gemeindesteuern.",
+        keywords: "steuern schweiz, fiskus schweiz, kantonssteuer, bundessteuer",
         audience: 'worker',
         featuredImage: "media/guides/impuestos-generales-suiza.jpg",
         category: `Steuersystem`,
         hub: 'impuestos',
         readingTime: 5,
+        dateUpdated: "Regelmäßig aktualisiert",
         summary: `In der Schweiz zahlen Sie Steuern auf 3 Ebenen.`,
         content: `<div class="article-content">
 <p>Die Schweiz ist ein föderaler Staat und verfügt daher über ein dreistufiges Steuersystem. Im Gegensatz zu vielen Ländern, in denen die Steuern auf nationaler Ebene erhoben und dann verteilt werden, zahlen die Bürger in der Schweiz Steuern in drei verschiedenen Bereichen.</p>
@@ -339,8 +340,8 @@ Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umz
     // 6. Impuesto a la fuente
     "articulo-impuesto-fuente": {
         title: "Die Quellensteuer (Impôt à la source) erklärt",
-        description: "Qué es el impuesto a la fuente, a quiénes afecta y cómo se calcula en Suiza para extranjeros.",
-        keywords: "impuesto fuente suiza, quellensteuer, impot a la source",
+        description: "Was ist die Quellensteuer, wer ist betroffen und wie wird sie in der Schweiz für Ausländer berechnet.",
+        keywords: "quellensteuer schweiz, steuerabzug vom lohn, quellensteuer-rechner, steuern ausländer",
         audience: 'worker',
         featuredImage: "media/guides/impuesto-fuente-suiza.jpg",
         category: `Quellensteuer`,
@@ -366,8 +367,8 @@ Die folgende Tabelle fasst die wichtigsten Merkmale zusammen. Wenn Sie Ihren Umz
     // 7. Seguros Sociales
     "articulo-seguros-sociales": {
         title: "Sozialversicherungen: AHV, IV, BVG und ALV",
-        description: "Übersicht über das schweizerische Sozialversicherungssystem.",
-        keywords: "AVS suiza, LPP, paro suiza, sistema pensiones suizo",
+        description: "Übersicht über das schweizerische Sozialversicherungssystem: AHV, IV, BVG und Arbeitslosigkeit.",
+        keywords: "sozialversicherungen schweiz, ahv, bvg, alv, rentensystem schweiz",
         audience: 'worker',
         featuredImage: "media/guides/seguros-sociales-suiza.jpg",
         category: `Arbeit`,
@@ -434,8 +435,8 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
     // 8. Salarios por sector y región
     "articulo-salarios": {
         title: "Löhne in der Schweiz nach Branche und Region",
-        description: "Entdecken Sie den Durchschnittslohn, kantonale Unterschiede und den Salarium.",
-        keywords: "salario suiza, sueldo medio suiza, salarium, salario minimo ginebra",
+        description: "Entdecken Sie den Durchschnittslohn in der Schweiz, kantonale Unterschiede und den Salarium-Rechner.",
+        keywords: "lohn schweiz, durchschnittslohn schweiz, salarium, mindestlohn genf",
         featuredImage: "media/guides/salarios-sueldo-suiza.jpg",
         category: `Arbeitsmarkt`,
         hub: 'trabajo',
@@ -568,8 +569,8 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
     // 12. Alquiler de vivienda
     "articulo-alquiler": {
         title: "Wohnung mieten: Der Prozess",
-        description: "Benötigte Dokumente (Betreibungsauszug) für Ihre Bewerbung.",
-        keywords: "alquilar piso suiza, apartamento ginebra zarich, dossier alquiler suiza",
+        description: "Leitfaden für die Wohnungssuche in der Schweiz: Bewerbungsdossier, Kaution und Ablauf.",
+        keywords: "wohnung mieten schweiz, unterkunft schweiz, mietdossier, verwaltung",
         featuredImage: "media/guides/alquilar-vivienda-suiza.jpg",
         category: `Mietvertrag`,
         hub: 'vivienda',
@@ -597,7 +598,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
     "articulo-fianzas": {
         title: "Mietkaution und Mieterrechte",
         description: "Wie Mietkautionsversicherungen (SwissCaution) und der Mieterverband funktionieren.",
-        keywords: "fianza alquiler suiza, swisscaution, asloca, mieterverband",
+        keywords: "mietkaution schweiz, swisscaution, mieterverband, mietgarantie",
         audience: 'resident',
         featuredImage: "media/guides/fianzas-alquiler-suiza.jpg",
         category: `Wohnen`,
@@ -621,7 +622,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
     "articulo-costo-vida": {
         title: "Lebenshaltungskosten in der Schweiz",
         description: "Ein detailliertes Schweizer Monatsbudget. Ist das Leben in der Schweiz teuer?",
-        keywords: "presupuesto suiza, el costo de vivir en suiza, precios suiza",
+        keywords: "budget schweiz, lebenshaltungskosten schweiz, preise schweiz",
         featuredImage: "media/template/costo-de-vida-suiza.jpg",
         category: `Lebenshaltungskosten`,
         hub: 'vivir-en-suiza',
@@ -665,7 +666,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
     "articulo-frontaliers": {
         title: "Grenzgänger: Regeln und Steuern",
         description: "Alles, was Sie wissen müssen, wenn Sie im Ausland leben und in der Schweiz arbeiten.",
-        keywords: "frontalier suiza, permiso G, impuestos fronterizos suiza, vivir en francia trabajar en suiza",
+        keywords: "grenzgänger schweiz, ausweis G, grenzgängersteuern schweiz, wohnen in deutschland arbeiten in der schweiz",
         featuredImage: "media/guides/trabajadores-fronterizos-suiza.jpg",
         category: `Grenzgänger`,
         hub: 'fronterizos',
@@ -693,8 +694,8 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
     // 16. Reconocimiento de diplomas
     "articulo-diplomas": {
         title: "Anerkennung ausländischer Diplome",
-        description: "So lassen Sie Ihren Universitäts- oder Berufsabschluss anerkennen (SBFI).",
-        keywords: "homologar titulo suiza, reconocimiento diplomas suiza, sefri, convalidar titulo",
+        description: "So lassen Sie Ihren Universitäts- oder Berufsabschluss in der Schweiz anerkennen (SBFI).",
+        keywords: "diplomanerkennung schweiz, titel anerkennen suiza, sbfi, berufsabschluss",
         audience: 'newcomer',
         featuredImage: "media/guides/homologar-titulos-suiza.jpg",
         category: `Verwaltungsverfahren`,
@@ -724,7 +725,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
     "articulo-sistema-escolar": {
         title: "Das Schweizer Schulsystem erklärt",
         description: "Leitfaden zum Schweizer Schulsystem und der dualen Berufsbildung.",
-        keywords: "colegio suiza, educacion suiza, sistema escolar suizo, escuela infantil suiza",
+        keywords: "schule schweiz, bildung schweiz, schulsystem schweiz, kindergarten schweiz",
         audience: 'family',
         featuredImage: "media/guides/sistema-escolar-suiza.jpg",
         category: `Familie`,
@@ -754,8 +755,8 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
     // 18. Sistema de salud (médicos y urgencias)
     "articulo-sistema-salud": {
         title: "Gesundheitssystem: Ärzte und Notfälle",
-        description: "Wie Sie Gesundheitsleistungen nutzen und Rechnungen bezahlen.",
-        keywords: "medico cabecera suiza, urgencias suiza, pediatra suiza, sistema salud suizo",
+        description: "Wie Sie Gesundheitsleistungen in der Schweiz nutzen und Arztrechnungen bezahlen.",
+        keywords: "hausarzt schweiz, notfall schweiz, kinderarzt schweiz, gesundheitssystem schweiz",
         audience: 'resident',
         featuredImage: "media/guides/medicos-urgencias-suiza.jpg",
         category: `Medizinisches Netzwerk`,
@@ -784,7 +785,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
     "articulo-transporte": {
         title: "Öffentlicher Verkehr: SBB, Halbtax und GA",
         description: "Das dichteste Zugnetz der Welt. Abonnemente erklärt.",
-        keywords: "trenes suiza, SBB CFF FFS, abono medio precio suiza, halbtax, demi tarif, abono general AG",
+        keywords: "züge schweiz, SBB CFF FFS, halbtax abo schweiz, ga abo, öffentlicher verkehr",
         featuredImage: "media/guides/transporte-publico-suiza.jpg",
         category: `Öffentlicher Verkehr`,
         hub: 'vivir-en-suiza',
@@ -1152,9 +1153,9 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
     },
 
     "articulo-lenguas": {
-        title: "Sprachen in der Schweiz: Deutsch, Französisch, Italienisch, Romanisch",
-        description: "Ein Guide zu den Landessprachen, Schweizerdeutsch, zweisprachigen Kantonen und welche Sprache Sie priorisieren sollten.",
-        keywords: "sprachen schweiz, schweizerdeutsch, romandie, ticino, romanisch",
+        title: "Die Sprachen in der Schweiz: Deutsch, Französisch, Italienisch und Rätoromanisch",
+        description: "Leitfaden zu den 4 Landessprachen: Sprachregionen, zweisprachige Kantone und Tipps für Neuzuzüger.",
+        keywords: "sprachen schweiz, sprachregionen, schweizerdeutsch, romandie, tessin, rätoromanisch",
         audience: "newcomer",
         featuredImage: "media/guides/lenguas-suiza.png",
         category: "Kultur & Sprachen",

@@ -9,8 +9,8 @@ window.siteContent.en.articles = {
 	    // 1. Permisos de residencia
 	    "articulo-permisos": {
 	        title: "Residence permits in Switzerland: L, B, C and differences",
-	        description: "Todo sobre los permisos suizos para residentes extranjeros. Conoce las diferencias entre permiso L, B y C.",
-	        keywords: "permisos Suiza, permiso L, permiso B, permiso C, vivir en Suiza, SEM",
+	        description: "Everything about Swiss residence permits for foreign residents: L, B, C and their differences.",
+	        keywords: "residence permits switzerland, permit L, permit B, permit C, living in switzerland, SEM",
         featuredImage: "media/guides/tramites-llegada-suiza.jpg",
 	        category: "Ordinary Procedures",
 	        hub: "tramites",
@@ -170,8 +170,8 @@ The following table summarizes their main characteristics. If you’re planning 
     // 2. Registro en la comuna
     "articulo-registro": {
         title: "How to register upon arrival in Switzerland",
-        description: "Step-by-step guide to registering in your new commune.",
-        keywords: "registro comuna suiza, empadronamiento suiza, controle des habitants, vivir en Suiza",
+        description: "Everything about the process of registering at the commune (Einwohnerkontrolle) after your arrival in Switzerland.",
+        keywords: "registering in switzerland, commune registration, einwohnerkontrolle, residence permit application",
         featuredImage: "media/guides/registrarse-en-suiza.jpg",
         category: "Initial Steps",
         hub: "tramites",
@@ -245,8 +245,8 @@ The following table summarizes their main characteristics. If you’re planning 
     // 3. Seguro de salud (LAMal)
     "articulo-lamal": {
         title: "Health insurance in Switzerland (LAMal)",
-        description: "Health insurance is mandatory. Discover how basic insurance works.",
-        keywords: "seguro medico suiza, LAMal, KVG, vivir en Suiza, sistema salud suizo",
+        description: "Health insurance is mandatory in Switzerland. Discover how LAMal (basic insurance) works, deadlines, and costs.",
+        keywords: "health insurance switzerland, LAMal, KVG, swiss health insurance",
         featuredImage: "media/guides/seguro-medico-lamal-suiza.jpg",
         category: "Health Insurance",
         hub: "salud",
@@ -310,8 +310,8 @@ The following table summarizes their main characteristics. If you’re planning 
     // 5. Impuestos en Suiza: federal, cantonal y comunal
     "articulo-impuestos": {
         title: "Taxes in Switzerland: federal, cantonal, and communal",
-        description: "Understand the three-tier tax system in Switzerland.",
-        keywords: "impuestos suiza, fiscalidad Suiza, cantones impuestos",
+        description: "Everything about the triple taxation system in Switzerland: federal, cantonal, and communal taxes.",
+        keywords: "taxes switzerland, swiss taxation, cantonal taxes, withholding tax",
         audience: 'worker',
         featuredImage: "media/guides/impuestos-generales-suiza.jpg",
         category: `Tax System`,
@@ -339,8 +339,8 @@ The following table summarizes their main characteristics. If you’re planning 
     // 6. Impuesto a la fuente
     "articulo-impuesto-fuente": {
         title: "Withholding tax (Quellensteuer) explained",
-        description: "Qué es el impuesto a la fuente, a quiénes afecta y cómo se calcula en Suiza para extranjeros.",
-        keywords: "impuesto fuente suiza, quellensteuer, impot a la source",
+        description: "What is withholding tax, who is affected, and how it's calculated in Switzerland for foreign residents.",
+        keywords: "withholding tax switzerland, quellensteuer, swiss income tax for foreigners",
         audience: 'worker',
         featuredImage: "media/guides/impuesto-fuente-suiza.jpg",
         category: `Withholding Tax`,
@@ -366,8 +366,8 @@ The following table summarizes their main characteristics. If you’re planning 
     // 7. Seguros Sociales
     "articulo-seguros-sociales": {
         title: "Social Security: AVS, LPP, and Unemployment",
-        description: "Breakdown of the Swiss social security system and pension pillars.",
-        keywords: "AVS suiza, LPP, paro suiza, sistema pensiones suizo",
+        description: "A comprehensive breakdown of the Swiss social security system: AHV, IV, LPP, and unemployment insurance.",
+        keywords: "social security switzerland, AHV, LPP, 3 pillars system, swiss pensions",
         audience: 'worker',
         featuredImage: "media/guides/seguros-sociales-suiza.jpg",
         category: `Work`,
@@ -434,8 +434,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 8. Salarios por sector y región
     "articulo-salarios": {
         title: "Salaries in Switzerland by sector and region",
-        description: "Discover the average Swiss salary and use the Salarium calculator.",
-        keywords: "salario suiza, sueldo medio suiza, salarium, salario minimo ginebra",
+        description: "Explore average salaries in Switzerland by sector and region, and use the official Salarium calculator.",
+        keywords: "salaries switzerland, average wage switzerland, salarium, minimum wage geneva",
         featuredImage: "media/guides/salarios-sueldo-suiza.jpg",
         category: `Job Market`,
         hub: 'trabajo',
@@ -463,8 +463,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 9. Contratos de trabajo
     "articulo-contratos": {
         title: "Employment contracts in Switzerland: rights & obligations",
-        description: "Everything about Swiss employment contracts and legal holidays.",
-        keywords: "contrato trabajo suiza, derechos trabajador suiza, vacaciones suiza, code des obligations",
+        description: "Everything you need to know about Swiss employment contracts, rights, and legal holidays.",
+        keywords: "employment contract switzerland, worker rights switzerland, holiday allowance switzerland, code of obligations",
         featuredImage: "media/guides/contratos-de-trabajo-suiza.jpg",
         category: `Contracts`,
         hub: 'trabajo',
@@ -492,8 +492,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 10. Periodo de prueba
     "articulo-periodo-prueba": {
         title: "Probationary period and notice periods",
-        description: "Know your rights during probation and standard notice periods.",
-        keywords: "periodo prueba suiza, preaviso despido suiza, probezeit",
+        description: "Understand your rights during the probationary period and standard notice periods in Switzerland.",
+        keywords: "probation period switzerland, notice period switzerland, termination, labor law",
         audience: 'worker',
         featuredImage: "media/guides/periodo-prueba-preaviso-suiza.jpg",
         category: `Work`,
@@ -522,8 +522,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 11. Búsqueda de empleo
     "articulo-buscar-empleo": {
         title: "Job searching: Platforms and Strategies",
-        description: "Where to find jobs and how to customize your CV for Switzerland.",
-        keywords: "buscar empleo suiza, cv suiza, jobup, jobs.ch",
+        description: "Where to find jobs in Switzerland, how to build a Swiss-style CV, and the most effective recruitment platforms.",
+        keywords: "job search switzerland, swiss cv, jobup, jobs.ch, employment platforms",
         featuredImage: "media/guides/buscar-empleo-suiza.jpg",
         category: `Applications`,
         hub: 'trabajo',
@@ -568,8 +568,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 12. Alquiler de vivienda
     "articulo-alquiler": {
         title: "Renting an apartment: the process",
-        description: "Required documents (debt extract) to score a Swiss rental.",
-        keywords: "alquilar piso suiza, apartamento ginebra zarich, dossier alquiler suiza",
+        description: "Guide to finding an apartment in Switzerland: required documents (debt extract), application dossier, and process.",
+        keywords: "renting apartment switzerland, swiss housing, rental dossier, regie",
         featuredImage: "media/guides/alquilar-vivienda-suiza.jpg",
         category: `Rental Contract`,
         hub: 'vivienda',
@@ -596,8 +596,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 13. Fianzas de alquiler
     "articulo-fianzas": {
         title: "Rental deposits and tenant rights",
-        description: "How rental guarantees work (SwissCaution) and tenant associations.",
-        keywords: "fianza alquiler suiza, swisscaution, asloca, mieterverband",
+        description: "How rental guarantees (SwissCaution) work, security deposits, and tenant rights with ASLOCA.",
+        keywords: "rental deposit switzerland, swisscaution, asloca, rental guarantee",
         audience: 'resident',
         featuredImage: "media/guides/fianzas-alquiler-suiza.jpg",
         category: `Housing`,
@@ -620,8 +620,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 14. Costo de vida
     "articulo-costo-vida": {
         title: "Cost of living in Switzerland",
-        description: "A detailed monthly Swiss budget example.",
-        keywords: "presupuesto suiza, el costo de vivir en suiza, precios suiza",
+        description: "A detailed breakdown of the monthly budget in Switzerland: rent, insurance, food, and transport.",
+        keywords: "budget switzerland, cost of living switzerland, swiss prices",
         featuredImage: "media/template/costo-de-vida-suiza.jpg",
         category: `Cost of Living`,
         hub: 'vivir-en-suiza',
@@ -664,8 +664,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 15. Trabajadores fronterizos (frontaliers)
     "articulo-frontaliers": {
         title: "Cross-border workers (frontaliers): rules & taxes",
-        description: "Everything you need to know if you live in France/Germany and work in Switzerland.",
-        keywords: "frontalier suiza, permiso G, impuestos fronterizos suiza, vivir en francia trabajar en suiza",
+        description: "Guide for cross-border workers: taxes, health insurance, and rules for working in Switzerland while living abroad.",
+        keywords: "cross-border worker switzerland, permit G, frontalier taxes, living in france working in switzerland",
         featuredImage: "media/guides/trabajadores-fronterizos-suiza.jpg",
         category: `Cross-border`,
         hub: 'fronterizos',
@@ -693,8 +693,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 16. Reconocimiento de diplomas
     "articulo-diplomas": {
         title: "Recognition of foreign diplomas",
-        description: "How to validate your university or professional degree in Switzerland.",
-        keywords: "homologar titulo suiza, reconocimiento diplomas suiza, sefri, convalidar titulo",
+        description: "How to get your university or professional degree recognized in Switzerland (SERI/SBFI).",
+        keywords: "diploma recognition switzerland, degree validation switzerland, seri, sbfi",
         audience: 'newcomer',
         featuredImage: "media/guides/homologar-titulos-suiza.jpg",
         category: `Ordinary Procedures`,
@@ -723,8 +723,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 17. Sistema escolar suizo
     "articulo-sistema-escolar": {
         title: "The Swiss school system explained",
-        description: "Guide on how schools work in Switzerland and early tracking.",
-        keywords: "colegio suiza, educacion suiza, sistema escolar suizo, escuela infantil suiza",
+        description: "Guide to the Swiss school system: from kindergarten levels to the dual vocational training model.",
+        keywords: "school switzerland, education switzerland, swiss school system, kindergarten switzerland",
         audience: 'family',
         featuredImage: "media/guides/sistema-escolar-suiza.jpg",
         category: `Family`,
@@ -754,8 +754,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 18. Sistema de salud (médicos y urgencias)
     "articulo-sistema-salud": {
         title: "Healthcare system: doctors and emergencies",
-        description: "Finding a GP and understanding how to pay your medical bills.",
-        keywords: "medico cabecera suiza, urgencias suiza, pediatra suiza, sistema salud suizo",
+        description: "How to navigate the healthcare network: choosing a doctor, emergencies, and paying medical bills.",
+        keywords: "family doctor switzerland, medical emergency switzerland, pediatrician switzerland, swiss healthcare system",
         audience: 'resident',
         featuredImage: "media/guides/medicos-urgencias-suiza.jpg",
         category: `Medical Network`,
@@ -783,8 +783,8 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     // 19. Transporte público y abonos
     "articulo-transporte": {
         title: "Public transport: SBB, Halbtax and GA",
-        description: "Discover the world's best dense train network and travel passes.",
-        keywords: "trenes suiza, SBB CFF FFS, abono medio precio suiza, halbtax, demi tarif, abono general AG",
+        description: "Guide to Swiss public transport: SBB, Half-Fare travelcard, and GA travelcard.",
+        keywords: "trains switzerland, SBB CFF FFS, half-fare card, GA, public transport",
         featuredImage: "media/guides/transporte-publico-suiza.jpg",
         category: `Public Transport`,
         hub: 'vivir-en-suiza',
@@ -813,7 +813,7 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     "articulo-ciudadania": {
         title: "Swiss Citizenship and Naturalization",
         description: "Requirements to obtain the Swiss passport, language levels, and exams.",
-        keywords: "nacionalidad suiza, naturalizacion suiza, ciudadania suiza, pasaporte suizo",
+        keywords: "swiss citizenship, swiss naturalization, swiss passport, becoming swiss",
         audience: 'newcomer',
         featuredImage: "media/guides/nacionalidad-suiza-pasaporte.jpg",
         category: `Ordinary Procedures`,
@@ -1187,29 +1187,78 @@ The objective is that, added to the first pillar, you maintain in retirement a s
     },
 
     "articulo-lenguas": {
-        title: "Languages in Switzerland: German, French, Italian, Romansh",
-        description: "A newcomer-friendly guide to Switzerland’s languages, Swiss German, bilingual cantons, and which language to focus on.",
-        keywords: "languages switzerland, swiss german, romandie, ticino, romansh",
+        title: "Languages in Switzerland: German, French, Italian, and Romansh",
+        description: "A guide to the 4 national languages of Switzerland: linguistic regions, bilingual cantons, and tips for newcomers.",
+        keywords: "languages switzerland, linguistic regions, swiss german, romandie, ticino, romansh",
         audience: "newcomer",
         featuredImage: "media/guides/lenguas-suiza.png",
         category: "Culture & Languages",
         hub: "vivir-en-suiza",
         readingTime: 5,
-        summary: "The language you’ll need depends on your canton. In German-speaking areas, daily speech is often Swiss German dialects; administration is usually standard German.",
+        summary: "Switzerland has 4 national languages. The language you should learn depends entirely on the canton where you settle: German in the east and center, French in the west, Italian in Ticino.",
         content: `<div class="article-content">
-<p>Switzerland has <strong>four national languages</strong>. Your everyday life (work, paperwork, social life) will depend on the language of your canton.</p>
+<p>Switzerland is one of the few countries in the world with four official national languages. But there is a very common mistake when arriving: believing that English is enough to integrate. It is not. The language of your canton of residence is the key to work, administration, and social integration.</p>
 
-<h2>German-speaking Switzerland</h2>
-<p>Written administration is in standard German, but everyday speech is often <strong>Swiss German</strong> dialects.</p>
+<h2>The 4 National Languages</h2>
 
-<h2>French-speaking Switzerland (Romandie)</h2>
-<p>Swiss French is close to standard French, with a few local expressions.</p>
+<h3>🇩🇪 German — German-speaking Switzerland (Deutschschweiz)</h3>
+<p>Spoken by approximately <strong>63%</strong> of the population. It covers a large central and eastern strip of the country: Zurich, Bern, Basel, Lucerne, Zug, Schwyz, St. Gallen, and most of the interior cantons.</p>
 
-<h2>Italian-speaking Switzerland</h2>
-<p>Mostly in Ticino and parts of Graubünden.</p>
+<p>But there is a fundamental nuance: in everyday life, German-speaking Swiss do not speak standard German. They speak <strong>Schweizerdeutsch</strong>, a set of oral dialects that varies from canton to canton and can be completely unintelligible to someone who has learned standard German. Written texts (contracts, letters, forms) are written in standard German (<em>Hochdeutsch</em>).</p>
 
-<h2>Bilingual cantons</h2>
-<p>Some cantons operate in more than one official language (e.g., Fribourg, Valais, Graubünden).</p>
+<div class="callout">
+<strong>For non-native speakers:</strong> German is difficult but entirely achievable. With a B1 level, you can already work in most non-specialized jobs. Many German courses in Switzerland are free or subsidized for residents.
+</div>
+
+<h3>🇫🇷 French — La Romandie</h3>
+<p>Spoken by approximately <strong>23%</strong> of the population. It corresponds to the western cantons: Geneva, Vaud, Neuchâtel, Jura, and partially Valais, Fribourg, and Bern. This area is informally called <em>La Romandie</em>.</p>
+
+<p>Swiss French is very similar to standard French, with some lexical differences that do not pose a real barrier. For example, they use <em>huitante</em> instead of <em>quatre-vingts</em> (80) in some cantons of Romandie.</p>
+
+<div class="callout info">
+<strong>For non-native speakers:</strong> French is the most accessible option. It shares Latin roots with other Romance languages, and the learning time is significantly less than German.
+</div>
+
+<h3>🇮🇹 Italian — Ticino</h3>
+<p>Spoken by approximately <strong>8%</strong> of the population, mainly in the canton of Ticino (TI) and in some southern valleys of the canton of Graubünden. Ticino is the only completely Italian-speaking canton and has a very Mediterranean cultural identity.</p>
+
+<p>For Romance language speakers, Italian is the closest Swiss language. However, the Ticino labor market is smaller, and many positions also require German or English to work with the rest of the country.</p>
+
+<h3>🏔️ Romansh (Rumantsch)</h3>
+<p>Spoken by less than <strong>1%</strong> de la population, exclusively in parts of the canton of Graubünden. It is a Romance language with five different written variants. It has the status of a national and co-official language in the regions where it is spoken, but it is not for administrative use at the federal level except for communicating with Romansh citizens.</p>
+
+<h2>Bilingual and Trilingual Cantons</h2>
+
+<p>Three cantons have two or more official languages:</p>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(200px, 1fr)); gap:1rem; margin:1.5rem 0;">
+    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1rem;">
+        <strong>Fribourg (FR)</strong>
+        <p style="font-size:0.9rem; margin:0.5rem 0 0; color:var(--text-secondary);">Bilingual French / German. The administration operates in both languages. The city of Fribourg itself is a contact point between the two cultures.</p>
+    </div>
+    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1rem;">
+        <strong>Valais / Wallis (VS)</strong>
+        <p style="font-size:0.9rem; margin:0.5rem 0 0; color:var(--text-secondary);">Bilingual French / German depending on the area. Lower Valais is French-speaking (Sion, Martigny), Upper Valais is German-speaking.</p>
+    </div>
+    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1rem;">
+        <strong>Graubünden (GR)</strong>
+        <p style="font-size:0.9rem; margin:0.5rem 0 0; color:var(--text-secondary);">Trilingual German / Romansh / Italian. The only canton with three official languages. Each valley can have a different dominant language.</p>
+    </div>
+</div>
+
+<h2>Which language to learn?</h2>
+
+<p>The answer is always the same: <strong>the language of the canton where you live</strong>. But if you haven't decided where to settle yet, here are some guidelines:</p>
+
+<ul>
+    <li><strong>French:</strong> Best starting point for many. Easier and faster to learn if you speak a Romance language. It gives you access to Romandie and international cities like Geneva and Lausanne.</li>
+    <li><strong>German:</strong> The language that opens the most doors in terms of the labor market (covers 63% of the country). It is more difficult, but training is abundant and the Swiss highly value the effort.</li>
+    <li><strong>Italian:</strong> If you already speak it, Ticino can be a smooth entry. If not, the local labor market is more limited.</li>
+</ul>
+
+<div class="callout">
+<strong>Key investment:</strong> Many cantons offer subsidized or even free language courses for foreign residents. Some employers also pay for language courses. Find out from your first month at your commune.
+</div>
 </div>`
     },
 
