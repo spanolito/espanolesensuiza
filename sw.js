@@ -1,5 +1,5 @@
 /* Simple SW: cache core assets + offline navigation fallback. */
-const CACHE_VERSION = "pwa-v2";
+const CACHE_VERSION = "pwa-v7";
 const CORE_ASSETS = [
   "/",
   "/index.html",
@@ -73,7 +73,24 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // Assets: stale-while-revalidate.
+  // JS files: network-first (always fresh content).
+  if (request.url.endsWith(".js")) {
+    event.respondWith(
+      (async () => {
+        const cache = await caches.open(CACHE_VERSION);
+        try {
+          const response = await fetch(request);
+          if (response && response.ok) cache.put(request, response.clone());
+          return response;
+        } catch {
+          return (await cache.match(request)) || new Response("", { status: 504 });
+        }
+      })()
+    );
+    return;
+  }
+
+  // Other assets (CSS, images): stale-while-revalidate.
   event.respondWith(
     (async () => {
       const cache = await caches.open(CACHE_VERSION);

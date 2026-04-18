@@ -62,7 +62,7 @@ window.siteContent.it.articles = {
                 </ul>
 
                 <h3>Tabella comparativa rapida</h3>
-                <p>In Svizzera esistono diversi permessi di soggiorno per i cittadini dell’Unione Europea.<br>
+                <p>In Svizzera esistono diversi permessi di soggiorno per i cittadini dell'Unione Europea.<br>
                 I più comuni sono i permessi L, B e C.<br>
                 Ognuno corrisponde a una situazione diversa in base al tipo di contratto e alla durata del soggiorno.<br>
                 La tabella seguente riassume le principali caratteristiche. Se stai pianificando il tuo trasferimento, vedi anche <a href="#/mudarse-a-suiza-desde-espana">la guida passo dopo passo</a>.</p>
@@ -70,14 +70,14 @@ window.siteContent.it.articles = {
                     <thead><tr><th>Permesso</th><th>Per chi (tipico)</th><th>Durata</th><th>Note</th></tr></thead>
                     <tbody>
                         <tr><td><strong>L</strong></td><td>Contratto temporaneo</td><td>Legata al contratto</td><td>Più restrizioni; dipende dal caso/cantone</td></tr>
-                        <tr><td><strong>B</strong></td><td>Soggiorno con lavoro/studio</td><td>Solitamente diversi anni</td><td>Imposta alla fonte frequente all’inizio</td></tr>
+                        <tr><td><strong>B</strong></td><td>Soggiorno con lavoro/studio</td><td>Solitamente diversi anni</td><td>Imposta alla fonte frequente all'inizio</td></tr>
                         <tr><td><strong>C</strong></td><td>Domicilio</td><td>Rinnovabile</td><td>Maggiore stabilità amministrativa</td></tr>
                         <tr><td><strong>G</strong></td><td>Frontalieri</td><td>Solitamente diversi anni</td><td>Regole fiscali speciali secondo gli accordi</td></tr>
                     </tbody>
                 </table>
                 <div class="callout info">
                     <strong>Consiglio pratico</strong>
-                    <p>Con un permesso L può essere più difficile affittare un alloggio tramite un’agenzia immobiliare. Molte organizzazioni preferiscono inquilini con permesso B o con un contratto di lavoro a tempo indeterminato.</p>
+                    <p>Con un permesso L può essere più difficile affittare un alloggio tramite un'agenzia immobiliare. Molte organizzazioni preferiscono inquilini con permesso B o con un contratto di lavoro a tempo indeterminato.</p>
                 </div>
 
                 <h3>Link utili</h3>
@@ -509,37 +509,126 @@ window.siteContent.it.articles = {
 
     // 5. Impuestos en Suiza: federal, cantonal y comunal
     "articulo-impuestos": {
-        title: "Imposte in Svizzera: federali, cantonali e comunali",
-        description: "Tutto sul sistema di tripla imposizione in Svizzera: imposta federale, cantonale e comunale.",
-        keywords: "tasse svizzera, fiscalità svizzera, imposte cantoni, imposta alla fonte",
+        title: "Tasse in Svizzera: federale, cantonale e comunale",
+        description: "Comprendi il sistema di tripla tassazione in Svizzera: della Confederazione, dei cantoni e dei comuni.",
+        keywords: "tasse svizzera, fiscalità svizzera, cantoni imposte",
         audience: 'worker',
-        featuredImage: "media/guides/impuestos-generales-suiza.jpg",
-        category: `Sistema Fiscale`,
+        category: 'Sistema Tributario',
         hub: 'impuestos',
-        readingTime: 5,
-        summary: `In Svizzera, si pagano le tasse a 3 livelli.`,
-        content: `<div class="page-header">
-<h1>Imposte in Svizzera: fiscalità federale, cantonale e comunale</h1>
-</div>
-<div class="contenuto-articolo">
-<p>La Svizzera è un paese federale, motivo per cui ha un sistema fiscale a tre livelli. A differenza di molti paesi in cui vengono raccolte a livello nazionale e poi distribuite, in Svizzera i cittadini pagano le tasse in tre ambiti diversi.</p>
+        slug: "tasse-svizzera",
+        readingTime: 12,
+        featuredImage: "media/guides/impuestos-suiza.png",
+        imageAlt: "Moduli fiscali, calcolatrice e monete svizzere su una scrivania ordinata",
+        summary: 'In Svizzera paghi le tasse a 3 livelli. Le cantonali e comunali costituiscono il carico maggiore e variano drasticamente anche attraversando la strada.',
+        content: `
+            <div class="article-content">
+                <h2>Introduzione</h2>
+                <p>In Svizzera, le tasse non si capiscono guardando un "tipo nazionale" e basta. Il paese è federale e il tuo carico fiscale dipende molto da <strong>dove vivi</strong> (cantone e comune), dal tuo stato civile, dai figli e dal livello di reddito. Due persone con lo stesso stipendio possono pagare diversamente solo per vivere in comuni diversi.</p>
 
-<h2>1. L'imposta federale diretta</h2>
-<p>È uguale in tutta la Svizzera e viene riscosso dalla Confederazione. Tassa il reddito degli individui (ma non i loro beni) e gli utili delle aziende. Ha aliquote marcatamente progressive, ma in generale non supera l'11,5% del reddito.</p>
+                <div class="callout info">
+                    <strong>Punti chiave:</strong>
+                    <ul>
+                        <li>Paghi le tasse a <strong>tre livelli</strong>: Confederazione, cantone e comune.</li>
+                        <li>La parte cantonale e comunale di solito è quella che varia di più (e quella che conta più nel tuo budget).</li>
+                        <li>Molti neo-arrivati con permesso L/B cominciano con <a href="#/imposta-fonte-svizzera">imposta alla fonte</a> (ritenuta in busta paga).</li>
+                    </ul>
+                </div>
 
-<h2>2. L'imposta cantonale</h2>
-<p>Ognuno dei 26 cantoni ha la propria legislazione fiscale. Stabiliscono le scale, le detrazioni e la scala della progressività. Per questo motivo, il carico fiscale varia enormemente se vivi a Ginevra (tassa elevata) rispetto a se vivi a Zugo o Svitto (tassa bassa). I cantoni tassano sia il reddito (reddito) che il patrimonio (patrimonio).</p>
+                <h2>Come funziona il sistema</h2>
+                <h3>1) Imposta federale diretta</h3>
+                <p>È il componente nazionale. Si applica uniformemente su tutto il territorio, con scale progressive. Di solito è una parte minore della tua fattura totale rispetto a cantone e comune.</p>
 
-<h2>3. L'imposta comunale</h2>
-<p>Gli oltre 2.000 comuni svizzeri determinano ogni anno il loro coefficiente fiscale, spesso espresso come percentuale o moltiplicatore in base all'imposta cantonale di base. Pertanto, spostarsi di pochi chilometri verso il comune vicino può aumentare o ridurre notevolmente le tasse.</p>
+                <h3>2) Imposte cantonali</h3>
+                <p>Ogni cantone definisce scale, detrazioni e regole. Oltre all'imposta sul reddito, in molti cantoni esiste un'imposta sul <strong>patrimonio/fortuna</strong> (con soglie e regole proprie). Ecco perché parlare di "tasse in Svizzera" senza menzionare il cantone è fermarsi a metà.</p>
 
-<div class="callout">
-<strong>Pilastro importante:</strong> in Svizzera prevale il "federalismo della concorrenza fiscale". I Cantoni competono tra loro attirando imprese e contribuenti attraverso le aliquote fiscali. 
-</div>
-</div>`
+                <h3>3) Imposte comunali</h3>
+                <p>In molti cantoni, il comune applica un coefficiente o moltiplicatore sulla base dell'imposta cantonale. Risultato: trasferirsi "un paio di chilometri" può cambiare la tua fiscalità senza cambiare lavoro.</p>
+
+                <h3>4) Ritenuta vs dichiarazione annuale</h3>
+                <p>Ci sono due grandi forme di pagamento:</p>
+                <ul>
+                    <li><strong>Imposta alla fonte:</strong> il tuo datore di lavoro trattiene mensilmente sulla busta paga (molto comune con permessi L/B).</li>
+                    <li><strong>Dichiarazione ordinaria:</strong> dichiari annualmente e paghi/adegui in base al calcolo (frequente con permesso C e in altri casi).</li>
+                </ul>
+                <p>In determinati casi, anche se sei a ritenuta, potresti essere obbligato a una dichiarazione ordinaria o a una regolarizzazione (a seconda del cantone e della situazione). Se hai dubbi, non rimandare a "quando arriverà la lettera": consulta presto.</p>
+
+                <h3>5) Anno fiscale, fatture e "sorprese"</h3>
+                <p>Nella dichiarazione ordinaria, è normale che esistano pagamenti provvisori o fatture su conto (a seconda del cantone) e successivi conguagli. Per questo, anche se lo stipendio è stabile, può arrivare un calcolo finale mesi dopo. La raccomandazione pratica è semplice: <strong>mettere da parte un margine</strong> e non pianificare le finanze al centesimo.</p>
+
+                <h3>6) Imposta ecclesiastica (a seconda del cantone e dell'affiliazione)</h3>
+                <p>In alcuni cantoni esiste un'imposta legata all'affiliazione religiosa (chiesa). Se non sei membro, in linea di principio non dovrebbe applicarsi. Poiché è un argomento sensibile e cantonale, consultalo nella documentazione del tuo cantone se vedi un concetto che non capisci.</p>
+
+                <h2>Requisiti e regole</h2>
+                <h3>Documenti che di solito sono la base della tua fiscalità</h3>
+                <ul>
+                    <li><strong>Lohnausweis / certificato salariale:</strong> il documento annuale con il tuo salario e le voci.</li>
+                    <li><strong>Stato civile e figli:</strong> influiscono sulle tariffe alla fonte e sulle detrazioni.</li>
+                    <li><strong>Domicilio fiscale (comune):</strong> determina gran parte della fattura.</li>
+                    <li><strong>Patrimonio e debiti:</strong> se applicabili (particolarmente rilevante nei cantoni con imposta di fortuna).</li>
+                </ul>
+
+                <h3>Cosa significa "essere a ritenuta" in pratica</h3>
+                <p>Se sei a ritenuta, l'amministrazione fiscale applica una tariffa standard basata su categorie (stato civile, figli, ecc.). L'importante per te è:</p>
+                <ul>
+                    <li>Verificare che la tua categoria sia corretta (i cambiamenti familiari contano).</li>
+                    <li>Sapere se il tuo cantone consente <strong>correzioni</strong> o regolarizzazioni per detrazioni (ad esempio, contributi al 3o pilastro, spese di formazione, ecc.).</li>
+                    <li>Capire che alcune situazioni/soglie potrebbero portarti a una dichiarazione ordinaria (secondo le regole cantonali e federali).</li>
+                </ul>
+
+                <h3>Cosa succede se fai una dichiarazione ordinaria</h3>
+                <p>Nella dichiarazione, il cantone e il comune ti applicano regole di detrazioni e scale. Possono esistere detrazioni per:</p>
+                <ul>
+                    <li>Contributi previdenziali (ad esempio, 3o pilastro).</li>
+                    <li>Spese professionali (secondo le regole cantonali).</li>
+                    <li>Spese per cura dei figli (secondo il cantone).</li>
+                    <li>Interessi su debiti (secondo il cantone).</li>
+                </ul>
+                <p>L'elenco esatto delle detrazioni e dei limiti è <strong>dipendente dal cantone</strong>. Per questo motivo, non copiare consigli fiscali da un cantone all'altro senza verifica.</p>
+
+                <h3>Ti trasferisci dentro la Svizzera: perché cambia tutto</h3>
+                <p>In Svizzera, il domicilio fiscale è fondamentale. Se ti trasferisci di comune o cantone, non solo cambiano i percentuali: possono cambiare detrazioni, moduli, termini e la forma di pagamento. Non è raro che il primo anno dopo un trasferimento appaiano conguagli perché il sistema "si ricalcola" con il tuo nuovo domicilio.</p>
+
+                <h2>Esempi concreti</h2>
+                <h3>Esempio 1 — Stesso stipendio, comune diverso</h3>
+                <p>Ti viene offerto lo stesso stipendio nella stessa azienda, ma stai dubitando tra due comuni vicini. Se un comune ha un moltiplicatore alto e l'altro basso, il tuo "netto reale" cambia. Per questo, quando confronti gli affitti, confronta anche le tasse (in Svizzera vanno insieme).</p>
+
+                <h3>Esempio 2 — Ti sposi a metà anno</h3>
+                <p>Un cambio di stato civile può cambiare la tariffa alla fonte o le tue detrazioni. In pratica, bisogna notificare i cambiamenti e conservare la documentazione. L'errore tipico è rimandare alla fine e poi sorprendersi dei conguagli.</p>
+
+                <h3>Esempio 3 — Reddito extra (autonomo, affitto, investimenti)</h3>
+                <p>Se hai redditi aggiuntivi, la ritenuta standard potrebbe non riflettere la tua situazione finale. È un caso tipico in cui potrebbe esserci un obbligo di dichiarare o regolarizzare. Il consiglio pratico: prevedi e metti da parte denaro.</p>
+
+                <h3>Esempio 4 — Ti trasferisci di cantone in estate</h3>
+                <p>Lavori tutto l'anno, ma cambi cantone a metà. Sebbene sia "lo stesso paese", fiscalmente è un cambio importante: comunicalo nei tuoi adempimenti di domicilio e assumi che il calcolo finale potrebbe variare rispetto alle tue aspettative.</p>
+
+                <h2>Errori comuni</h2>
+                <ul>
+                    <li><strong>Credere che "in Svizzera si paga poco" senza guardare cantone/comune:</strong> la differenza può essere grande.</li>
+                    <li><strong>Non rivedere la categoria a ritenuta:</strong> un errore di categoria può farti pagare male tutto l'anno.</li>
+                    <li><strong>Non conservare il certificato salariale:</strong> è il pezzo centrale di qualsiasi correzione o dichiarazione.</li>
+                    <li><strong>Non pianificare la liquidità:</strong> in Svizzera possono arrivare conguagli e fatture successive; non vivere al limite.</li>
+                </ul>
+
+                <h2>Consigli pratici</h2>
+                <ul>
+                    <li>Se sei appena arrivato, cominci a capire <a href="#/imposta-fonte-svizzera">imposta alla fonte</a>.</li>
+                    <li>Quando scegli dove vivere, guarda il "pacchetto completo": affitto + tasse + trasporto.</li>
+                    <li>Se cambi comune o cantone, assumi che cambiano le regole e rivedi il tuo budget.</li>
+                    <li>Crea una cartella fiscale annuale (PDF e lettere): Lohnausweis, contratti, ricevute del 3o pilastro e comunicazioni del cantone.</li>
+                    <li>Se hai dubbi, consulta l'autorità fiscale del tuo cantone: una chiamata tempestiva evita errori costosi.</li>
+                    <li>Collegati a questa guida con <a href="#/costo-vita-svizzera">costo della vita</a> e <a href="#/lavoratori-frontalieri-svizzera">lavoratori frontalieri</a> se applicabile.</li>
+                </ul>
+
+                <h2>Fonti ufficiali</h2>
+                <ul>
+                    <li><a href="https://www.estv.admin.ch/" target="_blank" rel="noopener noreferrer">AFC / ESTV — Amministrazione federale delle contribuzioni</a></li>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Portale ufficiale svizzero</a></li>
+                </ul>
+            </div>
+        `
     },
 
-    // 6. Impuesto a la fuente
+
     "articulo-impuesto-fuente": {
         title: "L'imposta alla fonte (Quellensteuer) spiegata",
         description: "Cos'è l'imposta alla fonte, chi riguarda e come viene calcolata in Svizzera per i lavoratori stranieri.",
@@ -606,37 +695,128 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 
     // 7b. RAV / disoccupazione
     "articulo-rav-paro": {
-        title: "RAV e disoccupazione in Svizzera: requisiti, passi e obblighi",
-        description: "Guida pratica all’assicurazione contro la disoccupazione (ALV/AC): iscrizione al RAV, documenti, obblighi e sanzioni.",
-        keywords: "RAV svizzera, disoccupazione svizzera, assicurazione disoccupazione svizzera, ALV AC",
+        title: "RAV e disoccupazione in Svizzera: come funziona, requisiti e procedure",
+        description: "Guida pratica del sistema di assicurazione contro la disoccupazione svizzera (ALV/AC): requisiti, termini, iscrizione al RAV, obblighi e sanzioni.",
+        keywords: "RAV svizzera, disoccupazione svizzera, assicurazione disoccupazione svizzera, ALV AC, sistema disoccupazione svizzera",
         audience: "worker",
-        featuredImage: "media/guides/rav-paro-suiza.jpg",
         category: "Lavoro",
         hub: "trabajo",
-        slug: "rav-paro-suiza",
-        readingTime: 7,
+        slug: "disoccupazione-svizzera",
+        readingTime: 12,
         dateUpdated: "Marzo 2026",
-        summary: "Il RAV può aiutare dopo la perdita del lavoro, ma scadenze e prove della ricerca sono fondamentali.",
-        content: `<div class="page-header">
-<h1>RAV e disoccupazione in Svizzera</h1>
-</div>
-<div class="contenuto-articolo">
-<p>In Svizzera la disoccupazione si gestisce tramite il <strong>RAV</strong> e una <strong>cassa di disoccupazione</strong> che paga l’indennità. È un sistema efficace ma rigoroso.</p>
+        featuredImage: "media/guides/rav-paro-suiza.jpg",
+        imageAlt: "Ufficio RAV in Svizzera con consulenti che aiutano i candidati nella loro ricerca di lavoro",
+        summary: "Se perdi il lavoro in Svizzera, il RAV (e il fondo disoccupazione) può coprire parte del tuo salario, ma richiede termini e una ricerca di lavoro dimostrabile.",
+        content: `
+            <div class="article-content">
+                <h2>Introduzione</h2>
+                <p>In Svizzera, la "disoccupazione" (assicurazione ALV/AC) è un sistema molto utile, ma <strong>esigente</strong>. Non si tratta solo di "iscriversi": si basa su documentazione, termini e una ricerca di lavoro dimostrabile. Inoltre, ci sono due attori distinti e conviene capirli dal primo giorno:</p>
+                <ul>
+                    <li><strong>RAV / ORP:</strong> l'ufficio regionale di collocamento (follow-up, strategia, appuntamenti e controllo).</li>
+                    <li><strong>Cassa disoccupazione (Kasse / caisse):</strong> valuta il tuo diritto e <strong>paga</strong> la prestazione.</li>
+                </ul>
+                <p>I dettagli (ad esempio, come richiedere un appuntamento, moduli specifici o ritmo di follow-up) possono variare a seconda del <strong>cantone</strong> e dell'ufficio. La logica generale è comune in tutta la Svizzera.</p>
 
-<h2>Primi passi</h2>
-<ol>
-  <li>Iscriviti il prima possibile.</li>
-  <li>Scegli una cassa e raccogli i documenti (contratto, lettera di licenziamento, permesso, buste paga).</li>
-  <li>Traccia le candidature e conserva le prove.</li>
-</ol>
+                <div class="callout warning">
+                    <strong>Messaggio chiaro:</strong> se il tuo contratto termina tra 2–4 settimane, inizia già oggi a conservare prove di ricerca. Molti fascicoli si complicano perché non riesci a dimostrare "cosa hai fatto" prima dell'ultimo giorno.
+                </div>
 
-<h2>Obblighi</h2>
-<ul>
-  <li>Ricerca di lavoro documentata</li>
-  <li>Presenza agli appuntamenti RAV</li>
-</ul>
-</div>`
+                <h2>Come funziona il sistema</h2>
+                <h3>1) Cosa si paga (spiegazione pratica)</h3>
+                <p>La prestazione si calcola in base al tuo salario assicurato e viene normalmente pagata sotto forma di <strong>indennità giornaliere</strong>. Come ordine di grandezza, di solito si parla di un tasso del <strong>70%</strong> del salario assicurato, o <strong>80%</strong> in certi casi (ad esempio, con figli a carico). Ci sono limiti massimi e regole specifiche su bonus, tredicesime, lavoro a tempo parziale, ecc.</p>
+                <p>La cassa disoccupazione è chi fa il calcolo esatto con i tuoi documenti. Non prendere i percentuali come "promessa": usali per pianificare il tuo budget.</p>
+
+                <h3>2) RAV (controllo e reinserimento) vs cassa (pagamento)</h3>
+                <p>Il RAV controlla che tu stia adempiendo ai tuoi obblighi: candidature, disponibilità, colloqui e misure (corsi, programmi, tirocini). La cassa verifica il diritto e effettua il pagamento. Puoi essere iscritto al RAV e, allo stesso tempo, avere il pagamento bloccato se mancano documenti o se ci sono sanzioni.</p>
+
+                <h3>3) Il ciclo mensile (quello che veramente ti chiedono)</h3>
+                <p>In molti casi, il "ritmo" del sistema è così:</p>
+                <ul>
+                    <li>Consegni un <strong>elenco di candidature</strong> con prove (e a volte moduli di controllo) entro il termine indicato.</li>
+                    <li>Hai <strong>appuntamenti</strong> con il tuo consulente RAV e devi presentarti preparato (CV aggiornato, offerte elaborate, strategia).</li>
+                    <li>Se lavori alcuni giorni o a tempo parziale, informi e la prestazione si adegua in base ai redditi.</li>
+                </ul>
+                <p>Inoltre, potrebbero esserci <strong>giorni di attesa</strong> o particolarità iniziali a seconda della tua situazione. Non lasciarlo all'intuizione: chiedi alla tua cassa quali date e documenti determinano il primo pagamento.</p>
+
+                <h3>4) Redditi intermedi (Zwischenverdienst)</h3>
+                <p>Un punto chiave: accettare lavori temporanei o a tempo parziale durante la disoccupazione può essere positivo. In alcuni casi, il sistema compensa parte della differenza tra il tuo salario precedente e il nuovo reddito. Chiedi sempre alla cassa come dichiarare questi redditi e qual è l'impatto sul tuo diritto.</p>
+
+                <h2>Requisiti e regole</h2>
+                <h3>1) Requisiti tipici (visione generale)</h3>
+                <p>Il diritto esatto dipende dal caso, ma normalmente ruota intorno a:</p>
+                <ul>
+                    <li>Avere <strong>versato i contributi</strong> per il tempo minimo richiesto nel periodo di riferimento.</li>
+                    <li>Essere <strong>disoccupato</strong> o con riduzione riconosciuta e <strong>idoneo</strong> al lavoro.</li>
+                    <li>Essere <strong>collocabile</strong>: essere disponibile e disposto ad accettare un lavoro ragionevole.</li>
+                    <li>Condurre una <strong>ricerca attiva</strong> e dimostrabile.</li>
+                </ul>
+
+                <h3>2) Documenti che solitamente ti chiedono</h3>
+                <p>Prepara un "dossier disoccupazione" con:</p>
+                <ul>
+                    <li>Documento di identità e permesso di residenza.</li>
+                    <li>Contratto di lavoro e <strong>lettera di licenziamento</strong> o conferma di fine contratto.</li>
+                    <li>Cedolini recenti, certificati salariali se applicabili, dati bancari (IBAN).</li>
+                    <li>Moduli della cassa e giustificativi della tua ricerca.</li>
+                    <li>Documenti di situazioni speciali (ad esempio, malattia, maternità, riduzione di orario, ecc.).</li>
+                </ul>
+                <p>Se sei malato durante il processo, di solito è essenziale fornire un <strong>certificato medico</strong> e comunicarlo immediatamente: influisce sulla tua disponibilità e sui tuoi obblighi.</p>
+
+                <h3>3) Ricerca di lavoro: quantità e qualità</h3>
+                <p>In Svizzera ci si aspetta una ricerca <strong>regolare</strong> e organizzata. Il numero minimo di candidature può variare per situazione e cantone. Quello che di solito conta non è solo la quantità, ma:</p>
+                <ul>
+                    <li>Che le candidature siano <strong>ragionevoli</strong> (posizioni compatibili con il tuo profilo e il mercato).</li>
+                    <li>Che tu conservi <strong>prove</strong> (email, PDF, screenshot di portali).</li>
+                    <li>Che rispondi alle offerte "assegnate" dal RAV e non lasci messaggi senza risposta.</li>
+                </ul>
+
+                <h3>4) Dimissioni, "licenziamento concordato" e sanzioni</h3>
+                <p>Se rassegni le dimissioni volontariamente o c'è una fine del contratto "concordata" senza una causa oggettiva, ci potrebbero essere <strong>giorni di sanzione</strong> (periodi senza pagamento). Non significa che "non ricevi mai", ma il sistema penalizza le decisioni evitabili. Se c'è un motivo serio (salute, molestie, cambiamenti sostanziali), documenta e consulta prima di agire.</p>
+
+                <h2>Esempi concreti</h2>
+                <h3>Esempio 1 — Licenziamento con preavviso</h3>
+                <p>Ti dicono oggi che in un mese finisci. Cominci subito con le candidature, conservi le prove, richiedi il tuo certificato di lavoro (Arbeitszeugnis) e prepari il dossier. Quando ti iscrivi, puoi dimostrare la ricerca precedente ed eviti discussioni sull'inattività.</p>
+
+                <h3>Esempio 2 — Fine del contratto temporaneo</h3>
+                <p>Anche se è "fine del contratto" e non "licenziamento", il sistema aspetta la stessa logica: ricerca documentata, iscrizione in tempo, disponibilità e rispetto dei termini.</p>
+
+                <h3>Esempio 3 — Trovi un lavoro a tempo parziale di 2 mesi</h3>
+                <p>Accetti un lavoro temporaneo mentre continui a cercare qualcosa di stabile. Informi il RAV/cassa, dichiari i redditi e mantieni gli obblighi. In molti casi, è meglio per il tuo fascicolo che rifiutare opportunità perché "non sono perfette".</p>
+
+                <h2>Errori comuni</h2>
+                <ul>
+                    <li><strong>Iscriverti tardi:</strong> aspettare "a vedere se esce qualcosa" e perdere giorni o complicare il fascicolo.</li>
+                    <li><strong>Non avere prove:</strong> dire "ho inviato CV" senza screenshot o email di solito finisce in sanzioni.</li>
+                    <li><strong>Non andare agli appuntamenti:</strong> mancare a un appuntamento senza giustificazione può costare giorni di sanzione.</li>
+                    <li><strong>Viaggiare senza permesso:</strong> uscire dal paese senza coordinamento può essere considerato mancanza di disponibilità.</li>
+                    <li><strong>Non rispondere</strong> alle proposte del RAV o rifiutare un lavoro "ragionevole" senza una ragione solida.</li>
+                </ul>
+
+                <h2>Consigli pratici</h2>
+                <ul>
+                    <li>Organizza la tua ricerca come un lavoro: calendario, orari fissi e monitoraggio in foglio di calcolo.</li>
+                    <li>Prepara il dossier "svizzero": CV, lettera, diplomi e certificati. Appoggiati a <a href="#/cercare-lavoro-svizzera">Cercare lavoro in Svizzera</a>.</li>
+                    <li>Metti da parte denaro: il primo pagamento può tardare e potrebbero esserci conguagli. Evita di rimanere senza margini.</li>
+                    <li>Fai "candidature a prova di RAV": conserva PDF, email e screenshot con data. Una candidatura senza prova di solito conta come "non fatta".</li>
+                    <li>Collegati alla tua situazione di disoccupazione con permessi e procedure: <a href="#/tramites-llegada-suiza">permessi</a>, <a href="#/imposta-fonte-svizzera">imposta alla fonte</a> se applicabile.</li>
+                </ul>
+
+                <h2>Fonti ufficiali</h2>
+                <ul>
+                    <li><a href="https://www.ch.ch/it/lavoro/disoccupazione/" target="_blank" rel="noopener noreferrer">ch.ch — Disoccupazione</a></li>
+                    <li><a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">SECO — Segreteria di Stato dell'Economia</a></li>
+                </ul>
+
+                <h2>Articoli correlati</h2>
+                <ul>
+                    <li><a href="#/cercare-lavoro-svizzera">Cercare lavoro in Svizzera</a></li>
+                    <li><a href="#/contratti-di-lavoro-svizzera">Contratti di lavoro in Svizzera</a></li>
+                    <li><a href="#/assicurazioni-sociali-svizzera">Assicurazioni sociali in Svizzera</a></li>
+                </ul>
+            </div>
+        `
     },
+
 
     "articulo-salarios": {
         title: "Salari in Svizzera per settore e regione: quanto si guadagna?",
@@ -1100,6 +1280,9 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         category: 'Rete Medica',
         hub: 'salud',
         readingTime: 4,
+        dateUpdated: "Marzo 2026",
+        featuredImage: "media/guides/medicos-urgencias-suiza.jpg",
+        imageAlt: "Medico e paziente in uno studio medico svizzero",
         summary: `Evita gli ospedali per i disturbi minori, vai alle guardie mediche.`,
         content: `<div class="page-header">
 <h1>Medici, emergenze e fatture in Svizzera</h1>
@@ -1282,64 +1465,117 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
     },
 
     "articulo-trabajar-sin-permiso-fisico": {
-        title: "Posso lavorare prima di ricevere il permesso fisico?",
-        description: "Sì. Dopo la registrazione al comune ricevi un certificato provvisorio valido mentre la tessera del permesso arriva per posta.",
-        keywords: "lavorare senza permesso fisico, attestato provvisorio, permesso svizzera tessera",
-        featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
+        title: "Posso lavorare in Svizzera prima di ricevere il permesso fisico?",
+        description: "Sì, puoi lavorare legalmente in Svizzera anche se la tessera del permesso impiega settimane ad arrivare. Spieghiamo come funziona il certificato provvisorio.",
+        keywords: "lavorare senza permesso svizzera, permesso provvisorio svizzera, attestazione residenza svizzera, aspettare permesso svizzera",
         category: "Procedure Ordinarie",
         hub: "tramites",
+        slug: "lavorare-senza-permesso-fisico",
         readingTime: 3,
-        summary: "La tessera plastificata può richiedere settimane. Il certificato provvisorio di registrazione è di norma sufficiente per il datore di lavoro.",
-        content: `<div class="page-header">
-<h1>Lavorare in Svizzera senza tessera del permesso</h1>
-</div>
-<div class="contenuto-articolo">
-<p><strong>Sì</strong>: in molti cantoni puoi iniziare a lavorare dopo la registrazione. La tessera del permesso arriva più tardi.</p>
+        dateUpdated: "Marzo 2026",
+        featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
+        imageAlt: "Persona che lavora in Svizzera in un ambiente professionale",
+        summary: "Puoi iniziare a lavorare dal primo giorno dopo la registrazione al comune. La tessera del permesso può richiedere settimane, ma il certificato di registrazione ha già valore legale.",
+        content: `
+            <div class="article-content">
+                <p>Questa è una delle domande più frequenti dei neo-arrivati e la risposta genera molta confusione: <strong>sì, puoi lavorare legalmente in Svizzera anche se la tessera fisica del permesso non è ancora arrivata</strong>.</p>
 
-<h2>Documento provvisorio</h2>
-<p>Quando ti registri, spesso ricevi un <strong>attestato provvisorio</strong> (il nome cambia a seconda del cantone). Ha valore legale.</p>
+                <h2>Come funziona il processo</h2>
+                <p>Quando ti registri presso l'ufficio del Controllo abitanti, ricevi subito un <strong>certificato provvisorio di residenza</strong> ("Attestation de résidence" in francese, "Meldebestätigung" in tedesco). Questo documento attesta legalmente che sei registrato e autorizzato a risiedere e lavorare in Svizzera.</p>
+                <p>La tessera fisica (carta plastificata con la tua foto) viene emessa dal servizio cantonale di migrazione e può impiegare tra 4 e 12 settimane per arrivare per posta. Questo ritardo è completamente normale e nessun datore di lavoro serio lo ignora.</p>
 
-<div class="informazioni callout">
-<strong>Consiglio:</strong> metti il tuo nome sulla cassetta postale per ricevere la tessera senza problemi.
-</div>
-</div>`
+                <h2>Quale documento usa il lavoratore nel frattempo?</h2>
+                <p>Durante il periodo di attesa, il lavoratore utilizza il certificato provvisorio come comprovante. Per l'azienda, è sufficiente per processare lo stipendio e adempiere ai propri obblighi amministrativi.</p>
+
+                <div class="callout info">
+                    <strong>Caso tipico:</strong> Molti lavoratori iniziano un lunedì e si registrano al comune il venerdì precedente. Con il certificato provvisorio in mano, si inseriscono senza problemi. La tessera del permesso arriva settimane dopo per posta.
+                </div>
+
+                <h2>E se il datore di lavoro mi chiede il permesso fisico?</h2>
+                <p>Se un datore di lavoro crea problemi, puoi spiegargli che il processo è standard e che il certificato provvisorio ha piena validità legale. Nelle grandi aziende con HR questo è routine. Se ci sono dubbi, sia il datore che il dipendente possono contattare il servizio cantonale di migrazione per verificare lo stato della richiesta.</p>
+
+                <h2>Quando arriva la tessera del permesso?</h2>
+                <ul>
+                    <li>Cantoni con meno richieste: 3–5 settimane.</li>
+                    <li>Ginevra, Zurigo (alta domanda): 8–12 settimane o più.</li>
+                </ul>
+                <p>Riceverai la tessera nella cassetta postale del tuo domicilio registrato. Per questo è importante che il campanello abbia il tuo nome dal primo giorno.</p>
+
+                <div class="callout warning">
+                    <strong>Importante:</strong> La tessera del permesso ha una data di scadenza. Quando si avvicina, riceverai una notifica per il rinnovo. Non aspettare che scada per avviare la procedura.
+                </div>
+            </div>
+        `
     },
+
 
     "articulo-reagrupacion-familiar": {
         title: "Ricongiungimento familiare in Svizzera: come portare la famiglia",
-        description: "Guida breve: requisiti, documenti, tempi e diritti per coniuge/partner e figli.",
-        keywords: "ricongiungimento familiare svizzera, portare coniuge figli, apostille traduzioni",
-        featuredImage: "media/guides/reagrupacion-familiar-suiza.jpg",
+        description: "Guida completa per portare il coniuge e i figli in Svizzera. Condizioni, documentazione, termini e diritti dei familiari ricongiuntí.",
+        keywords: "ricongiungimento familiare svizzera, portare famiglia svizzera, permesso familiare svizzera, coniuge svizzera, apostilla svizzera",
         category: "Procedure Ordinarie",
         hub: "tramites",
+        slug: "ricongiungimento-familiare-svizzera",
         readingTime: 5,
-        summary: "Con un permesso B o C spesso è possibile ricongiungere coniuge/partner e figli minori, con alloggio adeguato e mezzi sufficienti.",
-        content: `<div class="page-header">
-<h1>Ricongiungimento familiare in Svizzera</h1>
-</div>
-<div class="contenuto-articolo">
-<h2>Chi può essere ricongiunto?</h2>
-<ul>
-  <li>Coniuge o partner registrato</li>
-  <li>Figli sotto i 18 anni</li>
-</ul>
+        dateUpdated: "Marzo 2026",
+        featuredImage: "media/guides/reagrupacion-familiar-suiza.jpg",
+        imageAlt: "Famiglia felice in arrivo in Svizzera con valigie in una stazione ferroviaria con le Alpi sullo sfondo",
+        summary: "Se possiedi un Permesso B o C puoi portare il tuo coniuge e i figli minori di 18 anni. I familiari ottengono il loro permesso e hanno diritto a lavorare dal primo giorno.",
+        content: `
+            <div class="article-content">
+                <p>Uno dei momenti più importanti nella vita di un emigrante è poter portare la sua famiglia. In Svizzera, il processo di ricongiungimento familiare è ben regolamentato ed è fattibile per i cittadini dell'UE, ma ha le sue regole e tempi specifici.</p>
 
-<h2>Requisiti tipici</h2>
-<ul>
-  <li><strong>Alloggio adeguato</strong> per la famiglia</li>
-  <li><strong>Mezzi economici sufficienti</strong></li>
-  <li><strong>Permesso valido</strong> (spesso B o C)</li>
-</ul>
+                <h2>Chi può richiedere il ricongiungimento?</h2>
+                <p>Possono richiederlo i titolari di un <strong>Permesso B o C in vigore</strong>. Con Permesso L (breve durata) le possibilità sono molto limitate. I familiari che possono essere ricongiuntí sono:</p>
+                <ul>
+                    <li>Coniuge (matrimonio ufficiale riconosciuto).</li>
+                    <li>Partner di fatto registrato.</li>
+                    <li>Figli minori di 18 anni (inclusi i figli adottivi).</li>
+                    <li>In alcuni casi, genitori o familiari a carico con necessità accertate.</li>
+                </ul>
 
-<h2>Documenti (di solito)</h2>
-<ul>
-  <li>Passaporti/ID</li>
-  <li>Certificati di matrimonio/partnership e nascita</li>
-  <li><strong>Apostille + traduzioni</strong> dove richiesto</li>
-  <li>Contratto di affitto + prove di reddito</li>
-</ul>
-</div>`
+                <h2>Condizioni che deve soddisfare il residente in Svizzera</h2>
+                <ul>
+                    <li><strong>Abitazione adeguata:</strong> L'appartamento deve avere spazio sufficiente per tutta la famiglia. Le autorità verificano questo aspetto.</li>
+                    <li><strong>Mezzi economici sufficienti:</strong> Non dipendere dall'assistenza sociale.</li>
+                    <li><strong>Permesso in vigore:</strong> Senza sanzioni e il permesso non in processo di revoca.</li>
+                </ul>
+
+                <h2>Documentazione necessaria</h2>
+                <ul>
+                    <li>Modulo ufficiale di ricongiungimento familiare (ufficio cantonale di migrazione).</li>
+                    <li>Passaporti di tutti i familiari.</li>
+                    <li>Certificato di matrimonio o unione di fatto <strong>apostillato e tradotto</strong>.</li>
+                    <li>Certificati di nascita dei figli apostillati e tradotti.</li>
+                    <li>Contratto di affitto dell'appartamento con spazio sufficiente.</li>
+                    <li>Ultimi cedolini paga o giustificativo di reddito.</li>
+                </ul>
+
+                <div class="callout info">
+                    <strong>L'Apostilla dell'Aia:</strong> I documenti ufficiali spagnoli devono recare l'Apostilla per essere validi in Svizzera. Si ottiene presso il Ministero degli Affari Esteri spagnolo o presso i Delegati del Governo. Richiedila in anticipo perché può richiedere diversi giorni.
+                </div>
+
+                <h2>Termini importanti</h2>
+                <ul>
+                    <li><strong>Cittadini UE con Permesso B:</strong> Entro 5 anni dal conseguimento del permesso.</li>
+                    <li><strong>Titolari di Permesso C:</strong> Senza limite di tempo.</li>
+                </ul>
+                <p>Il processo richiede tra 4 e 12 settimane a seconda del cantone e del carico di lavoro.</p>
+
+                <h2>Quale permesso ricevono i familiari?</h2>
+                <ul>
+                    <li>Principale con Permesso B → familiari ottengono Permesso B.</li>
+                    <li>Principale con Permesso C → familiari ottengono Permesso C.</li>
+                </ul>
+                <p><strong>Diritto a lavorare:</strong> Sì. Il coniuge ha pieno diritto a lavorare con il permesso ottenuto. I figli accedono automaticamente al sistema scolastico pubblico svizzero.</p>
+
+                <div class="callout tip">
+                    <strong>Consiglio pratico:</strong> Se devi cercare un appartamento più grande per soddisfare il requisito di abitazione adeguata, fallo prima di presentare la domanda. È uno dei motivi più comuni di ritardo nel processo.
+                </div>
+            </div>
+        `
     },
+
 
     "articulo-subalquiler": {
         title: "Subaffitto di una stanza o appartamento in Svizzera: guida legale",
@@ -1387,7 +1623,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 
     "articulo-jubilacion": {
         title: "Pensione in Svizzera: cosa aspettarsi (AVS/AHV, LPP/BVG)",
-        description: "Sistema dei 3 pilastri spiegato in modo semplice e perché l’età di arrivo (30/40/50) cambia le prospettive.",
+        description: "Sistema dei 3 pilastri spiegato in modo semplice e perché l'età di arrivo (30/40/50) cambia le prospettive.",
         keywords: "pensione svizzera AVS, LPP previdenza professionale, pilastro 3a, rendita vecchiaia",
         featuredImage: "media/guides/jubilacion-pension-suiza.jpg",
         category: "Previdenza Sociale",
@@ -1399,7 +1635,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 </div>
 <div class="contenuto-articolo">
 <h2>Pilastro 1: AVS/AHV</h2>
-<p>Pensione statale di base. Anni mancanti possono ridurre l’importo.</p>
+<p>Pensione statale di base. Anni mancanti possono ridurre l'importo.</p>
 
 <h2>Pilastro 2: LPP/BVG</h2>
 <p>Previdenza professionale tramite datore di lavoro.</p>
@@ -1417,7 +1653,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         category: "Procedure Ordinarie",
         hub: "tramites",
         readingTime: 4,
-        summary: "È possibile in alcuni casi, ma devi dimostrare risorse economiche e un’assicurazione sanitaria adeguata e registrarti ufficialmente.",
+        summary: "È possibile in alcuni casi, ma devi dimostrare risorse economiche e un'assicurazione sanitaria adeguata e registrarti ufficialmente.",
         content: `<div class="page-header">
 <h1>Residenza in Svizzera senza contratto di lavoro</h1>
 </div>
@@ -1432,13 +1668,13 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 
     "articulo-ai-invalidez": {
         title: "Assicurazione invalidità (AI/IV) in Svizzera: reinserimento prima della rendita",
-        description: "Come funziona l’AI/IV: priorità a riabilitazione e reinserimento lavorativo; la rendita arriva solo se necessario.",
+        description: "Come funziona l'AI/IV: priorità a riabilitazione e reinserimento lavorativo; la rendita arriva solo se necessario.",
         keywords: "AI IV svizzera, invalidità, reinserimento, rendita invalidità",
         featuredImage: "media/guides/seguro-invalidez-ai-suiza.jpg",
         category: "Assicurazioni Sociali",
         hub: "salud",
         readingTime: 4,
-        summary: "Il principio è «reinserimento prima della rendita». L’AI finanzia misure di riabilitazione e adattamenti per tornare al lavoro.",
+        summary: "Il principio è «reinserimento prima della rendita». L'AI finanzia misure di riabilitazione e adattamenti per tornare al lavoro.",
         content: `<div class="page-header">
 <h1>AI/IV in Svizzera: supporto e reinserimento</h1>
 </div>
@@ -1457,97 +1693,378 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
 
     "articulo-vacunas": {
         title: "Vaccini in Svizzera: raccomandazioni, non obblighi",
-        description: "In generale non sono obbligatori per legge, ma sono raccomandati dall’Ufficio federale della sanità pubblica (UFSP/BAG).",
+        description: "In generale non sono obbligatori per legge, ma sono raccomandati dall'Ufficio federale della sanità pubblica (UFSP/BAG).",
         keywords: "vaccini svizzera, calendario vaccinale UFSP BAG, encefalite da zecche",
         featuredImage: "media/guides/vacunacion-en-suiza.jpg",
         category: "Salute Pubblica",
         hub: "salud",
         readingTime: 4,
-        summary: "Il sistema svizzero si basa soprattutto su raccomandazioni ufficiali e scelta informata. L’encefalite da zecche è spesso evidenziata per chi fa attività all’aperto.",
+        summary: "Il sistema svizzero si basa soprattutto su raccomandazioni ufficiali e scelta informata. L'encefalite da zecche è spesso evidenziata per chi fa attività all'aperto.",
         content: `<div class="page-header">
 <h1>Vaccinazioni in Svizzera</h1>
 </div>
 <div class="contenuto-articolo">
-<p>In Svizzera i vaccini sono in genere <strong>non obbligatori per legge</strong>. L’UFSP/BAG pubblica un calendario raccomandato.</p>
+<p>In Svizzera i vaccini sono in genere <strong>non obbligatori per legge</strong>. L'UFSP/BAG pubblica un calendario raccomandato.</p>
 
 <ul>
   <li>Vaccini standard (DTP, polio, MPR, ecc.)</li>
   <li><strong>Encefalite da zecche (FSME/TBE):</strong> spesso raccomandata in alcune zone e per attività outdoor</li>
 </ul>
 
-<p>I vaccini raccomandati sono generalmente coperti dall’assicurazione di base, secondo franchigia/deduzione.</p>
+<p>I vaccini raccomandati sono generalmente coperti dall'assicurazione di base, secondo franchigia/deduzione.</p>
 </div>`
     },
 
     "articulo-danza-patos": {
-        title: "Curiosità: la “Danza dei anatroccoli” è di origine svizzera",
-        description: "La storia di “Der Ententanz”, melodia nata in Svizzera e diventata un classico mondiale delle feste.",
+        title: "Curiosità: la \"Danza dei anatroccoli\" è di origine svizzera",
+        description: "La storia di \"Der Ententanz\", melodia nata in Svizzera e diventata un classico mondiale delle feste.",
         keywords: "danza dei anatroccoli origine svizzera, der ententanz, werner thomas davos",
         featuredImage: "media/guides/origen-danza-de-los-patos-suiza.jpg",
         category: "Cultura e Vita",
         hub: "vivir-en-suiza",
         readingTime: 3,
-        summary: "La famosa melodia fu composta da Werner Thomas, fisarmonicista svizzero, alla fine degli anni ’50 nella zona di Davos.",
+        summary: "La famosa melodia fu composta da Werner Thomas, fisarmonicista svizzero, alla fine degli anni '50 nella zona di Davos.",
         content: `<div class="page-header">
-<h1>L’origine svizzera della Danza degli anatroccoli</h1>
+<h1>L'origine svizzera della Danza degli anatroccoli</h1>
 </div>
 <div class="contenuto-articolo">
-<p>Molti l’hanno sentita a matrimoni e sagre. Ma <strong>“Der Ententanz”</strong> ha radici svizzere.</p>
-<p>La melodia è attribuita a <strong>Werner Thomas</strong> e si è diffusa nel mondo con molte versioni negli anni ’70 e ’80.</p>
+<p>Molti l'hanno sentita a matrimoni e sagre. Ma <strong>"Der Ententanz"</strong> ha radici svizzere.</p>
+<p>La melodia è attribuita a <strong>Werner Thomas</strong> e si è diffusa nel mondo con molte versioni negli anni '70 e '80.</p>
 </div>`
     },
 
     "articulo-introduccion-suiza": {
-        title: "Come funziona la Svizzera: essenziale per nuovi residenti",
-        description: "Introduzione pratica: federalismo, 26 cantoni, democrazia diretta, lingue e perché il cantone in cui vivi cambia tasse, scuola e pratiche.",
-        keywords: "come funziona la svizzera, cantoni, federalismo, democrazia diretta, lingue svizzera",
-        audience: "newcomer",
-        featuredImage: "media/guides/integracion-suiza.png",
-        category: "Paese",
-        hub: "vivir-en-suiza",
-        readingTime: 7,
-        summary: "La Svizzera è molto federale: cantoni e comuni hanno autonomia. Molte regole quotidiane dipendono dal luogo di residenza.",
-        content: `<div class="page-header">
-<h1>Come funziona la Svizzera (in modo semplice)</h1>
-</div>
-<div class="contenuto-articolo">
-<p>La Svizzera è un paese <strong>federale</strong>: cantoni e comuni hanno competenze reali. Questo influisce su tasse, scuola e procedure.</p>
+        featuredImage: "media/guides/introduccion-suiza-como-funciona.png",
+        title: "Come funziona la Svizzera: guida completa per i nuovi residenti",
+        description: "Guida completa sulla Svizzera: organizzazione federale, 26 cantoni, sistema politico, 4 lingue, differenze regionali, educazione e vita quotidiana. Essenziale prima di trasferirsi.",
+        keywords: "svizzera come funziona, cantoni svizzera, federalismo, democrazia diretta, lingue svizzera, sistema scolastico svizzero, differenze cantoni",
+        audience: 'newcomer',
+        category: 'Paese',
+        hub: 'vivir-en-suiza',
+        slug: "introduzione-svizzera-come-funziona",
+        readingTime: 10,
+        dateUpdated: "Marzo 2026",
+        summary: "La Svizzera non è un paese convenzionale. È una Confederazione di 26 cantoni autonomi, 4 lingue ufficiali, democrazia diretta e un federalismo che influisce sulla tua vita quotidiana dal primo giorno.",
+        imageAlt: "Persone che si integrano nella comunità svizzera davanti a edifici pubblici",
+        content: `
+            <div class="article-content">
+                <p>Se stai pensando di trasferirti in Svizzera, o sei appena arrivato, capire come funziona il paese è il primo passo. La Svizzera non funziona come la Spagna, né come la Francia, né come nessun altro paese europeo. Il suo sistema politico, la sua organizzazione territoriale e la sua cultura amministrativa sono unici — e influiscono sulla tua vita quotidiana dal momento in cui firmi un contratto, scegli un'assicurazione medica o ti registri nel comune.</p>
 
-<h2>Perché ti riguarda subito</h2>
-<ul>
-  <li><strong>Tasse:</strong> variano molto tra cantoni e comuni</li>
-  <li><strong>Scuola:</strong> organizzazione principalmente cantonale</li>
-  <li><strong>Amministrazione:</strong> pratiche e tempi possono cambiare</li>
-</ul>
+                <div class="callout info">
+                    <strong>Perché è importante capire l'organizzazione del paese?</strong> Perché in Svizzera, le regole delle imposte, delle assicurazioni, della scolarità e delle procedure di residenza <strong>dipendono dal cantone in cui vivi</strong>, non solo dal governo federale.
+                </div>
 
-<h2>Lingue</h2>
-<p>Quattro lingue nazionali: tedesco, francese, italiano, romancio.</p>
-</div>`
+                <h2>La Svizzera in cifre</h2>
+                <ul>
+                    <li><strong>Capitale:</strong> Berna (sede del governo federale)</li>
+                    <li><strong>Superficie:</strong> 41.285 km²</li>
+                    <li><strong>Popolazione:</strong> ~8,9 milioni di abitanti</li>
+                    <li><strong>Moneta:</strong> Franco svizzero (CHF)</li>
+                    <li><strong>Confini:</strong> Germania (nord), Austria e Liechtenstein (est), Italia (sud), Francia (ovest)</li>
+                    <li><strong>Organizzazione:</strong> Confederazione Elvetica — 26 cantoni autonomi</li>
+                    <li><strong>Lingue nazionali:</strong> Tedesco, Francese, Italiano, Romancio</li>
+                    <li><strong>Membro delle Nazioni Unite e EFTA</strong>, ma <strong>non dell'Unione Europea</strong></li>
+                </ul>
+
+                <h2 id="organizzazione">Sezione 1 — Cantoni e organizzazione territoriale</h2>
+
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/mapa-politico-cantones.png"
+                         alt="Mappa politica della Svizzera con i 26 cantoni e i tre livelli di governo"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Ogni cantone ha una storia e competenze proprie all'interno dello Stato federale svizzero.
+                    </figcaption>
+                </figure>
+
+                <p>La Svizzera è una <strong>Confederazione Elvetica</strong> formata da <strong>26 cantoni</strong>. Questa struttura esiste dal XIII secolo ed è la ragione per cui il paese ha un funzionamento così peculiare. Ogni cantone è, in essenza, un mini-stato con il proprio governo, il proprio parlamento e le proprie leggi.</p>
+
+                <p>La struttura amministrativa ha tre livelli:</p>
+                <ul>
+                    <li><strong>Confederazione (livello federale):</strong> Il governo federale con sede a Berna. Gestisce la politica estera, la difesa, la moneta, il diritto civile e costituzionale, e le grandi linee della legislazione comuni a tutto il paese.</li>
+                    <li><strong>Cantoni (26):</strong> Unità autonome con ampia competenza in fiscalità, educazione, sanità, polizia e amministrazione locale. "Cantone" equivale a una regione o comunità autonoma, ma con molto più potere che nella maggior parte dei paesi.</li>
+                    <li><strong>Comuni (più di 2.000 municipalità):</strong> Il livello più vicino al cittadino. Gestiscono il registro degli abitanti (Contrôle des habitants), le imposte locali, i servizi di prossimità e alcune competenze educative.</li>
+                </ul>
+
+                <div class="callout">
+                    <strong>Esempio pratico:</strong> Quando arrivi in Svizzera, non ti registri nello Stato. Ti registri nel <em>tuo comune</em> (municipio). Da lì, ti iscrivono, gestiscono il tuo permesso di residenza e determinano parte delle tue imposte.
+                </div>
+
+                <p>I 26 cantoni sono, in ordine di ingresso nella Confederazione: Uri, Svitto, Obvaldo, Nidvaldo, Glarona, Zugo, Friburgo, Soletta, Basilea-Città, Basilea-Campagna, Sciaffusa, Appenzello Esteriori, Appenzello Interiori, San Gallo, Grigioni, Argovia, Turgovia, Ticino, Vaud, Vallese, Neuchâtel, Ginevra, Giura, Berna, Lucerna e Zurigo.</p>
+
+                <p><a href="https://www.ch.ch/en/cantons/" target="_blank" rel="noopener noreferrer">→ Vedi i portali ufficiali dei 26 cantoni su ch.ch</a></p>
+
+                <h2 id="politica">Sezione 2 — Sistema politico svizzero</h2>
+
+                <p>La Svizzera possiede una delle democrazie più partecipative del mondo. I cittadini non solo eleggono rappresentanti: <strong>votano direttamente sulle leggi</strong>, diverse volte all'anno.</p>
+
+                <h3>Democrazia diretta</h3>
+                <p>Quattro volte all'anno, gli svizzeri sono convocati per votare nei <strong>referendum</strong>. Questi possono influenzare dall'aumento dell'imposta sul tabacco fino a grandi riforme costituzionali. Non è solo simbolico: i risultati sono vincolanti e possono annullare le leggi approvate dal parlamento.</p>
+
+                <h3>Iniziative popolari</h3>
+                <p>Se 100.000 cittadini raccolgono firme in 18 mesi, possono proporre un cambio della Costituzione federale. Il popolo vota e, se c'è una maggioranza, il cambio si incorpora. Questo strumento ha modellato decisioni importanti come l'adozione della giornata lavorativa di 42 ore o il divieto di minareti (2009).</p>
+
+                <h3>Referendum facoltativo</h3>
+                <p>Se 50.000 cittadini raccolgono firme in 100 giorni contro una legge approvata dal parlamento, quella legge deve essere sottoposta a votazione popolare. È il principale freno del popolo sul legislativo.</p>
+
+                <h3>Il Consiglio Federale (governo)</h3>
+                <p>La Svizzera non ha un presidente con potere esecutivo forte. Il governo è un collegio di <strong>7 consiglieri federali</strong>, eletti dal parlamento per periodi di 4 anni. Le decisioni si prendono per consenso. La presidenza della Confederazione ruota ogni anno tra i membri del Consiglio (è una carica principalmente cerimoniale).</p>
+
+                <div class="callout info">
+                    <strong>Nota per residenti stranieri:</strong> Come residente non naturalizzato, non puoi votare nelle elezioni federali. Tuttavia, alcuni cantoni come Neuchâtel, Vaud o Giura consentono di partecipare alle votazioni locali e comunali una volta soddisfatti i requisiti di residenza.
+                </div>
+
+                <h2 id="lingue">Sezione 3 — Le 4 lingue della Svizzera</h2>
+
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/lenguas-suiza.png"
+                         alt="Mappa linguistica della Svizzera con le 4 regioni di lingue ufficiali: tedesco, francese, italiano e romancio"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Mappa linguistica della Svizzera. La lingua che avrai bisogno dipende dal cantone dove ti insedierai.
+                    </figcaption>
+                </figure>
+
+                <p>La Svizzera ha <strong>4 lingue nazionali</strong>. La lingua che userai nella tua vita quotidiana, al lavoro e nell'amministrazione dipende direttamente da dove vivi.</p>
+
+                <h3>🇩🇪 Tedesco — Svizzera tedesca (Deutschschweiz)</h3>
+                <p>Lo parlano in circa <strong>17-18 cantoni</strong>, rappresentando il 63% della popolazione. Ma c'è un dettaglio importante: nella vita quotidiana, gli svizzeri parlano <em>Schweizerdeutsch</em>, un dialetto orale che non è il tedesco standard. Lo capiscono ma praticamente non lo scrivono. I testi ufficiali, i contratti e le lettere si redigono in <em>Hochdeutsch</em> (tedesco standard).</p>
+                <p>Se ti insedi a Zurigo, Berna, Basilea, Lucerna o nella maggior parte dei cantoni del centro e dell'est del paese, il tedesco è indispensabile.</p>
+
+                <h3>🇫🇷 Francese — La Romandia</h3>
+                <p>Lo parlano approssimativamente il <strong>23% della popolazione</strong>, nei cantoni di Ginevra, Vaud, Neuchâtel, Giura, e in maniera principale in Vallese e parte di Friburgo e Berna. Questa regione si chiama informalmente <em>La Romandia</em>. Il francese svizzero è quasi identico al francese standard (con alcune differenze lessicali, come <em>septante</em> al posto di <em>soixante-dix</em>).</p>
+
+                <h3>🇮🇹 Italiano — Il Ticino</h3>
+                <p>Lo parlano l'<strong>8% della popolazione</strong>, principalmente nel cantone del Ticino e in alcuni valui dei Grigioni. È l'unico cantone completamente italofono e ha una personalità culturale molto distinta dal resto del paese.</p>
+
+                <h3>🏔️ Romancio</h3>
+                <p>Lingua reto-romanza parlata da approssimativamente lo <strong>0,5%</strong> della popolazione, in parti del cantone dei Grigioni (Graubünden). Ha lo status di lingua nazionale ma il suo uso amministrativo è limitato alle regioni dove si parla.</p>
+
+                <h3>Cantoni bilingui e trilingui</h3>
+                <ul>
+                    <li><strong>Friburgo (FR):</strong> Bilingue francese/tedesco. L'amministrazione opera in entrambe le lingue.</li>
+                    <li><strong>Berna (BE):</strong> Principalmente tedesco, con una minoranza francofona nel Giura bernese.</li>
+                    <li><strong>Vallese (VS):</strong> Bilingue francese/tedesco a seconda della zona.</li>
+                    <li><strong>Grigioni (GR):</strong> Trilingue tedesco/romancio/italiano. Unico cantone con 3 lingue ufficiali.</li>
+                </ul>
+
+                <div class="callout">
+                    <strong>Consiglio pratico:</strong> Imparare la lingua del cantone dove vivi è l'investimento più importante che puoi fare. In Svizzera, la lingua non è solo comunicazione: è integrazione, occupazione e accesso a tutti i servizi. Molti datori di lavoro la richiedono anche per posizioni di base.
+                </div>
+
+                <h2 id="cantones">Sezione 4 — Le differenze tra cantoni</h2>
+
+                <p>Questa sezione è essenziale per i neo-arrivati. In Svizzera, <strong>il cantone in cui vivi cambia quasi tutto</strong>. Non è un'esagerazione.</p>
+
+                <h3>Imposte</h3>
+                <p>È l'esempio più evidente. Il carico fiscale totale (federale + cantonale + comunale) può variare tra il <strong>15% e il 45%</strong> dello stipendio lordo, a seconda del cantone. Alcuni estremi:</p>
+                <ul>
+                    <li><strong>Zugo, Svitto, Nidvaldo:</strong> I cantoni più convenienti fiscalmente del paese. Attraggono molti imprenditori e persone ad alto reddito.</li>
+                    <li><strong>Ginevra, Vaud, Berna:</strong> Cantoni con maggiore pressione fiscale.</li>
+                </ul>
+                <p>La differenza tra vivere a Ginevra o a Zugo, guadagnando lo stesso stipendio, può significare migliaia di franchi all'anno in imposte.</p>
+                <p>→ <a href="#/imposta-fonte-svizzera">Leggi: Come funziona l'imposta alla fonte (Quellensteuer)</a></p>
+
+                <h3>Assicurazione medica (premi LAMal)</h3>
+                <p>L'assicurazione sanitaria è obbligatoria in tutta la Svizzera, ma i <strong>premi variano per cantone e per regione</strong>, anche con la stessa assicurazione. I premi più alti si trovano a Basilea-Città e Ginevra. I più bassi, ad Appenzello Interiori e Glarona.</p>
+                <p>→ <a href="#/seguro-medico-lamal-suiza">Leggi: L'assicurazione medica LAMal spiegata</a></p>
+
+                <h3>Educazione e scolarità</h3>
+                <p>Il sistema scolastico è nelle mani dei cantoni. Questo significa che il calendario scolastico, l'età di inizio dell'obbligo scolastico, i libri di testo, gli orari e le lingue che si insegnano variano significativamente. I cantoni si coordinano attraverso il Concordato HarmoS, ma le differenze persistono.</p>
+                <p>→ <a href="#/sistema-escolar-suiza">Leggi: Il sistema educativo svizzero</a></p>
+
+                <h3>Procedure di residenza e amministrazione</h3>
+                <p>La registrazione all'arrivo, i termini, i moduli e gli orari di apertura variano da un comune all'altro. Non c'è un processo uniforme per tutti gli stranieri: dipende da dove ti insedi.</p>
+                <p>→ <a href="#/registrarse-en-suiza">Leggi: Come registrarsi in Svizzera all'arrivo</a></p>
+
+                <div class="callout">
+                    <strong>Conclusione pratica:</strong> Prima di decidere in quale cantone insediarsi, investiga il carico fiscale, i premi dell'assicurazione medica e le offerte di lavoro nella zona. Sono decisioni che avranno un impatto importante sulla tua economia per anni.
+                </div>
+
+                <h2 id="educacion">Sezione 5 — Il sistema educativo svizzero</h2>
+
+                <p>Il sistema educativo svizzero è pubblico, gratuito e di alta qualità. Quello che lo distingue è il suo <strong>orientamento professionale precoce</strong> e il ruolo centrale dell'apprendistato duale nella formazione di tutta la popolazione attiva.</p>
+
+                <h3>Struttura generale (HarmoS)</h3>
+                <ul>
+                    <li><strong>Scuola dell'infanzia (2 anni):</strong> Obbligatoria a partire dai 4 anni nella maggior parte dei cantoni.</li>
+                    <li><strong>Scuola primaria (6 anni):</strong> Dai 6 ai 12 anni. Si introducono la seconda lingua nazionale e l'inglese.</li>
+                    <li><strong>Secondaria I (3 anni):</strong> Dai 12 ai 15 anni. Alla fine di questa fase avviene l'<strong>orientamento</strong>.</li>
+                </ul>
+
+                <h3>L'orientamento professionale (Secondaria II)</h3>
+                <p>A 15-16 anni, gli studenti si orientano verso una di due vie:</p>
+                <ol>
+                    <li><strong>Formazione professionale duale (CFC / EFZ):</strong> L'opzione maggioritaria. Più del 60% dei giovani svizzeri fanno un apprendistato in un'azienda (3-4 giorni/settimana in azienda + 1-2 giorni a scuola). Al termine, ottengono il Certificato Federale di Competenza (CFC). È una via molto rispettata e ben remunerata fin dall'inizio.</li>
+                    <li><strong>Via accademica (Maturità / Matura / Liceo):</strong> Per studenti con alte valutazioni accademiche. Prepara per l'università o per le Scuole Politecniche Federali (ETH Zurigo / EPFL Losanna), due delle migliori università del mondo.</li>
+                </ol>
+
+                <h3>Università</h3>
+                <p>La Svizzera conta con università pubbliche di primo livello a Zurigo (UZH), Berna, Basilea, Ginevra, Losanna e Neuchâtel. Le due scuole politecniche federali ETH Zurigo ed EPFL Losanna sono tra le migliori del mondo in scienze e ingegneria.</p>
+
+                <div class="callout info">
+                    <strong>Per famiglie neo-arrivate:</strong> Se hai figli in età scolare, registrali nella scuola pubblica del tuo comune dal primo mese. Il processo è gratuito e l'integrazione linguistica è gestita con supporto scolastico.
+                </div>
+
+                <h2 id="regiones">Sezione 6 — Differenze culturali e regionali</h2>
+
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/mapa-regiones-suiza.png"
+                         alt="Mappa delle regioni culturali e linguistiche della Svizzera con marcati Deutschschweiz, Romandia e Ticino"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        Le tre grandi regioni culturali della Svizzera hanno identità molto distinte.
+                    </figcaption>
+                </figure>
+
+                <p>Oltre ai confini amministrativi, la Svizzera ha tre grandi regioni culturali con identità molto marcate. Conoscerle ti aiuterà a capire le differenze di mentalità, ritmo di vita e aspettative sociali.</p>
+
+                <h3>🔵 Svizzera tedesca (Deutschschweiz)</h3>
+                <p>È la regione più grande e di maggior peso economico. Qui si concentrano le sedi dei grandi banche, assicurazioni e multinazionali (Zurigo, Basilea, Zugo). La cultura è più formale, puntuale e diretta. La puntualità è quasi una norma culturale. Il ritmo di vita può sembrare più freddo all'inizio, ma l'integrazione è possibile se c'è uno sforzo linguistico.</p>
+
+                <h3>🟢 La Romandia (Svizzera francofona)</h3>
+                <p>Comprende i cantoni di Ginevra, Vaud, Neuchâtel, Giura e parti di Vallese, Friburgo e Berna. L'atmosfera è più mediterranea rispetto alla Svizzera tedesca: più aperta, con una vita sociale più visibile negli spazi pubblici. Ginevra e Losanna sono città internazionali con un'enorme presenza di organizzazioni internazionali (ONU, OMS, Croce Rossa). Per gli ispanofoni, il francese risulta più accessibile del tedesco.</p>
+
+                <h3>🟡 Ticino (Svizzera italiana)</h3>
+                <p>Il cantone più a sud, con clima mediterraneo e paesaggi lacustri. La vita è più lenta e aperta. Il Ticino ha un'economia importante legata al turismo, ai servizi finanziari e alla vicinanza con l'Italia. Molti lavoratori che vivono in Italia incrociano quotidianamente per lavorare qui (frontaliers). Il costo della vita è leggermente inferiore a quello di Ginevra o Zurigo, ma gli stipendi possono essere più bassi in settori non specializzati.</p>
+
+                <h2>Riepilogo: quello che devi sapere prima di arrivare</h2>
+                <ul>
+                    <li>La Svizzera <strong>non appartiene all'UE</strong>, ha le sue proprie norme e accordi bilaterali.</li>
+                    <li>Ogni cantone funziona diversamente: investiga il tuo prima di insediar.ti</li>
+                    <li>La lingua del tuo cantone è cruciale per integrarsi: tedesco, francese o italiano a seconda della zona.</li>
+                    <li>La registrazione nel comune è la prima procedura che devi fare all'arrivo.</li>
+                    <li>L'assicurazione medica è obbligatoria dal primo giorno di residenza.</li>
+                    <li>La democrazia diretta fa sì che il cittadino abbia più peso e responsabilità che in altri paesi.</li>
+                </ul>
+
+                <h2>Articoli essenziali per i nuovi residenti</h2>
+                <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0.75rem; margin-top: 1rem;">
+                    <a href="#/registrarse-en-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">📋 Registrarsi in Svizzera</a>
+                    <a href="#/tramites-llegada-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🪪 Permessi di residenza</a>
+                    <a href="#/buscar-empleo-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💼 Cercare lavoro</a>
+                    <a href="#/seguro-medico-lamal-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🏥 Assicurazione medica LAMal</a>
+                    <a href="#/alquilar-vivienda-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🏠 Affittare abitazione</a>
+                    <a href="#/impuesto-fuente-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💰 Imposte in Svizzera</a>
+                    <a href="#/sistema-escolar-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">🎓 Sistema educativo</a>
+                    <a href="#/presupuesto-suiza" style="padding: 0.75rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-light); border-radius: var(--radius-sm); text-decoration: none; color: var(--text-primary); font-weight: 500; transition: border-color 0.2s;" onmouseover="this.style.borderColor='var(--swiss-red)'" onmouseout="this.style.borderColor='var(--border-light)'">💶 Costo della vita</a>
+                </div>
+            </div>
+        `
     },
+
 
     "articulo-cantones": {
-        title: "I 26 cantoni svizzeri: cosa cambia da un cantone all’altro",
-        description: "I cantoni non sono solo regioni: influenzano tasse, scuola e molte pratiche. Guida rapida per nuovi residenti.",
-        keywords: "26 cantoni svizzera, differenze cantonali, tasse cantoni, scuola cantone",
-        audience: "newcomer",
-        featuredImage: "media/guides/cantones-suiza.jpg",
-        category: "Organizzazione Territoriale",
-        hub: "vivir-en-suiza",
-        readingTime: 6,
-        summary: "Scegliere un cantone significa scegliere molte regole: fiscalità, scuola e amministrazione possono variare notevolmente.",
-        content: `<div class="page-header">
-<h1>I cantoni della Svizzera: cosa sapere</h1>
-</div>
-<div class="contenuto-articolo">
-<h2>Cosa varia spesso</h2>
-<ul>
-  <li>Carico fiscale e deduzioni</li>
-  <li>Sistema scolastico e calendario</li>
-  <li>Pratiche amministrative (appuntamenti, moduli, tempi)</li>
-  <li>Lingua/e ufficiali</li>
-</ul>
-</div>`
+        title: "I 26 cantoni della Svizzera: mappa, capitali e lingue",
+        description: "Guida completa dei 26 cantoni svizzeri: mappa politica, capitale, lingua ufficiale e particolarità. Essenziale per capire la Svizzera prima di trasferirsi.",
+        keywords: "cantoni svizzera, mappa cantoni svizzera, 26 cantoni, cantone svizzero, differenze cantoni",
+        audience: 'newcomer',
+        category: 'Paese',
+        hub: 'vivir-en-suiza',
+        slug: "cantoni-svizzeri",
+        readingTime: 8,
+        dateUpdated: "Marzo 2026",
+        featuredImage: "media/guides/cantones-suiza.png",
+        imageAlt: "Mappa politica della Svizzera con i 26 cantoni etichettati e il colore per regione linguistica",
+        summary: "La Svizzera è divisa in 26 cantoni, ognuno con storia, cultura, lingua e governi propri. Conoscerli è essenziale per capire come la Svizzera funziona e dove potrai vivere.",
+        content: `
+            <div class="article-content">
+                <h2>Introduzione</h2>
+                <p>La Svizzera è una Confederazione di 26 cantoni autogovernarsi. Ognuno ha il proprio governo, parlamento, sistema di imposte e leggi (nei limiti della Costituzione federale). Per i nuovi residenti, capire ogni cantone è vitale: perché il tuo cantone determinà molti aspetti della tua vita (imposte, assicurazione medica, lingue, scuola, amministrazione).</p>
+
+                <h2>Mappa dei 26 cantoni</h2>
+                <figure style="margin: 1.5rem 0; text-align: center;">
+                    <img src="media/guides/cantones-suiza.png"
+                         alt="Mappa politica della Svizzera con i 26 cantoni"
+                         style="max-width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border-light);"
+                         loading="lazy">
+                    <figcaption style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-light);">
+                        I 26 cantoni della Svizzera: ognuno autonomo ma unito federalmente.
+                    </figcaption>
+                </figure>
+
+                <h2>I 26 cantoni in ordine alfabetico</h2>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                    <div>
+                        <h3>Svizzera tedesca</h3>
+                        <ul>
+                            <li><strong>Appenzello Esteriori (AR)</strong> — Capitale: Herisau. Tedesco. Cantone tradizionale.</li>
+                            <li><strong>Appenzello Interiori (AI)</strong> — Capitale: Appenzello. Tedesco. Rinomat per democrazia diretta.</li>
+                            <li><strong>Argovia (AG)</strong> — Capitale: Aarau. Tedesco. Altamente popolato.</li>
+                            <li><strong>Basilea-Campagna (BL)</strong> — Capitale: Liesthal. Tedesco. Agricoltura e industria.</li>
+                            <li><strong>Basilea-Città (BS)</strong> — Capitale: Basilea. Tedesco. Centro finanziario importante.</li>
+                            <li><strong>Berna (BE)</strong> — Capitale: Berna. Tedesco/Francese. Capitale federale, secondo cantone per grandezza.</li>
+                            <li><strong>Glarona (GL)</strong> — Capitale: Glarona. Tedesco. Cantone montano, minore per popolazione.</li>
+                            <li><strong>Grigioni (GR)</strong> — Capitale: Coira. Tedesco/Romancio/Italiano. Cantone più grande per area, montuoso.</li>
+                            <li><strong>Lucerna (LU)</strong> — Capitale: Lucerna. Tedesco. Cantone centrale importante.</li>
+                            <li><strong>Nidvaldo (NW)</strong> — Capitale: Stans. Tedesco. Piccolo cantone, tax-friendly.</li>
+                            <li><strong>Obvaldo (OW)</strong> — Capitale: Sarnen. Tedesco. Minore, tradizionale.</li>
+                            <li><strong>San Gallo (SG)</strong> — Capitale: San Gallo. Tedesco. Industria tessile storica.</li>
+                            <li><strong>Sciaffusa (SH)</strong> — Capitale: Sciaffusa. Tedesco. Nord della Svizzera, vicino a Germania.</li>
+                            <li><strong>Soletta (SO)</strong> — Capitale: Soletta. Tedesco. Confina con Francia.</li>
+                            <li><strong>Svitto (SZ)</strong> — Capitale: Schwyz. Tedesco. Piccolo, tax-friendly, culturalmente tradizionale.</li>
+                            <li><strong>Turgovia (TG)</strong> — Capitale: Frauenfeld. Tedesco. Agricola, sul Lago di Costanza.</li>
+                            <li><strong>Uri (UR)</strong> — Capitale: Altdorf. Tedesco. Montano, storico, piccolo.</li>
+                            <li><strong>Zurigo (ZH)</strong> — Capitale: Zurigo. Tedesco. Più grande e ricco, centro economico principale.</li>
+                            <li><strong>Zugo (ZG)</strong> — Capitale: Zugo. Tedesco. Piccolo, tax paradise, molto ricco.</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>Romandia (Francese)</h3>
+                        <ul>
+                            <li><strong>Friburgo (FR)</strong> — Capitale: Friburgo. Francese/Tedesco. Bilingue, carattere latino.</li>
+                            <li><strong>Ginevra (GE)</strong> — Capitale: Ginevra. Francese. Sede di organizzazioni internazionali.</li>
+                            <li><strong>Giura (JU)</strong> — Capitale: Delémont. Francese. Più giovane cantone (1979), indipendentista.</li>
+                            <li><strong>Neuchâtel (NE)</strong> — Capitale: Neuchâtel. Francese. Horlogers, ha salario minimo.</li>
+                            <li><strong>Vallese (VS)</strong> — Capitale: Sitten. Francese/Tedesco. Montuoso, turismo.</li>
+                            <li><strong>Vaud (VD)</strong> — Capitale: Losanna. Francese. Secondo cantone per grandezza, ONU.</li>
+                        </ul>
+
+                        <h3>Ticino (Italiano)</h3>
+                        <ul>
+                            <li><strong>Ticino (TI)</strong> — Capitale: Bellinzona. Italiano. Sud della Svizzera, clima temperato.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h2>Mappa linguistica</h2>
+                <p>La Svizzera ha 4 lingue nazionali. La tua principale dipenderà dal cantone:</p>
+                <ul>
+                    <li><strong>Tedesco:</strong> Dominante nella Svizzera settentrionale, centrale e orientale (circa 63% della popolazione).</li>
+                    <li><strong>Francese:</strong> Romandia occidentale (circa 23%).</li>
+                    <li><strong>Italiano:</strong> Ticino e alcuni valui dei Grigioni (circa 8%).</li>
+                    <li><strong>Romancio:</strong> Parti dei Grigioni orientali (meno dell'1%).</li>
+                </ul>
+
+                <h2>Cantoni con reddito pro capite e fiscalità varieI</h2>
+                <ul>
+                    <li><strong>Più ricchi (fiscalità bassa):</strong> Zurigo, Zugo, Svitto, Nidvaldo, Basilea-Città.</li>
+                    <li><strong>Reddito medio-alto:</strong> Grigioni, San Gallo, Appenzello Esteriori.</li>
+                    <li><strong>Fiscalità media-alta:</strong> Ginevra, Vaud, Neuchâtel, Friburgo.</li>
+                    <li><strong>Cantoni minori:** Uri, Obvaldo, Glarona — generalmente con population bassa e economie locali.</li>
+                </ul>
+
+                <div class="callout info">
+                    <strong>Consiglio per neo-arrivati:</strong> Prima di scegliere un cantone, ricerca:
+                    <ul>
+                        <li>La lingua principale (parlerai tedesco? francese? italiano?)</li>
+                        <li>Opportunità di lavoro nel tuo settore.</li>
+                        <li>Costo della vita (affitto, assicurazione medica, imposte).</li>
+                        <li>Se hai figli, qualità del sistema scolastico locale.</li>
+                    </ul>
+                </div>
+
+                <h2>Riferimenti ufficiali</h2>
+                <ul>
+                    <li><a href="https://www.ch.ch/" target="_blank" rel="noopener noreferrer">ch.ch — Portale ufficiale della Svizzera con link a tutti i cantoni</a></li>
+                </ul>
+            </div>
+        `
     },
+
 
     "articulo-lenguas": {
         title: "Le lingue in Svizzera: Tedesco, Francese, Italiano e Romancio",
@@ -1606,66 +2123,142 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
     },
 
     "articulo-consulados": {
-        title: "Consolati spagnoli in Svizzera: dove sono e cosa fanno",
-        description: "Guida ai consolati spagnoli (Ginevra, Berna, Zurigo): servizi, iscrizione consolare, passaporti/DNI e appuntamenti.",
-        keywords: "consolato spagnolo svizzera, iscrizione consolare, rinnovo passaporto",
-        audience: "newcomer",
-        featuredImage: "media/guides/consulados-espanoles-suiza.jpg",
-        category: "Risorse",
-        hub: "tramites",
+        title: "Consolati spagnoli in Svizzera: dove si trovano e quali servizi forniscono",
+        description: "Guida completa dei tre consolati spagnoli in Svizzera (Ginevra, Berna, Zurigo): servizi, appuntamenti, passaporti, registro consolare.",
+        keywords: "consolato spagnolo svizzera, consolato ginevra, consolato zurigo, consolato berna, registro consolare, passaporto svizzera, MAE",
+        audience: 'newcomer',
+        category: 'Risorse Ufficiali',
+        hub: 'tramites',
+        slug: "consolati-spagna-svizzera",
         readingTime: 5,
-        summary: "Se sei cittadino spagnolo residente in Svizzera, l’iscrizione consolare è fondamentale. Prenota gli appuntamenti con largo anticipo.",
-        content: `<div class="page-header">
-<h1>Consolati spagnoli in Svizzera</h1>
-</div>
-<div class="contenuto-articolo">
-<h2>Indirizzi e telefoni</h2>
-<ul>
-  <li><strong>Ginevra:</strong> Avenue Blanc 53, 1202 Ginevra<br><strong>Telefono:</strong> +41 22 749 14 60</li>
-  <li><strong>Berna:</strong> Marienstrasse 12, 3005 Berna<br><strong>Telefono:</strong> +41 31 356 22 20</li>
-  <li><strong>Zurigo:</strong> Riedtlistrasse 17, 8006 Zurigo<br><strong>Telefono:</strong> +41 44 368 61 00</li>
-</ul>
+        dateUpdated: "Marzo 2026",
+        summary: "La Spagna ha tre consolati in Svizzera: Ginevra, Berna e Zurigo. La registrazione consolare è la prima procedura che devi fare all'arrivo. Senza di essa, non puoi rinnovare il passaporto né votare.",
+        featuredImage: "media/guides/consulados-espanoles-suiza.png",
+        imageAlt: "Sede di un consolato spagnolo in Svizzera con la bandiera ufficiale",
+        content: `
+            <div class="article-content">
+                <p>Se sei un cittadino spagnolo che vive in Svizzera, il consolato è la tua finestra ufficiale per tutti i procedimenti che collegano la tua vita all'estero con l'amministrazione spagnola. Ci sono tre consolati generali della Spagna in Svizzera, e devi recarti a quello che corrisponde al tuo cantone di residenza.</p>
 
-<h2>Servizi principali</h2>
-<ul>
-  <li>Iscrizione consolare (RECA/CERA)</li>
-  <li>Passaporto e DNI (di solito su appuntamento)</li>
-  <li>Stato civile</li>
-  <li>Assistenza in emergenza</li>
-</ul>
+                <div class="callout info">
+                    <strong>Primo passo obbligatorio:</strong> Al trasferirti in Svizzera, il procedimento più importante è <strong>iscriverti nel Registro di Matricola Consolare</strong>. Senza questa registrazione, non potrai rinnovare il tuo DNI o passaporto, né votare alle elezioni spagnole dall'estero.
+                </div>
 
-<h2>Appuntamenti</h2>
-<p>Per la maggior parte delle pratiche serve un appuntamento. Consulta le pagine ufficiali per istruzioni aggiornate:</p>
-<ul>
-  <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Consolato a Ginevra</a></li>
-  <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Consolato a Berna</a></li>
-  <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Consolato a Zurigo</a></li>
-</ul>
-</div>`
+                <h2>I 3 consolati spagnoli in Svizzera</h2>
+
+                <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr)); gap:1.25rem; margin:1.5rem 0;">
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consolato Generale a Ginevra</h3>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantoni:</strong> Ginevra, Vaud, Vallese, Friburgo, Neuchâtel, Giura</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Indirizzo:</strong> Avenue Blanc 53, 1202 Ginevra</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Telefono:</strong><br>+41 22 749 14 60</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portale ufficiale →</a>
+                    </div>
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consolato Generale a Berna</h3>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantoni:</strong> Berna, Soletta, Friburgo (parte), Vallese (parte)</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Indirizzo:</strong> Marienstrasse 12, 3005 Berna</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Telefono:</strong><br>+41 31 356 22 20</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portale ufficiale →</a>
+                    </div>
+                    <div style="background:var(--bg-surface); border:1px solid var(--border-light); border-radius:var(--radius-sm); padding:1.25rem;">
+                        <h3 style="margin-top:0; color:var(--swiss-red);">🏛️ Consolato Generale a Zurigo</h3>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Cantoni:</strong> Zurigo, Argovia, Basilea, Lucerna, San Gallo, Grigioni, Sciaffusa, Turgovia, Ticino, Zugo e altri</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Indirizzo:</strong> Riedtlistrasse 17, 8006 Zurigo</p>
+                        <p style="font-size:0.9rem; margin:0.5rem 0;"><strong>Telefono:</strong><br>+41 44 368 61 00</p>
+                        <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:0.75rem; padding:0.5rem 1rem; background:var(--swiss-red); color:white; border-radius:var(--radius-sm); text-decoration:none; font-size:0.85rem;">Portale ufficiale →</a>
+                    </div>
+                </div>
+
+                <h2>Quali procedure puoi fare al consolato?</h2>
+
+                <h3>Registrazione di Matricola Consolare (RECA)</h3>
+                <p>È la <strong>prima procedura che devi fare</strong> quando ti insedi in Svizzera. Serve per iscriverti formalmente come residente spagnolo all'estero. Da questa registrazione:</p>
+                <ul>
+                    <li>Puoi rinnovare il tuo DNI e passaporto dalla Svizzera.</li>
+                    <li>Puoi esercitare il tuo diritto di voto alle elezioni spagnole (CERA — Censo Electoral de Residentes Ausentes).</li>
+                    <li>L'amministrazione spagnola ha la certezza del tuo luogo di residenza.</li>
+                </ul>
+                <p>La registrazione è gratuita. Avrai bisogno di: passaporto o DNI in vigore, prova di residenza in Svizzera (contratto di affitto, registrazione del comune) e in alcuni casi il permesso di residenza svizzero.</p>
+
+                <h3>DNI e Passaporto</h3>
+                <p>Puoi rinnovare o richiedere il tuo DNI e passaporto al consolato della tua demarcazione. È <strong>indispensabile richiedere un appuntamento in anticipo</strong> attraverso il portale di prenotazione del Ministero degli Affari Esteri. I tempi di attesa possono essere di diverse settimane, specialmente a Ginevra e Zurigo.</p>
+
+                <div class="callout">
+                    <strong>Consiglio:</strong> Richiedi l'appuntamento con almeno 2-3 mesi di anticipo rispetto alla scadenza del tuo documento. Non aspettare l'ultimo momento.
+                </div>
+
+                <h3>Registro Civile: nascite, matrimoni, morti</h3>
+                <p>Se hai avuto un figlio in Svizzera, ti sei sposato o è deceduto un familiare spagnolo, devi inscrivere il fatto nel Registro Civile consolare. Il consolato iscriverà l'evento nel Registro Civile spagnolo.</p>
+
+                <h3>Pensioni e Previdenza Sociale</h3>
+                <p>Il consolato può orientarti su accordi di Previdenza Sociale tra Spagna e Svizzera, tramitazione di pensioni, accumulo di contributi e altri procedimenti legati alla Previdenza Sociale spagnola.</p>
+
+                <h3>Assistenza consolare</h3>
+                <p>In caso di emergenza (furto di documenti, incidente grave, decesso), il consolato può fornire assistenza consolare di emergenza. Per urgenze fuori dagli orari di apertura, ogni consolato ha una linea di guardia.</p>
+
+                <h2>Come richiedere un appuntamento consolare</h2>
+                <p>La maggior parte dei procedimenti si gestisce esclusivamente su appuntamento. Consulta i link ufficiali di ogni consolato per le istruzioni aggiornate:</p>
+                <ul>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Consolato a Ginevra</a></li>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Consolato a Berna</a></li>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Consolato a Zurigo</a></li>
+                </ul>
+
+                <h2>Portale del Ministero degli Affari Esteri</h2>
+                <p>Tutte le informazioni aggiornate su procedure, requisiti e notizie per spagnoli in Svizzera si trovano in:</p>
+                <ul>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/ginebra" target="_blank" rel="noopener noreferrer">Consolato a Ginevra</a></li>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/berna" target="_blank" rel="noopener noreferrer">Consolato a Berna</a></li>
+                    <li><a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer">Consolato a Zurigo</a></li>
+                </ul>
+
+                <h2>Articoli correlati</h2>
+                <ul>
+                    <li><a href="#/registrarse-en-suiza">Registrarsi in Svizzera all'arrivo</a></li>
+                    <li><a href="#/tramites-llegada-suiza">Permessi di residenza L, B e C</a></li>
+                    <li><a href="#/tramites-llegada-suiza">Procedure all'arrivo: elenco completo</a></li>
+                </ul>
+            </div>
+        `
     }
 };
 
     const slugMap = {
         "articulo-permisos": "permessi-soggiorno-svizzera-l-b-c",
-        "articulo-alquiler": "affittare-appartamento-svizzera-processo",
-        "articulo-fianzas": "deposito-affitto-diritti-inquilino",
-        "articulo-costo-vida": "costo-della-vita-svizzera-budget",
+        "articulo-mudarse-suiza": "trasferirsi-svizzera-dalla-spagna",
+        "articulo-registro": "registrarsi-svizzera-comune",
         "articulo-lamal": "assicurazione-malattia-svizzera-lamal",
         "articulo-franquicia": "franchigia-partecipazione-costi-salute",
-        "articulo-social-security": "sicurezza-sociale-svizzera-pilastri",
-        "articulo-seguros-sociales": "sicurezza-sociale-svizzera-avs-ai-lpp",
-        "articulo-frontaliers": "lavoratori-frontalieri-regole-tasse",
+        "articulo-impuestos": "tasse-svizzera",
+        "articulo-impuesto-fuente": "imposta-fonte-svizzera",
+        "articulo-seguros-sociales": "assicurazioni-sociali-svizzera-avs-ai-lpp",
+        "articulo-rav-paro": "disoccupazione-svizzera",
+        "articulo-salarios": "salari-stipendio-svizzera",
+        "articulo-contratos": "contratti-di-lavoro-svizzera",
+        "articulo-periodo-prueba": "periodo-prova-preavviso-svizzera",
+        "articulo-buscar-empleo": "cercare-lavoro-svizzera",
+        "articulo-alquiler": "affittare-casa-svizzera",
+        "articulo-fianzas": "cauzione-affitto-svizzera",
+        "articulo-costo-vida": "costo-della-vita-svizzera",
+        "articulo-frontaliers": "lavoratori-frontalieri-svizzera",
         "articulo-diplomas": "riconoscimento-diplomi-stranieri-svizzera",
-        "articulo-sistema-escolar": "sistema-scolastico-svizzero-spiegato",
+        "articulo-sistema-escolar": "sistema-scolastico-svizzero",
         "articulo-sistema-salud": "sistema-sanitario-medici-emergenze",
-        "articulo-transporte": "trasporti-pubblici-fss-metaprezzo",
+        "articulo-transporte": "trasporti-pubblici-ffs-metaprezzo",
         "articulo-ciudadania": "cittadinanza-svizzera-naturalizzazione",
         "articulo-consulados": "consolati-spagna-svizzera",
         "articulo-tramites-llegada": "checklist-primi-passi-in-svizzera",
         "articulo-trabajar-sin-permiso-fisico": "lavorare-senza-permesso-fisico",
         "articulo-reagrupacion-familiar": "ricongiungimento-familiare-svizzera",
         "articulo-subalquiler": "subaffitto-svizzera-regole-contratti",
-        "articulo-jubilacion": "pensione-svizzera-avs-lpp-3-pilastri"
+        "articulo-jubilacion": "pensione-svizzera-avs-lpp-3-pilastri",
+        "articulo-vivir-sin-trabajar": "vivere-svizzera-senza-lavorare",
+        "articulo-ai-invalidez": "assicurazione-invalidita-ai-svizzera",
+        "articulo-vacunas": "vaccini-svizzera-raccomandazioni",
+        "articulo-danza-patos": "danza-anatroccoli-origine-svizzera",
+        "articulo-introduccion-suiza": "introduzione-svizzera-come-funziona",
+        "articulo-cantones": "cantoni-svizzeri",
+        "articulo-lenguas": "lingue-svizzera"
     };
 
     Object.entries(slugMap).forEach(([key, slug]) => {
