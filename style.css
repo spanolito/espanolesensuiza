@@ -1101,6 +1101,55 @@ strong, b {
     margin: 2rem auto;
 }
 
+.community-team-section {
+    margin: var(--space-xl) 0;
+}
+
+.community-team-panel {
+    max-width: var(--article-width);
+    padding: clamp(1.5rem, 3vw, 2rem);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-md);
+}
+
+.community-team-panel h2 {
+    border-bottom: none;
+    margin-bottom: 1.5rem;
+}
+
+.community-team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem 2rem;
+}
+
+.community-team-group h3 {
+    font-size: 0.95rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--text-light);
+    margin-bottom: 0.85rem;
+}
+
+.community-team-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.55rem;
+}
+
+.community-team-list li {
+    padding-bottom: 0.55rem;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.community-team-note {
+    margin: 1.5rem 0 0;
+    color: var(--text-secondary);
+}
+
 /* Canton links grid */
 .canton-link {
     display: flex;

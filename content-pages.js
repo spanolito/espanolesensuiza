@@ -1108,6 +1108,8 @@ window.siteContent.es.pages = {
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            const adminNames = ["Amparo", "José Luis", "Elliot", "Oscar"];
+            const moderatorNames = ["Ana", "Bea", "Laura", "Rafael", "Domingo", "David"];
             return `
             <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
@@ -1131,6 +1133,27 @@ window.siteContent.es.pages = {
                         <svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
                         ${ui['com-btn']}
                     </a>
+                </div>
+            </section>
+
+            <section class="community-team-section animate-fade-up delay-100" aria-labelledby="community-team-title">
+                <div class="community-team-panel">
+                    <h2 id="community-team-title">${ui['com-team-title']}</h2>
+                    <div class="community-team-grid">
+                        <div class="community-team-group">
+                            <h3>${ui['com-team-admins']}</h3>
+                            <ul class="community-team-list">
+                                ${adminNames.map((name) => `<li>${name}</li>`).join("")}
+                            </ul>
+                        </div>
+                        <div class="community-team-group">
+                            <h3>${ui['com-team-moderators']}</h3>
+                            <ul class="community-team-list">
+                                ${moderatorNames.map((name) => `<li>${name}</li>`).join("")}
+                            </ul>
+                        </div>
+                    </div>
+                    <p class="community-team-note">${ui['com-team-note']}</p>
                 </div>
             </section>
             `;
