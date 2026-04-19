@@ -82,7 +82,7 @@ window.siteContent.es.pages = {
                         <span class="stat-label">${ui['home-stats-guides']}</span>
                     </div>
                     <div class="stat-item">
-                        <span class="stat-number">4</span>
+                        <span class="stat-number">5</span>
                         <span class="stat-label">${ui['home-stats-languages']}</span>
                     </div>
                     <div class="stat-item">
