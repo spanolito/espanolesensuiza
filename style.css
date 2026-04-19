@@ -1125,11 +1125,11 @@ strong, b {
 
 .community-team-section {
     max-width: 860px;
-    margin: 2rem auto 0;
+    margin: 2.25rem auto 3.25rem;
 }
 
 .community-team-panel {
-    padding: 1rem 1.25rem;
+    padding: 1.05rem 1.3rem;
     background: var(--bg-surface);
     border: 1px solid var(--border-light);
     border-radius: var(--radius-md);
@@ -1183,8 +1183,16 @@ strong, b {
 
 .community-page-actions {
     justify-content: flex-start;
-    align-items: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    gap: 1rem;
     margin-bottom: 0;
+}
+
+.community-page-actions .btn {
+    flex: 0 1 auto;
+    min-width: clamp(250px, 28vw, 320px);
+    justify-content: center;
 }
 
 .community-team-group {
@@ -1204,7 +1212,8 @@ strong, b {
     }
 
     .community-team-section {
-        margin-top: 1.5rem;
+        margin-top: 1.75rem;
+        margin-bottom: 2.25rem;
     }
 
     .community-team-panel {

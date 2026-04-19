@@ -1109,7 +1109,7 @@ window.siteContent.es.pages = {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             const adminNames = ["Amparo", "José Luis", "Elliot", "Oscar"];
-            const moderatorNames = ["Ana", "Bea", "Laura", "Rafael", "Domingo", "David"];
+            const moderatorNames = ["Ana", "Bea", "Laura", "Rafael", "Domingo", "David", "Juan José", "Andrés"];
             return `
             <div class="page-header community-page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md);">
                 <nav class="breadcrumbs">
