@@ -13,6 +13,9 @@ if (!targetContent.endsWith('};') && !targetContent.trim().endsWith('};')) {
 
 // Remove the trailing }; (handling whitespace/newlines)
 targetContent = targetContent.replace(/};\s*$/, '');
+if (!targetContent.trim().endsWith(',')) {
+    targetContent += ',\n';
+}
 
 let addedArticles = 0;
 
@@ -41,10 +44,15 @@ while ((match = regex.exec(histData)) !== null) {
     let fbUrl = match[3];
     const dateStr = match[4];
 
-    const slug = `fb-${num}-${generateSlug(title)}`;
-    const { hub, category } = classifyHub(title);
+    if (fbUrl.includes('allactivity')) {
+        fbUrl = '';
+    }
 
-    const safeTitle = title.replace(/'/g, "\\'").replace(/"/g, '\\"');
+    const cleanTitle = title.replace(/[#*]/g, '').trim();
+    const slug = `fb-${num}-${generateSlug(cleanTitle)}`;
+    const { hub, category } = classifyHub(cleanTitle);
+
+    const safeTitle = cleanTitle.replace(/'/g, "\\'").replace(/"/g, '\\"');
     const content = `<div class="article-content">\n  <div class="callout info">\n    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.\n  </div>\n</div>`;
 
     const code = `\n    "${slug}": {
@@ -78,9 +86,10 @@ for (const file of postFiles) {
         const title = titleMatch[1].trim();
         const contentLines = block.replace(/^\s*\d*\s*—\s*.*\n/, '');
         
-        const safeTitle = title.replace(/'/g, "\\'").replace(/"/g, '\\"');
-        const slug = generateSlug(title);
-        const { hub, category } = classifyHub(title);
+        const cleanTitle = title.replace(/[#*]/g, '').trim();
+        const safeTitle = cleanTitle.replace(/'/g, "\\'").replace(/"/g, '\\"');
+        const slug = generateSlug(cleanTitle);
+        const { hub, category } = classifyHub(cleanTitle);
 
         const paragraphs = contentLines.split('\\n\\n')
             .map(p => p.trim())
@@ -98,7 +107,7 @@ for (const file of postFiles) {
 
         const code = `\n    "${slug}": {
         title: "${safeTitle}",
-        description: "${safeTitle.substring(0, 100).replace(/"/g, '\\"')}...",
+        description: '${safeTitle.substring(0, 100).replace(/'/g, "\\'")}...',
         keywords: "${hub}, guia suiza, vida suiza",
         category: "${category}",
         hub: "${hub}",
