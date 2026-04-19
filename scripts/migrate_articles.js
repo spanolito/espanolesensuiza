@@ -62,7 +62,7 @@ while ((match = regex.exec(histData)) !== null) {
     }
 
     const safeTitle = cleanTitle.replace(/'/g, "\\'").replace(/"/g, '\\"');
-    const content = `<div class="article-content">\n  <p><strong>Resumen extraído:</strong> ${safeTitle}...</p>\n  <div class="callout info">\n    <strong>Nota histórica:</strong> Debido al formato de exportación, solo pudimos recuperar este fragmento introductorio. Puedes usar el botón de abajo para buscar el post completo directamente en el grupo de Facebook.\n  </div>\n</div>`;
+    const content = `<div class="article-content">\n  <div class="callout info">\n    <strong>Publicación Histórica de Facebook:</strong> Debido al formato de exportación original, solo disponemos del título o fragmento introductorio. Puedes usar el botón de abajo para encontrar y leer el hilo completo con sus debates en nuestra comunidad oficial de Facebook.\n  </div>\n</div>`;
 
     const code = `\n    "${slug}": {
         title: "${safeTitle}",
