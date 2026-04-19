@@ -1111,7 +1111,7 @@ window.siteContent.es.pages = {
             const adminNames = ["Amparo", "José Luis", "Elliot", "Oscar"];
             const moderatorNames = ["Ana", "Bea", "Laura", "Rafael", "Domingo", "David"];
             return `
-            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+            <div class="page-header community-page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> > 
                     <span>${ui['com-nav']}</span>
@@ -1130,7 +1130,7 @@ window.siteContent.es.pages = {
                 </div>
             </div>
 
-            <section class="article-layout" style="padding:0; margin-top:2rem;">
+            <section class="article-layout community-intro" style="padding:0; margin-top:0;">
                 <div class="article-body">
                     <p>${ui['com-p1']}</p>
                     <p>${ui['com-p2']}</p>
