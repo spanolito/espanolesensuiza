@@ -1182,17 +1182,20 @@ strong, b {
 }
 
 .community-page-actions {
+    display: flex;
+    flex-direction: row;
     justify-content: flex-start;
     align-items: stretch;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 1rem;
     margin-bottom: 0;
 }
 
 .community-page-actions .btn {
-    flex: 0 1 auto;
-    min-width: clamp(250px, 28vw, 320px);
+    flex: 0 0 auto;
+    min-width: 0;
     justify-content: center;
+    white-space: nowrap;
 }
 
 .community-team-group {
