@@ -44,7 +44,7 @@ while ((match = regex.exec(histData)) !== null) {
     let fbUrl = match[3];
     const dateStr = match[4];
 
-    if (fbUrl.includes('allactivity')) {
+    if (!fbUrl.includes('/groups/')) {
         fbUrl = '';
     }
 

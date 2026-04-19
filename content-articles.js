@@ -22645,4 +22645,10163 @@ El mecanismo principal son los convenios colectivos de trabajo, llamados CCT (Co
 A eso se añade que varios cantones han introducido su propio salario mínimo cantonal por ley. Ginebra lidera con 24,59 francos por hora en 2026, lo que equivale a más de 4.400 francos brutos mensuales a tiempo completo. Neuchâtel, el Jura, el Tesino y Basilea-Ciudad también tienen sus propios mínimos. Cuando vayas a negociar un salario o evaluar una oferta, lo primero que debes comprobar es si hay un CCT aplicable a tu sector en el cantón donde vas a trabajar. Esa cifra es tu referencia real, no lo que te quieran ofrecer.</p>
 </div>`
     }
+,
+
+    "fb-001-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe": {
+        title: "Devolver compras en Suiza: lo que si y lo que no existe",
+        description: "Devolver compras en Suiza: lo que si y lo que no existe",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-001-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe",
+        readingTime: 2,
+        dateUpdated: "avr 15, 2026",
+        facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4396910723862520/",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-002-circular-en-bicicleta-en-suiza-parece-sencillo": {
+        title: "Circular en bicicleta en Suiza parece sencillo...",
+        description: "Circular en bicicleta en Suiza parece sencillo...",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-002-circular-en-bicicleta-en-suiza-parece-sencillo",
+        readingTime: 2,
+        dateUpdated: "avr 13, 2026",
+        facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4395200604033532/",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-003-el-permiso-a-en-suiza-trabajar-si-vivir-no": {
+        title: "El permiso A en Suiza: trabajar si, vivir no",
+        description: "El permiso A en Suiza: trabajar si, vivir no",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-003-el-permiso-a-en-suiza-trabajar-si-vivir-no",
+        readingTime: 2,
+        dateUpdated: "avr 11, 2026",
+        facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4393482034205389/",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe": {
+        title: "\"Permiso de trabajo\" en Suiza: el termino que no existe",
+        description: "\"Permiso de trabajo\" en Suiza: el termino que no existe",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe",
+        readingTime: 2,
+        dateUpdated: "avr 11, 2026",
+        facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-005-alquiler-medio-seg-n-el-cant-n-de-un-3-o-3-5-piezas-sin-olvidar-que-en-ginebra-la-cocina-es-considerada-como-una-pieza-es-decir-que-un-3-piezas-en-g": {
+        title: "Alquiler medio según el cantón de un 3 o 3.5 piezas. Sin olvidar que en Ginebra la cocina es considerada como una pieza. Es decir que un 3 piezas en G",
+        description: "Alquiler medio según el cantón de un 3 o 3.5 piezas. Sin olvidar que en Ginebra la cocina es considerada como una pieza. Es decir que un 3 piezas en G",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-005-alquiler-medio-seg-n-el-cant-n-de-un-3-o-3-5-piezas-sin-olvidar-que-en-ginebra-la-cocina-es-considerada-como-una-pieza-es-decir-que-un-3-piezas-en-g",
+        readingTime: 2,
+        dateUpdated: "avr 19, 2024 2:46:10 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-006-oportunidad-nica-de-trabajar-en-el-cern": {
+        title: "¡Oportunidad Única de Trabajar en el CERN!",
+        description: "¡Oportunidad Única de Trabajar en el CERN!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-006-oportunidad-nica-de-trabajar-en-el-cern",
+        readingTime: 2,
+        dateUpdated: "mai 11, 2024 4:39:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-007-la-organizaci-n-de-las-naciones-unidas-onu-tiene-vacantes-disponibles-en-ginebra-si-est-s-interesado-en-trabajar-en-un-entorno-internacional-es": {
+        title: "🌐 La Organización de las Naciones Unidas (ONU) 🌐 tiene vacantes disponibles en Ginebra. Si estás interesado en trabajar en un entorno internacional es",
+        description: "🌐 La Organización de las Naciones Unidas (ONU) 🌐 tiene vacantes disponibles en Ginebra. Si estás interesado en trabajar en un entorno internacional es",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-007-la-organizaci-n-de-las-naciones-unidas-onu-tiene-vacantes-disponibles-en-ginebra-si-est-s-interesado-en-trabajar-en-un-entorno-internacional-es",
+        readingTime: 2,
+        dateUpdated: "mai 12, 2024 12:19:28 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-008-ginebra-es-una-ciudad-vibrante-y-multicultural-conocida-por-su-impresionante-paisaje-natural-y-su-importancia-en-la-diplomacia-internacional-se-podr": {
+        title: "Ginebra es una ciudad vibrante y multicultural, conocida por su impresionante paisaje natural y su importancia en la diplomacia internacional. Se podr",
+        description: "Ginebra es una ciudad vibrante y multicultural, conocida por su impresionante paisaje natural y su importancia en la diplomacia internacional. Se podr",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-008-ginebra-es-una-ciudad-vibrante-y-multicultural-conocida-por-su-impresionante-paisaje-natural-y-su-importancia-en-la-diplomacia-internacional-se-podr",
+        readingTime: 2,
+        dateUpdated: "mai 19, 2024 9:10:39 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-009-la-fuerza-a-rea-suiza-aterrizar-aviones-de-combate-en-la-autopista-a1-a-principios-de-junio": {
+        title: "La Fuerza Aérea Suiza aterrizará aviones de combate en la autopista A1 a principios de junio",
+        description: "La Fuerza Aérea Suiza aterrizará aviones de combate en la autopista A1 a principios de junio",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-009-la-fuerza-a-rea-suiza-aterrizar-aviones-de-combate-en-la-autopista-a1-a-principios-de-junio",
+        readingTime: 2,
+        dateUpdated: "mai 26, 2024 7:13:21 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-010-bureau-internacional-du-travail-bit": {
+        title: "🌍 Bureau Internacional du Travail (BIT) 🌍",
+        description: "🌍 Bureau Internacional du Travail (BIT) 🌍",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-010-bureau-internacional-du-travail-bit",
+        readingTime: 2,
+        dateUpdated: "mai 28, 2024 6:29:37 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-011-ginebra-una-ciudad-situada-en-la-frontera-suroeste-de-suiza-a-orillas-del-hermoso-lago-lem-n-es-un-lugar-con-una-rica-historia-y-una-vibrante-vida": {
+        title: "Ginebra, una ciudad situada en la frontera suroeste de Suiza, a orillas del hermoso lago Lemán, es un lugar con una rica historia y una vibrante vida",
+        description: "Ginebra, una ciudad situada en la frontera suroeste de Suiza, a orillas del hermoso lago Lemán, es un lugar con una rica historia y una vibrante vida",
+        keywords: "fronterizos, suiza",
+        category: "Frontaliers y Permiso G",
+        hub: "fronterizos",
+        slug: "fb-011-ginebra-una-ciudad-situada-en-la-frontera-suroeste-de-suiza-a-orillas-del-hermoso-lago-lem-n-es-un-lugar-con-una-rica-historia-y-una-vibrante-vida",
+        readingTime: 2,
+        dateUpdated: "mai 28, 2024 7:35:17 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-012-ginebra-en-los-a-os-aqu-se-puede-apreciar-el-puente-del-mont-blanc-ginebra-en-los-a-os-aqu-se-puede-apreciar-el-puente-del-mont-blanc": {
+        title: "Ginebra en los años. Aquí se puede apreciar el puente del Mont-Blanc Ginebra en los años. Aquí se puede apreciar el puente del Mont-Blanc",
+        description: "Ginebra en los años. Aquí se puede apreciar el puente del Mont-Blanc Ginebra en los años. Aquí se puede apreciar el puente del Mont-Blanc",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-012-ginebra-en-los-a-os-aqu-se-puede-apreciar-el-puente-del-mont-blanc-ginebra-en-los-a-os-aqu-se-puede-apreciar-el-puente-del-mont-blanc",
+        readingTime: 2,
+        dateUpdated: "mai 30, 2024 7:07:37 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-013-y-aqu-va-zurich-dir-a-que-es-la-ciudad-m-s-grande-y-m-s-desarrollada-de-suiza-y-aqu-va-zurich-dir-a-que-es-la-ciudad-m-s-grande-y-m-s-desarro": {
+        title: "Y aquí va Zurich... Diría que es la ciudad más grande y más desarrollada de Suiza. Y aquí va Zurich... Diría que es la ciudad más grande y más desarro",
+        description: "Y aquí va Zurich... Diría que es la ciudad más grande y más desarrollada de Suiza. Y aquí va Zurich... Diría que es la ciudad más grande y más desarro",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-013-y-aqu-va-zurich-dir-a-que-es-la-ciudad-m-s-grande-y-m-s-desarrollada-de-suiza-y-aqu-va-zurich-dir-a-que-es-la-ciudad-m-s-grande-y-m-s-desarro",
+        readingTime: 2,
+        dateUpdated: "mai 30, 2024 7:10:07 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-014-nueva-propuesta-exige-que-los-hombres-no-suizos-paguen-un-impuesto-especial-de-defensa": {
+        title: "Nueva Propuesta Exige que los Hombres No Suizos Paguen un Impuesto Especial de Defensa",
+        description: "Nueva Propuesta Exige que los Hombres No Suizos Paguen un Impuesto Especial de Defensa",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-014-nueva-propuesta-exige-que-los-hombres-no-suizos-paguen-un-impuesto-especial-de-defensa",
+        readingTime: 2,
+        dateUpdated: "mai 31, 2024 7:38:38 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-015-atenci-n-expats-espa-oles-en-ginebra": {
+        title: "¡Atención Expats Españoles en Ginebra!",
+        description: "¡Atención Expats Españoles en Ginebra!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-015-atenci-n-expats-espa-oles-en-ginebra",
+        readingTime: 2,
+        dateUpdated: "mai 31, 2024 7:54:58 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-016-10-cosas-sorprendentes-de-suiza": {
+        title: "10 cosas sorprendentes de Suiza",
+        description: "10 cosas sorprendentes de Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-016-10-cosas-sorprendentes-de-suiza",
+        readingTime: 2,
+        dateUpdated: "juin 01, 2024 5:33:10 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-017-10-museos-originales-en-suiza-romanda": {
+        title: "10 Museos Originales en Suiza Romanda",
+        description: "10 Museos Originales en Suiza Romanda",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-017-10-museos-originales-en-suiza-romanda",
+        readingTime: 2,
+        dateUpdated: "juin 01, 2024 6:07:22 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-018-berna-un-puente-entre-siglos-uniendo-generaciones-con-su-belleza-atemporal-berna-un-puente-entre-siglos-uniendo-generaciones-con-su-belleza-atemp": {
+        title: "Berna, un puente entre siglos, uniendo generaciones con su belleza atemporal. Berna, un puente entre siglos, uniendo generaciones con su belleza atemp",
+        description: "Berna, un puente entre siglos, uniendo generaciones con su belleza atemporal. Berna, un puente entre siglos, uniendo generaciones con su belleza atemp",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-018-berna-un-puente-entre-siglos-uniendo-generaciones-con-su-belleza-atemporal-berna-un-puente-entre-siglos-uniendo-generaciones-con-su-belleza-atemp",
+        readingTime: 2,
+        dateUpdated: "juin 01, 2024 9:44:25 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-019-nuevo-articulo-en-la-carpeta-archivos-del-grupo": {
+        title: "Nuevo articulo en la carpeta archivos del grupo!",
+        description: "Nuevo articulo en la carpeta archivos del grupo!",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-019-nuevo-articulo-en-la-carpeta-archivos-del-grupo",
+        readingTime: 2,
+        dateUpdated: "juin 03, 2024 1:51:09 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-020-el-viaducto-de-landwasser-una-maravilla-de-la-ingenier-a-ferroviaria-se-alza-majestuosamente-en-medio-de-los-paisajes-alpinos-suizos-con-sus-seis-a": {
+        title: "El Viaducto de Landwasser, una maravilla de la ingeniería ferroviaria, se alza majestuosamente en medio de los paisajes alpinos suizos. Con sus seis a",
+        description: "El Viaducto de Landwasser, una maravilla de la ingeniería ferroviaria, se alza majestuosamente en medio de los paisajes alpinos suizos. Con sus seis a",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-020-el-viaducto-de-landwasser-una-maravilla-de-la-ingenier-a-ferroviaria-se-alza-majestuosamente-en-medio-de-los-paisajes-alpinos-suizos-con-sus-seis-a",
+        readingTime: 2,
+        dateUpdated: "juin 04, 2024 7:49:30 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-021-cliquer-pour-la-vid-o-el-jet-d-eau-de-ginebra-un-espect-culo-de-fuerza-y-belleza": {
+        title: "Cliquer pour la vidéo :El Jet d’Eau de Ginebra: Un Espectáculo de Fuerza y Belleza",
+        description: "Cliquer pour la vidéo :El Jet d’Eau de Ginebra: Un Espectáculo de Fuerza y Belleza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-021-cliquer-pour-la-vid-o-el-jet-d-eau-de-ginebra-un-espect-culo-de-fuerza-y-belleza",
+        readingTime: 2,
+        dateUpdated: "juin 05, 2024 10:11:09 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-022-la-democracia-directa-de-suiza-se-anima-con-la-pr-xima-votaci-n-del-9-de-junio-una-ocasi-n-ideal-para-involucrarse-en-el-proceso-pol-tico-del-pa-s": {
+        title: "La democracia directa de Suiza se anima con la próxima votación del 9 de junio, una ocasión ideal para involucrarse en el proceso político del país.",
+        description: "La democracia directa de Suiza se anima con la próxima votación del 9 de junio, una ocasión ideal para involucrarse en el proceso político del país.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-022-la-democracia-directa-de-suiza-se-anima-con-la-pr-xima-votaci-n-del-9-de-junio-una-ocasi-n-ideal-para-involucrarse-en-el-proceso-pol-tico-del-pa-s",
+        readingTime: 2,
+        dateUpdated: "juin 07, 2024 11:50:06 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-023-la-vignette-autoroute-suiza-es-una-pegatina-que-se-requiere-para-circular-por-las-autopistas-y-semi-autopistas-de-suiza-es-obligatoria-para-todos": {
+        title: "La vignette autoroute suiza es una pegatina que se requiere para circular por las autopistas y semi-autopistas de Suiza. Es obligatoria para todos",
+        description: "La vignette autoroute suiza es una pegatina que se requiere para circular por las autopistas y semi-autopistas de Suiza. Es obligatoria para todos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-023-la-vignette-autoroute-suiza-es-una-pegatina-que-se-requiere-para-circular-por-las-autopistas-y-semi-autopistas-de-suiza-es-obligatoria-para-todos",
+        readingTime: 2,
+        dateUpdated: "juin 08, 2024 8:50:06 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-024-despido-durante-la-enfermedad-un-an-lisis-de-la-diversidad-cultural-suiza-y-la-reacci-n-sindical": {
+        title: "Despido Durante la Enfermedad: Un Análisis de la Diversidad Cultural Suiza y la Reacción Sindical",
+        description: "Despido Durante la Enfermedad: Un Análisis de la Diversidad Cultural Suiza y la Reacción Sindical",
+        keywords: "salud, suiza",
+        category: "Salud y Seguro (LAMal)",
+        hub: "salud",
+        slug: "fb-024-despido-durante-la-enfermedad-un-an-lisis-de-la-diversidad-cultural-suiza-y-la-reacci-n-sindical",
+        readingTime: 2,
+        dateUpdated: "juin 09, 2024 8:20:40 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-025-los-contratos-de-trabajo-en-suiza-y-el-papel-fundamental-de-las-convenciones-colectivas": {
+        title: "Los Contratos de Trabajo en Suiza y el Papel Fundamental de las Convenciones Colectivas",
+        description: "Los Contratos de Trabajo en Suiza y el Papel Fundamental de las Convenciones Colectivas",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-025-los-contratos-de-trabajo-en-suiza-y-el-papel-fundamental-de-las-convenciones-colectivas",
+        readingTime: 2,
+        dateUpdated: "juin 28, 2024 6:24:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-026-barbacoas-en-suiza-entre-el-sabor-y-la-etiquetaintroducci-nlas-barbacoas-son-una-tradici-n-que-trasciende-fronteras-y-culturas-en-suiza-un": {
+        title: "Barbacoas en Suiza: Entre el Sabor y la EtiquetaIntroducciónLas barbacoas son una tradición que trasciende fronteras y culturas. En Suiza, un",
+        description: "Barbacoas en Suiza: Entre el Sabor y la EtiquetaIntroducciónLas barbacoas son una tradición que trasciende fronteras y culturas. En Suiza, un",
+        keywords: "fronterizos, suiza",
+        category: "Frontaliers y Permiso G",
+        hub: "fronterizos",
+        slug: "fb-026-barbacoas-en-suiza-entre-el-sabor-y-la-etiquetaintroducci-nlas-barbacoas-son-una-tradici-n-que-trasciende-fronteras-y-culturas-en-suiza-un",
+        readingTime: 2,
+        dateUpdated: "juin 29, 2024 8:40:08 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-027-consejos-y-advertencias-para-evitar-estafas-de-venta-de-entradas-a-eventos": {
+        title: "Consejos y Advertencias para evitar estafas de venta de entradas a eventos",
+        description: "Consejos y Advertencias para evitar estafas de venta de entradas a eventos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-027-consejos-y-advertencias-para-evitar-estafas-de-venta-de-entradas-a-eventos",
+        readingTime: 2,
+        dateUpdated: "juil 09, 2024 11:54:48 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-028-alerta-sobre-estafa-de-c-digos-qr-en-los-parkings-en-suiza": {
+        title: "Alerta sobre estafa de códigos QR en los parkings en Suiza",
+        description: "Alerta sobre estafa de códigos QR en los parkings en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-028-alerta-sobre-estafa-de-c-digos-qr-en-los-parkings-en-suiza",
+        readingTime: 2,
+        dateUpdated: "juil 10, 2024 7:45:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-029-hoy-quiero-compartir-una-reflexi-n-que-compara-dos-fen-menos-que-aunque-a-primera-vista-parecen-distintos-tienen-puntos-en-com-n-la-b-squeda-de-emp": {
+        title: "Hoy quiero compartir una reflexión que compara dos fenómenos que, aunque a primera vista parecen distintos, tienen puntos en común: la búsqueda de emp",
+        description: "Hoy quiero compartir una reflexión que compara dos fenómenos que, aunque a primera vista parecen distintos, tienen puntos en común: la búsqueda de emp",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-029-hoy-quiero-compartir-una-reflexi-n-que-compara-dos-fen-menos-que-aunque-a-primera-vista-parecen-distintos-tienen-puntos-en-com-n-la-b-squeda-de-emp",
+        readingTime: 2,
+        dateUpdated: "juil 12, 2024 12:47:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-030-solo-comparto-informaci-n-sigue-el-link-para-m-s": {
+        title: "Solo comparto información. Sigue el link para más !",
+        description: "Solo comparto información. Sigue el link para más !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-030-solo-comparto-informaci-n-sigue-el-link-para-m-s",
+        readingTime: 2,
+        dateUpdated: "juil 13, 2024 1:01:04 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-031-para-que-quieran-ver-zurich-en-3d-y-durante-su-evolucion": {
+        title: "Para que quieran ver Zurich en 3D y durante su evolucion.",
+        description: "Para que quieran ver Zurich en 3D y durante su evolucion.",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-031-para-que-quieran-ver-zurich-en-3d-y-durante-su-evolucion",
+        readingTime: 2,
+        dateUpdated: "juil 13, 2024 4:35:30 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-032-el-proceso-para-obtener-la-ciudadan-a-suiza": {
+        title: "El proceso para obtener la ciudadanía suiza",
+        description: "El proceso para obtener la ciudadanía suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-032-el-proceso-para-obtener-la-ciudadan-a-suiza",
+        readingTime: 2,
+        dateUpdated: "juil 17, 2024 7:21:07 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-033-hola-a-tod-s": {
+        title: "¡Hola a tod@s!",
+        description: "¡Hola a tod@s!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-033-hola-a-tod-s",
+        readingTime: 2,
+        dateUpdated: "juil 18, 2024 6:59:06 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-034-hoy-tengo-una-noticia-emocionante-y-positiva-para-compartir-con-nuestra-comunidad-en-ginebra-a-partir-de-2025-los-transportes-p-blicos-en-ginebra-se": {
+        title: "Hoy tengo una noticia emocionante y positiva para compartir con nuestra comunidad en Ginebra: a partir de 2025, los transportes públicos en Ginebra se",
+        description: "Hoy tengo una noticia emocionante y positiva para compartir con nuestra comunidad en Ginebra: a partir de 2025, los transportes públicos en Ginebra se",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-034-hoy-tengo-una-noticia-emocionante-y-positiva-para-compartir-con-nuestra-comunidad-en-ginebra-a-partir-de-2025-los-transportes-p-blicos-en-ginebra-se",
+        readingTime: 2,
+        dateUpdated: "juil 19, 2024 9:10:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-035-hola-a-tod-s-hoy-quiero-abordar-un-tema-que-puede-ser-muy-relevante-para-quienes-vivimos-en-suiza-el-servicio-militar-este-sistema-es-fundamental-e": {
+        title: "¡Hola a tod@s!Hoy quiero abordar un tema que puede ser muy relevante para quienes vivimos en Suiza: el servicio militar. Este sistema es fundamental e",
+        description: "¡Hola a tod@s!Hoy quiero abordar un tema que puede ser muy relevante para quienes vivimos en Suiza: el servicio militar. Este sistema es fundamental e",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-035-hola-a-tod-s-hoy-quiero-abordar-un-tema-que-puede-ser-muy-relevante-para-quienes-vivimos-en-suiza-el-servicio-militar-este-sistema-es-fundamental-e",
+        readingTime: 2,
+        dateUpdated: "juil 19, 2024 7:33:30 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-036-la-lake-parade-de-ginebra-celebraci-n-de-m-sica-y-diversidad": {
+        title: "La Lake Parade de Ginebra: Celebración de Música y Diversidad",
+        description: "La Lake Parade de Ginebra: Celebración de Música y Diversidad",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-036-la-lake-parade-de-ginebra-celebraci-n-de-m-sica-y-diversidad",
+        readingTime: 2,
+        dateUpdated: "juil 20, 2024 6:23:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-037-telefon-a-m-vil-en-suiza": {
+        title: "Telefonía Móvil en Suiza",
+        description: "Telefonía Móvil en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-037-telefon-a-m-vil-en-suiza",
+        readingTime: 2,
+        dateUpdated: "juil 21, 2024 7:50:35 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-038-las-mejores-actividades-con-ni-s-en-suiza": {
+        title: "Las Mejores Actividades con Niñ@s en Suiza",
+        description: "Las Mejores Actividades con Niñ@s en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-038-las-mejores-actividades-con-ni-s-en-suiza",
+        readingTime: 2,
+        dateUpdated: "juil 23, 2024 7:26:13 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-039-trabajar-en-suiza-el-eldorado-de-la-remuneraci-n": {
+        title: "Trabajar en Suiza: El Eldorado de la Remuneración ?",
+        description: "Trabajar en Suiza: El Eldorado de la Remuneración ?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-039-trabajar-en-suiza-el-eldorado-de-la-remuneraci-n",
+        readingTime: 2,
+        dateUpdated: "juil 25, 2024 10:03:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-040-cliquer-pour-la-vid-o-bonito-gesto-hacia-carolina-y-espa-a-bonito-gesto-hacia-carolina-y-espa-a": {
+        title: "Cliquer pour la vidéo :Bonito gesto hacia Carolina y España ! Bonito gesto hacia Carolina y España !",
+        description: "Cliquer pour la vidéo :Bonito gesto hacia Carolina y España ! Bonito gesto hacia Carolina y España !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-040-cliquer-pour-la-vid-o-bonito-gesto-hacia-carolina-y-espa-a-bonito-gesto-hacia-carolina-y-espa-a",
+        readingTime: 2,
+        dateUpdated: "août 06, 2024 12:48:49 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-041-las-13-aplicaciones-m-s-importantes-en-suiza": {
+        title: "Las 13 Aplicaciones Más Importantes en Suiza",
+        description: "Las 13 Aplicaciones Más Importantes en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-041-las-13-aplicaciones-m-s-importantes-en-suiza",
+        readingTime: 2,
+        dateUpdated: "août 13, 2024 7:28:19 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-042-festival-de-verano-de-lucerna-un-evento-imperdible": {
+        title: "Festival de Verano de Lucerna: ¡Un Evento Imperdible!",
+        description: "Festival de Verano de Lucerna: ¡Un Evento Imperdible!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-042-festival-de-verano-de-lucerna-un-evento-imperdible",
+        readingTime: 2,
+        dateUpdated: "août 13, 2024 12:18:05 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-043-este-fin-de-semana-no-te-pierdas-el-espect-culo-nico-en-ginebra-el-viernes-16-y-el-s-bado-17-de-agosto-a-las-22h-frente-a-la-playa-de-eaux": {
+        title: "¡Este fin de semana no te pierdas el espectáculo único en Ginebra! 🎆 El viernes 16 y el sábado 17 de agosto, a las 22h, frente a la playa de Eaux-",
+        description: "¡Este fin de semana no te pierdas el espectáculo único en Ginebra! 🎆 El viernes 16 y el sábado 17 de agosto, a las 22h, frente a la playa de Eaux-",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-043-este-fin-de-semana-no-te-pierdas-el-espect-culo-nico-en-ginebra-el-viernes-16-y-el-s-bado-17-de-agosto-a-las-22h-frente-a-la-playa-de-eaux",
+        readingTime: 2,
+        dateUpdated: "août 14, 2024 9:21:33 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-044-esc-ndalo-de-fraude-con-vinos-del-valais-vino-espa-ol-encubierto": {
+        title: "Escándalo de Fraude con Vinos del Valais: Vino Español Encubierto",
+        description: "Escándalo de Fraude con Vinos del Valais: Vino Español Encubierto",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-044-esc-ndalo-de-fraude-con-vinos-del-valais-vino-espa-ol-encubierto",
+        readingTime: 2,
+        dateUpdated: "août 16, 2024 12:10:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-045-imagen-de-la-tormenta-del-jueves-por-la-tarde-sobre-ginebra-a-las-18-20-captada-por-la-c-mara-web-del-telef-rico-del-sal-ve": {
+        title: "Imagen de la tormenta del jueves por la tarde sobre Ginebra a las 18:20 captada por la cámara web del Teleférico del Salève.",
+        description: "Imagen de la tormenta del jueves por la tarde sobre Ginebra a las 18:20 captada por la cámara web del Teleférico del Salève.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-045-imagen-de-la-tormenta-del-jueves-por-la-tarde-sobre-ginebra-a-las-18-20-captada-por-la-c-mara-web-del-telef-rico-del-sal-ve",
+        readingTime: 2,
+        dateUpdated: "août 16, 2024 12:37:15 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-046-oportunidades-laborales-en-suiza-salud-tecnolog-a-y-construcci-n": {
+        title: "Oportunidades Laborales en Suiza: Salud, Tecnología y Construcción",
+        description: "Oportunidades Laborales en Suiza: Salud, Tecnología y Construcción",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-046-oportunidades-laborales-en-suiza-salud-tecnolog-a-y-construcci-n",
+        readingTime: 2,
+        dateUpdated: "août 17, 2024 8:26:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-047-en-suiza-las-deducciones-en-una-n-mina-est-ndar-pueden-variar-seg-n-el-cant-n-el-tipo-de-contrato-y-otros-factores-pero-generalmente-incluyen-vari": {
+        title: "En Suiza, las deducciones en una nómina estándar pueden variar según el cantón, el tipo de contrato, y otros factores, pero generalmente incluyen vari",
+        description: "En Suiza, las deducciones en una nómina estándar pueden variar según el cantón, el tipo de contrato, y otros factores, pero generalmente incluyen vari",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-047-en-suiza-las-deducciones-en-una-n-mina-est-ndar-pueden-variar-seg-n-el-cant-n-el-tipo-de-contrato-y-otros-factores-pero-generalmente-incluyen-vari",
+        readingTime: 2,
+        dateUpdated: "août 18, 2024 8:55:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-048-cliquer-pour-la-vid-o-el-final-de-los-fuegos-de-las-fiestas-en-ge-el-final-de-los-fuegos-de-las-fiestas-en-ge": {
+        title: "Cliquer pour la vidéo :El final de los fuegos de las fiestas en GE ! El final de los fuegos de las fiestas en GE !",
+        description: "Cliquer pour la vidéo :El final de los fuegos de las fiestas en GE ! El final de los fuegos de las fiestas en GE !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-048-cliquer-pour-la-vid-o-el-final-de-los-fuegos-de-las-fiestas-en-ge-el-final-de-los-fuegos-de-las-fiestas-en-ge",
+        readingTime: 2,
+        dateUpdated: "août 18, 2024 1:27:40 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-049-hoy-le-toca-a-miles-de-alumnos-regresar-al-cole-el-sistema-educativo-en-suiza-es-diverso-y-est-altamente-descentralizado-lo-que-significa-que-cada": {
+        title: "Hoy le toca a miles de alumnos regresar al cole. El sistema educativo en Suiza es diverso y está altamente descentralizado, lo que significa que cada",
+        description: "Hoy le toca a miles de alumnos regresar al cole. El sistema educativo en Suiza es diverso y está altamente descentralizado, lo que significa que cada",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-049-hoy-le-toca-a-miles-de-alumnos-regresar-al-cole-el-sistema-educativo-en-suiza-es-diverso-y-est-altamente-descentralizado-lo-que-significa-que-cada",
+        readingTime: 2,
+        dateUpdated: "août 19, 2024 6:09:29 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-050-planificaci-n-financiera-en-suiza-ejemplos-de-presupuesto-para-diferentes-tipos-de-hogares": {
+        title: "Planificación Financiera en Suiza: Ejemplos de Presupuesto para Diferentes Tipos de Hogares",
+        description: "Planificación Financiera en Suiza: Ejemplos de Presupuesto para Diferentes Tipos de Hogares",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-050-planificaci-n-financiera-en-suiza-ejemplos-de-presupuesto-para-diferentes-tipos-de-hogares",
+        readingTime: 2,
+        dateUpdated: "août 22, 2024 11:52:47 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-051-en-julio-de-2024-la-tasa-de-desempleo-en-suiza-se-mantuvo-en-el-2-3-sin-cambios-respecto-al-mes-anterior-seg-n-los-ltimos-datos-publicados-desgl": {
+        title: "En julio de 2024, la tasa de desempleo en Suiza se mantuvo en el 2.3%, sin cambios respecto al mes anterior, según los últimos datos publicados. Desgl",
+        description: "En julio de 2024, la tasa de desempleo en Suiza se mantuvo en el 2.3%, sin cambios respecto al mes anterior, según los últimos datos publicados. Desgl",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-051-en-julio-de-2024-la-tasa-de-desempleo-en-suiza-se-mantuvo-en-el-2-3-sin-cambios-respecto-al-mes-anterior-seg-n-los-ltimos-datos-publicados-desgl",
+        readingTime: 2,
+        dateUpdated: "août 23, 2024 11:13:13 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-052-sistema-de-subvenciones-familiares-en-suiza-c-mo-funciona": {
+        title: "Sistema de Subvenciones Familiares en Suiza: ¿Cómo Funciona?",
+        description: "Sistema de Subvenciones Familiares en Suiza: ¿Cómo Funciona?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-052-sistema-de-subvenciones-familiares-en-suiza-c-mo-funciona",
+        readingTime: 2,
+        dateUpdated: "août 23, 2024 6:47:03 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-053-seguro-sanitario-para-trabajadores-transfronterizos-vivir-en-francia-y-trabajar-en-suiza": {
+        title: "Seguro Sanitario para Trabajadores Transfronterizos: Vivir en Francia y Trabajar en Suiza",
+        description: "Seguro Sanitario para Trabajadores Transfronterizos: Vivir en Francia y Trabajar en Suiza",
+        keywords: "salud, suiza",
+        category: "Salud y Seguro (LAMal)",
+        hub: "salud",
+        slug: "fb-053-seguro-sanitario-para-trabajadores-transfronterizos-vivir-en-francia-y-trabajar-en-suiza",
+        readingTime: 2,
+        dateUpdated: "août 24, 2024 12:43:05 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-054-homologaci-n-de-t-tulos-y-reconocimiento-de-cualificaciones-en-suiza": {
+        title: "Homologación de Títulos y Reconocimiento de Cualificaciones en Suiza",
+        description: "Homologación de Títulos y Reconocimiento de Cualificaciones en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-054-homologaci-n-de-t-tulos-y-reconocimiento-de-cualificaciones-en-suiza",
+        readingTime: 2,
+        dateUpdated: "août 25, 2024 11:34:57 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-055-sin-duda-sab-is-que-en-suiza-no-solo-envias-un-cv-para-un-puesto-de-trabajo-tiene-que-estar-acompa-ado-con-una-carta-de-motivaci-n-redactar-una-cart": {
+        title: "Sin duda sabéis que en Suiza no solo envias un CV para un puesto de trabajo. Tiene que estar acompañado con una carta de motivación. Redactar una cart",
+        description: "Sin duda sabéis que en Suiza no solo envias un CV para un puesto de trabajo. Tiene que estar acompañado con una carta de motivación. Redactar una cart",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-055-sin-duda-sab-is-que-en-suiza-no-solo-envias-un-cv-para-un-puesto-de-trabajo-tiene-que-estar-acompa-ado-con-una-carta-de-motivaci-n-redactar-una-cart",
+        readingTime: 2,
+        dateUpdated: "août 26, 2024 10:16:17 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-056-pagar-pagar-y-pagar-suiza-el-dorado": {
+        title: "Pagar, Pagar y Pagar. Suiza el Dorado ?",
+        description: "Pagar, Pagar y Pagar. Suiza el Dorado ?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-056-pagar-pagar-y-pagar-suiza-el-dorado",
+        readingTime: 2,
+        dateUpdated: "août 26, 2024 7:59:34 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-057-paga-por-lo-que-tiras": {
+        title: "¡Paga por lo que tiras!",
+        description: "¡Paga por lo que tiras!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-057-paga-por-lo-que-tiras",
+        readingTime: 2,
+        dateUpdated: "août 30, 2024 7:32:34 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-058-job-wanted-como-uno-se-tiene-que-preparar": {
+        title: "Job Wanted! Como uno se tiene que preparar",
+        description: "Job Wanted! Como uno se tiene que preparar",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-058-job-wanted-como-uno-se-tiene-que-preparar",
+        readingTime: 2,
+        dateUpdated: "août 31, 2024 7:38:43 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-059-el-je-ne-genevois-es-una-festividad-hist-rica-nica-de-ginebra-celebrada-el-jueves-posterior-al-primer-domingo-de-septiembre-este-d-a-conmemora-eve": {
+        title: "El Jeûne genevois  es una festividad histórica única de Ginebra, celebrada el jueves posterior al primer domingo de septiembre. Este día conmemora eve",
+        description: "El Jeûne genevois  es una festividad histórica única de Ginebra, celebrada el jueves posterior al primer domingo de septiembre. Este día conmemora eve",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-059-el-je-ne-genevois-es-una-festividad-hist-rica-nica-de-ginebra-celebrada-el-jueves-posterior-al-primer-domingo-de-septiembre-este-d-a-conmemora-eve",
+        readingTime: 2,
+        dateUpdated: "sep 06, 2024 2:18:28 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-060-en-suiza-los-precios-del-tren-han-comenzado-a-generar-controversia-debido-a-su-elevado-costo-en-comparaci-n-con-el-uso-del-autom-vil-seg-n-un-art-cu": {
+        title: "En Suiza, los precios del tren han comenzado a generar controversia debido a su elevado costo en comparación con el uso del automóvil. Según un artícu",
+        description: "En Suiza, los precios del tren han comenzado a generar controversia debido a su elevado costo en comparación con el uso del automóvil. Según un artícu",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-060-en-suiza-los-precios-del-tren-han-comenzado-a-generar-controversia-debido-a-su-elevado-costo-en-comparaci-n-con-el-uso-del-autom-vil-seg-n-un-art-cu",
+        readingTime: 2,
+        dateUpdated: "sep 06, 2024 6:40:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-061-cliquer-pour-la-vid-o-que-opinan-que-opinan": {
+        title: "Cliquer pour la vidéo :Que opinan ?! Que opinan ?!",
+        description: "Cliquer pour la vidéo :Que opinan ?! Que opinan ?!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-061-cliquer-pour-la-vid-o-que-opinan-que-opinan",
+        readingTime: 2,
+        dateUpdated: "sep 07, 2024 12:12:41 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-062-consecuencias-brexit": {
+        title: "Consecuencias BREXIT !",
+        description: "Consecuencias BREXIT !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-062-consecuencias-brexit",
+        readingTime: 2,
+        dateUpdated: "sep 15, 2024 8:10:29 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-063-la-empresa-mas-conocida-y-desconocida-de-suiza-serafe": {
+        title: "La empresa mas conocida y desconocida de Suiza : SERAFE",
+        description: "La empresa mas conocida y desconocida de Suiza : SERAFE",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-063-la-empresa-mas-conocida-y-desconocida-de-suiza-serafe",
+        readingTime: 2,
+        dateUpdated: "sep 17, 2024 7:35:03 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-064-sistema-de-estacionamiento-en-ginebra": {
+        title: "Sistema de Estacionamiento en Ginebra",
+        description: "Sistema de Estacionamiento en Ginebra",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-064-sistema-de-estacionamiento-en-ginebra",
+        readingTime: 2,
+        dateUpdated: "sep 18, 2024 1:34:46 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-065-el-precio-del-caf-en-el-mundo-un-ndice-que-refleja-el-costo-de-vida": {
+        title: "El Precio del Café en el Mundo: Un Índice que Refleja el Costo de Vida",
+        description: "El Precio del Café en el Mundo: Un Índice que Refleja el Costo de Vida",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-065-el-precio-del-caf-en-el-mundo-un-ndice-que-refleja-el-costo-de-vida",
+        readingTime: 2,
+        dateUpdated: "sep 18, 2024 7:20:07 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-066-antes-se-coge-al-mentiroso-que-al-cojo": {
+        title: "Antes se coge al mentiroso que al cojo",
+        description: "Antes se coge al mentiroso que al cojo",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-066-antes-se-coge-al-mentiroso-que-al-cojo",
+        readingTime: 2,
+        dateUpdated: "sep 19, 2024 7:56:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-067-la-consecuencias-de-un-comentario-en-facebook": {
+        title: "La consecuencias de un comentario en Facebook !",
+        description: "La consecuencias de un comentario en Facebook !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-067-la-consecuencias-de-un-comentario-en-facebook",
+        readingTime: 2,
+        dateUpdated: "sep 21, 2024 4:09:06 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-068-impuestos-sobre-la-renta-en-suiza-estructura-y-distribuci-n": {
+        title: "Impuestos sobre la Renta en Suiza: Estructura y Distribución",
+        description: "Impuestos sobre la Renta en Suiza: Estructura y Distribución",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-068-impuestos-sobre-la-renta-en-suiza-estructura-y-distribuci-n",
+        readingTime: 2,
+        dateUpdated: "sep 21, 2024 6:25:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-069-el-combate-de-un-david-vs-goliath-delante-de-los-tribunales-suizos": {
+        title: "El combate de un David vs Goliath delante de los tribunales Suizos !",
+        description: "El combate de un David vs Goliath delante de los tribunales Suizos !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-069-el-combate-de-un-david-vs-goliath-delante-de-los-tribunales-suizos",
+        readingTime: 2,
+        dateUpdated: "sep 23, 2024 7:29:55 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-070-requisitos-y-preparaci-n-para-emigrar-a-suiza-como-ciudadano-europeo-el-papel-crucial-del-idioma": {
+        title: "Requisitos y Preparación para Emigrar a Suiza como Ciudadano Europeo: El Papel Crucial del Idioma",
+        description: "Requisitos y Preparación para Emigrar a Suiza como Ciudadano Europeo: El Papel Crucial del Idioma",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-070-requisitos-y-preparaci-n-para-emigrar-a-suiza-como-ciudadano-europeo-el-papel-crucial-del-idioma",
+        readingTime: 2,
+        dateUpdated: "sep 23, 2024 6:15:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-071-mes-amis-espagnols-dirigido-por-adrien-bordone-narra-la-historia-de-sus-amigos-hijos-de-inmigrantes-espa-oles-que-crecieron-en-bienne-suiza-ante": {
+        title: "Mes Amis Espagnols, dirigido por Adrien Bordone, narra la historia de sus amigos, hijos de inmigrantes españoles, que crecieron en Bienne, Suiza, ante",
+        description: "Mes Amis Espagnols, dirigido por Adrien Bordone, narra la historia de sus amigos, hijos de inmigrantes españoles, que crecieron en Bienne, Suiza, ante",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-071-mes-amis-espagnols-dirigido-por-adrien-bordone-narra-la-historia-de-sus-amigos-hijos-de-inmigrantes-espa-oles-que-crecieron-en-bienne-suiza-ante",
+        readingTime: 2,
+        dateUpdated: "sep 24, 2024 7:26:42 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-072-carne-de-res-no-pero-si-de-cerdo": {
+        title: "Carne de res no pero si de cerdo !",
+        description: "Carne de res no pero si de cerdo !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-072-carne-de-res-no-pero-si-de-cerdo",
+        readingTime: 2,
+        dateUpdated: "sep 24, 2024 11:55:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-073-llega-el-mes-pintado-de-rosa": {
+        title: "Llega el mes pintado de Rosa !",
+        description: "Llega el mes pintado de Rosa !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-073-llega-el-mes-pintado-de-rosa",
+        readingTime: 2,
+        dateUpdated: "sep 25, 2024 5:21:13 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-074-aumentan-las-primas-de-seguro-sorpresa-no-no-realmente": {
+        title: "Aumentan las Primas de Seguro: ¡Sorpresa! (No, no realmente)",
+        description: "Aumentan las Primas de Seguro: ¡Sorpresa! (No, no realmente)",
+        keywords: "salud, suiza",
+        category: "Salud y Seguro (LAMal)",
+        hub: "salud",
+        slug: "fb-074-aumentan-las-primas-de-seguro-sorpresa-no-no-realmente",
+        readingTime: 2,
+        dateUpdated: "sep 27, 2024 5:45:10 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-075-solo-comparto-buscan-camarera-60-en-ginebra-solo-comparto-buscan-camarera-60-en-ginebra": {
+        title: "Solo comparto. Buscan camarera à 60% en Ginebra. Solo comparto. Buscan camarera à 60% en Ginebra.",
+        description: "Solo comparto. Buscan camarera à 60% en Ginebra. Solo comparto. Buscan camarera à 60% en Ginebra.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-075-solo-comparto-buscan-camarera-60-en-ginebra-solo-comparto-buscan-camarera-60-en-ginebra",
+        readingTime: 2,
+        dateUpdated: "sep 27, 2024 7:45:53 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-076-alquileres-y-preocupaciones": {
+        title: "Alquileres y preocupaciones",
+        description: "Alquileres y preocupaciones",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-076-alquileres-y-preocupaciones",
+        readingTime: 2,
+        dateUpdated: "sep 28, 2024 7:10:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-077-atenci-n-amigos-de-suiza": {
+        title: "¡Atención, amigos de Suiza!",
+        description: "¡Atención, amigos de Suiza!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-077-atenci-n-amigos-de-suiza",
+        readingTime: 2,
+        dateUpdated: "sep 28, 2024 6:25:10 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-078-infecciones-por-micoplasmas-en-ni-os-2024-un-aumento-r-cord-en-suiza": {
+        title: "Infecciones por Micoplasmas en Niños 2024: Un Aumento Récord en Suiza",
+        description: "Infecciones por Micoplasmas en Niños 2024: Un Aumento Récord en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-078-infecciones-por-micoplasmas-en-ni-os-2024-un-aumento-r-cord-en-suiza",
+        readingTime: 2,
+        dateUpdated: "sep 29, 2024 7:40:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-079-en-suiza-hasta-para-ir-al-ba-o-hay-que-fichar-el-reloj-manda": {
+        title: "En Suiza, hasta para ir al baño hay que fichar: ¡el reloj manda!",
+        description: "En Suiza, hasta para ir al baño hay que fichar: ¡el reloj manda!",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-079-en-suiza-hasta-para-ir-al-ba-o-hay-que-fichar-el-reloj-manda",
+        readingTime: 2,
+        dateUpdated: "oct 09, 2024 7:06:48 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-080-suiza-elegida-nuevamente-al-consejo-de-derechos-humanos-de-la-onu": {
+        title: "Suiza elegida nuevamente al Consejo de Derechos Humanos de la ONU",
+        description: "Suiza elegida nuevamente al Consejo de Derechos Humanos de la ONU",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-080-suiza-elegida-nuevamente-al-consejo-de-derechos-humanos-de-la-onu",
+        readingTime: 2,
+        dateUpdated: "oct 10, 2024 5:45:57 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-081-el-aeropuerto-de-ginebra-hundida-por-easyjet": {
+        title: "El Aeropuerto de Ginebra hundida por EasyJet",
+        description: "El Aeropuerto de Ginebra hundida por EasyJet",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-081-el-aeropuerto-de-ginebra-hundida-por-easyjet",
+        readingTime: 2,
+        dateUpdated: "oct 10, 2024 12:35:04 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-082-atenci-n-viajeros-los-cff-despliegan-la-orquesta-para-evitar-el-atasco-en-la-estaci-n-de-berna": {
+        title: "¡Atención, viajeros! Los CFF despliegan la orquesta para evitar el atasco en la estación de Berna",
+        description: "¡Atención, viajeros! Los CFF despliegan la orquesta para evitar el atasco en la estación de Berna",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-082-atenci-n-viajeros-los-cff-despliegan-la-orquesta-para-evitar-el-atasco-en-la-estaci-n-de-berna",
+        readingTime: 2,
+        dateUpdated: "oct 10, 2024 7:05:03 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-083-solo-comparto-contacto-en-el-anuncio-solo-comparto-contacto-en-el-anuncio": {
+        title: "Solo comparto. Contacto en el anuncio. Solo comparto. Contacto en el anuncio.",
+        description: "Solo comparto. Contacto en el anuncio. Solo comparto. Contacto en el anuncio.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-083-solo-comparto-contacto-en-el-anuncio-solo-comparto-contacto-en-el-anuncio",
+        readingTime: 2,
+        dateUpdated: "oct 10, 2024 8:50:28 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-084-el-proceso-de-naturalizaci-n-facilitada-en-suiza": {
+        title: "El Proceso de Naturalización Facilitada en Suiza",
+        description: "El Proceso de Naturalización Facilitada en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-084-el-proceso-de-naturalizaci-n-facilitada-en-suiza",
+        readingTime: 2,
+        dateUpdated: "oct 11, 2024 5:39:46 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-085-quiz-suiza-divertido-pon-a-prueba-tus-conocimientos": {
+        title: "🧠🇨🇭 Quiz Suiza Divertido: ¡Pon a Prueba tus Conocimientos!",
+        description: "🧠🇨🇭 Quiz Suiza Divertido: ¡Pon a Prueba tus Conocimientos!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-085-quiz-suiza-divertido-pon-a-prueba-tus-conocimientos",
+        readingTime: 2,
+        dateUpdated: "oct 11, 2024 12:55:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-086-descubriendo-la-cocina-suiza-mucho-m-s-que-fondueaunque-la-fondue-es-el-plato-m-s-ic-nico-de-suiza-el-pa-s-cuenta-con-una-incre-ble-diversidad-c": {
+        title: "Descubriendo la Cocina Suiza: Mucho Más que FondueAunque la fondue es el plato más icónico de Suiza, el país cuenta con una increíble diversidad c",
+        description: "Descubriendo la Cocina Suiza: Mucho Más que FondueAunque la fondue es el plato más icónico de Suiza, el país cuenta con una increíble diversidad c",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-086-descubriendo-la-cocina-suiza-mucho-m-s-que-fondueaunque-la-fondue-es-el-plato-m-s-ic-nico-de-suiza-el-pa-s-cuenta-con-una-incre-ble-diversidad-c",
+        readingTime: 2,
+        dateUpdated: "oct 14, 2024 8:43:26 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-087-las-relaciones-entre-suiza-y-la-ue-un-camino-complicado": {
+        title: "Las Relaciones entre Suiza y la UE: Un Camino Complicado",
+        description: "Las Relaciones entre Suiza y la UE: Un Camino Complicado",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-087-las-relaciones-entre-suiza-y-la-ue-un-camino-complicado",
+        readingTime: 2,
+        dateUpdated: "oct 16, 2024 9:03:50 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-088-multa-de-200-francos-por-no-pagar-un-saco-de-40-c-ntimos-en-migros": {
+        title: "Multa de 200 francos por no pagar un saco de 40 céntimos en Migros",
+        description: "Multa de 200 francos por no pagar un saco de 40 céntimos en Migros",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-088-multa-de-200-francos-por-no-pagar-un-saco-de-40-c-ntimos-en-migros",
+        readingTime: 2,
+        dateUpdated: "oct 17, 2024 7:05:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-089-compras-semanales-nuevas-reglas-de-aduana-a-partir-del-1-de-enero-2025": {
+        title: "Compras semanales : Nuevas reglas de aduana a partir del 1 de enero 2025",
+        description: "Compras semanales : Nuevas reglas de aduana a partir del 1 de enero 2025",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-089-compras-semanales-nuevas-reglas-de-aduana-a-partir-del-1-de-enero-2025",
+        readingTime: 2,
+        dateUpdated: "oct 17, 2024 1:05:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-090-cliquer-pour-la-vid-o": {
+        title: "Cliquer pour la vidéo :",
+        description: "Cliquer pour la vidéo :",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-090-cliquer-pour-la-vid-o",
+        readingTime: 2,
+        dateUpdated: "oct 20, 2024 10:35:33 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-091-querido-miembros": {
+        title: "Querido miembros,",
+        description: "Querido miembros,",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-091-querido-miembros",
+        readingTime: 2,
+        dateUpdated: "oct 20, 2024 1:40:26 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-092-solo-comparto-est-oferta-vista-en-otro-grupo": {
+        title: "Solo comparto está oferta vista en otro grupo.",
+        description: "Solo comparto está oferta vista en otro grupo.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-092-solo-comparto-est-oferta-vista-en-otro-grupo",
+        readingTime: 2,
+        dateUpdated: "oct 21, 2024 7:20:55 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-093-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-093-sans-titre",
+        readingTime: 2,
+        dateUpdated: "oct 21, 2024 7:20:55 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-094-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-094-sans-titre",
+        readingTime: 2,
+        dateUpdated: "oct 21, 2024 7:20:55 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-095-el-que-hizo-la-ley-hizo-la-trampa": {
+        title: "El que hizo la ley hizo la trampa !",
+        description: "El que hizo la ley hizo la trampa !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-095-el-que-hizo-la-ley-hizo-la-trampa",
+        readingTime: 2,
+        dateUpdated: "oct 21, 2024 8:45:20 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-096-es-justo-perder-un-oportunidad-de-trabajo-por-un-tatuaje-en-la-mano": {
+        title: "¿Es justo perder un oportunidad de trabajo por un tatuaje en la mano?",
+        description: "¿Es justo perder un oportunidad de trabajo por un tatuaje en la mano?",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-096-es-justo-perder-un-oportunidad-de-trabajo-por-un-tatuaje-en-la-mano",
+        readingTime: 2,
+        dateUpdated: "oct 22, 2024 10:08:47 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-097-un-apartamento-en-z-rich-solo-para-mujeres-discriminaci-n-o-necesidad": {
+        title: "Un apartamento en Zúrich solo para mujeres: ¿discriminación o necesidad?",
+        description: "Un apartamento en Zúrich solo para mujeres: ¿discriminación o necesidad?",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-097-un-apartamento-en-z-rich-solo-para-mujeres-discriminaci-n-o-necesidad",
+        readingTime: 2,
+        dateUpdated: "oct 26, 2024 1:45:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-098-cinco-millones-de-graduados-extranjeros-sue-an-con-suiza": {
+        title: "Cinco millones de graduados extranjeros sueñan con Suiza",
+        description: "Cinco millones de graduados extranjeros sueñan con Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-098-cinco-millones-de-graduados-extranjeros-sue-an-con-suiza",
+        readingTime: 2,
+        dateUpdated: "oct 27, 2024 7:55:03 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-099-mercados-navide-os-en-suiza": {
+        title: "Mercados Navideños en Suiza",
+        description: "Mercados Navideños en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-099-mercados-navide-os-en-suiza",
+        readingTime: 2,
+        dateUpdated: "oct 27, 2024 8:40:03 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-100-la-obligaci-n-escolar-en-suiza-y-las-consecuencias-de-las-ausencias-no-justificadas": {
+        title: "La Obligación Escolar en Suiza y las Consecuencias de las Ausencias No Justificadas",
+        description: "La Obligación Escolar en Suiza y las Consecuencias de las Ausencias No Justificadas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-100-la-obligaci-n-escolar-en-suiza-y-las-consecuencias-de-las-ausencias-no-justificadas",
+        readingTime: 2,
+        dateUpdated: "oct 30, 2024 7:21:43 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-101-double-cr-me-de-gruy-re-con-merengues-tu-defensa-contra-el-invierno": {
+        title: "Double Crème de Gruyère con Merengues: Tu Defensa Contra el Invierno",
+        description: "Double Crème de Gruyère con Merengues: Tu Defensa Contra el Invierno",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-101-double-cr-me-de-gruy-re-con-merengues-tu-defensa-contra-el-invierno",
+        readingTime: 2,
+        dateUpdated: "oct 31, 2024 7:58:52 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-102-ante-las-recientes-inundaciones-en-valencia-nos-toca-una-vez-m-s-unirnos-y-apoyar-a-nuestros-herman-s-valencian-s-desde-suiza-la-solidaridad-de-nues": {
+        title: "Ante las recientes inundaciones en Valencia, nos toca una vez más unirnos y apoyar a nuestros herman@s valencian@s desde Suiza. La solidaridad de nues",
+        description: "Ante las recientes inundaciones en Valencia, nos toca una vez más unirnos y apoyar a nuestros herman@s valencian@s desde Suiza. La solidaridad de nues",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-102-ante-las-recientes-inundaciones-en-valencia-nos-toca-una-vez-m-s-unirnos-y-apoyar-a-nuestros-herman-s-valencian-s-desde-suiza-la-solidaridad-de-nues",
+        readingTime: 2,
+        dateUpdated: "nov 04, 2024 10:31:21 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-103-suiza-y-liechtenstein-una-relaci-n-nica-en-europa": {
+        title: "Suiza y Liechtenstein: Una Relación Única en Europa",
+        description: "Suiza y Liechtenstein: Una Relación Única en Europa",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-103-suiza-y-liechtenstein-una-relaci-n-nica-en-europa",
+        readingTime: 2,
+        dateUpdated: "nov 06, 2024 7:30:59 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-104-cliquer-pour-la-vid-o-el-aeropuerto-de-buochs-donde-los-aviones-y-coches-comparten-la-carretera": {
+        title: "Cliquer pour la vidéo :¡El aeropuerto de Buochs, donde los aviones y coches comparten la carretera!",
+        description: "Cliquer pour la vidéo :¡El aeropuerto de Buochs, donde los aviones y coches comparten la carretera!",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-104-cliquer-pour-la-vid-o-el-aeropuerto-de-buochs-donde-los-aviones-y-coches-comparten-la-carretera",
+        readingTime: 2,
+        dateUpdated: "nov 07, 2024 3:27:20 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-105-la-dif-cil-b-squeda-de-vivienda-en-la-frontera-suiza-para-los-trabajadores-franceses": {
+        title: "La difícil búsqueda de vivienda en la frontera suiza para los trabajadores franceses",
+        description: "La difícil búsqueda de vivienda en la frontera suiza para los trabajadores franceses",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-105-la-dif-cil-b-squeda-de-vivienda-en-la-frontera-suiza-para-los-trabajadores-franceses",
+        readingTime: 2,
+        dateUpdated: "nov 08, 2024 6:28:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-106-la-ley-anti-burka-en-suiza-qu-implica": {
+        title: "La Ley Anti-Burka en Suiza: ¿Qué Implica?",
+        description: "La Ley Anti-Burka en Suiza: ¿Qué Implica?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-106-la-ley-anti-burka-en-suiza-qu-implica",
+        readingTime: 2,
+        dateUpdated: "nov 09, 2024 9:02:38 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-107-prot-gete-de-estafas-en-l-nea-y-usa-tu-smartphone-de-forma-inteligente": {
+        title: "Protégete de Estafas en Línea y Usa tu Smartphone de Forma Inteligente",
+        description: "Protégete de Estafas en Línea y Usa tu Smartphone de Forma Inteligente",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-107-prot-gete-de-estafas-en-l-nea-y-usa-tu-smartphone-de-forma-inteligente",
+        readingTime: 2,
+        dateUpdated: "nov 12, 2024 6:04:43 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-108-bienvenidos-al-grupo-de-espa-oles-que-realmente-se-ayudan-en-suiza": {
+        title: "Bienvenidos al Grupo de \"Españoles que realmente se ayudan en Suiza\"",
+        description: "Bienvenidos al Grupo de \"Españoles que realmente se ayudan en Suiza\"",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-108-bienvenidos-al-grupo-de-espa-oles-que-realmente-se-ayudan-en-suiza",
+        readingTime: 2,
+        dateUpdated: "nov 12, 2024 9:01:07 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-109-del-s-bado-23-de-noviembre-19-00-al-domingo-24-de-noviembre-15-00-la-estaci-n-de-tren-de-ginebra-cornavin-cerrar-por-20-horas-desde-la-noche-ha": {
+        title: "Del sábado 23 de noviembre (19:00) al domingo 24 de noviembre (15:00), la estación de tren de Ginebra Cornavin cerrará por 20 horas, desde la noche ha",
+        description: "Del sábado 23 de noviembre (19:00) al domingo 24 de noviembre (15:00), la estación de tren de Ginebra Cornavin cerrará por 20 horas, desde la noche ha",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-109-del-s-bado-23-de-noviembre-19-00-al-domingo-24-de-noviembre-15-00-la-estaci-n-de-tren-de-ginebra-cornavin-cerrar-por-20-horas-desde-la-noche-ha",
+        readingTime: 2,
+        dateUpdated: "nov 14, 2024 7:45:09 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-110-cliquer-pour-la-vid-o-del-27-de-octubre-al-7-de-enero-ginebra-se-transforma-en-un-espect-culo-de-arte-y-tecnolog-a-con-colloque-wright-o-geneva-l": {
+        title: "Cliquer pour la vidéo :Del 27 de octubre al 7 de enero, Ginebra se transforma en un espectáculo de arte y tecnología con \"colloque Wright\" o \"Geneva L",
+        description: "Cliquer pour la vidéo :Del 27 de octubre al 7 de enero, Ginebra se transforma en un espectáculo de arte y tecnología con \"colloque Wright\" o \"Geneva L",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-110-cliquer-pour-la-vid-o-del-27-de-octubre-al-7-de-enero-ginebra-se-transforma-en-un-espect-culo-de-arte-y-tecnolog-a-con-colloque-wright-o-geneva-l",
+        readingTime: 2,
+        dateUpdated: "nov 16, 2024 1:34:23 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-111-la-coupe-de-no-l-2024-m-s-que-un-chapuz-n-una-fiesta-congelada": {
+        title: "¡La Coupe de Noël 2024: Más que un chapuzón, una fiesta congelada!",
+        description: "¡La Coupe de Noël 2024: Más que un chapuzón, una fiesta congelada!",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-111-la-coupe-de-no-l-2024-m-s-que-un-chapuz-n-una-fiesta-congelada",
+        readingTime: 2,
+        dateUpdated: "nov 18, 2024 7:10:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-112-impuesto-al-autom-vil-en-ginebra-justicia-ambiental-o-golpe-al-bolsillo": {
+        title: "Impuesto al automóvil en Ginebra: ¿justicia ambiental o golpe al bolsillo?",
+        description: "Impuesto al automóvil en Ginebra: ¿justicia ambiental o golpe al bolsillo?",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-112-impuesto-al-autom-vil-en-ginebra-justicia-ambiental-o-golpe-al-bolsillo",
+        readingTime: 2,
+        dateUpdated: "nov 18, 2024 8:38:38 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-113-cliquer-pour-la-vid-o-peak-walk-3000-una-experiencia-que-te-dejar-sin-aliento-literal-y-figurativamente": {
+        title: "Cliquer pour la vidéo :Peak Walk 3000: una experiencia que te dejará sin aliento (literal y figurativamente)",
+        description: "Cliquer pour la vidéo :Peak Walk 3000: una experiencia que te dejará sin aliento (literal y figurativamente)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-113-cliquer-pour-la-vid-o-peak-walk-3000-una-experiencia-que-te-dejar-sin-aliento-literal-y-figurativamente",
+        readingTime: 2,
+        dateUpdated: "nov 19, 2024 7:40:52 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-114-hasta-la-felicidad-se-puede-medir": {
+        title: "¡Hasta la felicidad se puede medir!",
+        description: "¡Hasta la felicidad se puede medir!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-114-hasta-la-felicidad-se-puede-medir",
+        readingTime: 2,
+        dateUpdated: "nov 19, 2024 7:08:45 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-115-c-mo-afecta-el-clima-suizo-a-tu-estado-de-nimo": {
+        title: "¿Cómo afecta el clima suizo a tu estado de ánimo?",
+        description: "¿Cómo afecta el clima suizo a tu estado de ánimo?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-115-c-mo-afecta-el-clima-suizo-a-tu-estado-de-nimo",
+        readingTime: 2,
+        dateUpdated: "nov 22, 2024 6:58:46 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-116-la-emigraci-n-el-arte-de-dejar-para-ganar": {
+        title: "La emigración: el arte de dejar para ganar",
+        description: "La emigración: el arte de dejar para ganar",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-116-la-emigraci-n-el-arte-de-dejar-para-ganar",
+        readingTime: 2,
+        dateUpdated: "nov 23, 2024 7:43:29 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-117-ra-ces-en-el-coraz-n-alas-en-suiza": {
+        title: "Raíces en el corazón, alas en Suiza",
+        description: "Raíces en el corazón, alas en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-117-ra-ces-en-el-coraz-n-alas-en-suiza",
+        readingTime: 2,
+        dateUpdated: "nov 24, 2024 8:28:48 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-118-cliquer-pour-la-vid-o-son-pocos-los-que-dicen-la-dura-realidad-de-emigrar-a-suiza-sacrificios-esfuerzos-y-trabaj-que-no-te-enga-en-son-pocos-l": {
+        title: "Cliquer pour la vidéo :Son pocos los que dicen la dura realidad de emigrar a Suiza... Sacrificios, esfuerzos y trabajó! Que no te engañen. Son pocos l",
+        description: "Cliquer pour la vidéo :Son pocos los que dicen la dura realidad de emigrar a Suiza... Sacrificios, esfuerzos y trabajó! Que no te engañen. Son pocos l",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-118-cliquer-pour-la-vid-o-son-pocos-los-que-dicen-la-dura-realidad-de-emigrar-a-suiza-sacrificios-esfuerzos-y-trabaj-que-no-te-enga-en-son-pocos-l",
+        readingTime: 2,
+        dateUpdated: "nov 24, 2024 8:41:15 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-119-el-idioma-el-primer-desaf-o-del-emigrante": {
+        title: "El idioma: el primer desafío del emigrante",
+        description: "El idioma: el primer desafío del emigrante",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-119-el-idioma-el-primer-desaf-o-del-emigrante",
+        readingTime: 2,
+        dateUpdated: "nov 25, 2024 6:51:55 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-120-buenas-busco-un-transportista-de-ginebra-a-barcelona-para-llevar-una-moto-para-finales-de-julio-2025-precio-razonalbe-sin-tener-que-dar-un-ri-on": {
+        title: "Buenas !Busco un transportista de Ginebra a Barcelona para llevar una moto para finales de julio 2025. Precio razonalbe sin tener que dar un riñon.",
+        description: "Buenas !Busco un transportista de Ginebra a Barcelona para llevar una moto para finales de julio 2025. Precio razonalbe sin tener que dar un riñon.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-120-buenas-busco-un-transportista-de-ginebra-a-barcelona-para-llevar-una-moto-para-finales-de-julio-2025-precio-razonalbe-sin-tener-que-dar-un-ri-on",
+        readingTime: 2,
+        dateUpdated: "mai 28, 2025 4:37:23 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-121-ginebra-se-llena-de-vida-este-verano": {
+        title: "Ginebra se llena de vida este verano! 🎉",
+        description: "Ginebra se llena de vida este verano! 🎉",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-121-ginebra-se-llena-de-vida-este-verano",
+        readingTime: 2,
+        dateUpdated: "mai 31, 2025 11:40:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-122-atenci-n-comunidad-hispanohablante-de-ginebra-una-reforma-educativa-propuesta-por-el-departamento-de-instrucci-n-p-blica-dip-amenaza-el-lugar": {
+        title: "¡Atención comunidad hispanohablante de Ginebra!Una reforma educativa propuesta por el Departamento de Instrucción Pública (DIP) amenaza el lugar",
+        description: "¡Atención comunidad hispanohablante de Ginebra!Una reforma educativa propuesta por el Departamento de Instrucción Pública (DIP) amenaza el lugar",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-122-atenci-n-comunidad-hispanohablante-de-ginebra-una-reforma-educativa-propuesta-por-el-departamento-de-instrucci-n-p-blica-dip-amenaza-el-lugar",
+        readingTime: 2,
+        dateUpdated: "mai 31, 2025 7:25:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-123-d-nde-se-puede-ba-ar-uno-en-ginebra-sin-meter-la-pata": {
+        title: "¿Dónde se puede bañar uno en Ginebra sin meter la pata?",
+        description: "¿Dónde se puede bañar uno en Ginebra sin meter la pata?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-123-d-nde-se-puede-ba-ar-uno-en-ginebra-sin-meter-la-pata",
+        readingTime: 2,
+        dateUpdated: "juin 03, 2025 3:55:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-124-c-mo-leer-una-n-mina-suiza-sin-morir-en-el-intento": {
+        title: "Cómo leer una nómina suiza sin morir en el intento",
+        description: "Cómo leer una nómina suiza sin morir en el intento",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-124-c-mo-leer-una-n-mina-suiza-sin-morir-en-el-intento",
+        readingTime: 2,
+        dateUpdated: "juin 04, 2025 11:10:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-125-c-mo-conseguir-un-apartamento-sin-tener-contactos-ni-sueldo-de-banquero": {
+        title: "¿Cómo conseguir un apartamento sin tener contactos ni sueldo de banquero?",
+        description: "¿Cómo conseguir un apartamento sin tener contactos ni sueldo de banquero?",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-125-c-mo-conseguir-un-apartamento-sin-tener-contactos-ni-sueldo-de-banquero",
+        readingTime: 2,
+        dateUpdated: "juin 05, 2025 7:50:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-126-pierde-una-mochila-con-42-esmeraldas-en-ginebra-y-la-recupera": {
+        title: "Pierde una mochila con 42 esmeraldas en Ginebra… y la recupera",
+        description: "Pierde una mochila con 42 esmeraldas en Ginebra… y la recupera",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-126-pierde-una-mochila-con-42-esmeraldas-en-ginebra-y-la-recupera",
+        readingTime: 2,
+        dateUpdated: "juin 07, 2025 7:58:06 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-127-el-tratado-de-schengen-ese-que-todos-nombran-pero-pocos-saben-qu-implica-especialmente-en-suiza": {
+        title: "El Tratado de Schengen: ese que todos nombran pero pocos saben qué implica (especialmente en Suiza)",
+        description: "El Tratado de Schengen: ese que todos nombran pero pocos saben qué implica (especialmente en Suiza)",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-127-el-tratado-de-schengen-ese-que-todos-nombran-pero-pocos-saben-qu-implica-especialmente-en-suiza",
+        readingTime: 2,
+        dateUpdated: "juin 08, 2025 8:55:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-128-solo-me-queda-confiar-o-por-qu-venir-a-suiza-sin-colch-n-es-una-ruleta-rusa": {
+        title: "“Solo me queda confiar” – o por qué venir a Suiza sin colchón es una ruleta rusa",
+        description: "“Solo me queda confiar” – o por qué venir a Suiza sin colchón es una ruleta rusa",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-128-solo-me-queda-confiar-o-por-qu-venir-a-suiza-sin-colch-n-es-una-ruleta-rusa",
+        readingTime: 2,
+        dateUpdated: "juin 09, 2025 7:35:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-129-multas-y-fiscalidad-cosas-que-en-suiza-no-se-perdonan-ni-aunque-digas-que-eres-nuevo": {
+        title: "Multas y fiscalidad: cosas que en Suiza no se perdonan (ni aunque digas que eres nuevo)",
+        description: "Multas y fiscalidad: cosas que en Suiza no se perdonan (ni aunque digas que eres nuevo)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-129-multas-y-fiscalidad-cosas-que-en-suiza-no-se-perdonan-ni-aunque-digas-que-eres-nuevo",
+        readingTime: 2,
+        dateUpdated: "juin 10, 2025 7:20:00 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-130-sab-as-que-en-suiza-hay-un-rey-que-conquista-terrenos-por-unos-cientos-de-francos-y-pide-que-le-pongan-su-nombre-a-la-calle": {
+        title: "¿Sabías que en Suiza hay un “rey” que conquista terrenos por unos cientos de francos… y pide que le pongan su nombre a la calle?",
+        description: "¿Sabías que en Suiza hay un “rey” que conquista terrenos por unos cientos de francos… y pide que le pongan su nombre a la calle?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-130-sab-as-que-en-suiza-hay-un-rey-que-conquista-terrenos-por-unos-cientos-de-francos-y-pide-que-le-pongan-su-nombre-a-la-calle",
+        readingTime: 2,
+        dateUpdated: "juin 11, 2025 11:50:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-131-cuenta-bancaria-en-suiza-s-pero-que-empiece-por-ch-por-favor": {
+        title: "¿Cuenta bancaria en Suiza? Sí, pero que empiece por CH, por favor !",
+        description: "¿Cuenta bancaria en Suiza? Sí, pero que empiece por CH, por favor !",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-131-cuenta-bancaria-en-suiza-s-pero-que-empiece-por-ch-por-favor",
+        readingTime: 2,
+        dateUpdated: "juin 12, 2025 8:15:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-132-cliquer-pour-la-vid-o": {
+        title: "Cliquer pour la vidéo :",
+        description: "Cliquer pour la vidéo :",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-132-cliquer-pour-la-vid-o",
+        readingTime: 2,
+        dateUpdated: "juin 14, 2025 8:38:51 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-133-siete-inventos-suizos-que-usamos-sin-saber-que-eran-suizos": {
+        title: "Siete inventos suizos que usamos sin saber que eran suizos",
+        description: "Siete inventos suizos que usamos sin saber que eran suizos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-133-siete-inventos-suizos-que-usamos-sin-saber-que-eran-suizos",
+        readingTime: 2,
+        dateUpdated: "juin 21, 2025 7:37:13 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-134-suiza-desde-el-agua-5-escapadas-para-desconectar-flotando": {
+        title: "Suiza desde el agua: 5 escapadas para desconectar flotando",
+        description: "Suiza desde el agua: 5 escapadas para desconectar flotando",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-134-suiza-desde-el-agua-5-escapadas-para-desconectar-flotando",
+        readingTime: 2,
+        dateUpdated: "juil 07, 2025 2:23:44 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-135-ginebra-ya-no-es-suiza-al-menos-no-del-todoatenci-n-al-dato-en-el-cant-n-de-ginebra-m-s-de-la-mitad-de-los-adultos-no-tienen-nacionalidad-suiza": {
+        title: "Ginebra ya no es “suiza”… al menos no del todoAtención al dato: en el cantón de Ginebra, más de la mitad de los adultos no tienen nacionalidad suiza.",
+        description: "Ginebra ya no es “suiza”… al menos no del todoAtención al dato: en el cantón de Ginebra, más de la mitad de los adultos no tienen nacionalidad suiza.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-135-ginebra-ya-no-es-suiza-al-menos-no-del-todoatenci-n-al-dato-en-el-cant-n-de-ginebra-m-s-de-la-mitad-de-los-adultos-no-tienen-nacionalidad-suiza",
+        readingTime: 2,
+        dateUpdated: "juil 10, 2025 11:28:58 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-136-qu-ganamos-o-perdemos-con-los-nuevos-acuerdos-suiza-ue": {
+        title: "¿Qué ganamos (o perdemos) con los nuevos acuerdos Suiza-UE?",
+        description: "¿Qué ganamos (o perdemos) con los nuevos acuerdos Suiza-UE?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-136-qu-ganamos-o-perdemos-con-los-nuevos-acuerdos-suiza-ue",
+        readingTime: 2,
+        dateUpdated: "juil 12, 2025 8:36:03 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-137-espa-a-suiza-en-berna-a-por-semis-y-tranquilos-esta-vez-los-besos-van-con-consentimiento": {
+        title: "España - Suiza en Berna: a por semis… y tranquilos, esta vez los besos van con consentimiento",
+        description: "España - Suiza en Berna: a por semis… y tranquilos, esta vez los besos van con consentimiento",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-137-espa-a-suiza-en-berna-a-por-semis-y-tranquilos-esta-vez-los-besos-van-con-consentimiento",
+        readingTime: 2,
+        dateUpdated: "juil 12, 2025 10:02:49 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-138-todo-se-vota-en-suiza-incluso-pagar-menos-impuestos": {
+        title: "Todo se vota en Suiza… incluso pagar menos impuestos",
+        description: "Todo se vota en Suiza… incluso pagar menos impuestos",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-138-todo-se-vota-en-suiza-incluso-pagar-menos-impuestos",
+        readingTime: 2,
+        dateUpdated: "juil 13, 2025 9:45:56 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-139-san-ferm-n-en-suiza-el-toro-de-neuch-tel-apareci-sano-y-salvo": {
+        title: "San Fermín en Suiza: el toro de Neuchâtel apareció sano y salvo",
+        description: "San Fermín en Suiza: el toro de Neuchâtel apareció sano y salvo",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-139-san-ferm-n-en-suiza-el-toro-de-neuch-tel-apareci-sano-y-salvo",
+        readingTime: 2,
+        dateUpdated: "juil 13, 2025 7:25:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-140-cu-l-es-el-salario-m-nimo-en-suiza-en-2025-la-respuesta-corta-depende-del-cant-n-y-del-sector": {
+        title: "¿Cuál es el salario mínimo en Suiza en 2025? La respuesta corta: depende del cantón (y del sector)",
+        description: "¿Cuál es el salario mínimo en Suiza en 2025? La respuesta corta: depende del cantón (y del sector)",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-140-cu-l-es-el-salario-m-nimo-en-suiza-en-2025-la-respuesta-corta-depende-del-cant-n-y-del-sector",
+        readingTime: 2,
+        dateUpdated: "juil 18, 2025 2:59:48 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-141-dos-sueldos-un-hijo-y-llorando-en-la-migros-bienvenidos-a-ginebra": {
+        title: "¿Dos sueldos, un hijo… y llorando en la Migros? Bienvenidos a Ginebra",
+        description: "¿Dos sueldos, un hijo… y llorando en la Migros? Bienvenidos a Ginebra",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-141-dos-sueldos-un-hijo-y-llorando-en-la-migros-bienvenidos-a-ginebra",
+        readingTime: 2,
+        dateUpdated: "juil 19, 2025 8:10:30 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-142-salario-m-nimo-en-suiza-s-pero-solo-si-lo-encuentras": {
+        title: "¿Salario mínimo en Suiza? Sí, pero solo si lo encuentras…",
+        description: "¿Salario mínimo en Suiza? Sí, pero solo si lo encuentras…",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-142-salario-m-nimo-en-suiza-s-pero-solo-si-lo-encuentras",
+        readingTime: 2,
+        dateUpdated: "juil 21, 2025 9:13:43 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-143-tener-hijos-en-suiza-decisi-n-personal-o-cuesti-n-de-presupuesto": {
+        title: "Tener hijos en Suiza: ¿decisión personal o cuestión de presupuesto?",
+        description: "Tener hijos en Suiza: ¿decisión personal o cuestión de presupuesto?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-143-tener-hijos-en-suiza-decisi-n-personal-o-cuesti-n-de-presupuesto",
+        readingTime: 2,
+        dateUpdated: "juil 21, 2025 1:52:10 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-144-el-pr-ncipe-de-bel-air-se-va-de-heidi-por-ginebra": {
+        title: "El Príncipe de Bel-Air se va de Heidi por Ginebra",
+        description: "El Príncipe de Bel-Air se va de Heidi por Ginebra",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-144-el-pr-ncipe-de-bel-air-se-va-de-heidi-por-ginebra",
+        readingTime: 2,
+        dateUpdated: "juil 23, 2025 7:56:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-145-el-alcalde-de-ginebra-es-gallego-literalmente": {
+        title: "El alcalde de Ginebra… es gallego. Literalmente.",
+        description: "El alcalde de Ginebra… es gallego. Literalmente.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-145-el-alcalde-de-ginebra-es-gallego-literalmente",
+        readingTime: 2,
+        dateUpdated: "juil 23, 2025 11:31:03 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-146-en-suiza-si-algo-no-te-gusta-una-nueva-ley-una-decisi-n-del-parlamento-un-plan-urban-stico-o-como-en-este-caso-la-instalaci-n-masiva-de-aerogene": {
+        title: "En Suiza, si algo no te gusta, una nueva ley, una decisión del Parlamento, un plan urbanístico, o como en este caso, la instalación masiva de aerogene",
+        description: "En Suiza, si algo no te gusta, una nueva ley, una decisión del Parlamento, un plan urbanístico, o como en este caso, la instalación masiva de aerogene",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-146-en-suiza-si-algo-no-te-gusta-una-nueva-ley-una-decisi-n-del-parlamento-un-plan-urban-stico-o-como-en-este-caso-la-instalaci-n-masiva-de-aerogene",
+        readingTime: 2,
+        dateUpdated: "juil 23, 2025 6:14:48 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-147-subid-n-suizo-los-11-674-escalones-que-casi-nadie-se-atreve-a-subir": {
+        title: "Subidón suizo: los 11.674 escalones que (casi) nadie se atreve a subir",
+        description: "Subidón suizo: los 11.674 escalones que (casi) nadie se atreve a subir",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-147-subid-n-suizo-los-11-674-escalones-que-casi-nadie-se-atreve-a-subir",
+        readingTime: 2,
+        dateUpdated: "juil 23, 2025 11:06:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-148-lake-parade-2025-esta-vez-marcha-atr-s": {
+        title: "Lake Parade 2025 – Esta vez… marcha atrás",
+        description: "Lake Parade 2025 – Esta vez… marcha atrás",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-148-lake-parade-2025-esta-vez-marcha-atr-s",
+        readingTime: 2,
+        dateUpdated: "juil 24, 2025 7:50:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-149-z-rich-tambi-n-tiene-sus-cosas-y-no-no-todo-son-bancos-ni-relojes-caros": {
+        title: "Zúrich también tiene sus cosas… y no, no todo son bancos ni relojes caros",
+        description: "Zúrich también tiene sus cosas… y no, no todo son bancos ni relojes caros",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-149-z-rich-tambi-n-tiene-sus-cosas-y-no-no-todo-son-bancos-ni-relojes-caros",
+        readingTime: 2,
+        dateUpdated: "juil 24, 2025 5:55:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-150-un-mes-de-impago-adi-s-piso-bienvenidos-a-la-suiza-de-2025": {
+        title: "¿Un mes de impago? Adiós piso. Bienvenidos a la Suiza de 2025",
+        description: "¿Un mes de impago? Adiós piso. Bienvenidos a la Suiza de 2025",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-150-un-mes-de-impago-adi-s-piso-bienvenidos-a-la-suiza-de-2025",
+        readingTime: 2,
+        dateUpdated: "juil 25, 2025 6:45:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-151-dormir-sin-techo-en-suiza-lujo-o-locura-alpina": {
+        title: "Dormir sin techo en Suiza: lujo o locura alpina",
+        description: "Dormir sin techo en Suiza: lujo o locura alpina",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-151-dormir-sin-techo-en-suiza-lujo-o-locura-alpina",
+        readingTime: 2,
+        dateUpdated: "juil 25, 2025 6:17:16 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-152-pegatina-medioambiental-en-suiza-solo-en-ginebra-c-mo-no": {
+        title: "¿Pegatina medioambiental en Suiza? Solo en Ginebra… cómo no.",
+        description: "¿Pegatina medioambiental en Suiza? Solo en Ginebra… cómo no.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-152-pegatina-medioambiental-en-suiza-solo-en-ginebra-c-mo-no",
+        readingTime: 2,
+        dateUpdated: "juil 25, 2025 6:20:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-153-la-cit-du-lignon-esa-gran-desconocida-o-no-tanto-de-ginebra": {
+        title: "📍 La Cité du Lignon, esa gran desconocida (o no tanto) de Ginebra",
+        description: "📍 La Cité du Lignon, esa gran desconocida (o no tanto) de Ginebra",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-153-la-cit-du-lignon-esa-gran-desconocida-o-no-tanto-de-ginebra",
+        readingTime: 2,
+        dateUpdated: "juil 26, 2025 1:53:18 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-154-fuegos-artificiales-el-espect-culo-que-no-todos-disfrutan": {
+        title: "Fuegos artificiales: el espectáculo que no todos disfrutan",
+        description: "Fuegos artificiales: el espectáculo que no todos disfrutan",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-154-fuegos-artificiales-el-espect-culo-que-no-todos-disfrutan",
+        readingTime: 2,
+        dateUpdated: "juil 27, 2025 8:17:59 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-155-alguien-se-sabe-el-himno-suizo": {
+        title: "¿Alguien se sabe el himno suizo?",
+        description: "¿Alguien se sabe el himno suizo?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-155-alguien-se-sabe-el-himno-suizo",
+        readingTime: 2,
+        dateUpdated: "juil 27, 2025 12:53:39 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-156-trenes-suizos-puntuales-o-demasiado-puntuales": {
+        title: "Trenes suizos: puntuales... o demasiado puntuales",
+        description: "Trenes suizos: puntuales... o demasiado puntuales",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-156-trenes-suizos-puntuales-o-demasiado-puntuales",
+        readingTime: 2,
+        dateUpdated: "juil 28, 2025 10:34:03 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-157-henniez-cumple-120-a-os-una-historia-bien-suiza": {
+        title: "Henniez cumple 120 años: una historia bien suiza",
+        description: "Henniez cumple 120 años: una historia bien suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-157-henniez-cumple-120-a-os-una-historia-bien-suiza",
+        readingTime: 2,
+        dateUpdated: "juil 28, 2025 8:36:51 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-158-el-sentier-des-toblerones-el-paseo-suizo-con-forma-de-chocolate-pero-sin-az-car": {
+        title: "El Sentier des Toblerones: el paseo suizo con forma de chocolate… pero sin azúcar",
+        description: "El Sentier des Toblerones: el paseo suizo con forma de chocolate… pero sin azúcar",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-158-el-sentier-des-toblerones-el-paseo-suizo-con-forma-de-chocolate-pero-sin-az-car",
+        readingTime: 2,
+        dateUpdated: "juil 29, 2025 6:52:14 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-159-la-lucha-suiza-m-s-all-de-los-calzoncillos-de-yute-y-la-aserr-n": {
+        title: "La lucha suiza: más allá de los calzoncillos de yute y la aserrín",
+        description: "La lucha suiza: más allá de los calzoncillos de yute y la aserrín",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-159-la-lucha-suiza-m-s-all-de-los-calzoncillos-de-yute-y-la-aserr-n",
+        readingTime: 2,
+        dateUpdated: "juil 29, 2025 9:27:12 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-160-conservar-la-nacionalidad-espa-ola-ojo-que-no-es-autom-tica": {
+        title: "¿Conservar la nacionalidad española? Ojo, que no es automática…",
+        description: "¿Conservar la nacionalidad española? Ojo, que no es automática…",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-160-conservar-la-nacionalidad-espa-ola-ojo-que-no-es-autom-tica",
+        readingTime: 2,
+        dateUpdated: "juil 29, 2025 5:35:10 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-161-pensando-en-montar-tu-empresa-en-suiza-aqu-lo-que-nadie-te-explica-del-todo-claro": {
+        title: "¿Pensando en montar tu empresa en Suiza? Aquí lo que nadie te explica del todo claro",
+        description: "¿Pensando en montar tu empresa en Suiza? Aquí lo que nadie te explica del todo claro",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-161-pensando-en-montar-tu-empresa-en-suiza-aqu-lo-que-nadie-te-explica-del-todo-claro",
+        readingTime: 2,
+        dateUpdated: "juil 30, 2025 12:10:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-162-jubilarse-en-espa-a-despu-s-de-una-vida-en-suiza-derecho-ganado-o-etiqueta-de-listillo": {
+        title: "Jubilarse en España después de una vida en Suiza: ¿derecho ganado o etiqueta de “listillo”?",
+        description: "Jubilarse en España después de una vida en Suiza: ¿derecho ganado o etiqueta de “listillo”?",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-162-jubilarse-en-espa-a-despu-s-de-una-vida-en-suiza-derecho-ganado-o-etiqueta-de-listillo",
+        readingTime: 2,
+        dateUpdated: "juil 30, 2025 6:45:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-163-volver-a-espa-a-desde-suiza-la-larga-lista-de-cosas-que-no-puedes-olvidar": {
+        title: "Volver a España desde Suiza: la (larga) lista de cosas que no puedes olvidar",
+        description: "Volver a España desde Suiza: la (larga) lista de cosas que no puedes olvidar",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-163-volver-a-espa-a-desde-suiza-la-larga-lista-de-cosas-que-no-puedes-olvidar",
+        readingTime: 2,
+        dateUpdated: "juil 31, 2025 7:25:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-164-sab-as-que-la-bandera-suiza-no-es-rectangular": {
+        title: "¿Sabías que la bandera suiza no es rectangular? 🇨🇭",
+        description: "¿Sabías que la bandera suiza no es rectangular? 🇨🇭",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-164-sab-as-que-la-bandera-suiza-no-es-rectangular",
+        readingTime: 2,
+        dateUpdated: "juil 31, 2025 12:18:42 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-165-solo-comparto-anuncio-visto-en-otro-grupo-solo-comparto-anuncio-visto-en-otro-grupo": {
+        title: "Solo comparto. Anuncio visto en otro grupo Solo comparto. Anuncio visto en otro grupo",
+        description: "Solo comparto. Anuncio visto en otro grupo Solo comparto. Anuncio visto en otro grupo",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-165-solo-comparto-anuncio-visto-en-otro-grupo-solo-comparto-anuncio-visto-en-otro-grupo",
+        readingTime: 2,
+        dateUpdated: "juil 31, 2025 3:26:30 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-166-adi-s-jefe-hola-rav-gu-a-expr-s-si-te-despiden-en-suiza": {
+        title: "Adiós jefe, hola RAV: guía exprés si te despiden en Suiza",
+        description: "Adiós jefe, hola RAV: guía exprés si te despiden en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-166-adi-s-jefe-hola-rav-gu-a-expr-s-si-te-despiden-en-suiza",
+        readingTime: 2,
+        dateUpdated: "juil 31, 2025 6:20:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-167-pagas-demasiado-por-el-seguro-m-dico-en-suiza-quiz-no-lo-sepas-pero-podr-as-tener-derecho-a-una-ayuda": {
+        title: "¿Pagas demasiado por el seguro médico en Suiza? Quizá no lo sepas, pero podrías tener derecho a una ayuda",
+        description: "¿Pagas demasiado por el seguro médico en Suiza? Quizá no lo sepas, pero podrías tener derecho a una ayuda",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-167-pagas-demasiado-por-el-seguro-m-dico-en-suiza-quiz-no-lo-sepas-pero-podr-as-tener-derecho-a-una-ayuda",
+        readingTime: 2,
+        dateUpdated: "août 01, 2025 7:15:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-168-suiza-no-solo-comparte-la-bandera-cuadrada-con-el-vaticano-sab-as-esto": {
+        title: "Suiza no solo comparte la bandera cuadrada con el Vaticano... ¿Sabías esto?",
+        description: "Suiza no solo comparte la bandera cuadrada con el Vaticano... ¿Sabías esto?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-168-suiza-no-solo-comparte-la-bandera-cuadrada-con-el-vaticano-sab-as-esto",
+        readingTime: 2,
+        dateUpdated: "août 01, 2025 12:33:48 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-169-quieres-matricular-tu-coche-en-suiza-spoiler-la-placa-sigue-al-due-o-no-al-coche": {
+        title: "¿Quieres matricular tu coche en Suiza? Spoiler: la placa sigue al dueño, no al coche",
+        description: "¿Quieres matricular tu coche en Suiza? Spoiler: la placa sigue al dueño, no al coche",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-169-quieres-matricular-tu-coche-en-suiza-spoiler-la-placa-sigue-al-due-o-no-al-coche",
+        readingTime: 2,
+        dateUpdated: "août 01, 2025 5:55:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-170-trump-amenaza-con-aranceles-a-suiza-otra-vez-y-en-berna-se-hacen-los-sorprendidos": {
+        title: "Trump amenaza con aranceles a Suiza (otra vez) y en Berna se hacen los sorprendidos",
+        description: "Trump amenaza con aranceles a Suiza (otra vez) y en Berna se hacen los sorprendidos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-170-trump-amenaza-con-aranceles-a-suiza-otra-vez-y-en-berna-se-hacen-los-sorprendidos",
+        readingTime: 2,
+        dateUpdated: "août 02, 2025 7:21:41 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-171-guillermo-tell-el-suizo-que-dijo-no-y-acab-disparando-a-una-manzana": {
+        title: "Guillermo Tell: el suizo que dijo \"no\" y acabó disparando a una manzana",
+        description: "Guillermo Tell: el suizo que dijo \"no\" y acabó disparando a una manzana",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-171-guillermo-tell-el-suizo-que-dijo-no-y-acab-disparando-a-una-manzana",
+        readingTime: 2,
+        dateUpdated: "août 03, 2025 6:42:22 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-172-el-juramento-del-gr-tli-pues-ni-mito-ni-realidad-sino-un-poco-de-todo": {
+        title: "¿El juramento del Grütli? Pues... ni mito ni realidad, sino un poco de todo",
+        description: "¿El juramento del Grütli? Pues... ni mito ni realidad, sino un poco de todo",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-172-el-juramento-del-gr-tli-pues-ni-mito-ni-realidad-sino-un-poco-de-todo",
+        readingTime: 2,
+        dateUpdated: "août 04, 2025 7:16:29 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-173-est-s-en-suiza-el-9-de-agosto-pues-ya-tienes-plan-street-parade-2025-en-z-rich": {
+        title: "¿Estás en Suiza el 9 de agosto? Pues ya tienes plan: Street Parade 2025 en Zúrich.",
+        description: "¿Estás en Suiza el 9 de agosto? Pues ya tienes plan: Street Parade 2025 en Zúrich.",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-173-est-s-en-suiza-el-9-de-agosto-pues-ya-tienes-plan-street-parade-2025-en-z-rich",
+        readingTime: 2,
+        dateUpdated: "août 04, 2025 7:33:41 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-174-abrir-una-cuenta-bancaria-en-suiza-antes-de-llegar-buena-suerte-con-eso": {
+        title: "¿Abrir una cuenta bancaria en Suiza antes de llegar? Buena suerte con eso.",
+        description: "¿Abrir una cuenta bancaria en Suiza antes de llegar? Buena suerte con eso.",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-174-abrir-una-cuenta-bancaria-en-suiza-antes-de-llegar-buena-suerte-con-eso",
+        readingTime: 2,
+        dateUpdated: "août 06, 2025 4:54:19 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-175-es-suiza-realmente-una-confederaci-n-spoiler-no": {
+        title: "¿Es Suiza realmente una “confederación”? Spoiler: no.",
+        description: "¿Es Suiza realmente una “confederación”? Spoiler: no.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-175-es-suiza-realmente-una-confederaci-n-spoiler-no",
+        readingTime: 2,
+        dateUpdated: "août 06, 2025 7:12:54 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-176-ees-que-es": {
+        title: "EES... que es ?!",
+        description: "EES... que es ?!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-176-ees-que-es",
+        readingTime: 2,
+        dateUpdated: "août 10, 2025 11:32:39 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-177-caran-d-ache-el-otro-swiss-made-de-ginebra": {
+        title: "Caran d’Ache: el otro “Swiss Made” de Ginebra",
+        description: "Caran d’Ache: el otro “Swiss Made” de Ginebra",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-177-caran-d-ache-el-otro-swiss-made-de-ginebra",
+        readingTime: 2,
+        dateUpdated: "août 12, 2025 11:05:32 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-178-c-mo-usar-un-e-scooter-en-suiza-sin-parecer-un-turista-despistado": {
+        title: "Cómo usar un e-scooter en Suiza sin parecer un turista despistado",
+        description: "Cómo usar un e-scooter en Suiza sin parecer un turista despistado",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-178-c-mo-usar-un-e-scooter-en-suiza-sin-parecer-un-turista-despistado",
+        readingTime: 2,
+        dateUpdated: "août 12, 2025 2:14:13 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-179-de-10-5-a-3-semanas-as-de-injustas-son-las-vacaciones-de-verano-en-suiza": {
+        title: "De 10,5 a 3 semanas: así de injustas son las vacaciones de verano en Suiza",
+        description: "De 10,5 a 3 semanas: así de injustas son las vacaciones de verano en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-179-de-10-5-a-3-semanas-as-de-injustas-son-las-vacaciones-de-verano-en-suiza",
+        readingTime: 2,
+        dateUpdated: "août 13, 2025 1:21:42 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-180-anoche-s-bado-16-de-agosto-la-naturaleza-nos-regal-un-espect-culo-brutal-en-sion-valais-durante-una-tormenta-bastante-violenta-el-castillo-de-t": {
+        title: "Anoche, sábado 16 de agosto, la naturaleza nos regaló un espectáculo brutal en Sion (Valais). Durante una tormenta bastante violenta, el castillo de T",
+        description: "Anoche, sábado 16 de agosto, la naturaleza nos regaló un espectáculo brutal en Sion (Valais). Durante una tormenta bastante violenta, el castillo de T",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-180-anoche-s-bado-16-de-agosto-la-naturaleza-nos-regal-un-espect-culo-brutal-en-sion-valais-durante-una-tormenta-bastante-violenta-el-castillo-de-t",
+        readingTime: 2,
+        dateUpdated: "août 17, 2025 4:37:28 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-181-cuando-el-asfalto-quema-m-s-que-el-sueldo": {
+        title: "Cuando el asfalto quema más que el sueldo",
+        description: "Cuando el asfalto quema más que el sueldo",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-181-cuando-el-asfalto-quema-m-s-que-el-sueldo",
+        readingTime: 2,
+        dateUpdated: "août 18, 2025 7:15:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-182-hoy-vuelta-al-cole-en-ginebra": {
+        title: "Hoy... vuelta al cole en Ginebra!",
+        description: "Hoy... vuelta al cole en Ginebra!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-182-hoy-vuelta-al-cole-en-ginebra",
+        readingTime: 2,
+        dateUpdated: "août 18, 2025 9:41:21 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-183-chur-la-abuela-de-las-ciudades-suizas": {
+        title: "Chur: la abuela de las ciudades suizas",
+        description: "Chur: la abuela de las ciudades suizas",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-183-chur-la-abuela-de-las-ciudades-suizas",
+        readingTime: 2,
+        dateUpdated: "août 19, 2025 7:20:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-184-suiza-el-pa-s-donde-los-famosos-vienen-a-hacerse-invisibles": {
+        title: "Suiza: el país donde los famosos vienen a hacerse invisibles",
+        description: "Suiza: el país donde los famosos vienen a hacerse invisibles",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-184-suiza-el-pa-s-donde-los-famosos-vienen-a-hacerse-invisibles",
+        readingTime: 2,
+        dateUpdated: "août 20, 2025 7:18:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-185-el-gran-tab-en-suiza-hablar-de-sueldos": {
+        title: "El gran tabú en Suiza: hablar de sueldos",
+        description: "El gran tabú en Suiza: hablar de sueldos",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-185-el-gran-tab-en-suiza-hablar-de-sueldos",
+        readingTime: 2,
+        dateUpdated: "août 21, 2025 8:10:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-186-el-heimatort-tu-pueblo-en-el-pasaporte-aunque-nunca-hayas-estado-all": {
+        title: "El “Heimatort”: tu pueblo en el pasaporte… aunque nunca hayas estado allí",
+        description: "El “Heimatort”: tu pueblo en el pasaporte… aunque nunca hayas estado allí",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-186-el-heimatort-tu-pueblo-en-el-pasaporte-aunque-nunca-hayas-estado-all",
+        readingTime: 2,
+        dateUpdated: "août 22, 2025 8:05:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-187-el-servicio-militar-en-suiza-entre-obligaci-n-tradici-n-e-impuesto": {
+        title: "El servicio militar en Suiza: entre obligación, tradición e impuesto",
+        description: "El servicio militar en Suiza: entre obligación, tradición e impuesto",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-187-el-servicio-militar-en-suiza-entre-obligaci-n-tradici-n-e-impuesto",
+        readingTime: 2,
+        dateUpdated: "août 23, 2025 8:15:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-188-en-suiza-hasta-caminando-puedes-perder-el-carnet": {
+        title: "En Suiza, hasta caminando puedes perder el carnet",
+        description: "En Suiza, hasta caminando puedes perder el carnet",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-188-en-suiza-hasta-caminando-puedes-perder-el-carnet",
+        readingTime: 2,
+        dateUpdated: "août 24, 2025 7:39:23 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-189-cliquer-pour-la-vid-o": {
+        title: "Cliquer pour la vidéo :",
+        description: "Cliquer pour la vidéo :",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-189-cliquer-pour-la-vid-o",
+        readingTime: 2,
+        dateUpdated: "août 25, 2025 7:45:08 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-190-suiza-y-espa-a-frente-a-frente-sin-rodeos": {
+        title: "Suiza y España frente a frente, sin rodeos",
+        description: "Suiza y España frente a frente, sin rodeos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-190-suiza-y-espa-a-frente-a-frente-sin-rodeos",
+        readingTime: 2,
+        dateUpdated: "août 27, 2025 10:55:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-191-cuando-el-reloj-suizo-se-para-frente-al-racismo": {
+        title: "Cuando el reloj suizo se para frente al racismo",
+        description: "Cuando el reloj suizo se para frente al racismo",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-191-cuando-el-reloj-suizo-se-para-frente-al-racismo",
+        readingTime: 2,
+        dateUpdated: "août 28, 2025 7:40:22 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-192-de-la-rabia-a-la-calma-el-caso-del-scooter-en-lausanne": {
+        title: "De la rabia a la calma: el caso del scooter en Lausanne",
+        description: "De la rabia a la calma: el caso del scooter en Lausanne",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-192-de-la-rabia-a-la-calma-el-caso-del-scooter-en-lausanne",
+        readingTime: 2,
+        dateUpdated: "août 29, 2025 8:25:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-193-impuestos-por-pasaporte-el-experimento-franc-s-y-lo-que-podr-a-significar-para-espa": {
+        title: "¿Impuestos por pasaporte? El experimento francés y lo que podría significar para Espa",
+        description: "¿Impuestos por pasaporte? El experimento francés y lo que podría significar para Espa",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-193-impuestos-por-pasaporte-el-experimento-franc-s-y-lo-que-podr-a-significar-para-espa",
+        readingTime: 2,
+        dateUpdated: "août 30, 2025 9:06:17 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-194-la-saga-rubiales-no-termina-suiza-escribe-el-siguiente-cap-tulo": {
+        title: "La saga Rubiales no termina: Suiza escribe el siguiente capítulo",
+        description: "La saga Rubiales no termina: Suiza escribe el siguiente capítulo",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-194-la-saga-rubiales-no-termina-suiza-escribe-el-siguiente-cap-tulo",
+        readingTime: 2,
+        dateUpdated: "août 30, 2025 4:55:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-195-reagrupaci-n-familiar-en-suiza-tr-mites-f-ciles-salvo-que-seas-tu-suegra": {
+        title: "Reagrupación familiar en Suiza: trámites fáciles… salvo que seas tu suegra",
+        description: "Reagrupación familiar en Suiza: trámites fáciles… salvo que seas tu suegra",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-195-reagrupaci-n-familiar-en-suiza-tr-mites-f-ciles-salvo-que-seas-tu-suegra",
+        readingTime: 2,
+        dateUpdated: "août 31, 2025 7:55:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-196-alien-aterriza-en-la-tierra-y-el-primer-susto-era-suizo": {
+        title: "Alien aterriza en la Tierra… y el primer susto era suizo",
+        description: "Alien aterriza en la Tierra… y el primer susto era suizo",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-196-alien-aterriza-en-la-tierra-y-el-primer-susto-era-suizo",
+        readingTime: 2,
+        dateUpdated: "août 31, 2025 5:40:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-197-ruta-de-toboganes-en-charmey": {
+        title: "Ruta de toboganes en Charmey",
+        description: "Ruta de toboganes en Charmey",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-197-ruta-de-toboganes-en-charmey",
+        readingTime: 2,
+        dateUpdated: "sep 01, 2025 8:05:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-198-un-suizo-66-francos-y-13-a-os-de-calvario": {
+        title: "Un suizo, 66 francos y 13 años de calvario",
+        description: "Un suizo, 66 francos y 13 años de calvario",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-198-un-suizo-66-francos-y-13-a-os-de-calvario",
+        readingTime: 2,
+        dateUpdated: "sep 01, 2025 5:50:06 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-199-z-rich-da-marcha-atr-s-con-el-franc-s-del-pionero-al-desertor": {
+        title: "Zúrich da marcha atrás con el francés: del pionero al desertor",
+        description: "Zúrich da marcha atrás con el francés: del pionero al desertor",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-199-z-rich-da-marcha-atr-s-con-el-franc-s-del-pionero-al-desertor",
+        readingTime: 2,
+        dateUpdated: "sep 02, 2025 2:04:30 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-200-el-lado-oscuro-de-la-neutralidad-suiza": {
+        title: "El lado oscuro de la neutralidad suiza",
+        description: "El lado oscuro de la neutralidad suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-200-el-lado-oscuro-de-la-neutralidad-suiza",
+        readingTime: 2,
+        dateUpdated: "sep 04, 2025 4:46:06 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-201-el-muro-de-los-reformadores-otra-vez-en-el-punto-de-mira": {
+        title: "El Muro de los Reformadores, otra vez en el punto de mira",
+        description: "El Muro de los Reformadores, otra vez en el punto de mira",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-201-el-muro-de-los-reformadores-otra-vez-en-el-punto-de-mira",
+        readingTime: 2,
+        dateUpdated: "sep 05, 2025 7:21:46 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-202-democracia-directa-cuatro-veces-al-a-o-los-suizos-deciden-y-los-extranjeros": {
+        title: "Democracia directa: cuatro veces al año los suizos deciden (y los extranjeros)",
+        description: "Democracia directa: cuatro veces al año los suizos deciden (y los extranjeros)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-202-democracia-directa-cuatro-veces-al-a-o-los-suizos-deciden-y-los-extranjeros",
+        readingTime: 2,
+        dateUpdated: "sep 06, 2025 7:17:50 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-203-formaci-n-dual-en-suiza-escuela-y-trabajo-de-la-mano": {
+        title: "Formación dual en Suiza: escuela y trabajo de la mano",
+        description: "Formación dual en Suiza: escuela y trabajo de la mano",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-203-formaci-n-dual-en-suiza-escuela-y-trabajo-de-la-mano",
+        readingTime: 2,
+        dateUpdated: "sep 07, 2025 7:29:36 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-204-la-cruz-suiza-no-se-puede-poner-porque-s": {
+        title: "La cruz suiza: no se puede poner “porque sí”",
+        description: "La cruz suiza: no se puede poner “porque sí”",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-204-la-cruz-suiza-no-se-puede-poner-porque-s",
+        readingTime: 2,
+        dateUpdated: "sep 07, 2025 1:55:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-205-el-impuesto-eclesi-stico-en-suiza-lo-que-nadie-te-cont": {
+        title: "El impuesto eclesiástico en Suiza: lo que nadie te contó",
+        description: "El impuesto eclesiástico en Suiza: lo que nadie te contó",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-205-el-impuesto-eclesi-stico-en-suiza-lo-que-nadie-te-cont",
+        readingTime: 2,
+        dateUpdated: "sep 08, 2025 12:40:26 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-206-recordatorio-importante-a-todos-los-miembrosen-los-ltimos-d-as-hemos-visto-comentarios-que-se-sal-an-del-tono-que-queremos-mantener-en-este-grupo": {
+        title: "📌 Recordatorio importante a todos los miembrosEn los últimos días hemos visto comentarios que se salían del tono que queremos mantener en este grupo.",
+        description: "📌 Recordatorio importante a todos los miembrosEn los últimos días hemos visto comentarios que se salían del tono que queremos mantener en este grupo.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-206-recordatorio-importante-a-todos-los-miembrosen-los-ltimos-d-as-hemos-visto-comentarios-que-se-sal-an-del-tono-que-queremos-mantener-en-este-grupo",
+        readingTime: 2,
+        dateUpdated: "sep 09, 2025 12:42:21 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-207-cliquer-pour-la-vid-o-en-mi-lista-de-to-do-it-en-mi-lista-de-to-do-it": {
+        title: "Cliquer pour la vidéo :En mi lista de \"to do it\" En mi lista de \"to do it\"",
+        description: "Cliquer pour la vidéo :En mi lista de \"to do it\" En mi lista de \"to do it\"",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-207-cliquer-pour-la-vid-o-en-mi-lista-de-to-do-it-en-mi-lista-de-to-do-it",
+        readingTime: 2,
+        dateUpdated: "sep 09, 2025 1:38:03 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-208-el-famoso-13-salario-para-jubilados-en-suiza": {
+        title: "El famoso “13º salario” para jubilados en Suiza",
+        description: "El famoso “13º salario” para jubilados en Suiza",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-208-el-famoso-13-salario-para-jubilados-en-suiza",
+        readingTime: 2,
+        dateUpdated: "sep 09, 2025 6:09:06 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-209-pobreza-en-suiza-s-existe-pero-no-es-extrema": {
+        title: "Pobreza en Suiza… Sí existe pero no es extrema!",
+        description: "Pobreza en Suiza… Sí existe pero no es extrema!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-209-pobreza-en-suiza-s-existe-pero-no-es-extrema",
+        readingTime: 2,
+        dateUpdated: "sep 10, 2025 8:35:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-210-la-importancia-del-cv-y-de-la-foto-que-le-a-ades": {
+        title: "La importancia del CV y de la foto que le añades",
+        description: "La importancia del CV y de la foto que le añades",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-210-la-importancia-del-cv-y-de-la-foto-que-le-a-ades",
+        readingTime: 2,
+        dateUpdated: "sep 10, 2025 5:50:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-211-impuestos-en-suiza-d-nde-se-paga-menos-y-d-nde-m-s": {
+        title: "Impuestos en Suiza: ¿dónde se paga menos y dónde más?",
+        description: "Impuestos en Suiza: ¿dónde se paga menos y dónde más?",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-211-impuestos-en-suiza-d-nde-se-paga-menos-y-d-nde-m-s",
+        readingTime: 2,
+        dateUpdated: "sep 11, 2025 7:01:16 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-212-cliquer-pour-la-vid-o-bon-je-ne-genevois-bon-je-ne-genevois": {
+        title: "Cliquer pour la vidéo :Bon Jeûne Genevois ! Bon Jeûne Genevois !",
+        description: "Cliquer pour la vidéo :Bon Jeûne Genevois ! Bon Jeûne Genevois !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-212-cliquer-pour-la-vid-o-bon-je-ne-genevois-bon-je-ne-genevois",
+        readingTime: 2,
+        dateUpdated: "sep 11, 2025 1:46:40 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-213-la-inmigraci-n-en-suiza-en-los-ltimos-5-a-os-y-lo-que-llevamos-de-2025": {
+        title: "La inmigración en Suiza en los últimos 5 años (y lo que llevamos de 2025)",
+        description: "La inmigración en Suiza en los últimos 5 años (y lo que llevamos de 2025)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-213-la-inmigraci-n-en-suiza-en-los-ltimos-5-a-os-y-lo-que-llevamos-de-2025",
+        readingTime: 2,
+        dateUpdated: "sep 11, 2025 6:55:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-214-en-suiza-la-multa-se-adapta-a-tu-sueldo-y-no-siempre-la-pagas-al-momento": {
+        title: "En Suiza, la multa se adapta a tu sueldo (y no siempre la pagas al momento)",
+        description: "En Suiza, la multa se adapta a tu sueldo (y no siempre la pagas al momento)",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-214-en-suiza-la-multa-se-adapta-a-tu-sueldo-y-no-siempre-la-pagas-al-momento",
+        readingTime: 2,
+        dateUpdated: "sep 12, 2025 7:50:28 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-215-no-tu-permiso-suizo-no-te-abre-la-frontera": {
+        title: "No, tu permiso suizo no te abre la frontera",
+        description: "No, tu permiso suizo no te abre la frontera",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-215-no-tu-permiso-suizo-no-te-abre-la-frontera",
+        readingTime: 2,
+        dateUpdated: "sep 13, 2025 9:12:36 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-216-l-aldea-portuguesa-en-suiza": {
+        title: "L\'Aldea portuguesa en Suiza",
+        description: "L\'Aldea portuguesa en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-216-l-aldea-portuguesa-en-suiza",
+        readingTime: 2,
+        dateUpdated: "sep 13, 2025 3:13:34 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-217-suiza-con-tope-de-poblaci-n-la-iniciativa-del-udc-bajo-la-lupa": {
+        title: "¿Suiza con tope de población? La iniciativa del UDC bajo la lupa",
+        description: "¿Suiza con tope de población? La iniciativa del UDC bajo la lupa",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-217-suiza-con-tope-de-poblaci-n-la-iniciativa-del-udc-bajo-la-lupa",
+        readingTime: 2,
+        dateUpdated: "sep 13, 2025 6:19:38 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-218-vivir-con-4-500-chf-brutos-al-mes-en-z-rich-o-ginebra-es-posible-ahorrar": {
+        title: "Vivir con 4.500 CHF brutos al mes en Zúrich o Ginebra: ¿es posible ahorrar?",
+        description: "Vivir con 4.500 CHF brutos al mes en Zúrich o Ginebra: ¿es posible ahorrar?",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-218-vivir-con-4-500-chf-brutos-al-mes-en-z-rich-o-ginebra-es-posible-ahorrar",
+        readingTime: 2,
+        dateUpdated: "sep 14, 2025 8:33:26 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-219-apertus-la-ia-a-la-suiza": {
+        title: "Apertus: la IA \"a la suiza\"",
+        description: "Apertus: la IA \"a la suiza\"",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-219-apertus-la-ia-a-la-suiza",
+        readingTime: 2,
+        dateUpdated: "sep 14, 2025 12:19:47 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-220-suiza-se-plantea-un-acuerdo-de-defensa-con-la-ue": {
+        title: "Suiza se plantea un acuerdo de defensa con la UE",
+        description: "Suiza se plantea un acuerdo de defensa con la UE",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-220-suiza-se-plantea-un-acuerdo-de-defensa-con-la-ue",
+        readingTime: 2,
+        dateUpdated: "sep 15, 2025 8:26:17 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-221-cliquer-pour-la-vid-o-no-soy-el-del-video": {
+        title: "Cliquer pour la vidéo :NO SOY EL DEL VIDEO!",
+        description: "Cliquer pour la vidéo :NO SOY EL DEL VIDEO!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-221-cliquer-pour-la-vid-o-no-soy-el-del-video",
+        readingTime: 2,
+        dateUpdated: "sep 15, 2025 9:52:36 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-222-tasas-de-desempleo-en-suiza-agosto-2025": {
+        title: "Tasas de desempleo en Suiza – agosto 2025",
+        description: "Tasas de desempleo en Suiza – agosto 2025",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-222-tasas-de-desempleo-en-suiza-agosto-2025",
+        readingTime: 2,
+        dateUpdated: "sep 16, 2025 7:57:43 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-223-cuando-buscar-piso-se-convierte-en-deporte-extremo-en-suiza": {
+        title: "Cuando buscar piso se convierte en deporte extremo en Suiza",
+        description: "Cuando buscar piso se convierte en deporte extremo en Suiza",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-223-cuando-buscar-piso-se-convierte-en-deporte-extremo-en-suiza",
+        readingTime: 2,
+        dateUpdated: "sep 16, 2025 3:02:33 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-224-sueldos-de-otro-planeta-los-ceos-en-suiza": {
+        title: "Sueldos de otro planeta: los CEOs en Suiza",
+        description: "Sueldos de otro planeta: los CEOs en Suiza",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-224-sueldos-de-otro-planeta-los-ceos-en-suiza",
+        readingTime: 2,
+        dateUpdated: "sep 17, 2025 8:06:22 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-225-hacer-un-cv-en-suiza-no-es-lo-mismo-que-en-espa-a": {
+        title: "Hacer un CV en Suiza: no es lo mismo que en España",
+        description: "Hacer un CV en Suiza: no es lo mismo que en España",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-225-hacer-un-cv-en-suiza-no-es-lo-mismo-que-en-espa-a",
+        readingTime: 2,
+        dateUpdated: "sep 17, 2025 5:45:33 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-226-el-a-o-pasado-suiza-fue-condenada-por-inacci-n-clim-tica": {
+        title: "El año pasado Suiza fue condenada por… inacción climática",
+        description: "El año pasado Suiza fue condenada por… inacción climática",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-226-el-a-o-pasado-suiza-fue-condenada-por-inacci-n-clim-tica",
+        readingTime: 2,
+        dateUpdated: "sep 18, 2025 7:53:36 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-227-solo-comparto-contactar-directamente-con-diana-solo-comparto-contactar-directamente-con-diana": {
+        title: "Solo comparto. Contactar directamente con Diana ! Solo comparto. Contactar directamente con Diana !",
+        description: "Solo comparto. Contactar directamente con Diana ! Solo comparto. Contactar directamente con Diana !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-227-solo-comparto-contactar-directamente-con-diana-solo-comparto-contactar-directamente-con-diana",
+        readingTime: 2,
+        dateUpdated: "sep 18, 2025 5:11:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-228-suiza-l-der-mundial-en-talento-y-a-n-dicen-que-su-sistema-educativo-es-obsoleto": {
+        title: "Suiza, líder mundial en talento… ¿y aún dicen que su sistema educativo es obsoleto?",
+        description: "Suiza, líder mundial en talento… ¿y aún dicen que su sistema educativo es obsoleto?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-228-suiza-l-der-mundial-en-talento-y-a-n-dicen-que-su-sistema-educativo-es-obsoleto",
+        readingTime: 2,
+        dateUpdated: "sep 18, 2025 5:43:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-229-votar-con-discapacidad-intelectual-en-suiza-parece-que-s-por-fin": {
+        title: "¿Votar con discapacidad intelectual en Suiza? Parece que sí, por fin",
+        description: "¿Votar con discapacidad intelectual en Suiza? Parece que sí, por fin",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-229-votar-con-discapacidad-intelectual-en-suiza-parece-que-s-por-fin",
+        readingTime: 2,
+        dateUpdated: "sep 19, 2025 8:20:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-230-solo-comparto-contactar-directamente-con-la-persona-del-anuncio": {
+        title: "Solo comparto... Contactar directamente con la persona del anuncio.",
+        description: "Solo comparto... Contactar directamente con la persona del anuncio.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-230-solo-comparto-contactar-directamente-con-la-persona-del-anuncio",
+        readingTime: 2,
+        dateUpdated: "sep 19, 2025 2:35:30 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-231-un-gruy-re-suizo-elegido-mejor-queso-del-mundo": {
+        title: "Un Gruyère suizo elegido mejor queso del mundo",
+        description: "Un Gruyère suizo elegido mejor queso del mundo",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-231-un-gruy-re-suizo-elegido-mejor-queso-del-mundo",
+        readingTime: 2,
+        dateUpdated: "sep 20, 2025 12:20:25 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-232-65-000-voluntarios-participaron-en-el-clean-up-day-en-suiza": {
+        title: "65.000 voluntarios participaron en el Clean-Up-Day en Suiza",
+        description: "65.000 voluntarios participaron en el Clean-Up-Day en Suiza",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-232-65-000-voluntarios-participaron-en-el-clean-up-day-en-suiza",
+        readingTime: 2,
+        dateUpdated: "sep 20, 2025 8:37:55 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-233-cliquer-pour-la-vid-o-noticias-de-antoni-no-soy-yo": {
+        title: "Cliquer pour la vidéo :Noticias de Antoni ! (NO SOY YO)",
+        description: "Cliquer pour la vidéo :Noticias de Antoni ! (NO SOY YO)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-233-cliquer-pour-la-vid-o-noticias-de-antoni-no-soy-yo",
+        readingTime: 2,
+        dateUpdated: "sep 21, 2025 8:14:59 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-234-ginebra-los-cursos-de-franc-s-gratuitos-para-migrantes-baten-r-cords": {
+        title: "Ginebra: los cursos de francés gratuitos para migrantes baten récords",
+        description: "Ginebra: los cursos de francés gratuitos para migrantes baten récords",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-234-ginebra-los-cursos-de-franc-s-gratuitos-para-migrantes-baten-r-cords",
+        readingTime: 2,
+        dateUpdated: "sep 21, 2025 8:30:11 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-235-cliquer-pour-la-vid-o-como-no-enamorase-como-no-enamorase": {
+        title: "Cliquer pour la vidéo :Como no enamorase ! Como no enamorase !",
+        description: "Cliquer pour la vidéo :Como no enamorase ! Como no enamorase !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-235-cliquer-pour-la-vid-o-como-no-enamorase-como-no-enamorase",
+        readingTime: 2,
+        dateUpdated: "sep 21, 2025 12:30:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-236-ginebra-se-convierto-en-un-circuito-n-utico-con-el-sailgp": {
+        title: "Ginebra se convierto en un circuito náutico con el SailGP",
+        description: "Ginebra se convierto en un circuito náutico con el SailGP",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-236-ginebra-se-convierto-en-un-circuito-n-utico-con-el-sailgp",
+        readingTime: 2,
+        dateUpdated: "sep 21, 2025 8:05:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-237-del-d-salpe-al-carnaval-de-evol-ne-suiza-entre-vacas-y-m-scaras": {
+        title: "Del désalpe al carnaval de Evolène: Suiza entre vacas y máscaras",
+        description: "Del désalpe al carnaval de Evolène: Suiza entre vacas y máscaras",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-237-del-d-salpe-al-carnaval-de-evol-ne-suiza-entre-vacas-y-m-scaras",
+        readingTime: 2,
+        dateUpdated: "sep 22, 2025 2:34:16 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-238-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-238-sans-titre",
+        readingTime: 2,
+        dateUpdated: "sep 23, 2025 3:15:08 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-239-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-239-sans-titre",
+        readingTime: 2,
+        dateUpdated: "sep 23, 2025 3:15:08 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-240-lamal-y-seguimos-pagando-m-s-cada-oto-o-llega-la-misma-noticia-como-las-hojas-que-caen-las-primas-del-seguro-de-enfermedad-vuelven-a-subir-para": {
+        title: "LaMal... Y seguimos pagando más !Cada otoño llega la misma noticia, como las hojas que caen: las primas del seguro de enfermedad vuelven a subir. Para",
+        description: "LaMal... Y seguimos pagando más !Cada otoño llega la misma noticia, como las hojas que caen: las primas del seguro de enfermedad vuelven a subir. Para",
+        keywords: "salud, suiza",
+        category: "Salud y Seguro (LAMal)",
+        hub: "salud",
+        slug: "fb-240-lamal-y-seguimos-pagando-m-s-cada-oto-o-llega-la-misma-noticia-como-las-hojas-que-caen-las-primas-del-seguro-de-enfermedad-vuelven-a-subir-para",
+        readingTime: 2,
+        dateUpdated: "sep 23, 2025 3:15:08 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-241-el-regreso-del-doble-apellido-en-suiza-avance-o-simple-vuelta-atr-s": {
+        title: "El regreso del doble apellido en Suiza: ¿avance o simple vuelta atrás?",
+        description: "El regreso del doble apellido en Suiza: ¿avance o simple vuelta atrás?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-241-el-regreso-del-doble-apellido-en-suiza-avance-o-simple-vuelta-atr-s",
+        readingTime: 2,
+        dateUpdated: "sep 24, 2025 7:33:58 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-242-cliquer-pour-la-vid-o-en-suiza-los-telef-ricos-no-son-solo-un-medio-de-transporte-son-parte-de-la-vida-diaria-y-un-s-mbolo-de-las-monta-as-conecta": {
+        title: "Cliquer pour la vidéo :En Suiza, los teleféricos no son solo un medio de transporte, son parte de la vida diaria y un símbolo de las montañas. Conecta",
+        description: "Cliquer pour la vidéo :En Suiza, los teleféricos no son solo un medio de transporte, son parte de la vida diaria y un símbolo de las montañas. Conecta",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-242-cliquer-pour-la-vid-o-en-suiza-los-telef-ricos-no-son-solo-un-medio-de-transporte-son-parte-de-la-vida-diaria-y-un-s-mbolo-de-las-monta-as-conecta",
+        readingTime: 2,
+        dateUpdated: "sep 24, 2025 5:15:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-243-solo-comparto": {
+        title: "Solo comparto...",
+        description: "Solo comparto...",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-243-solo-comparto",
+        readingTime: 2,
+        dateUpdated: "sep 24, 2025 6:34:37 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-244-suiza-brilla-en-euroskills-2025": {
+        title: "🇨🇭✨ ¡Suiza brilla en EuroSkills 2025! 🏆",
+        description: "🇨🇭✨ ¡Suiza brilla en EuroSkills 2025! 🏆",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-244-suiza-brilla-en-euroskills-2025",
+        readingTime: 2,
+        dateUpdated: "sep 24, 2025 7:20:25 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-245-alocaciones-familiares-en-suiza-kinderzulage": {
+        title: "Alocaciones familiares en Suiza (Kinderzulage)",
+        description: "Alocaciones familiares en Suiza (Kinderzulage)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-245-alocaciones-familiares-en-suiza-kinderzulage",
+        readingTime: 2,
+        dateUpdated: "sep 25, 2025 6:54:36 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-246-cliquer-pour-la-vid-o-uno-de-los-nicos-de-tiktok-que-dice-las-verdades-como-son-uno-de-los-nicos-de-tiktok-que-dice-las-verdades-como-son": {
+        title: "Cliquer pour la vidéo :Uno de los únicos de tiktok que dice las verdades como son. Uno de los únicos de tiktok que dice las verdades como son.",
+        description: "Cliquer pour la vidéo :Uno de los únicos de tiktok que dice las verdades como son. Uno de los únicos de tiktok que dice las verdades como son.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-246-cliquer-pour-la-vid-o-uno-de-los-nicos-de-tiktok-que-dice-las-verdades-como-son-uno-de-los-nicos-de-tiktok-que-dice-las-verdades-como-son",
+        readingTime: 2,
+        dateUpdated: "sep 25, 2025 2:11:38 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-247-divorciarse-en-suiza-siendo-extranjero-lo-esencial-que-deber-as-saber": {
+        title: "Divorciarse en Suiza siendo extranjero: lo esencial que deberías saber",
+        description: "Divorciarse en Suiza siendo extranjero: lo esencial que deberías saber",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-247-divorciarse-en-suiza-siendo-extranjero-lo-esencial-que-deber-as-saber",
+        readingTime: 2,
+        dateUpdated: "sep 26, 2025 7:40:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-248-en-suiza-no-te-lo-ponen-en-bandeja": {
+        title: "En Suiza no te lo ponen en bandeja",
+        description: "En Suiza no te lo ponen en bandeja",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-248-en-suiza-no-te-lo-ponen-en-bandeja",
+        readingTime: 2,
+        dateUpdated: "sep 26, 2025 4:45:35 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-249-d-nde-pedir-ayuda-real-en-suiza-este-invierno-por-cantones-y-con-enlaces": {
+        title: "Dónde pedir ayuda real en Suiza este invierno (por cantones y con enlaces)",
+        description: "Dónde pedir ayuda real en Suiza este invierno (por cantones y con enlaces)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-249-d-nde-pedir-ayuda-real-en-suiza-este-invierno-por-cantones-y-con-enlaces",
+        readingTime: 2,
+        dateUpdated: "sep 27, 2025 7:10:41 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-250-laa-vs-lamal": {
+        title: "LAA vs LaMal",
+        description: "LAA vs LaMal",
+        keywords: "salud, suiza",
+        category: "Salud y Seguro (LAMal)",
+        hub: "salud",
+        slug: "fb-250-laa-vs-lamal",
+        readingTime: 2,
+        dateUpdated: "sep 28, 2025 7:46:37 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-251-resultados-de-las-votaciones-de-ayer-en-ginebra-28-septiembre-2025": {
+        title: "Resultados de las votaciones de ayer en Ginebra (28 septiembre 2025)",
+        description: "Resultados de las votaciones de ayer en Ginebra (28 septiembre 2025)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-251-resultados-de-las-votaciones-de-ayer-en-ginebra-28-septiembre-2025",
+        readingTime: 2,
+        dateUpdated: "sep 29, 2025 9:57:31 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-252-fruta-gratis-en-lausanne": {
+        title: "Fruta Gratis en Lausanne ?!",
+        description: "Fruta Gratis en Lausanne ?!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-252-fruta-gratis-en-lausanne",
+        readingTime: 2,
+        dateUpdated: "sep 30, 2025 7:50:44 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-253-migros-mete-tijera-en-su-marca-economica-propia-80-de-ellas-desaparecer-n": {
+        title: "Migros mete tijera en su marca economica propia: 80 de ellas desaparecerán.",
+        description: "Migros mete tijera en su marca economica propia: 80 de ellas desaparecerán.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-253-migros-mete-tijera-en-su-marca-economica-propia-80-de-ellas-desaparecer-n",
+        readingTime: 2,
+        dateUpdated: "sep 30, 2025 1:40:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-254-el-70-de-presos-en-suiza-son-extranjeros-un-dato-cierto-pero-con-trampa": {
+        title: "El 70% de presos en Suiza son extranjeros: un dato cierto, pero con trampa",
+        description: "El 70% de presos en Suiza son extranjeros: un dato cierto, pero con trampa",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-254-el-70-de-presos-en-suiza-son-extranjeros-un-dato-cierto-pero-con-trampa",
+        readingTime: 2,
+        dateUpdated: "sep 30, 2025 8:20:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-255-embarazo-en-suiza-qui-n-paga-y-qu-derechos-tienes": {
+        title: "Embarazo en Suiza: quién paga y qué derechos tienes!",
+        description: "Embarazo en Suiza: quién paga y qué derechos tienes!",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-255-embarazo-en-suiza-qui-n-paga-y-qu-derechos-tienes",
+        readingTime: 2,
+        dateUpdated: "oct 01, 2025 6:00:58 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-256-tus-derechos-b-sicos-en-un-contrato-de-trabajo-en-suiza-para-no-comerse-un-marr-n": {
+        title: "Tus derechos básicos en un contrato de trabajo en Suiza (para no comerse un marrón)",
+        description: "Tus derechos básicos en un contrato de trabajo en Suiza (para no comerse un marrón)",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-256-tus-derechos-b-sicos-en-un-contrato-de-trabajo-en-suiza-para-no-comerse-un-marr-n",
+        readingTime: 2,
+        dateUpdated: "oct 02, 2025 7:35:25 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-257-los-derechos-de-las-mujeres-en-suiza-un-camino-tard-o-pero-a-paso-firme": {
+        title: "Los derechos de las mujeres en Suiza: un camino tardío, pero a paso firme",
+        description: "Los derechos de las mujeres en Suiza: un camino tardío, pero a paso firme",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-257-los-derechos-de-las-mujeres-en-suiza-un-camino-tard-o-pero-a-paso-firme",
+        readingTime: 2,
+        dateUpdated: "oct 02, 2025 12:54:36 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-258-el-pastel-dividido-en-tres-el-impuesto": {
+        title: "El Pastel dividido en tres… el impuesto",
+        description: "El Pastel dividido en tres… el impuesto",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-258-el-pastel-dividido-en-tres-el-impuesto",
+        readingTime: 2,
+        dateUpdated: "oct 03, 2025 7:04:12 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-259-ginebra-sube-el-salario-m-nimo-24-59-francos-la-hora-desde-enero": {
+        title: "Ginebra sube el salario mínimo: 24,59 francos la hora desde enero",
+        description: "Ginebra sube el salario mínimo: 24,59 francos la hora desde enero",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-259-ginebra-sube-el-salario-m-nimo-24-59-francos-la-hora-desde-enero",
+        readingTime: 2,
+        dateUpdated: "oct 03, 2025 1:41:47 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-260-estudiar-en-suiza-y-trabajar-lo-que-de-verdad-hay-que-saber": {
+        title: "Estudiar en Suiza y trabajar: lo que de verdad hay que saber",
+        description: "Estudiar en Suiza y trabajar: lo que de verdad hay que saber",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-260-estudiar-en-suiza-y-trabajar-lo-que-de-verdad-hay-que-saber",
+        readingTime: 2,
+        dateUpdated: "oct 05, 2025 6:47:03 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-261-flotilla-suiza-hacia-gaza-liberados-pero-pagando": {
+        title: "Flotilla suiza hacia Gaza: liberados, pero pagando",
+        description: "Flotilla suiza hacia Gaza: liberados, pero pagando",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-261-flotilla-suiza-hacia-gaza-liberados-pero-pagando",
+        readingTime: 2,
+        dateUpdated: "oct 07, 2025 9:03:29 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-262-dashcams-en-suiza-s-se-venden-m-s-pero-ojo-con-la-ley": {
+        title: "🎥 Dashcams en Suiza: sí, se venden más… pero ojo con la ley",
+        description: "🎥 Dashcams en Suiza: sí, se venden más… pero ojo con la ley",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-262-dashcams-en-suiza-s-se-venden-m-s-pero-ojo-con-la-ley",
+        readingTime: 2,
+        dateUpdated: "oct 08, 2025 7:45:52 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-263-ciudadanos-de-primera-y-de-segunda-el-esc-ndalo-en-las-naturalizaciones-suizas": {
+        title: "“Ciudadanos de primera y de segunda”: el escándalo en las naturalizaciones suizas",
+        description: "“Ciudadanos de primera y de segunda”: el escándalo en las naturalizaciones suizas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-263-ciudadanos-de-primera-y-de-segunda-el-esc-ndalo-en-las-naturalizaciones-suizas",
+        readingTime: 2,
+        dateUpdated: "oct 08, 2025 1:24:24 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-264-cliquer-pour-la-vid-o": {
+        title: "Cliquer pour la vidéo :⚠️    🇪🇸➡️🇨🇭   ⚠️",
+        description: "Cliquer pour la vidéo :⚠️    🇪🇸➡️🇨🇭   ⚠️",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-264-cliquer-pour-la-vid-o",
+        readingTime: 2,
+        dateUpdated: "oct 08, 2025 7:23:42 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-265-huelga-en-la-construcci-n-los-alba-iles-de-vaud-friburgo-y-ginebra-dicen-basta": {
+        title: "Huelga en la construcción: los albañiles de Vaud, Friburgo y Ginebra dicen basta",
+        description: "Huelga en la construcción: los albañiles de Vaud, Friburgo y Ginebra dicen basta",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-265-huelga-en-la-construcci-n-los-alba-iles-de-vaud-friburgo-y-ginebra-dicen-basta",
+        readingTime: 2,
+        dateUpdated: "oct 09, 2025 8:30:10 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-266-cuando-una-suiza-salv-a-cientos-de-espa-oles": {
+        title: "Cuando una suiza salvó a cientos de españoles",
+        description: "Cuando una suiza salvó a cientos de españoles",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-266-cuando-una-suiza-salv-a-cientos-de-espa-oles",
+        readingTime: 2,
+        dateUpdated: "oct 09, 2025 7:40:29 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-267-electricista-en-suiza-todo-lo-que-conviene-saber-antes-de-lanzarse": {
+        title: "Electricista en Suiza: todo lo que conviene saber antes de lanzarse",
+        description: "Electricista en Suiza: todo lo que conviene saber antes de lanzarse",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-267-electricista-en-suiza-todo-lo-que-conviene-saber-antes-de-lanzarse",
+        readingTime: 2,
+        dateUpdated: "oct 10, 2025 9:25:13 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-268-recordatorio-para-todos-los-que-publican-anuncios-de-alquiler-de-habitaci-n-en-el-grupo-para-mantener-el-orden-y-evitar-malentendidos-las-publicacion": {
+        title: "Recordatorio para todos los que publican anuncios de alquiler de habitación en el grupo:Para mantener el orden y evitar malentendidos, las publicacion",
+        description: "Recordatorio para todos los que publican anuncios de alquiler de habitación en el grupo:Para mantener el orden y evitar malentendidos, las publicacion",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-268-recordatorio-para-todos-los-que-publican-anuncios-de-alquiler-de-habitaci-n-en-el-grupo-para-mantener-el-orden-y-evitar-malentendidos-las-publicacion",
+        readingTime: 2,
+        dateUpdated: "oct 10, 2025 10:07:25 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-269-davos-donde-el-invierno-es-de-postal-y-los-precios-de-ciencia-ficci-n": {
+        title: "Davos, donde el invierno es de postal… y los precios, de ciencia ficción",
+        description: "Davos, donde el invierno es de postal… y los precios, de ciencia ficción",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-269-davos-donde-el-invierno-es-de-postal-y-los-precios-de-ciencia-ficci-n",
+        readingTime: 2,
+        dateUpdated: "oct 11, 2025 8:22:00 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-270-trabajar-en-limpieza-en-suiza-lo-que-s-lo-que-no-y-lo-que-nadie-te-cuenta": {
+        title: "Trabajar en limpieza en Suiza: lo que sí, lo que no y lo que nadie te cuenta",
+        description: "Trabajar en limpieza en Suiza: lo que sí, lo que no y lo que nadie te cuenta",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-270-trabajar-en-limpieza-en-suiza-lo-que-s-lo-que-no-y-lo-que-nadie-te-cuenta",
+        readingTime: 2,
+        dateUpdated: "oct 12, 2025 8:58:16 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-271-trabajar-en-hosteler-a-en-suiza-entre-la-oportunidad-y-la-trampa": {
+        title: "Trabajar en hostelería en Suiza: entre la oportunidad y la trampa",
+        description: "Trabajar en hostelería en Suiza: entre la oportunidad y la trampa",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-271-trabajar-en-hosteler-a-en-suiza-entre-la-oportunidad-y-la-trampa",
+        readingTime: 2,
+        dateUpdated: "oct 13, 2025 10:15:31 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-272-trabajar-en-log-stica-en-suiza-lo-que-no-te-cuentan-cuando-te-dicen-es-f-cil-entrar": {
+        title: "Trabajar en logística en Suiza: lo que no te cuentan cuando te dicen “es fácil entrar”",
+        description: "Trabajar en logística en Suiza: lo que no te cuentan cuando te dicen “es fácil entrar”",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-272-trabajar-en-log-stica-en-suiza-lo-que-no-te-cuentan-cuando-te-dicen-es-f-cil-entrar",
+        readingTime: 2,
+        dateUpdated: "oct 14, 2025 8:44:10 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-273-trabajar-como-camionero-o-conductor-de-bus-en-suiza-un-oficio-con-mucho-volante-y-poca-improvisaci-n": {
+        title: "Trabajar como camionero o conductor de bus en Suiza: un oficio con mucho volante y poca improvisación",
+        description: "Trabajar como camionero o conductor de bus en Suiza: un oficio con mucho volante y poca improvisación",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-273-trabajar-como-camionero-o-conductor-de-bus-en-suiza-un-oficio-con-mucho-volante-y-poca-improvisaci-n",
+        readingTime: 2,
+        dateUpdated: "oct 15, 2025 1:12:37 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-274-trabajar-en-mantenimiento-y-jardiner-a-en-suiza-el-trabajo-invisible-que-mantiene-el": {
+        title: "Trabajar en mantenimiento y jardinería en Suiza: el trabajo invisible que mantiene el",
+        description: "Trabajar en mantenimiento y jardinería en Suiza: el trabajo invisible que mantiene el",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-274-trabajar-en-mantenimiento-y-jardiner-a-en-suiza-el-trabajo-invisible-que-mantiene-el",
+        readingTime: 2,
+        dateUpdated: "oct 16, 2025 7:44:33 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-275-trabajar-en-el-sector-sanitario-en-suiza-un-mundo-de-oportunidades-y-de-requisitos": {
+        title: "Trabajar en el sector sanitario en Suiza: un mundo de oportunidades… y de requisitos",
+        description: "Trabajar en el sector sanitario en Suiza: un mundo de oportunidades… y de requisitos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-275-trabajar-en-el-sector-sanitario-en-suiza-un-mundo-de-oportunidades-y-de-requisitos",
+        readingTime: 2,
+        dateUpdated: "oct 17, 2025 7:45:59 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-276-temu-y-el-trabajo-invisible-tambi-n-llegan-a-suiza": {
+        title: "Temu y el “trabajo invisible” también llegan a Suiza",
+        description: "Temu y el “trabajo invisible” también llegan a Suiza",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-276-temu-y-el-trabajo-invisible-tambi-n-llegan-a-suiza",
+        readingTime: 2,
+        dateUpdated: "oct 19, 2025 1:39:05 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-277-crueldad-hacia-las-gambas-suiza-dijo-ya-basta": {
+        title: "Crueldad hacia las Gambas... Suiza dijo ya basta !",
+        description: "Crueldad hacia las Gambas... Suiza dijo ya basta !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-277-crueldad-hacia-las-gambas-suiza-dijo-ya-basta",
+        readingTime: 2,
+        dateUpdated: "oct 19, 2025 3:34:20 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-278-adi-s-al-demi-tarif-suiza-prueba-my-ride-el-nuevo-sistema-que-podr-a-cambiar-c-mo-viajamos-en-tren": {
+        title: "¿Adiós al demi-tarif? Suiza prueba “My Ride”, el nuevo sistema que podría cambiar cómo viajamos en tren",
+        description: "¿Adiós al demi-tarif? Suiza prueba “My Ride”, el nuevo sistema que podría cambiar cómo viajamos en tren",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-278-adi-s-al-demi-tarif-suiza-prueba-my-ride-el-nuevo-sistema-que-podr-a-cambiar-c-mo-viajamos-en-tren",
+        readingTime: 2,
+        dateUpdated: "oct 19, 2025 8:35:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-279-conducir-un-autocar-por-suiza-sin-permiso-ni-papeles": {
+        title: "Conducir un autocar por Suiza… sin permiso ni papeles",
+        description: "Conducir un autocar por Suiza… sin permiso ni papeles",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-279-conducir-un-autocar-por-suiza-sin-permiso-ni-papeles",
+        readingTime: 2,
+        dateUpdated: "oct 20, 2025 8:24:45 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-280-qu-est-pasando-con-el-cicr-la-oms-y-la-onu": {
+        title: "¿Qué está pasando con el CICR, la OMS y la ONU?",
+        description: "¿Qué está pasando con el CICR, la OMS y la ONU?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-280-qu-est-pasando-con-el-cicr-la-oms-y-la-onu",
+        readingTime: 2,
+        dateUpdated: "oct 20, 2025 8:27:51 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-281-cada-vez-m-s-suizos-hacen-las-maletas": {
+        title: "Cada vez más suizos hacen las maletas",
+        description: "Cada vez más suizos hacen las maletas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-281-cada-vez-m-s-suizos-hacen-las-maletas",
+        readingTime: 2,
+        dateUpdated: "oct 21, 2025 8:47:57 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-282-cliquer-pour-la-vid-o-the-vortex-race": {
+        title: "Cliquer pour la vidéo :The Vortex Race",
+        description: "Cliquer pour la vidéo :The Vortex Race",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-282-cliquer-pour-la-vid-o-the-vortex-race",
+        readingTime: 2,
+        dateUpdated: "oct 21, 2025 2:02:45 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-283-certificado-m-dico-desde-el-primer-d-a-la-nueva-moda-en-las-empresas-suizas": {
+        title: "Certificado médico desde el primer día: la nueva moda en las empresas suizas",
+        description: "Certificado médico desde el primer día: la nueva moda en las empresas suizas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-283-certificado-m-dico-desde-el-primer-d-a-la-nueva-moda-en-las-empresas-suizas",
+        readingTime: 2,
+        dateUpdated: "oct 21, 2025 8:22:23 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-284-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-284-sans-titre",
+        readingTime: 2,
+        dateUpdated: "oct 21, 2025 11:55:13 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-285-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-285-sans-titre",
+        readingTime: 2,
+        dateUpdated: "oct 21, 2025 11:55:13 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-286-suiza-no-es-el-pa-s-de-los-ositos-amorosos": {
+        title: "Suiza no es el país de los ositos amorosos",
+        description: "Suiza no es el país de los ositos amorosos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-286-suiza-no-es-el-pa-s-de-los-ositos-amorosos",
+        readingTime: 2,
+        dateUpdated: "oct 22, 2025 7:42:22 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-287-fonduetram-de-berna-fondue-sobre-ra-lessi-te-apetece-un-plan-diferente-este-invierno-en-berna-vuelve-el-famoso-fonduetram-una-cena-de-fondue-dentro": {
+        title: "Fonduetram de Berna: fondue sobre raílesSi te apetece un plan diferente este invierno, en Berna vuelve el famoso Fonduetram: una cena de fondue dentro",
+        description: "Fonduetram de Berna: fondue sobre raílesSi te apetece un plan diferente este invierno, en Berna vuelve el famoso Fonduetram: una cena de fondue dentro",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-287-fonduetram-de-berna-fondue-sobre-ra-lessi-te-apetece-un-plan-diferente-este-invierno-en-berna-vuelve-el-famoso-fonduetram-una-cena-de-fondue-dentro",
+        readingTime: 2,
+        dateUpdated: "oct 22, 2025 1:54:56 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-288-swisscaution-la-fianza-sin-fianza-pero-con-truco": {
+        title: "SwissCaution: la fianza sin fianza (pero con truco)",
+        description: "SwissCaution: la fianza sin fianza (pero con truco)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-288-swisscaution-la-fianza-sin-fianza-pero-con-truco",
+        readingTime: 2,
+        dateUpdated: "oct 22, 2025 8:20:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-289-as-se-vota-en-la-suiza-profunda-a-mano-alzada": {
+        title: "Así se vota en la Suiza profunda: ¡a mano alzada! 🇨🇭🖐️",
+        description: "Así se vota en la Suiza profunda: ¡a mano alzada! 🇨🇭🖐️",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-289-as-se-vota-en-la-suiza-profunda-a-mano-alzada",
+        readingTime: 2,
+        dateUpdated: "oct 23, 2025 12:12:46 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-290-birsfelden-y-sus-20-000-multas-por-atajos-el-nuevo-radar-del-siglo-xxi": {
+        title: "Birsfelden y sus 20.000 multas por “atajos”: el nuevo radar del siglo XXI",
+        description: "Birsfelden y sus 20.000 multas por “atajos”: el nuevo radar del siglo XXI",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-290-birsfelden-y-sus-20-000-multas-por-atajos-el-nuevo-radar-del-siglo-xxi",
+        readingTime: 2,
+        dateUpdated: "oct 23, 2025 8:29:52 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-291-reagrupar-tu-lpp-poner-orden-antes-de-que-sea-tarde": {
+        title: "Reagrupar tu LPP: poner orden antes de que sea tarde",
+        description: "Reagrupar tu LPP: poner orden antes de que sea tarde",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-291-reagrupar-tu-lpp-poner-orden-antes-de-que-sea-tarde",
+        readingTime: 2,
+        dateUpdated: "oct 24, 2025 1:43:42 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-292-se-puede-pausar-el-permiso-de-residencia-suizo-si-me-voy-unos-meses": {
+        title: "¿Se puede pausar el permiso de residencia suizo si me voy unos meses?",
+        description: "¿Se puede pausar el permiso de residencia suizo si me voy unos meses?",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-292-se-puede-pausar-el-permiso-de-residencia-suizo-si-me-voy-unos-meses",
+        readingTime: 2,
+        dateUpdated: "oct 25, 2025 8:20:00 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-293-qu-significa-realmente-ser-biling-e": {
+        title: "¿Qué significa realmente ser bilingüe?",
+        description: "¿Qué significa realmente ser bilingüe?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-293-qu-significa-realmente-ser-biling-e",
+        readingTime: 2,
+        dateUpdated: "oct 25, 2025 8:25:06 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-294-conflictos-en-el-trabajo-c-mo-se-manejan-en-suiza": {
+        title: "Conflictos en el trabajo: cómo se manejan en Suiza",
+        description: "Conflictos en el trabajo: cómo se manejan en Suiza",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-294-conflictos-en-el-trabajo-c-mo-se-manejan-en-suiza",
+        readingTime: 2,
+        dateUpdated: "oct 26, 2025 8:05:39 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-295-buscar-trabajo-en-suiza-los-tres-meses-que-marcan-la-diferencia": {
+        title: "Buscar trabajo en Suiza: los tres meses que marcan la diferencia",
+        description: "Buscar trabajo en Suiza: los tres meses que marcan la diferencia",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-295-buscar-trabajo-en-suiza-los-tres-meses-que-marcan-la-diferencia",
+        readingTime: 2,
+        dateUpdated: "oct 27, 2025 8:28:43 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-296-150-a-os-del-tribunal-supremo-federal-de-suiza-el-rbitro-final-de-la-justicia-helv-tica": {
+        title: "150 años del Tribunal Supremo Federal de Suiza: el árbitro final de la justicia helvética",
+        description: "150 años del Tribunal Supremo Federal de Suiza: el árbitro final de la justicia helvética",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-296-150-a-os-del-tribunal-supremo-federal-de-suiza-el-rbitro-final-de-la-justicia-helv-tica",
+        readingTime: 2,
+        dateUpdated: "oct 27, 2025 1:11:13 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-297-vivir-en-una-caja-lo-que-hay-que-saber-sobre-habitaciones-y-micro-studios-en-suiza": {
+        title: "Vivir en una caja: lo que hay que saber sobre habitaciones y micro-studios en Suiza",
+        description: "Vivir en una caja: lo que hay que saber sobre habitaciones y micro-studios en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-297-vivir-en-una-caja-lo-que-hay-que-saber-sobre-habitaciones-y-micro-studios-en-suiza",
+        readingTime: 2,
+        dateUpdated: "oct 27, 2025 8:08:41 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-298-las-amendes-d-ordre-las-multas-expr-s-que-ves-o-sufrir-s-en-suiza": {
+        title: "Las “amendes d’ordre”: las multas exprés que ves (o sufrirás) en Suiza",
+        description: "Las “amendes d’ordre”: las multas exprés que ves (o sufrirás) en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-298-las-amendes-d-ordre-las-multas-expr-s-que-ves-o-sufrir-s-en-suiza",
+        readingTime: 2,
+        dateUpdated: "oct 28, 2025 8:24:37 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-299-el-otro-secreto-de-la-riqueza-suiza-el-negocio-invisible-de-las-materias-primas": {
+        title: "El otro secreto de la riqueza suiza: el negocio invisible de las materias primas",
+        description: "El otro secreto de la riqueza suiza: el negocio invisible de las materias primas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-299-el-otro-secreto-de-la-riqueza-suiza-el-negocio-invisible-de-las-materias-primas",
+        readingTime: 2,
+        dateUpdated: "oct 28, 2025 1:27:36 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-300-los-futuros-m-dicos-de-ginebra-otra-vez-al-natural": {
+        title: "Los futuros médicos de Ginebra, otra vez… al natural",
+        description: "Los futuros médicos de Ginebra, otra vez… al natural",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-300-los-futuros-m-dicos-de-ginebra-otra-vez-al-natural",
+        readingTime: 2,
+        dateUpdated: "oct 29, 2025 8:41:34 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-301-las-estaciones-de-esqu-suizas-buscan-desesperadamente-personal": {
+        title: "Las estaciones de esquí suizas buscan desesperadamente personal",
+        description: "Las estaciones de esquí suizas buscan desesperadamente personal",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-301-las-estaciones-de-esqu-suizas-buscan-desesperadamente-personal",
+        readingTime: 2,
+        dateUpdated: "oct 29, 2025 2:15:46 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-302-un-diputado-suizo-que-vive-en-francia-pues-s-ya-es-oficial": {
+        title: "¿Un diputado suizo que vive en Francia? Pues sí, ya es oficial.",
+        description: "¿Un diputado suizo que vive en Francia? Pues sí, ya es oficial.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-302-un-diputado-suizo-que-vive-en-francia-pues-s-ya-es-oficial",
+        readingTime: 2,
+        dateUpdated: "oct 29, 2025 6:17:39 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-303-d-nde-hacer-una-traducci-n-oficial-reconocida-en-suiza": {
+        title: "Dónde hacer una traducción oficial reconocida en Suiza",
+        description: "Dónde hacer una traducción oficial reconocida en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-303-d-nde-hacer-una-traducci-n-oficial-reconocida-en-suiza",
+        readingTime: 2,
+        dateUpdated: "oct 30, 2025 8:44:07 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-304-casarse-en-suiza-lo-que-nadie-te-cuenta-y-lo-que-s-te-pedir-n": {
+        title: "Casarse en Suiza: lo que nadie te cuenta (y lo que sí te pedirán)",
+        description: "Casarse en Suiza: lo que nadie te cuenta (y lo que sí te pedirán)",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-304-casarse-en-suiza-lo-que-nadie-te-cuenta-y-lo-que-s-te-pedir-n",
+        readingTime: 2,
+        dateUpdated: "nov 01, 2025 6:58:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-305-ginebra-el-lunes-se-prev-n-importantes-perturbaciones-por-la-huelga-en-la-construcci-n": {
+        title: "Ginebra: el lunes se prevén importantes perturbaciones por la huelga en la construcción",
+        description: "Ginebra: el lunes se prevén importantes perturbaciones por la huelga en la construcción",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-305-ginebra-el-lunes-se-prev-n-importantes-perturbaciones-por-la-huelga-en-la-construcci-n",
+        readingTime: 2,
+        dateUpdated: "nov 02, 2025 9:10:12 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-306-suiza-sigue-cobrando-lo-que-europa-ya-aboli": {
+        title: "Suiza sigue cobrando lo que Europa ya abolió",
+        description: "Suiza sigue cobrando lo que Europa ya abolió",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-306-suiza-sigue-cobrando-lo-que-europa-ya-aboli",
+        readingTime: 2,
+        dateUpdated: "nov 02, 2025 1:42:06 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-307-telefon-a-m-vil-en-suiza-operadores-condiciones-y-c-mo-activar-tu-l-nea": {
+        title: "Telefonía móvil en Suiza: operadores, condiciones y cómo activar tu línea",
+        description: "Telefonía móvil en Suiza: operadores, condiciones y cómo activar tu línea",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-307-telefon-a-m-vil-en-suiza-operadores-condiciones-y-c-mo-activar-tu-l-nea",
+        readingTime: 2,
+        dateUpdated: "nov 02, 2025 4:30:13 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-308-d-as-libres-especiales-en-suiza-boda-nacimiento-mudanza-qu-dice-la-ley": {
+        title: "Días libres especiales en Suiza: boda, nacimiento, mudanza… ¿qué dice la ley?",
+        description: "Días libres especiales en Suiza: boda, nacimiento, mudanza… ¿qué dice la ley?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-308-d-as-libres-especiales-en-suiza-boda-nacimiento-mudanza-qu-dice-la-ley",
+        readingTime: 2,
+        dateUpdated: "nov 03, 2025 8:54:53 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-309-el-certificado-de-trabajo-en-suiza-lo-que-dice-y-lo-que-quiere-decir": {
+        title: "El certificado de trabajo en Suiza: lo que dice y lo que quiere decir",
+        description: "El certificado de trabajo en Suiza: lo que dice y lo que quiere decir",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-309-el-certificado-de-trabajo-en-suiza-lo-que-dice-y-lo-que-quiere-decir",
+        readingTime: 2,
+        dateUpdated: "nov 03, 2025 8:25:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-310-el-famoso-d-a-de-prueba-en-suiza-aclar-moslo": {
+        title: "El famoso “día de prueba” en Suiza… aclarémoslo.",
+        description: "El famoso “día de prueba” en Suiza… aclarémoslo.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-310-el-famoso-d-a-de-prueba-en-suiza-aclar-moslo",
+        readingTime: 2,
+        dateUpdated: "nov 04, 2025 8:40:23 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-311-trabajas-3-meses-en-suiza-y-vuelves-a-espa-a-lo-que-hacienda-quiere-saber": {
+        title: "TRABAJAS 3 MESES EN SUIZA Y VUELVES A ESPAÑA: LO QUE HACIENDA QUIERE SABER",
+        description: "TRABAJAS 3 MESES EN SUIZA Y VUELVES A ESPAÑA: LO QUE HACIENDA QUIERE SABER",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-311-trabajas-3-meses-en-suiza-y-vuelves-a-espa-a-lo-que-hacienda-quiere-saber",
+        readingTime: 2,
+        dateUpdated: "nov 04, 2025 7:45:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-312-hola-a-todos-como-sab-is-facebook-ha-suspendido-los-grupos-messenger-as-que-muchos-nos-hemos-quedado-sin-la-posibilidad-de-seguir-hablando-de-forma": {
+        title: "Hola a todos,Como sabéis, Facebook ha suspendido los grupos Messenger, así que muchos nos hemos quedado sin la posibilidad de seguir hablando de forma",
+        description: "Hola a todos,Como sabéis, Facebook ha suspendido los grupos Messenger, así que muchos nos hemos quedado sin la posibilidad de seguir hablando de forma",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-312-hola-a-todos-como-sab-is-facebook-ha-suspendido-los-grupos-messenger-as-que-muchos-nos-hemos-quedado-sin-la-posibilidad-de-seguir-hablando-de-forma",
+        readingTime: 2,
+        dateUpdated: "nov 04, 2025 9:56:07 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-313-cada-cierto-tiempo-vuelve-a-pasar-alguien-conf-a-env-a-dinero-por-adelantado-para-que-le-tramiten-el-permiso-de-residencia-o-le-consigan-trabajo": {
+        title: "Cada cierto tiempo vuelve a pasar: alguien confía, envía dinero por adelantado para que le “tramiten el permiso de residencia” o le “consigan trabajo”",
+        description: "Cada cierto tiempo vuelve a pasar: alguien confía, envía dinero por adelantado para que le “tramiten el permiso de residencia” o le “consigan trabajo”",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-313-cada-cierto-tiempo-vuelve-a-pasar-alguien-conf-a-env-a-dinero-por-adelantado-para-que-le-tramiten-el-permiso-de-residencia-o-le-consigan-trabajo",
+        readingTime: 2,
+        dateUpdated: "nov 05, 2025 8:36:55 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-314-cliquer-pour-la-vid-o-aviso-importante-la-estafa-del-c-digo-qr-en-las-multas": {
+        title: "Cliquer pour la vidéo :Aviso importante: la estafa del código QR en las multas",
+        description: "Cliquer pour la vidéo :Aviso importante: la estafa del código QR en las multas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-314-cliquer-pour-la-vid-o-aviso-importante-la-estafa-del-c-digo-qr-en-las-multas",
+        readingTime: 2,
+        dateUpdated: "nov 05, 2025 1:32:57 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-315-comprar-casa-en-suiza-misi-n-casi-imposible": {
+        title: "Comprar casa en Suiza: misión (casi) imposible",
+        description: "Comprar casa en Suiza: misión (casi) imposible",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-315-comprar-casa-en-suiza-misi-n-casi-imposible",
+        readingTime: 2,
+        dateUpdated: "nov 05, 2025 8:38:53 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-316-expulsadas-por-no-hablar-alem-n-dos-cocineras-con-16-puntos-gault-millau-pierden-su-trabajo-en-suiza": {
+        title: "Expulsadas por no hablar alemán: dos cocineras con 16 puntos Gault&Millau pierden su trabajo en Suiza",
+        description: "Expulsadas por no hablar alemán: dos cocineras con 16 puntos Gault&Millau pierden su trabajo en Suiza",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-316-expulsadas-por-no-hablar-alem-n-dos-cocineras-con-16-puntos-gault-millau-pierden-su-trabajo-en-suiza",
+        readingTime: 2,
+        dateUpdated: "nov 06, 2025 8:34:14 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-317-revolut-y-wise-no-son-bancos-suizos-y-los-empleadores-lo-saben": {
+        title: "Revolut y Wise no son bancos suizos (y los empleadores lo saben)",
+        description: "Revolut y Wise no son bancos suizos (y los empleadores lo saben)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-317-revolut-y-wise-no-son-bancos-suizos-y-los-empleadores-lo-saben",
+        readingTime: 2,
+        dateUpdated: "nov 07, 2025 1:25:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-318-naturalizaci-n-suiza-dice-simplificar-pero-con-freno-de-mano-puesto": {
+        title: "Naturalización: Suiza dice “simplificar”, pero con freno de mano puesto",
+        description: "Naturalización: Suiza dice “simplificar”, pero con freno de mano puesto",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-318-naturalizaci-n-suiza-dice-simplificar-pero-con-freno-de-mano-puesto",
+        readingTime: 2,
+        dateUpdated: "nov 07, 2025 8:40:48 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-319-suiza-votar-si-sustituir-el-servicio-militar-por-un-servicio-c-vico-para-todos": {
+        title: "Suiza votará si sustituir el servicio militar por un servicio cívico para todos",
+        description: "Suiza votará si sustituir el servicio militar por un servicio cívico para todos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-319-suiza-votar-si-sustituir-el-servicio-militar-por-un-servicio-c-vico-para-todos",
+        readingTime: 2,
+        dateUpdated: "nov 08, 2025 8:46:51 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-320-cliquer-pour-la-vid-o-el-yodel-suizo-podr-a-entrar-en-el-patrimonio-mundial-de-la-unesco": {
+        title: "Cliquer pour la vidéo :El yodel suizo podría entrar en el Patrimonio Mundial de la Unesco",
+        description: "Cliquer pour la vidéo :El yodel suizo podría entrar en el Patrimonio Mundial de la Unesco",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-320-cliquer-pour-la-vid-o-el-yodel-suizo-podr-a-entrar-en-el-patrimonio-mundial-de-la-unesco",
+        readingTime: 2,
+        dateUpdated: "nov 08, 2025 1:53:41 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-321-dejar-un-piso-en-suiza-lo-que-te-pueden-y-no-te-pueden-cobrar": {
+        title: "Dejar un piso en Suiza: lo que te pueden (y no te pueden) cobrar",
+        description: "Dejar un piso en Suiza: lo que te pueden (y no te pueden) cobrar",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-321-dejar-un-piso-en-suiza-lo-que-te-pueden-y-no-te-pueden-cobrar",
+        readingTime: 2,
+        dateUpdated: "nov 09, 2025 8:40:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-322-m-s-de-1000-paquetes-ilegales-interceptados-en-z-rich": {
+        title: "Más de 1000 paquetes ilegales interceptados en Zúrich",
+        description: "Más de 1000 paquetes ilegales interceptados en Zúrich",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-322-m-s-de-1000-paquetes-ilegales-interceptados-en-z-rich",
+        readingTime: 2,
+        dateUpdated: "nov 09, 2025 1:54:30 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-323-mudarse-de-un-cant-n-a-otro-ojo-con-tu-permiso-de-residencia": {
+        title: "Mudarse de un cantón a otro: ojo con tu permiso de residencia",
+        description: "Mudarse de un cantón a otro: ojo con tu permiso de residencia",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-323-mudarse-de-un-cant-n-a-otro-ojo-con-tu-permiso-de-residencia",
+        readingTime: 2,
+        dateUpdated: "nov 09, 2025 8:20:18 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-324-marmota-al-vino-tinto-el-plato-que-ha-indignado-a-media-suiza": {
+        title: "Marmota al vino tinto: el plato que ha indignado a media Suiza",
+        description: "Marmota al vino tinto: el plato que ha indignado a media Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-324-marmota-al-vino-tinto-el-plato-que-ha-indignado-a-media-suiza",
+        readingTime: 2,
+        dateUpdated: "nov 10, 2025 8:40:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-325-coop-adelanta-a-migros-el-cambio-de-ciclo-en-los-supermercados-suizos": {
+        title: "Coop adelanta a Migros: el cambio de ciclo en los supermercados suizos",
+        description: "Coop adelanta a Migros: el cambio de ciclo en los supermercados suizos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-325-coop-adelanta-a-migros-el-cambio-de-ciclo-en-los-supermercados-suizos",
+        readingTime: 2,
+        dateUpdated: "nov 10, 2025 1:40:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-326-se-ruega-por-favor-suiza-cuenta-con-26-cantones-cuando-vayan-a-publicar-algo-indiquen-donde-se-ubican-se-autorizan-publicaciones-en-espa-ol-alem": {
+        title: "🙏🏻 se ruega por favor🙏🏻Suiza cuenta con 26 cantones. Cuando vayan a publicar algo indiquen donde se ubican.Se autorizan publicaciones en español, alem",
+        description: "🙏🏻 se ruega por favor🙏🏻Suiza cuenta con 26 cantones. Cuando vayan a publicar algo indiquen donde se ubican.Se autorizan publicaciones en español, alem",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-326-se-ruega-por-favor-suiza-cuenta-con-26-cantones-cuando-vayan-a-publicar-algo-indiquen-donde-se-ubican-se-autorizan-publicaciones-en-espa-ol-alem",
+        readingTime: 2,
+        dateUpdated: "nov 10, 2025 5:58:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-327-residencia-permanente-para-690-000-europeos-en-suiza": {
+        title: "Residencia permanente para 690\'000 europeos en Suiza",
+        description: "Residencia permanente para 690\'000 europeos en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-327-residencia-permanente-para-690-000-europeos-en-suiza",
+        readingTime: 2,
+        dateUpdated: "nov 10, 2025 6:44:14 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-328-betty-bossi-la-ama-de-casa-suiza-que-nunca-existi-y-ahora-tiene-pel-cula": {
+        title: "Betty Bossi: la ama de casa suiza que nunca existió (y ahora tiene película)",
+        description: "Betty Bossi: la ama de casa suiza que nunca existió (y ahora tiene película)",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-328-betty-bossi-la-ama-de-casa-suiza-que-nunca-existi-y-ahora-tiene-pel-cula",
+        readingTime: 2,
+        dateUpdated: "nov 10, 2025 8:35:04 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-329-empieza-la-temporada-de-esqu-en-suiza-qui-n-abre-y-cu-ndo": {
+        title: "Empieza la temporada de esquí en Suiza: quién abre y cuándo",
+        description: "Empieza la temporada de esquí en Suiza: quién abre y cuándo",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-329-empieza-la-temporada-de-esqu-en-suiza-qui-n-abre-y-cu-ndo",
+        readingTime: 2,
+        dateUpdated: "nov 11, 2025 8:40:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-330-formarse-en-suiza-no-es-un-lujo-es-casi-una-obligaci-n": {
+        title: "Formarse en Suiza: no es un lujo, es casi una obligación",
+        description: "Formarse en Suiza: no es un lujo, es casi una obligación",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-330-formarse-en-suiza-no-es-un-lujo-es-casi-una-obligaci-n",
+        readingTime: 2,
+        dateUpdated: "nov 11, 2025 1:35:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-331-el-caso-frieda": {
+        title: "El caso Frieda",
+        description: "El caso Frieda",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-331-el-caso-frieda",
+        readingTime: 2,
+        dateUpdated: "nov 11, 2025 8:35:14 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-332-las-primas-de-seguro-de-coche-volver-n-a-subir-en-2026": {
+        title: "Las primas de seguro de coche volverán a subir en 2026",
+        description: "Las primas de seguro de coche volverán a subir en 2026",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-332-las-primas-de-seguro-de-coche-volver-n-a-subir-en-2026",
+        readingTime: 2,
+        dateUpdated: "nov 12, 2025 8:38:49 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-333-una-multa-de-160-francos-por-escupir-s-has-le-do-bien": {
+        title: "Una multa de 160 francos por escupir (sí, has leído bien)",
+        description: "Una multa de 160 francos por escupir (sí, has leído bien)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-333-una-multa-de-160-francos-por-escupir-s-has-le-do-bien",
+        readingTime: 2,
+        dateUpdated: "nov 12, 2025 1:37:55 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-334-permiso-c-en-suiza-qui-n-necesita-el-fide-y-qui-n-no": {
+        title: "PERMISO C EN SUIZA: QUIÉN NECESITA EL FIDE Y QUIÉN NO",
+        description: "PERMISO C EN SUIZA: QUIÉN NECESITA EL FIDE Y QUIÉN NO",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-334-permiso-c-en-suiza-qui-n-necesita-el-fide-y-qui-n-no",
+        readingTime: 2,
+        dateUpdated: "nov 13, 2025 8:25:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-335-cuando-tu-permiso-b-deja-de-ser-a-la-fuente-porque-tu-pareja-es-suiza-o-tiene-c": {
+        title: "Cuando tu permiso B deja de ser “a la fuente” porque tu pareja es suiza o tiene C",
+        description: "Cuando tu permiso B deja de ser “a la fuente” porque tu pareja es suiza o tiene C",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-335-cuando-tu-permiso-b-deja-de-ser-a-la-fuente-porque-tu-pareja-es-suiza-o-tiene-c",
+        readingTime: 2,
+        dateUpdated: "nov 13, 2025 1:34:52 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-336-subalquilar-una-habitaci-n-en-suiza-lo-que-puedes-hacer-lo-que-no-y-el-ejemplo-que-nadie-explica": {
+        title: "Subalquilar una habitación en Suiza: lo que puedes hacer, lo que no, y el ejemplo que nadie explica",
+        description: "Subalquilar una habitación en Suiza: lo que puedes hacer, lo que no, y el ejemplo que nadie explica",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-336-subalquilar-una-habitaci-n-en-suiza-lo-que-puedes-hacer-lo-que-no-y-el-ejemplo-que-nadie-explica",
+        readingTime: 2,
+        dateUpdated: "nov 13, 2025 8:25:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-337-tasa-de-impuesto-en-suiza-seg-n-el-cant-n-y-por-qu-cambia-tanto": {
+        title: "Tasa de impuesto en Suiza según el cantón (y por qué cambia tanto)",
+        description: "Tasa de impuesto en Suiza según el cantón (y por qué cambia tanto)",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-337-tasa-de-impuesto-en-suiza-seg-n-el-cant-n-y-por-qu-cambia-tanto",
+        readingTime: 2,
+        dateUpdated: "nov 14, 2025 6:02:27 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-338-qu-es-realmente-un-salario-m-nimo-en-suiza-y-si-alguien-vive-de-l": {
+        title: "Qué es realmente un salario mínimo en Suiza… y si alguien vive de él",
+        description: "Qué es realmente un salario mínimo en Suiza… y si alguien vive de él",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-338-qu-es-realmente-un-salario-m-nimo-en-suiza-y-si-alguien-vive-de-l",
+        readingTime: 2,
+        dateUpdated: "nov 14, 2025 9:13:33 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-339-muchos-emigrantes-dicen-que-suiza-era-mejor-antes-a-ver-si-nos-entendemos": {
+        title: "Muchos emigrantes dicen que Suiza era mejor antes... A ver si nos entendemos!",
+        description: "Muchos emigrantes dicen que Suiza era mejor antes... A ver si nos entendemos!",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-339-muchos-emigrantes-dicen-que-suiza-era-mejor-antes-a-ver-si-nos-entendemos",
+        readingTime: 2,
+        dateUpdated: "nov 15, 2025 8:43:10 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-340-los-extranjeros-en-suiza-tiles-y-mucho-m-s-de-lo-que-algunos-quieren-admitir": {
+        title: "Los extranjeros en Suiza: útiles… y mucho más de lo que algunos quieren admitir",
+        description: "Los extranjeros en Suiza: útiles… y mucho más de lo que algunos quieren admitir",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-340-los-extranjeros-en-suiza-tiles-y-mucho-m-s-de-lo-que-algunos-quieren-admitir",
+        readingTime: 2,
+        dateUpdated: "nov 15, 2025 8:35:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-341-votaciones-populares-control-estricto-de-las-frimas": {
+        title: "Votaciones populares : Control estricto de las frimas",
+        description: "Votaciones populares : Control estricto de las frimas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-341-votaciones-populares-control-estricto-de-las-frimas",
+        readingTime: 2,
+        dateUpdated: "nov 16, 2025 8:44:59 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-342-tu-iphone-tiene-origenes-suizas": {
+        title: "Tu IPhone tiene origenes Suizas !",
+        description: "Tu IPhone tiene origenes Suizas !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-342-tu-iphone-tiene-origenes-suizas",
+        readingTime: 2,
+        dateUpdated: "nov 16, 2025 8:35:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-343-saturaci-n-del-empleo-en-las-grandes-ciudades-suizas-lo-que-no-te-cuentan-las-webs": {
+        title: "Saturación del empleo en las grandes ciudades suizas: lo que no te cuentan las webs",
+        description: "Saturación del empleo en las grandes ciudades suizas: lo que no te cuentan las webs",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-343-saturaci-n-del-empleo-en-las-grandes-ciudades-suizas-lo-que-no-te-cuentan-las-webs",
+        readingTime: 2,
+        dateUpdated: "nov 17, 2025 6:37:24 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-344-suiza-sigue-l-der-digital-pero-con-aviso": {
+        title: "Suiza sigue líder digital… pero con aviso",
+        description: "Suiza sigue líder digital… pero con aviso",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-344-suiza-sigue-l-der-digital-pero-con-aviso",
+        readingTime: 2,
+        dateUpdated: "nov 18, 2025 8:22:59 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-345-c-mo-funcionan-las-poursuites-en-suiza-y-qu-pasa-si-pagas-directamente-al-acreedor": {
+        title: "Cómo funcionan las poursuites en Suiza… y qué pasa si pagas directamente al acreedor",
+        description: "Cómo funcionan las poursuites en Suiza… y qué pasa si pagas directamente al acreedor",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-345-c-mo-funcionan-las-poursuites-en-suiza-y-qu-pasa-si-pagas-directamente-al-acreedor",
+        readingTime: 2,
+        dateUpdated: "nov 20, 2025 1:11:51 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-346-d-nde-pedir-certificados-y-atestaciones-en-suiza-sin-perder-media-vida": {
+        title: "Dónde pedir certificados y atestaciones en Suiza sin perder media vida",
+        description: "Dónde pedir certificados y atestaciones en Suiza sin perder media vida",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-346-d-nde-pedir-certificados-y-atestaciones-en-suiza-sin-perder-media-vida",
+        readingTime: 2,
+        dateUpdated: "nov 21, 2025 8:40:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-347-lista-de-pa-ses-con-doble-nacionalidad-que-publica-legalteamhe-visto-circular-un-art-culo-de-legalteam-donde-aparece-una-lista-de-pa-ses-con-los-que-e": {
+        title: "Lista de países con doble nacionalidad que publica LegalteamHe visto circular un artículo de Legalteam donde aparece una lista de países con los que E",
+        description: "Lista de países con doble nacionalidad que publica LegalteamHe visto circular un artículo de Legalteam donde aparece una lista de países con los que E",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-347-lista-de-pa-ses-con-doble-nacionalidad-que-publica-legalteamhe-visto-circular-un-art-culo-de-legalteam-donde-aparece-una-lista-de-pa-ses-con-los-que-e",
+        readingTime: 2,
+        dateUpdated: "nov 21, 2025 12:38:23 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-348-el-acuerdo-a-reo-con-la-ue-menos-drama-m-s-vuelos-baratos": {
+        title: "El acuerdo aéreo con la UE: menos drama, más vuelos baratos",
+        description: "El acuerdo aéreo con la UE: menos drama, más vuelos baratos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-348-el-acuerdo-a-reo-con-la-ue-menos-drama-m-s-vuelos-baratos",
+        readingTime: 2,
+        dateUpdated: "nov 22, 2025 1:49:42 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-349-conducir-a-129-km-h-en-zona-de-40-con-un-coche-robado-y-ahora-expulsi-n": {
+        title: "Conducir a 129 km/h en zona de 40 con un coche robado: y ahora ¿expulsión?",
+        description: "Conducir a 129 km/h en zona de 40 con un coche robado: y ahora ¿expulsión?",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-349-conducir-a-129-km-h-en-zona-de-40-con-un-coche-robado-y-ahora-expulsi-n",
+        readingTime: 2,
+        dateUpdated: "nov 23, 2025 8:41:28 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-350-el-mapa-del-curro-f-cil-seg-n-sectores-en-suiza-que-no-existe": {
+        title: "El mapa del “curro fácil” según sectores en Suiza… que no existe.",
+        description: "El mapa del “curro fácil” según sectores en Suiza… que no existe.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-350-el-mapa-del-curro-f-cil-seg-n-sectores-en-suiza-que-no-existe",
+        readingTime: 2,
+        dateUpdated: "nov 23, 2025 8:38:15 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-351-las-ilusiones-perdidas-de-la-clase-media-suiza-o-por-qu-muchos-sienten-que-el-bolsillo-tiene-agujeros": {
+        title: "Las ilusiones perdidas de la clase media suiza… o por qué muchos sienten que el bolsillo tiene agujeros",
+        description: "Las ilusiones perdidas de la clase media suiza… o por qué muchos sienten que el bolsillo tiene agujeros",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-351-las-ilusiones-perdidas-de-la-clase-media-suiza-o-por-qu-muchos-sienten-que-el-bolsillo-tiene-agujeros",
+        readingTime: 2,
+        dateUpdated: "nov 24, 2025 8:27:18 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-352-cuando-la-romandia-pierde-ritmo": {
+        title: "Cuando la romandia pierde ritmo!",
+        description: "Cuando la romandia pierde ritmo!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-352-cuando-la-romandia-pierde-ritmo",
+        readingTime: 2,
+        dateUpdated: "nov 25, 2025 8:41:46 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-353-en-suiza-un-okupa-no-negocia-sale-y-r-pido": {
+        title: "En Suiza un okupa no negocia: sale… y rápido",
+        description: "En Suiza un okupa no negocia: sale… y rápido",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-353-en-suiza-un-okupa-no-negocia-sale-y-r-pido",
+        readingTime: 2,
+        dateUpdated: "nov 25, 2025 8:29:16 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-354-el-salario-mediano-en-suiza-la-cifra-real-y-lo-que-significa": {
+        title: "El salario mediano en Suiza: la cifra real y lo que significa",
+        description: "El salario mediano en Suiza: la cifra real y lo que significa",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-354-el-salario-mediano-en-suiza-la-cifra-real-y-lo-que-significa",
+        readingTime: 2,
+        dateUpdated: "nov 26, 2025 8:19:38 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-355-me-puedo-registrar-en-un-airbnb": {
+        title: "Me puedo registrar en un Airbnb?",
+        description: "Me puedo registrar en un Airbnb?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-355-me-puedo-registrar-en-un-airbnb",
+        readingTime: 2,
+        dateUpdated: "nov 28, 2025 8:14:19 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-356-cliquer-pour-la-vid-o-cuidado-con-la-ltima-estafa-en-suiza-ahora-llaman-desde-la-polic-a": {
+        title: "Cliquer pour la vidéo :Cuidado con la última estafa en Suiza: ahora llaman desde “la policía\"",
+        description: "Cliquer pour la vidéo :Cuidado con la última estafa en Suiza: ahora llaman desde “la policía\"",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-356-cliquer-pour-la-vid-o-cuidado-con-la-ltima-estafa-en-suiza-ahora-llaman-desde-la-polic-a",
+        readingTime: 2,
+        dateUpdated: "nov 29, 2025 7:49:41 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-357-el-stalking-sera-por-fin-un-delito-penal": {
+        title: "El stalking sera \"por fin\" un delito penal",
+        description: "El stalking sera \"por fin\" un delito penal",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-357-el-stalking-sera-por-fin-un-delito-penal",
+        readingTime: 2,
+        dateUpdated: "nov 29, 2025 1:35:21 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-358-qu-pasar-a-con-los-residentes-extranjeros-en-suiza-si-estalla-una-guerra": {
+        title: "Qué pasaría con los residentes extranjeros en Suiza si estalla una guerra",
+        description: "Qué pasaría con los residentes extranjeros en Suiza si estalla una guerra",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-358-qu-pasar-a-con-los-residentes-extranjeros-en-suiza-si-estalla-una-guerra",
+        readingTime: 2,
+        dateUpdated: "nov 29, 2025 8:24:09 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-359-ginebra-anoche-ginebra-anoche": {
+        title: "Ginebra anoche! Ginebra anoche!",
+        description: "Ginebra anoche! Ginebra anoche!",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-359-ginebra-anoche-ginebra-anoche",
+        readingTime: 2,
+        dateUpdated: "déc 06, 2025 10:11:27 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-360-publicaci-n-an-nimapor-favor-evitad-publicar-como-an-nimo-en-el-grupo-este-espacio-funciona-porque-nos-hablamos-de-frente-nos-ayudamos-entre-pers": {
+        title: "Publicación anónimaPor favor, evitad publicar como “anónimo” en el grupo. Este espacio funciona porque nos hablamos de frente, nos ayudamos entre pers",
+        description: "Publicación anónimaPor favor, evitad publicar como “anónimo” en el grupo. Este espacio funciona porque nos hablamos de frente, nos ayudamos entre pers",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-360-publicaci-n-an-nimapor-favor-evitad-publicar-como-an-nimo-en-el-grupo-este-espacio-funciona-porque-nos-hablamos-de-frente-nos-ayudamos-entre-pers",
+        readingTime: 2,
+        dateUpdated: "déc 06, 2025 3:05:08 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-361-as-funciona-realmente-el-gobierno-suizo-y-por-qu-aqu-nadie-manda-tanto-como-crees": {
+        title: "Así funciona realmente el Gobierno suizo (y por qué aquí nadie manda tanto como crees)",
+        description: "Así funciona realmente el Gobierno suizo (y por qué aquí nadie manda tanto como crees)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-361-as-funciona-realmente-el-gobierno-suizo-y-por-qu-aqu-nadie-manda-tanto-como-crees",
+        readingTime: 2,
+        dateUpdated: "déc 06, 2025 8:28:40 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-362-cuando-la-vigilancia-selectiva-deja-de-serlo": {
+        title: "Cuando la vigilancia “selectiva” deja de serlo",
+        description: "Cuando la vigilancia “selectiva” deja de serlo",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-362-cuando-la-vigilancia-selectiva-deja-de-serlo",
+        readingTime: 2,
+        dateUpdated: "déc 08, 2025 8:35:55 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-363-talento-suizo-en-espa-a": {
+        title: "TALENTO SUIZO EN ESPAÑA",
+        description: "TALENTO SUIZO EN ESPAÑA",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-363-talento-suizo-en-espa-a",
+        readingTime: 2,
+        dateUpdated: "déc 09, 2025 1:27:13 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-364-permiso-de-residencia-espa-ola-no-es-una-puerta-abierta": {
+        title: "Permiso de residencia española no es una puerta abierta!",
+        description: "Permiso de residencia española no es una puerta abierta!",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-364-permiso-de-residencia-espa-ola-no-es-una-puerta-abierta",
+        readingTime: 2,
+        dateUpdated: "déc 09, 2025 8:05:10 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-365-binacionales-o-mili-o-pagas": {
+        title: "Binacionales... O mili o pagas!",
+        description: "Binacionales... O mili o pagas!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-365-binacionales-o-mili-o-pagas",
+        readingTime: 2,
+        dateUpdated: "déc 11, 2025 8:22:12 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-366-china-se-retira-del-cepc-y-curiosamente-eso-da-alas-al-proyecto-fcc-del-cern": {
+        title: "China se retira del CEPC… y, curiosamente, eso da alas al proyecto FCC del CERN",
+        description: "China se retira del CEPC… y, curiosamente, eso da alas al proyecto FCC del CERN",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-366-china-se-retira-del-cepc-y-curiosamente-eso-da-alas-al-proyecto-fcc-del-cern",
+        readingTime: 2,
+        dateUpdated: "déc 11, 2025 1:35:58 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-367-no-se-juega-con-la-rav": {
+        title: "No se juega con la RAV !",
+        description: "No se juega con la RAV !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-367-no-se-juega-con-la-rav",
+        readingTime: 2,
+        dateUpdated: "déc 11, 2025 8:36:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-368-la-m-re-royaume": {
+        title: "La Mère Royaume",
+        description: "La Mère Royaume",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-368-la-m-re-royaume",
+        readingTime: 2,
+        dateUpdated: "déc 12, 2025 8:36:00 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-369-viajar-a-eeuu-solo-con-esta-ya-no-ser-suficiente": {
+        title: "Viajar a EEUU solo con ESTA ya no será suficiente!",
+        description: "Viajar a EEUU solo con ESTA ya no será suficiente!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-369-viajar-a-eeuu-solo-con-esta-ya-no-ser-suficiente",
+        readingTime: 2,
+        dateUpdated: "déc 12, 2025 1:38:36 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-370-qu-cantones-son-m-s-libres-en-suiza-y-por-qu": {
+        title: "Qué cantones son más “libres” en Suiza y por qué",
+        description: "Qué cantones son más “libres” en Suiza y por qué",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-370-qu-cantones-son-m-s-libres-en-suiza-y-por-qu",
+        readingTime: 2,
+        dateUpdated: "déc 12, 2025 8:28:29 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-371-el-d-a-que-suiza-tuvo-su-propio-chern-bil-en-miniatura": {
+        title: "el día que Suiza tuvo su propio Chernóbil… en miniatura",
+        description: "el día que Suiza tuvo su propio Chernóbil… en miniatura",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-371-el-d-a-que-suiza-tuvo-su-propio-chern-bil-en-miniatura",
+        readingTime: 2,
+        dateUpdated: "déc 13, 2025 8:27:23 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-372-algo-se-est-moviendo-en-el-mercado-laboral-suizo-y-no-para-bien": {
+        title: "Algo se está moviendo en el mercado laboral suizo (y no para bien)",
+        description: "Algo se está moviendo en el mercado laboral suizo (y no para bien)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-372-algo-se-est-moviendo-en-el-mercado-laboral-suizo-y-no-para-bien",
+        readingTime: 2,
+        dateUpdated: "déc 15, 2025 8:23:10 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-373-fiescheralp-o-c-mo-pagar-un-pase-de-esqu-para-poder-trabjar": {
+        title: "Fiescheralp o cómo pagar un pase de esquí para poder trabjar",
+        description: "Fiescheralp o cómo pagar un pase de esquí para poder trabjar",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-373-fiescheralp-o-c-mo-pagar-un-pase-de-esqu-para-poder-trabjar",
+        readingTime: 2,
+        dateUpdated: "déc 16, 2025 8:26:12 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-374-z-rich-se-salta-las-entrevistas-para-la-naturalizaci-n-s-pero-con-matices": {
+        title: "¿Zúrich se salta las entrevistas para la naturalización? Sí… pero con matices.",
+        description: "¿Zúrich se salta las entrevistas para la naturalización? Sí… pero con matices.",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-374-z-rich-se-salta-las-entrevistas-para-la-naturalizaci-n-s-pero-con-matices",
+        readingTime: 2,
+        dateUpdated: "déc 16, 2025 1:37:49 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-375-juego-de-dinero-en-suiza-qu-es-legal-qu-no-y-d-nde-empiezan-los-problemas": {
+        title: "Juego de dinero en Suiza: qué es legal, qué no y dónde empiezan los problemas",
+        description: "Juego de dinero en Suiza: qué es legal, qué no y dónde empiezan los problemas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-375-juego-de-dinero-en-suiza-qu-es-legal-qu-no-y-d-nde-empiezan-los-problemas",
+        readingTime: 2,
+        dateUpdated: "déc 16, 2025 7:52:32 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-376-suiza-no-tiene-presidente-como-lo-entendemos-en-otros-pa-ses-y-no-no-es-un-error": {
+        title: "Suiza no tiene “presidente” como lo entendemos en otros países. Y no, no es un error.",
+        description: "Suiza no tiene “presidente” como lo entendemos en otros países. Y no, no es un error.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-376-suiza-no-tiene-presidente-como-lo-entendemos-en-otros-pa-ses-y-no-no-es-un-error",
+        readingTime: 2,
+        dateUpdated: "déc 17, 2025 8:21:52 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-377-cliquer-pour-la-vid-o-tire-fesse-o-schlepplift-c-mo-usarlo-bien-para-no-morir-de-verg-enza": {
+        title: "Cliquer pour la vidéo :Tire-fesse o Schlepplift: cómo usarlo bien (para no morir de vergüenza 🫢)",
+        description: "Cliquer pour la vidéo :Tire-fesse o Schlepplift: cómo usarlo bien (para no morir de vergüenza 🫢)",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-377-cliquer-pour-la-vid-o-tire-fesse-o-schlepplift-c-mo-usarlo-bien-para-no-morir-de-verg-enza",
+        readingTime: 2,
+        dateUpdated: "déc 17, 2025 7:30:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-378-la-fm-en-suiza-no-muere-de-momento": {
+        title: "La FM en Suiza no muere… de momento",
+        description: "La FM en Suiza no muere… de momento",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-378-la-fm-en-suiza-no-muere-de-momento",
+        readingTime: 2,
+        dateUpdated: "déc 17, 2025 8:35:51 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-379-cuidado-con-la-nueva-estafa-del-callback-en-suiza": {
+        title: "CUIDADO CON LA NUEVA ESTAFA DEL “CALLBACK” EN SUIZA",
+        description: "CUIDADO CON LA NUEVA ESTAFA DEL “CALLBACK” EN SUIZA",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-379-cuidado-con-la-nueva-estafa-del-callback-en-suiza",
+        readingTime: 2,
+        dateUpdated: "déc 18, 2025 7:12:42 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-380-dos-pedidos-al-d-a-todo-el-a-o-en-suiza": {
+        title: "Dos pedidos al día. Todo el año. En Suiza.",
+        description: "Dos pedidos al día. Todo el año. En Suiza.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-380-dos-pedidos-al-d-a-todo-el-a-o-en-suiza",
+        readingTime: 2,
+        dateUpdated: "déc 18, 2025 12:54:33 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-381-esquiar-en-suiza-deporte-nacional-y-uno-de-los-m-s-accidentados": {
+        title: "Esquiar en Suiza: deporte nacional… y uno de los más accidentados",
+        description: "Esquiar en Suiza: deporte nacional… y uno de los más accidentados",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-381-esquiar-en-suiza-deporte-nacional-y-uno-de-los-m-s-accidentados",
+        readingTime: 2,
+        dateUpdated: "déc 18, 2025 8:19:43 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-382-simular-accidentes-laborales-en-suiza-cuando-el-fraude-sale-caro": {
+        title: "Simular accidentes laborales en Suiza. Cuando el fraude sale caro.",
+        description: "Simular accidentes laborales en Suiza. Cuando el fraude sale caro.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-382-simular-accidentes-laborales-en-suiza-cuando-el-fraude-sale-caro",
+        readingTime: 2,
+        dateUpdated: "déc 19, 2025 8:07:49 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-383-solo-comparto-solo-comparto": {
+        title: "Solo comparto Solo comparto",
+        description: "Solo comparto Solo comparto",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-383-solo-comparto-solo-comparto",
+        readingTime: 2,
+        dateUpdated: "déc 19, 2025 11:05:44 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-384-muchos-migrantes-en-suiza-no-piden-ayuda-social-por-miedo-a-perder-su-permiso": {
+        title: "Muchos migrantes en Suiza no piden ayuda social por miedo a perder su permiso",
+        description: "Muchos migrantes en Suiza no piden ayuda social por miedo a perder su permiso",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-384-muchos-migrantes-en-suiza-no-piden-ayuda-social-por-miedo-a-perder-su-permiso",
+        readingTime: 2,
+        dateUpdated: "déc 19, 2025 8:23:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-385-la-ola-de-quiebras-tambi-n-llega-a-la-suiza-romanda": {
+        title: "La ola de quiebras también llega a la Suiza romanda",
+        description: "La ola de quiebras también llega a la Suiza romanda",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-385-la-ola-de-quiebras-tambi-n-llega-a-la-suiza-romanda",
+        readingTime: 2,
+        dateUpdated: "déc 20, 2025 1:26:04 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-386-n-meros-de-emergencia-en-suiza-gu-rdalos-antes-de-necesitarlos": {
+        title: "Números de emergencia en Suiza: guárdalos antes de necesitarlos",
+        description: "Números de emergencia en Suiza: guárdalos antes de necesitarlos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-386-n-meros-de-emergencia-en-suiza-gu-rdalos-antes-de-necesitarlos",
+        readingTime: 2,
+        dateUpdated: "déc 21, 2025 8:16:28 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-387-herencias-con-el-extranjero-el-problema-que-muchos-descubren-demasiado-tarde": {
+        title: "Herencias con el extranjero. El problema que muchos descubren demasiado tarde",
+        description: "Herencias con el extranjero. El problema que muchos descubren demasiado tarde",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-387-herencias-con-el-extranjero-el-problema-que-muchos-descubren-demasiado-tarde",
+        readingTime: 2,
+        dateUpdated: "déc 21, 2025 1:37:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-388-pedidos-online-fuera-de-suiza-cuando-el-chollo-se-para-en-la-aduana": {
+        title: "Pedidos online fuera de Suiza: cuando el “chollo” se para en la aduana",
+        description: "Pedidos online fuera de Suiza: cuando el “chollo” se para en la aduana",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-388-pedidos-online-fuera-de-suiza-cuando-el-chollo-se-para-en-la-aduana",
+        readingTime: 2,
+        dateUpdated: "déc 21, 2025 8:17:09 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-389-860-millones-para-el-futuro-colisionador-del-cern-realidad-y-contexto": {
+        title: "860 millones para el futuro colisionador del CERN: realidad y contexto",
+        description: "860 millones para el futuro colisionador del CERN: realidad y contexto",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-389-860-millones-para-el-futuro-colisionador-del-cern-realidad-y-contexto",
+        readingTime: 2,
+        dateUpdated: "déc 22, 2025 8:26:05 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-390-otra-para-la-lista-de-cosas-que-en-suiza-funcionan-hasta-que-dejan-de-funcionar": {
+        title: "Otra para la lista de cosas que en Suiza funcionan… hasta que dejan de funcionar.",
+        description: "Otra para la lista de cosas que en Suiza funcionan… hasta que dejan de funcionar.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-390-otra-para-la-lista-de-cosas-que-en-suiza-funcionan-hasta-que-dejan-de-funcionar",
+        readingTime: 2,
+        dateUpdated: "déc 22, 2025 1:26:41 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-391-se-va-a-recuperar-el-mercado-laboral-suizo-o-esto-va-para-largo": {
+        title: "¿Se va a recuperar el mercado laboral Suizo o esto va para largo?",
+        description: "¿Se va a recuperar el mercado laboral Suizo o esto va para largo?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-391-se-va-a-recuperar-el-mercado-laboral-suizo-o-esto-va-para-largo",
+        readingTime: 2,
+        dateUpdated: "déc 22, 2025 8:34:58 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-392-vacunas-en-suiza-lo-que-conviene-saber-si-vives-aqu-con-o-sin-hijos": {
+        title: "Vacunas en Suiza: lo que conviene saber si vives aquí (con o sin hijos)",
+        description: "Vacunas en Suiza: lo que conviene saber si vives aquí (con o sin hijos)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-392-vacunas-en-suiza-lo-que-conviene-saber-si-vives-aqu-con-o-sin-hijos",
+        readingTime: 2,
+        dateUpdated: "déc 23, 2025 8:49:41 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-393-otra-vez-no-suiza-vuelve-a-decir-todav-a-no-al-derecho-de-voto-de-los-extranjeros": {
+        title: "Otra vez no. Suiza vuelve a decir “todavía no” al derecho de voto de los extranjeros",
+        description: "Otra vez no. Suiza vuelve a decir “todavía no” al derecho de voto de los extranjeros",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-393-otra-vez-no-suiza-vuelve-a-decir-todav-a-no-al-derecho-de-voto-de-los-extranjeros",
+        readingTime: 2,
+        dateUpdated: "déc 23, 2025 1:27:36 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-394-subalquiler-de-habitaci-n-o-piso-en-suiza-lo-que-conviene-dejar-claro-desde-el-primer-d-a": {
+        title: "Subalquiler de habitación o piso en Suiza: lo que conviene dejar claro desde el primer día",
+        description: "Subalquiler de habitación o piso en Suiza: lo que conviene dejar claro desde el primer día",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-394-subalquiler-de-habitaci-n-o-piso-en-suiza-lo-que-conviene-dejar-claro-desde-el-primer-d-a",
+        readingTime: 2,
+        dateUpdated: "déc 23, 2025 8:25:05 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-395-alguna-vez-un-viaje-de-vuelta-a-casa-te-ha-hecho-valorar-suiza-m-s-de-lo-que-esperabas": {
+        title: "¿Alguna vez un viaje de vuelta a casa te ha hecho valorar Suiza más de lo que esperabas?",
+        description: "¿Alguna vez un viaje de vuelta a casa te ha hecho valorar Suiza más de lo que esperabas?",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-395-alguna-vez-un-viaje-de-vuelta-a-casa-te-ha-hecho-valorar-suiza-m-s-de-lo-que-esperabas",
+        readingTime: 2,
+        dateUpdated: "déc 24, 2025 8:25:43 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-396-la-fondue-no-naci-como-plato-nacional-y-casi-nadie-lo-sabe": {
+        title: "La fondue no nació como plato nacional (y casi nadie lo sabe)",
+        description: "La fondue no nació como plato nacional (y casi nadie lo sabe)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-396-la-fondue-no-naci-como-plato-nacional-y-casi-nadie-lo-sabe",
+        readingTime: 2,
+        dateUpdated: "déc 24, 2025 1:25:07 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-397-navidad-dulce-navidad": {
+        title: "Navidad ... Dulce Navidad",
+        description: "Navidad ... Dulce Navidad",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-397-navidad-dulce-navidad",
+        readingTime: 2,
+        dateUpdated: "déc 25, 2025 8:05:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-398-la-ai-suiza-no-es-una-pensi-n-r-pida-y-conviene-saberlo-antes-de-necesitarla": {
+        title: "La AI suiza no es una pensión rápida. Y conviene saberlo antes de necesitarla",
+        description: "La AI suiza no es una pensión rápida. Y conviene saberlo antes de necesitarla",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-398-la-ai-suiza-no-es-una-pensi-n-r-pida-y-conviene-saberlo-antes-de-necesitarla",
+        readingTime: 2,
+        dateUpdated: "déc 25, 2025 1:30:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-399-vivir-en-suiza-sin-trabajar-lo-que-muchos-no-quieren-o-r-pero-conviene-saber": {
+        title: "Vivir en Suiza sin trabajar: lo que muchos no quieren oír (pero conviene saber)",
+        description: "Vivir en Suiza sin trabajar: lo que muchos no quieren oír (pero conviene saber)",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-399-vivir-en-suiza-sin-trabajar-lo-que-muchos-no-quieren-o-r-pero-conviene-saber",
+        readingTime: 2,
+        dateUpdated: "déc 25, 2025 8:40:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-400-suiza-no-est-reclutando-85-000-extranjeros-no-hoy-no-este-a-o-y-tampoco-en-secreto": {
+        title: "Suiza no está reclutando 85.000 extranjeros. No hoy, no este año y tampoco “en secreto”.",
+        description: "Suiza no está reclutando 85.000 extranjeros. No hoy, no este año y tampoco “en secreto”.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-400-suiza-no-est-reclutando-85-000-extranjeros-no-hoy-no-este-a-o-y-tampoco-en-secreto",
+        readingTime: 2,
+        dateUpdated: "déc 26, 2025 8:25:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-401-cambios-de-leyes-en-suiza-a-partir-de-enero-no-es-solo-la-lamal-es-bastante-m-s": {
+        title: "Cambios de leyes en Suiza a partir de enero. No es solo la LAMal, es bastante más",
+        description: "Cambios de leyes en Suiza a partir de enero. No es solo la LAMal, es bastante más",
+        keywords: "salud, suiza",
+        category: "Salud y Seguro (LAMal)",
+        hub: "salud",
+        slug: "fb-401-cambios-de-leyes-en-suiza-a-partir-de-enero-no-es-solo-la-lamal-es-bastante-m-s",
+        readingTime: 2,
+        dateUpdated: "déc 26, 2025 1:25:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-402-suiza-y-las-nuevas-centrales-nucleares-qu-hay-de-cierto-y-qu-no": {
+        title: "Suiza y las nuevas centrales nucleares. Qué hay de cierto y qué no",
+        description: "Suiza y las nuevas centrales nucleares. Qué hay de cierto y qué no",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-402-suiza-y-las-nuevas-centrales-nucleares-qu-hay-de-cierto-y-qu-no",
+        readingTime: 2,
+        dateUpdated: "déc 26, 2025 8:42:20 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-403-cu-nto-se-cobra-al-jubilarse-en-suiza-y-qu-cambia-si-llegas-con-30-40-o-50-a-os": {
+        title: "CUÁNTO SE COBRA AL JUBILARSE EN SUIZA… Y QUÉ CAMBIA SI LLEGAS CON 30, 40 O 50 AÑOS",
+        description: "CUÁNTO SE COBRA AL JUBILARSE EN SUIZA… Y QUÉ CAMBIA SI LLEGAS CON 30, 40 O 50 AÑOS",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-403-cu-nto-se-cobra-al-jubilarse-en-suiza-y-qu-cambia-si-llegas-con-30-40-o-50-a-os",
+        readingTime: 2,
+        dateUpdated: "déc 27, 2025 8:45:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-404-la-danza-de-los-patos-no-es-alemana-ni-francesa-ni-espa-ola-es-suiza": {
+        title: "La danza de los patos no es alemana, ni francesa, ni española. Es suiza.",
+        description: "La danza de los patos no es alemana, ni francesa, ni española. Es suiza.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-404-la-danza-de-los-patos-no-es-alemana-ni-francesa-ni-espa-ola-es-suiza",
+        readingTime: 2,
+        dateUpdated: "déc 27, 2025 8:25:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-405-la-experiencia-laboral-fuera-de-suiza-por-qu-muchas-empresas-no-la-tienen-en-cuenta": {
+        title: "La experiencia laboral fuera de Suiza: por qué muchas empresas no la tienen en cuenta",
+        description: "La experiencia laboral fuera de Suiza: por qué muchas empresas no la tienen en cuenta",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-405-la-experiencia-laboral-fuera-de-suiza-por-qu-muchas-empresas-no-la-tienen-en-cuenta",
+        readingTime: 2,
+        dateUpdated: "déc 28, 2025 8:21:45 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-406-d-nde-habr-fuegos-artificiales-en-suiza-esta-nochevieja": {
+        title: "¿Dónde habrá fuegos artificiales en Suiza esta Nochevieja?",
+        description: "¿Dónde habrá fuegos artificiales en Suiza esta Nochevieja?",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-406-d-nde-habr-fuegos-artificiales-en-suiza-esta-nochevieja",
+        readingTime: 2,
+        dateUpdated: "déc 28, 2025 1:46:55 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-407-solo-comparto-solo-comparto": {
+        title: "Solo comparto ! Solo comparto !",
+        description: "Solo comparto ! Solo comparto !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-407-solo-comparto-solo-comparto",
+        readingTime: 2,
+        dateUpdated: "déc 29, 2025 9:00:05 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-408-cuando-los-c-ntimos-molestan-bancos-suizos-que-ya-no-quieren-tus-monedas": {
+        title: "Cuando los céntimos molestan: bancos suizos que ya no quieren tus monedas",
+        description: "Cuando los céntimos molestan: bancos suizos que ya no quieren tus monedas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-408-cuando-los-c-ntimos-molestan-bancos-suizos-que-ya-no-quieren-tus-monedas",
+        readingTime: 2,
+        dateUpdated: "jan 01, 2026 11:55:06 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-409-r-cord-de-creaci-n-de-empresas-en-suiza-en-2025-pero-conviene-leer-la-letra-peque-a": {
+        title: "Récord de creación de empresas en Suiza en 2025. Pero conviene leer la letra pequeña.",
+        description: "Récord de creación de empresas en Suiza en 2025. Pero conviene leer la letra pequeña.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-409-r-cord-de-creaci-n-de-empresas-en-suiza-en-2025-pero-conviene-leer-la-letra-peque-a",
+        readingTime: 2,
+        dateUpdated: "jan 02, 2026 8:35:59 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-410-abrir-un-bar-de-noche-en-suiza-no-es-improvisar": {
+        title: "Abrir un bar de noche en Suiza no es improvisar",
+        description: "Abrir un bar de noche en Suiza no es improvisar",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-410-abrir-un-bar-de-noche-en-suiza-no-es-improvisar",
+        readingTime: 2,
+        dateUpdated: "jan 02, 2026 1:35:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-411-invierno-en-suiza-agua-caliente-al-aire-libre": {
+        title: "INVIERNO EN SUIZA. AGUA CALIENTE AL AIRE LIBRE",
+        description: "INVIERNO EN SUIZA. AGUA CALIENTE AL AIRE LIBRE",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-411-invierno-en-suiza-agua-caliente-al-aire-libre",
+        readingTime: 2,
+        dateUpdated: "jan 02, 2026 8:39:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-412-moutier-empez-2026-cambiando-de-cant-n-y-no-es-una-frase-hecha": {
+        title: "Moutier empezó 2026 cambiando de cantón. Y no es una frase hecha.",
+        description: "Moutier empezó 2026 cambiando de cantón. Y no es una frase hecha.",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-412-moutier-empez-2026-cambiando-de-cant-n-y-no-es-una-frase-hecha",
+        readingTime: 2,
+        dateUpdated: "jan 03, 2026 8:20:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-413-trabajar-fuera-de-las-instalaciones-de-la-empresa-en-suiza-derechos-que-conviene-conocer": {
+        title: "Trabajar fuera de las instalaciones de la empresa en Suiza: derechos que conviene conocer",
+        description: "Trabajar fuera de las instalaciones de la empresa en Suiza: derechos que conviene conocer",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-413-trabajar-fuera-de-las-instalaciones-de-la-empresa-en-suiza-derechos-que-conviene-conocer",
+        readingTime: 2,
+        dateUpdated: "jan 03, 2026 1:45:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-414-crans-montana-y-los-faiseurs-de-secret-tradici-n-suiza-que-muchos-descubren-ahora": {
+        title: "Crans-Montana y los Faiseurs de Secret. Tradición suiza que muchos descubren ahora",
+        description: "Crans-Montana y los Faiseurs de Secret. Tradición suiza que muchos descubren ahora",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-414-crans-montana-y-los-faiseurs-de-secret-tradici-n-suiza-que-muchos-descubren-ahora",
+        readingTime: 2,
+        dateUpdated: "jan 03, 2026 7:55:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-415-last-christmas-no-es-solo-una-canci-n-tambi-n-es-suiza": {
+        title: "Last Christmas no es solo una canción. También es Suiza",
+        description: "Last Christmas no es solo una canción. También es Suiza",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-415-last-christmas-no-es-solo-una-canci-n-tambi-n-es-suiza",
+        readingTime: 2,
+        dateUpdated: "jan 04, 2026 8:15:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-416-cuando-el-primer-reflejo-no-es-huir-ni-ayudar-sino-grabar": {
+        title: "Cuando el primer reflejo no es huir ni ayudar, sino grabar",
+        description: "Cuando el primer reflejo no es huir ni ayudar, sino grabar",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-416-cuando-el-primer-reflejo-no-es-huir-ni-ayudar-sino-grabar",
+        readingTime: 2,
+        dateUpdated: "jan 04, 2026 1:35:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-417-cliquer-pour-la-vid-o-expectativas-vs-realidad-expectativas-vs-realidad": {
+        title: "Cliquer pour la vidéo :Expectativas VS Realidad Expectativas VS Realidad",
+        description: "Cliquer pour la vidéo :Expectativas VS Realidad Expectativas VS Realidad",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-417-cliquer-pour-la-vid-o-expectativas-vs-realidad-expectativas-vs-realidad",
+        readingTime: 2,
+        dateUpdated: "jan 04, 2026 5:10:10 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-418-el-cansancio-que-nadie-quiere-ver-en-suiza": {
+        title: "El cansancio que nadie quiere ver en Suiza",
+        description: "El cansancio que nadie quiere ver en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-418-el-cansancio-que-nadie-quiere-ver-en-suiza",
+        readingTime: 2,
+        dateUpdated: "jan 04, 2026 8:40:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-419-vivir-en-suiza-ventajas-e-inconvenientes-cuando-vienes-a-trabajar-de-verdad": {
+        title: "Vivir en Suiza: ventajas e inconvenientes cuando vienes a trabajar de verdad",
+        description: "Vivir en Suiza: ventajas e inconvenientes cuando vienes a trabajar de verdad",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-419-vivir-en-suiza-ventajas-e-inconvenientes-cuando-vienes-a-trabajar-de-verdad",
+        readingTime: 2,
+        dateUpdated: "jan 05, 2026 8:10:00 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-420-las-c-rceles-en-suiza-se-llenan-por-multas-impagadas": {
+        title: "Las cárceles en Suiza se llenan… por multas impagadas",
+        description: "Las cárceles en Suiza se llenan… por multas impagadas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-420-las-c-rceles-en-suiza-se-llenan-por-multas-impagadas",
+        readingTime: 2,
+        dateUpdated: "jan 05, 2026 1:24:33 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-421-puede-un-hospital-suizo-negarse-a-atender-a-un-extranjero-en-urgencias": {
+        title: "¿Puede un hospital suizo negarse a atender a un extranjero en urgencias?",
+        description: "¿Puede un hospital suizo negarse a atender a un extranjero en urgencias?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-421-puede-un-hospital-suizo-negarse-a-atender-a-un-extranjero-en-urgencias",
+        readingTime: 2,
+        dateUpdated: "jan 05, 2026 9:03:47 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-422-la-segunda-oportunidad-en-suiza-lo-que-muchos-creen-y-lo-que-realmente-hay": {
+        title: "La “segunda oportunidad” en Suiza: lo que muchos creen y lo que realmente hay",
+        description: "La “segunda oportunidad” en Suiza: lo que muchos creen y lo que realmente hay",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-422-la-segunda-oportunidad-en-suiza-lo-que-muchos-creen-y-lo-que-realmente-hay",
+        readingTime: 2,
+        dateUpdated: "jan 06, 2026 8:19:14 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-423-la-sanidad-no-es-gratis-ni-en-espa-a-ni-en-suiza": {
+        title: "La sanidad no es gratis. Ni en España ni en Suiza",
+        description: "La sanidad no es gratis. Ni en España ni en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-423-la-sanidad-no-es-gratis-ni-en-espa-a-ni-en-suiza",
+        readingTime: 2,
+        dateUpdated: "jan 06, 2026 1:28:24 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-424-c-mo-funcionan-los-tranv-as-y-autobuses-en-suiza-y-por-qu-aqu-no-conviene-improvisar": {
+        title: "Cómo funcionan los tranvías y autobuses en Suiza y por qué aquí no conviene improvisar",
+        description: "Cómo funcionan los tranvías y autobuses en Suiza y por qué aquí no conviene improvisar",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-424-c-mo-funcionan-los-tranv-as-y-autobuses-en-suiza-y-por-qu-aqu-no-conviene-improvisar",
+        readingTime: 2,
+        dateUpdated: "jan 06, 2026 7:57:53 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-425-apoyo-escolar-en-suiza-d-nde-buscar-sin-caer-en-el-boca-a-boca": {
+        title: "Apoyo escolar en Suiza: dónde buscar sin caer en el boca a boca",
+        description: "Apoyo escolar en Suiza: dónde buscar sin caer en el boca a boca",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-425-apoyo-escolar-en-suiza-d-nde-buscar-sin-caer-en-el-boca-a-boca",
+        readingTime: 2,
+        dateUpdated: "jan 07, 2026 8:19:50 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-426-la-puntualidad-en-suiza-mito-realidad-y-peque-as-verdades-inc-modas": {
+        title: "La puntualidad en Suiza: mito, realidad y pequeñas verdades incómodas",
+        description: "La puntualidad en Suiza: mito, realidad y pequeñas verdades incómodas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-426-la-puntualidad-en-suiza-mito-realidad-y-peque-as-verdades-inc-modas",
+        readingTime: 2,
+        dateUpdated: "jan 07, 2026 1:28:27 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-427-reflexi-n-personal": {
+        title: "Reflexión personal",
+        description: "Reflexión personal",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-427-reflexi-n-personal",
+        readingTime: 2,
+        dateUpdated: "jan 07, 2026 5:06:16 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-428-cliquer-pour-la-vid-o-cuando-estoy-estresado-por-trabajar-en-suiza-entonces-recuerdo-para-qui-n-estoy-trabajando-cuando-estoy-estresado-por-traba": {
+        title: "Cliquer pour la vidéo :Cuando estoy estresado por trabajar en Suiza... entonces recuerdo para quién estoy trabajando! Cuando estoy estresado por traba",
+        description: "Cliquer pour la vidéo :Cuando estoy estresado por trabajar en Suiza... entonces recuerdo para quién estoy trabajando! Cuando estoy estresado por traba",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-428-cliquer-pour-la-vid-o-cuando-estoy-estresado-por-trabajar-en-suiza-entonces-recuerdo-para-qui-n-estoy-trabajando-cuando-estoy-estresado-por-traba",
+        readingTime: 2,
+        dateUpdated: "jan 07, 2026 7:00:47 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-429-el-control-t-cnico-del-coche-en-suiza-lo-que-conviene-saber-antes-de-llevarse-un-susto": {
+        title: "El control técnico del coche en Suiza. Lo que conviene saber antes de llevarse un susto",
+        description: "El control técnico del coche en Suiza. Lo que conviene saber antes de llevarse un susto",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-429-el-control-t-cnico-del-coche-en-suiza-lo-que-conviene-saber-antes-de-llevarse-un-susto",
+        readingTime: 2,
+        dateUpdated: "jan 07, 2026 8:20:59 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-430-nieve-lluvia-helada-y-viento-fuerte-en-suiza-mucha-prudencia": {
+        title: "Nieve, lluvia helada y viento fuerte en Suiza. Mucha prudencia",
+        description: "Nieve, lluvia helada y viento fuerte en Suiza. Mucha prudencia",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-430-nieve-lluvia-helada-y-viento-fuerte-en-suiza-mucha-prudencia",
+        readingTime: 2,
+        dateUpdated: "jan 08, 2026 8:29:39 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-431-accidente-en-la-monta-a-practicando-esqu-lo-que-muchos-no-cuentan": {
+        title: "Accidente en la montaña practicando esquí. Lo que muchos no cuentan",
+        description: "Accidente en la montaña practicando esquí. Lo que muchos no cuentan",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-431-accidente-en-la-monta-a-practicando-esqu-lo-que-muchos-no-cuentan",
+        readingTime: 2,
+        dateUpdated: "jan 08, 2026 1:22:41 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-432-favarger-quiere-conquistar-z-rich": {
+        title: "Favarger quiere conquistar Zúrich",
+        description: "Favarger quiere conquistar Zúrich",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-432-favarger-quiere-conquistar-z-rich",
+        readingTime: 2,
+        dateUpdated: "jan 08, 2026 7:59:13 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-433-un-nuevo-museo-dedicado-a-las-motos-de-competici-n-abre-en-la-regi-n-del-lago-lem-n-y-no-es-un-detalle-menor": {
+        title: "Un nuevo museo dedicado a las motos de competición abre en la región del lago Lemán. Y no es un detalle menor.",
+        description: "Un nuevo museo dedicado a las motos de competición abre en la región del lago Lemán. Y no es un detalle menor.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-433-un-nuevo-museo-dedicado-a-las-motos-de-competici-n-abre-en-la-regi-n-del-lago-lem-n-y-no-es-un-detalle-menor",
+        readingTime: 2,
+        dateUpdated: "jan 09, 2026 8:20:22 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-434-cliquer-pour-la-vid-o-atentos-a-esta-estafa-atentos-a-esta-estafa": {
+        title: "Cliquer pour la vidéo :⚠️ ATENTOS A ESTA ESTAFA ⚠️ ⚠️ ATENTOS A ESTA ESTAFA ⚠️",
+        description: "Cliquer pour la vidéo :⚠️ ATENTOS A ESTA ESTAFA ⚠️ ⚠️ ATENTOS A ESTA ESTAFA ⚠️",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-434-cliquer-pour-la-vid-o-atentos-a-esta-estafa-atentos-a-esta-estafa",
+        readingTime: 2,
+        dateUpdated: "jan 09, 2026 11:11:09 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-435-cuando-swiss-no-basta-con-tener-una-direcci-n-en-suiza": {
+        title: "Cuando “Swiss” no basta con tener una dirección en Suiza",
+        description: "Cuando “Swiss” no basta con tener una dirección en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-435-cuando-swiss-no-basta-con-tener-una-direcci-n-en-suiza",
+        readingTime: 2,
+        dateUpdated: "jan 09, 2026 8:19:09 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-436-los-cr-ditos-covid-y-la-resaca-que-muchas-empresas-todav-a-arrastran": {
+        title: "Los créditos Covid y la resaca que muchas empresas. todavía arrastran",
+        description: "Los créditos Covid y la resaca que muchas empresas. todavía arrastran",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-436-los-cr-ditos-covid-y-la-resaca-que-muchas-empresas-todav-a-arrastran",
+        readingTime: 2,
+        dateUpdated: "jan 10, 2026 8:14:35 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-437-suiza-no-es-perfecta-y-las-cr-ticas-desde-fuera-tampoco-son-nuevas": {
+        title: "Suiza no es perfecta. Y las críticas desde fuera tampoco son nuevas",
+        description: "Suiza no es perfecta. Y las críticas desde fuera tampoco son nuevas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-437-suiza-no-es-perfecta-y-las-cr-ticas-desde-fuera-tampoco-son-nuevas",
+        readingTime: 2,
+        dateUpdated: "jan 10, 2026 12:08:47 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-438-suiza-frena-el-ritmo-salarios-estancados-y-el-paro-empieza-a-asomar": {
+        title: "Suiza frena el ritmo: salarios estancados y el paro empieza a asomar",
+        description: "Suiza frena el ritmo: salarios estancados y el paro empieza a asomar",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-438-suiza-frena-el-ritmo-salarios-estancados-y-el-paro-empieza-a-asomar",
+        readingTime: 2,
+        dateUpdated: "jan 10, 2026 3:50:04 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-439-sunrise-anuncia-hasta-190-despidos-en-suiza": {
+        title: "Sunrise anuncia hasta 190 despidos en Suiza",
+        description: "Sunrise anuncia hasta 190 despidos en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-439-sunrise-anuncia-hasta-190-despidos-en-suiza",
+        readingTime: 2,
+        dateUpdated: "jan 10, 2026 8:23:26 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-440-la-loi-montagne-no-tiene-nada-que-ver-con-tus-compras-en-francia": {
+        title: "La loi montagne no tiene nada que ver con tus compras en Francia",
+        description: "La loi montagne no tiene nada que ver con tus compras en Francia",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-440-la-loi-montagne-no-tiene-nada-que-ver-con-tus-compras-en-francia",
+        readingTime: 2,
+        dateUpdated: "jan 11, 2026 8:35:30 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-441-insultar-en-suiza-no-siempre-acaba-en-multa-pero-ojo": {
+        title: "Insultar en Suiza no siempre acaba en multa (pero ojo)",
+        description: "Insultar en Suiza no siempre acaba en multa (pero ojo)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-441-insultar-en-suiza-no-siempre-acaba-en-multa-pero-ojo",
+        readingTime: 2,
+        dateUpdated: "jan 11, 2026 1:35:41 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-442-actualmente-en-el-aeropuerto-de-zh-manifestaci-n": {
+        title: "Actualmente en el aeropuerto de ZH… manifestación!",
+        description: "Actualmente en el aeropuerto de ZH… manifestación!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-442-actualmente-en-el-aeropuerto-de-zh-manifestaci-n",
+        readingTime: 2,
+        dateUpdated: "jan 11, 2026 1:39:55 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-443-los-supermercados-suizos-prometen-bajar-precios-en-2026-pero-con-matices": {
+        title: "Los supermercados suizos prometen bajar precios en 2026. Pero con matices",
+        description: "Los supermercados suizos prometen bajar precios en 2026. Pero con matices",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-443-los-supermercados-suizos-prometen-bajar-precios-en-2026-pero-con-matices",
+        readingTime: 2,
+        dateUpdated: "jan 11, 2026 4:19:38 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-444-la-caricatura-de-charlie-hebdo-sobre-crans-montana-y-la-pol-mica-que-vuelve-a-surgir": {
+        title: "La caricatura de Charlie Hebdo sobre Crans-Montana y la polémica que vuelve a surgir",
+        description: "La caricatura de Charlie Hebdo sobre Crans-Montana y la polémica que vuelve a surgir",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-444-la-caricatura-de-charlie-hebdo-sobre-crans-montana-y-la-pol-mica-que-vuelve-a-surgir",
+        readingTime: 2,
+        dateUpdated: "jan 12, 2026 8:12:07 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-445-bernina-estudia-trasladar-parte-de-su-producci-n-a-tailandia": {
+        title: "Bernina estudia trasladar parte de su producción a Tailandia",
+        description: "Bernina estudia trasladar parte de su producción a Tailandia",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-445-bernina-estudia-trasladar-parte-de-su-producci-n-a-tailandia",
+        readingTime: 2,
+        dateUpdated: "jan 12, 2026 8:20:26 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-446-cliquer-pour-la-vid-o-requisitos-para-obtener-el-permiso-de-residencia-requisitos-para-obtener-el-permiso-de-residencia": {
+        title: "Cliquer pour la vidéo :Requisitos para obtener el permiso de residencia. Requisitos para obtener el permiso de residencia.",
+        description: "Cliquer pour la vidéo :Requisitos para obtener el permiso de residencia. Requisitos para obtener el permiso de residencia.",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-446-cliquer-pour-la-vid-o-requisitos-para-obtener-el-permiso-de-residencia-requisitos-para-obtener-el-permiso-de-residencia",
+        readingTime: 2,
+        dateUpdated: "jan 13, 2026 6:53:56 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-447-turismo-brit-nico-londres-pide-m-s-vigilancia-a-quienes-viajan-a-suiza": {
+        title: "Turismo británico - Londres pide más vigilancia a quienes viajan a Suiza",
+        description: "Turismo británico - Londres pide más vigilancia a quienes viajan a Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-447-turismo-brit-nico-londres-pide-m-s-vigilancia-a-quienes-viajan-a-suiza",
+        readingTime: 2,
+        dateUpdated: "jan 13, 2026 8:10:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-448-cambian-las-reglas-para-donar-sangre-en-suiza": {
+        title: "Cambian las reglas para donar sangre en Suiza",
+        description: "Cambian las reglas para donar sangre en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-448-cambian-las-reglas-para-donar-sangre-en-suiza",
+        readingTime: 2,
+        dateUpdated: "jan 13, 2026 1:25:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-449-el-avs-en-suiza-c-mo-funciona-de-verdad-y-por-qu-las-tablas-importan-m-s-de-lo-que-crees": {
+        title: "El AVS en Suiza: cómo funciona de verdad y por qué las tablas importan más de lo que crees",
+        description: "El AVS en Suiza: cómo funciona de verdad y por qué las tablas importan más de lo que crees",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-449-el-avs-en-suiza-c-mo-funciona-de-verdad-y-por-qu-las-tablas-importan-m-s-de-lo-que-crees",
+        readingTime: 2,
+        dateUpdated: "jan 13, 2026 7:40:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-450-hablar-un-idioma-local-en-suiza-ya-no-es-teor-a-es-pr-ctica": {
+        title: "Hablar un idioma local en Suiza: ya no es teoría, es práctica",
+        description: "Hablar un idioma local en Suiza: ya no es teoría, es práctica",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-450-hablar-un-idioma-local-en-suiza-ya-no-es-teor-a-es-pr-ctica",
+        readingTime: 2,
+        dateUpdated: "jan 14, 2026 8:17:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-451-un-caso-en-el-cant-n-de-vaud-que-merece-una-pausa-y-algo-de-reflexi-n": {
+        title: "Un caso en el cantón de Vaud que merece una pausa y algo de reflexión.",
+        description: "Un caso en el cantón de Vaud que merece una pausa y algo de reflexión.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-451-un-caso-en-el-cant-n-de-vaud-que-merece-una-pausa-y-algo-de-reflexi-n",
+        readingTime: 2,
+        dateUpdated: "jan 14, 2026 1:25:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-452-actualizacion-la-jubilaci-n-en-suiza-y-el-segundo-pilar-el-lpp-donde-est-tu-dinero-de-verdad": {
+        title: "ACTUALIZACION - La jubilación en Suiza y el segundo pilar: el LPP, donde está tu dinero de verdad",
+        description: "ACTUALIZACION - La jubilación en Suiza y el segundo pilar: el LPP, donde está tu dinero de verdad",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-452-actualizacion-la-jubilaci-n-en-suiza-y-el-segundo-pilar-el-lpp-donde-est-tu-dinero-de-verdad",
+        readingTime: 2,
+        dateUpdated: "jan 14, 2026 7:50:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-453-la-mitad-de-los-europeos-no-se-queda-m-s-de-cinco-a-os-en-suiza-y-no-es-casualidad": {
+        title: "La mitad de los europeos no se queda más de cinco años en Suiza. Y no es casualidad.",
+        description: "La mitad de los europeos no se queda más de cinco años en Suiza. Y no es casualidad.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-453-la-mitad-de-los-europeos-no-se-queda-m-s-de-cinco-a-os-en-suiza-y-no-es-casualidad",
+        readingTime: 2,
+        dateUpdated: "jan 15, 2026 8:21:45 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-454-incendio-mortal-en-vernier-cuando-el-riesgo-se-asume-y-alguien-muere": {
+        title: "Incendio mortal en Vernier. Cuando el riesgo se asume y alguien muere",
+        description: "Incendio mortal en Vernier. Cuando el riesgo se asume y alguien muere",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-454-incendio-mortal-en-vernier-cuando-el-riesgo-se-asume-y-alguien-muere",
+        readingTime: 2,
+        dateUpdated: "jan 15, 2026 1:17:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-455-la-jubilaci-n-en-suiza-y-el-tercer-pilar-el-nico-que-realmente-controlas-t": {
+        title: "La jubilación en Suiza y el tercer pilar: el único que realmente controlas tú",
+        description: "La jubilación en Suiza y el tercer pilar: el único que realmente controlas tú",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-455-la-jubilaci-n-en-suiza-y-el-tercer-pilar-el-nico-que-realmente-controlas-t",
+        readingTime: 2,
+        dateUpdated: "jan 15, 2026 8:17:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-456-el-ats-y-por-qu-tu-cv-no-pasa-el-primer-filtro-en-suiza": {
+        title: "El ATS y por qué tu CV no pasa el primer filtro en Suiza",
+        description: "El ATS y por qué tu CV no pasa el primer filtro en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-456-el-ats-y-por-qu-tu-cv-no-pasa-el-primer-filtro-en-suiza",
+        readingTime: 2,
+        dateUpdated: "jan 16, 2026 1:20:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-457-vacunaci-n-obligatoria-en-suiza-ojo-al-detalle-que-muchos-pasan-por-alto": {
+        title: "¿Vacunación obligatoria en Suiza? Ojo al detalle que muchos pasan por alto",
+        description: "¿Vacunación obligatoria en Suiza? Ojo al detalle que muchos pasan por alto",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-457-vacunaci-n-obligatoria-en-suiza-ojo-al-detalle-que-muchos-pasan-por-alto",
+        readingTime: 2,
+        dateUpdated: "jan 16, 2026 8:15:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-458-lo-que-est-pasando-en-ginebra-concretamente-en-plainpalais-merece-que-lo-leamos-con-calma-y-sin-titulares-f-ciles": {
+        title: "Lo que está pasando en Ginebra, concretamente en Plainpalais, merece que lo leamos con calma y sin titulares fáciles.",
+        description: "Lo que está pasando en Ginebra, concretamente en Plainpalais, merece que lo leamos con calma y sin titulares fáciles.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-458-lo-que-est-pasando-en-ginebra-concretamente-en-plainpalais-merece-que-lo-leamos-con-calma-y-sin-titulares-f-ciles",
+        readingTime: 2,
+        dateUpdated: "jan 17, 2026 8:14:45 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-459-la-paradoja-de-tener-waze-instalado-y-no-poder-usarlo-tranquilo-en-suiza": {
+        title: "La paradoja de tener Waze instalado y no poder usarlo tranquilo en Suiza",
+        description: "La paradoja de tener Waze instalado y no poder usarlo tranquilo en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-459-la-paradoja-de-tener-waze-instalado-y-no-poder-usarlo-tranquilo-en-suiza",
+        readingTime: 2,
+        dateUpdated: "jan 17, 2026 1:25:52 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-460-una-peque-a-aclaraci-n-sobre-preguntas-y-respuestas": {
+        title: "Una pequeña aclaración sobre preguntas y respuestas",
+        description: "Una pequeña aclaración sobre preguntas y respuestas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-460-una-peque-a-aclaraci-n-sobre-preguntas-y-respuestas",
+        readingTime: 2,
+        dateUpdated: "jan 17, 2026 7:37:35 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-461-la-situaci-n-va-a-empeorar-en-el-frente-de-la-vivienda-en-suiza": {
+        title: "La situación va a empeorar en el frente de la vivienda en Suiza",
+        description: "La situación va a empeorar en el frente de la vivienda en Suiza",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-461-la-situaci-n-va-a-empeorar-en-el-frente-de-la-vivienda-en-suiza",
+        readingTime: 2,
+        dateUpdated: "jan 18, 2026 8:21:03 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-462-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-462-sans-titre",
+        readingTime: 2,
+        dateUpdated: "jan 18, 2026 8:55:32 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-463-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-463-sans-titre",
+        readingTime: 2,
+        dateUpdated: "jan 18, 2026 8:55:32 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-464-declaraci-n-de-impuestos-en-suiza-qui-n-tiene-que-declarar-cu-ndo-y-por-qu-no-siempre-conviene-hacerlo": {
+        title: "Declaración de impuestos en Suiza: quién tiene que declarar, cuándo y por qué no siempre conviene hacerlo",
+        description: "Declaración de impuestos en Suiza: quién tiene que declarar, cuándo y por qué no siempre conviene hacerlo",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-464-declaraci-n-de-impuestos-en-suiza-qui-n-tiene-que-declarar-cu-ndo-y-por-qu-no-siempre-conviene-hacerlo",
+        readingTime: 2,
+        dateUpdated: "jan 18, 2026 10:39:10 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-465-profesiones-con-obligaci-n-de-anuncio-en-2026-lo-que-dicen-realmente-las-listas-del-ravestas-tablas-est-n-circulando-bastante-as-que-intento-explica": {
+        title: "Profesiones con obligación de anuncio en 2026: lo que dicen realmente las listas del RAVEstas tablas están circulando bastante así que intento explica",
+        description: "Profesiones con obligación de anuncio en 2026: lo que dicen realmente las listas del RAVEstas tablas están circulando bastante así que intento explica",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-465-profesiones-con-obligaci-n-de-anuncio-en-2026-lo-que-dicen-realmente-las-listas-del-ravestas-tablas-est-n-circulando-bastante-as-que-intento-explica",
+        readingTime: 2,
+        dateUpdated: "jan 18, 2026 1:32:55 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-466-conoc-is-alg-n-abogado-en-suiza-que-hable-espa-ol": {
+        title: "“¿conocéis algún abogado en Suiza que hable español?”",
+        description: "“¿conocéis algún abogado en Suiza que hable español?”",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-466-conoc-is-alg-n-abogado-en-suiza-que-hable-espa-ol",
+        readingTime: 2,
+        dateUpdated: "jan 18, 2026 4:15:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-467-un-detalle-que-en-suiza-marca-la-diferencia-y-muchos-lo-pasan-por-alto": {
+        title: "Un detalle que en Suiza marca la diferencia (y muchos lo pasan por alto)",
+        description: "Un detalle que en Suiza marca la diferencia (y muchos lo pasan por alto)",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-467-un-detalle-que-en-suiza-marca-la-diferencia-y-muchos-lo-pasan-por-alto",
+        readingTime: 2,
+        dateUpdated: "jan 18, 2026 8:37:07 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-468-neutral-desde-hace-500-a-os-pero-invadiendo-al-vecino-equivocado-tres-veces-sin-darse-cuenta": {
+        title: "Neutral desde hace 500 años… pero invadiendo al vecino equivocado tres veces sin darse cuenta",
+        description: "Neutral desde hace 500 años… pero invadiendo al vecino equivocado tres veces sin darse cuenta",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-468-neutral-desde-hace-500-a-os-pero-invadiendo-al-vecino-equivocado-tres-veces-sin-darse-cuenta",
+        readingTime: 2,
+        dateUpdated: "jan 19, 2026 8:23:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-469-puedo-llevar-una-navaja-en-el-bolsillo-en-suiza-o-mejor-no": {
+        title: "¿Puedo llevar una navaja en el bolsillo en Suiza… o mejor no?",
+        description: "¿Puedo llevar una navaja en el bolsillo en Suiza… o mejor no?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-469-puedo-llevar-una-navaja-en-el-bolsillo-en-suiza-o-mejor-no",
+        readingTime: 2,
+        dateUpdated: "jan 19, 2026 1:15:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-470-existe-alguna-ley-en-suiza-que-obligue-a-separar-a-ni-os-de-sexos-opuestos-por-habitaciones": {
+        title: "¿Existe alguna ley en Suiza que obligue a separar a niños de sexos opuestos por habitaciones?",
+        description: "¿Existe alguna ley en Suiza que obligue a separar a niños de sexos opuestos por habitaciones?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-470-existe-alguna-ley-en-suiza-que-obligue-a-separar-a-ni-os-de-sexos-opuestos-por-habitaciones",
+        readingTime: 2,
+        dateUpdated: "jan 19, 2026 4:58:43 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-471-faltar-n-hasta-300-000-trabajadores-en-z-rich-datos-oficiales-no-opiniones": {
+        title: "Faltarán hasta 300\'000 trabajadores en Zúrich. Datos oficiales, no opiniones",
+        description: "Faltarán hasta 300\'000 trabajadores en Zúrich. Datos oficiales, no opiniones",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-471-faltar-n-hasta-300-000-trabajadores-en-z-rich-datos-oficiales-no-opiniones",
+        readingTime: 2,
+        dateUpdated: "jan 19, 2026 8:20:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-472-cuando-el-problema-no-es-la-integraci-n-sino-el-examen": {
+        title: "Cuando el problema no es la integración… sino el examen",
+        description: "Cuando el problema no es la integración… sino el examen",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-472-cuando-el-problema-no-es-la-integraci-n-sino-el-examen",
+        readingTime: 2,
+        dateUpdated: "jan 20, 2026 8:17:50 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-473-otro-peque-o-coste-silencioso-pagar-por-recibir-una-factura-en-papel": {
+        title: "Otro pequeño coste silencioso: pagar por recibir una factura en papel",
+        description: "Otro pequeño coste silencioso: pagar por recibir una factura en papel",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-473-otro-peque-o-coste-silencioso-pagar-por-recibir-una-factura-en-papel",
+        readingTime: 2,
+        dateUpdated: "jan 20, 2026 1:23:06 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-474-me-despidieron": {
+        title: "Me despidieron !",
+        description: "Me despidieron !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-474-me-despidieron",
+        readingTime: 2,
+        dateUpdated: "jan 20, 2026 8:20:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-475-este-caso-es-real-y-pas-en-suiza-aunque-suene-a-caricatura": {
+        title: "Este caso es real y pasó en Suiza, aunque suene a caricatura.",
+        description: "Este caso es real y pasó en Suiza, aunque suene a caricatura.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-475-este-caso-es-real-y-pas-en-suiza-aunque-suene-a-caricatura",
+        readingTime: 2,
+        dateUpdated: "jan 21, 2026 8:17:44 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-476-la-fianza-en-suiza-no-desaparece-sola-alguien-se-la-est-quedando": {
+        title: "La fianza en Suiza no desaparece sola: alguien se la está quedando",
+        description: "La fianza en Suiza no desaparece sola: alguien se la está quedando",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-476-la-fianza-en-suiza-no-desaparece-sola-alguien-se-la-est-quedando",
+        readingTime: 2,
+        dateUpdated: "jan 21, 2026 1:14:47 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-477-cuando-el-rav-esta-fallando-en-pagarte": {
+        title: "Cuando el RAV esta fallando en pagarte!",
+        description: "Cuando el RAV esta fallando en pagarte!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-477-cuando-el-rav-esta-fallando-en-pagarte",
+        readingTime: 2,
+        dateUpdated: "jan 21, 2026 8:37:14 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-478-valais-votar-para-limitar-las-primas-del-seguro-m-dico-y-no-no-es-ciencia-ficci-n": {
+        title: "Valais votará para limitar las primas del seguro médico. Y no, no es ciencia ficción.",
+        description: "Valais votará para limitar las primas del seguro médico. Y no, no es ciencia ficción.",
+        keywords: "salud, suiza",
+        category: "Salud y Seguro (LAMal)",
+        hub: "salud",
+        slug: "fb-478-valais-votar-para-limitar-las-primas-del-seguro-m-dico-y-no-no-es-ciencia-ficci-n",
+        readingTime: 2,
+        dateUpdated: "jan 22, 2026 8:25:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-479-carburantes-en-suiza-romanda-cuando-llenar-el-dep-sito-depende-del-cant-n": {
+        title: "Carburantes en Suiza romanda: cuando llenar el depósito depende del cantón",
+        description: "Carburantes en Suiza romanda: cuando llenar el depósito depende del cantón",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-479-carburantes-en-suiza-romanda-cuando-llenar-el-dep-sito-depende-del-cant-n",
+        readingTime: 2,
+        dateUpdated: "jan 22, 2026 1:17:43 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-480-comprar-una-vivienda-en-suiza-posible-caro-y-pensado-para-toda-una-vida": {
+        title: "Comprar una vivienda en Suiza: posible, caro y pensado para toda una vida",
+        description: "Comprar una vivienda en Suiza: posible, caro y pensado para toda una vida",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-480-comprar-una-vivienda-en-suiza-posible-caro-y-pensado-para-toda-una-vida",
+        readingTime: 2,
+        dateUpdated: "jan 22, 2026 8:26:55 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-481-los-ni-os-extranjeros-y-el-nivel-de-la-escuela-suiza-una-pol-mica-que-no-se-sostiene": {
+        title: "Los niños extranjeros y el nivel de la escuela suiza: una polémica que no se sostiene",
+        description: "Los niños extranjeros y el nivel de la escuela suiza: una polémica que no se sostiene",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-481-los-ni-os-extranjeros-y-el-nivel-de-la-escuela-suiza-una-pol-mica-que-no-se-sostiene",
+        readingTime: 2,
+        dateUpdated: "jan 23, 2026 8:22:26 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-482-cuando-uno-se-obstina-pagas-m-s": {
+        title: "Cuando uno se obstina… pagas más.",
+        description: "Cuando uno se obstina… pagas más.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-482-cuando-uno-se-obstina-pagas-m-s",
+        readingTime: 2,
+        dateUpdated: "jan 23, 2026 1:07:13 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-483-los-pisos-subvencionados-en-suiza-lo-que-existen-y-lo-que-no": {
+        title: "Los pisos subvencionados en Suiza. Lo que existen y lo que no",
+        description: "Los pisos subvencionados en Suiza. Lo que existen y lo que no",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-483-los-pisos-subvencionados-en-suiza-lo-que-existen-y-lo-que-no",
+        readingTime: 2,
+        dateUpdated: "jan 24, 2026 8:40:16 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-484-no-suelo-hablar-de-pol-tica-y-quien-me-conoce-en-el-grupo-lo-sabe-pero-hay-frases-que-no-se-pueden-dejar-pasar-como-si-nada-sobre-todo-cuando-viene": {
+        title: "No suelo hablar de política. Y quien me conoce en el grupo lo sabe. Pero hay frases que no se pueden dejar pasar como si nada, sobre todo cuando viene",
+        description: "No suelo hablar de política. Y quien me conoce en el grupo lo sabe. Pero hay frases que no se pueden dejar pasar como si nada, sobre todo cuando viene",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-484-no-suelo-hablar-de-pol-tica-y-quien-me-conoce-en-el-grupo-lo-sabe-pero-hay-frases-que-no-se-pueden-dejar-pasar-como-si-nada-sobre-todo-cuando-viene",
+        readingTime: 2,
+        dateUpdated: "jan 24, 2026 10:25:38 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-485-solo-comparto": {
+        title: "Solo comparto !",
+        description: "Solo comparto !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-485-solo-comparto",
+        readingTime: 2,
+        dateUpdated: "jan 24, 2026 11:44:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-486-un-nuevo-impuesto-se-estar-a-preparando": {
+        title: "Un nuevo impuesto se estaría preparando ?!",
+        description: "Un nuevo impuesto se estaría preparando ?!",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-486-un-nuevo-impuesto-se-estar-a-preparando",
+        readingTime: 2,
+        dateUpdated: "jan 24, 2026 1:21:29 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-487-cliquer-pour-la-vid-o-a-meditar-a-meditar": {
+        title: "Cliquer pour la vidéo :A meditar! A meditar!",
+        description: "Cliquer pour la vidéo :A meditar! A meditar!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-487-cliquer-pour-la-vid-o-a-meditar-a-meditar",
+        readingTime: 2,
+        dateUpdated: "jan 24, 2026 5:08:40 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-488-permisos-en-suiza-qu-se-paga-qui-n-lo-paga": {
+        title: "Permisos en Suiza: qué se paga, quién lo paga",
+        description: "Permisos en Suiza: qué se paga, quién lo paga",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-488-permisos-en-suiza-qu-se-paga-qui-n-lo-paga",
+        readingTime: 2,
+        dateUpdated: "jan 25, 2026 8:45:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-489-publicar-tu-cv-en-facebook-no-es-tan-buena-idea-como-parece": {
+        title: "Publicar tu CV en Facebook no es tan buena idea como parece",
+        description: "Publicar tu CV en Facebook no es tan buena idea como parece",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-489-publicar-tu-cv-en-facebook-no-es-tan-buena-idea-como-parece",
+        readingTime: 2,
+        dateUpdated: "jan 25, 2026 1:50:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-490-a-veces-leo-que-quienes-ya-estamos-en-suiza-desaconsejamos-venir-porque-ya-estamos-instalados-como-si-se-tratara-de-proteger-un-privilegio-o-cerrar": {
+        title: "A veces leo que quienes ya estamos en Suiza “desaconsejamos venir” porque ya estamos instalados. Como si se tratara de proteger un privilegio o cerrar",
+        description: "A veces leo que quienes ya estamos en Suiza “desaconsejamos venir” porque ya estamos instalados. Como si se tratara de proteger un privilegio o cerrar",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-490-a-veces-leo-que-quienes-ya-estamos-en-suiza-desaconsejamos-venir-porque-ya-estamos-instalados-como-si-se-tratara-de-proteger-un-privilegio-o-cerrar",
+        readingTime: 2,
+        dateUpdated: "jan 25, 2026 8:45:07 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-491-nueva-convenci-n-colectiva-nacional-en-la-construcci-n-qu-cambia-y-a-qui-n-afecta": {
+        title: "Nueva Convención Colectiva Nacional en la construcción. Qué cambia y a quién afecta.",
+        description: "Nueva Convención Colectiva Nacional en la construcción. Qué cambia y a quién afecta.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-491-nueva-convenci-n-colectiva-nacional-en-la-construcci-n-qu-cambia-y-a-qui-n-afecta",
+        readingTime: 2,
+        dateUpdated: "jan 26, 2026 8:21:50 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-492-cliquer-pour-la-vid-o-iseltwald-y-el-famoso-pagar-por-la-foto": {
+        title: "Cliquer pour la vidéo :Iseltwald y el famoso “pagar por la foto”.",
+        description: "Cliquer pour la vidéo :Iseltwald y el famoso “pagar por la foto”.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-492-cliquer-pour-la-vid-o-iseltwald-y-el-famoso-pagar-por-la-foto",
+        readingTime: 2,
+        dateUpdated: "jan 26, 2026 1:22:56 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-493-te-est-n-pagando-bien-las-noches-en-suiza-lo-que-la-ley-dice-y-lo-que-debes-saber": {
+        title: "¿TE ESTÁN PAGANDO BIEN LAS NOCHES EN SUIZA? LO QUE LA LEY DICE Y LO QUE DEBES SABER",
+        description: "¿TE ESTÁN PAGANDO BIEN LAS NOCHES EN SUIZA? LO QUE LA LEY DICE Y LO QUE DEBES SABER",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-493-te-est-n-pagando-bien-las-noches-en-suiza-lo-que-la-ley-dice-y-lo-que-debes-saber",
+        readingTime: 2,
+        dateUpdated: "jan 26, 2026 8:10:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-494-comprar-sellos-baratos-puede-salir-muy-caro-en-suiza": {
+        title: "Comprar sellos “baratos” puede salir muy caro en Suiza",
+        description: "Comprar sellos “baratos” puede salir muy caro en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-494-comprar-sellos-baratos-puede-salir-muy-caro-en-suiza",
+        readingTime: 2,
+        dateUpdated: "jan 27, 2026 8:20:33 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-495-y-otra-subida-m-s": {
+        title: "Y otra subida más !",
+        description: "Y otra subida más !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-495-y-otra-subida-m-s",
+        readingTime: 2,
+        dateUpdated: "jan 27, 2026 1:13:15 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-496-cliquer-pour-la-vid-o-arrrghhhh-el-alem-n-arrrghhhh-el-alem-n": {
+        title: "Cliquer pour la vidéo :Arrrghhhh... El Alemán ! 😅 Arrrghhhh... El Alemán ! 😅",
+        description: "Cliquer pour la vidéo :Arrrghhhh... El Alemán ! 😅 Arrrghhhh... El Alemán ! 😅",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-496-cliquer-pour-la-vid-o-arrrghhhh-el-alem-n-arrrghhhh-el-alem-n",
+        readingTime: 2,
+        dateUpdated: "jan 27, 2026 3:55:58 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-497-transferir-el-correo-tras-una-mudanza-en-suiza-lo-que-conviene-saber": {
+        title: "Transferir el correo tras una mudanza en Suiza: lo que conviene saber",
+        description: "Transferir el correo tras una mudanza en Suiza: lo que conviene saber",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-497-transferir-el-correo-tras-una-mudanza-en-suiza-lo-que-conviene-saber",
+        readingTime: 2,
+        dateUpdated: "jan 27, 2026 8:10:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-498-el-euro-se-desploma-frente-al-franco-suizo-y-no-es-un-detalle-menor": {
+        title: "El euro se desploma frente al franco suizo. Y no es un detalle menor.",
+        description: "El euro se desploma frente al franco suizo. Y no es un detalle menor.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-498-el-euro-se-desploma-frente-al-franco-suizo-y-no-es-un-detalle-menor",
+        readingTime: 2,
+        dateUpdated: "jan 28, 2026 8:12:58 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-499-idioma-salario-y-cct-en-suiza-aclarando-conceptos-importantes": {
+        title: "Idioma, salario y CCT en Suiza: aclarando conceptos importantes",
+        description: "Idioma, salario y CCT en Suiza: aclarando conceptos importantes",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-499-idioma-salario-y-cct-en-suiza-aclarando-conceptos-importantes",
+        readingTime: 2,
+        dateUpdated: "jan 28, 2026 8:15:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-500-pens-que-estaba-haciendo-una-buena-operaci-n-le-cost-3-600-francos": {
+        title: "Pensó que estaba haciendo una buena operación. Le costó 3.600 francos.",
+        description: "Pensó que estaba haciendo una buena operación. Le costó 3.600 francos.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-500-pens-que-estaba-haciendo-una-buena-operaci-n-le-cost-3-600-francos",
+        readingTime: 2,
+        dateUpdated: "jan 29, 2026 8:13:03 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-501-por-qu-en-suiza-hay-que-declarar-el-oro-en-la-aduana-aunque-sea-solo-un-anillo": {
+        title: "Por qué en Suiza hay que declarar el oro en la aduana. Aunque sea “solo” un anillo.",
+        description: "Por qué en Suiza hay que declarar el oro en la aduana. Aunque sea “solo” un anillo.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-501-por-qu-en-suiza-hay-que-declarar-el-oro-en-la-aduana-aunque-sea-solo-un-anillo",
+        readingTime: 2,
+        dateUpdated: "jan 29, 2026 1:15:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-502-asesores-de-seguros-lamal-en-suiza-una-aclaraci-n-necesaria": {
+        title: "Asesores de seguros LAMal en Suiza: una aclaración necesaria.",
+        description: "Asesores de seguros LAMal en Suiza: una aclaración necesaria.",
+        keywords: "salud, suiza",
+        category: "Salud y Seguro (LAMal)",
+        hub: "salud",
+        slug: "fb-502-asesores-de-seguros-lamal-en-suiza-una-aclaraci-n-necesaria",
+        readingTime: 2,
+        dateUpdated: "jan 29, 2026 8:15:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-503-suiza-y-la-doble-nacionalidad-ya-no-es-la-excepci-n-es-la-norma": {
+        title: "Suiza y la doble nacionalidad: ya no es la excepción, es la norma",
+        description: "Suiza y la doble nacionalidad: ya no es la excepción, es la norma",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-503-suiza-y-la-doble-nacionalidad-ya-no-es-la-excepci-n-es-la-norma",
+        readingTime: 2,
+        dateUpdated: "jan 31, 2026 8:12:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-504-problemas-con-el-paro-en-suiza-cuando-las-facturas-llegan-pero-el-dinero-no": {
+        title: "Problemas con el paro en Suiza: cuando las facturas llegan, pero el dinero no",
+        description: "Problemas con el paro en Suiza: cuando las facturas llegan, pero el dinero no",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-504-problemas-con-el-paro-en-suiza-cuando-las-facturas-llegan-pero-el-dinero-no",
+        readingTime: 2,
+        dateUpdated: "jan 31, 2026 1:23:22 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-505-doble-nacionalidad-qu-cambia-realmente-y-qu-no": {
+        title: "Doble nacionalidad: qué cambia realmente y qué no",
+        description: "Doble nacionalidad: qué cambia realmente y qué no",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-505-doble-nacionalidad-qu-cambia-realmente-y-qu-no",
+        readingTime: 2,
+        dateUpdated: "jan 31, 2026 8:24:03 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-506-sgs-ya-no-es-ginebrina-oficialmente": {
+        title: "SGS ya no es ginebrina. Oficialmente.",
+        description: "SGS ya no es ginebrina. Oficialmente.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-506-sgs-ya-no-es-ginebrina-oficialmente",
+        readingTime: 2,
+        dateUpdated: "fév 01, 2026 8:23:18 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-507-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-507-sans-titre",
+        readingTime: 2,
+        dateUpdated: "fév 01, 2026 10:02:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-508-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-508-sans-titre",
+        readingTime: 2,
+        dateUpdated: "fév 01, 2026 10:02:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-509-cliquer-pour-la-vid-o": {
+        title: "Cliquer pour la vidéo :",
+        description: "Cliquer pour la vidéo :",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-509-cliquer-pour-la-vid-o",
+        readingTime: 2,
+        dateUpdated: "fév 01, 2026 10:02:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-510-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-510-sans-titre",
+        readingTime: 2,
+        dateUpdated: "fév 01, 2026 10:02:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-511-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-511-sans-titre",
+        readingTime: 2,
+        dateUpdated: "fév 01, 2026 10:02:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-512-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-512-sans-titre",
+        readingTime: 2,
+        dateUpdated: "fév 01, 2026 10:02:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-513-cliquer-pour-la-vid-o-prueba-comunidad-atentos-al-detalle-voy-a-ser-voluntariamente-vago-y-no-voy-a-dar-pistas-adicionales-estas-im-genes-y-el": {
+        title: "Cliquer pour la vidéo : ⚠️Prueba comunidad... atentos al detalle⚠️Voy a ser voluntariamente vago y no voy a dar pistas adicionales.Estas imágenes y el",
+        description: "Cliquer pour la vidéo : ⚠️Prueba comunidad... atentos al detalle⚠️Voy a ser voluntariamente vago y no voy a dar pistas adicionales.Estas imágenes y el",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-513-cliquer-pour-la-vid-o-prueba-comunidad-atentos-al-detalle-voy-a-ser-voluntariamente-vago-y-no-voy-a-dar-pistas-adicionales-estas-im-genes-y-el",
+        readingTime: 2,
+        dateUpdated: "fév 01, 2026 10:02:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-514-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-514-sans-titre",
+        readingTime: 2,
+        dateUpdated: "fév 01, 2026 10:02:04 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-515-facebook-borrando-comunidades-sin-dar-explicaciones-cuando-el-algoritmo-manda": {
+        title: "Facebook borrando comunidades sin dar explicaciones: cuando el algoritmo manda",
+        description: "Facebook borrando comunidades sin dar explicaciones: cuando el algoritmo manda",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-515-facebook-borrando-comunidades-sin-dar-explicaciones-cuando-el-algoritmo-manda",
+        readingTime: 2,
+        dateUpdated: "fév 01, 2026 1:36:13 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-516-800-francos-de-multa-por-acariciar-a-tu-propio-perro-en-un-avi-n": {
+        title: "800 francos de multa por acariciar a tu propio perro en un avión.",
+        description: "800 francos de multa por acariciar a tu propio perro en un avión.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-516-800-francos-de-multa-por-acariciar-a-tu-propio-perro-en-un-avi-n",
+        readingTime: 2,
+        dateUpdated: "fév 02, 2026 8:12:38 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-517-vuelve-a-salir-el-tema-de-la-naturalizaci-n-y-siempre-aparece-la-misma-pregunta": {
+        title: "Vuelve a salir el tema de la naturalización y siempre aparece la misma pregunta:",
+        description: "Vuelve a salir el tema de la naturalización y siempre aparece la misma pregunta:",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-517-vuelve-a-salir-el-tema-de-la-naturalizaci-n-y-siempre-aparece-la-misma-pregunta",
+        readingTime: 2,
+        dateUpdated: "fév 03, 2026 8:05:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-518-formaci-n-del-adulto-en-suiza-gu-a-pr-ctica-sin-rodeos": {
+        title: "Formación del adulto en Suiza: guía práctica (sin rodeos)",
+        description: "Formación del adulto en Suiza: guía práctica (sin rodeos)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-518-formaci-n-del-adulto-en-suiza-gu-a-pr-ctica-sin-rodeos",
+        readingTime: 2,
+        dateUpdated: "fév 04, 2026 8:15:03 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-519-se-puede-perder-el-permiso-c-por-quedarse-en-el-paro": {
+        title: "¿Se puede perder el permiso C por quedarse en el paro?",
+        description: "¿Se puede perder el permiso C por quedarse en el paro?",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-519-se-puede-perder-el-permiso-c-por-quedarse-en-el-paro",
+        readingTime: 2,
+        dateUpdated: "fév 04, 2026 1:19:50 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-520-decisi-n-judicial-en-ginebra-sobre-los-alumnos-fronterizos": {
+        title: "Decisión judicial en Ginebra sobre los alumnos fronterizos",
+        description: "Decisión judicial en Ginebra sobre los alumnos fronterizos",
+        keywords: "fronterizos, suiza",
+        category: "Frontaliers y Permiso G",
+        hub: "fronterizos",
+        slug: "fb-520-decisi-n-judicial-en-ginebra-sobre-los-alumnos-fronterizos",
+        readingTime: 2,
+        dateUpdated: "fév 05, 2026 8:14:50 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-521-febrero-en-suiza-el-mes-m-s-corto-pero-ni-de-lejos-el-m-s-aburrido": {
+        title: "Febrero en Suiza. El mes más corto, pero ni de lejos el más aburrido.",
+        description: "Febrero en Suiza. El mes más corto, pero ni de lejos el más aburrido.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-521-febrero-en-suiza-el-mes-m-s-corto-pero-ni-de-lejos-el-m-s-aburrido",
+        readingTime: 2,
+        dateUpdated: "fév 05, 2026 1:19:35 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-522-qu-cantones-de-suiza-son-m-s-libres-y-por-qu-hay-que-leer-esto-con-calma-ha-salido-estos-d-as-un-ranking-que-est-circulando-bastante-y-que-convi": {
+        title: "Qué cantones de Suiza son “más libres”. Y por qué hay que leer esto con calma.Ha salido estos días un ranking que está circulando bastante y que convi",
+        description: "Qué cantones de Suiza son “más libres”. Y por qué hay que leer esto con calma.Ha salido estos días un ranking que está circulando bastante y que convi",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-522-qu-cantones-de-suiza-son-m-s-libres-y-por-qu-hay-que-leer-esto-con-calma-ha-salido-estos-d-as-un-ranking-que-est-circulando-bastante-y-que-convi",
+        readingTime: 2,
+        dateUpdated: "fév 05, 2026 8:17:12 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-523-dinero-en-efectivo-en-la-constituci-n-suiza-lo-que-se-vota-el-8-de-marzo-sin-ruido": {
+        title: "Dinero en efectivo en la Constitución suiza. Lo que se vota el 8 de marzo, sin ruido",
+        description: "Dinero en efectivo en la Constitución suiza. Lo que se vota el 8 de marzo, sin ruido",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-523-dinero-en-efectivo-en-la-constituci-n-suiza-lo-que-se-vota-el-8-de-marzo-sin-ruido",
+        readingTime: 2,
+        dateUpdated: "fév 06, 2026 8:15:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-524-empleos-en-suiza-lo-que-se-viene-en-2026": {
+        title: "Empleos en Suiza. Lo que se viene en 2026",
+        description: "Empleos en Suiza. Lo que se viene en 2026",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-524-empleos-en-suiza-lo-que-se-viene-en-2026",
+        readingTime: 2,
+        dateUpdated: "fév 06, 2026 1:15:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-525-certificado-de-trabajo-en-suiza-s-ya-se-habl-y-aun-as-hay-que-insistir": {
+        title: "Certificado de trabajo en Suiza. Sí, ya se habló. Y aun así hay que insistir.",
+        description: "Certificado de trabajo en Suiza. Sí, ya se habló. Y aun así hay que insistir.",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-525-certificado-de-trabajo-en-suiza-s-ya-se-habl-y-aun-as-hay-que-insistir",
+        readingTime: 2,
+        dateUpdated: "fév 06, 2026 8:10:03 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-526-votaci-n-del-8-de-marzo-la-redevance-de-radio-y-televisi-n-a-200-francos": {
+        title: "Votación del 8 de marzo. La redevance de radio y televisión a 200 francos.",
+        description: "Votación del 8 de marzo. La redevance de radio y televisión a 200 francos.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-526-votaci-n-del-8-de-marzo-la-redevance-de-radio-y-televisi-n-a-200-francos",
+        readingTime: 2,
+        dateUpdated: "fév 07, 2026 8:50:03 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-527-pueden-llamar-a-tu-antiguo-empleador-por-detr-s-en-suiza": {
+        title: "¿Pueden llamar a tu antiguo empleador “por detrás” en Suiza?",
+        description: "¿Pueden llamar a tu antiguo empleador “por detrás” en Suiza?",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-527-pueden-llamar-a-tu-antiguo-empleador-por-detr-s-en-suiza",
+        readingTime: 2,
+        dateUpdated: "fév 07, 2026 1:28:26 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-528-la-delaci-n-en-suiza": {
+        title: "La delación en Suiza",
+        description: "La delación en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-528-la-delaci-n-en-suiza",
+        readingTime: 2,
+        dateUpdated: "fév 07, 2026 8:19:29 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-529-cuando-los-sindicatos-suizos-tambi-n-iban-contra-los-extranjeros": {
+        title: "Cuando los sindicatos suizos también iban contra los extranjeros",
+        description: "Cuando los sindicatos suizos también iban contra los extranjeros",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-529-cuando-los-sindicatos-suizos-tambi-n-iban-contra-los-extranjeros",
+        readingTime: 2,
+        dateUpdated: "fév 08, 2026 8:12:40 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-530-cu-l-es-el-parking-p-blico-m-s-caro-de-suiza-comparativa-por-grandes-ciudades": {
+        title: "¿Cuál es el parking público más caro de Suiza? Comparativa por grandes ciudades",
+        description: "¿Cuál es el parking público más caro de Suiza? Comparativa por grandes ciudades",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-530-cu-l-es-el-parking-p-blico-m-s-caro-de-suiza-comparativa-por-grandes-ciudades",
+        readingTime: 2,
+        dateUpdated: "fév 08, 2026 1:40:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-531-un-pistola-de-agua-de-shein-y-cinco-d-as-de-prisi-n-en-suiza-no-es-una-broma": {
+        title: "Un pistola de agua de Shein y cinco días de prisión en Suiza. No es una broma.",
+        description: "Un pistola de agua de Shein y cinco días de prisión en Suiza. No es una broma.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-531-un-pistola-de-agua-de-shein-y-cinco-d-as-de-prisi-n-en-suiza-no-es-una-broma",
+        readingTime: 2,
+        dateUpdated: "fév 09, 2026 8:25:42 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-532-esta-estafa-tiene-nombre-aunque-no-siempre-se-mencione-estafa-a-la-compasi-n": {
+        title: "Esta estafa tiene nombre, aunque no siempre se mencione: estafa a la compasión.",
+        description: "Esta estafa tiene nombre, aunque no siempre se mencione: estafa a la compasión.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-532-esta-estafa-tiene-nombre-aunque-no-siempre-se-mencione-estafa-a-la-compasi-n",
+        readingTime: 2,
+        dateUpdated: "fév 09, 2026 1:08:35 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-533-dejo-aqu-un-recordatorio-claro-sobre-los-excesos-de-velocidad-en-suiza-informaci-n-oficial-sin-mitos-sin-dramatismos": {
+        title: "Dejo aquí un recordatorio claro sobre los excesos de velocidad en Suiza. Información oficial. Sin mitos. Sin dramatismos.",
+        description: "Dejo aquí un recordatorio claro sobre los excesos de velocidad en Suiza. Información oficial. Sin mitos. Sin dramatismos.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-533-dejo-aqu-un-recordatorio-claro-sobre-los-excesos-de-velocidad-en-suiza-informaci-n-oficial-sin-mitos-sin-dramatismos",
+        readingTime: 2,
+        dateUpdated: "fév 09, 2026 8:46:23 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-534-oferta-de-empleo-en-suiza-que-excluye-a-la-gen-z-y-no-no-es-una-broma": {
+        title: "Oferta de empleo en Suiza que excluye a la Gen Z. Y no, no es una broma.",
+        description: "Oferta de empleo en Suiza que excluye a la Gen Z. Y no, no es una broma.",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-534-oferta-de-empleo-en-suiza-que-excluye-a-la-gen-z-y-no-no-es-una-broma",
+        readingTime: 2,
+        dateUpdated: "fév 10, 2026 8:15:56 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-535-solo-comparto": {
+        title: "Solo comparto !",
+        description: "Solo comparto !",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-535-solo-comparto",
+        readingTime: 2,
+        dateUpdated: "fév 10, 2026 10:50:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-536-trabajar-por-cuenta-propia-en-suiza-lo-b-sico-sin-mitos": {
+        title: "Trabajar por cuenta propia en Suiza. Lo básico, sin mitos.",
+        description: "Trabajar por cuenta propia en Suiza. Lo básico, sin mitos.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-536-trabajar-por-cuenta-propia-en-suiza-lo-b-sico-sin-mitos",
+        readingTime: 2,
+        dateUpdated: "fév 10, 2026 1:32:10 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-537-vivir-en-suiza-sin-trabajar-no-es-tan-simple-como-parece": {
+        title: "Vivir en Suiza sin trabajar no es tan simple como parece",
+        description: "Vivir en Suiza sin trabajar no es tan simple como parece",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-537-vivir-en-suiza-sin-trabajar-no-es-tan-simple-como-parece",
+        readingTime: 2,
+        dateUpdated: "fév 10, 2026 8:22:34 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-538-solo-comparto-solo-comparto": {
+        title: "Solo comparto !!! Solo comparto !!!",
+        description: "Solo comparto !!! Solo comparto !!!",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-538-solo-comparto-solo-comparto",
+        readingTime: 2,
+        dateUpdated: "fév 10, 2026 9:30:40 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-539-el-turismo-de-compras-no-se-puede-frenar-y-cuanto-antes-lo-asumamos-mejor": {
+        title: "El turismo de compras no se puede frenar. Y cuanto antes lo asumamos, mejor.",
+        description: "El turismo de compras no se puede frenar. Y cuanto antes lo asumamos, mejor.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-539-el-turismo-de-compras-no-se-puede-frenar-y-cuanto-antes-lo-asumamos-mejor",
+        readingTime: 2,
+        dateUpdated: "fév 11, 2026 8:15:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-540-vaud-votar-pero-antes-el-pulso-pol-tico-est-servido": {
+        title: "Vaud votará. Pero antes, el pulso político está servido.",
+        description: "Vaud votará. Pero antes, el pulso político está servido.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-540-vaud-votar-pero-antes-el-pulso-pol-tico-est-servido",
+        readingTime: 2,
+        dateUpdated: "fév 11, 2026 1:27:00 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-541-nueve-reglas-de-un-buen-cv-formato-suizo": {
+        title: "Nueve Reglas de un buen CV (formato Suizo)",
+        description: "Nueve Reglas de un buen CV (formato Suizo)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-541-nueve-reglas-de-un-buen-cv-formato-suizo",
+        readingTime: 2,
+        dateUpdated: "fév 11, 2026 8:15:57 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-542-poca-empat-a-o-aplicaci-n-fr-a-de-la-norma-y-aqu-es-donde-el-debate-se-pone-interesante": {
+        title: "Poca empatía… o aplicación fría de la norma. Y aquí es donde el debate se pone interesante.",
+        description: "Poca empatía… o aplicación fría de la norma. Y aquí es donde el debate se pone interesante.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-542-poca-empat-a-o-aplicaci-n-fr-a-de-la-norma-y-aqu-es-donde-el-debate-se-pone-interesante",
+        readingTime: 2,
+        dateUpdated: "fév 12, 2026 8:15:00 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-543-el-espa-ol-que-ya-est-dentro-y-quiere-cerrar-la-puerta": {
+        title: "El español que ya está dentro… y quiere cerrar la puerta",
+        description: "El español que ya está dentro… y quiere cerrar la puerta",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-543-el-espa-ol-que-ya-est-dentro-y-quiere-cerrar-la-puerta",
+        readingTime: 2,
+        dateUpdated: "fév 12, 2026 12:39:13 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-544-registro-y-empadronamiento-en-suiza-no-es-lo-mismo": {
+        title: "Registro y \"empadronamiento\" en Suiza: no es lo mismo",
+        description: "Registro y \"empadronamiento\" en Suiza: no es lo mismo",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-544-registro-y-empadronamiento-en-suiza-no-es-lo-mismo",
+        readingTime: 2,
+        dateUpdated: "fév 12, 2026 8:11:38 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-545-presupuestos-en-rojo-y-luego-milagro-en-verde-otra-vez": {
+        title: "Presupuestos en rojo… y luego milagro en verde. Otra vez.",
+        description: "Presupuestos en rojo… y luego milagro en verde. Otra vez.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-545-presupuestos-en-rojo-y-luego-milagro-en-verde-otra-vez",
+        readingTime: 2,
+        dateUpdated: "fév 13, 2026 1:25:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-546-cliquer-pour-la-vid-o-autocontroles-en-los-trenes-suizos-ojo-con-esto": {
+        title: "Cliquer pour la vidéo : Autocontroles en los trenes suizos. Ojo con esto.",
+        description: "Cliquer pour la vidéo : Autocontroles en los trenes suizos. Ojo con esto.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-546-cliquer-pour-la-vid-o-autocontroles-en-los-trenes-suizos-ojo-con-esto",
+        readingTime: 2,
+        dateUpdated: "fév 17, 2026 8:10:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-547-la-barrera-de-r-sti": {
+        title: "La barrera de Rösti.",
+        description: "La barrera de Rösti.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-547-la-barrera-de-r-sti",
+        readingTime: 2,
+        dateUpdated: "fév 19, 2026 12:14:38 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-548-le-anulan-la-nacionalizaci-n-en-neuch-tel-por-falsas-declaraciones": {
+        title: "Le anulan la nacionalización en Neuchâtel por falsas declaraciones",
+        description: "Le anulan la nacionalización en Neuchâtel por falsas declaraciones",
+        keywords: "impuestos, suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "fb-548-le-anulan-la-nacionalizaci-n-en-neuch-tel-por-falsas-declaraciones",
+        readingTime: 2,
+        dateUpdated: "fév 27, 2026 8:10:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-549-la-famosa-lista-cuando-te-mudas-a-suiza-no-es-ning-n-mito": {
+        title: "La famosa “lista” cuando te mudas a Suiza no es ningún mito.",
+        description: "La famosa “lista” cuando te mudas a Suiza no es ningún mito.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-549-la-famosa-lista-cuando-te-mudas-a-suiza-no-es-ning-n-mito",
+        readingTime: 2,
+        dateUpdated: "fév 27, 2026 1:20:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-550-turismo-en-suiza-2025-r-cord-hist-rico-y-no-es-casualidad": {
+        title: "Turismo en Suiza 2025: récord histórico… y no es casualidad",
+        description: "Turismo en Suiza 2025: récord histórico… y no es casualidad",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-550-turismo-en-suiza-2025-r-cord-hist-rico-y-no-es-casualidad",
+        readingTime: 2,
+        dateUpdated: "fév 28, 2026 8:25:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-551-contrato-de-integraci-n-en-suiza-qu-es-y-a-qui-n-afecta-de-verdad": {
+        title: "Contrato de integración en Suiza: qué es y a quién afecta de verdad",
+        description: "Contrato de integración en Suiza: qué es y a quién afecta de verdad",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-551-contrato-de-integraci-n-en-suiza-qu-es-y-a-qui-n-afecta-de-verdad",
+        readingTime: 2,
+        dateUpdated: "fév 28, 2026 1:38:27 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-552-lindt-condenado-en-francia-por-usar-los-campos-el-seos-en-una-publicidad-y-no-no-va-de-chocolate": {
+        title: "Lindt condenado en Francia por usar los Campos Elíseos en una publicidad. Y no, no va de chocolate.",
+        description: "Lindt condenado en Francia por usar los Campos Elíseos en una publicidad. Y no, no va de chocolate.",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-552-lindt-condenado-en-francia-por-usar-los-campos-el-seos-en-una-publicidad-y-no-no-va-de-chocolate",
+        readingTime: 2,
+        dateUpdated: "fév 28, 2026 8:22:09 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-553-el-alem-n-hace-subir-los-salarios-en-suiza-y-en-la-romand-a-empieza-a-notarse": {
+        title: "El alemán hace subir los salarios en Suiza, y en la Romandía empieza a notarse",
+        description: "El alemán hace subir los salarios en Suiza, y en la Romandía empieza a notarse",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-553-el-alem-n-hace-subir-los-salarios-en-suiza-y-en-la-romand-a-empieza-a-notarse",
+        readingTime: 2,
+        dateUpdated: "mar 01, 2026 8:53:13 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-554-8-de-marzo-serafe-200-chf": {
+        title: "8 de marzo... Serafe à 200 CHF",
+        description: "8 de marzo... Serafe à 200 CHF",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-554-8-de-marzo-serafe-200-chf",
+        readingTime: 2,
+        dateUpdated: "mar 01, 2026 1:38:59 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-555-suiza-y-la-ue-firman-nuevos-acuerdos-bilaterales-lo-que-cambia-y-por-qu-muchos-se-oponen": {
+        title: "Suiza y la UE firman nuevos acuerdos bilaterales. Lo que cambia… y por qué muchos se oponen",
+        description: "Suiza y la UE firman nuevos acuerdos bilaterales. Lo que cambia… y por qué muchos se oponen",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-555-suiza-y-la-ue-firman-nuevos-acuerdos-bilaterales-lo-que-cambia-y-por-qu-muchos-se-oponen",
+        readingTime: 2,
+        dateUpdated: "mar 02, 2026 8:28:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-556-cliquer-pour-la-vid-o-est-ma-ana-vengo-con-un-v-deo-que-espero-escuchen-bien-est-ma-ana-vengo-con-un-v-deo-que-espero-escuchen-bien": {
+        title: "Cliquer pour la vidéo :Está mañana vengo con un vídeo que espero escuchen bien ! Está mañana vengo con un vídeo que espero escuchen bien !",
+        description: "Cliquer pour la vidéo :Está mañana vengo con un vídeo que espero escuchen bien ! Está mañana vengo con un vídeo que espero escuchen bien !",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-556-cliquer-pour-la-vid-o-est-ma-ana-vengo-con-un-v-deo-que-espero-escuchen-bien-est-ma-ana-vengo-con-un-v-deo-que-espero-escuchen-bien",
+        readingTime: 2,
+        dateUpdated: "mar 03, 2026 8:22:33 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-557-la-entrevista-de-trabajo-y-las-preguntas-para-un-puesto-no-cualificado-en-suiza": {
+        title: "La entrevista de trabajo y las preguntas para un puesto no cualificado en Suiza",
+        description: "La entrevista de trabajo y las preguntas para un puesto no cualificado en Suiza",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-557-la-entrevista-de-trabajo-y-las-preguntas-para-un-puesto-no-cualificado-en-suiza",
+        readingTime: 2,
+        dateUpdated: "mar 03, 2026 8:26:28 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-558-nueva-cct-de-la-construcci-n-en-suiza-2026-2031": {
+        title: "Nueva CCT de la construcción en Suiza (2026-2031)",
+        description: "Nueva CCT de la construcción en Suiza (2026-2031)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-558-nueva-cct-de-la-construcci-n-en-suiza-2026-2031",
+        readingTime: 2,
+        dateUpdated: "mar 04, 2026 8:15:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-559-c-mo-se-calcula-realmente-el-paro-en-suiza-y-cu-l-es-el-tope-legal": {
+        title: "Cómo se calcula realmente el paro en Suiza y cuál es el tope legal",
+        description: "Cómo se calcula realmente el paro en Suiza y cuál es el tope legal",
+        keywords: "trabajo, suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "fb-559-c-mo-se-calcula-realmente-el-paro-en-suiza-y-cu-l-es-el-tope-legal",
+        readingTime: 2,
+        dateUpdated: "mar 04, 2026 1:25:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-560-qu-pasa-si-no-pagas-una-factura-en-suiza": {
+        title: "Qué pasa si no pagas una factura en Suiza",
+        description: "Qué pasa si no pagas una factura en Suiza",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-560-qu-pasa-si-no-pagas-una-factura-en-suiza",
+        readingTime: 2,
+        dateUpdated: "mar 05, 2026 7:21:05 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-561-suiza-ya-prepara-sus-nuevos-billetes-para-2030": {
+        title: "Suiza ya prepara sus nuevos billetes para 2030",
+        description: "Suiza ya prepara sus nuevos billetes para 2030",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-561-suiza-ya-prepara-sus-nuevos-billetes-para-2030",
+        readingTime: 2,
+        dateUpdated: "mar 05, 2026 1:25:03 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-562-el-franco-suizo-est-m-s-fuerte-que-nunca-y-no-todo-son-buenas-noticias": {
+        title: "El franco suizo está más fuerte que nunca… y no todo son buenas noticias",
+        description: "El franco suizo está más fuerte que nunca… y no todo son buenas noticias",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-562-el-franco-suizo-est-m-s-fuerte-que-nunca-y-no-todo-son-buenas-noticias",
+        readingTime: 2,
+        dateUpdated: "mar 06, 2026 1:38:23 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-563-100-000-francos-en-multas-por-la-vi-eta-en-7-horas": {
+        title: "100 000 francos en multas por la viñeta en 7 horas",
+        description: "100 000 francos en multas por la viñeta en 7 horas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-563-100-000-francos-en-multas-por-la-vi-eta-en-7-horas",
+        readingTime: 2,
+        dateUpdated: "mar 06, 2026 8:24:03 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-564-el-sue-o-suizo-de-algunos-nuevos-frontaliers-empieza-a-desinflarse": {
+        title: "El \"sueño suizo\" de algunos nuevos frontaliers empieza a desinflarse",
+        description: "El \"sueño suizo\" de algunos nuevos frontaliers empieza a desinflarse",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-564-el-sue-o-suizo-de-algunos-nuevos-frontaliers-empieza-a-desinflarse",
+        readingTime: 2,
+        dateUpdated: "mar 07, 2026 9:06:50 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-565-cliquer-pour-la-vid-o-no-olviden-aprender-frases-importantes-en-suizo-aleman-no-olviden-aprender-frases-importantes-en-suizo-aleman": {
+        title: "Cliquer pour la vidéo :no olviden aprender frases importantes en suizo aleman 😅 no olviden aprender frases importantes en suizo aleman 😅",
+        description: "Cliquer pour la vidéo :no olviden aprender frases importantes en suizo aleman 😅 no olviden aprender frases importantes en suizo aleman 😅",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-565-cliquer-pour-la-vid-o-no-olviden-aprender-frases-importantes-en-suizo-aleman-no-olviden-aprender-frases-importantes-en-suizo-aleman",
+        readingTime: 2,
+        dateUpdated: "mar 07, 2026 4:15:09 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-566-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-566-sans-titre",
+        readingTime: 2,
+        dateUpdated: "mar 07, 2026 5:47:50 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-567-sans-titre": {
+        title: "(sans titre)",
+        description: "(sans titre)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-567-sans-titre",
+        readingTime: 2,
+        dateUpdated: "mar 07, 2026 5:47:50 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-568-cuando-te-falta-un-vaso-y-te-cuesta-400-francos": {
+        title: "Cuando te falta un vaso… y te cuesta 400 francos",
+        description: "Cuando te falta un vaso… y te cuesta 400 francos",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-568-cuando-te-falta-un-vaso-y-te-cuesta-400-francos",
+        readingTime: 2,
+        dateUpdated: "mar 07, 2026 8:25:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-569-hoy-es-8-de-marzo-d-a-internacional-de-la-mujer": {
+        title: "Hoy es 8 de marzo. Día Internacional de la Mujer.",
+        description: "Hoy es 8 de marzo. Día Internacional de la Mujer.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-569-hoy-es-8-de-marzo-d-a-internacional-de-la-mujer",
+        readingTime: 2,
+        dateUpdated: "mar 08, 2026 8:40:02 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-570-migros-lanza-un-cartel-moralizador-sobre-accidentes-en-vacaciones-y-los-empleadosuna-campa-a-interna-de-migros-est-generando-bastante-pol-mica-en": {
+        title: "Migros lanza un cartel “moralizador” sobre accidentes en vacaciones… y los empleadosUna campaña interna de Migros está generando bastante polémica en",
+        description: "Migros lanza un cartel “moralizador” sobre accidentes en vacaciones… y los empleadosUna campaña interna de Migros está generando bastante polémica en",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-570-migros-lanza-un-cartel-moralizador-sobre-accidentes-en-vacaciones-y-los-empleadosuna-campa-a-interna-de-migros-est-generando-bastante-pol-mica-en",
+        readingTime: 2,
+        dateUpdated: "mar 08, 2026 1:25:01 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-571-suiza-ese-pa-s-que-no-tiene-capital-aunque-todo-el-mundo-crea-que-s": {
+        title: "Suiza, ese país que no tiene capital (aunque todo el mundo crea que sí)",
+        description: "Suiza, ese país que no tiene capital (aunque todo el mundo crea que sí)",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-571-suiza-ese-pa-s-que-no-tiene-capital-aunque-todo-el-mundo-crea-que-s",
+        readingTime: 2,
+        dateUpdated: "mar 08, 2026 8:25:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-572-resultados-del-8-de-marzo": {
+        title: "Resultados del 8 de marzo",
+        description: "Resultados del 8 de marzo",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-572-resultados-del-8-de-marzo",
+        readingTime: 2,
+        dateUpdated: "mar 09, 2026 8:25:43 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-573-se-puede-trabajar-en-suiza-sin-tener-todav-a-el-permiso-de-residencia-en-la-mano": {
+        title: "¿Se puede trabajar en Suiza sin tener todavía el permiso de residencia en la mano?",
+        description: "¿Se puede trabajar en Suiza sin tener todavía el permiso de residencia en la mano?",
+        keywords: "tramites, suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "fb-573-se-puede-trabajar-en-suiza-sin-tener-todav-a-el-permiso-de-residencia-en-la-mano",
+        readingTime: 2,
+        dateUpdated: "mar 09, 2026 1:23:56 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-574-los-nuevos-vendedores-del-sue-o-suizo": {
+        title: "Los nuevos “vendedores del sueño suizo”",
+        description: "Los nuevos “vendedores del sueño suizo”",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-574-los-nuevos-vendedores-del-sue-o-suizo",
+        readingTime: 2,
+        dateUpdated: "mar 09, 2026 8:25:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-575-gasolina-en-suiza-cuando-los-frontaliers-vienen-a-repostar-pero-por-poco-tiempo": {
+        title: "Gasolina en Suiza: cuando los frontaliers vienen a repostar… pero por poco tiempo",
+        description: "Gasolina en Suiza: cuando los frontaliers vienen a repostar… pero por poco tiempo",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-575-gasolina-en-suiza-cuando-los-frontaliers-vienen-a-repostar-pero-por-poco-tiempo",
+        readingTime: 2,
+        dateUpdated: "mar 10, 2026 8:25:03 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-576-la-ssr-ha-sobrevivido-pero-ahora-vienen-los-problemas-de-verdad": {
+        title: "La SSR ha sobrevivido… pero ahora vienen los problemas de verdad.",
+        description: "La SSR ha sobrevivido… pero ahora vienen los problemas de verdad.",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-576-la-ssr-ha-sobrevivido-pero-ahora-vienen-los-problemas-de-verdad",
+        readingTime: 2,
+        dateUpdated: "mar 10, 2026 1:25:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-577-cliquer-pour-la-vid-o-cuando-alguien-intenta-desmontar-el-mito-suizo-pero-no-exactamente-como-esperabas": {
+        title: "Cliquer pour la vidéo :Cuando alguien intenta desmontar el “mito suizo”… pero no exactamente como esperabas",
+        description: "Cliquer pour la vidéo :Cuando alguien intenta desmontar el “mito suizo”… pero no exactamente como esperabas",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-577-cliquer-pour-la-vid-o-cuando-alguien-intenta-desmontar-el-mito-suizo-pero-no-exactamente-como-esperabas",
+        readingTime: 2,
+        dateUpdated: "mar 10, 2026 8:25:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-578-la-sanidad-en-suiza-siempre-fue-as-no-tambi-n-se-vot": {
+        title: "¿La sanidad en Suiza siempre fue así? No: también se votó",
+        description: "¿La sanidad en Suiza siempre fue así? No: también se votó",
+        keywords: "vivir, suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "fb-578-la-sanidad-en-suiza-siempre-fue-as-no-tambi-n-se-vot",
+        readingTime: 2,
+        dateUpdated: "mar 11, 2026 8:25:01 am",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "fb-579-puede-la-inmobiliaria-hacer-una-inspecci-n-del-piso-solo-porque-s": {
+        title: "¿Puede la inmobiliaria hacer una \"inspección\" del piso solo porque sí?",
+        description: "¿Puede la inmobiliaria hacer una \"inspección\" del piso solo porque sí?",
+        keywords: "vivienda, suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "fb-579-puede-la-inmobiliaria-hacer-una-inspecci-n-del-piso-solo-porque-s",
+        readingTime: 2,
+        dateUpdated: "mar 11, 2026 8:25:02 pm",
+        facebookUrl: "",
+        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        content: `<div class="article-content">
+  <div class="callout info">
+    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
+  </div>
+</div>`
+    },
+    "la-13-pensi-n-avs-qu-es-cu-ndo-llega-y-a-qui-n-afecta": {
+        title: "La 13ª pensión AVS: qué es, cuándo llega y a quién afecta",
+        description: 'La 13ª pensión AVS: qué es, cuándo llega y a quién afecta...',
+        keywords: "vivir, guia suiza, vida suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "la-13-pensi-n-avs-qu-es-cu-ndo-llega-y-a-qui-n-afecta",
+        readingTime: 3,
+        dateUpdated: "2026-04-16",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>La iniciativa popular "por una mejor vida en la jubilación" fue aceptada el 3 de marzo de 2024 por el pueblo suizo con el 58,2% de los votos. La consecuencia directa: a partir de diciembre de 2026, todos los pensionistas con una renta AVS recibirán por primera vez una decimotercera mensualidad, equivalente a un pago mensual completo. El importe oscila entre los 1.225 CHF mínimos y los 2.520 CHF máximos, según los años de cotización acumulados. Para quien cobra la renta máxima, hablamos de 2.520 CHF extra en un solo pago.
+
+El mecanismo es automático. No hay que solicitar nada ni presentar ningún trámite. Quien ya esté jubilado y reciba una renta AVS en diciembre de 2026 tendrá derecho a este pago sin más gestión de su parte. El Parlamento federal optó por concentrar el pago en diciembre, en lugar de repartirlo mensualmente a lo largo del año. La cantidad es proporcional a la renta que ya se cobra: si recibes la mínima, cobrarás esa misma cantidad como decimotercera; si recibes la máxima, lo mismo.
+
+Para financiar la medida, el Parlamento aprobó una subida de las cotizaciones salariales AVS de 0,5 puntos porcentuales en total: 0,25% a cargo del trabajador y 0,25% a cargo del empleador. Este incremento ya está en vigor desde el 1 de enero de 2026 y aparece desglosado en las nóminas. Si además los ingresos por cotizaciones no fueran suficientes a largo plazo, está prevista una eventual subida del IVA de 0,7 puntos, aunque esa parte sigue en discusión parlamentaria.
+
+Lo que muchos españoles en Suiza no tienen claro es que esta 13ª pensión también les afectará, siempre que hayan acumulado años suficientes de cotización AVS. Si llevas años trabajando aquí, estás construyendo derecho a una renta que incluirá esta mensualidad adicional. Y si ya estás jubilado y recibes pensión suiza, la cobrarás automáticamente en diciembre. Los periodos trabajados en España, gracias al Acuerdo de libre circulación con la UE, pueden servir para cumplir el año mínimo de cotización exigido en Suiza para acceder a la renta, aunque no suman al importe calculado.
+
+Si tienes entre 55 y 65 años, este es el momento de solicitar tu extracto de cuenta AVS individual a la Caisse de compensation de tu cantón. Es gratuito, te muestra los años cotizados y los salarios declarados, y te da una estimación de la futura renta, incluyendo ya la 13ª mensualidad en los cálculos actualizados. Más vale saber con qué cuentas antes de que llegue el momento, y no después.
+
+---</p>
+</div>`
+    },
+    "el-impuesto-a-la-fuente-en-suiza-lo-que-tu-n-mina-no-te-explica": {
+        title: "El impuesto a la fuente en Suiza: lo que tu nómina no te explica",
+        description: 'El impuesto a la fuente en Suiza: lo que tu nómina no te explica...',
+        keywords: "impuestos, guia suiza, vida suiza",
+        category: "Impuestos y Fiscalidad",
+        hub: "impuestos",
+        slug: "el-impuesto-a-la-fuente-en-suiza-lo-que-tu-n-mina-no-te-explica",
+        readingTime: 3,
+        dateUpdated: "2026-04-16",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>Si tienes permiso B o L y trabajas en Suiza, es probable que nunca hayas hecho una declaración de impuestos. No es que estés exento: es que tu empleador retiene el impuesto directamente de tu salario cada mes. A eso se le llama impuesto a la fuente, Quellensteuer en alemán, impôt à la source en francés. El sistema es aparentemente cómodo, pero esconde matices que pueden costarte cientos o incluso miles de francos si no conoces los derechos que te asisten.
+
+El impuesto se calcula mediante baremos fijos, publicados anualmente por la Administración Federal de Contribuciones y completados por cada cantón. Los baremos de 2026 ya están disponibles y accesibles en el sitio de la AFC (estv.admin.ch). El porcentaje aplicado depende de tu situación familiar: soltero sin hijos, casado con un solo salario en el hogar, casado con dos salarios, con hijos a cargo, etc. El problema de fondo es que estos baremos son estimaciones estándar. No tienen en cuenta deducciones reales como gastos profesionales extraordinarios, cotizaciones al tercer pilar (3a), donaciones, deudas hipotecarias ni otros gastos que un residente con permiso C o con nacionalidad suiza declararía habitualmente.
+
+Aquí entra el derecho que muchos ignoran: la solicitud de tarificación ordinaria ulterior (en francés taxation ordinaire ultérieure, abreviada TOU). Si tus ingresos brutos superaron los 120.000 CHF anuales en 2025, tienes la obligación de presentar una declaración ordinaria, te guste o no. Pero si no llegas a esa cifra y tienes deducciones significativas que el baremo no recoge, puedes solicitar voluntariamente una TOU antes del 31 de marzo del año siguiente. Para el ejercicio fiscal 2025, ese plazo era el 31 de marzo de 2026. Si no lo presentaste a tiempo, comprueba si tu cantón ofrece prórroga: algunos la conceden hasta finales de abril bajo solicitud expresa.
+
+El procedimiento no es especialmente complicado pero requiere organización. Hay que presentar la solicitud ante la administración fiscal cantonal, acompañada de los justificantes de ingresos y de las deducciones que se pretende aplicar. Una vez aceptada, se realiza una liquidación definitiva que puede resultar en una devolución si el baremo retuvo de más, o en un pago adicional si retuvo de menos. Para la mayoría de trabajadores con gastos deducibles reales, el resultado neto es favorable.
+
+Las diferencias cantonales en este punto son relevantes. El umbral federal de 120.000 CHF se aplica en toda Suiza, pero los baremos y los plazos de solicitud de TOU varían según el cantón. Ginebra, Vaud y Zurich tienen procedimientos con particularidades propias. Si tienes dudas sobre tu situación específica, la administración fiscal de tu cantón es el primer punto de contacto, y el personal está acostumbrado a atender a trabajadores extranjeros.
+
+---</p>
+</div>`
+    },
+    "a-os-cotizados-en-espa-a-cuentan-para-tu-jubilaci-n-en-suiza": {
+        title: "Años cotizados en España: ¿cuentan para tu jubilación en Suiza?",
+        description: 'Años cotizados en España: ¿cuentan para tu jubilación en Suiza?...',
+        keywords: "vivir, guia suiza, vida suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "a-os-cotizados-en-espa-a-cuentan-para-tu-jubilaci-n-en-suiza",
+        readingTime: 3,
+        dateUpdated: "2026-04-16",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>Hay una pregunta que surge con regularidad entre los españoles que llegaron a Suiza siendo adultos y que trabajaron varios años en España antes de emigrar: ¿esos años de cotización sirven para algo aquí? La respuesta es sí, pero con un matiz crucial que muy pocos explican con precisión, y que marca la diferencia entre entender bien tu situación de jubilación o planificarla sobre una base equivocada.
+
+Gracias al Acuerdo sobre la libre circulación de personas entre Suiza y la Unión Europea, en vigor desde 2002, existe el principio de "totalización de periodos de cotización". Cuando para acceder a una prestación se exige un periodo mínimo de cotización, los periodos acumulados en otro país de la UE, incluida España, se suman a los suizos para verificar si se cumple ese umbral. El ejemplo más frecuente: el AVS suizo exige al menos un año completo de cotización en Suiza para generar derecho a una renta. Si llevas diez meses cotizando aquí pero tienes quince años en España, cumples el requisito mínimo gracias a la totalización.
+
+Sin embargo, y aquí está el punto que genera más confusión, la totalización no aumenta el importe de tu pensión suiza. Los años trabajados en España no entran en el cálculo de la renta AVS, que depende exclusivamente de los años cotizados en Suiza y de los salarios declarados aquí. Para la pensión española, será la Seguridad Social española quien calcule el importe en función de tus cotizaciones ibéricas, sin sumar los años suizos al importe final, aunque sí los cuenta para el acceso mínimo en aplicación del mismo principio de totalización en sentido inverso.
+
+En la práctica, esto significa que si has cotizado en ambos países, tendrás derecho a dos pensiones independientes: una suiza, pagada por la Caja de Compensación AVS de tu último cantón de residencia, y una española, pagada por el INSS. Los trámites son completamente separados. La pensión suiza se solicita directamente a la Caisse de compensation cantonal cuando se acerca la edad de referencia (65 años para hombres y mujeres desde la reforma AVS 21). La española se solicita al INSS, y si resides en Suiza puedes gestionarlo a través de la Consejería de Empleo y Seguridad Social de la Embajada de España en Berna.
+
+La recomendación práctica, especialmente si tienes más de 55 años, es clara: solicita cuanto antes tu historial de cotizaciones a la Seguridad Social española (disponible en sede.seg-social.gob.es) y tu extracto de cuenta AVS suizo (a través de tu caja de compensación cantonal). Con ambos documentos en la mano, tendrás una imagen completa de lo que te espera en cada país y podrás planificar la transición sin prisas ni sorpresas de última hora.
+
+---</p>
+</div>`
+    },
+    "venir-a-trabajar-a-suiza-lo-que-necesitas-tener-resuelto-antes-de-llegar": {
+        title: "Venir a trabajar a Suiza: lo que necesitas tener resuelto antes de llegar",
+        description: 'Venir a trabajar a Suiza: lo que necesitas tener resuelto antes de llegar...',
+        keywords: "tramites, guia suiza, vida suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "venir-a-trabajar-a-suiza-lo-que-necesitas-tener-resuelto-antes-de-llegar",
+        readingTime: 2,
+        dateUpdated: "2026-04-16",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>Hay una confusión que se repite constantemente en los grupos de españoles en Suiza: la idea de que, como ciudadano de la UE, puedes venir a Suiza, instalarte y ya buscarás trabajo y piso cuando estés aquí. La libre circulación existe, sí, pero tiene condiciones que los servicios de migración cantonales aplican con más rigor que antes. Venir sin contrato de trabajo y sin domicilio confirmado es, en la práctica, empezar con el pie izquierdo.
+
+La situación es la siguiente: si tu estancia en Suiza va a superar los 90 días, tienes la obligación legal de inscribirte en el registro municipal (Einwohnerkontrolle o contrôle des habitants) dentro de los 14 días siguientes a tu llegada. Para hacerlo, necesitas presentar un contrato de trabajo firmado con un empleador domiciliado en Suiza y un justificante de domicilio, que puede ser un contrato de alquiler o una declaración firmada del propietario o subarrendador. Sin esos dos documentos, la mayoría de oficinas municipales no pueden tramitar tu inscripción, lo que a su vez bloquea la obtención del permiso de residencia.
+
+Lo que ha cambiado en la práctica no es tanto la ley en sí, que ya exigía estos documentos, sino el nivel de control en la aplicación. Algunos cantones han reforzado los procedimientos, y se han dado casos en que personas que llegaron sin domicilio confirmado se encontraron en una situación irregular por no poder inscribirse. La trampa habitual es la siguiente: muchos llegan con un "acuerdo de palabra" con el futuro empleador o con un familiar que les da el domicilio, pero sin los documentos formalizados. Eso no basta.
+
+Para los que ya están aquí o están planificando el traslado, el mensaje es sencillo: antes de comprar el billete, asegúrate de tener firmados tanto el contrato de trabajo como el contrato de alquiler o prueba de domicilio. Las diferencias cantonales existen, especialmente en cuanto a los plazos y los formularios específicos de inscripción, pero la exigencia de fondo es la misma en todo el país. El SEM (Secretaría de Estado de Migraciones) publica toda la información actualizada en sem.admin.ch, y las comunas disponen en general de un servicio de información para residentes extranjeros.
+
+---</p>
+</div>`
+    },
+    "el-14-de-junio-suiza-vota-si-limita-su-poblaci-n-a-10-millones": {
+        title: "El 14 de junio, Suiza vota si limita su población a 10 millones",
+        description: 'El 14 de junio, Suiza vota si limita su población a 10 millones...',
+        keywords: "vivir, guia suiza, vida suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "el-14-de-junio-suiza-vota-si-limita-su-poblaci-n-a-10-millones",
+        readingTime: 2,
+        dateUpdated: "2026-04-16",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>El 14 de junio de 2026, los ciudadanos suizos irán a las urnas para pronunciarse sobre una de las iniciativas populares más directamente relevantes para los residentes extranjeros en décadas. La iniciativa, impulsada por la UDC (Unión Democrática de Centro), propone inscribir en la Constitución federal la obligación de mantener la población total de Suiza por debajo de los 10 millones de personas antes de 2050. El país tiene actualmente unos 9,1 millones de habitantes, de los cuales el 27% son extranjeros.
+
+El mecanismo concreto que propone la iniciativa es el siguiente: cuando la población alcance los 9,5 millones, el Gobierno federal estaría obligado a restringir las llegadas de nuevos residentes, incluyendo los solicitantes de asilo y los reagrupamientos familiares. Si se superaran los 10 millones, el Gobierno debería denunciar el Acuerdo de libre circulación de personas con la Unión Europea, lo que afectaría directamente al estatuto jurídico de todos los ciudadanos europeos que viven y trabajan en Suiza, incluidos los españoles.
+
+Las consecuencias de una eventual aprobación no serían inmediatas, pero sí potencialmente profundas. La libre circulación está vinculada a una serie de acuerdos bilaterales con la UE mediante una "cláusula guillotina": si uno cae, los demás podrían verse arrastrados. Eso afectaría a sectores enteros que dependen de la mano de obra europea, y también al reconocimiento de diplomas, a los derechos laborales y sociales de los residentes comunitarios actuales. El Consejo Federal y la mayoría de los partidos se oponen a la iniciativa, pero las encuestas muestran un electorado dividido.
+
+Si eres residente extranjero en Suiza, no puedes votar en esta votación federal, independientemente del tiempo que lleves aquí. Solo los ciudadanos con pasaporte suizo participan en las votaciones federales. Pero el resultado te afectará directamente. Vale la pena seguir el debate, entender los argumentos de cada lado y saber exactamente qué se está votando el 14 de junio, en lugar de enterarse de los resultados de segunda mano y sin contexto.
+
+---</p>
+</div>`
+    },
+    "lpp-2026-las-pensiones-de-invalidez-y-supervivencia-por-fin-ajustadas-a-los-precios": {
+        title: "LPP 2026: las pensiones de invalidez y supervivencia, por fin ajustadas a los precios",
+        description: 'LPP 2026: las pensiones de invalidez y supervivencia, por fin ajustadas a los precios...',
+        keywords: "vivir, guia suiza, vida suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "lpp-2026-las-pensiones-de-invalidez-y-supervivencia-por-fin-ajustadas-a-los-precios",
+        readingTime: 2,
+        dateUpdated: "2026-04-16",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>Hay un cambio que entró en vigor el 1 de enero de 2026 y que ha pasado bastante desapercibido en los grupos de españoles en Suiza, pero que afecta a una parte muy concreta de la comunidad: las personas que cobran una pensión de invalidez del segundo pilar (LPP) o una pensión de supervivencia como viuda, viudo o huérfano, también derivada del LPP obligatorio. Por primera vez desde que existe este seguro, esas pensiones se han ajustado a la evolución del coste de la vida.
+
+Hasta ahora, la ley suiza no obligaba a las instituciones de previsión profesional a adaptar las rentas en curso a la inflación. El resultado, a lo largo de los años, era una pérdida progresiva de poder adquisitivo para quienes dependían de estas prestaciones. La reforma del segundo pilar aprobada en el marco de la reforma AVS 21 introdujo la obligación de que el Consejo Federal revise periódicamente si estos importes deben actualizarse, y que lo haga de forma efectiva cuando las circunstancias lo justifiquen. La primera revisión oficial ha dado lugar a un ajuste aplicado desde el 1 de enero de 2026.
+
+El ajuste se aplica exclusivamente a las pensiones de invalidez (IV) y de supervivencia del LPP obligatorio que ya estaban en curso antes de 2026. No se trata de una subida general del importe de las futuras pensiones, ni de una modificación del cálculo del segundo pilar para los activos. Afecta solo a quienes ya perciben estas prestaciones. Si eres pensionista de invalidez o cobras una renta de supervivencia por haber perdido a tu cónyuge que trabajaba en Suiza, revisa tu último estado de cuenta de la institución de previsión correspondiente para confirmar que el ajuste se ha aplicado correctamente.
+
+Este tipo de cambio no aparece en ninguna carta oficial con título llamativo. Lo notifica, en el mejor de los casos, la institución de previsión de tu antiguo empleador con un extracto anual. Si tienes dudas sobre si el ajuste te corresponde o no se ha aplicado, puedes contactar directamente con tu institución LPP o con el Centro de Información del Segundo Pilar (info@bzl.ch), que ofrece orientación gratuita en varios idiomas.
+
+---</p>
+</div>`
+    },
+    "tardoc-lo-que-ha-cambiado-en-tu-consulta-m-dica-desde-enero-de-2026": {
+        title: "Tardoc: lo que ha cambiado en tu consulta médica desde enero de 2026",
+        description: 'Tardoc: lo que ha cambiado en tu consulta médica desde enero de 2026...',
+        keywords: "vivir, guia suiza, vida suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "tardoc-lo-que-ha-cambiado-en-tu-consulta-m-dica-desde-enero-de-2026",
+        readingTime: 2,
+        dateUpdated: "2026-04-17",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>Desde el 1 de enero de 2026, cada vez que vas al médico en Suiza, la factura que llega a tu aseguradora ya no se calcula con el viejo sistema Tarmed. Lo que ha entrado en vigor se llama Tardoc, junto con una serie de tarifas planas para determinadas prestaciones ambulatorias. El cambio puede parecer técnico, pero afecta a todo el mundo.
+
+El sistema Tarmed llevaba vigente desde 2004 y estaba pensado para una medicina que ya no existe. En más de veinte años, ni la lista de prestaciones ni los tiempos reconocidos se habían actualizado de forma seria. Un médico de familia, por ejemplo, tenía dificultades para justificar la duración real de una consulta complicada. Tardoc intenta corregir esto: factura de forma más precisa la duración efectiva de la consulta y reconoce mejor las especificidades de la medicina general y de familia.
+
+Para el paciente, el cambio no debería traducirse en facturas más altas. El Consejo Federal lo aprobó precisamente con la condición de que el nuevo sistema no generara un aumento de costes. Lo que sí cambia en 2026 es que algunas vacunas ya no dependen de que hayas agotado tu franquicia: el seguro obligatorio (LAMal) las cubre directamente, independientemente del nivel de franquicia elegido. También se reembolsan ahora ciertas aplicaciones digitales de salud, como las de apoyo al tratamiento de la depresión. No es una revolución, pero es un paso. Después de 22 años sin tocar el sistema de tarifas, lo sorprendente es que haya tardado tanto.
+
+---</p>
+</div>`
+    },
+    "el-permiso-c-cinco-a-os-despu-s-hay-algo-que-pedir": {
+        title: "El permiso C: cinco años después, hay algo que pedir",
+        description: 'El permiso C: cinco años después, hay algo que pedir...',
+        keywords: "tramites, guia suiza, vida suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "el-permiso-c-cinco-a-os-despu-s-hay-algo-que-pedir",
+        readingTime: 2,
+        dateUpdated: "2026-04-17",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>Hay una pregunta que aparece con regularidad en los grupos: "¿Cuántos años tengo que llevar aquí para tener el permiso C?" La respuesta corta es cinco años si eres ciudadano de la UE, como lo son los españoles. Pero la respuesta útil es algo más larga.
+
+El permiso C, también llamado permiso de establecimiento, es el que otorga residencia de duración indeterminada en Suiza. No se renueva cada año ni cada cinco años: una vez obtenido, se emite sin límite de tiempo, aunque hay que actualizar los datos de residencia si cambias de cantón. La diferencia práctica respecto al permiso B es significativa: con el C tienes más libertad para cambiar de empleador sin notificaciones adicionales, puedes solicitar la reunificación familiar en mejores condiciones y accedes a determinadas prestaciones sociales con menos restricciones.
+
+Para solicitarlo, además de los cinco años de residencia continuada, las autoridades verifican que estás integrado: sin deudas con la administración, sin antecedentes penales relevantes, con conocimientos básicos del idioma local y sin haber dependido de la asistencia social de forma significativa durante el periodo previo. El nivel de lengua exigido es modesto (A2 escrito, B1 oral), aunque hay cantones que aplican criterios más estrictos en la práctica. Lo que mucha gente no sabe es que el C no se obtiene automáticamente al cumplir los cinco años: hay que pedirlo. Si no lo solicitas, sigues renovando el B indefinidamente. Y con el B, un período prolongado de desempleo o cualquier problema serio con la administración puede complicar la renovación. El permiso C da estabilidad real. Vale la pena tramitarlo en cuanto se cumplan los requisitos.
+
+---</p>
+</div>`
+    },
+    "si-pierdes-el-trabajo-en-suiza-esto-es-lo-que-debes-saber-desde-el-primer-d-a": {
+        title: "Si pierdes el trabajo en Suiza, esto es lo que debes saber desde el primer día",
+        description: 'Si pierdes el trabajo en Suiza, esto es lo que debes saber desde el primer día...',
+        keywords: "trabajo, guia suiza, vida suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "si-pierdes-el-trabajo-en-suiza-esto-es-lo-que-debes-saber-desde-el-primer-d-a",
+        readingTime: 2,
+        dateUpdated: "2026-04-17",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>El desempleo en Suiza ha estado creciendo desde mediados de 2024. En diciembre de 2025 alcanzó el 3,1%, y la SECO prevé que siga subiendo moderadamente en 2026. No es una crisis, pero tampoco es el mercado laboral invulnerable de hace unos años. Los extranjeros, incluidos los españoles, son estadísticamente más afectados que los ciudadanos suizos.
+
+Si pierdes el trabajo en Suiza, tienes derecho a prestaciones de desempleo siempre que hayas cotizado al menos 12 meses en los dos años anteriores a quedarte sin empleo. El proceso se inicia inscribiéndose en la caja de desempleo (Caisse de chômage, o RAV en los cantones germanófonos) del cantón de residencia durante los primeros días tras la pérdida del empleo. No hay que esperar semanas para hacer el trámite: cada día que tardas puede ser un día que no cobras. La prestación cubre entre el 70% y el 80% del salario asegurado, durante un máximo de entre 260 y 520 días según los años cotizados y la situación familiar.
+
+Un detalle que muy poca gente conoce: si has trabajado y cotizado en España antes de venir a Suiza, esos meses pueden computar para acceder al desempleo suizo, gracias al convenio de coordinación de seguridad social entre los dos países. No es automático, hay que demostrarlo con documentación, pero existe y puede marcar la diferencia para alguien que lleva menos de dos años aquí. Para los que llevan poco tiempo en Suiza y no han cotizado suficiente, el derecho puede ser parcial o inexistente, lo que convierte los primeros años en el período de mayor vulnerabilidad. Saberlo de antemano permite tomar precauciones: un fondo de reserva equivalente a tres o cuatro meses de gastos es lo mínimo razonable cuando se lleva menos de un año en el país.</p>
+</div>`
+    },
+    "el-fin-de-la-penalizaci-n-fiscal-al-matrimonio-en-suiza-lo-que-cambia-y-cu-ndo": {
+        title: "El fin de la \"penalización fiscal\" al matrimonio en Suiza: lo que cambia y cuándo",
+        description: 'El fin de la \"penalización fiscal\" al matrimonio en Suiza: lo que cambia y cuándo...',
+        keywords: "vivir, guia suiza, vida suiza",
+        category: "Vivir en Suiza",
+        hub: "vivir",
+        slug: "el-fin-de-la-penalizaci-n-fiscal-al-matrimonio-en-suiza-lo-que-cambia-y-cu-ndo",
+        readingTime: 2,
+        dateUpdated: "2026-04-18",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>El 8 de marzo de 2026, los suizos aprobaron por el 54,26% la ley federal sobre la tributación individual. En la práctica, significa el fin de décadas de un sistema que penalizaba fiscalmente a las parejas casadas respecto a quienes convivían sin casarse. A partir de ahora, cada cónyuge declarará y tributará por sus propios ingresos y patrimonio, exactamente como si fuera soltero. La reforma no entra en vigor mañana, sino como máximo en 2032, lo que deja tiempo a la administración para adaptarse a 1,7 millones de declaraciones adicionales.
+
+El impacto no es igual para todos. Cerca de la mitad de los matrimonios verán reducida su carga fiscal de forma directa. Un tercio aproximado no notará diferencias significativas. Y una minoría, concretamente las parejas con una gran diferencia de ingresos entre los dos cónyuges, podría incluso pagar algo más. Si tienes dudas sobre cuál es tu caso, la mejor opción es hacer una simulación con los datos reales de vuestra declaración conjunta actual.
+
+Lo que no debe perderse de vista es el argumento detrás de la reforma: el sistema anterior desincentivaba que las mujeres trabajaran a tiempo completo, ya que sus ingresos se sumaban al del cónyuge y el tipo impositivo resultante podía ser muy superior al de un soltero con ingresos equivalentes. Con la tributación individual, ese efecto desaparece. El Consejo Federal estima que la medida podría incorporar hasta 60.000 personas adicionales al mercado laboral. Hay que recordar que esta ley afecta al impuesto federal directo, pero los cantones tienen sus propios sistemas fiscales, y muchos ya habían adoptado o están en proceso de adoptar la tributación individual a nivel cantonal con calendarios propios.
+
+---</p>
+</div>`
+    },
+    "el-taux-de-r-f-rence-se-mantiene-en-1-25-ni-bajas-de-alquiler-ni-subidas-para-los-inquilinos-suizos": {
+        title: "El taux de référence se mantiene en 1,25%: ni bajas de alquiler ni subidas para los inquilinos suizos",
+        description: 'El taux de référence se mantiene en 1,25%: ni bajas de alquiler ni subidas para los inquilinos suizo...',
+        keywords: "vivienda, guia suiza, vida suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "el-taux-de-r-f-rence-se-mantiene-en-1-25-ni-bajas-de-alquiler-ni-subidas-para-los-inquilinos-suizos",
+        readingTime: 2,
+        dateUpdated: "2026-04-18",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>En marzo de 2026, el Bundesamt für Wohnungswesen (BWO) confirmó que el taux hypothécaire de référence, el indicador que en Suiza regula la posibilidad de modificar los alquileres, se mantiene en el 1,25%. La noticia tiene una lectura doble. Por un lado, los propietarios no pueden exigir subidas de alquiler basándose en este índice. Por el otro, y aunque parezca una buena noticia para los inquilinos, tampoco tienen derecho a reclamar una bajada.
+
+El mecanismo funciona así: el taux de référence cambia solo cuando el promedio ponderado de las hipotecas en vigor supera ciertos umbrales. En este momento ese promedio está en el 1,32%, y para que el índice baje haría falta caer por debajo del 1,13%. Es decir, hay margen, pero no el suficiente. Las previsiones para lo que queda de 2026 no anticipan ningún cambio. Quien alquile en Suiza con un contrato basado en este indicador puede estar razonablemente tranquilo respecto a variaciones a corto plazo, aunque eso no significa que los alquileres no suban: los propietarios tienen otros argumentos legales para ajustar precios, como la evolución del coste de vida o las mejoras en el inmueble.
+
+Desde el punto de vista práctico, si en los últimos años tu propietario subió el alquiler justificándolo en un taux de référence más alto, y ese índice ha bajado desde entonces, técnicamente tienes derecho a solicitar una reducción. El procedimiento es formal: hay que enviar una carta certificada con los datos de referencia. Si tu arrendador subió el alquiler en plena escalada del taux y no le has pedido la corrección, conviene revisar los números porque puede quedar margen legal para recuperar algo.
+
+---</p>
+</div>`
+    },
+    "las-subvenciones-a-las-primas-del-seguro-m-dico-un-dinero-al-que-muchos-tienen-derecho-y-no-piden": {
+        title: "Las subvenciones a las primas del seguro médico: un dinero al que muchos tienen derecho y no piden",
+        description: 'Las subvenciones a las primas del seguro médico: un dinero al que muchos tienen derecho y no piden...',
+        keywords: "tramites, guia suiza, vida suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "las-subvenciones-a-las-primas-del-seguro-m-dico-un-dinero-al-que-muchos-tienen-derecho-y-no-piden",
+        readingTime: 2,
+        dateUpdated: "2026-04-18",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>Las primas del seguro de enfermedad en Suiza subieron entre un 4% y un 15% según el cantón en 2026, con casos llamativos como Nidwald (+15%) o Zug (+11%). Lo que mucha gente no sabe es que existe un sistema de ayudas cantonales para reducir el coste, las llamadas "Prämienverbilligung" (IPT, en francés), y que una parte significativa de los residentes que tendrían derecho a ellas simplemente no las solicitan, ya sea por desconocimiento o por creer que son solo para personas en situación de precariedad.
+
+El funcionamiento depende de cada cantón, lo que en Suiza es la norma. En algunos, el subsidio se calcula y aplica automáticamente a partir de tu declaración fiscal. En otros, hay que solicitarlo activamente dentro de un plazo determinado. Los criterios también varían: en general, se tiene en cuenta el nivel de ingresos, la composición del hogar y a veces el patrimonio. En el cantón de Vaud, por ejemplo, las familias con hijos a cargo o con ingresos moderados pueden recibir reducciones sustanciales. En Zurich, el umbral de acceso es más restrictivo, pero existe igualmente.
+
+El primer paso, y el más sencillo, es consultar el portal del cantón de residencia o el sitio federal bag.admin.ch, donde está la información actualizada y los enlaces a los formularios cantonales. Si llevas años en Suiza, trabajas, tienes hijos en el sistema escolar y nunca has solicitado esta ayuda, es muy posible que no la necesites, pero también puede que hayas dejado escapar dinero año tras año. Cuesta unos minutos verificarlo, y el resultado puede ser una reducción de varios cientos de francos anuales.</p>
+</div>`
+    },
+    "la-regla-de-los-90-d-as-en-suiza-lo-que-confunde-a-muchos-espa-oles": {
+        title: "La regla de los 90 días en Suiza: lo que confunde a muchos españoles",
+        description: 'La regla de los 90 días en Suiza: lo que confunde a muchos españoles...',
+        keywords: "tramites, guia suiza, vida suiza",
+        category: "Trámites Ordinarios",
+        hub: "tramites",
+        slug: "la-regla-de-los-90-d-as-en-suiza-lo-que-confunde-a-muchos-espa-oles",
+        readingTime: 2,
+        dateUpdated: "2026-04-19",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>Hay un malentendido que reaparece constantemente en el grupo y que vale la pena aclarar de una vez. Los ciudadanos españoles pueden entrar en Suiza sin visado y sin ningún permiso previo. Hasta ahí, todo correcto. Pero eso no significa que puedan instalarse o ponerse a trabajar sin más trámite simplemente porque tengan pasaporte europeo.
+
+La clave está en la intención de la estancia. Si llegas con una maleta, un contrato en el bolsillo y sin domicilio registrado, el agente de frontera puede hacerte preguntas. Y si queda claro que vienes a quedarte más de 90 días o a trabajar sin haber gestionado nada previamente, tiene base legal para rechazarte la entrada. No es frecuente, pero ocurre. La libre circulación no es un salvoconducto ilimitado, es un marco que obliga a cumplir los pasos administrativos correspondientes.
+
+Lo que exige Suiza para estancias superiores a tres meses es concreto: un contrato de trabajo firmado con una empresa establecida en el país y una dirección de residencia donde registrarse. Sin esos dos elementos, no hay base para solicitar el permiso de residencia, y sin permiso no se puede regularizar la situación. El proceso se gestiona ante la commune (municipio) y hay plazos que respetar, generalmente dentro de los primeros 14 días de llegada.
+
+Hay un elemento adicional que empieza a circular y que conviene conocer: el ETIAS, previsto para finales de 2026. Aunque Suiza no es país de la UE, pertenece al espacio Schengen, y el ETIAS afectará a los ciudadanos europeos que quieran viajar a países asociados. Para residir y trabajar en Suiza este trámite no cambia nada en el fondo, pero para quien planee una estancia corta de turismo, habrá que tramitarlo de antemano. Aún está por ver el calendario exacto de implantación.
+
+---</p>
+</div>`
+    },
+    "encontrar-piso-en-suiza-en-2026-bienvenido-al-deporte-m-s-frustrante-del-pa-s": {
+        title: "Encontrar piso en Suiza en 2026: bienvenido al deporte más frustrante del país",
+        description: 'Encontrar piso en Suiza en 2026: bienvenido al deporte más frustrante del país...',
+        keywords: "vivienda, guia suiza, vida suiza",
+        category: "Vivienda y Alquiler",
+        hub: "vivienda",
+        slug: "encontrar-piso-en-suiza-en-2026-bienvenido-al-deporte-m-s-frustrante-del-pa-s",
+        readingTime: 2,
+        dateUpdated: "2026-04-19",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>Si algo une a casi todos los que llevamos tiempo en Suiza es la experiencia de buscar piso. Da igual que hables cuatro idiomas, tengas un salario decente y referencias impecables: el mercado de alquiler sigue siendo uno de los más tensos de Europa y en 2026 no ha mejorado. La tasa de vacancia de viviendas, es decir el porcentaje de pisos disponibles sobre el total, se sitúa en niveles históricamente bajos, especialmente en las grandes ciudades. En Zúrich y Ginebra encontrar un piso de alquiler en condiciones razonables es una prueba de resistencia psicológica más que un proceso racional.
+
+La demanda supera con claridad a la oferta y los precios llevan años subiendo sin pausas significativas. Un piso de tres habitaciones en una ciudad media como Berna, Lausana o Basilea puede rondar fácilmente los 2.000 a 2.500 francos mensuales. En Zúrich o Ginebra la cifra sube bastante más. A eso hay que sumar el depósito de garantía, que en Suiza puede llegar a tres meses de alquiler, el primer mes por adelantado y, en muchos casos, la necesidad de justificar ingresos que tripliquen el alquiler mensual.
+
+Lo que muchos recién llegados no calculan es el tiempo. Encontrar un piso en condiciones puede llevar meses, y en ese periodo hay que tener previstas soluciones intermedias: habitaciones compartidas, sublets o alojamiento temporal. Las plataformas más utilizadas son Homegate, ImmoScout24 y Comparis, aunque para los mejores pisos en ciudades tensionadas conviene también revisar los tablones de anuncios de los grandes propietarios institucionales como Losinger Marazzi, Implenia o las cooperativas de vivienda, que no siempre publican en los portales habituales. Y sí, estar apuntado en las listas de espera de las cooperativas puede tener sentido si piensas quedarte a largo plazo, aunque la espera se puede medir en años.
+
+---</p>
+</div>`
+    },
+    "suiza-no-tiene-salario-m-nimo-nacional-pero-eso-no-significa-que-no-haya-suelo-salarial": {
+        title: "Suiza no tiene salario mínimo nacional, pero eso no significa que no haya suelo salarial",
+        description: 'Suiza no tiene salario mínimo nacional, pero eso no significa que no haya suelo salarial...',
+        keywords: "trabajo, guia suiza, vida suiza",
+        category: "Trabajo y Empleo",
+        hub: "trabajo",
+        slug: "suiza-no-tiene-salario-m-nimo-nacional-pero-eso-no-significa-que-no-haya-suelo-salarial",
+        readingTime: 2,
+        dateUpdated: "2026-04-19",
+        summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
+        content: `<div class="article-content">
+<p>Es uno de esos temas que genera confusión desde el primer día. Técnicamente, Suiza no tiene un salario mínimo fijado a nivel federal. Pero decir que "en Suiza no hay salario mínimo" es simplificar hasta el punto de desinformar, porque en la práctica sí existen suelos salariales bien definidos, solo que funcionan de manera diferente a lo que conocemos en España.
+
+El mecanismo principal son los convenios colectivos de trabajo, llamados CCT (Contrats Collectifs de Travail en francés o GAV en alemán). Son acuerdos negociados entre sindicatos y asociaciones patronales que fijan salarios mínimos por sector. La hostelería, la construcción, el comercio, la limpieza, la relojería, el sector sanitario, la seguridad... prácticamente todos los sectores donde se concentra la mano de obra extranjera tienen CCT activos. Trabajar por debajo de esos mínimos es ilegal, y las inspecciones laborales son reales y tienen consecuencias.
+
+A eso se añade que varios cantones han introducido su propio salario mínimo cantonal por ley. Ginebra lidera con 24,59 francos por hora en 2026, lo que equivale a más de 4.400 francos brutos mensuales a tiempo completo. Neuchâtel, el Jura, el Tesino y Basilea-Ciudad también tienen sus propios mínimos. Cuando vayas a negociar un salario o evaluar una oferta, lo primero que debes comprobar es si hay un CCT aplicable a tu sector en el cantón donde vas a trabajar. Esa cifra es tu referencia real, no lo que te quieran ofrecer.</p>
+</div>`
+    }
 };
