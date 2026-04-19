@@ -525,6 +525,7 @@ window.siteContent.es.pages = {
                     spainTitle: "Espana en Suiza",
                     spainDesc: "Consulados espanoles para tramites de pasaporte, partidas, empadronamiento consular y documentacion.",
                     spainGuide: "Guia completa de consulados",
+                    exterioresTitle: "Ministerio de Asuntos Exteriores",
                     exterioresDesc: "Gobierno de Espana. Informacion consular, tramites en el exterior, ciudadania y viajes.",
                     exterioresCta: "Abrir Exteriores.gob.es",
                     cantonsDesc: "En Suiza, los tramites dependen del canton: permisos, impuestos, escuelas y registro civil los gestiona cada canton por separado. Selecciona el tuyo para acceder directamente a sus servicios.",
@@ -582,6 +583,7 @@ window.siteContent.es.pages = {
                     spainTitle: "Spain in Switzerland",
                     spainDesc: "Spanish consulates for passports, certificates, consular registration, and documentation.",
                     spainGuide: "Full consulate guide",
+                    exterioresTitle: "Ministry of Foreign Affairs",
                     exterioresDesc: "Government of Spain. Consular information, procedures abroad, citizenship, and travel.",
                     exterioresCta: "Open Exteriores.gob.es",
                     cantonsDesc: "In Switzerland, many procedures depend on the canton: permits, taxes, schools, and civil registry are handled separately by each canton. Choose yours to access its services directly.",
@@ -639,6 +641,7 @@ window.siteContent.es.pages = {
                     spainTitle: "L'Espagne en Suisse",
                     spainDesc: "Consulats d'Espagne pour les passeports, actes d'état civil, inscription consulaire et documentation.",
                     spainGuide: "Guide complet des consulats",
+                    exterioresTitle: "Ministère des Affaires étrangères",
                     exterioresDesc: "Gouvernement d'Espagne. Informations consulaires, démarches à l'étranger, citoyenneté et voyages.",
                     exterioresCta: "Ouvrir exteriores.gob.es",
                     cantonsDesc: "En Suisse, de nombreuses démarches dépendent du canton : permis, impôts, écoles et état civil sont gérés séparément par chaque canton. Sélectionnez le vôtre pour accéder directement à ses services.",
@@ -696,6 +699,7 @@ window.siteContent.es.pages = {
                     spainTitle: "Spanien in der Schweiz",
                     spainDesc: "Spanische Konsulate für Pässe, Urkunden, konsularische Anmeldung und Dokumentation.",
                     spainGuide: "Vollständiger Konsulatsleitfaden",
+                    exterioresTitle: "Ministerium für Auswärtige Angelegenheiten",
                     exterioresDesc: "Regierung Spaniens. Konsularische Informationen, Verfahren im Ausland, Staatsangehörigkeit und Reisen.",
                     exterioresCta: "Exteriores.gob.es öffnen",
                     cantonsDesc: "In der Schweiz hängen viele Verfahren vom Kanton ab: Bewilligungen, Steuern, Schulen und Zivilstandsregister werden von jedem Kanton separat verwaltet. Wählen Sie Ihren Kanton, um direkt auf seine Dienste zuzugreifen.",
@@ -753,6 +757,7 @@ window.siteContent.es.pages = {
                     spainTitle: "Spagna in Svizzera",
                     spainDesc: "Consolati spagnoli per passaporti, certificati, iscrizione consolare e documentazione.",
                     spainGuide: "Guida completa ai consolati",
+                    exterioresTitle: "Ministero degli Affari Esteri",
                     exterioresDesc: "Governo della Spagna. Informazioni consolari, pratiche all'estero, cittadinanza e viaggi.",
                     exterioresCta: "Apri Exteriores.gob.es",
                     cantonsDesc: "In Svizzera molte pratiche dipendono dal cantone: permessi, imposte, scuole e stato civile sono gestiti separatamente da ciascun cantone. Seleziona il tuo per accedere direttamente ai servizi.",
@@ -771,6 +776,102 @@ window.siteContent.es.pages = {
                 }
             };
             const copy = resourcesCopy[currentLang] || resourcesCopy.es;
+            const resourcesLinks = {
+                es: {
+                    ch: "https://www.ch.ch/es",
+                    sem: "https://www.sem.admin.ch/sem/es/home.html",
+                    bfs: "https://www.bfs.admin.ch/bfs/es/home.html",
+                    estv: "https://www.estv.admin.ch/estv/es/home.html",
+                    bsv: "https://www.bsv.admin.ch/bsv/es/home.html",
+                    bag: "https://www.bag.admin.ch/bag/es/home.html",
+                    priminfo: "https://www.priminfo.admin.ch/es/praemien",
+                    travail: "https://www.travail.swiss/es",
+                    sefri: "https://www.sefri.admin.ch/sefri/es/home.html",
+                    sbb: "https://www.sbb.ch/es",
+                    post: "https://www.post.ch/es"
+                },
+                en: {
+                    ch: "https://www.ch.ch/en",
+                    sem: "https://www.sem.admin.ch/sem/en/home.html",
+                    bfs: "https://www.bfs.admin.ch/bfs/en/home.html",
+                    estv: "https://www.estv.admin.ch/estv/en/home.html",
+                    bsv: "https://www.bsv.admin.ch/bsv/en/home.html",
+                    bag: "https://www.bag.admin.ch/bag/en/home.html",
+                    priminfo: "https://www.priminfo.admin.ch/en/premiums",
+                    travail: "https://www.travail.swiss/en",
+                    sefri: "https://www.sefri.admin.ch/sefri/en/home.html",
+                    sbb: "https://www.sbb.ch/en",
+                    post: "https://www.post.ch/en"
+                },
+                fr: {
+                    ch: "https://www.ch.ch/fr",
+                    sem: "https://www.sem.admin.ch/sem/fr/home.html",
+                    bfs: "https://www.bfs.admin.ch/bfs/fr/home.html",
+                    estv: "https://www.estv.admin.ch/estv/fr/home.html",
+                    bsv: "https://www.bsv.admin.ch/bsv/fr/home.html",
+                    bag: "https://www.bag.admin.ch/bag/fr/home.html",
+                    priminfo: "https://www.priminfo.admin.ch/fr/primes",
+                    travail: "https://www.travail.swiss/fr",
+                    sefri: "https://www.sefri.admin.ch/sefri/fr/home.html",
+                    sbb: "https://www.sbb.ch/fr",
+                    post: "https://www.post.ch/fr"
+                },
+                de: {
+                    ch: "https://www.ch.ch/de",
+                    sem: "https://www.sem.admin.ch/sem/de/home.html",
+                    bfs: "https://www.bfs.admin.ch/bfs/de/home.html",
+                    estv: "https://www.estv.admin.ch/estv/de/home.html",
+                    bsv: "https://www.bsv.admin.ch/bsv/de/home.html",
+                    bag: "https://www.bag.admin.ch/bag/de/home.html",
+                    priminfo: "https://www.priminfo.admin.ch/de/praemien",
+                    travail: "https://www.travail.swiss/de",
+                    sefri: "https://www.sefri.admin.ch/sefri/de/home.html",
+                    sbb: "https://www.sbb.ch/de",
+                    post: "https://www.post.ch/de"
+                },
+                it: {
+                    ch: "https://www.ch.ch/it",
+                    sem: "https://www.sem.admin.ch/sem/it/home.html",
+                    bfs: "https://www.bfs.admin.ch/bfs/it/home.html",
+                    estv: "https://www.estv.admin.ch/estv/it/home.html",
+                    bsv: "https://www.bsv.admin.ch/bsv/it/home.html",
+                    bag: "https://www.bag.admin.ch/bag/it/home.html",
+                    priminfo: "https://www.priminfo.admin.ch/it/premi",
+                    travail: "https://www.travail.swiss/it",
+                    sefri: "https://www.sefri.admin.ch/sefri/it/home.html",
+                    sbb: "https://www.sbb.ch/it",
+                    post: "https://www.post.ch/it"
+                }
+            };
+            const resourcesCantons = [
+                { href: "https://www.ag.ch", code: "AG", labels: { es: "Argovia", en: "Aargau", fr: "Argovie", de: "Aargau", it: "Argovia" } },
+                { href: "https://www.ai.ch", code: "AI", labels: { es: "Appenzell I.Rh.", en: "Appenzell Innerrhoden", fr: "Appenzell Rhodes-Intérieures", de: "Appenzell Innerrhoden", it: "Appenzello Interno" } },
+                { href: "https://www.ar.ch", code: "AR", labels: { es: "Appenzell A.Rh.", en: "Appenzell Ausserrhoden", fr: "Appenzell Rhodes-Extérieures", de: "Appenzell Ausserrhoden", it: "Appenzello Esterno" } },
+                { href: "https://www.bs.ch", code: "BS", labels: { es: "Basilea-Ciudad", en: "Basel-Stadt", fr: "Bâle-Ville", de: "Basel-Stadt", it: "Basilea Città" } },
+                { href: "https://www.bl.ch", code: "BL", labels: { es: "Basilea-Campo", en: "Basel-Landschaft", fr: "Bâle-Campagne", de: "Basel-Landschaft", it: "Basilea Campagna" } },
+                { href: "https://www.be.ch", code: "BE", labels: { es: "Berna", en: "Bern", fr: "Berne", de: "Bern", it: "Berna" } },
+                { href: "https://www.fr.ch", code: "FR", labels: { es: "Friburgo", en: "Fribourg", fr: "Fribourg", de: "Freiburg", it: "Friburgo" } },
+                { href: "https://www.ge.ch", code: "GE", labels: { es: "Ginebra", en: "Geneva", fr: "Genève", de: "Genf", it: "Ginevra" } },
+                { href: "https://www.gl.ch", code: "GL", labels: { es: "Glaris", en: "Glarus", fr: "Glaris", de: "Glarus", it: "Glarona" } },
+                { href: "https://www.gr.ch", code: "GR", labels: { es: "Grisones", en: "Graubünden", fr: "Grisons", de: "Graubünden", it: "Grigioni" } },
+                { href: "https://www.jura.ch", code: "JU", labels: { es: "Jura", en: "Jura", fr: "Jura", de: "Jura", it: "Giura" } },
+                { href: "https://www.lu.ch", code: "LU", labels: { es: "Lucerna", en: "Lucerne", fr: "Lucerne", de: "Luzern", it: "Lucerna" } },
+                { href: "https://www.ne.ch", code: "NE", labels: { es: "Neuchatel", en: "Neuchâtel", fr: "Neuchâtel", de: "Neuenburg", it: "Neuchâtel" } },
+                { href: "https://www.nw.ch", code: "NW", labels: { es: "Nidwalden", en: "Nidwalden", fr: "Nidwald", de: "Nidwalden", it: "Nidvaldo" } },
+                { href: "https://www.ow.ch", code: "OW", labels: { es: "Obwalden", en: "Obwalden", fr: "Obwald", de: "Obwalden", it: "Obvaldo" } },
+                { href: "https://www.sh.ch", code: "SH", labels: { es: "Schaffhausen", en: "Schaffhausen", fr: "Schaffhouse", de: "Schaffhausen", it: "Sciaffusa" } },
+                { href: "https://www.sz.ch", code: "SZ", labels: { es: "Schwyz", en: "Schwyz", fr: "Schwyz", de: "Schwyz", it: "Svitto" } },
+                { href: "https://www.so.ch", code: "SO", labels: { es: "Solothurn", en: "Solothurn", fr: "Soleure", de: "Solothurn", it: "Soletta" } },
+                { href: "https://www.sg.ch", code: "SG", labels: { es: "San Galo", en: "St. Gallen", fr: "Saint-Gall", de: "St. Gallen", it: "San Gallo" } },
+                { href: "https://www.tg.ch", code: "TG", labels: { es: "Turgovia", en: "Thurgau", fr: "Thurgovie", de: "Thurgau", it: "Turgovia" } },
+                { href: "https://www.ti.ch", code: "TI", labels: { es: "Ticino", en: "Ticino", fr: "Tessin", de: "Tessin", it: "Ticino" } },
+                { href: "https://www.ur.ch", code: "UR", labels: { es: "Uri", en: "Uri", fr: "Uri", de: "Uri", it: "Uri" } },
+                { href: "https://www.vs.ch", code: "VS", labels: { es: "Valais / Wallis", en: "Valais / Wallis", fr: "Valais", de: "Wallis", it: "Vallese" } },
+                { href: "https://www.vd.ch", code: "VD", labels: { es: "Vaud", en: "Vaud", fr: "Vaud", de: "Waadt", it: "Vaud" } },
+                { href: "https://www.zg.ch", code: "ZG", labels: { es: "Zug", en: "Zug", fr: "Zoug", de: "Zug", it: "Zugo" } },
+                { href: "https://www.zh.ch", code: "ZH", labels: { es: "Zurich", en: "Zurich", fr: "Zurich", de: "Zürich", it: "Zurigo" } }
+            ];
+            const linkSet = resourcesLinks[currentLang] || resourcesLinks.es;
             const formatConsulateDetails = (details) => {
                 const raw = String(details || "");
                 const parts = raw.split(" \u00b7 ").map(s => s.trim()).filter(Boolean);
@@ -789,6 +890,10 @@ window.siteContent.es.pages = {
             const sectionStyle = 'margin-top: var(--space-xl); padding-top: var(--space-lg); border-top: 1px solid var(--border-light);';
             const sectionTitleStyle = 'margin-top:0; margin-bottom:0.4rem; font-size:1.35rem;';
             const sectionDescStyle = 'color:var(--text-secondary); margin-bottom:1.5rem; font-size:0.98rem;';
+            const cantonLinks = resourcesCantons.map((canton) => {
+                const label = canton.labels[currentLang] || canton.labels.es;
+                return `<a href="${canton.href}" target="_blank" rel="noopener noreferrer" class="canton-link">${label} (${canton.code})</a>`;
+            }).join("");
             return `
             <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
@@ -807,22 +912,22 @@ window.siteContent.es.pages = {
                     <div class="card-hub">
                         <h3>ch.ch ${badgeOficial}</h3>
                         <p>${copy.chDesc}</p>
-                        <a href="https://www.ch.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">${copy.chCta}</a>
+                        <a href="${linkSet.ch}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.chCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>SEM ${badgeOficial}</h3>
                         <p>${copy.semDesc}</p>
-                        <a href="https://www.sem.admin.ch/sem/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.semCta}</a>
+                        <a href="${linkSet.sem}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.semCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>BFS / OFS ${badgeOficial}</h3>
                         <p>${copy.bfsDesc}</p>
-                        <a href="https://www.bfs.admin.ch/bfs/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.bfsCta}</a>
+                        <a href="${linkSet.bfs}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.bfsCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>ESTV / AFC ${badgeOficial}</h3>
                         <p>${copy.estvDesc}</p>
-                        <a href="https://www.estv.admin.ch/estv/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.estvCta}</a>
+                        <a href="${linkSet.estv}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.estvCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>SECO ${badgeOficial}</h3>
@@ -832,12 +937,12 @@ window.siteContent.es.pages = {
                     <div class="card-hub">
                         <h3>BSV / OFAS ${badgeOficial}</h3>
                         <p>${copy.bsvDesc}</p>
-                        <a href="https://www.bsv.admin.ch/bsv/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.bsvCta}</a>
+                        <a href="${linkSet.bsv}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.bsvCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>BAG / OFSP ${badgeOficial}</h3>
                         <p>${copy.bagDesc}</p>
-                        <a href="https://www.bag.admin.ch/bag/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.bagCta}</a>
+                        <a href="${linkSet.bag}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.bagCta}</a>
                     </div>
                 </div>
             </section>
@@ -850,7 +955,7 @@ window.siteContent.es.pages = {
                     <div class="card-hub" style="border-color: #2e7d32; border-width: 2px;">
                         <h3>priminfo.admin.ch ${badgeOficial}</h3>
                         <p><strong>${copy.priminfoDesc}</strong></p>
-                        <a href="https://www.priminfo.admin.ch/es/praemien" target="_blank" rel="noopener noreferrer" class="read-more">${copy.priminfoCta}</a>
+                        <a href="${linkSet.priminfo}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.priminfoCta}</a>
                     </div>
                 </div>
             </section>
@@ -863,12 +968,12 @@ window.siteContent.es.pages = {
                     <div class="card-hub">
                         <h3>travail.swiss ${badgeOficial}</h3>
                         <p>${copy.travailDesc}</p>
-                        <a href="https://www.travail.swiss/es" target="_blank" rel="noopener noreferrer" class="read-more">${copy.travailCta}</a>
+                        <a href="${linkSet.travail}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.travailCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>SEFRI / SERI ${badgeOficial}</h3>
                         <p>${copy.sefriDesc}</p>
-                        <a href="https://www.sefri.admin.ch/sefri/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.sefriCta}</a>
+                        <a href="${linkSet.sefri}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.sefriCta}</a>
                     </div>
                 </div>
             </section>
@@ -881,12 +986,12 @@ window.siteContent.es.pages = {
                     <div class="card-hub">
                         <h3>SBB / CFF ${badgeOficial}</h3>
                         <p>${copy.sbbDesc}</p>
-                        <a href="https://www.sbb.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">${copy.sbbCta}</a>
+                        <a href="${linkSet.sbb}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.sbbCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>Post / La Poste ${badgeOficial}</h3>
                         <p>${copy.postDesc}</p>
-                        <a href="https://www.post.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">${copy.postCta}</a>
+                        <a href="${linkSet.post}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.postCta}</a>
                     </div>
                 </div>
             </section>
@@ -915,7 +1020,7 @@ window.siteContent.es.pages = {
                         <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="read-more">${ui['rec-official-portal']}</a>
                     </div>
                     <div class="card-hub">
-                        <h3>Ministerio de Asuntos Exteriores ${badgeOficial}</h3>
+                        <h3>${copy.exterioresTitle} ${badgeOficial}</h3>
                         <p>${copy.exterioresDesc}</p>
                         <a href="https://www.exteriores.gob.es" target="_blank" rel="noopener noreferrer" class="read-more">${copy.exterioresCta}</a>
                     </div>
@@ -930,32 +1035,7 @@ window.siteContent.es.pages = {
                     <strong>${copy.cantonsExampleTitle}</strong> ${copy.cantonsExampleBody.replace("OCPM", '<a href="https://www.ge.ch/organisation/office-cantonal-population-migrations" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">OCPM</a>').replace("ge.ch/assurance-maladie", '<a href="https://www.ge.ch/assurance-maladie" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">ge.ch/assurance-maladie</a>')}.
                 </div>
                 <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem;">
-                    <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovia (AG)</a>
-                    <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell I.Rh. (AI)</a>
-                    <a href="https://www.ar.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell A.Rh. (AR)</a>
-                    <a href="https://www.bs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Ciudad (BS)</a>
-                    <a href="https://www.bl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Campo (BL)</a>
-                    <a href="https://www.be.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Berna (BE)</a>
-                    <a href="https://www.fr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Friburgo (FR)</a>
-                    <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ginebra (GE)</a>
-                    <a href="https://www.gl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Glaris (GL)</a>
-                    <a href="https://www.gr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Grisones (GR)</a>
-                    <a href="https://www.jura.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Jura (JU)</a>
-                    <a href="https://www.lu.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Lucerna (LU)</a>
-                    <a href="https://www.ne.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Neuchatel (NE)</a>
-                    <a href="https://www.nw.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Nidwalden (NW)</a>
-                    <a href="https://www.ow.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Obwalden (OW)</a>
-                    <a href="https://www.sh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schaffhausen (SH)</a>
-                    <a href="https://www.sz.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schwyz (SZ)</a>
-                    <a href="https://www.so.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Solothurn (SO)</a>
-                    <a href="https://www.sg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">San Galo (SG)</a>
-                    <a href="https://www.tg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Turgovia (TG)</a>
-                    <a href="https://www.ti.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ticino (TI)</a>
-                    <a href="https://www.ur.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Uri (UR)</a>
-                    <a href="https://www.vs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Valais / Wallis (VS)</a>
-                    <a href="https://www.vd.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Vaud (VD)</a>
-                    <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zug (ZG)</a>
-                    <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zurich (ZH)</a>
+                    ${cantonLinks}
                 </div>
             </section>
 
