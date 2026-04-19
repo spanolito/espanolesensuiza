@@ -916,7 +916,7 @@ window.siteContent.en.articles = {
         hub: 'trabajo',
         slug: "job-search-switzerland-platforms",
         readingTime: 4,
-        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
+        featuredImage: "media/guides/buscar-empleo-heramientas.jpg",
         imageAlt: "A person searching for jobs in Switzerland on a laptop in a cafe with a view of Zurich while reviewing their CV",
         summary: "In Switzerland, a huge share of offers is published on local portals and in the language of the canton. Having a clear list of websites and adapting keywords often makes the difference.",
         content: `

@@ -975,7 +975,7 @@ window.siteContent.de.articles = {
         hub: 'trabajo',
         slug: "jobsuche-schweiz-plattformen",
         readingTime: 4,
-        featuredImage: "media/guides/buscar-empleo-suiza.jpg",
+        featuredImage: "media/guides/buscar-empleo-heramientas.jpg",
         imageAlt: "Eine person sucht auf einem Laptop in einem Café mit Blick auf Zürich nach Jobs in der Schweiz und prüft ihren Lebenslauf",
         summary: "In der Schweiz wird ein großer Teil der Angebote auf lokalen Portalen und in der Sprache des Kantons veröffentlicht. Eine klare Liste von Webseiten und die Anpassung von Stichworten machen oft den Unterschied.",
         content: `
