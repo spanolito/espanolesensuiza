@@ -24,6 +24,7 @@ __pycache__/
 
 # Gemini / AI tools
 .gemini/
+.translation-cache.json
 
 # OS files
 Thumbs.db

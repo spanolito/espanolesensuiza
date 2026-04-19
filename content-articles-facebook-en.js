@@ -1,6 +1,6 @@
 /**
  * content-articles-facebook-en.js
- * Auto-generated from docs/facebook-pipeline/articles_markdown (Facebook pipeline output).
+ * Auto-generated from Spanish source of truth.
  */
 
 window.siteContent = window.siteContent || {};
@@ -9,434 +9,448 @@ window.siteContent.en.articles = window.siteContent.en.articles || {};
 
 Object.assign(window.siteContent.en.articles, {
     "fb-alquilar-en-suiza-evitar-estafas": {
-        title: "Renting in Switzerland: applications, deposit and how to avoid scams",
-        description: "Practical guide: rental application dossier, contract, deposits and common scam signals. For newcomers renting a flat in Switzerland.",
-        keywords: "rent switzerland, rental deposit switzerland, rental scam switzerland, tenant association",
+        title: "Renting in Switzerland: steps, dossier, deposit and how to avoid scams",
+        description: "Guide to renting an apartment in Switzerland: how to prepare the dossier, contract, deposit/deposit and signs of scam (rental). Tips for newcomers.",
+        keywords: "rent switzerland, rent switzerland, swiss deposit, asloca, switzerland rental scam",
         keywordsLocalized: true,
-        category: "Housing",
-        hub: "housing",
+        category: "Dwelling",
+        hub: "vivienda",
         slug: "renting-in-switzerland-avoid-scams",
-        readingTime: 4,
-        dateUpdated: "March 2026",
-        summary: "Practical guide: rental application dossier, contract, deposits and common scam signals. For newcomers renting a flat in Switzerland.",
+        readingTime: 5,
+        dateUpdated: "Marzo 2026",
+        summary: "Guide to renting an apartment in Switzerland: how to prepare the dossier, contract, deposit/deposit and signs of scam (rental). Tips for newcomers.",
         featuredImage: "media/guides/alquilar-en-suiza-evitar-estafas.jpg",
-        imageAlt: "Rental apartment in Switzerland with keys and lease contract",
+        imageAlt: "A set of house keys on a wooden table with a Swiss rental contract in the background",
         relatedSlugs: [],
         content: `<div class="article-content">
-            <h2>Introduction</h2>
-<p>Renting a flat in Switzerland is often more “administrative” than newcomers expect. It’s not just “see an ad and sign”: there can be a lot of competition, a standard application <strong>dossier</strong>, and (in parallel) a real risk of <strong>rental scams</strong> if you rush.</p>
-<p>The good news: with a simple method (a complete dossier + verification + a checklist), you can materially improve your chances and avoid expensive surprises.</p>
-<h2>Context in Switzerland</h2>
-<p>Two common realities of the market:</p>
+            <h2>Introducción</h2>
+<p>Alquilar un piso en Suiza suele ser más “administrativo” de lo que esperan muchos recién llegados. No es (solo) una cuestión de ver un anuncio y firmar: hay competencia, un <strong>dossier</strong> estándar, reglas de contrato y, a la vez, riesgos de <strong>estafa</strong> si vas con prisa.</p>
+<p>La buena noticia: con un método sencillo (dossier + verificación + checklist) puedes aumentar mucho tus opciones y reducir sorpresas.</p>
+<h2>Contexto en Suiza</h2>
+<p>Dos realidades del mercado:</p>
 <ul>
-<li><strong>Selection by dossier</strong>: many candidates apply, and landlords/agencies filter for stability (income, job contract, reliability).</li>
-<li><strong>Standardised processes</strong>: viewing, application, decision, contract, deposit, keys, and an “inventory/state” report.</li>
+<li><strong>Selección por dossier</strong>: muchas candidaturas, y el propietario/agencia filtra por estabilidad (ingresos, contrato, referencias).</li>
+<li><strong>Procesos bastante estandarizados</strong>: visitas, candidatura, decisión, contrato, entrega de llaves y estado del piso.</li>
 </ul>
-<p>And two typical newcomer risks:</p>
+<p>Y dos riesgos típicos del recién llegado:</p>
 <ul>
-<li>submitting an incomplete or weak dossier,</li>
-<li>falling for scams because of urgency and lack of local references.</li>
+<li>no tener un dossier convincente (o presentarlo incompleto),</li>
+<li>caer en estafas por desconocimiento (pago por adelantado, “visita imposible”, urgencia artificial).</li>
 </ul>
-<h2>Common situations that cause problems</h2>
-<h3>1) The real process: from search to keys</h3>
-<p>A typical flow (not identical everywhere, but very common):</p>
+<h2>Situaciones comunes que generan problemas</h2>
+<h3>1) El proceso real: de la búsqueda a las llaves</h3>
+<p>Un flujo típico (no siempre idéntico, pero muy común) es:</p>
 <ol>
-<li><strong>Search</strong> on major portals and via agencies; shortlist options.</li>
-<li><strong>View</strong> (sometimes group viewings).</li>
-<li><strong>Apply</strong> with a full dossier (often the same day).</li>
-<li><strong>Selection</strong> (competition can be intense).</li>
-<li><strong>Contract</strong> + security deposit + move‑in date.</li>
-<li><strong>Keys</strong> and a <strong>condition report</strong> (state of the apartment).</li>
+<li><strong>Buscar</strong> en portales y agencias; guardar anuncios interesantes.</li>
+<li><strong>Visitar</strong> (a veces visitas colectivas).</li>
+<li><strong>Postular</strong> con dossier completo (normalmente en el mismo día).</li>
+<li><strong>Selección</strong> (puede haber decenas de candidatos).</li>
+<li><strong>Contrato</strong> + depósito de garantía + fecha de entrada.</li>
+<li><strong>Entrega de llaves</strong> y <strong>protocolo de estado</strong> del piso.</li>
 </ol>
-<p>In tighter markets, “I really like it” is not enough. The winner is often the candidate who submits a complete, clear dossier fast.</p>
-<h3>2) The application dossier: what’s usually requested (and why)</h3>
-<p>Think of the dossier as your “tenant CV”. It often includes:</p>
+<p>Punto importante: en mercados tensos, “me gustó mucho” no basta. Gana quien entrega el dossier completo y transmite fiabilidad.</p>
+<h3>2) Dossier: lo que suelen pedir (y por qué)</h3>
+<p>El dossier es tu “currículum” como inquilino. Suele incluir:</p>
 <ul>
-<li><strong>ID</strong> and, when applicable, your <strong>residence permit</strong> (or proof you applied).</li>
-<li><strong>Employment contract</strong> or proof of income (e.g., payslips).</li>
-<li>A <strong>debt register extract</strong> (<em>Betreibungsauszug</em>) if you already live in Switzerland (not always possible for brand‑new arrivals, but commonly requested).</li>
-<li>A short <strong>cover letter</strong> (half a page): who you are, work situation, desired move‑in date, smokers/pets if relevant.</li>
-<li>Sometimes: <strong>references</strong> (previous landlord), and proof of personal liability insurance (<em>RC</em>) if requested.</li>
+<li><strong>Documento de identidad</strong> y, si aplica, <strong>permiso</strong> (o prueba de solicitud).</li>
+<li><strong>Contrato de trabajo</strong> o prueba de ingresos (p. ej., nóminas).</li>
+<li><strong>Extracto de deudas</strong> (<em>Betreibungsauszug</em>) si ya resides en Suiza (no siempre obligatorio para recién llegados, pero se pide con frecuencia).</li>
+<li><strong>Carta breve</strong> de presentación (1/2 página): quiénes sois, situación laboral, por qué buscáis, fecha de entrada, no fumadores/mascotas si aplica.</li>
+<li>A veces: <strong>referencias</strong> (anterior arrendador), seguro de responsabilidad civil (<em>RC</em>) si lo solicitan.</li>
 </ul>
-<p>Tip: prepare one clean PDF (single file) and also bring printed copies to viewings.</p>
-<h3>3) The “real price”: rent vs charges</h3>
-<p>Swiss listings often separate:</p>
+<p>Consejo: prepara el dossier en PDF (un solo archivo) + copias impresas para visitas.</p>
+<h3>3) Precio real: “alquiler” no siempre incluye gastos</h3>
+<p>En Suiza verás a menudo:</p>
 <ul>
-<li><strong>Net rent</strong> (base rent), and</li>
-<li><strong>ancillary charges</strong> (<em>Nebenkosten</em>: heating, shared services), which can be a monthly advance and later adjusted.</li>
+<li><strong>Nettomiete</strong> (alquiler “base”), y</li>
+<li><strong>Nebenkosten</strong> (gastos: calefacción/agua/servicios comunes), que pueden ser un <strong>adelanto</strong> y ajustarse después.</li>
 </ul>
-<p>Practical translation: compare apartments using the <strong>total monthly cost</strong> and ask what exactly is included.</p>
-<h3>4) The deposit: do it in a way that protects you</h3>
-<p>Security deposits are common. For residential rent, it’s often up to <strong>three months</strong> of base rent.</p>
-<p>To stay protected:</p>
+<p>Traducción práctica: compara pisos usando el <strong>total mensual</strong> (base + gastos) y pregunta qué está incluido.</p>
+<h3>4) Fianza / depósito: cómo debe hacerse para estar protegido</h3>
+<p>Es habitual que pidan una garantía (depósito). En vivienda, es común que sea de hasta <strong>tres meses</strong> de alquiler base.</p>
+<p>Buenas prácticas para no tener problemas:</p>
 <ul>
-<li>the deposit is typically placed in a <strong>blocked deposit account in your name</strong> (not into someone’s personal account),</li>
-<li>get written confirmations: amount, bank, conditions, how/when it’s released,</li>
-<li>keep all proof for move‑out.</li>
+<li>El depósito suele colocarse en una <strong>cuenta de depósito a tu nombre</strong> (cuenta bloqueada) y no “en la cuenta personal” de alguien.</li>
+<li>Pide confirmaciones por escrito: importe, entidad, condiciones y cuándo se libera.</li>
+<li>Guarda todos los justificantes: te servirán al salir del piso.</li>
 </ul>
-<h3>5) Move‑in/move‑out condition report: where disputes are won or lost</h3>
-<p>At handover:</p>
+<h3>5) Protocolo de entrada/salida: donde se ganan o pierden cientos de francos</h3>
+<p>El día de la entrega:</p>
 <ul>
-<li>check walls, floors, appliances, bathroom, windows,</li>
-<li>take photos and record existing defects,</li>
-<li>sign the <strong>condition report</strong> (if provided).</li>
+<li>revisa paredes, suelo, electrodomésticos, baño, ventanas,</li>
+<li>haz fotos y anota defectos existentes,</li>
+<li>y firma un <strong>protocolo de estado</strong> (si lo hay).</li>
 </ul>
-<p>At move‑out, this is the baseline for deposit discussions.</p>
-<h3>6) Common rental scam signals</h3>
-<p>Typical red flags:</p>
+<p>Al salir, ese documento es la base para discutir reparaciones y devolución del depósito.</p>
+<h3>6) Señales típicas de estafa (alquiler)</h3>
+<p>Señales rojas muy frecuentes:</p>
 <ul>
-<li>money requested upfront <strong>without</strong> a verifiable contract and identity,</li>
-<li>“no viewing possible” + pressure to pay today,</li>
-<li>payment to odd accounts or abroad,</li>
-<li>price far below market without a plausible reason,</li>
-<li>inconsistent identity/address/ownership details.</li>
+<li>te piden dinero por adelantado <strong>sin contrato</strong> y sin visita verificable,</li>
+<li>“no se puede visitar” y hay presión por pagar hoy (urgencia artificial),</li>
+<li>pago a cuentas raras o en el extranjero,</li>
+<li>el anuncio está “demasiado barato” para el mercado y no cuadra,</li>
+<li>inconsistencias en identidad, dirección o propiedad (documentos mal hechos, respuestas evasivas).</li>
 </ul>
-<p>Rule of thumb: if you can’t <strong>verify</strong> the apartment, the person, and the contract, don’t transfer.</p>
-<h2>How to avoid fines or conflicts</h2>
-<p>It’s rarely about “fines” here; it’s mostly <strong>conflicts</strong> around contract terms, the deposit, and apartment condition. To avoid issues:</p>
-<h3>Contract and move‑in checklist</h3>
+<p>Regla de oro: si no puedes <strong>verificar</strong> (vivienda, persona, contrato), no transfieras.</p>
+<h2>Cómo evitar multas o conflictos</h2>
+<p>Aquí “multas” no es lo típico: lo más común son <strong>conflictos</strong> por contrato, depósito o estado del piso. Para evitarlos:</p>
+<h3>Checklist anti-problemas (contrato y entrada)</h3>
 <ul>
-<li>Read: move‑in date, rent + charges, any minimum term, and especially the <strong>notice period</strong>.</li>
-<li>Ask in writing what charges include, and how annual adjustments work.</li>
-<li>Don’t rely on verbal promises about repairs: confirm by email.</li>
-<li>Move in only with a clear contract and a documented condition report (or at least dated photos).</li>
+<li>Lee: <strong>fecha de entrada</strong>, alquiler + gastos, duración mínima si existe, y <strong>plazo de preaviso</strong> (muy importante).</li>
+<li>Pregunta por escrito: qué incluye exactamente los gastos, y cómo se hace el ajuste anual.</li>
+<li>No aceptes acuerdos verbales sobre reparaciones: confirma por email.</li>
+<li>Entra al piso solo con contrato claro y protocolo de estado (o al menos fotos fechadas).</li>
 </ul>
-<h3>A simple system that works</h3>
+<h3>Método para postular sin perderse</h3>
 <ul>
-<li>Keep an <strong>application tracker</strong> (ad, date, contact, status).</li>
-<li>Save <strong>screenshots</strong> of the listing and all emails.</li>
-<li>Have a ready “application pack”: PDF dossier + cover letter.</li>
+<li>Lleva una <strong>tabla</strong> de candidaturas (anuncio, fecha visita, contacto, estado, feedback).</li>
+<li>Guarda <strong>capturas</strong> del anuncio y emails (condiciones, precio, promesas).</li>
+<li>Ten un “pack” listo: PDF + carta + documentación.</li>
 </ul>
-<h2>Practical tips</h2>
-<h3>If you’re brand‑new (no debt register extract yet)</h3>
+<h2>Consejos prácticos</h2>
+<h3>Si eres recién llegado (sin Betreibung)</h3>
 <ul>
-<li>say it plainly in your cover letter (“new arrival, no Betreibungsauszug yet”),</li>
-<li>compensate with clarity: employment contract, income, savings, references if you have them.</li>
+<li>Explícalo en la carta: “recién llegado, aún sin Betreibungauszug”.</li>
+<li>Compensa con claridad: contrato de trabajo, ingresos, ahorro, referencias previas si las tienes.</li>
 </ul>
-<h3>How to improve your chances (without gimmicks)</h3>
+<h3>Cómo aumentar tus opciones (sin “trucos”)</h3>
 <ul>
-<li>Apply quickly after the viewing (same day if possible).</li>
-<li>Keep the letter short and specific (not a long story).</li>
-<li>For couples/families: explain who signs, combined income, and stability.</li>
+<li>Postula rápido después de la visita (mismo día).</li>
+<li>Carta breve y concreta (no una novela).</li>
+<li>Si sois pareja/familia: indica quién firma, ingresos combinados y estabilidad.</li>
 </ul>
-<h3>If you keep getting rejected (and don’t know why)</h3>
-<p>Multiple rejections at the start can be normal. To improve without guessing:</p>
+<h3>Si te rechazan varias veces (y no entiendes por qué)</h3>
+<p>Es normal recibir muchos “no” al principio. Para mejorar sin frustrarte:</p>
 <ul>
-<li>ask for feedback if the agency replies (they often won’t, but it’s worth trying),</li>
-<li>check whether your dossier communicates stability (income, contract, clear situation),</li>
-<li>widen your search radius or relax one criterion until you’re settled (size, floor, neighbourhood).</li>
+<li>pide feedback si la agencia responde (a veces no lo dan, pero se puede intentar),</li>
+<li>revisa si tu dossier transmite estabilidad (ingresos, contrato, explicación de tu situación),</li>
+<li>y amplía el radio o flexibiliza criterios (planta, tamaño, barrio) hasta que estés instalado.</li>
 </ul>
-<h3>If an agent asks for “odd” things</h3>
-<p>Ask for everything <strong>in writing</strong>. Serious professionals won’t mind confirming terms by email.</p>
-<h3>Bottom line</h3>
-<p>Urgency is a scammer’s tool—verify first. If it feels off, move on.</p>
-<h2>Official sources</h2>
+<h3>Si la agencia te pide cosas “raras”</h3>
+<p>Pide que todo sea <strong>por escrito</strong>. Un profesional serio no tendrá problema en confirmar condiciones por email.</p>
+<h3>En resumen</h3>
+<p>En Suiza la prisa es el enemigo: verifica y documenta. Si algo no cuadra, pasa al siguiente anuncio.</p>
+<h2>Fuentes oficiales</h2>
 <ul>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>Tenant associations (by canton; e.g., ASLOCA in Romandie / Mieterverband in German‑speaking Switzerland).</li>
+<li>ch.ch (vivienda): <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>Asociaciones de inquilinos (según cantón; p. ej. ASLOCA en Romandía / Mieterverband en Suiza alemana).</li>
 </ul>
         </div>`
     },
-
     "fb-consejos-vida-diaria-suiza": {
         title: "Daily life in Switzerland: 25 practical tips for newcomers",
-        description: "Practical day-to-day tips: admin, neighbours, transport, health insurance, budgeting and habits that prevent problems.",
-        keywords: "living in switzerland tips, daily life switzerland, newcomers switzerland",
+        description: "Practical tips for your daily life in Switzerland: administration, neighbors, shopping, transportation, health and habits that avoid problems.",
+        keywords: "living in switzerland tips, swiss daily life, switzerland newcomer",
         keywordsLocalized: true,
         category: "Living in Switzerland",
-        hub: "living-in-switzerland",
+        hub: "vivir-en-suiza",
         slug: "daily-life-switzerland-tips",
         readingTime: 2,
-        dateUpdated: "March 2026",
-        summary: "Practical day-to-day tips: admin, neighbours, transport, health insurance, budgeting and habits that prevent problems.",
+        dateUpdated: "Marzo 2026",
+        summary: "Practical tips for your daily life in Switzerland: administration, neighbors, shopping, transportation, health and habits that avoid problems.",
         featuredImage: "media/guides/consejos-vida-diaria-suiza.jpg",
-        imageAlt: "Person organizing daily life after arriving in Switzerland",
+        imageAlt: "Checklist of practical tips for daily life in Switzerland",
         relatedSlugs: [],
-        content: `<div class="article-content">
-            <h2>Introduction</h2>
-<p>You don’t need to know everything. With a few strong routines, most first‑year problems disappear.</p>
-<h2>Context in Switzerland</h2>
-<p>Switzerland runs on clear rules, deadlines and documentation. Your daily life improves when you adopt those habits.</p>
-<h2>Common situations that cause problems</h2>
-<p>25 practical habits (short list):</p>
-<ul>
-<li>archive official letters (and scan them)</li>
-<li>track deadlines in a calendar</li>
-<li>always ask “which canton/commune?”</li>
-<li>keep a document dossier</li>
-<li>learn basics of the local language</li>
-<li>review contracts calmly (work/rent)</li>
-<li>respect noise and recycling rules</li>
-<li>compare LAMal premiums yearly</li>
-<li>avoid payments without verifiable contracts</li>
-<li>document job applications, payslips and certificates</li>
-<li>keep fixed costs low early and build an emergency buffer</li>
-</ul>
-<h2>How to avoid fines or conflicts</h2>
-<p>Turn the list into a checklist and tick what you’ve completed.</p>
-<h2>Practical tips</h2>
-<p>The universal tip: less improvisation, more process.</p>
-<h2>Official sources</h2>
-<ul>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-</ul>
-        </div>`
+        content: `<div class="article-content"> 
+<h2>Introduction</h2> 
+<p>You don't need to “know everything”. With good routines you avoid most of the typical problems of the first year.</p> 
+<h2>Context in Switzerland</h2> 
+<p>Switzerland operates with clear rules, deadlines and documentation. Everyday life improves when you adopt these habits.</p> 
+<h2>Common situations that generate problems</h2> 
+<h3>25 useful habits</h3> 
+<ol> 
+<li>Save official letters (and scan them).</li> 
+<li>Use calendar for deadlines (insurance, taxes, appointments).</li> 
+<li>Always ask for canton/commune.</li> 
+<li>Have a “dossier” of documents.</li> 
+<li>Learn the basics of the local language of the canton.</li> 
+<li>Review your contract (rent/job) calmly.</li> 
+<li>Avoid noise at sensitive times.</li> 
+<li>Recycle according to local regulations.</li> 
+<li>Have liability insurance if applicable.</li> 
+<li>Use transport passes if it is worth it.</li> 
+<li>Compare LAMal premiums every fall.</li> 
+<li>Do not pay anything without a verifiable contract.</li> 
+<li>Follow up on applications.</li> 
+<li>Save payrolls and work certificates.</li> 
+<li>Control fixed expenses in the first quarter.</li> 
+<li>Ask about deductions if you file a tax return.</li> 
+<li>Respect shifts and rules in common laundries.</li> 
+<li>Close the circle: confirm in writing.</li> 
+<li>Plan moves with margin.</li> 
+<li>Have an emergency fund.</li> 
+<li>Don't trust “I saw it on Facebook” without a source.</li> 
+<li>Use official portals as a base reference.</li> 
+<li>If in doubt, document and consult.</li> 
+<li>Keep your data updated (address, etc.).</li> 
+<li>Be consistent: Switzerland rewards consistency.</li> 
+</ol> 
+<h2>How to avoid fines or conflicts</h2> 
+<p>Turn this list into a checklist and mark what you already have ready.</p> 
+<h2>Practical Tips</h2> 
+<p>The best transversal advice: <strong>less improvisation, more process</strong>.</p> 
+<h2>Official sources</h2> 
+<ul> 
+<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li> 
+</ul> 
+</div>`
     },
-
     "fb-costo-de-vida-suiza": {
         title: "Cost of living in Switzerland",
-        description: "How to budget for Switzerland: rent, health insurance, taxes, transport and “hidden costs”. Practical guidance for newcomers.",
-        keywords: "cost of living switzerland, budget switzerland, rent switzerland, health insurance switzerland",
+        description: "How to estimate your cost of living in Switzerland: rent, health insurance, taxes, transportation and “invisible expenses”. Examples by canton and advice.",
+        keywords: "Swiss cost of living, living in Switzerland, Swiss rent, Swiss health insurance, Swiss budget",
         keywordsLocalized: true,
         category: "Living in Switzerland",
-        hub: "living-in-switzerland",
+        hub: "vivir-en-suiza",
         slug: "cost-of-living-switzerland",
-        supportingImages: [],
         readingTime: 4,
-        dateUpdated: "March 2026",
-        summary: "How to budget for Switzerland: rent, health insurance, taxes, transport and “hidden costs”. Practical guidance for newcomers.",
+        dateUpdated: "Marzo 2026",
+        summary: "How to estimate your cost of living in Switzerland: rent, health insurance, taxes, transportation and “invisible expenses”. Examples by canton and advice.",
         featuredImage: "media/guides/costes-vida-suiza.png",
-        imageAlt: "Chart showing cost of living in Switzerland: rent, transport, food",
+        imageAlt: "Budget illustration: wallet, calculator and expenses for living in Switzerland",
         relatedSlugs: [],
+        supportingImages: [],
         content: `<div class="article-content">
-            <h2>Introduction</h2>
-<p>Switzerland isn’t only “expensive”. It’s also <strong>structured and fairly predictable</strong> if you budget with the right categories. Most newcomer pain comes from not anticipating:</p>
+            <h2>Introducción</h2>
+<p>El coste de vida en Suiza no es solo “caro”. Es, sobre todo, <strong>estructurado y previsible</strong> si haces un presupuesto con las partidas correctas. El problema de muchos recién llegados no es pagar “mucho”, sino no anticipar:</p>
 <ul>
-<li>one‑off “arrival costs” (deposits, moving, first bills),</li>
-<li>regional differences (rent and mandatory health insurance premiums),</li>
-<li>and costs that don’t show up in an apartment listing (charges, insurance, taxes).</li>
+<li>gastos de entrada (depósitos, mudanza, primeras facturas),</li>
+<li>diferencias por región (alquiler, primas del seguro médico),</li>
+<li>y costes que no se ven en el anuncio del piso (gastos, seguros, impuestos).</li>
 </ul>
-<p>This guide helps you build a realistic budget without relying on “magic numbers” that may not match your situation.</p>
-<h2>Context in Switzerland</h2>
-<p>Your biggest variables are usually:</p>
-	<h3>Region (canton/municipality)</h3>
-	<p>The biggest differences are <strong>rent</strong> and <strong>LAMal/KVG premiums</strong>. Taxes and local fees can also vary. Practical rule: budgeting for a larger city and then moving to a cheaper area is easier than the reverse.</p>
+<p>Esta guía te ayuda a estimar un presupuesto realista sin entrar en números “mágicos” que luego no aplican a tu caso.</p>
+<h2>Contexto en Suiza</h2>
+<p>Tus grandes variables suelen ser:</p>
+	<h3>Región (cantón/comuna)</h3>
+	<p>Cambian sobre todo el <strong>alquiler</strong> y las <strong>primas de la LAMal</strong>. También puede cambiar la fiscalidad y tasas locales. Regla práctica: presupuestar en una ciudad grande y luego mudarte a una zona más barata es más fácil que al revés.</p>
     <figure class="article-figure">
-      <img src="media/guides/coste-regiones-suiza.png" alt="Indicative map: typically more expensive areas to live in Switzerland (e.g., Zurich/Zug and the Lake Geneva area)" loading="lazy" decoding="async">
-      <figcaption>Indicative only: costs vary a lot by city, neighborhood and housing type.</figcaption>
+      <img src="media/guides/coste-regiones-suiza.png" alt="Mapa orientativo: zonas más caras para vivir en Suiza (por ejemplo, Zúrich/Zug y el arco lémanico)" loading="lazy" decoding="async">
+      <figcaption>Orientativo: dentro de cada región hay diferencias por ciudad, barrio y tipo de vivienda.</figcaption>
     </figure>
-	<h3>Household (single/couple/family)</h3>
-	<p>With children, the budget breaker is often not groceries but <strong>childcare (Kita/daycare)</strong> and schedule constraints.</p>
-	<h3>Mobility and lifestyle</h3>
-	<p>Public transport, a car, eating out, and leisure are flexible costs that can silently drift upward. Define a target lifestyle and anchor it to your net income.</p>
-<h2>Common situations that cause problems</h2>
-<h3>The 5 budget items that move the needle most</h3>
+	<h3>Hogar (solo/pareja/familia)</h3>
+	<p>Con niños, la partida que rompe presupuestos no es el supermercado: suele ser la <strong>guardería/Kita</strong> y la organización de horarios.</p>
+	<h3>Movilidad y hábitos</h3>
+	<p>Transporte público, coche, comer fuera, ocio: son partidas “flexibles” que a veces se inflan sin darse cuenta. Define un nivel de vida objetivo y ajústalo a tu salario neto.</p>
+<h2>Situaciones comunes que generan problemas</h2>
+<h3>Las 5 partidas que más mueven el presupuesto</h3>
 <ol>
-<li>rent + utilities (plus initial deposits)</li>
-<li>health insurance premiums + deductible</li>
-<li>taxes (vary by canton)</li>
-<li>transport passes</li>
-<li>childcare (if relevant)</li>
+<li><strong>Alquiler + gastos</strong> (y depósito/fianza inicial)</li>
+<li><strong>Seguro médico</strong> (primas + franquicia)</li>
+<li><strong>Impuestos</strong> (según cantón y situación)</li>
+<li><strong>Transporte</strong> (Halbtax/AG, zona urbana)</li>
+<li><strong>Guardería/Kita</strong> (si aplica)</li>
 </ol>
-<h3>1) Rent: monthly cost vs “move‑in” cost</h3>
-<p>Don’t look only at the advertised price. Ask:</p>
+<h3>1) Alquiler: el coste mensual y el coste de entrada</h3>
+<p>No mires solo “precio del anuncio”. Pregunta:</p>
 <ul>
-<li><strong>net rent</strong> and <strong>ancillary charges</strong> (<em>Nebenkosten</em>): what’s included and how it’s adjusted,</li>
-<li>the security deposit (for housing it’s commonly up to three months of base rent) and whether the first month is due upfront,</li>
-<li>extras like parking, storage, laundry rules, etc.</li>
+<li><strong>Nettomiete</strong> (alquiler base) y <strong>Nebenkosten</strong> (gastos): ¿qué incluye y cómo se ajusta?</li>
+<li>Depósito: en vivienda es habitual que pidan una garantía (a menudo hasta tres meses de alquiler base) + primer mes por adelantado, según el caso.</li>
+<li>Posibles extras: plaza de parking, trastero, lavandería, etc.</li>
 </ul>
-<p>Practical translation: month 1 can be much more expensive than a “normal” month.</p>
-<h3>2) Health insurance (LAMal/KVG): premium + deductible + cost sharing</h3>
-<p>Premiums vary by region, age and model (telmed/HMO, etc.). Beyond the monthly premium, budget for:</p>
+<p>Traducción práctica: el primer mes puede ser mucho más caro que “un mes normal”.</p>
+<h3>2) Seguro médico (LAMal): prima + franquicia + copagos</h3>
+<p>La prima cambia por región, edad y modelo (telmed/HMO/hospital, etc.). Además de la prima mensual, en tu presupuesto anual considera:</p>
 <ul>
-<li>the <strong>deductible</strong> (what you pay first each year),</li>
-<li><strong>cost sharing</strong> after the deductible (up to a yearly cap).</li>
+<li><strong>franquicia</strong> (lo que pagas primero),</li>
+<li><strong>copagos</strong> (lo que pagas después hasta un límite).</li>
 </ul>
-<p>If you pick a high deductible to lower your premium, make sure you have a buffer for a “bad” year.</p>
-<h3>3) Taxes: gross is not net</h3>
-<p>Depending on your situation you may have withholding tax or later tax bills. For budgeting:</p>
+<p>Consejo: si eliges una franquicia alta para bajar prima, asegúrate de tener un colchón para un año “malo”.</p>
+<h3>3) Impuestos: bruto no es neto</h3>
+<p>Dependiendo de tu situación, puedes tener retenciones en la fuente o pagos posteriores. Para presupuestar:</p>
 <ul>
-<li>estimate your <strong>net</strong> income conservatively (not just gross),</li>
-<li>remember that moving canton/municipality can change your tax burden.</li>
+<li>pide una estimación de tu <strong>neto</strong> (no te quedes con el bruto),</li>
+<li>considera que cambios de cantón/comuna pueden cambiar la carga fiscal.</li>
 </ul>
-<h3>4) Transport: define your real scenario</h3>
-<p>“Live close to work” vs “long commute” changes the math quickly. Budget based on real use:</p>
+<h3>4) Transporte: define tu escenario (urbano vs interurbano)</h3>
+<p>La diferencia entre “vivo cerca del trabajo” y “commuting largo” se nota mucho. Presupuesta según tu uso real:</p>
 <ul>
-<li>urban zone passes,</li>
-<li>discounts like Halbtax or a GA if you travel a lot,</li>
-<li>car costs (insurance, parking, maintenance) if relevant.</li>
+<li>abonos urbanos por zonas,</li>
+<li>descuentos tipo Halbtax o abonos generales si viajas mucho,</li>
+<li>coche: seguro, parking, mantenimiento (si aplica).</li>
 </ul>
-<h3>5) Childcare/Kita: model this early</h3>
-<p>If you have small children, ask early about:</p>
+<h3>5) Guardería/Kita: la partida que hay que modelar con antelación</h3>
+<p>Si tienes niños pequeños, pregunta pronto por:</p>
 <ul>
-<li>availability,</li>
-<li>real opening hours (and compatibility with work),</li>
-<li>and whether local subsidies exist.</li>
+<li>disponibilidad de plazas,</li>
+<li>horarios reales (y compatibilidad con trabajo),</li>
+<li>y ayudas/subvenciones locales si existen.</li>
 </ul>
-<h3>Hidden costs newcomers often forget</h3>
-<p>Add an “arrival” bucket for:</p>
+<h3>Gastos invisibles típicos</h3>
 <ul>
-<li>moving costs and initial essentials (bed, table, tools),</li>
-<li>internet/phone setup and possible installation fees,</li>
-<li>insurance (personal liability/RC, home insurance if you choose it),</li>
-<li>first bills and one‑off advances.</li>
+<li>mudanza y mobiliario</li>
+<li>seguros (RC hogar), móvil/internet</li>
+<li>tasas comunales (según lugar)</li>
+<li>adelantos (depósitos, primeras facturas)</li>
 </ul>
-<p>A useful trick: separate <strong>one‑off setup costs</strong> from <strong>recurring monthly costs</strong> so you don’t confuse an initial spike with your true monthly baseline.</p>
-<h3>Everyday spending: groceries, eating out and “small leaks”</h3>
-<p>Groceries are relatively predictable, but the big budget “leaks” are often:</p>
+<h3>“Gastos invisibles” que suelen olvidar los recién llegados</h3>
+<p>Añade a tu presupuesto una partida de “aterrizaje” para:</p>
 <ul>
-<li>frequent eating out/coffee on workdays,</li>
-<li>delivery apps, subscriptions, and impulse spending,</li>
-<li>and underestimating “convenience” costs during the first months.</li>
+<li>mudanza, herramientas básicas y compras iniciales (cama, mesa, etc.),</li>
+<li>activación de internet/móvil, posibles costes de instalación,</li>
+<li>seguros (responsabilidad civil/RC, hogar si lo contratas),</li>
+<li>primeras facturas y adelantos (depósitos, gastos, servicios).</li>
 </ul>
-<p>If your fixed costs are under control, this category is where you can flex your budget without changing apartments.</p>
-<h2>How to avoid fines or conflicts</h2>
-<p>This is rarely about “fines”; it’s about avoiding budget shocks.</p>
+<p>Un truco útil: separa “gastos de instalación” (una vez) de “gastos mensuales” (recurrentes). Así no confundes un pico inicial con tu coste real mensual.</p>
+<h2>Cómo evitar multas o conflictos</h2>
 <ul>
-<li>Start with the safe baseline: housing + health + basic transport.</li>
-<li>Keep a buffer for month 1 (deposit + surprises).</li>
-<li>Compare within similar regions; Zurich ≠ small‑town budgets.</li>
+<li>Empieza por “mínimo seguro”: vivienda + salud + transporte básico.</li>
+<li>Reserva un colchón para el primer mes (depósitos y sorpresas).</li>
+<li>Ajusta por cantón: no tiene sentido comparar Zúrich y una ciudad pequeña igual.</li>
 </ul>
-<h3>A quick budgeting method that actually works</h3>
+<h3>Método rápido para un presupuesto que no falla</h3>
 <ol>
-<li>Start from a conservative <strong>net</strong> income estimate.</li>
-<li>Lock your big fixed costs first: rent+charges, health insurance, transport.</li>
-<li>Add monthly “buffer” savings and an emergency fund target.</li>
-<li>Allocate the rest to variable spending (food, leisure) with clear limits.</li>
-<li>Review in month 2 and month 4 using real bank data.</li>
+<li>Calcula tu <strong>neto</strong> (o un neto conservador).</li>
+<li>Fija primero los fijos grandes: alquiler+gastos, LAMal, transporte.</li>
+<li>Añade un “colchón” mensual (ahorro) y un fondo de emergencia.</li>
+<li>Reparte el resto entre variables (comida, ocio) con límites claros.</li>
+<li>Revisa al mes 2 y al mes 4 con datos reales (extractos bancarios).</li>
 </ol>
-<h3>A simple “percentage” sanity check</h3>
-<p>If you’re unsure, build a first‑pass budget with rough caps (example): housing 30–40%, mandatory insurance 8–15%, transport 5–10%, groceries 10–15%, and keep a fixed savings buffer. Then adjust using your real bank statements.</p>
-<h3>First 90 days: don’t over‑commit too early</h3>
-<p>If you’re new, keep fixed costs reasonable at first (too expensive an apartment, a car + parking without real need, etc.). It’s easier to upgrade later than to cut after signing contracts.</p>
-<h2>Practical tips</h2>
-<h3>A newcomer checklist (very practical)</h3>
+<h3>Primeros 90 días: evita comprometerte demasiado pronto</h3>
+<p>Si eres nuevo, intenta que tus costes fijos iniciales no sean máximos (piso demasiado caro, coche + parking sin necesidad, etc.). Es más fácil subir nivel después que recortar cuando ya tienes contratos firmados.</p>
+<h2>Consejos prácticos</h2>
 <ul>
-<li>Do I have a net income estimate and know how taxes apply in my case?</li>
-<li>Do I have a buffer for deposit + first month + moving?</li>
-<li>Does my LAMal/KVG choice match my health needs and my reserve?</li>
-<li>Is my transport cost optimised (zones, passes, real distance)?</li>
-<li>Did I separate setup costs from monthly costs?</li>
+<li>No calcules solo con el salario bruto: mira el neto y retenciones.</li>
+<li>Si eres recién llegado, evita comprometerte con gastos fijos demasiado altos al principio.</li>
 </ul>
-<h2>Official sources</h2>
+<h3>Checklist de recién llegado (muy práctica)</h3>
+<ul>
+<li>¿Tengo estimación de neto y cómo se pagan impuestos en mi caso?</li>
+<li>¿Tengo un colchón para depósito + primer mes + mudanza?</li>
+<li>¿Mi elección de LAMal encaja con mi salud y mi reserva?</li>
+<li>¿Mi transporte está optimizado (zonas, abonos, distancia real)?</li>
+<li>¿He separado gastos “de instalación” de gastos “mensuales”?</li>
+</ul>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>BFS: <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bfs.admin.ch</a></li>
-<li>LAMal/KVG premium comparator (Priminfo): <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
+<li>Estadística (BFS): <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bfs.admin.ch</a></li>
+<li>Comparador LAMal (Priminfo): <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
 </ul>
         </div>`
     },
-
     "fb-democracia-directa-suiza": {
-        title: "Direct democracy in Switzerland: referendums, initiatives and votes",
-        description: "What Swiss direct democracy is and how decisions are made: referendums, popular initiatives and multi-level voting (federal/cantonal/communal). A guide for expats.",
-        keywords: "swiss direct democracy, referendum switzerland, popular initiative switzerland, voting switzerland",
+        title: "Direct democracy in Switzerland: referendum, initiative and voting",
+        description: "What is Swiss direct democracy and how it is decided: referendums, initiatives, votes and levels (federal/cantonal/communal). Guide for expatriates.",
+        keywords: "Swiss direct democracy, Swiss referendum, Swiss initiative, Swiss voting",
         keywordsLocalized: true,
         category: "Living in Switzerland",
-        hub: "living-in-switzerland",
+        hub: "vivir-en-suiza",
         slug: "direct-democracy-switzerland",
         readingTime: 2,
-        dateUpdated: "March 2026",
-        summary: "What Swiss direct democracy is and how decisions are made: referendums, popular initiatives and multi-level voting (federal/cantonal/communal). A guide for expats.",
+        dateUpdated: "Marzo 2026",
+        summary: "What is Swiss direct democracy and how it is decided: referendums, initiatives, votes and levels (federal/cantonal/communal). Guide for expatriates.",
         featuredImage: "media/guides/democracia-directa-suiza.jpg",
-        imageAlt: "Ballot box and voting slip illustrating direct democracy in Switzerland",
+        imageAlt: "Ballot box and voting paper, representing direct democracy in Switzerland",
         relatedSlugs: [],
-        content: `<div class="article-content">
-            <h2>Introduction</h2>
-<p>Switzerland does not only vote “every four years”. Citizens vote frequently on concrete topics.</p>
-<h2>Context in Switzerland</h2>
-<p>Votes exist at:</p>
-<ul>
-<li><strong>Federal</strong></li>
-<li><strong>Cantonal</strong></li>
-<li><strong>Communal</strong></li>
-<p>levels — often with multiple questions on the same day.</p>
-</ul>
-<h2>Common situations that cause problems</h2>
-<h3>Referendum (high-level)</h3>
-<p>A mechanism to confirm or reject a legal/policy decision. Depending on the level and the type of act, it may be automatic or triggered via signature collection.</p>
-<h3>Popular initiative (high-level)</h3>
-<p>A tool to propose change. If formal requirements are met, it can lead to a vote and a broader political process.</p>
-<h3>Why expats should care</h3>
-<ul>
-<li>Topics can directly affect daily life (transport, local rules, housing).</li>
-<li>Official explanations are usually available and structured.</li>
-<li>Voting rights vary (nationality, level, local rules), but understanding the process helps you navigate changes.</li>
-</ul>
-<h2>How to avoid fines or conflicts</h2>
-<ul>
-<li>Follow your canton/commune voting calendar.</li>
-<li>Read official brochures: they summarize arguments and legal effects.</li>
-<li>Focus on “what changes, when, and for whom”.</li>
-</ul>
-<h2>Practical tips</h2>
-<ul>
-<li>Don’t rely only on social media; verify with official documents.</li>
-<li>Separate opinions from the actual text being voted on.</li>
-</ul>
-<h2>Official sources</h2>
-<ul>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>admin.ch: <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
-</ul>
-        </div>`
+        content: `<div class="article-content"> 
+<h2>Introduction</h2> 
+<p>Switzerland doesn't just vote “every four years”. Citizens frequently participate through <strong>voting</strong> at different levels.</p> 
+<h2>Context in Switzerland</h2> 
+<p>There are votes:</p> 
+<ul> 
+<li><strong>Federal</strong></li> 
+<li><strong>Cantonal</strong></li> 
+<li><strong>Communal</strong></li> 
+</ul> 
+<p>And several topics usually coexist on the same day.</p> 
+<h2>Common situations that generate problems</h2> 
+<h3>Referendum (general idea)</h3> 
+<p>It is a mechanism to <strong>confirm or reject</strong> a regulatory decision. In Switzerland, depending on the type of regulation, it can be mandatory or activated by collecting signatures (the details depend on the level).</p> 
+<h3>Initiative (general idea)</h3> 
+<p>Allows you to propose a change: in practice it opens a political process and ends in a vote if it meets formal requirements.</p> 
+<h3>What is important for an expatriate</h3> 
+<ul> 
+<li>Many decisions that affect your life (mobility, housing, local rules) may be up for voting.</li> 
+<li>The debate is usually technical and with official explanatory material.</li> 
+<li>Not everyone can vote (depends on nationality, level and local rules), but <strong>it is worth understanding</strong>.</li> 
+</ul> 
+<h2>How to avoid fines or conflicts</h2> 
+<ul> 
+<li>Follow the voting calendar of your canton/commune.</li> 
+<li>Read the official brochure (it usually explains arguments for/against).</li> 
+<li>If an issue affects you (e.g. transportation), check what exactly changes and since when.</li> 
+</ul> 
+<h2>Practical Tips</h2> 
+<ul> 
+<li>Avoid informing yourself only through networks: contrast with the official document.</li> 
+<li>Distinguishes: “opinion” vs “legal text that is voted on”.</li> 
+</ul> 
+<h2>Official sources</h2> 
+<ul> 
+<li>Swiss portal: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li> 
+<li>Confederation: <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li> 
+</ul> 
+</div>`
     },
-
     "fb-fraudes-inmigrantes-suiza": {
-        title: "Common fraud targeting immigrants in Switzerland: red flags and protection",
-        description: "Practical alerts: rental scams, fake fines/QR, phishing, fake job offers and impersonation. Red flags and what to do in Switzerland.",
-        keywords: "scams switzerland, fraud switzerland, phishing switzerland, rental scam switzerland",
+        title: "Common frauds against immigrants in Switzerland: signs and how to protect yourself",
+        description: "Practical alerts: rental scams, false fines, phishing, fake “job offers” and impersonation. Typical signs and how to act in Switzerland.",
+        keywords: "Swiss scams, Swiss frauds, Swiss phishing, Swiss rental scam, fake fines",
         keywordsLocalized: true,
-        category: "Alerts & resources",
-        hub: "resources",
+        category: "Alerts and resources",
+        hub: "recursos",
         slug: "fraud-expats-switzerland-alerts",
         readingTime: 2,
-        dateUpdated: "March 2026",
-        summary: "Practical alerts: rental scams, fake fines/QR, phishing, fake job offers and impersonation. Red flags and what to do in Switzerland.",
+        dateUpdated: "Marzo 2026",
+        summary: "Practical alerts: rental scams, false fines, phishing, fake “job offers” and impersonation. Typical signs and how to act in Switzerland.",
         featuredImage: "media/guides/fraudes-inmigrantes-suiza.jpg",
-        imageAlt: "Warning against fraud targeting expatriates in Switzerland",
+        imageAlt: "Caution conceptual image with house keys and contracts",
         relatedSlugs: [],
-        content: `<div class="article-content">
-            <h2>Introduction</h2>
-<p>Most scams are not “advanced tech”—they rely on <strong>urgency</strong>. If you slow down and verify, you reduce risk massively.</p>
-<h2>Context in Switzerland</h2>
-<p>Newcomers are targeted because they need housing/work fast and may not know local verification steps.</p>
-<h2>Common situations that cause problems</h2>
-<p>Typical patterns:</p>
-<ul>
-<li>rental: upfront payment + “no visit possible”</li>
-<li>phishing: SMS/email imitating banks/services</li>
-<li>fake fines/QR: suspicious payment websites</li>
-<li>fake jobs: requests for money, sensitive documents or “fees”</li>
-</ul>
-<p>Simple protocol:</p>
-<ol>
-<li>don’t pay or share sensitive data under pressure</li>
-<li>verify via official channels</li>
-<li>keep evidence</li>
-<li>report to the affected institution/police when appropriate</li>
-</ol>
-<h2>How to avoid fines or conflicts</h2>
-<ul>
-<li>Verify domains and senders; logos prove nothing.</li>
-<li>Use official phone numbers (not the ones in the message).</li>
-</ul>
-<h2>Practical tips</h2>
-<ul>
-<li>“Today or never” pressure is a red flag.</li>
-<li>Payments to “reserve” without a verifiable contract are risky.</li>
-</ul>
-<h2>Official sources</h2>
-<ul>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>fedpol: <a href="https://www.fedpol.admin.ch" target="_blank" rel="noopener noreferrer">https://www.fedpol.admin.ch</a></li>
-</ul>
-        </div>`
+        content: `<div class="article-content"> 
+<h2>Introduction</h2> 
+<p>Most scams are not based on “technology”, but on one thing: <strong>urgency</strong>. If you learn to brake and check, you reduce the risk drastically.</p> 
+<h2>Context in Switzerland</h2> 
+<p>Newcomers are a typical target because:</p> 
+<ul> 
+<li>they need housing and work quickly</li> 
+<li>they do not know local procedures</li> 
+<li>they do not know how to verify documents and payments</li> 
+</ul> 
+<h2>Common situations that generate problems</h2> 
+<h3>Frequent scams (patterns)</h3> 
+<ul> 
+<li><strong>Rent</strong>: advance payment + “cannot visit”.</li> 
+<li><strong>Phishing</strong>: SMS/email that imitates banks or services with links.</li> 
+<li><strong>False fines/QR</strong>: codes that lead to dubious payment websites.</li> 
+<li><strong>Job offers</strong>: they ask you for money, sensitive documents or “fees” to get started.</li> 
+</ul> 
+<h3>What to do (simple protocol)</h3> 
+<ol> 
+<li>Do not pay or send sensitive data in a hurry.</li> 
+<li>Verify through official channel (official website, official phone number).</li> 
+<li>Save evidence (captures, emails).</li> 
+<li>Report if applicable (police, affected entity).</li> 
+</ol> 
+<h2>How to avoid fines or conflicts</h2> 
+<ul> 
+<li>Verify domains and senders; do not trust “logos”.</li> 
+<li>Use official numbers (not the ones in the message).</li> 
+</ul> 
+<h2>Practical Tips</h2> 
+<ul> 
+<li>If they pressure you with “today or never”, it is a bad sign.</li> 
+<li>If they ask you for payment to “reserve” without a verifiable contract, exit.</li> 
+</ul> 
+<h2>Official sources</h2> 
+<ul> 
+<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li> 
+<li>Fedpol (security, according to campaign): <a href="https://www.fedpol.admin.ch" target="_blank" rel="noopener noreferrer">https://www.fedpol.admin.ch</a></li> 
+</ul> 
+</div>`
     },
-
     "fb-normas-locales-ginebra": {
-        title: "Coexistence rules in Switzerland: noise, waste, parking and common pitfalls",
-        description: "Switzerland-wide coexistence guide: quiet hours, waste/recycling habits, parking rules, building regulations and common newcomer misunderstandings. We explain what depends on your canton, commune or building rules.",
-        keywords: "switzerland quiet hours, waste recycling switzerland, parking rules switzerland, building rules switzerland, fines switzerland",
+        title: "Coexistence rules in Switzerland: noise, waste, parking and common rules",
+        description: "National guide to coexistence in Switzerland: quiet hours, waste/recycling, parking, building rules and typical misunderstandings. We explain what depends on the canton, the commune or the internal regulations.",
+        keywords: "Swiss coexistence, Swiss noise, Swiss recycling, Swiss parking, Swiss fines",
         keywordsLocalized: true,
         category: "Living in Switzerland",
-        hub: "living-in-switzerland",
+        hub: "vivir-en-suiza",
         slug: "coexistence-rules-switzerland",
-        readingTime: 2,
-        dateUpdated: "March 2026",
-        summary: "Switzerland-wide coexistence guide: quiet hours, waste/recycling habits, parking rules, building regulations and common newcomer misunderstandings. We explain what depends on your canton, commune or building rules.",
+        readingTime: 3,
+        dateUpdated: "Marzo 2026",
+        summary: "National guide to coexistence in Switzerland: quiet hours, waste/recycling, parking, building rules and typical misunderstandings. We explain what depends on the canton, the commune or the internal regulations.",
         featuredImage: "media/guides/normas-locales-ginebra.jpg",
-        imageAlt: "Swiss coexistence rules: noise, waste disposal, parking",
+        imageAlt: "House, noise and recycling, representing norms of coexistence in Switzerland",
         relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introduction</h2>
@@ -504,508 +518,475 @@ Object.assign(window.siteContent.en.articles, {
 </ul>
         </div>`
     },
-
     "fb-permisos-suiza-actualizacion": {
-        title: "Swiss permits (L, B, C): checklist, common mistakes and real-life scenarios",
-        description: "Practical newcomer guide: L/B/C differences, arrival checklist, situation changes and common mistakes, with official links.",
-        keywords: "permit l switzerland, permit b switzerland, permit c switzerland, swiss permits",
+        title: "Permits in Switzerland (L, B, C): checklist, typical errors and real cases",
+        description: "Practical guide for newcomers: L/B/C differences, arrival checklist, situation changes and frequent errors, with official links.",
+        keywords: "Swiss l permit, Swiss b permit, Swiss c permit, Swiss permits, Swiss procedures",
         keywordsLocalized: true,
-        category: "Procedures & Permits",
-        hub: "procedures",
+        category: "Procedures and Permits",
+        hub: "tramites",
         slug: "swiss-permits-guide",
         readingTime: 2,
-        dateUpdated: "March 2026",
-        summary: "Practical newcomer guide: L/B/C differences, arrival checklist, situation changes and common mistakes, with official links.",
+        dateUpdated: "Marzo 2026",
+        summary: "Practical guide for newcomers: L/B/C differences, arrival checklist, situation changes and frequent errors, with official links.",
         featuredImage: "media/guides/permisos-suiza-actualizacion.jpg",
-        imageAlt: "Swiss residence permits L, B and C side by side",
+        imageAlt: "Closeup of Swiss ID cards and residence permits",
         relatedSlugs: [],
-        content: `<div class="article-content">
-            <h2>Introduction</h2>
-<p>Swiss permits reflect your situation (contract, duration, family) under the relevant legal framework—more than “a card”.</p>
-<h2>Context in Switzerland</h2>
-<p>The framework is federal, but practical steps (appointments, timelines, forms) vary by canton.</p>
-<h2>Common situations that cause problems</h2>
-<ul>
-<li><strong>L</strong>: often linked to shorter stays/contracts.</li>
-<li><strong>B</strong>: multi‑year residence; changes of employer/activity/canton can matter (case‑dependent).</li>
-<li><strong>C</strong>: more stable status after years; some procedures change, obligations remain.</li>
-</ul>
-<h2>How to avoid fines or conflicts</h2>
-<p>Arrival checklist:</p>
-<ol>
-<li>Commune registration.</li>
-<li>Mandatory health insurance within deadlines.</li>
-<li>Proof of address and work.</li>
-<li>Archive official letters and payslips.</li>
-</ol>
-<h2>Practical tips</h2>
-<ul>
-<li>Don’t wait for the card to move forward with other steps.</li>
-<li>When moving cantons, verify local administrative procedures.</li>
-</ul>
-<h2>Official sources</h2>
-<ul>
-<li>SEM: <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-</ul>
-        </div>`
+        content: `<div class="article-content"> 
+<h2>Introduction</h2> 
+<p>Swiss permits depend on your situation (contract, duration, family) and the applicable legal framework. It is not just “a card”.</p> 
+<h2>Context in Switzerland</h2> 
+<p>The basis is federal, but the practical processing (appointments, deadlines, forms) may vary depending on the canton.</p> 
+<h2>Common situations that generate problems</h2> 
+<ul> 
+<li><strong>L</strong>: usually associated with contracts/shorter stays.</li> 
+<li><strong>B</strong>: temporary residence of several years; Be careful with changes in employer, activity or canton (as applicable).</li> 
+<li><strong>C</strong>: more stable status after years; It changes the panorama of some procedures, but does not eliminate obligations.</li> 
+</ul> 
+<h2>How to avoid fines or conflicts</h2> 
+<p>Checklist upon arrival:</p> 
+<ol> 
+<li>Registration in the commune.</li> 
+<li>Medical insurance within the applicable period.</li> 
+<li>Proof of address and work.</li> 
+<li>Archive of official letters and payrolls.</li> 
+</ol> 
+<h2>Practical Tips</h2> 
+<ul> 
+<li>Do not wait “to have the card” to start other steps.</li> 
+<li>If you change canton, check the exact procedure of the new canton/commune.</li> 
+</ul> 
+<h2>Official sources</h2> 
+<ul> 
+<li>SEM: <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li> 
+<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li> 
+</ul> 
+</div>`
     },
-
-    "fb-rav-paro-suiza": {
-        title: "RAV and unemployment in Switzerland: how it works, steps and obligations",
-        description: "Practical guide to Swiss unemployment insurance (ALV/AC): what the RAV does, who is eligible, how payments are calculated (indicative), duration, obligations, common sanctions and a newcomer checklist.",
-        keywords: "rav switzerland, unemployment switzerland, alv ac, unemployment insurance switzerland",
-        keywordsLocalized: true,
-        category: "Work & Salaries",
-        hub: "work",
-        slug: "rav-unemployment-switzerland",
-        readingTime: 4,
-        dateUpdated: "March 2026",
-        summary: "Practical guide to Swiss unemployment insurance (ALV/AC): what the RAV does, who is eligible, how payments are calculated (indicative), duration, obligations, common sanctions and a newcomer checklist.",
-        featuredImage: "media/guides/rav-paro-suiza.jpg",
-        imageAlt: "RAV office and unemployment insurance form in Switzerland",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-            <h2>Introduction</h2>
-<p>Unemployment in Switzerland is not “just a payment”: it’s a structured system with <strong>rules, deadlines and evidence</strong>. If you run it with a method (documentation + calendar + written communication), it tends to be predictable. If you improvise, you’ll likely face delays, back‑and‑forth with the fund, or sanctions.</p>
-<h2>Context in Switzerland</h2>
-<p>You will usually deal with two entities (plus one key idea):</p>
-<ul>
-<li><strong>RAV / ORP</strong> (<em>Office régional de placement</em>): assigns you an advisor, sets job‑search expectations, schedules appointments and may offer “measures” (courses, reintegration programmes, etc.).</li>
-<li><strong>Unemployment fund</strong> (<em>Arbeitslosenkasse / caisse de chômage</em>): checks eligibility, calculates your benefit and <strong>pays</strong> it.</li>
-</ul>
-<p>Key idea: the system runs on documentation. Saying “I searched” is not enough — you must be able to prove it.</p>
-<p>The legal framework is federal (ALV/AC), but practical implementation can vary by canton (appointment rhythm, forms, what is considered “reasonable”, etc.).</p>
-<h2>Common situations that cause problems</h2>
-<h3>What the RAV is (and what it isn’t)</h3>
-<p>The RAV is not a classic “placement agency” that finds a job for you. Its role is to:</p>
-<ul>
-<li>confirm you are available for work,</li>
-<li>structure your job search (appointments, goals),</li>
-<li>and record your process (measures, applications, evidence).</li>
-</ul>
-<p>In practice, <strong>you</strong> remain the driver of the job search. The RAV provides the framework.</p>
-<h3>Who is usually eligible (practical view)</h3>
-<p>Eligibility is case‑dependent, but it typically revolves around:</p>
-<ul>
-<li>having a sufficient <strong>contribution period</strong> within the reference window,</li>
-<li>being unemployed and <strong>available</strong> to work,</li>
-<li>being <strong>registered</strong> and complying with obligations (appointments, documented job search),</li>
-<li>and not being in a situation that triggers sanctions or exclusions (for example, certain resignations without an accepted reason can lead to “no‑pay” days).</li>
-</ul>
-<p>For newcomers, the sensitive point is often proving contributions and demonstrating real availability (language, permits, realistic job options). It’s not moral judgement — it’s eligibility and employability.</p>
-<h3>How much you get (indicative)</h3>
-<p>Benefits are calculated on your <strong>insured salary</strong> and often expressed as a percentage. As a general rule:</p>
-<ul>
-<li>many people receive roughly <strong>70%</strong> of the insured salary, and</li>
-<li>roughly <strong>80%</strong> in certain cases (for example, family dependents or specific situations).</li>
-</ul>
-<p>This is not a “guess”: the fund calculates it based on your documents. Missing documents often mean delayed payments or later recalculations.</p>
-<h3>Duration: compensated days, not “months”</h3>
-<p>Duration is often expressed in <strong>daily allowances</strong> (for example, 200/260/400/520), depending on factors such as:</p>
-<ul>
-<li>contribution history,</li>
-<li>age,</li>
-<li>and conditions of the case.</li>
-</ul>
-<p>Practical translation: two people who become unemployed on the same day may have different durations. The system is managed in compensated days rather than exact calendar months.</p>
-<h3>Obligations (and where sanctions actually happen)</h3>
-<p>Most problems come from lack of system, not lack of motivation. Typical obligations include:</p>
-<ul>
-<li><strong>provable job search</strong> (real applications, relevant roles, evidence),</li>
-<li>attending <strong>appointments</strong> and measures,</li>
-<li>accepting <strong>reasonable</strong> measures/offers (depending on profile and phase),</li>
-<li>submitting documents <strong>on time</strong>.</li>
-</ul>
-<p>Common sanction triggers:</p>
-<ul>
-<li>missed deadlines (late submissions),</li>
-<li>no evidence kept (emails/screenshots/job ad),</li>
-<li>resigning without advice (can lead to sanctions),</li>
-<li>“filler applications” (not aligned with your profile or without evidence).</li>
-</ul>
-<h3>A realistic example</h3>
-<p>Case A: “My contract ends on the 31st. I register on the 15th next month and only start keeping evidence from then.” Typical result: friction, lost days or delays.</p>
-<p>Case B: “I register early and from day one I keep a tracker + evidence.” Typical result: smoother process and fewer questions.</p>
-<h2>How to avoid fines or conflicts</h2>
-<h3>Minimum checklist (documentation)</h3>
-<p>Prepare a (digital) folder with:</p>
-<ol>
-<li>ID + permit (if applicable)</li>
-<li>contracts, termination letters, payslips</li>
-<li>relevant certificates (depending on your case)</li>
-<li>application “evidence pack”</li>
-</ol>
-<h3>How to document applications without going crazy</h3>
-<p>A simple spreadsheet is enough. Useful columns:</p>
-<ul>
-<li>date sent</li>
-<li>company and role</li>
-<li>channel (portal/email/referral)</li>
-<li>evidence (link to pdf/screenshot/email)</li>
-<li>status/response</li>
-</ul>
-<p>Minimum evidence per application:</p>
-<ul>
-<li>job ad or role description (PDF/screenshot),</li>
-<li>the CV/cover letter you sent,</li>
-<li>confirmation (email or portal screenshot).</li>
-</ul>
-<h3>Communication: in writing, and ahead of deadlines</h3>
-<p>If they request something, reply in writing and <strong>before</strong> the deadline. If you hand in documents in person, keep a receipt if one exists. In Switzerland, when there’s disagreement, the documented record wins.</p>
-<h2>Practical tips</h2>
-<h3>Advice for newcomers</h3>
-<ul>
-<li>Don’t assume it works like in your home country: here it’s very <strong>documentation‑driven</strong>.</li>
-<li>If your local language is limited, say it early and keep the job search realistic (companies, sectors, area). You must search — the method must be viable.</li>
-<li>If you are considering resigning, get advice first: a “pride decision” can cost you weeks without payments.</li>
-</ul>
-<h3>A weekly routine that usually works</h3>
-<ol>
-<li>fixed job‑search blocks (treat it like work)</li>
-<li>fewer, higher‑quality applications</li>
-<li>save evidence immediately (not “tomorrow”)</li>
-<li>a calendar for appointments and deadlines</li>
-</ol>
-<h3>Red flag</h3>
-<p>If you keep “reconstructing” applications later, you’re already behind. Simplify: auto screenshots, a monthly folder, and a tracker kept up to date.</p>
-<h2>Official sources</h2>
-<ul>
-<li>ch.ch: <a href="https://www.ch.ch/en/work/unemployment/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/en/work/unemployment/</a></li>
-<li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
-</ul>
-        </div>`
-    },
-
     "fb-seguro-medico-lamal-elegir": {
-        title: "How to choose Swiss health insurance (LAMal/KVG): model, deductible and premium",
-        description: "Practical guide to choosing LAMal in Switzerland: access models (standard/GP/telmed/HMO), deductible and cost sharing, accident cover, add-ons, switching deadlines and a newcomer checklist.",
-        keywords: "lamal switzerland, swiss health insurance, deductible switzerland, premium switzerland, hmo telmed",
+        title: "How to choose health insurance (LAMal) in Switzerland: model, deductible and premium",
+        description: "Practical guide to choosing LAMal in Switzerland: models (standard/headquarters/telmed/HMO), deductible and co-payment, accidents, complementary, change periods and checklist for newcomers.",
+        keywords: "lamal switzerland, switzerland health insurance, swiss franchise, swiss premium, hmo telmed",
         keywordsLocalized: true,
-        category: "Health & LAMal",
-        hub: "health",
+        category: "Health and LAMal",
+        hub: "salud",
         slug: "choosing-health-insurance-switzerland",
         readingTime: 4,
-        dateUpdated: "March 2026",
-        summary: "Practical guide to choosing LAMal in Switzerland: access models (standard/GP/telmed/HMO), deductible and cost sharing, accident cover, add-ons, switching deadlines and a newcomer checklist.",
+        dateUpdated: "Marzo 2026",
+        summary: "Practical guide to choosing LAMal in Switzerland: models (standard/headquarters/telmed/HMO), deductible and co-payment, accidents, complementary, change periods and checklist for newcomers.",
         featuredImage: "media/guides/seguro-medico-lamal-elegir.jpg",
-        imageAlt: "Comparing LAMal health insurance plans in Switzerland",
+        imageAlt: "Conceptual image of savings and health in the Swiss system",
         relatedSlugs: [],
         content: `<div class="article-content">
-            <h2>Introduction</h2>
-<p>Mandatory basic insurance (LAMal/KVG) covers the same legally defined benefits across insurers. What changes is:</p>
+            <h2>Introducción</h2>
+<p>En Suiza, el seguro básico (LAMal/KVG) es obligatorio y <strong>cubre las mismas prestaciones legales</strong> en todas las aseguradoras. Lo que cambia es:</p>
 <ul>
-<li>the <strong>premium</strong> (monthly price),</li>
-<li>the <strong>access model</strong> (how you enter the system: standard, GP/family doctor, telmed, HMO),</li>
-<li>and the practical <strong>service</strong> experience (billing clarity, support, apps, processes).</li>
+<li>la <strong>prima</strong> (precio mensual),</li>
+<li>el <strong>modelo de acceso</strong> (cómo entras al sistema: libre elección, cabecera, telmed, HMO),</li>
+<li>y la calidad de <strong>servicio</strong> (facturación, atención, app, claridad).</li>
 </ul>
-<p>You don’t need to be an expert to choose well. You need to separate the decisions, understand your risk, and compare calmly.</p>
-<h2>Context in Switzerland</h2>
-<p>Split the choice into three decisions:</p>
+<p>Elegir bien no requiere ser experto. Requiere separar decisiones, entender tu riesgo y comparar con calma.</p>
+<h2>Contexto en Suiza</h2>
+<p>Para no equivocarte, separa tres decisiones:</p>
 <ol>
-<li>insurer (price/service)</li>
-<li>model (standard vs GP vs telmed vs HMO)</li>
-<li>deductible (how much you pay before reimbursements)</li>
+<li><strong>Aseguradora</strong> (precio/servicio)</li>
+<li><strong>Modelo</strong> (standard vs médico de cabecera vs telmed vs HMO)</li>
+<li><strong>Franquicia</strong> (cuánto pagas tú antes de reembolso)</li>
 </ol>
-<p>Two concepts that often trip newcomers:</p>
+<p>Además, hay dos conceptos que generan errores al llegar:</p>
 <ul>
-<li><strong>Basic vs complementary</strong>: basic insurance (LAMal) is mandatory; complementary plans are optional and usually require acceptance.</li>
-<li><strong>Accidents</strong>: if you’re employed and covered for accidents by your employer, you can typically exclude “accident” from basic insurance. If you’re not covered via employment, you should include it.</li>
+<li><strong>Básico vs complementarios</strong>: el básico (LAMal) es obligatorio; los complementarios son opcionales y suelen requerir aceptación.</li>
+<li><strong>Accidentes</strong>: si trabajas y estás cubierto por accidente a través del empleador, normalmente puedes excluir “accidente” del básico. Si no, conviene incluirlo.</li>
 </ul>
-<h2>Common situations that cause problems</h2>
-<h3>1) Models: freedom vs discipline (where mistakes happen)</h3>
-<p>Models are the #1 source of surprises because they define <strong>the rules for seeing a doctor</strong>.</p>
+<h2>Situaciones comunes que generan problemas</h2>
+<h3>1) Modelos: libertad vs disciplina (y dónde te puedes equivocar)</h3>
+<p>Los modelos son la fuente nº1 de “sorpresas”, porque cambian <strong>las reglas para ir al médico</strong>.</p>
 <ul>
-<li><strong>Standard</strong>: most flexibility; often more expensive.</li>
-<li><strong>GP / family doctor</strong> (<em>Hausarzt / médecin de famille</em>) model: your GP coordinates referrals; cheaper, but you must follow the pathway.</li>
-<li><strong>Telmed</strong>: you call a medical hotline first; they advise and refer you. Cheaper, but requires discipline.</li>
-<li><strong>HMO / network</strong>: you’re assigned to a medical centre/network. Often cheaper, but limits choice.</li>
+<li><strong>Standard (libre elección)</strong>: más flexibilidad, suele ser más caro.</li>
+<li><strong>Médico de cabecera (Hausarzt / médecin de famille)</strong>: coordinación por un médico principal; exige seguir el circuito.</li>
+<li><strong>Telmed</strong>: primero llamas a una línea médica; después te derivan. Ahorra prima, pero requiere disciplina.</li>
+<li><strong>HMO / red</strong>: centro/red asignada. Suele ser más barato, pero limita elección.</li>
 </ul>
-<p>Typical mistake: picking telmed/HMO to save money, then bypassing the rule “because it was urgent” or “because I already know a specialist”. That can lead to reimbursement issues or billing disputes.</p>
-<h3>2) Deductible + cost sharing: your real cost is not just “12 premiums”</h3>
-<p>Your annual cost is usually more than “12 premiums”. Expect:</p>
+<p><strong>Error típico:</strong> elegir telmed/HMO por ahorrar y luego saltarse la regla “porque era urgente” o “porque ya conozco a un especialista”. Eso puede acabar en facturas no reembolsadas o discusiones.</p>
+<h3>2) Franquicia + copago: el coste real no es solo la prima</h3>
+<p>El coste anual del seguro no es solo “12 primas”. Normalmente tendrás:</p>
 <ul>
-<li>a <strong>deductible</strong> (amount you pay first each year before reimbursements),</li>
-<li><strong>cost sharing</strong> (a percentage after the deductible, up to a yearly cap),</li>
-<li>and potentially additional costs depending on the situation (e.g., hospital stays).</li>
+<li><strong>franquicia</strong> (gasto inicial anual que pagas tú),</li>
+<li><strong>participación/copago</strong> (parte de costes después de franquicia, hasta un máximo),</li>
+<li>y otros costes según el caso (por ejemplo, hospitalización).</li>
 </ul>
-<p>How to think about the deductible without complicated math:</p>
+<p><strong>Cómo pensar la franquicia (sin fórmulas raras):</strong></p>
 <ul>
-<li>if you’re healthy and have a buffer, a higher deductible can make sense (lower premium, higher one‑off risk),</li>
-<li>if you have predictable medical expenses, a lower deductible reduces uncertainty.</li>
+<li>si eres sano y tienes colchón, franquicia alta puede tener sentido (prima menor, más riesgo de gasto puntual).</li>
+<li>si tienes gastos previsibles, franquicia baja reduce incertidumbre.</li>
 </ul>
-<p>Simple example (indicative): Person A rarely uses healthcare → often prefers lower premiums + higher deductible. Person B has regular follow‑ups → often prefers predictability.</p>
-<h3>3) Complementary insurance: why “later” can be a bad plan</h3>
-<p>Complementary plans (often called LCA) can cover things the basic plan typically doesn’t cover well (depending on the policy): dental, glasses, private/semi‑private hospital rooms, etc.</p>
-<p>Typical mistake: “I’ll buy it when I need it”. Complementary plans often involve:</p>
+<p><strong>Ejemplo simple (orientativo):</strong> Persona A con pocos gastos médicos prioriza prima baja y asume el riesgo. Persona B con seguimiento médico prioriza previsibilidad.</p>
+<h3>3) Complementarios: por qué no conviene dejarlos “para después”</h3>
+<p>Los complementarios (LCA) cubren cosas que el básico suele no cubrir bien (según póliza): dentista, gafas, hospital privado/semiprivado, etc.</p>
+<p><strong>Error típico:</strong> “lo contrato cuando lo necesite”. En complementarios suele haber:</p>
 <ul>
-<li>a medical questionnaire,</li>
-<li>possible rejection,</li>
-<li>or exclusions.</li>
+<li>cuestionario médico,</li>
+<li>posibilidad de rechazo,</li>
+<li>o exclusiones.</li>
 </ul>
-<p>If you think you’ll want them, compare early.</p>
-<h3>4) Switching each year: deadlines and proof</h3>
-<p>Switching is usually prepared in autumn and involves deadlines. Practical translation:</p>
+<p>Si crees que los vas a necesitar, compara temprano.</p>
+<h3>4) Cambio de seguro: plazos, pruebas y calendario práctico</h3>
+<p>En general, la comparación se hace en otoño y hay plazos para cambiar. Traducción práctica:</p>
 <ul>
-<li>compare early,</li>
-<li>don’t wait until the last day,</li>
-<li>keep written confirmations.</li>
+<li>compara con tiempo,</li>
+<li>cancela/solicita sin apurar,</li>
+<li>y guarda confirmaciones por escrito.</li>
 </ul>
-<p>Typical mistake: deciding at the last minute and not being able to prove the cancellation arrived in time.</p>
-<h2>How to avoid fines or conflicts</h2>
-<h3>A step-by-step checklist</h3>
+<p><strong>Error típico:</strong> decidir el cambio el último día y no poder demostrar que la cancelación llegó a tiempo.</p>
+<h2>Cómo evitar multas o conflictos</h2>
+<h3>Checklist para elegir (paso a paso)</h3>
 <ol>
-<li>Define your situation: employed/self‑employed/student, family, usual doctor, health needs.</li>
-<li>Choose a model you will <strong>actually follow</strong> in real life.</li>
-<li>Select a deductible based on risk and buffer (not only the premium).</li>
-<li>Check whether accident cover should be included in basic insurance.</li>
-<li>Compare offers in the official comparator.</li>
-<li>Document everything: emails, confirmations, dates.</li>
+<li>Define tu situación: ¿trabajas? ¿familia? ¿médico habitual?</li>
+<li>Elige el modelo que <strong>realmente</strong> vas a cumplir.</li>
+<li>Selecciona franquicia según riesgo y colchón (no solo por prima).</li>
+<li>Revisa si debes incluir “accidente” en el básico.</li>
+<li>Compara ofertas en el comparador oficial.</li>
+<li>Documenta: correos, confirmaciones, fechas.</li>
 </ol>
-<h3>How to compare in 15 minutes (a method that works)</h3>
+<h3>Cómo comparar sin perderte (método de 15 minutos)</h3>
 <ol>
-<li>Filter by your place of residence (premiums vary by region).</li>
-<li>Keep the same model and deductible while comparing (apples to apples).</li>
-<li>Look at the yearly cost, not just the cheapest month.</li>
-<li>Check operational constraints: hotline hours (telmed), assigned centres (HMO), etc.</li>
-<li>When in doubt, pick the option with rules you can reliably follow and good support — you don’t want process friction when you’re sick.</li>
+<li>Filtra por tu lugar de residencia (la prima cambia por región).</li>
+<li>Fija el mismo modelo y franquicia para comparar “manzanas con manzanas”.</li>
+<li>Mira el precio anual (12 meses) y no solo el mes más barato.</li>
+<li>Revisa si hay condiciones operativas que te afecten: telmed con horarios, HMO con centro asignado, etc.</li>
+<li>Si dudas entre dos opciones, gana la que tenga reglas más fáciles de cumplir y mejor soporte (cuando estás enfermo, no quieres pelearte con el proceso).</li>
 </ol>
-<h3>A coherent decision (quick examples)</h3>
+<h3>Ejemplo rápido (decisión coherente)</h3>
 <ul>
-<li>Healthy, disciplined, employed → telmed + higher deductible can be coherent.</li>
-<li>Kids or frequent visits → GP model + lower deductible often reduces stress.</li>
-<li>Need flexibility → standard may be worth the price.</li>
+<li>Si trabajas, no vas casi al médico y eres disciplinado: telmed + franquicia alta puede ser coherente.</li>
+<li>Si tienes niños o visitas frecuentes: médico de cabecera + franquicia más baja suele reducir estrés.</li>
+<li>Si viajas mucho y necesitas flexibilidad: standard puede compensar.</li>
 </ul>
-<h2>Practical tips</h2>
-<h3>Common newcomer pitfalls</h3>
+<h3>Señales de buena elección</h3>
 <ul>
-<li>“Coverage is the same” does not mean “the process is the same”: the model matters.</li>
-<li>Don’t optimise for the first month; think in annual cost and risk.</li>
-<li>When in doubt, ask insurers in writing (you keep a record).</li>
+<li>sabes qué hacer si mañana estás enfermo (a quién llamas, dónde vas),</li>
+<li>puedes asumir tu franquicia sin pánico,</li>
+<li>y entiendes el modelo (telmed/HMO/cabecera) sin “atajos”.</li>
 </ul>
-<h3>Mini glossary</h3>
+<h2>Consejos prácticos</h2>
+<h3>Para recién llegados (errores que se repiten)</h3>
 <ul>
-<li><strong>LAMal/KVG</strong>: mandatory basic insurance.</li>
-<li><strong>Premium</strong>: monthly payment.</li>
-<li><strong>Deductible</strong>: yearly amount you pay first.</li>
-<li><strong>Cost sharing</strong>: what you pay after the deductible (up to a cap).</li>
-<li><strong>Telmed/HMO/GP</strong>: models with different rules.</li>
+<li>“La cobertura es igual” no significa “el proceso es igual”: el modelo manda.</li>
+<li>No elijas por la prima del primer mes: mira coste anual y riesgo.</li>
+<li>Si tienes dudas, pregunta por escrito (queda registro).</li>
 </ul>
-<h3>If you move within Switzerland (budget detail people miss)</h3>
-<p>Premiums depend on your region. If you move canton/municipality, your premium can change too. Practical advice:</p>
+<h3>Mini‑glosario útil</h3>
 <ul>
-<li>inform your insurer as soon as your address is confirmed,</li>
-<li>check whether your chosen model (HMO/network) still has convenient centres near your new home,</li>
-<li>and re‑do your annual budget (not only the cheapest month).</li>
+<li><strong>LAMal/KVG</strong>: seguro básico obligatorio.</li>
+<li><strong>Prima</strong>: pago mensual.</li>
+<li><strong>Franquicia</strong>: gasto anual inicial que asumes tú.</li>
+<li><strong>Copago / quote‑part / Selbstbehalt</strong>: parte que pagas después de franquicia (hasta un máximo).</li>
+<li><strong>Telmed/HMO/Hausarzt</strong>: modelos con reglas distintas.</li>
 </ul>
-<h2>Official sources</h2>
+<h3>Si te mudas dentro de Suiza (detalle que afecta al presupuesto)</h3>
+<p>Las <strong>primas</strong> dependen de la región. Si cambias de cantón/comuna, tu prima puede cambiar también. Recomendación práctica:</p>
 <ul>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>FOPH (BAG): <a href="https://www.bag.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bag.admin.ch</a></li>
-<li>Priminfo (official comparator): <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
+<li>notifica el cambio de domicilio a tu aseguradora en cuanto lo tengas confirmado,</li>
+<li>revisa si tu modelo (HMO/red) sigue teniendo centros “cerca” de tu nueva vivienda,</li>
+<li>y recalcula tu presupuesto anual (no solo el mes).</li>
+</ul>
+<h2>Fuentes oficiales</h2>
+<ul>
+<li>ch.ch (seguro): <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>Oficina Federal de Salud Pública (BAG/OFSP): <a href="https://www.bag.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bag.admin.ch</a></li>
+<li>Priminfo (comparador oficial): <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
 </ul>
         </div>`
     },
-
     "fb-sistema-politico-suiza": {
-        title: "How Switzerland works: Confederation, cantons and communes",
-        description: "A clear guide for newcomers: what the federal level decides, what changes by canton, and what your commune manages. With practical examples and official sources.",
-        keywords: "swiss political system, cantons switzerland, commune switzerland, federalism switzerland",
+        title: "How the Swiss political system works: Confederation, cantons and commune",
+        description: "Clear guide to the Swiss system for expatriates: what the Confederation decides, what changes by canton and what your commune manages. With examples and official sources.",
+        keywords: "Swiss political system, Swiss cantons, Swiss commune, Swiss confederation, living in Switzerland",
         keywordsLocalized: true,
         category: "Living in Switzerland",
-        hub: "living-in-switzerland",
+        hub: "vivir-en-suiza",
         slug: "political-system-switzerland",
         readingTime: 2,
-        dateUpdated: "March 2026",
-        summary: "A clear guide for newcomers: what the federal level decides, what changes by canton, and what your commune manages. With practical examples and official sources.",
+        dateUpdated: "Marzo 2026",
+        summary: "Clear guide to the Swiss system for expatriates: what the Confederation decides, what changes by canton and what your commune manages. With examples and official sources.",
         featuredImage: "media/guides/palacio-federal.jpg",
-        imageAlt: "Swiss Federal Palace in Bern with its classical façade",
+        imageAlt: "Swiss Federal Palace in Bern with its monumental facade",
         relatedSlugs: [],
-        content: `<div class="article-content">
-            <h2>Introduction</h2>
-<p>Many newcomer mistakes come from assuming Switzerland is “the same everywhere”. It is not. Switzerland is <strong>federal and highly decentralized</strong>, and daily life depends on your canton and commune.</p>
-<h2>Context in Switzerland</h2>
-<p>Think in three layers:</p>
-<ul>
-<li><strong>Federal (Confederation)</strong>: framework rules and nationwide coordination.</li>
-<li><strong>Canton</strong>: many concrete rules and implementation (taxes, education, administration).</li>
-<li><strong>Commune (municipality)</strong>: local services and procedures (registration, waste, local fees).</li>
-</ul>
-<h2>Common situations that cause problems</h2>
-<h3>What is often federal</h3>
-<ul>
-<li>National guidance portals and core frameworks.</li>
-<li>Migration and labour-market coordination (often implemented cantonally).</li>
-</ul>
-<h3>What often varies by canton</h3>
-<ul>
-<li><strong>Taxes</strong> (real burden and deductions).</li>
-<li><strong>School system</strong> (structure and calendars).</li>
-<li><strong>Administrative procedures</strong> (forms, appointments, processing times).</li>
-</ul>
-<h3>What often depends on your commune</h3>
-<ul>
-<li>Arrival registration / residents’ office.</li>
-<li>Local services and fees.</li>
-<li>Practical coexistence rules (noise, schedules) depending on local rules.</li>
-</ul>
-<h2>How to avoid fines or conflicts</h2>
-<ol>
-<li>Identify your canton and commune.</li>
-<li>Start with <strong>ch.ch</strong> for orientation, then check the <strong>official canton portal</strong> for your exact rules.</li>
-<li>Keep documentation (letters, confirmations, emails).</li>
-</ol>
-<h2>Practical tips</h2>
-<ul>
-<li>If you hear “In Switzerland it’s like this”, ask: <strong>which canton? which commune?</strong></li>
-<li>For permits, taxes or unemployment, rely on official sources first.</li>
-</ul>
-<h2>Official sources</h2>
-<ul>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>admin.ch: <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
-<li>SEM: <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
-<li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
-</ul>
-        </div>`
+        content: `<div class="article-content"> 
+<h2>Introduction</h2> 
+<p>Many confusions when arriving in Switzerland come from a mistaken idea: “the country works the same everywhere.” Switzerland is <strong>federal and decentralized</strong>. This affects taxes, school, certain procedures and even local regulations.</p> 
+<h2>Context in Switzerland</h2> 
+<p>In practice, your life is governed by <strong>three levels</strong>:</p> 
+<ul> 
+<li>HTMLTAG_15___Confederation (federal)</strong>: framework rules, migration (many bases), national coordination.</li> 
+<li><strong>Canton</strong>: much of the implementation and specific regulations (taxes, education, public health, administration).</li> 
+<li><strong>Commune (municipality)</strong>: local management (registration, garbage, certain permits, services and fees).</li> 
+</ul> 
+<h2>Common situations that generate problems</h2> 
+<h3>What “federal” usually means</h3> 
+<ul> 
+<li>General legal framework and national portals.</li> 
+<li>Coordination of migration and labor market (with cantonal execution).</li> 
+<li>Federal infrastructure and statistics.</li> 
+</ul> 
+<h3>What usually varies by canton</h3> 
+<ul> 
+<li><strong>Taxes</strong> (actual load and deductions).</li> 
+<li><strong>School</strong> (calendar, organization, criteria).</li> 
+<li><strong>Procedures</strong> (appointments, forms, deadlines, offices).</li> 
+</ul> 
+<h3>What usually depends on your commune</h3> 
+<ul> 
+<li>Registration upon arrival (inhabitant control).</li> 
+<li>Local services (waste, taxes, communication).</li> 
+<li>Very specific coexistence rules (noises, schedules, etc.).</li> 
+</ul> 
+<h2>How to avoid fines or conflicts</h2> 
+<ol> 
+<li>Identify your canton (GE, VD, ZH…) and your commune.</li> 
+<li>Check the correct level first: <strong>ch.ch</strong> for guidance + <strong>canton portal</strong> for applicable rules.</li> 
+<li>Always save evidence: confirmations, letters, emails.</li> 
+</ol> 
+<h2>Practical Tips</h2> 
+<ul> 
+<li>If someone says “it's like that in Switzerland”, ask: <strong>in which canton? in which commune?</strong></li> 
+<li>For sensitive topics (permits, taxes, unemployment), prioritize official sources and avoid “shortcuts”.</li> 
+</ul> 
+<h2>Official sources</h2> 
+<ul> 
+<li>Swiss portal: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li> 
+<li>Confederation: <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li> 
+<li>SEM (migration): <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li> 
+<li>SECO (job market): <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li> 
+</ul> 
+</div>`
     },
-
     "fb-trabajar-en-suiza-guia": {
-        title: "Working in Switzerland: job search, negotiation and a strong start",
-        description: "Practical job guide: Swiss-style CV, interviews, salary negotiation, contracts and common mistakes for newcomers.",
-        keywords: "work in switzerland, job search switzerland, swiss cv, interview switzerland, swiss contract",
+        title: "Working in Switzerland: how to look for a job, negotiate and get off to a good start",
+        description: "Guide to finding a job in Switzerland: CV, interviews, salary negotiation, contract and common mistakes. Practical approach for newcomers.",
+        keywords: "work in Switzerland, look for a job in Switzerland, Swiss CV, Swiss interview, Swiss contract",
         keywordsLocalized: true,
-        category: "Work & Salaries",
-        hub: "work",
+        category: "Work and Salaries",
+        hub: "trabajo",
         slug: "working-in-switzerland-guide",
-        readingTime: 4,
-        dateUpdated: "March 2026",
-        summary: "Practical job guide: Swiss-style CV, interviews, salary negotiation, contracts and common mistakes for newcomers.",
+        readingTime: 14,
+        dateUpdated: "Marzo 2026",
+        summary: "Cornerstone guide to working in Switzerland: how to look for a job, key platforms, salaries, contracts, trial period, unemployment benefits (RAV) and typical mistakes of newcomers.",
         featuredImage: "media/guides/buscar-empleo-suiza.jpg",
-        imageAlt: "Professional in a job interview in Switzerland",
-        relatedSlugs: [],
+        imageAlt: "Person working in a modern office in Switzerland with views of the mountains",
+        relatedSlugs: ["contratos-de-trabajo-suiza", "periodo-prueba-preaviso-suiza", "salarios-sueldo-suiza", "rav-paro-suiza", "seguros-sociales-suiza", "tramites-llegada-suiza"],
         content: `<div class="article-content">
-            <h2>Introduction</h2>
-<p>Working in Switzerland isn’t “impossible”, but it does require method. The market often rewards <strong>clarity</strong> (a structured CV with measurable impact), <strong>coherence</strong> (your profile matches the role), and <strong>follow‑through</strong> (documents, deadlines, and written confirmations).</p>
-<p>This guide is a practical roadmap: how to search, how to present yourself, what to check in the contract, and how to start well so you avoid the common newcomer mistakes.</p>
-<h2>Context in Switzerland</h2>
-<p>Three factors change the whole experience:</p>
-<h3>Language and region</h3>
-<p>Switzerland is multilingual. The working language depends on the region and the sector. Even with strong English, many roles value the local language (German/French/Italian) for integration and customer work.</p>
-<h3>Your right to work (permits/status)</h3>
-<p>Hiring timelines and admin steps depend on your nationality and residence status. If you already have the right to work (permit/status), say it clearly in your application.</p>
-<h3>Sector expectations</h3>
-<p>Some fields (healthcare, education, trades) require recognition of diplomas or specific certificates. Others care more about portfolio/projects and recent results.</p>
-<h2>Common situations that cause problems</h2>
-<h3>1) Applications that never pass the first filter</h3>
-<p>Typical issues:</p>
-<ul>
-<li>one generic CV “for everything” (no results, no focus),</li>
-<li>long cover letters with little concrete value,</li>
-<li>unclear availability, location, or work authorization.</li>
-</ul>
-<p>What tends to work better:</p>
-<ul>
-<li>a 1–2 page CV with <strong>measurable achievements</strong> (impact, numbers, projects),</li>
-<li>recent experience first and tailored to the posting,</li>
-<li>if a letter is requested: short and structured (fit, one concrete example, availability).</li>
-</ul>
-<h3>2) CV and documents: prepare before you apply</h3>
-<p>Practical checklist:</p>
-<ul>
-<li>CV in PDF (clear filename like <code>First_Last_CV.pdf</code>).</li>
-<li>Copies of relevant diplomas/certificates.</li>
-<li>A reference list (and ideally a heads‑up to those people).</li>
-<li>If applicable: permit documents, recognition status for diplomas/certifications.</li>
-</ul>
-<p>Tip: create an “applications” folder with subfolders per company. It prevents chaos.</p>
-<h3>3) Interviews: what’s really being assessed</h3>
-<p>Beyond experience, you’re evaluated on:</p>
-<ul>
-<li><strong>punctuality</strong> and preparation (you read the company),</li>
-<li>clarity about responsibilities and decisions,</li>
-<li>collaboration (conflict example and how you handled it),</li>
-<li>realistic salary expectations.</li>
-</ul>
-<p>A simple tactic: prepare 6–8 STAR stories (Situation–Task–Action–Result) and adapt them on the fly.</p>
-<h3>4) Salary and negotiation: don’t “guess a number”</h3>
-<p>Before you give a figure:</p>
-<ul>
-<li>research ranges for your sector and region,</li>
-<li>clarify whether the package includes a 13th salary (if applicable) or bonus,</li>
-<li>confirm workload (80%/100%) and time model.</li>
-</ul>
-<p>Negotiation isn’t “haggling”: it’s aligning expectations. If you ask for more, tie it to value (scope, experience, scarcity of skills).</p>
-<h3>5) The contract: what often trips up newcomers</h3>
-<p>Review calmly:</p>
-<ul>
-<li><strong>probation period</strong> and conditions,</li>
-<li><strong>notice period</strong> (length and when it applies),</li>
-<li>weekly hours and time tracking,</li>
-<li>vacation policy (legal minimum vs company policy),</li>
-<li>whether a <strong>13th salary</strong> exists,</li>
-<li>remote work terms (if offered),</li>
-<li>accident insurance (typically handled by the employer for employees).</li>
-</ul>
-<p>If something is ambiguous, ask in writing before signing.</p>
-<h3>6) Payslip basics: gross vs net and common deductions</h3>
-<p>Many newcomers are surprised by their first Swiss payslip. Depending on your situation you may see:</p>
-<ul>
-<li>social security contributions (e.g., AHV/AVS, unemployment),</li>
-<li>pension fund contributions (BVG/LPP) under certain conditions,</li>
-<li>and <strong>withholding tax</strong> in some cases.</li>
-</ul>
-<p>Practical tip: ask HR/payroll to explain the payslip once. It’s normal, and it prevents misunderstandings in future salary discussions.</p>
-<h3>7) Your first months: avoid “small” mistakes that get expensive</h3>
-<p>Common friction points:</p>
-<ul>
-<li>not keeping confirmations (expenses, hours, agreements),</li>
-<li>not knowing who does what (HR vs line manager vs payroll),</li>
-<li>not asking early about withholding tax (depending on your situation) or insurance registrations.</li>
-</ul>
-<p>If you’re new to the system, use month 1 to build your “admin routine” (documents, payroll, insurance, calendar).</p>
-<h3>8) Channels: where people actually find jobs</h3>
-<p>Use multiple channels in parallel:</p>
-<ul>
-<li>company career pages (often the most reliable),</li>
-<li>major job boards and sector‑specific portals,</li>
-<li>specialised recruiters (especially for niche profiles),</li>
-<li>and networking (many roles get filled before they’re widely advertised).</li>
-</ul>
-<h2>How to avoid fines or conflicts</h2>
-<h3>A safety checklist (minimum to avoid trouble)</h3>
-<ol>
-<li>CV and LinkedIn align (same dates and roles).</li>
-<li>Clear target: 2–3 role types (not 15).</li>
-<li>Application tracker: posting, date, CV version, contact, status.</li>
-<li>Documents ready: diplomas, certificates, references, permits (if applicable).</li>
-<li>Key terms in writing (total compensation, start date, special conditions).</li>
-</ol>
-<h3>Red flags (possible scams)</h3>
-<ul>
-<li>“Instant hire” without a real interview or verification.</li>
-<li>Requests for money to “process” a contract or permit.</li>
-<li>No verifiable company footprint or suspicious domains.</li>
-</ul>
-<p>A serious employer in Switzerland doesn’t ask you to pay to be hired.</p>
-<h2>Practical tips</h2>
-<h3>A 30‑day plan for newcomers (works well)</h3>
-<ul>
-<li>Week 1: update CV + LinkedIn, prepare your dossier, identify ~30 target companies/roles.</li>
-<li>Week 2: 10–15 highly tailored applications + networking (contacts, events, former colleagues).</li>
-<li>Week 3: interview practice (STAR), prepare your salary logic, review common questions.</li>
-<li>Week 4: follow‑ups, iterate your CV, widen channels (agencies, sector portals).</li>
-</ul>
-<h3>Avoid “CV spam”</h3>
-<p>10 well‑aligned applications often outperform 80 generic ones. Quality shows quickly in response rates.</p>
-<h3>Be clear about your status</h3>
-<p>If you have the right to work, say it. If something is pending, explain what and roughly when. Reduce uncertainty.</p>
-<h2>Official sources</h2>
-<ul>
-<li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>SEM (migration/permits): <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
-</ul>
-        </div>`
+	            <h2>Introducción</h2>
+	            <p>Trabajar en Suiza no es “imposible”, pero sí exige método. El mercado suele premiar la <strong>claridad</strong> (CV bien estructurado, logros medibles), la <strong>coherencia</strong> (perfil alineado con el puesto) y el <strong>seguimiento</strong> (documentación, plazos y respuestas rápidas).</p>
+	            <p>Esta guía es un “mapa” para recién llegados: cómo encontrar empleo, qué plataformas funcionan de verdad, cómo leer un contrato, cómo estimar un salario realista y qué errores típicos generan problemas en los primeros meses.</p>
+
+	            <h2>Panorama del mercado laboral</h2>
+	            <h3>1) Idioma y región</h3>
+	            <p>Suiza es multilingüe. La lengua de trabajo depende de la región (alemán/francés/italiano) y del sector. El inglés abre puertas en multinacionales, IT o roles técnicos, pero en muchos puestos el idioma local es la diferencia entre “me llaman” y “me descartan”.</p>
+	            <p>Consejo práctico: si estás en Suiza alemana y tu alemán es básico, prioriza empresas internacionales, equipos globales o sectores donde el inglés sea habitual, y planifica un camino realista para mejorar el idioma local.</p>
+
+	            <h3>2) Derecho a trabajar (permiso)</h3>
+	            <p>La contratación es más simple si la empresa entiende que puedes trabajar sin “riesgo administrativo”. Si ya tienes derecho a trabajar, dilo de forma clara. Si estás en trámite, explica qué te falta y cuál es el plazo estimado. Si eres de terceros países, el proceso puede ser más restrictivo y lento.</p>
+	            <p>Si necesitas contexto, revisa <a href="#/tramites-llegada-suiza">Permisos de residencia</a>.</p>
+
+	            <h3>3) Qué valora Suiza: evidencias</h3>
+	            <p>En Suiza se valora mucho lo verificable: diplomas, certificados, referencias y, cuando existen, <strong>certificados de trabajo</strong> (Arbeitszeugnis / certificats de travail). No siempre te los pedirán el primer día, pero si tu candidatura compite con otras similares, estos documentos pueden inclinar la balanza.</p>
+
+	            <h3>4) Cómo es un proceso de selección típico</h3>
+	            <p>Aunque cada empresa tiene su estilo, un proceso frecuente suele ser:</p>
+	            <ol>
+	                <li><strong>Filtro inicial</strong> (ATS o RRHH): revisan si tu perfil encaja con requisitos y si tu CV es claro.</li>
+	                <li><strong>Llamada corta</strong> (15–30 min): validación de motivación, disponibilidad, salario esperado y permiso/derecho a trabajar.</li>
+	                <li><strong>Entrevista(s)</strong> con responsable y/o equipo: casos reales, ejemplos de proyectos, cultura de trabajo.</li>
+	                <li><strong>Referencias</strong> (a veces): contacto con antiguos jefes o confirmación de experiencia.</li>
+	                <li><strong>Oferta</strong> por escrito: salario, jornada, fecha de inicio, periodo de prueba y condiciones.</li>
+	            </ol>
+	            <p>Los tiempos varían: algunas contrataciones son rápidas (1–2 semanas), otras tardan 4–8 semanas. Por eso conviene llevar un seguimiento ordenado y no depender de una sola candidatura.</p>
+
+	            <h3>5) El “dossier” suizo (lo que conviene tener listo)</h3>
+	            <p>Piensa en tu candidatura como un paquete que debe ser fácil de evaluar en 60 segundos. Checklist práctico:</p>
+	            <ul>
+	                <li>CV en PDF (1–2 páginas) con logros medibles.</li>
+	                <li>Carta breve si la piden (3 ideas: encaje, ejemplo, disponibilidad).</li>
+	                <li>Diplomas/certificados relevantes (y homologación si aplica).</li>
+	                <li>Referencias avisadas y disponibles.</li>
+	                <li>Portfolio (si eres de producto/UX/IT/creativo) con 2–3 casos bien explicados.</li>
+	                <li>Frase clara sobre tu situación de permiso/derecho a trabajar.</li>
+	            </ul>
+
+	            <h2>Dónde encontrar empleo</h2>
+	            <h3>Plataformas principales</h3>
+	            <p>Para empezar sin perderte:</p>
+	            <ul>
+	                <li><strong>jobs.ch</strong> y <strong>jobup.ch</strong>: dos de los portales más usados.</li>
+	                <li><strong>Indeed</strong>: agregador útil para descubrir ofertas.</li>
+	                <li><strong>LinkedIn</strong>: clave para perfiles cualificados, multinacionales y recruiters.</li>
+	                <li><strong>Job-Room</strong> (servicio público): ofertas y recursos del mercado laboral.</li>
+	            </ul>
+
+	            <h3>Portales sectoriales y canales “invisibles”</h3>
+	            <p>Además de los portales generalistas, muchos sectores se mueven por canales propios: asociaciones profesionales, webs de hospitales/escuelas, cadenas de retail, o páginas de empleo de grupos empresariales. Si estás en un sector regulado (salud, educación, oficios), revisa también requisitos de diplomas y permisos antes de “spam” de CV.</p>
+
+	            <h3>Candidaturas espontáneas (cuando no hay vacante publicada)</h3>
+	            <p>En Suiza, una candidatura espontánea bien hecha puede funcionar si apuntas a empresas concretas. Claves:</p>
+	            <ul>
+	                <li>Explica en 3–4 líneas qué aportas y qué rol buscas.</li>
+	                <li>Propón una llamada corta de 10 minutos (no una “entrevista”).</li>
+	                <li>Adjunta CV y, si aplica, portfolio.</li>
+	                <li>No envíes en masa: selecciona empresas y personaliza el mensaje.</li>
+	            </ul>
+
+	            <h3>Webs de empresas (candidatura directa)</h3>
+	            <p>Muchas ofertas buenas se publican solo en “Careers” de la empresa. Estrategia efectiva: lista de 30–50 empresas objetivo + revisión semanal + alertas + candidatura rápida (con CV adaptado).</p>
+
+	            <h3>Agencias y temporal</h3>
+	            <p>En hostelería, logística, industria o retail, las agencias temporales son un canal real. En perfiles nicho, los recruiters especializados pueden acelerar procesos. Regla de oro: controla tu calendario y evita duplicar candidaturas a la misma vacante por canales distintos sin avisar.</p>
+
+	            <h3>Networking (bien hecho)</h3>
+	            <p>Networking no es “pedir trabajo”. Es generar confianza y acceso a información. Funciona cuando:</p>
+	            <ul>
+	                <li>tienes claro el objetivo (2–3 tipos de puesto, no 15),</li>
+	                <li>explicas tu valor con ejemplos (qué problema resuelves),</li>
+	                <li>pides algo concreto: recomendaciones de empresas, feedback de CV, presentación a un contacto.</li>
+	            </ul>
+
+	            <h2>Entender contratos</h2>
+	            <h3>Tipos de contrato</h3>
+	            <p>Los más habituales:</p>
+	            <ul>
+	                <li><strong>Indefinido</strong>: sin fecha final, con plazos de preaviso.</li>
+	                <li><strong>Duración determinada</strong>: con fecha final (temporada, sustitución).</li>
+	                <li><strong>Temporal</strong> vía agencia: reglas específicas, a veces rotación alta.</li>
+	            </ul>
+	            <p>Además, muchos sectores están cubiertos por <strong>convenios colectivos</strong> (CCT/GAV) que pueden fijar mínimos (salario, vacaciones, reglas de horas extra). Pregunta si tu puesto está sujeto a un CCT.</p>
+
+	            <h3>Periodo de prueba y preaviso</h3>
+	            <p>El periodo de prueba suele ser de 1–3 meses. Durante ese periodo, el preaviso suele ser corto y la relación es más “frágil”. Después, el preaviso aumenta según ley, contrato o CCT. Para el detalle: <a href="#/periodo-prueba-preaviso-suiza">Periodo de prueba y plazos de preaviso</a>.</p>
+
+	            <h3>Qué revisar antes de firmar</h3>
+	            <ul>
+	                <li><strong>Salario</strong> (bruto) y si existe <strong>13.º</strong> o bonus.</li>
+	                <li><strong>Jornada</strong> (horas/semana), registro de horas y compensación de horas extra.</li>
+	                <li><strong>Vacaciones</strong> (mínimo legal y política de empresa).</li>
+	                <li><strong>Teletrabajo</strong> (si existe): días, equipo, reglas.</li>
+	                <li><strong>Seguro de accidentes</strong> (habitualmente del empleador) y cobertura.</li>
+	                <li><strong>Fecha de inicio</strong> y condiciones especiales por escrito.</li>
+	            </ul>
+	            <p>Si algo es importante, no lo dejes “por entendido”: pide confirmación <strong>por escrito</strong>.</p>
+
+	            <h3>Nómina: qué te descuentan (y por qué)</h3>
+	            <p>Cuando negocies salario, recuerda que el “neto” depende de varias deducciones. En una nómina típica aparecen (según el caso):</p>
+	            <ul>
+	                <li><strong>AVS/AI/APG</strong> (seguridad social básica) y otras contribuciones obligatorias.</li>
+	                <li><strong>ALV/AC</strong> (seguro de desempleo).</li>
+	                <li><strong>LPP</strong> (2.º pilar / previsión profesional) a partir de ciertos umbrales y según edad.</li>
+	                <li><strong>Impuesto a la fuente</strong> para muchas personas con permiso L/B (varía por cantón y situación familiar).</li>
+	            </ul>
+	            <p>Los porcentajes exactos dependen de tu situación y de la empresa. La idea práctica es: pregunta si el salario es bruto anual, si hay 13.º, y calcula tu presupuesto con margen.</p>
+
+	            <h3>Enfermedad y accidentes (punto crítico)</h3>
+	            <p>En Suiza, el seguro de accidentes suele estar vinculado al empleo. Confirma qué cubre la empresa y qué debes cubrir tú. Si cambias de trabajo o dejas de trabajar, revisa tu situación para no quedarte con “agujeros” de cobertura.</p>
+
+	            <h3>Al salir de un empleo: certificado de trabajo</h3>
+	            <p>En muchos sectores es habitual pedir un <strong>certificado de trabajo</strong> al terminar. No es un “favor”: es un documento muy valorado en futuras candidaturas. Pídelo con tiempo y guarda copia.</p>
+
+	            <h3>Seguro de desempleo (paro) y RAV</h3>
+	            <p>En Suiza, el desempleo se gestiona con el RAV/ORP y una caja de desempleo. Si pierdes el empleo, puedes tener derecho a prestación si cumples condiciones, pero el sistema exige <strong>búsqueda documentada</strong> y plazos. No esperes a “ver qué pasa”: prepara evidencias y actúa rápido.</p>
+	            <p>Guía relacionada: <a href="#/rav-paro-suiza">RAV y paro en Suiza</a>.</p>
+
+	            <h2>Expectativas salariales</h2>
+	            <h3>Cómo estimar un rango realista</h3>
+	            <p>Los salarios varían muchísimo por cantón, sector y experiencia. Para evitar pedir a ciegas:</p>
+	            <ul>
+	                <li>Usa la herramienta oficial <strong>Salarium</strong> (estadísticas de la Oficina Federal de Estadística).</li>
+	                <li>Compara por región y nivel (junior/medio/senior) y por jornada (80% no es lo mismo que 100%).</li>
+	                <li>Aclara siempre: cifra <strong>bruta</strong>, si incluye 13.º, y qué pasa con horas extra/bonus.</li>
+	            </ul>
+
+	            <h3>Bruto vs neto: ejemplo orientativo</h3>
+	            <p>Ejemplo (muy orientativo): si te ofrecen 6.000 CHF brutos/mes, tu neto dependerá de tus deducciones sociales, previsión profesional y fiscalidad (cantón/comuna y, a menudo, impuesto a la fuente). No uses una “regla única” de internet: usa tu nómina real y, si dudas, pregunta a RRHH qué conceptos aplicarán.</p>
+
+	            <h3>Salario mínimo y CCT (varía por cantón/sector)</h3>
+	            <p>No existe un salario mínimo federal único para todos los sectores, pero hay cantones con reglas propias y, sobre todo, <strong>CCT</strong> que fijan mínimos obligatorios por sector. Para recién llegados, esto es importante: tu “suelo” puede venir del CCT aunque el anuncio no lo destaque.</p>
+
+	            <h3>Ejemplo práctico (cómo preguntar en entrevista)</h3>
+	            <p>Si te piden expectativas: da un rango y demuestra que has hecho deberes. Por ejemplo: “Según mi experiencia y el mercado en este cantón, me muevo en un rango X–Y CHF brutos anuales. Estoy abierto a ajustar según responsabilidades, 13.º, bonus y porcentaje de jornada”.</p>
+
+	            <h3>Lo que importa de verdad: el paquete</h3>
+	            <p>Tu “calidad de vida” depende de salario <em>y</em> de: coste de vivienda, seguro médico, transporte, estabilidad del contrato y crecimiento. No optimices solo el bruto: optimiza el conjunto.</p>
+
+	            <h2>Errores frecuentes</h2>
+	            <h3>1) Enviar CV genérico (sin logros)</h3>
+	            <p>Mejor 10 candidaturas alineadas que 80 genéricas. Un CV suizo eficaz suele ser de 1–2 páginas, con resultados y responsabilidades claras. Si necesitas ayuda, revisa <a href="#/buscar-empleo-suiza">Buscar empleo en Suiza</a>.</p>
+
+	            <h3>2) No indicar disponibilidad, ubicación y permiso</h3>
+	            <p>Si la empresa no entiende si puedes empezar y bajo qué condiciones, te descarta por incertidumbre. Indica fecha de disponibilidad, ciudad/cantón, y tu situación de derecho a trabajar.</p>
+
+	            <h3>3) Negociar sin entender 13.º y porcentaje</h3>
+	            <p>Un error típico es comparar un salario “mensual” sin saber si incluye 13.º. Otro: olvidarse de que un 80% reduce salario, vacaciones y a veces beneficios de forma proporcional. Pregunta siempre.</p>
+
+	            <h3>4) Firmar sin entender periodo de prueba y preaviso</h3>
+	            <p>Muchos conflictos nacen de asumir que “me voy con 30 días” o de no saber qué pasa durante la prueba. Léelo y pide aclaración.</p>
+
+	            <h3>5) No documentar la búsqueda si acabas en paro</h3>
+	            <p>En el RAV, una candidatura sin prueba puede contar como “no hecha”. Guarda emails, PDFs y capturas desde el primer día.</p>
+
+	            <h3>6) No adaptar idioma y formato</h3>
+	            <p>Enviar un CV en el idioma equivocado o con un formato difícil de leer reduce mucho respuestas. Si la oferta está en alemán, intenta responder en alemán (o explica claramente tu nivel y por qué el inglés sería viable para el puesto).</p>
+
+	            <h3>7) No hacer seguimiento</h3>
+	            <p>En Suiza, un seguimiento breve y profesional puede ayudarte: “Gracias por la entrevista, adjunto X, quedo disponible”. No es insistir; es demostrar fiabilidad.</p>
+
+	            <h2>Consejos prácticos</h2>
+	            <h3>Plan de 14 días (para empezar con orden)</h3>
+	            <ol>
+	                <li>Define 2–3 roles objetivo y 1 zona principal.</li>
+	                <li>Adapta CV y LinkedIn (coherencia de fechas y roles).</li>
+	                <li>Prepara carpeta de documentos (CV, diplomas, certificados, referencias).</li>
+	                <li>Crea una tabla de seguimiento: empresa, puesto, fecha, versión de CV, estado.</li>
+	                <li>Aplica y mejora: ajusta CV según respuestas reales.</li>
+	                <li>Activa alertas y revisa webs de empresas objetivo.</li>
+	            </ol>
+
+	            <h3>Rutina semanal (cuando la búsqueda se alarga)</h3>
+	            <ul>
+	                <li>2 días: candidaturas (calidad, CV adaptado, seguimiento).</li>
+	                <li>1 día: networking (llamadas cortas, mensajes, eventos).</li>
+	                <li>1 día: mejora (idioma, portfolio, entrevistas, certificaciones).</li>
+	                <li>1 día: revisión de estrategia (qué funciona y qué no).</li>
+	            </ul>
+
+	            <h3>Primer mes en el trabajo: checklist rápido</h3>
+	            <ul>
+	                <li>Guarda contrato, anexos y políticas internas en una carpeta.</li>
+	                <li>Verifica tu primera nómina: jornada, salario, 13.º, deducciones.</li>
+	                <li>Confirma coberturas de accidentes y qué debes hacer en caso de baja médica.</li>
+	                <li>Si estás a impuesto a la fuente, revisa que tu categoría sea correcta.</li>
+	            </ul>
+
+	            <h3>Checklist antes de una entrevista</h3>
+	            <ul>
+	                <li>Lee la empresa (actividad, clientes, noticias).</li>
+	                <li>Prepara 6 historias STAR (Situación–Tarea–Acción–Resultado).</li>
+	                <li>Ten un rango salarial listo y justificado (y preguntas sobre 13.º/bonus).</li>
+	                <li>Pregunta por objetivos 90 días, equipo, horarios reales y evaluación.</li>
+	            </ul>
+
+	            <h3>Señales de oferta dudosa (posible estafa)</h3>
+	            <ul>
+	                <li>“Contratación inmediata” sin entrevista real ni verificación.</li>
+	                <li>Piden dinero para “tramitar” contrato o permiso.</li>
+	                <li>Empresa sin rastro verificable o correos/dominios sospechosos.</li>
+	            </ul>
+
+	            <h2>Fuentes oficiales</h2>
+	            <ul>
+	                <li>ch.ch — Trabajo: <a href="https://www.ch.ch/es/trabajo/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/es/trabajo/</a></li>
+	                <li>ch.ch — Desempleo: <a href="https://www.ch.ch/es/trabajo/desempleo/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/es/trabajo/desempleo/</a></li>
+	                <li>SECO (mercado laboral): <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
+	                <li>Job-Room (servicio público): <a href="https://www.job-room.ch" target="_blank" rel="noopener noreferrer">https://www.job-room.ch</a></li>
+	                <li>OFS/BFS (Salarium): <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bfs.admin.ch</a></li>
+	            </ul>
+	        </div>`
     }
 });

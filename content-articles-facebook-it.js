@@ -1,6 +1,6 @@
 /**
  * content-articles-facebook-it.js
- * Auto-generated from docs/facebook-pipeline/articles_markdown (Facebook pipeline output).
+ * Auto-generated from Spanish source of truth.
  */
 
 window.siteContent = window.siteContent || {};
@@ -9,454 +9,449 @@ window.siteContent.it.articles = window.siteContent.it.articles || {};
 
 Object.assign(window.siteContent.it.articles, {
     "fb-alquilar-en-suiza-evitar-estafas": {
-        title: "Affittare in Svizzera: passi, dossier, cauzione e come evitare truffe",
-        description: "Guida per affittare un appartamento in Svizzera: come preparare il dossier, contratto, cauzione/deposito e segnali di truffa. Consigli per i nuovi arrivati.",
-        keywords: "affitto svizzera, locazione svizzera, cauzione svizzera, asloca, truffa affitto svizzera",
+        title: "Affittare in Svizzera: passaggi, pratica, caparra e come evitare truffe",
+        description: "Guida all'affitto di un appartamento in Svizzera: come preparare la pratica, il contratto, la caparra/cauzione e gli indizi di truffa (affitto). Consigli per i nuovi arrivati. ",
+        keywords: "affitto svizzera, affitto svizzera, deposito svizzero, asloca, truffa affitto svizzera",
         keywordsLocalized: true,
-        category: "Alloggio",
-        hub: "alloggio",
+        category: "Alloggiamento",
+        hub: "vivienda",
         slug: "affittare-in-svizzera-evitare-truffe",
         readingTime: 5,
         dateUpdated: "Marzo 2026",
-        summary: "Guida per affittare un appartamento in Svizzera: come preparare il dossier, contratto, cauzione/deposito e segnali di truffa. Consigli per i nuovi arrivati.",
+        summary: "Guida all'affitto di un appartamento in Svizzera: come preparare la pratica, il contratto, la caparra/cauzione e gli indizi di truffa (affitto). Consigli per i nuovi arrivati. ",
         featuredImage: "media/guides/alquilar-en-suiza-evitar-estafas.jpg",
         imageAlt: "Un mazzo di chiavi di casa su un tavolo di legno con un contratto di affitto svizzero sullo sfondo",
         relatedSlugs: [],
         content: `<div class="article-content">
-            <h2>Introduzione</h2>
-<p>Affittare un appartamento in Svizzera è spesso più “amministrativo” di quanto si aspettino molti nuovi arrivati. Non è (solo) una questione di vedere un annuncio e firmare: c'è molta concorrenza, un <strong>dossier</strong> standard, regole contrattuali e, allo stesso tempo, rischi di <strong>truffa</strong> se si ha troppa fretta.</p>
-<p>La buona notizia: con un metodo semplice (dossier + verifica + checklist) puoi aumentare notevolmente le tue possibilità e ridurre le sorprese.</p>
-<h2>Contesto in Svizzera</h2>
-<p>Due realtà del mercato:</p>
+            <h2>Introducción</h2>
+<p>Alquilar un piso en Suiza suele ser más “administrativo” de lo que esperan muchos recién llegados. No es (solo) una cuestión de ver un anuncio y firmar: hay competencia, un <strong>dossier</strong> estándar, reglas de contrato y, a la vez, riesgos de <strong>estafa</strong> si vas con prisa.</p>
+<p>La buena noticia: con un método sencillo (dossier + verificación + checklist) puedes aumentar mucho tus opciones y reducir sorpresas.</p>
+<h2>Contexto en Suiza</h2>
+<p>Dos realidades del mercado:</p>
 <ul>
-<li><strong>Selezione per dossier</strong>: molte candidature, e il proprietario/agenzia filtra in base alla stabilità (reddito, contratto, referenze).</li>
-<li><strong>Processi standardizzati</strong>: visite, candidatura, decisione, contratto, consegna delle chiavi e verbale di stato dell'immobile.</li>
+<li><strong>Selección por dossier</strong>: muchas candidaturas, y el propietario/agencia filtra por estabilidad (ingresos, contrato, referencias).</li>
+<li><strong>Procesos bastante estandarizados</strong>: visitas, candidatura, decisión, contrato, entrega de llaves y estado del piso.</li>
 </ul>
-<p>E due rischi tipici per chi è appena arrivato:</p>
+<p>Y dos riesgos típicos del recién llegado:</p>
 <ul>
-<li>non avere un dossier convincente (o presentarlo incompleto),</li>
-<li>cadere in truffe per mancanza di conoscenza (pagamento anticipato, “visita impossibile”, urgenza artificiale).</li>
+<li>no tener un dossier convincente (o presentarlo incompleto),</li>
+<li>caer en estafas por desconocimiento (pago por adelantado, “visita imposible”, urgencia artificial).</li>
 </ul>
-<h2>Situazioni comuni che generano problemi</h2>
-<h3>1) Il processo reale: dalla ricerca alle chiavi</h3>
-<p>Un flusso tipico (non sempre identico, ma molto comune) è:</p>
+<h2>Situaciones comunes que generan problemas</h2>
+<h3>1) El proceso real: de la búsqueda a las llaves</h3>
+<p>Un flujo típico (no siempre idéntico, pero muy común) es:</p>
 <ol>
-<li><strong>Cercare</strong> sui portali e tramite agenzie; salvare gli annunci interessanti.</li>
-<li><strong>Visitare</strong> (a volte visite collettive).</li>
-<li><strong>Candidarsi</strong> con un dossier completo (normalmente nello stesso giorno).</li>
-<li><strong>Selezione</strong> (possono esserci decine di candidati).</li>
-<li><strong>Contratto</strong> + deposito di garanzia + data di ingresso.</li>
-<li><strong>Consegna delle chiavi</strong> e <strong>verbale di stato</strong> dell'appartamento.</li>
+<li><strong>Buscar</strong> en portales y agencias; guardar anuncios interesantes.</li>
+<li><strong>Visitar</strong> (a veces visitas colectivas).</li>
+<li><strong>Postular</strong> con dossier completo (normalmente en el mismo día).</li>
+<li><strong>Selección</strong> (puede haber decenas de candidatos).</li>
+<li><strong>Contrato</strong> + depósito de garantía + fecha de entrada.</li>
+<li><strong>Entrega de llaves</strong> y <strong>protocolo de estado</strong> del piso.</li>
 </ol>
-<p>Punto importante: in mercati tesi, “mi è piaciuto molto” non basta. Vince chi consegna il dossier completo e trasmette affidabilità.</p>
-<h3>2) Dossier: cosa viene richiesto (e perché)</h3>
-<p>Il dossier è il tuo “curriculum” come inquilino. Solitamente include:</p>
+<p>Punto importante: en mercados tensos, “me gustó mucho” no basta. Gana quien entrega el dossier completo y transmite fiabilidad.</p>
+<h3>2) Dossier: lo que suelen pedir (y por qué)</h3>
+<p>El dossier es tu “currículum” como inquilino. Suele incluir:</p>
 <ul>
-<li><strong>Documento d'identità</strong> e, se applicabile, <strong>permesso</strong> (o prova della richiesta).</li>
-<li><strong>Contratto di lavoro</strong> o prova del reddito (es. buste paga).</li>
-<li><strong>Estratto dell'ufficio esecuzioni e fallimenti</strong> (<em>Betreibungsauszug</em>) se risiedi già in Svizzera (non sempre obbligatorio per i nuovi arrivati, ma richiesto frequentemente).</li>
-<li><strong>Breve lettera</strong> di presentazione (1/2 pagina): chi siete, situazione lavorativa, perché cercate, data di ingresso, non fumatori/animali se applicabile.</li>
-<li>A volte: <strong>referenze</strong> (precedente locatore), assicurazione di responsabilità civile (<em>RC</em>) se richiesta.</li>
+<li><strong>Documento de identidad</strong> y, si aplica, <strong>permiso</strong> (o prueba de solicitud).</li>
+<li><strong>Contrato de trabajo</strong> o prueba de ingresos (p. ej., nóminas).</li>
+<li><strong>Extracto de deudas</strong> (<em>Betreibungsauszug</em>) si ya resides en Suiza (no siempre obligatorio para recién llegados, pero se pide con frecuencia).</li>
+<li><strong>Carta breve</strong> de presentación (1/2 página): quiénes sois, situación laboral, por qué buscáis, fecha de entrada, no fumadores/mascotas si aplica.</li>
+<li>A veces: <strong>referencias</strong> (anterior arrendador), seguro de responsabilidad civil (<em>RC</em>) si lo solicitan.</li>
 </ul>
-<p>Consiglio: prepara il dossier in PDF (un unico file) + copie cartacee per le visite.</p>
-<h3>3) Prezzo reale: l'“affitto” non sempre include le spese</h3>
-<p>In Svizzera vedrai spesso:</p>
+<p>Consejo: prepara el dossier en PDF (un solo archivo) + copias impresas para visitas.</p>
+<h3>3) Precio real: “alquiler” no siempre incluye gastos</h3>
+<p>En Suiza verás a menudo:</p>
 <ul>
-<li><strong>Nettomiete</strong> (affitto “base”), e</li>
-<li><strong>Nebenkosten</strong> (spese: riscaldamento/acqua/servizi comuni), che possono essere un <strong>anticipo</strong> e venire conguagliate successivamente.</li>
+<li><strong>Nettomiete</strong> (alquiler “base”), y</li>
+<li><strong>Nebenkosten</strong> (gastos: calefacción/agua/servicios comunes), que pueden ser un <strong>adelanto</strong> y ajustarse después.</li>
 </ul>
-<p>Traduzione pratica: confronta gli appartamenti usando il <strong>totale mensile</strong> (base + spese) e chiedi cosa è incluso esattamente.</p>
-<h3>4) Cauzione / deposito: come caricarlo per essere protetti</h3>
-<p>È comune che venga richiesta una garanzia (deposito). Per gli alloggi, è frequente che sia fino a <strong>tre mesi</strong> di affitto base.</p>
-<p>Buone pratiche per non avere problemi:</p>
+<p>Traducción práctica: compara pisos usando el <strong>total mensual</strong> (base + gastos) y pregunta qué está incluido.</p>
+<h3>4) Fianza / depósito: cómo debe hacerse para estar protegido</h3>
+<p>Es habitual que pidan una garantía (depósito). En vivienda, es común que sea de hasta <strong>tres meses</strong> de alquiler base.</p>
+<p>Buenas prácticas para no tener problemas:</p>
 <ul>
-<li>Il deposito viene solitamente versato su un <strong>conto di risparmio vincolato a tuo nome</strong> (conto deposito) e non “sul conto personale” di qualcuno.</li>
-<li>Chiedi conferme scritte: importo, banca, condizioni e quando viene svincolato.</li>
-<li>Conserva tutte le ricevute: ti serviranno quando lascerai l'appartamento.</li>
+<li>El depósito suele colocarse en una <strong>cuenta de depósito a tu nombre</strong> (cuenta bloqueada) y no “en la cuenta personal” de alguien.</li>
+<li>Pide confirmaciones por escrito: importe, entidad, condiciones y cuándo se libera.</li>
+<li>Guarda todos los justificantes: te servirán al salir del piso.</li>
 </ul>
-<h3>5) Verbale di consegna/uscita: dove si guadagnano o perdono centinaia di franchi</h3>
-<p>Il giorno della consegna:</p>
+<h3>5) Protocolo de entrada/salida: donde se ganan o pierden cientos de francos</h3>
+<p>El día de la entrega:</p>
 <ul>
-<li>controlla pareti, pavimenti, elettrodomestici, bagno, finestre,</li>
-<li>fai foto e annota i difetti esistenti,</li>
-<li>e firma un <strong>verbale di stato</strong> (se presente).</li>
+<li>revisa paredes, suelo, electrodomésticos, baño, ventanas,</li>
+<li>haz fotos y anota defectos existentes,</li>
+<li>y firma un <strong>protocolo de estado</strong> (si lo hay).</li>
 </ul>
-<p>All'uscita, quel documento sarà la base per discutere riparazioni e restituzione del deposito.</p>
-<h3>6) Segnali tipici di truffa (affitto)</h3>
-<p>Segnali rossi molto frequenti:</p>
+<p>Al salir, ese documento es la base para discutir reparaciones y devolución del depósito.</p>
+<h3>6) Señales típicas de estafa (alquiler)</h3>
+<p>Señales rojas muy frecuentes:</p>
 <ul>
-<li>ti chiedono soldi in anticipo <strong>senza contratto</strong> e senza visita verificabile,</li>
-<li>“non si può visitare” e c'è pressione per pagare oggi (urgenza artificiale),</li>
-<li>pagamento su conti strani o all'estero,</li>
-<li>l'annuncio è “troppo economico” per il mercato e non quadra,</li>
-<li>incoerenze nell'identità, indirizzo o proprietà (documenti fatti male, risposte evasive).</li>
+<li>te piden dinero por adelantado <strong>sin contrato</strong> y sin visita verificable,</li>
+<li>“no se puede visitar” y hay presión por pagar hoy (urgencia artificial),</li>
+<li>pago a cuentas raras o en el extranjero,</li>
+<li>el anuncio está “demasiado barato” para el mercado y no cuadra,</li>
+<li>inconsistencias en identidad, dirección o propiedad (documentos mal hechos, respuestas evasivas).</li>
 </ul>
-<p>Regola d'oro: se non puoi <strong>verificare</strong> (alloggio, persona, contratto), non trasferire denaro.</p>
-<h2>Come evitare multe o conflitti</h2>
-<p>In questo caso le “multe” non sono il problema principale: i più comuni sono i <strong>conflitti</strong> relativi al contratto, al deposito o allo stato dell'alloggio. Per evitarli:</p>
-<h3>Checklist anti-problemi (contratto e ingresso)</h3>
+<p>Regla de oro: si no puedes <strong>verificar</strong> (vivienda, persona, contrato), no transfieras.</p>
+<h2>Cómo evitar multas o conflictos</h2>
+<p>Aquí “multas” no es lo típico: lo más común son <strong>conflictos</strong> por contrato, depósito o estado del piso. Para evitarlos:</p>
+<h3>Checklist anti-problemas (contrato y entrada)</h3>
 <ul>
-<li>Leggi: <strong>data di ingresso</strong>, affitto + spese, durata minima se esiste, e <strong>termine di preavviso</strong> (molto importante).</li>
-<li>Chiedi per iscritto: cosa includono esattamente le spese e come viene effettuato il conguaglio annuo.</li>
-<li>Non accettare accordi verbali sulle riparazioni: conferma via email.</li>
-<li>Entra nell'appartamento solo con un contratto chiaro e un verbale di stato (o almeno foto datate).</li>
+<li>Lee: <strong>fecha de entrada</strong>, alquiler + gastos, duración mínima si existe, y <strong>plazo de preaviso</strong> (muy importante).</li>
+<li>Pregunta por escrito: qué incluye exactamente los gastos, y cómo se hace el ajuste anual.</li>
+<li>No aceptes acuerdos verbales sobre reparaciones: confirma por email.</li>
+<li>Entra al piso solo con contrato claro y protocolo de estado (o al menos fotos fechadas).</li>
 </ul>
-<h3>Metodo per candidarsi senza perdersi</h3>
+<h3>Método para postular sin perderse</h3>
 <ul>
-<li>Tieni una <strong>tabella</strong> delle candidature (annuncio, data visita, contatto, stato, feedback).</li>
-<li>Salva <strong>screenshot</strong> dell'annuncio ed email (condizioni, prezzo, promesse).</li>
-<li>Prepara un “pacchetto” pronto: PDF + lettera + documentazione.</li>
+<li>Lleva una <strong>tabla</strong> de candidaturas (anuncio, fecha visita, contacto, estado, feedback).</li>
+<li>Guarda <strong>capturas</strong> del anuncio y emails (condiciones, precio, promesas).</li>
+<li>Ten un “pack” listo: PDF + carta + documentación.</li>
 </ul>
-<h2>Consigli pratici</h2>
-<h3>Se sei appena arrivato (senza Betreibung)</h3>
+<h2>Consejos prácticos</h2>
+<h3>Si eres recién llegado (sin Betreibung)</h3>
 <ul>
-<li>Spiegalo nella lettera: “appena arrivato, non ancora in possesso del Betreibungauszug”.</li>
-<li>Compensa con la chiarezza: contratto di lavoro, reddito, risparmi, referenze precedenti se ne hai.</li>
+<li>Explícalo en la carta: “recién llegado, aún sin Betreibungauszug”.</li>
+<li>Compensa con claridad: contrato de trabajo, ingresos, ahorro, referencias previas si las tienes.</li>
 </ul>
-<h3>Come aumentare le tue possibilità (senza “trucchi”)</h3>
+<h3>Cómo aumentar tus opciones (sin “trucos”)</h3>
 <ul>
-<li>Candidati rapidamente dopo la visita (lo stesso giorno).</li>
-<li>Lettera breve e concreta (non un romanzo).</li>
-<li>Se siete una coppia/famiglia: indica chi firma, reddito combinato e stabilità.</li>
+<li>Postula rápido después de la visita (mismo día).</li>
+<li>Carta breve y concreta (no una novela).</li>
+<li>Si sois pareja/familia: indica quién firma, ingresos combinados y estabilidad.</li>
 </ul>
-<h3>Se ricevi diversi rifiuti (e non capisci perché)</h3>
-<p>È normale ricevere molti “no” all'inizio. Per migliorare senza frustrarsi:</p>
+<h3>Si te rechazan varias veces (y no entiendes por qué)</h3>
+<p>Es normal recibir muchos “no” al principio. Para mejorar sin frustrarte:</p>
 <ul>
-<li>chiedi feedback se l'agenzia risponde (a volte non lo danno, ma si può provare),</li>
-<li>controlla se il tuo dossier trasmette stabilità (reddito, contratto, spiegazione della tua situazione),</li>
-<li>e amplia il raggio d'azione o rendi più flessibili i criteri (piano, dimensioni, quartiere) finché non ti sarai stabilito.</li>
+<li>pide feedback si la agencia responde (a veces no lo dan, pero se puede intentar),</li>
+<li>revisa si tu dossier transmite estabilidad (ingresos, contrato, explicación de tu situación),</li>
+<li>y amplía el radio o flexibiliza criterios (planta, tamaño, barrio) hasta que estés instalado.</li>
 </ul>
-<h3>Se l'agenzia ti chiede cose “strane”</h3>
-<p>Chiedi che tutto sia <strong>per iscritto</strong>. Un professionista serio non avrà problemi a confermare le condizioni via email.</p>
-<h3>In sintesi</h3>
-<p>In Svizzera la fretta è il nemico: verifica e documenta. Se qualcosa non quadra, passa al prossimo annuncio.</p>
-<h2>Fonti ufficiali</h2>
+<h3>Si la agencia te pide cosas “raras”</h3>
+<p>Pide que todo sea <strong>por escrito</strong>. Un profesional serio no tendrá problema en confirmar condiciones por email.</p>
+<h3>En resumen</h3>
+<p>En Suiza la prisa es el enemigo: verifica y documenta. Si algo no cuadra, pasa al siguiente anuncio.</p>
+<h2>Fuentes oficiales</h2>
 <ul>
-<li>ch.ch (alloggio): <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>Associazioni inquilini (secondo il cantone; es. ASLOCA in Romandia / Mieterverband nella Svizzera tedesca).</li>
+<li>ch.ch (vivienda): <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>Asociaciones de inquilinos (según cantón; p. ej. ASLOCA en Romandía / Mieterverband en Suiza alemana).</li>
 </ul>
         </div>`
     },
-
     "fb-consejos-vida-diaria-suiza": {
         title: "Vita quotidiana in Svizzera: 25 consigli pratici per i nuovi arrivati",
-        description: "Consigli pratici per la tua giornata in Svizzera: amministrazione, vicini, acquisti, trasporti, salute e abitudini che evitano problemi.",
-        keywords: "vivere in svizzera consigli, vita quotidiana svizzera, nuovi arrivati svizzera",
+        description: "Consigli pratici per la vita quotidiana in Svizzera: amministrazione, vicinato, acquisti, trasporti, salute e abitudini che evitano problemi. ",
+        keywords: "vivere in svizzera consigli, vita quotidiana svizzera, nuovo arrivato in svizzera",
         keywordsLocalized: true,
         category: "Vivere in Svizzera",
-        hub: "vivere-in-svizzera",
+        hub: "vivir-en-suiza",
         slug: "consigli-vita-quotidiana-svizzera",
         readingTime: 2,
         dateUpdated: "Marzo 2026",
-        summary: "Consigli pratici per la tua giornata in Svizzera: amministrazione, vicini, acquisti, trasporti, salute e abitudini che evitano problemi.",
+        summary: "Consigli pratici per la vita quotidiana in Svizzera: amministrazione, vicinato, acquisti, trasporti, salute e abitudini che evitano problemi. ",
         featuredImage: "media/guides/consejos-vida-diaria-suiza.jpg",
-        imageAlt: "Checklist di consigli pratici per la vita quotidiana in Svizzera",
+        imageAlt: "Lista di controllo con consigli pratici per la vita quotidiana in Svizzera",
         relatedSlugs: [],
         content: `<div class="article-content">
-            <h2>Introduzione</h2>
-<p>Non hai bisogno di “sapere tutto”. Con delle buone routine eviterai la maggior parte dei problemi tipici del primo anno.</p>
-<h2>Contesto in Svizzera</h2>
-<p>La Svizzera funziona con regole chiare, scadenze e documentazione. La vita quotidiana migliora quando adotti queste abitudini.</p>
+<h2>Introduzione</h2>
+<p>Non è necessario “sapere tutto”. Con una buona routine eviterai la maggior parte dei problemi tipici del primo anno.</p>
+<h2>Il contesto in Svizzera</h2>
+<p>La Svizzera opera con regole, scadenze e documentazione chiare. La vita quotidiana migliora quando si adottano queste abitudini.</p>
 <h2>Situazioni comuni che generano problemi</h2>
 <h3>25 abitudini utili</h3>
 <ol>
-<li>Conserva le lettere ufficiali (e scansionele).</li>
-<li>Usa un calendario per le scadenze (assicurazioni, tasse, appuntamenti).</li>
-<li>Chiedi sempre per cantone/comune.</li>
-<li>Tieni un “dossier” di documenti.</li>
+<li>Salva le lettere ufficiali (e scansionale).</li>
+<li>Utilizza il calendario per le scadenze (assicurazione, tasse, appuntamenti).</li>
+<li>Chiedi sempre il cantone/comune.</li>
+<li>Avere un “dossier” di documenti.</li>
 <li>Impara le basi della lingua locale del cantone.</li>
-<li>Controlla il tuo contratto (affitto/lavoro) con calma.</li>
-<li>Evita rumori negli orari sensibili.</li>
-<li>Ricicla secondo le norme locali.</li>
-<li>Stipula una RC/assicurazione responsabilità civile se applicabile.</li>
-<li>Usa abbonamenti per i trasporti se ti conviene.</li>
+<li>Rivedi con calma il tuo contratto (affitto/lavoro).</li>
+<li>Evita il rumore nei momenti sensibili.</li>
+<li>Riciclare secondo le normative locali.</li>
+<li>Avere un'assicurazione di responsabilità civile, se applicabile.</li>
+<li>Utilizza gli abbonamenti per i trasporti se ne vale la pena.</li>
 <li>Confronta i premi LAMal ogni autunno.</li>
 <li>Non pagare nulla senza un contratto verificabile.</li>
-<li>Fai il tracking delle tue candidature.</li>
-<li>Conserva buste paga e certificati di lavoro.</li>
-<li>Controlla le spese fisse nel primo trimestre.</li>
-<li>Chiedi informazioni sulle deduzioni se fai la dichiarazione dei redditi.</li>
-<li>Rispetta i turni e le regole nelle lavanderie comuni.</li>
+<li>Segui le candidature.</li>
+<li>Salva buste paga e certificati di lavoro.</li>
+<li>Controllare le spese fisse nel primo trimestre.</li>
+<li>Chiedi informazioni sulle detrazioni se presenti una dichiarazione dei redditi.</li>
+<li>Rispettare turni e regole nelle lavanderie comuni.</li>
 <li>Chiudi il cerchio: conferma per iscritto.</li>
-<li>Pianifica i traslochi con margine.</li>
-<li>Crea un fondo di emergenza.</li>
-<li>Non fidarti di “l'ho visto su Facebook” senza verificare la fonte.</li>
-<li>Usa i portali ufficiali come riferimento base.</li>
-<li>In caso di dubbio, documenta e consulta esperti.</li>
-<li>Mantieni i tuoi dati aggiornati (domicilio, ecc.).</li>
-<li>Sii costante: la Svizzera premia la regolarità.</li>
+<li>Pianifica spostamenti con margine.</li>
+<li>Disponi di un fondo di emergenza.</li>
+<li>Non fidarti di "L'ho visto su Facebook" senza una fonte.</li>
+<li>Utilizza i portali ufficiali come riferimento di base.</li>
+<li>In caso di dubbi documentarsi e consultare.</li>
+<li>Mantieni aggiornati i tuoi dati (indirizzo, ecc.).</li>
+<li>Siate coerenti: la Svizzera premia la coerenza.</li>
 </ol>
 <h2>Come evitare multe o conflitti</h2>
-<p>Trasforma questo elenco in una checklist e segna ciò che hai già preparato.</p>
-<h2>Consigli pratici</h2>
+<p>Trasforma questo elenco in una lista di controllo e contrassegna ciò che hai già pronto.</p>
+<h2>Suggerimenti pratici</h2>
 <p>Il miglior consiglio trasversale: <strong>meno improvvisazione, più processo</strong>.</p>
 <h2>Fonti ufficiali</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-        </div>`
+</div>`
     },
-
     "fb-costo-de-vida-suiza": {
         title: "Costo della vita in Svizzera",
-        description: "Come stimare il tuo costo della vita in Svizzera: affitto, assicurazione medica, tasse, trasporti e 'spese invisibili'. Esempi per cantone e consigli.",
-        keywords: "costo della vita svizzera, vivere in svizzera, affitto svizzera, assicurazione medica svizzera, budget svizzera",
+        description: "Come stimare il costo della vita in Svizzera: affitto, assicurazione sanitaria, tasse, trasporti e “spese invisibili”. Esempi per Cantone e consigli.",
+        keywords: "Costo della vita svizzero, vivere in Svizzera, affitto svizzero, assicurazione sanitaria svizzera, budget svizzero",
         keywordsLocalized: true,
         category: "Vivere in Svizzera",
-        hub: "vivere-in-svizzera",
+        hub: "vivir-en-suiza",
         slug: "costo-della-vita-svizzera",
-        supportingImages: [],
         readingTime: 4,
         dateUpdated: "Marzo 2026",
-        summary: "Come stimare il tuo costo della vita in Svizzera: affitto, assicurazione medica, tasse, trasporti e 'spese invisibili'. Esempi per cantone e consigli.",
+        summary: "Come stimare il costo della vita in Svizzera: affitto, assicurazione sanitaria, tasse, trasporti e “spese invisibili”. Esempi per Cantone e consigli.",
         featuredImage: "media/guides/costes-vida-suiza.png",
-        imageAlt: "Illustrazione di budget: portafoglio, calcolatrice e spese per vivere in Svizzera",
+        imageAlt: "Illustrazione del budget: portafoglio, calcolatrice e spese per vivere in Svizzera",
         relatedSlugs: [],
+        supportingImages: [],
         content: `<div class="article-content">
-            <h2>Introduzione</h2>
-<p>Il costo della vita in Svizzera non è solo “alto”. È, soprattutto, <strong>strutturato e prevedibile</strong> se prepari un budget con le voci corrette. Il problema di molti nuovi arrivati non è pagare “molto”, ma non anticipare:</p>
+            <h2>Introducción</h2>
+<p>El coste de vida en Suiza no es solo “caro”. Es, sobre todo, <strong>estructurado y previsible</strong> si haces un presupuesto con las partidas correctas. El problema de muchos recién llegados no es pagar “mucho”, sino no anticipar:</p>
 <ul>
-<li>spese di ingresso (depositi, trasloco, prime fatture),</li>
-<li>differenze per regione (affitto, premi dell'assicurazione medica),</li>
-<li>e costi che non compaiono nell'annuncio dell'appartamento (spese accessorie, assicurazioni, tasse).</li>
+<li>gastos de entrada (depósitos, mudanza, primeras facturas),</li>
+<li>diferencias por región (alquiler, primas del seguro médico),</li>
+<li>y costes que no se ven en el anuncio del piso (gastos, seguros, impuestos).</li>
 </ul>
-<p>Questa guida ti aiuta a stimare un budget realista senza affidarti a numeri “magici” che potrebbero non applicarsi al tuo caso.</p>
-<h2>Contesto in Svizzera</h2>
-<p>Le tue grandi variabili di solito sono:</p>
-	<h3>Regione (cantone/comune)</h3>
-	<p>Cambiano soprattutto l'<strong>affitto</strong> e i <strong>premi della LAMal</strong>. Possono variare anche la tassazione e le tasse locali. Regola pratica: preventivare in una grande città e poi trasferirsi in una zona più economica è più facile del contrario.</p>
+<p>Esta guía te ayuda a estimar un presupuesto realista sin entrar en números “mágicos” que luego no aplican a tu caso.</p>
+<h2>Contexto en Suiza</h2>
+<p>Tus grandes variables suelen ser:</p>
+	<h3>Región (cantón/comuna)</h3>
+	<p>Cambian sobre todo el <strong>alquiler</strong> y las <strong>primas de la LAMal</strong>. También puede cambiar la fiscalidad y tasas locales. Regla práctica: presupuestar en una ciudad grande y luego mudarte a una zona más barata es más fácil que al revés.</p>
     <figure class="article-figure">
-      <img src="media/guides/coste-regiones-suiza.png" alt="Mappa orientativa: zone più care per vivere in Svizzera (ad esempio, Zurigo/Zug e l'arco lemanico)" loading="lazy" decoding="async">
-      <figcaption>Orientativo: all'interno di ogni regione ci sono differenze per città, quartiere e tipo di alloggio.</figcaption>
+      <img src="media/guides/coste-regiones-suiza.png" alt="Mapa orientativo: zonas más caras para vivir en Suiza (por ejemplo, Zúrich/Zug y el arco lémanico)" loading="lazy" decoding="async">
+      <figcaption>Orientativo: dentro de cada región hay diferencias por ciudad, barrio y tipo de vivienda.</figcaption>
     </figure>
-	<h3>Nucleo familiare (single/coppia/famiglia)</h3>
-	<p>Con i bambini, la voce che rompe il budget non è il supermercato: di solito è l'<strong>asilo nido/Kita</strong> e l'organizzazione degli orari.</p>
-	<h3>Mobilità e abitudini</h3>
-	<p>Trasporto pubblico, auto, mangiare fuori, tempo libero: sono voci “flessibili” che a volte si gonfiano senza accorgersene. Definisci un tenore di vita obiettivo e adattalo al tuo stipendio netto.</p>
-<h2>Situazioni comuni che generano problemi</h2>
-<h3>Le 5 voci che influiscono maggiormente sul budget</h3>
+	<h3>Hogar (solo/pareja/familia)</h3>
+	<p>Con niños, la partida que rompe presupuestos no es el supermercado: suele ser la <strong>guardería/Kita</strong> y la organización de horarios.</p>
+	<h3>Movilidad y hábitos</h3>
+	<p>Transporte público, coche, comer fuera, ocio: son partidas “flexibles” que a veces se inflan sin darse cuenta. Define un nivel de vida objetivo y ajústalo a tu salario neto.</p>
+<h2>Situaciones comunes que generan problemas</h2>
+<h3>Las 5 partidas que más mueven el presupuesto</h3>
 <ol>
-<li><strong>Affitto + spese accessorie</strong> (e deposito/cauzione iniziale)</li>
-<li><strong>Assicurazione medica</strong> (premi + franchigia)</li>
-<li><strong>Tasse</strong> (a seconda del cantone e della situazione)</li>
-<li><strong>Trasporto</strong> (Halbtax/AG, zona urbana)</li>
-<li><strong>Asilo nido/Kita</strong> (se applicabile)</li>
+<li><strong>Alquiler + gastos</strong> (y depósito/fianza inicial)</li>
+<li><strong>Seguro médico</strong> (primas + franquicia)</li>
+<li><strong>Impuestos</strong> (según cantón y situación)</li>
+<li><strong>Transporte</strong> (Halbtax/AG, zona urbana)</li>
+<li><strong>Guardería/Kita</strong> (si aplica)</li>
 </ol>
-<h3>1) Affitto: il costo mensile e il costo d'ingresso</h3>
-<p>Non guardare solo il “prezzo dell'annuncio”. Chiedi:</p>
+<h3>1) Alquiler: el coste mensual y el coste de entrada</h3>
+<p>No mires solo “precio del anuncio”. Pregunta:</p>
 <ul>
-<li><strong>Nettomiete</strong> (affitto base) e <strong>Nebenkosten</strong> (spese accessorie): cosa include e come viene adeguato?</li>
-<li>Deposito: per l'alloggio è abituale che richiedano una garanzia (spesso fino a tre mesi di affitto base) + primo mese in anticipo, a seconda dei casi.</li>
-<li>Possibili extra: posto auto, cantina, lavanderia, ecc.</li>
+<li><strong>Nettomiete</strong> (alquiler base) y <strong>Nebenkosten</strong> (gastos): ¿qué incluye y cómo se ajusta?</li>
+<li>Depósito: en vivienda es habitual que pidan una garantía (a menudo hasta tres meses de alquiler base) + primer mes por adelantado, según el caso.</li>
+<li>Posibles extras: plaza de parking, trastero, lavandería, etc.</li>
 </ul>
-<p>Traduzione pratica: il primo mese può essere molto più costoso di un “mese normale”.</p>
-<h3>2) Assicurazione medica (LAMal): premio + franchigia + quote-parte</h3>
-<p>Il premio cambia a seconda della regione, dell'età e del modello (telmed/HMO/ospedale, ecc.). Oltre al premio mensile, nel tuo budget annuale considera:</p>
+<p>Traducción práctica: el primer mes puede ser mucho más caro que “un mes normal”.</p>
+<h3>2) Seguro médico (LAMal): prima + franquicia + copagos</h3>
+<p>La prima cambia por región, edad y modelo (telmed/HMO/hospital, etc.). Además de la prima mensual, en tu presupuesto anual considera:</p>
 <ul>
-<li><strong>franchigia</strong> (ciò che paghi per primo),</li>
-<li><strong>quote-parte</strong> (ciò che paghi dopo la franchigia fino a un massimo).</li>
+<li><strong>franquicia</strong> (lo que pagas primero),</li>
+<li><strong>copagos</strong> (lo que pagas después hasta un límite).</li>
 </ul>
-<p>Consiglio: se scegli una franchigia alta per abbassare il premio, assicurati di avere un margine per un anno “negativo”.</p>
-<h3>3) Tasse: il lordo non è il netto</h3>
-<p>A seconda della tua situazione, potresti avere trattenute alla fonte o pagamenti successivi. Per preventivare:</p>
+<p>Consejo: si eliges una franquicia alta para bajar prima, asegúrate de tener un colchón para un año “malo”.</p>
+<h3>3) Impuestos: bruto no es neto</h3>
+<p>Dependiendo de tu situación, puedes tener retenciones en la fuente o pagos posteriores. Para presupuestar:</p>
 <ul>
-<li>chiedi una stima del tuo <strong>netto</strong> (non fermarti al lordo),</li>
-<li>considera che i cambiamenti di cantone/comune possono modificare il carico fiscale.</li>
+<li>pide una estimación de tu <strong>neto</strong> (no te quedes con el bruto),</li>
+<li>considera que cambios de cantón/comuna pueden cambiar la carga fiscal.</li>
 </ul>
-<h3>4) Trasporto: definisci il tuo scenario (urbano vs interurbano)</h3>
-<p>La differenza tra “vivo vicino al lavoro” e “pendolarismo lungo” si nota molto. Preventiva in base al tuo uso reale:</p>
+<h3>4) Transporte: define tu escenario (urbano vs interurbano)</h3>
+<p>La diferencia entre “vivo cerca del trabajo” y “commuting largo” se nota mucho. Presupuesta según tu uso real:</p>
 <ul>
-<li>abbonamenti urbani per zone,</li>
-<li>sconti tipo Halbtax o abbonamenti generali se viaggi molto,</li>
-<li>auto: assicurazione, parcheggio, manutenzione (se applicabile).</li>
+<li>abonos urbanos por zonas,</li>
+<li>descuentos tipo Halbtax o abonos generales si viajas mucho,</li>
+<li>coche: seguro, parking, mantenimiento (si aplica).</li>
 </ul>
-<h3>5) Asilo nido/Kita: la voce da pianificare con anticipo</h3>
-<p>Se hai bambini piccoli, chiedi presto informazioni su:</p>
+<h3>5) Guardería/Kita: la partida que hay que modelar con antelación</h3>
+<p>Si tienes niños pequeños, pregunta pronto por:</p>
 <ul>
-<li>disponibilità di posti,</li>
-<li>orari reali (e compatibilità con il lavoro),</li>
-<li>e aiuti/sussidi locali se esistenti.</li>
+<li>disponibilidad de plazas,</li>
+<li>horarios reales (y compatibilidad con trabajo),</li>
+<li>y ayudas/subvenciones locales si existen.</li>
 </ul>
-<h3>Spese invisibili tipiche</h3>
+<h3>Gastos invisibles típicos</h3>
 <ul>
-<li>trasloco e mobili</li>
-<li>assicurazioni (RC casa), cellulare/internet</li>
-<li>tasse comunali (a seconda del luogo)</li>
-<li>anticipi (depositi, prime fatture)</li>
+<li>mudanza y mobiliario</li>
+<li>seguros (RC hogar), móvil/internet</li>
+<li>tasas comunales (según lugar)</li>
+<li>adelantos (depósitos, primeras facturas)</li>
 </ul>
-<h3>“Spese invisibili” che i nuovi arrivati spesso dimenticano</h3>
-<p>Aggiungi al tuo budget una voce di “atterraggio” per:</p>
+<h3>“Gastos invisibles” que suelen olvidar los recién llegados</h3>
+<p>Añade a tu presupuesto una partida de “aterrizaje” para:</p>
 <ul>
-<li>trasloco, attrezzi di base e acquisti iniziali (letto, tavolo, ecc.),</li>
-<li>attivazione di internet/cellulare, possibili costi di installazione,</li>
-<li>assicurazioni (responsabilità civile/RC, casa se la stipuli),</li>
-<li>prime fatture e anticipi (depositi, spese, servizi).</li>
+<li>mudanza, herramientas básicas y compras iniciales (cama, mesa, etc.),</li>
+<li>activación de internet/móvil, posibles costes de instalación,</li>
+<li>seguros (responsabilidad civil/RC, hogar si lo contratas),</li>
+<li>primeras facturas y adelantos (depósitos, gastos, servicios).</li>
 </ul>
-<p>Un trucco utile: separa le “spese di installazione” (una volta) dalle “spese mensili” (ricorrenti). In questo modo non confonderai un picco iniziale con il tuo costo reale mensile.</p>
-<h2>Come evitare multe o conflitti</h2>
+<p>Un truco útil: separa “gastos de instalación” (una vez) de “gastos mensuales” (recurrentes). Así no confundes un pico inicial con tu coste real mensual.</p>
+<h2>Cómo evitar multas o conflictos</h2>
 <ul>
-<li>Inizia con il “minimo sicuro”: alloggio + salute + trasporto di base.</li>
-<li>Riserva un margine per il primo mese (depositi e sorprese).</li>
-<li>Adatta per cantone: non ha senso confrontare Zurigo e una piccola città allo stesso modo.</li>
+<li>Empieza por “mínimo seguro”: vivienda + salud + transporte básico.</li>
+<li>Reserva un colchón para el primer mes (depósitos y sorpresas).</li>
+<li>Ajusta por cantón: no tiene sentido comparar Zúrich y una ciudad pequeña igual.</li>
 </ul>
-<h3>Metodo rapido per un budget che non fallisce</h3>
+<h3>Método rápido para un presupuesto que no falla</h3>
 <ol>
-<li>Calcola il tuo <strong>netto</strong> (o un netto prudente).</li>
-<li>Fissa prima le spese fisse principali: affitto+spese accessorie, LAMal, trasporto.</li>
-<li>Aggiungi un “margine” mensile (risparmio) e un fondo di emergenza.</li>
-<li>Suddividi il resto tra variabili (cibo, tempo libero) con limiti chiari.</li>
-<li>Riesamina al mese 2 e al mese 4 con dati reali (estratti conto bancari).</li>
+<li>Calcula tu <strong>neto</strong> (o un neto conservador).</li>
+<li>Fija primero los fijos grandes: alquiler+gastos, LAMal, transporte.</li>
+<li>Añade un “colchón” mensual (ahorro) y un fondo de emergencia.</li>
+<li>Reparte el resto entre variables (comida, ocio) con límites claros.</li>
+<li>Revisa al mes 2 y al mes 4 con datos reales (extractos bancarios).</li>
 </ol>
-<h3>Primi 90 giorni: evita di impegnarti troppo presto</h3>
-<p>Se sei nuovo, cerca di non avere costi fissi iniziali massimi (appartamento troppo costoso, auto + parcheggio senza necessità, ecc.). È più facile alzare il livello dopo piuttosto che tagliare quando hai già dei contratti firmati.</p>
-<h2>Consigli pratici</h2>
+<h3>Primeros 90 días: evita comprometerte demasiado pronto</h3>
+<p>Si eres nuevo, intenta que tus costes fijos iniciales no sean máximos (piso demasiado caro, coche + parking sin necesidad, etc.). Es más fácil subir nivel después que recortar cuando ya tienes contratos firmados.</p>
+<h2>Consejos prácticos</h2>
 <ul>
-<li>Non calcolare solo con lo stipendio lordo: guarda il netto e le trattenute.</li>
-<li>Se sei appena arrivato, evita di impegnarti in spese fisse troppo alte all'inizio.</li>
+<li>No calcules solo con el salario bruto: mira el neto y retenciones.</li>
+<li>Si eres recién llegado, evita comprometerte con gastos fijos demasiado altos al principio.</li>
 </ul>
-<h3>Checklist del nuovo arrivato (molto pratica)</h3>
+<h3>Checklist de recién llegado (muy práctica)</h3>
 <ul>
-<li>Ho una stima del netto e so come si pagano le tasse nel mio caso?</li>
-<li>Ho un margine per deposito + primo mese + trasloco?</li>
-<li>La mia scelta della LAMal si adatta alla mia salute e alla mia riserva?</li>
-<li>Il mio trasporto è ottimizzato (zone, abbonamenti, distanza reale)?</li>
-<li>Ho separato le spese “di installazione” dalle spese “mensili”?</li>
+<li>¿Tengo estimación de neto y cómo se pagan impuestos en mi caso?</li>
+<li>¿Tengo un colchón para depósito + primer mes + mudanza?</li>
+<li>¿Mi elección de LAMal encaja con mi salud y mi reserva?</li>
+<li>¿Mi transporte está optimizado (zonas, abonos, distancia real)?</li>
+<li>¿He separado gastos “de instalación” de gastos “mensuales”?</li>
 </ul>
-<h2>Fonti ufficiali</h2>
+<h2>Fuentes oficiales</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>Statistica (UST): <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bfs.admin.ch</a></li>
-<li>Comparatore LAMal (Priminfo): <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
+<li>Estadística (BFS): <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bfs.admin.ch</a></li>
+<li>Comparador LAMal (Priminfo): <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
 </ul>
         </div>`
     },
-
     "fb-democracia-directa-suiza": {
-        title: "Democrazia diretta in Svizzera: referendum, iniziativa e votazioni",
-        description: "Cos'è la democrazia diretta svizzera e come si decide: referendum, iniziative, votazioni e livelli (federale/cantonale/comunale). Guida per espatriati.",
-        keywords: "democrazia diretta svizzera, referendum svizzera, iniziativa svizzera, votazioni svizzera",
+        title: "La democrazia diretta in Svizzera: referendum, iniziativa e voto",
+        description: "Cos'è la democrazia diretta svizzera e come si decide: referendum, iniziative, voti e livelli (federale/cantonale/comunale). Guida per gli espatriati. ",
+        keywords: "Democrazia diretta svizzera, referendum svizzero, iniziativa svizzera, voto svizzero",
         keywordsLocalized: true,
         category: "Vivere in Svizzera",
-        hub: "vivere-in-svizzera",
+        hub: "vivir-en-suiza",
         slug: "democrazia-diretta-svizzera",
         readingTime: 2,
         dateUpdated: "Marzo 2026",
-        summary: "Cos'è la democrazia diretta svizzera e come si decide: referendum, iniziative, votazioni e livelli (federale/cantonale/comunale). Guida per espatriati.",
+        summary: "Cos'è la democrazia diretta svizzera e come si decide: referendum, iniziative, voti e livelli (federale/cantonale/comunale). Guida per gli espatriati. ",
         featuredImage: "media/guides/democracia-directa-suiza.jpg",
-        imageAlt: "Urna e scheda di votazione, che rappresenta la democrazia diretta in Svizzera",
+        imageAlt: "Urna elettorale e scheda elettorale, che rappresentano la democrazia diretta in Svizzera",
         relatedSlugs: [],
         content: `<div class="article-content">
-            <h2>Introduzione</h2>
-<p>La Svizzera non vota solo “ogni quattro anni”. La cittadinanza partecipa frequentemente mediante <strong>votazioni</strong> a diversi livelli.</p>
-<h2>Contesto in Svizzera</h2>
-<p>Ci sono votazioni:</p>
+<h2>Introduzione</h2>
+<p>La Svizzera non vota solo «ogni quattro anni». I cittadini partecipano spesso tramite <strong>votando</strong> a diversi livelli.</p>
+<h2>Il contesto in Svizzera</h2>
+<p>Ci sono voti:</p>
 <ul>
-<li><strong>Federali</strong></li>
-<li><strong>Cantonali</strong></li>
-<li><strong>Comunali</strong></li>
+<li><strong>Federale</strong></li>
+<li><strong>Cantonale</strong></li>
+<li><strong>Comunale</strong></li>
 </ul>
-<p>E solitamente convivono diversi temi nello stesso giorno.</p>
+<p>E di solito più argomenti coesistono nello stesso giorno.</p>
 <h2>Situazioni comuni che generano problemi</h2>
 <h3>Referendum (idea generale)</h3>
-<p>È un meccanismo per <strong>confermare o respingere</strong> una decisione normativa. In Svizzera, a seconda del tipo di norma, può essere obbligatorio o attivarsi mediante raccolta di firme (i dettagli dipendono dal livello).</p>
+<p>È un meccanismo per <strong>confermare o respingere</strong> una decisione normativa. In Svizzera, a seconda del tipo di regolamentazione, può essere obbligatoria o attivata tramite raccolta firme (i dettagli dipendono dal livello).</p>
 <h3>Iniziativa (idea generale)</h3>
-<p>Permette di proporre un cambiamento: in pratica apre un processo politico e termina in votazione se soddisfa i requisiti formali.</p>
+<p>Permette di proporre un cambiamento: in pratica apre un processo politico e si conclude con una votazione se soddisfa i requisiti formali.</p>
 <h3>Cosa è importante per un espatriato</h3>
 <ul>
-<li>Molte decisioni che riguardano la tua vita (mobilità, alloggio, regole locali) possono essere oggetto di votazione.</li>
-<li>Il dibattito è solitamente tecnico e accompagnato da materiale esplicativo ufficiale.</li>
-<li>Non tutti possono votare (dipende dalla nazionalità, dal livello e dalle regole locali), ma <strong>è bene capire come funziona</strong>.</li>
+<li>Molte decisioni che riguardano la tua vita (mobilità, alloggio, regole locali) potrebbero essere oggetto di votazione.</li>
+<li>Il dibattito è solitamente tecnico e con materiale esplicativo ufficiale.</li>
+<li>Non tutti possono votare (dipende dalla nazionalità, dal livello e dalle regole locali), ma <strong>vale la pena capirlo</strong>.</li>
 </ul>
 <h2>Come evitare multe o conflitti</h2>
 <ul>
-<li>Segui il calendario delle votazioni del tuo cantone/comune.</li>
-<li>Leggi l'opuscolo ufficiale (solitamente spiega gli argomenti a favore/contro).</li>
-<li>Se un tema ti riguarda (es. trasporti), controlla cosa cambia esattamente e da quando.</li>
+<li>Segui il calendario elettorale del tuo cantone/comune.</li>
+<li>Leggi la brochure ufficiale (di solito spiega gli argomenti a favore/contro).</li>
+<li>Se un problema ti riguarda (ad esempio il trasporto), controlla cosa cambia esattamente e da quando.</li>
 </ul>
-<h2>Consigli pratici</h2>
+<h2>Suggerimenti pratici</h2>
 <ul>
-<li>Evita di informarti solo sui social media: confronta con il documento ufficiale.</li>
-<li>Distingui: “opinione” vs “testo legale oggetto della votazione”.</li>
+<li>Evita di informarti solo attraverso i network: contrasta con il documento ufficiale.</li>
+<li>Distingue: “opinione” da “testo giuridico su cui si vota”.</li>
 </ul>
 <h2>Fonti ufficiali</h2>
 <ul>
 <li>Portale svizzero: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>Confederazione: <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
 </ul>
-        </div>`
+</div>`
     },
-
     "fb-fraudes-inmigrantes-suiza": {
-        title: "Truffe comuni contro gli immigrati in Svizzera: segnali e come proteggersi",
-        description: "Allerta pratica: truffe sugli affitti, false multe, phishing, 'offerte di lavoro' false e furto d'identità. Segnali tipici e come agire in Svizzera.",
-        keywords: "truffe svizzera, frodi svizzera, phishing svizzera, truffa affitto svizzera, multe false",
+        title: "Le frodi più comuni contro gli immigrati in Svizzera: segnali e come tutelarsi",
+        description: "Avvisi pratici: truffe sugli affitti, false multe, phishing, false “offerte di lavoro” e furto d'identità. Segni tipici e come comportarsi in Svizzera. ",
+        keywords: "Truffe svizzere, frodi svizzere, phishing svizzero, truffa sugli affitti svizzeri, multe false",
         keywordsLocalized: true,
-        category: "Allerta e risorse",
-        hub: "risorse",
+        category: "Avvisi e risorse",
+        hub: "recursos",
         slug: "truffe-espatriati-svizzera-allerta",
         readingTime: 2,
         dateUpdated: "Marzo 2026",
-        summary: "Allerta pratica: truffe sugli affitti, false multe, phishing, 'offerte di lavoro' false e furto d'identità. Segnali tipici e come agire in Svizzera.",
+        summary: "Avvisi pratici: truffe sugli affitti, false multe, phishing, false “offerte di lavoro” e furto d'identità. Segni tipici e come comportarsi in Svizzera. ",
         featuredImage: "media/guides/fraudes-inmigrantes-suiza.jpg",
-        imageAlt: "Immagine concettuale di precauzione con chiavi di casa e contratti",
+        imageAlt: "Attenzione immagine concettuale con chiavi di casa e contratti",
         relatedSlugs: [],
         content: `<div class="article-content">
-            <h2>Introduzione</h2>
-<p>La maggior parte delle truffe non si basa sulla “tecnologia”, ma su una cosa: l'<strong>urgenza</strong>. Se impari a rallentare e a verificare, riduci il rischio in modo drastico.</p>
-<h2>Contesto in Svizzera</h2>
-<p>I nuovi arrivati sono un obiettivo tipico perché:</p>
+<h2>Introduzione</h2>
+<p>La maggior parte delle truffe non si basa sulla “tecnologia”, ma su una cosa: <strong>urgenza</strong>. Se impari a frenare e controllare, riduci drasticamente il rischio.</p>
+<h2>Il contesto in Svizzera</h2>
+<p>I nuovi arrivati sono un target tipico perché:</p>
 <ul>
-<li>hanno bisogno di alloggio e lavoro in tempi brevi</li>
+<li>hanno bisogno di un alloggio e di lavorare velocemente</li>
 <li>non conoscono le procedure locali</li>
 <li>non sanno come verificare documenti e pagamenti</li>
 </ul>
 <h2>Situazioni comuni che generano problemi</h2>
-<h3>Truffe frequenti (schemi)</h3>
+<h3>Frodi frequenti (modelli)</h3>
 <ul>
-<li><strong>Affitto</strong>: pagamento anticipato + “non si può visitare”.</li>
-<li><strong>Phishing</strong>: SMS/email che imitano banche o servizi con link.</li>
+<li><strong>Noleggio</strong>: pagamento anticipato + “impossibile visitare”.</li>
+<li><strong>Phishing</strong>: SMS/e-mail che imitano banche o servizi con collegamenti.</li>
 <li><strong>False multe/QR</strong>: codici che portano a siti di pagamento dubbi.</li>
-<li><strong>Offerte di lavoro</strong>: ti chiedono soldi, documenti sensibili o “tasse” per iniziare.</li>
+<li><strong>Offerte di lavoro</strong>: ti chiedono soldi, documenti sensibili o “compensi” per iniziare.</li>
 </ul>
 <h3>Cosa fare (protocollo semplice)</h3>
 <ol>
-<li>Non pagare né inviare dati sensibili a causa della fretta.</li>
-<li>Verificare tramite il canale ufficiale (sito ufficiale, telefono ufficiale).</li>
-<li>Conservare le prove (screenshot, email).</li>
-<li>Segnalare se opportuno (polizia, ente interessato).</li>
+<li>Non pagare né inviare dati sensibili in fretta.</li>
+<li>Verifica tramite il canale ufficiale (sito ufficiale, numero di telefono ufficiale).</li>
+<li>Salva prove (acquisizioni, e-mail).</li>
+<li>Segnalare se applicabile (polizia, entità interessata).</li>
 </ol>
 <h2>Come evitare multe o conflitti</h2>
 <ul>
-<li>Verifica i domini e i mittenti; non fidarti dei “loghi”.</li>
-<li>Usa i numeri ufficiali (non quelli del messaggio).</li>
+<li>Verifica domini e mittenti; non fidarti dei “loghi”.</li>
+<li>Utilizza numeri ufficiali (non quelli nel messaggio).</li>
 </ul>
-<h2>Consigli pratici</h2>
+<h2>Suggerimenti pratici</h2>
 <ul>
-<li>Se ti mettono pressione con “oggi o mai più”, è un brutto segno.</li>
-<li>Se ti chiedono il pagamento per “prenotare” senza un contratto verificabile, lascia perdere.</li>
+<li>Se ti fanno pressione con “oggi o mai più”, è un brutto segno.</li>
+<li>Se ti chiedono il pagamento alla “riserva” senza contratto verificabile, esci.</li>
 </ul>
 <h2>Fonti ufficiali</h2>
 <ul>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 <li>Fedpol (sicurezza, secondo la campagna): <a href="https://www.fedpol.admin.ch" target="_blank" rel="noopener noreferrer">https://www.fedpol.admin.ch</a></li>
 </ul>
-        </div>`
+</div>`
     },
-
     "fb-normas-locales-ginebra": {
-        title: "Regole di convivenza in Svizzera: rumore, rifiuti, parcheggio e regole comuni",
-        description: "Guida nazionale alla convivenza in Svizzera: ore di silenzio, rifiuti/riciclaggio, parcheggio, regole dell'edificio e malintesi tipici. Spieghiamo cosa dipende dal cantone, dal comune o dal regolamento interno.",
-        keywords: "convivenza svizzera, rumore svizzera, riciclaggio svizzera, parcheggio svizzera, multe svizzera",
+        title: "Regole di convivenza in Svizzera: rumore, rifiuti, parcheggi e regole comuni",
+        description: "Guida nazionale alla convivenza in Svizzera: ore del silenzio, rifiuti/riciclaggio, parcheggi, regole edilizie e malintesi tipici. Spieghiamo cosa dipende dal cantone, dal comune o dai regolamenti interni. ",
+        keywords: "Coesistenza svizzera, rumore svizzero, riciclaggio svizzero, parcheggio svizzero, multe svizzere",
         keywordsLocalized: true,
         category: "Vivere in Svizzera",
-        hub: "vivere-in-svizzera",
+        hub: "vivir-en-suiza",
         slug: "regole-convivenza-svizzera",
         readingTime: 3,
         dateUpdated: "Marzo 2026",
-        summary: "Guida nazionale alla convivenza in Svizzera: ore di silenzio, rifiuti/riciclaggio, parcheggio, regole dell'edificio e malintesi tipici. Spieghiamo cosa dipende dal cantone, dal comune o dal regolamento interno.",
+        summary: "Guida nazionale alla convivenza in Svizzera: ore del silenzio, rifiuti/riciclaggio, parcheggi, regole edilizie e malintesi tipici. Spieghiamo cosa dipende dal cantone, dal comune o dai regolamenti interni. ",
         featuredImage: "media/guides/normas-locales-ginebra.jpg",
-        imageAlt: "Casa, rumore e riciclaggio, che rappresentano le norme di convivenza in Svizzera",
-        relatedSlugs: ["affittare-in-svizzera-evitare-truffe", "costo-della-vita-svizzera", "truffe-espatriati-svizzera-allerta"],
+        imageAlt: "Casa, rumore e riciclaggio, norme di convivenza in Svizzera",
+        relatedSlugs: ["alquilar-en-suiza-evitar-estafas", "costo-de-vida-suiza", "fraudes-inmigrantes-suiza"],
         content: `<div class="article-content">
             <h2>Introduzione</h2>
 <p>La Svizzera è, in generale, un paese con regole chiare e un'applicazione costante. Lo “shock culturale” per molti nuovi arrivati non è la durezza della norma, ma la sua <strong>prevedibilità</strong>: se esiste una regola, ci si aspetta che tu la conosca e la rispetti.</p>
@@ -524,494 +519,475 @@ Object.assign(window.siteContent.it.articles, {
 </ul>
         </div>`
     },
-
     "fb-permisos-suiza-actualizacion": {
         title: "Permessi in Svizzera (L, B, C): checklist, errori tipici e casi reali",
-        description: "Guida pratica per i nuovi arrivati: differenze L/B/C, checklist d'arrivo, cambiamenti di situazione ed errori frequenti, con link ufficiali.",
-        keywords: "permesso l svizzera, permesso b svizzera, permesso c svizzera, permessi svizzera, pratiche svizzera",
+        description: "Guida pratica per i nuovi arrivati: differenze L/B/C, checklist di arrivo, cambiamenti di situazione ed errori frequenti, con link ufficiali. ",
+        keywords: "Permesso svizzero l, permesso svizzero b, permesso svizzero c, permessi svizzeri, procedure svizzere",
         keywordsLocalized: true,
-        category: "Pratiche e Permessi",
-        hub: "pratiche",
+        category: "Procedure e permessi",
+        hub: "tramites",
         slug: "permessi-svizzera-guida",
         readingTime: 2,
         dateUpdated: "Marzo 2026",
-        summary: "Guida pratica per i nuovi arrivati: differenze L/B/C, checklist d'arrivo, cambiamenti di situazione ed errori frequenti, con link ufficiali.",
+        summary: "Guida pratica per i nuovi arrivati: differenze L/B/C, checklist di arrivo, cambiamenti di situazione ed errori frequenti, con link ufficiali. ",
         featuredImage: "media/guides/permisos-suiza-actualizacion.jpg",
-        imageAlt: "Primo piano di documenti d'identità e permessi di soggiorno svizzeri",
+        imageAlt: "Primo piano delle carte d'identità svizzere e dei permessi di soggiorno",
         relatedSlugs: [],
         content: `<div class="article-content">
-            <h2>Introduzione</h2>
-<p>I permessi svizzeri dipendono dalla tua situazione (contratto, durata, famiglia) e dal quadro legale applicabile. Non è solo “una tessera”.</p>
-<h2>Contesto in Svizzera</h2>
-<p>La base è federale, ma la gestione pratica (appuntamenti, termini, moduli) può variare a seconda del cantone.</p>
+<h2>Introduzione</h2>
+<p>I permessi svizzeri dipendono dalla vostra situazione (contratto, durata, famiglia) e dal quadro giuridico applicabile. Non è semplicemente “una carta”.</p>
+<h2>Il contesto in Svizzera</h2>
+<p>La base è federale, ma il disbrigo pratico (appuntamenti, scadenze, moduli) può variare a seconda del Cantone.</p>
 <h2>Situazioni comuni che generano problemi</h2>
 <ul>
-<li><strong>L</strong>: solitamente associato a contratti/soggiorni più brevi.</li>
-<li><strong>B</strong>: residenza temporanea di diversi anni; attenzione ai cambiamenti di datore di lavoro, attività o cantone (a seconda del caso).</li>
-<li><strong>C</strong>: status più stabile dopo anni; cambia il panorama di alcune pratiche, ma non elimina gli obblighi.</li>
+<li><strong>L</strong>: solitamente associato a contratti/soggiorni brevi.</li>
+<li><strong>B</strong>: residenza temporanea di più anni; Fai attenzione ai cambiamenti di datore di lavoro, attività o cantone (a seconda dei casi).</li>
+<li><strong>C</strong>: status più stabile dopo anni; Cambia il panorama di alcune procedure, ma non elimina gli obblighi.</li>
 </ul>
 <h2>Come evitare multe o conflitti</h2>
-<p>Checklist all'arrivo:</p>
+<p>Lista di controllo all'arrivo:</p>
 <ol>
-<li>Registrazione in comune.</li>
-<li>Assicurazione medica entro il termine applicabile.</li>
-<li>Prove di domicilio e lavoro.</li>
-<li>Archivio di lettere ufficiali e buste paga.</li>
+<li>Registrazione nel comune.</li>
+<li>Assicurazione medica entro il periodo applicabile.</li>
+<li>Prova di indirizzo e lavoro.</li>
+<li>Archivio lettere ufficiali e buste paga.</li>
 </ol>
-<h2>Consigli pratici</h2>
+<h2>Suggerimenti pratici</h2>
 <ul>
-<li>Non aspettare “di avere la tessera” per iniziare gli altri passi.</li>
-<li>Se cambi cantone, controlla la procedura esatta del nuovo cantone/comune.</li>
+<li>Non aspettare “di avere la carta” per iniziare altri passaggi.</li>
+<li>Se cambi cantone, verifica la procedura esatta del nuovo cantone/comune.</li>
 </ul>
 <h2>Fonti ufficiali</h2>
 <ul>
 <li>SEM: <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
 <li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
 </ul>
-        </div>`
+</div>`
     },
-
-    "fb-rav-paro-suiza": {
-        title: "RAV e disoccupazione in Svizzera: come funziona, passi e obblighi",
-        description: "Guida pratica all'assicurazione contro la disoccupazione (ALV/AD) in Svizzera: ruolo del RAV, requisiti, importo (indicativo), durata, obblighi, sanzioni comuni e checklist per i nuovi arrivati.",
-        keywords: "rav svizzera, disoccupazione svizzera, alv ad, assicurazione disoccupazione svizzera",
-        keywordsLocalized: true,
-        category: "Lavoro e stipendi",
-        hub: "lavoro",
-        slug: "rav-disoccupazione-svizzera",
-        readingTime: 4,
-        dateUpdated: "Marzo 2026",
-        summary: "Guida pratica all'assicurazione contro la disoccupazione (ALV/AD) in Svizzera: ruolo del RAV, requisiti, importo (indicativo), durata, obblighi, sanzioni comuni e checklist per i nuovi arrivati.",
-        featuredImage: "media/guides/rav-paro-suiza.jpg",
-        imageAlt: "Ufficio RAV e modulo di assicurazione contro la disoccupazione in Svizzera",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-            <h2>Introduzione</h2>
-<p>La disoccupazione in Svizzera non è solo “un pagamento”: è un sistema strutturato con <strong>regole, scadenze e prove</strong>. Con un metodo (documenti + calendario + comunicazione scritta), il processo tende ad essere prevedibile. Se improvvisi, probabilmente dovrai affrontare ritardi, discussioni con la cassa o sanzioni.</p>
-<h2>Contesto in Svizzera</h2>
-<p>Di solito avrai a che fare con due enti (più un'idea chiave):</p>
-<ul>
-<li><strong>RAV / URC</strong> (Ufficio regionale di collocamento): ti assegna un consulente, stabilisce le aspettative per la ricerca di lavoro, pianifica gli appuntamenti e può offrire “misure” (corsi, programmi di reinserimento, ecc.).</li>
-<li><strong>Cassa di disoccupazione</strong> (<em>Arbeitslosenkasse</em>): verifica i requisiti, calcola l'indennità e <strong>paga</strong>.</li>
-</ul>
-<p>Idea chiave: il sistema funziona sulla base della documentazione. Dire “ho cercato” non è sufficiente: devi essere in grado di provarlo.</p>
-<p>Il quadro legale è federale (LADI/AD), ma l'attuazione pratica può variare a seconda del cantone (ritmo degli appuntamenti, moduli, cosa è considerato “congruo”, ecc.).</p>
-<h2>Situazioni comuni che generano problemi</h2>
-<h3>Cos'è il RAV (e cosa non è)</h3>
-<p>Il RAV non è una classica “agenzia di collocamento” che trova un lavoro per te. Il suo ruolo è quello di:</p>
-<ul>
-<li>confermare che sei disponibile per lavorare,</li>
-<li>strutturare la tua ricerca di lavoro (appuntamenti, obiettivi),</li>
-<li>e registrare il tuo processo (misure, candidature, prove).</li>
-</ul>
-<p>In pratica, <strong>tu</strong> rimani il motore della ricerca di lavoro. Il RAV fornisce il quadro di riferimento.</p>
-<h3>Chi ne ha di solito diritto (visione pratica)</h3>
-<p>Il diritto all'indennità dipende dal caso specifico, ma solitamente ruota attorno a:</p>
-<ul>
-<li>aver maturato un <strong>periodo di contribuzione</strong> sufficiente entro il periodo di riferimento,</li>
-<li>essere disoccupati ed essere <strong>disponibili</strong> a lavorare,</li>
-<li>essere <strong>registrati</strong> e rispettare gli obblighi (appuntamenti, ricerca documentata di lavoro),</li>
-<li>e non trovarsi in una situazione che attivi sanzioni o esclusioni (ad esempio, alcune dimissioni senza un motivo accettato possono comportare giorni di sospensione).</li>
-</ul>
-<p>Per i nuovi arrivati, il punto sensibile è spesso dimostrare i contributi e la reale disponibilità (lingua, permessi, opzioni realistiche di lavoro). Non è un giudizio morale: è una questione di idoneità ed occupabilità.</p>
-<h3>Quanto ricevi (indicativo)</h3>
-<p>Le indennità sono calcolate sul tuo <strong>guadagno assicurato</strong> e spesso espresse come percentuale. Come regola generale:</p>
-<ul>
-<li>molte persone ricevono circa il <strong>70%</strong> del guadagno assicurato, e</li>
-<li>circa l'<strong>80%</strong> in certi casi (ad esempio, persone con figli a carico o situazioni specifiche).</li>
-</ul>
-<p>Questo non è un “ipotesi”: la cassa lo calcola in base ai tuoi documenti. La mancanza di documenti comporta spesso ritardi nei pagamenti o ricalcoli successivi.</p>
-<h3>Durata: giorni indennizzati, non “mesi”</h3>
-<p>La durata è spesso espressa in <strong>indennità giornaliere</strong> (ad esempio, 200/260/400/520), a seconda di fattori come:</p>
-<ul>
-<li>storia contributiva,</li>
-<li>età,</li>
-<li>e condizioni del caso.</li>
-</ul>
-<p>Traduzione pratica: due persone che diventano disoccupate lo stesso giorno possono avere durate diverse. Il sistema è gestito in giorni indennizzati piuttosto che in mesi solari esatti.</p>
-<h3>Obblighi (e dove avvengono effettivamente le sanzioni)</h3>
-<p>La maggior parte dei problemi deriva dalla mancanza di metodo, non dalla mancanza di motivazione. Gli obblighi tipici includono:</p>
-<ul>
-<li><strong>ricerca di lavoro documentata</strong> (candidature reali, ruoli pertinenti, prove),</li>
-<li>partecipare agli <strong>appuntamenti</strong> e alle misure,</li>
-<li>accettare offerte/misure <strong>congrue</strong> (a seconda del profilo e della fase),</li>
-<li>consegnare i documenti <strong>entro i termini</strong>.</li>
-</ul>
-<p>Cause comuni di sanzione:</p>
-<ul>
-<li>scadenze mancate (consegne tardive),</li>
-<li>mancata conservazione delle prove (email/screenshot/annuncio di lavoro),</li>
-<li>dimissioni senza consulenza preventiva (possono comportare sanzioni),</li>
-<li>“candidature di riempimento” (non in linea con il tuo profilo o senza prove).</li>
-</ul>
-<h3>Un esempio realistico</h3>
-<p>Caso A: “Il mio contratto scade il 31. Mi registro il 15 del mese successivo e inizio a raccogliere prove solo da allora.” Risultato tipico: attriti, giorni di indennità persi o ritardi.</p>
-<p>Caso B: “Mi registro in anticipo e fin dal primo giorno tengo traccia delle prove.” Risultato tipico: processo più fluido e meno domande.</p>
-<h2>Come evitare multe o conflitti</h2>
-<h3>Checklist minima (documentazione)</h3>
-<p>Prepara una cartella (digitale) con:</p>
-<ol>
-<li>Documento d'identità + permesso (se applicabile)</li>
-<li>contratti, lettere di licenziamento, buste paga</li>
-<li>certificati pertinenti (a seconda del caso)</li>
-<li>“pacchetto prove” delle candidature</li>
-</ol>
-<h3>Come documentare le candidature senza impazzire</h3>
-<p>Un semplice foglio di calcolo è sufficiente. Colonne utili:</p>
-<ul>
-<li>data di invio</li>
-<li>azienda e ruolo</li>
-<li>canale (portale/email/referenza)</li>
-<li>prova (link al pdf/screenshot/email)</li>
-<li>stato/risposta</li>
-</ul>
-<p>Prova minima per candidatura:</p>
-<ul>
-<li>annuncio di lavoro o descrizione del ruolo (PDF/screenshot),</li>
-<li>il CV/lettera di presentazione che hai inviato,</li>
-<li>conferma (email o screenshot del portale).</li>
-</ul>
-<h3>Comunicazione: per iscritto e prima delle scadenze</h3>
-<p>Se richiedono qualcosa, rispondi per iscritto e <strong>prima</strong> della scadenza. Se consegni documenti di persona, chiedi una ricevuta se esiste. In Svizzera, in caso di disaccordo, vince ciò che è documentato.</p>
-<h2>Consigli pratici</h2>
-<h3>Consigli per i nuovi arrivati</h3>
-<ul>
-<li>Non dare per scontato che funzioni come nel tuo paese d'origine: qui è tutto molto <strong>basato sulla documentazione</strong>.</li>
-<li>Se la tua conoscenza della lingua locale è limitata, dillo presto e mantieni la ricerca di lavoro realistica (aziende, settori, zona). Devi cercare: il metodo deve essere fattibile.</li>
-<li>Se stai pensando di dimetterti, chiedi prima consiglio: una “decisione di orgoglio” potrebbe costarti settimane senza pagamenti.</li>
-</ul>
-<h3>Una routine settimanale che di solito funziona</h3>
-<ol>
-<li>blocchi fissi per la ricerca di lavoro (trattalo come un lavoro)</li>
-<li>meno candidature, ma di maggiore qualità</li>
-<li>salva le prove immediatamente (non “domani”)</li>
-<li>un calendario per appuntamenti e scadenze</li>
-</ol>
-<h3>Segnale di allarme</h3>
-<p>Se continui a “ricostruire” le candidature in un secondo momento, sei già in ritardo. Semplifica: screenshot automatici, una cartella mensile e un tracker aggiornato.</p>
-<h2>Fonti ufficiali</h2>
-<ul>
-<li>ch.ch (disoccupazione): <a href="https://www.ch.ch/it/lavoro/disoccupazione/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/it/lavoro/disoccupazione/</a></li>
-<li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
-</ul>
-        </div>`
-    },
-
     "fb-seguro-medico-lamal-elegir": {
-        title: "Come scegliere l'assicurazione malattia (LAMal) in Svizzera: modello, franchigia e premio",
-        description: "Guida pratica per scegliere la LAMal in Svizzera: modelli di accesso (standard/medico di famiglia/telmed/HMO), franchigia e quote-parte, copertura infortuni, complementari, scadenze per il cambio e checklist per i nuovi arrivati.",
-        keywords: "lamal svizzera, assicurazione malattia svizzera, franchigia svizzera, premio svizzera, hmo telmed",
+        title: "Come scegliere l'assicurazione sanitaria (LAMal) in Svizzera: modello, franchigia e premio",
+        description: "Guida pratica per scegliere LAMal in Svizzera: modelli (standard/sede/telmed/HMO), franchigie e ticket, infortuni, complementari, periodi di cambio e checklist per i nuovi arrivati.",
+        keywords: "lamal svizzera, assicurazione sanitaria svizzera, franchising svizzero, premio svizzero, hmo telmed",
         keywordsLocalized: true,
         category: "Salute e LAMal",
-        hub: "salute",
+        hub: "salud",
         slug: "scegliere-assicurazione-malattia-svizzera",
         readingTime: 4,
         dateUpdated: "Marzo 2026",
-        summary: "Guida pratica per scegliere la LAMal in Svizzera: modelli di accesso (standard/medico di famiglia/telmed/HMO), franchigia e quote-parte, copertura infortuni, complementari, scadenze per il cambio e checklist per i nuovi arrivati.",
+        summary: "Guida pratica per scegliere LAMal in Svizzera: modelli (standard/sede/telmed/HMO), franchigie e ticket, infortuni, complementari, periodi di cambio e checklist per i nuovi arrivati.",
         featuredImage: "media/guides/seguro-medico-lamal-elegir.jpg",
-        imageAlt: "Confronto dei piani di assicurazione malattia LAMal in Svizzera",
+        imageAlt: "Immagine concettuale del risparmio e della salute nel sistema svizzero",
         relatedSlugs: [],
         content: `<div class="article-content">
-            <h2>Introduzione</h2>
-<p>L'assicurazione di base obbligatoria (LAMal/KVG) copre le stesse prestazioni definite per legge in tutte le casse malati. Ciò che cambia è:</p>
+            <h2>Introducción</h2>
+<p>En Suiza, el seguro básico (LAMal/KVG) es obligatorio y <strong>cubre las mismas prestaciones legales</strong> en todas las aseguradoras. Lo que cambia es:</p>
 <ul>
-<li>il <strong>premio</strong> (prezzo mensile),</li>
-<li>il <strong>modello di accesso</strong> (come si entra nel sistema: standard, medico di famiglia, telmed, HMO),</li>
-<li>e l'<strong>esperienza pratica</strong> del servizio (chiarezza della fatturazione, supporto, app, processi).</li>
+<li>la <strong>prima</strong> (precio mensual),</li>
+<li>el <strong>modelo de acceso</strong> (cómo entras al sistema: libre elección, cabecera, telmed, HMO),</li>
+<li>y la calidad de <strong>servicio</strong> (facturación, atención, app, claridad).</li>
 </ul>
-<p>Non è necessario essere esperti per scegliere bene. È necessario separare le decisioni, capire il proprio rischio e confrontare con calma.</p>
-<h2>Contesto in Svizzera</h2>
-<p>Suddividi la scelta in tre decisioni:</p>
+<p>Elegir bien no requiere ser experto. Requiere separar decisiones, entender tu riesgo y comparar con calma.</p>
+<h2>Contexto en Suiza</h2>
+<p>Para no equivocarte, separa tres decisiones:</p>
 <ol>
-<li>assicuratore (prezzo/servizio)</li>
-<li>modello (standard vs medico di famiglia vs telmed vs HMO)</li>
-<li>franchigia (quanto paghi tu prima dei rimborsi)</li>
+<li><strong>Aseguradora</strong> (precio/servicio)</li>
+<li><strong>Modelo</strong> (standard vs médico de cabecera vs telmed vs HMO)</li>
+<li><strong>Franquicia</strong> (cuánto pagas tú antes de reembolso)</li>
 </ol>
-<p>Due concetti che spesso confondono i nuovi arrivati:</p>
+<p>Además, hay dos conceptos que generan errores al llegar:</p>
 <ul>
-<li><strong>Di base vs complementare</strong>: l'assicurazione di base (LAMal) è obbligatoria; i piani complementari sono facoltativi e solitamente richiedono l'accettazione.</li>
-<li><strong>Infortuni</strong>: se sei un lavoratore dipendente e sei coperto per gli infortuni dal tuo datore di lavoro, di solito puoi escludere l'“infortunio” dall'assicurazione di base. Se non sei coperto tramite l'impiego, dovresti includerlo.</li>
+<li><strong>Básico vs complementarios</strong>: el básico (LAMal) es obligatorio; los complementarios son opcionales y suelen requerir aceptación.</li>
+<li><strong>Accidentes</strong>: si trabajas y estás cubierto por accidente a través del empleador, normalmente puedes excluir “accidente” del básico. Si no, conviene incluirlo.</li>
 </ul>
-<h2>Situazioni comuni che generano problemi</h2>
-<h3>1) Modelli: libertà vs disciplina (dove accadono gli errori)</h3>
-<p>I modelli sono la fonte n. 1 di sorprese perché definiscono <strong>le regole per consultare un medico</strong>.</p>
+<h2>Situaciones comunes que generan problemas</h2>
+<h3>1) Modelos: libertad vs disciplina (y dónde te puedes equivocar)</h3>
+<p>Los modelos son la fuente nº1 de “sorpresas”, porque cambian <strong>las reglas para ir al médico</strong>.</p>
 <ul>
-<li><strong>Standard</strong>: massima flessibilità; spesso più costoso.</li>
-<li><strong>Modello del medico di famiglia</strong> (<em>Hausarzt / médecin de famille</em>): il tuo medico coordina i rinvii; più economico, ma devi seguire il percorso stabilito.</li>
-<li><strong>Telmed</strong>: chiami prima una hotline medica; ti consigliano e ti indirizzano. Più economico, ma richiede disciplina.</li>
-<li><strong>HMO / rete</strong>: sei assegnato a un centro medico/rete. Spesso più economico, ma limita la scelta.</li>
+<li><strong>Standard (libre elección)</strong>: más flexibilidad, suele ser más caro.</li>
+<li><strong>Médico de cabecera (Hausarzt / médecin de famille)</strong>: coordinación por un médico principal; exige seguir el circuito.</li>
+<li><strong>Telmed</strong>: primero llamas a una línea médica; después te derivan. Ahorra prima, pero requiere disciplina.</li>
+<li><strong>HMO / red</strong>: centro/red asignada. Suele ser más barato, pero limita elección.</li>
 </ul>
-<p>Errore tipico: scegliere telmed/HMO per risparmiare, poi ignorare la regola “perché era urgente” o “perché conosco già uno specialista”. Ciò può portare a problemi di rimborso o controversie sulla fatturazione.</p>
-<h3>2) Franchigia + quote-parte: il tuo costo reale non è solo di “12 premi”</h3>
-<p>Il tuo costo annuale è solitamente superiore a “12 premi”. Aspettati:</p>
+<p><strong>Error típico:</strong> elegir telmed/HMO por ahorrar y luego saltarse la regla “porque era urgente” o “porque ya conozco a un especialista”. Eso puede acabar en facturas no reembolsadas o discusiones.</p>
+<h3>2) Franquicia + copago: el coste real no es solo la prima</h3>
+<p>El coste anual del seguro no es solo “12 primas”. Normalmente tendrás:</p>
 <ul>
-<li>una <strong>franchigia</strong> (importo che paghi per primo ogni anno prima dei rimborsi),</li>
-<li>una <strong>quote-parte</strong> (una percentuale dopo la franchigia, fino a un limite annuale),</li>
-<li>e potenzialmente costi aggiuntivi a seconda della situazione (es. degenze ospedaliere).</li>
+<li><strong>franquicia</strong> (gasto inicial anual que pagas tú),</li>
+<li><strong>participación/copago</strong> (parte de costes después de franquicia, hasta un máximo),</li>
+<li>y otros costes según el caso (por ejemplo, hospitalización).</li>
 </ul>
-<p>Come pensare alla franchigia senza calcoli complicati:</p>
+<p><strong>Cómo pensar la franquicia (sin fórmulas raras):</strong></p>
 <ul>
-<li>se sei sano e hai una riserva economica, una franchigia più alta può avere senso (premio più basso, rischio puntuale più alto),</li>
-<li>se hai spese mediche prevedibili, una franchigia più bassa riduce l'incertezza.</li>
+<li>si eres sano y tienes colchón, franquicia alta puede tener sentido (prima menor, más riesgo de gasto puntual).</li>
+<li>si tienes gastos previsibles, franquicia baja reduce incertidumbre.</li>
 </ul>
-<p>Esempio semplice (indicativo): la Persona A usa raramente l'assistenza sanitaria → spesso preferisce premi più bassi + franchigia più alta. La Persona B ha controlli regolari → spesso preferisce la prevedibilità.</p>
-<h3>3) Assicurazione complementare: perché lasciarla per “dopo” può essere un errore</h3>
-<p>I piani complementari (spesso chiamati LCA) possono coprire cose che il piano di base solitamente non copre bene (a seconda della polizza): cure dentistiche, occhiali, camere d'ospedale private/semiprivate, ecc.</p>
-<p>Errore tipico: “La comprerò quando ne avrò bisogno”. I piani complementari spesso comportano:</p>
+<p><strong>Ejemplo simple (orientativo):</strong> Persona A con pocos gastos médicos prioriza prima baja y asume el riesgo. Persona B con seguimiento médico prioriza previsibilidad.</p>
+<h3>3) Complementarios: por qué no conviene dejarlos “para después”</h3>
+<p>Los complementarios (LCA) cubren cosas que el básico suele no cubrir bien (según póliza): dentista, gafas, hospital privado/semiprivado, etc.</p>
+<p><strong>Error típico:</strong> “lo contrato cuando lo necesite”. En complementarios suele haber:</p>
 <ul>
-<li>un questionario medico,</li>
-<li>possibile rifiuto,</li>
-<li>o esclusioni.</li>
+<li>cuestionario médico,</li>
+<li>posibilidad de rechazo,</li>
+<li>o exclusiones.</li>
 </ul>
-<p>Se pensi di volerli, confrontali presto.</p>
-<h3>4) Cambiare ogni anno: scadenze e prove</h3>
-<p>Il cambio viene solitamente preparato in autunno e comporta delle scadenze. Traduzione pratica:</p>
+<p>Si crees que los vas a necesitar, compara temprano.</p>
+<h3>4) Cambio de seguro: plazos, pruebas y calendario práctico</h3>
+<p>En general, la comparación se hace en otoño y hay plazos para cambiar. Traducción práctica:</p>
 <ul>
-<li>confronta presto,</li>
-<li>non aspettare l'ultimo giorno,</li>
-<li>conserva le conferme scritte.</li>
+<li>compara con tiempo,</li>
+<li>cancela/solicita sin apurar,</li>
+<li>y guarda confirmaciones por escrito.</li>
 </ul>
-<p>Errore tipico: decidere all'ultimo minuto e non essere in grado di provare che la disdetta sia arrivata in tempo.</p>
-<h2>Come evitare multe o conflitti</h2>
-<h3>Una checklist passo-passo</h3>
+<p><strong>Error típico:</strong> decidir el cambio el último día y no poder demostrar que la cancelación llegó a tiempo.</p>
+<h2>Cómo evitar multas o conflictos</h2>
+<h3>Checklist para elegir (paso a paso)</h3>
 <ol>
-<li>Definisci la tua situazione: dipendente/autonomo/studente, famiglia, medico abituale, esigenze di salute.</li>
-<li>Scegli un modello che <strong>seguirai effettivamente</strong> nella vita reale.</li>
-<li>Seleziona una franchigia basata sul rischio e sulla riserva (non solo sul premio).</li>
-<li>Controlla se la copertura infortuni debba essere inclusa nell'assicurazione di base.</li>
-<li>Confronta le offerte nel comparatore ufficiale.</li>
-<li>Documenta tutto: email, conferme, date.</li>
+<li>Define tu situación: ¿trabajas? ¿familia? ¿médico habitual?</li>
+<li>Elige el modelo que <strong>realmente</strong> vas a cumplir.</li>
+<li>Selecciona franquicia según riesgo y colchón (no solo por prima).</li>
+<li>Revisa si debes incluir “accidente” en el básico.</li>
+<li>Compara ofertas en el comparador oficial.</li>
+<li>Documenta: correos, confirmaciones, fechas.</li>
 </ol>
-<h3>Come confrontare in 15 minuti (un metodo che funziona)</h3>
+<h3>Cómo comparar sin perderte (método de 15 minutos)</h3>
 <ol>
-<li>Filtra in base al tuo luogo di residenza (i premi variano a seconda della regione).</li>
-<li>Mantieni lo stesso modello e franchigia durante il confronto (mele con mele).</li>
-<li>Guarda il costo annuale, non solo il mese più economico.</li>
-<li>Controlla i vincoli operativi: orari della hotline (telmed), centri assegnati (HMO), ecc.</li>
-<li>In caso di dubbio, scegli l'opzione con regole che puoi seguire in modo affidabile e un buon supporto — non vuoi attriti nei processi quando sei malato.</li>
+<li>Filtra por tu lugar de residencia (la prima cambia por región).</li>
+<li>Fija el mismo modelo y franquicia para comparar “manzanas con manzanas”.</li>
+<li>Mira el precio anual (12 meses) y no solo el mes más barato.</li>
+<li>Revisa si hay condiciones operativas que te afecten: telmed con horarios, HMO con centro asignado, etc.</li>
+<li>Si dudas entre dos opciones, gana la que tenga reglas más fáciles de cumplir y mejor soporte (cuando estás enfermo, no quieres pelearte con el proceso).</li>
 </ol>
-<h3>Una decisione coerente (brevi esempi)</h3>
+<h3>Ejemplo rápido (decisión coherente)</h3>
 <ul>
-<li>Sano, disciplinato, lavoratore dipendente → telmed + franchigia più alta può essere coerente.</li>
-<li>Bambini o visite frequenti → modello del medico di famiglia + franchigia più bassa spesso riduce lo stress.</li>
-<li>Necessità di flessibilità → il modello standard può valere il prezzo.</li>
+<li>Si trabajas, no vas casi al médico y eres disciplinado: telmed + franquicia alta puede ser coherente.</li>
+<li>Si tienes niños o visitas frecuentes: médico de cabecera + franquicia más baja suele reducir estrés.</li>
+<li>Si viajas mucho y necesitas flexibilidad: standard puede compensar.</li>
 </ul>
-<h2>Consigli pratici</h2>
-<h3>Trappole comuni per i nuovi arrivati</h3>
+<h3>Señales de buena elección</h3>
 <ul>
-<li>“La copertura è la stessa” non significa che “il processo sia lo stesso”: il modello conta.</li>
-<li>Non ottimizzare per il primo mese; pensa al costo annuale e al rischio.</li>
-<li>In caso di dubbio, chiedi agli assicuratori per iscritto (così ne conservi traccia).</li>
+<li>sabes qué hacer si mañana estás enfermo (a quién llamas, dónde vas),</li>
+<li>puedes asumir tu franquicia sin pánico,</li>
+<li>y entiendes el modelo (telmed/HMO/cabecera) sin “atajos”.</li>
 </ul>
-<h3>Mini glossario</h3>
+<h2>Consejos prácticos</h2>
+<h3>Para recién llegados (errores que se repiten)</h3>
 <ul>
-<li><strong>LAMal/KVG</strong>: assicurazione di base obbligatoria.</li>
-<li><strong>Premio</strong>: pagamento mensile.</li>
-<li><strong>Franchigia</strong>: importo annuale che paghi per primo.</li>
-<li><strong>Quote-parte</strong>: ciò che paghi dopo la franchigia (fino a un limite).</li>
-<li><strong>Telmed/HMO/Medico di famiglia</strong>: modelli con regole diverse.</li>
+<li>“La cobertura es igual” no significa “el proceso es igual”: el modelo manda.</li>
+<li>No elijas por la prima del primer mes: mira coste anual y riesgo.</li>
+<li>Si tienes dudas, pregunta por escrito (queda registro).</li>
 </ul>
-<h3>Se ti trasferisci all'interno della Svizzera (dettaglio del budget che sfugge spesso)</h3>
-<p>I premi dipendono dalla tua regione. Se cambi cantone/comune, anche il tuo premio può cambiare. Consiglio pratico:</p>
+<h3>Mini‑glosario útil</h3>
 <ul>
-<li>informa il tuo assicuratore non appena il tuo indirizzo è confermato,</li>
-<li>controlla se il tuo modello scelto (HMO/rete) abbia ancora centri comodi vicino alla tua nuova casa,</li>
-<li>e rifai il tuo budget annuale (non solo il mese più economico).</li>
+<li><strong>LAMal/KVG</strong>: seguro básico obligatorio.</li>
+<li><strong>Prima</strong>: pago mensual.</li>
+<li><strong>Franquicia</strong>: gasto anual inicial que asumes tú.</li>
+<li><strong>Copago / quote‑part / Selbstbehalt</strong>: parte que pagas después de franquicia (hasta un máximo).</li>
+<li><strong>Telmed/HMO/Hausarzt</strong>: modelos con reglas distintas.</li>
+</ul>
+<h3>Si te mudas dentro de Suiza (detalle que afecta al presupuesto)</h3>
+<p>Las <strong>primas</strong> dependen de la región. Si cambias de cantón/comuna, tu prima puede cambiar también. Recomendación práctica:</p>
+<ul>
+<li>notifica el cambio de domicilio a tu aseguradora en cuanto lo tengas confirmado,</li>
+<li>revisa si tu modelo (HMO/red) sigue teniendo centros “cerca” de tu nueva vivienda,</li>
+<li>y recalcula tu presupuesto anual (no solo el mes).</li>
+</ul>
+<h2>Fuentes oficiales</h2>
+<ul>
+<li>ch.ch (seguro): <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>Oficina Federal de Salud Pública (BAG/OFSP): <a href="https://www.bag.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bag.admin.ch</a></li>
+<li>Priminfo (comparador oficial): <a href="https://www.priminfo.admin.ch" target="_blank" rel="noopener noreferrer">https://www.priminfo.admin.ch</a></li>
 </ul>
         </div>`
     },
-
     "fb-sistema-politico-suiza": {
-        title: "Come funziona la Svizzera: Confederazione, cantoni e comuni",
-        description: "Una guida chiara per i nuovi arrivati: cosa decide il livello federale, cosa cambia per cantone e cosa gestisce il tuo comune. Con esempi pratici e fonti ufficiali.",
-        keywords: "sistema politico svizzero, cantoni svizzera, comuni svizzera, federalismo svizzera",
+        title: "Come funziona il sistema politico svizzero: Confederazione, cantoni e comuni",
+        description: "Guida chiara al sistema svizzero per gli espatriati: cosa decide la Confederazione, cosa cambia per cantone e cosa gestisce il tuo comune. Con esempi e fonti ufficiali. ",
+        keywords: "Sistema politico svizzero, cantoni svizzeri, comune svizzero, confederazione svizzera, vivere in Svizzera",
         keywordsLocalized: true,
         category: "Vivere in Svizzera",
-        hub: "vivere-in-svizzera",
+        hub: "vivir-en-suiza",
         slug: "sistema-politico-svizzera",
         readingTime: 2,
         dateUpdated: "Marzo 2026",
-        summary: "Una guida chiara per i nuovi arrivati: cosa decide il livello federale, cosa cambia per cantone e cosa gestisce il tuo comune. Con esempi pratici e fonti ufficiali.",
+        summary: "Guida chiara al sistema svizzero per gli espatriati: cosa decide la Confederazione, cosa cambia per cantone e cosa gestisce il tuo comune. Con esempi e fonti ufficiali. ",
         featuredImage: "media/guides/palacio-federal.jpg",
-        imageAlt: "Palazzo federale svizzero a Berna con la sua facciata classica",
+        imageAlt: "Palazzo federale svizzero a Berna con la sua facciata monumentale",
         relatedSlugs: [],
         content: `<div class="article-content">
-            <h2>Introduzione</h2>
-<p>Molti errori dei nuovi arrivati derivano dal dare per scontato che la Svizzera sia “uguale dappertutto”. Non è così. La Svizzera è <strong>federale e altamente decentralizzata</strong>, e la vita quotidiana dipende dal tuo cantone e dal tuo comune.</p>
-<h2>Contesto in Svizzera</h2>
-<p>Pensa a tre livelli:</p>
+<h2>Introduzione</h2>
+<p>Molte confusioni quando si arriva in Svizzera derivano da un'idea sbagliata: “il Paese funziona allo stesso modo ovunque”. La Svizzera è <strong>federale e decentralizzata</strong>. Ciò influisce sulle tasse, sulla scuola, su alcune procedure e persino sulle normative locali.</p>
+<h2>Il contesto in Svizzera</h2>
+<p>In pratica, la tua vita è governata da <strong>tre livelli</strong>:</p>
 <ul>
-<li><strong>Federale (Confederazione)</strong>: regole quadro e coordinamento nazionale.</li>
-<li><strong>Cantone</strong>: molte regole concrete e attuazione (tasse, istruzione, amministrazione).</li>
-<li><strong>Comune (municipalità)</strong>: servizi locali e procedure (registrazione, rifiuti, tasse locali).</li>
+<li>HTMLTAG_15___Confederazione (federale)</strong>: regole quadro, migrazione (molte basi), coordinamento nazionale.</li>
+<li><strong>Cantone</strong>: gran parte dell'attuazione e delle normative specifiche (tasse, istruzione, sanità pubblica, amministrazione).</li>
+<li><strong>Comune (comune)</strong>: gestione locale (registrazione, rifiuti, alcuni permessi, servizi e tasse).</li>
 </ul>
 <h2>Situazioni comuni che generano problemi</h2>
-<h3>Cosa è spesso federale</h3>
+<h3>Cosa significa solitamente "federale"</h3>
 <ul>
-<li>Portali di orientamento nazionale e quadri normativi di base.</li>
-<li>Coordinamento della migrazione e del mercato del lavoro (spesso attuato a livello cantonale).</li>
+<li>Quadro giuridico generale e portali nazionali.</li>
+<li>Coordinamento migrazione e mercato del lavoro (con esecuzione cantonale).</li>
+<li>Infrastrutture federali e statistiche.</li>
 </ul>
-<h3>Cosa varia spesso per cantone</h3>
+<h3>Cosa varia di solito a seconda del cantone</h3>
 <ul>
-<li><strong>Tasse</strong> (carico reale e deduzioni).</li>
-<li><strong>Sistema scolastico</strong> (struttura e calendari).</li>
-<li><strong>Procedure amministrative</strong> (moduli, appuntamenti, tempi di elaborazione).</li>
+<li><strong>Tasse</strong> (carico effettivo e detrazioni).</li>
+<li><strong>Scuola</strong> (calendario, organizzazione, criteri).</li>
+<li><strong>Procedure</strong> (appuntamenti, modulistica, scadenze, uffici).</li>
 </ul>
-<h3>Cosa dipende spesso dal tuo comune</h3>
+<h3>Cosa dipende solitamente dal tuo comune</h3>
 <ul>
-<li>Registrazione all'arrivo / ufficio abitanti.</li>
-<li>Servizi e tasse locali.</li>
-<li>Regole pratiche di convivenza (rumore, orari) che dipendono dalle norme locali.</li>
+<li>Registrazione all'arrivo (controllo abitanti).</li>
+<li>Servizi locali (rifiuti, tasse, comunicazioni).</li>
+<li>Regole di convivenza molto specifiche (rumori, orari, ecc.).</li>
 </ul>
 <h2>Come evitare multe o conflitti</h2>
 <ol>
-<li>Identifica il tuo cantone e il tuo comune.</li>
-<li>Inizia con <strong>ch.ch</strong> per l'orientamento, poi controlla il <strong>portale ufficiale del cantone</strong> per le tue regole esatte.</li>
-<li>Conserva la documentazione (lettere, conferme, email).</li>
+<li>Identifica il tuo cantone (GE, VD, ZH…) e il tuo comune.</li>
+<li>Verifica prima il livello corretto: <strong>ch.ch</strong> per indicazioni + <strong>portale cantonale</strong> per le regole applicabili.</li>
+<li>Conserva sempre le prove: conferme, lettere, email.</li>
 </ol>
-<h2>Consigli pratici</h2>
+<h2>Suggerimenti pratici</h2>
 <ul>
-<li>Se senti dire “In Svizzera è così”, chiedi: <strong>quale cantone? quale comune?</strong></li>
-<li>Per permessi, tasse o disoccupazione, affidati prima di tutto alle fonti ufficiali.</li>
+<li>Se qualcuno dice “in Svizzera è così”, chiedi: <strong>in quale cantone? in quale comune?</strong></li>
+<li>Per argomenti delicati (permessi, tasse, disoccupazione), dare priorità alle fonti ufficiali ed evitare “scorciatoie”.</li>
 </ul>
 <h2>Fonti ufficiali</h2>
 <ul>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>admin.ch: <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
-<li>SEM: <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
-<li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
+<li>Portale svizzero: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>Confederazione: <a href="https://www.admin.ch" target="_blank" rel="noopener noreferrer">https://www.admin.ch</a></li>
+<li>SEM (migrazione): <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
+<li>SECO (mercato del lavoro): <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
 </ul>
-        </div>`
+</div>`
     },
-
     "fb-trabajar-en-suiza-guia": {
-        title: "Lavorare in Svizzera: ricerca di un impiego, negoziazione e un inizio forte",
-        description: "Guida pratica al lavoro: CV in stile svizzero, colloqui, negoziazione salariale, contratti ed errori comuni per i nuovi arrivati.",
-        keywords: "lavoro in svizzera, ricerca lavoro svizzera, cv svizzero, colloquio svizzera, contratto svizzero",
+        title: "Lavorare in Svizzera: come cercare lavoro, negoziare e partire bene",
+        description: "Guida per trovare lavoro in Svizzera: CV, colloqui, trattative salariali, contratto ed errori comuni. Approccio pratico per i nuovi arrivati. ",
+        keywords: "lavorare in Svizzera, cercare lavoro in Svizzera, CV svizzero, colloquio svizzero, contratto svizzero",
         keywordsLocalized: true,
-        category: "Lavoro e stipendi",
-        hub: "lavoro",
+        category: "Lavoro e Stipendi",
+        hub: "trabajo",
         slug: "lavorare-in-svizzera-guida",
-        readingTime: 4,
+        readingTime: 14,
         dateUpdated: "Marzo 2026",
-        summary: "Guida pratica al lavoro: CV in stile svizzero, colloqui, negoziazione salariale, contratti ed errori comuni per i nuovi arrivati.",
+        summary: "Guida fondamentale per lavorare in Svizzera: come cercare lavoro, principali piattaforme, salari, contratti, periodo di prova, indennità di disoccupazione (URC) ed errori tipici dei nuovi arrivati. ",
         featuredImage: "media/guides/buscar-empleo-suiza.jpg",
-        imageAlt: "Professionista durante un colloquio di lavoro in Svizzera",
-        relatedSlugs: [],
+        imageAlt: "Persona che lavora in un ufficio moderno in Svizzera con vista sulle montagne",
+        relatedSlugs: ["contratos-de-trabajo-suiza", "periodo-prueba-preaviso-suiza", "salarios-sueldo-suiza", "rav-paro-suiza", "seguros-sociales-suiza", "tramites-llegada-suiza"],
         content: `<div class="article-content">
-            <h2>Introduzione</h2>
-<p>Lavorare in Svizzera non è “impossibile”, ma richiede metodo. Il mercato spesso premia la <strong>chiarezza</strong> (un CV strutturato con impatti misurabili), la <strong>coerenza</strong> (il tuo profilo corrisponde al ruolo) e il <strong>seguito</strong> (documenti, scadenze e conferme scritte).</p>
-<p>Questa guida è una tabella di marcia pratica: come cercare, come presentarsi, cosa controllare nel contratto e come iniziare bene per evitare i comuni errori dei nuovi arrivati.</p>
-<h2>Contesto in Svizzera</h2>
-<p>Tre fattori cambiano l'intera esperienza:</p>
-<h3>Lingua e regione</h3>
-<p>La Svizzera è multilingue. La lingua di lavoro dipende dalla regione e dal settore. Anche con un inglese forte, molti ruoli attribuiscono valore alla lingua locale (tedesco/francese/italiano) per l'integrazione e il lavoro con i clienti.</p>
-<h3>Il tuo diritto al lavoro (permessi/status)</h3>
-<p>Le tempistiche di assunzione e i passaggi amministrativi dipendono dalla tua nazionalità e dal tuo status di residenza. Se hai già il diritto di lavorare (permesso/status), dillo chiaramente nella tua candidatura.</p>
-<h3>Aspettative del settore</h3>
-<p>Alcuni settori (sanità, istruzione, mestieri specializzati) richiedono il riconoscimento di diplomi o certificati specifici. Altri si preoccupano più del portfolio/progetti e dei risultati recenti.</p>
-<h2>Situazioni comuni che generano problemi</h2>
-<h3>1) Candidature che non superano mai il primo filtro</h3>
-<p>Problemi tipici:</p>
-<ul>
-<li>un CV generico “per tutto” (nessun risultato, nessun focus),</li>
-<li>lunghe lettere di presentazione con poco valore concreto,</li>
-<li>disponibilità, ubicazione o autorizzazione al lavoro poco chiare.</li>
-</ul>
-<p>Cosa tende a funzionare meglio:</p>
-<ul>
-<li>un CV di 1–2 pagine con <strong>risultati misurabili</strong> (impatto, numeri, progetti),</li>
-<li>l'esperienza più recente per prima e adattata all'annuncio,</li>
-<li>se viene richiesta una lettera: breve e strutturata (idoneità, un esempio concreto, disponibilità).</li>
-</ul>
-<h3>2) CV e documenti: prepararsi prima di candidarsi</h3>
-<p>Checklist pratica:</p>
-<ul>
-<li>CV in PDF (nome file chiaro come <code>Nome_Cognome_CV.pdf</code>).</li>
-<li>Copie dei diplomi/certificati pertinenti.</li>
-<li>Un elenco di referenze (e idealmente un preavviso a queste persone).</li>
-<li>Se applicabile: documenti del permesso, stato di riconoscimento per diplomi/certificazioni.</li>
-</ul>
-<p>Consiglio: crea una cartella “candidature” con sottocartelle per azienda. Eviterai la confusione.</p>
-<h3>3) Colloqui: cosa viene realmente valutato</h3>
-<p>Oltre all'esperienza, vieni valutato su:</p>
-<ul>
-<li><strong>puntualità</strong> e preparazione (hai studiato l'azienda),</li>
-<li>chiarezza su responsabilità e decisioni,</li>
-<li>collaborazione (un esempio di conflitto e come l'hai gestito),</li>
-<li>aspettative salariali realistiche.</li>
-</ul>
-<p>Una tattica semplice: prepara 6–8 storie STAR (Situazione–Compito–Azione–Risultato) e adattale al momento.</p>
-<h3>4) Stipendio e negoziazione: non “indovinare un numero”</h3>
-<p>Prima di dare una cifra:</p>
-<ul>
-<li>fai ricerche sui range per il tuo settore e la tua regione,</li>
-<li>chiarisci se il pacchetto include una tredicesima (se applicabile) o un bonus,</li>
-<li>conferma il carico di lavoro (80%/100%) e il modello orario.</li>
-</ul>
-<p>La negoziazione non è un “mercanteggiare”: è allineare le aspettative. Se chiedi di più, associalo al valore (ambito, esperienza, rarità delle competenze).</p>
-<h3>5) Il contratto: cosa spesso fa inciampare i nuovi arrivati</h3>
-<p>Controlla con calma:</p>
-<ul>
-<li><strong>periodo di prova</strong> e condizioni,</li>
-<li><strong>termine di preavviso</strong> (durata e quando si applica),</li>
-<li>ore settimanali e tracciamento del tempo,</li>
-<li>politica per le vacanze (minimo legale vs politica aziendale),</li>
-<li>se esiste una <strong>tredicesima</strong>,</li>
-<li>termini del lavoro a distanza (se offerto),</li>
-<li>assicurazione infortuni (solitamente gestita dal datore di lavoro per i dipendenti).</li>
-</ul>
-<p>Se qualcosa è ambiguo, chiedi per iscritto prima di firmare.</p>
-<h3>6) I tuoi primi mesi: evita “piccoli” errori che diventano costosi</h3>
-<p>Punti di attrito comuni:</p>
-<ul>
-<li>non conservare le conferme (spese, ore, accordi),</li>
-<li>non sapere chi fa cosa (Risorse Umane vs responsabile diretto vs ufficio paghe),</li>
-<li>non chiedere presto informazioni sull'imposta alla fonte (a seconda della situazione) o sulle registrazioni delle assicurazioni.</li>
-</ul>
-<p>Se sei nuovo nel sistema, usa il primo mese per costruire la tua “routine amministrativa” (documenti, buste paga, assicurazione, calendario).</p>
-<h3>7) Canali: dove la gente trova effettivamente lavoro</h3>
-<p>Usa più canali in parallelo:</p>
-<ul>
-<li>pagine career delle aziende (spesso le più affidabili),</li>
-<li>principali siti di annunci e portali specifici del settore,</li>
-<li>reclutatori specializzati (soprattutto per profili di nicchia),</li>
-<li>e networking (molti ruoli vengono ricoperti prima di essere ampiamente pubblicizzati).</li>
-</ul>
-<h2>Come evitare multe o conflitti</h2>
-<h3>Una checklist di sicurezza (minimo per evitare problemi)</h3>
-<ol>
-<li>CV e LinkedIn sono allineati (stesse date e ruoli).</li>
-<li>Obiettivo chiaro: 2–3 tipi di ruolo (non 15).</li>
-<li>Tracker delle candidature: annuncio, data, versione del CV, contatto, stato.</li>
-<li>Documenti pronti: diplomi, certificati, referenze, permessi (se applicabile).</li>
-<li>Condizioni chiave per iscritto (compenso totale, data di inizio, condizioni speciali).</li>
-</ol>
-<h3>Segnali di allarme (possibili truffe)</h3>
-<ul>
-<li>“Assunzione istantanea” senza un vero colloquio o verifica.</li>
-<li>Richieste di denaro per “elaborare” un contratto o un permesso.</li>
-<li>Nessuna traccia verificabile dell'azienda o domini sospetti.</li>
-</ul>
-<p>Un datore di lavoro serio in Svizzera non ti chiede di pagare per essere assunto.</p>
-<h2>Consigli pratici</h2>
-<h3>Un piano di 30 giorni per i nuovi arrivati (funziona bene)</h3>
-<ul>
-<li>Settimana 1: aggiorna CV + LinkedIn, prepara il tuo dossier, identifica ~30 aziende/ruoli target.</li>
-<li>Settimana 2: 10–15 candidature altamente personalizzate + networking (contatti, eventi, ex colleghi).</li>
-<li>Settimana 3: pratica del colloquio (STAR), prepara la tua logica salariale, rivedi le domande comuni.</li>
-<li>Settimana 4: follow-up, itera il tuo CV, ampia i canali (agenzie, portali di settore).</li>
-</ul>
-<h3>Evita lo “spam di CV”</h3>
-<p>10 candidature ben allineate spesso superano 80 generiche. La qualità si vede rapidamente nei tassi di risposta.</p>
-<h3>Sii chiaro sul tuo status</h3>
-<p>Se hai il diritto di lavorare, dillo. Se qualcosa è in sospeso, spiega cosa e approssimativamente quando. Riduci l'incertezza.</p>
-<h2>Fonti ufficiali</h2>
-<ul>
-<li>SECO: <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>SEM (migrazione/permessi): <a href="https://www.sem.admin.ch" target="_blank" rel="noopener noreferrer">https://www.sem.admin.ch</a></li>
-</ul>
-        </div>`
+	            <h2>Introducción</h2>
+	            <p>Trabajar en Suiza no es “imposible”, pero sí exige método. El mercado suele premiar la <strong>claridad</strong> (CV bien estructurado, logros medibles), la <strong>coherencia</strong> (perfil alineado con el puesto) y el <strong>seguimiento</strong> (documentación, plazos y respuestas rápidas).</p>
+	            <p>Esta guía es un “mapa” para recién llegados: cómo encontrar empleo, qué plataformas funcionan de verdad, cómo leer un contrato, cómo estimar un salario realista y qué errores típicos generan problemas en los primeros meses.</p>
+
+	            <h2>Panorama del mercado laboral</h2>
+	            <h3>1) Idioma y región</h3>
+	            <p>Suiza es multilingüe. La lengua de trabajo depende de la región (alemán/francés/italiano) y del sector. El inglés abre puertas en multinacionales, IT o roles técnicos, pero en muchos puestos el idioma local es la diferencia entre “me llaman” y “me descartan”.</p>
+	            <p>Consejo práctico: si estás en Suiza alemana y tu alemán es básico, prioriza empresas internacionales, equipos globales o sectores donde el inglés sea habitual, y planifica un camino realista para mejorar el idioma local.</p>
+
+	            <h3>2) Derecho a trabajar (permiso)</h3>
+	            <p>La contratación es más simple si la empresa entiende que puedes trabajar sin “riesgo administrativo”. Si ya tienes derecho a trabajar, dilo de forma clara. Si estás en trámite, explica qué te falta y cuál es el plazo estimado. Si eres de terceros países, el proceso puede ser más restrictivo y lento.</p>
+	            <p>Si necesitas contexto, revisa <a href="#/tramites-llegada-suiza">Permisos de residencia</a>.</p>
+
+	            <h3>3) Qué valora Suiza: evidencias</h3>
+	            <p>En Suiza se valora mucho lo verificable: diplomas, certificados, referencias y, cuando existen, <strong>certificados de trabajo</strong> (Arbeitszeugnis / certificats de travail). No siempre te los pedirán el primer día, pero si tu candidatura compite con otras similares, estos documentos pueden inclinar la balanza.</p>
+
+	            <h3>4) Cómo es un proceso de selección típico</h3>
+	            <p>Aunque cada empresa tiene su estilo, un proceso frecuente suele ser:</p>
+	            <ol>
+	                <li><strong>Filtro inicial</strong> (ATS o RRHH): revisan si tu perfil encaja con requisitos y si tu CV es claro.</li>
+	                <li><strong>Llamada corta</strong> (15–30 min): validación de motivación, disponibilidad, salario esperado y permiso/derecho a trabajar.</li>
+	                <li><strong>Entrevista(s)</strong> con responsable y/o equipo: casos reales, ejemplos de proyectos, cultura de trabajo.</li>
+	                <li><strong>Referencias</strong> (a veces): contacto con antiguos jefes o confirmación de experiencia.</li>
+	                <li><strong>Oferta</strong> por escrito: salario, jornada, fecha de inicio, periodo de prueba y condiciones.</li>
+	            </ol>
+	            <p>Los tiempos varían: algunas contrataciones son rápidas (1–2 semanas), otras tardan 4–8 semanas. Por eso conviene llevar un seguimiento ordenado y no depender de una sola candidatura.</p>
+
+	            <h3>5) El “dossier” suizo (lo que conviene tener listo)</h3>
+	            <p>Piensa en tu candidatura como un paquete que debe ser fácil de evaluar en 60 segundos. Checklist práctico:</p>
+	            <ul>
+	                <li>CV en PDF (1–2 páginas) con logros medibles.</li>
+	                <li>Carta breve si la piden (3 ideas: encaje, ejemplo, disponibilidad).</li>
+	                <li>Diplomas/certificados relevantes (y homologación si aplica).</li>
+	                <li>Referencias avisadas y disponibles.</li>
+	                <li>Portfolio (si eres de producto/UX/IT/creativo) con 2–3 casos bien explicados.</li>
+	                <li>Frase clara sobre tu situación de permiso/derecho a trabajar.</li>
+	            </ul>
+
+	            <h2>Dónde encontrar empleo</h2>
+	            <h3>Plataformas principales</h3>
+	            <p>Para empezar sin perderte:</p>
+	            <ul>
+	                <li><strong>jobs.ch</strong> y <strong>jobup.ch</strong>: dos de los portales más usados.</li>
+	                <li><strong>Indeed</strong>: agregador útil para descubrir ofertas.</li>
+	                <li><strong>LinkedIn</strong>: clave para perfiles cualificados, multinacionales y recruiters.</li>
+	                <li><strong>Job-Room</strong> (servicio público): ofertas y recursos del mercado laboral.</li>
+	            </ul>
+
+	            <h3>Portales sectoriales y canales “invisibles”</h3>
+	            <p>Además de los portales generalistas, muchos sectores se mueven por canales propios: asociaciones profesionales, webs de hospitales/escuelas, cadenas de retail, o páginas de empleo de grupos empresariales. Si estás en un sector regulado (salud, educación, oficios), revisa también requisitos de diplomas y permisos antes de “spam” de CV.</p>
+
+	            <h3>Candidaturas espontáneas (cuando no hay vacante publicada)</h3>
+	            <p>En Suiza, una candidatura espontánea bien hecha puede funcionar si apuntas a empresas concretas. Claves:</p>
+	            <ul>
+	                <li>Explica en 3–4 líneas qué aportas y qué rol buscas.</li>
+	                <li>Propón una llamada corta de 10 minutos (no una “entrevista”).</li>
+	                <li>Adjunta CV y, si aplica, portfolio.</li>
+	                <li>No envíes en masa: selecciona empresas y personaliza el mensaje.</li>
+	            </ul>
+
+	            <h3>Webs de empresas (candidatura directa)</h3>
+	            <p>Muchas ofertas buenas se publican solo en “Careers” de la empresa. Estrategia efectiva: lista de 30–50 empresas objetivo + revisión semanal + alertas + candidatura rápida (con CV adaptado).</p>
+
+	            <h3>Agencias y temporal</h3>
+	            <p>En hostelería, logística, industria o retail, las agencias temporales son un canal real. En perfiles nicho, los recruiters especializados pueden acelerar procesos. Regla de oro: controla tu calendario y evita duplicar candidaturas a la misma vacante por canales distintos sin avisar.</p>
+
+	            <h3>Networking (bien hecho)</h3>
+	            <p>Networking no es “pedir trabajo”. Es generar confianza y acceso a información. Funciona cuando:</p>
+	            <ul>
+	                <li>tienes claro el objetivo (2–3 tipos de puesto, no 15),</li>
+	                <li>explicas tu valor con ejemplos (qué problema resuelves),</li>
+	                <li>pides algo concreto: recomendaciones de empresas, feedback de CV, presentación a un contacto.</li>
+	            </ul>
+
+	            <h2>Entender contratos</h2>
+	            <h3>Tipos de contrato</h3>
+	            <p>Los más habituales:</p>
+	            <ul>
+	                <li><strong>Indefinido</strong>: sin fecha final, con plazos de preaviso.</li>
+	                <li><strong>Duración determinada</strong>: con fecha final (temporada, sustitución).</li>
+	                <li><strong>Temporal</strong> vía agencia: reglas específicas, a veces rotación alta.</li>
+	            </ul>
+	            <p>Además, muchos sectores están cubiertos por <strong>convenios colectivos</strong> (CCT/GAV) que pueden fijar mínimos (salario, vacaciones, reglas de horas extra). Pregunta si tu puesto está sujeto a un CCT.</p>
+
+	            <h3>Periodo de prueba y preaviso</h3>
+	            <p>El periodo de prueba suele ser de 1–3 meses. Durante ese periodo, el preaviso suele ser corto y la relación es más “frágil”. Después, el preaviso aumenta según ley, contrato o CCT. Para el detalle: <a href="#/periodo-prueba-preaviso-suiza">Periodo de prueba y plazos de preaviso</a>.</p>
+
+	            <h3>Qué revisar antes de firmar</h3>
+	            <ul>
+	                <li><strong>Salario</strong> (bruto) y si existe <strong>13.º</strong> o bonus.</li>
+	                <li><strong>Jornada</strong> (horas/semana), registro de horas y compensación de horas extra.</li>
+	                <li><strong>Vacaciones</strong> (mínimo legal y política de empresa).</li>
+	                <li><strong>Teletrabajo</strong> (si existe): días, equipo, reglas.</li>
+	                <li><strong>Seguro de accidentes</strong> (habitualmente del empleador) y cobertura.</li>
+	                <li><strong>Fecha de inicio</strong> y condiciones especiales por escrito.</li>
+	            </ul>
+	            <p>Si algo es importante, no lo dejes “por entendido”: pide confirmación <strong>por escrito</strong>.</p>
+
+	            <h3>Nómina: qué te descuentan (y por qué)</h3>
+	            <p>Cuando negocies salario, recuerda que el “neto” depende de varias deducciones. En una nómina típica aparecen (según el caso):</p>
+	            <ul>
+	                <li><strong>AVS/AI/APG</strong> (seguridad social básica) y otras contribuciones obligatorias.</li>
+	                <li><strong>ALV/AC</strong> (seguro de desempleo).</li>
+	                <li><strong>LPP</strong> (2.º pilar / previsión profesional) a partir de ciertos umbrales y según edad.</li>
+	                <li><strong>Impuesto a la fuente</strong> para muchas personas con permiso L/B (varía por cantón y situación familiar).</li>
+	            </ul>
+	            <p>Los porcentajes exactos dependen de tu situación y de la empresa. La idea práctica es: pregunta si el salario es bruto anual, si hay 13.º, y calcula tu presupuesto con margen.</p>
+
+	            <h3>Enfermedad y accidentes (punto crítico)</h3>
+	            <p>En Suiza, el seguro de accidentes suele estar vinculado al empleo. Confirma qué cubre la empresa y qué debes cubrir tú. Si cambias de trabajo o dejas de trabajar, revisa tu situación para no quedarte con “agujeros” de cobertura.</p>
+
+	            <h3>Al salir de un empleo: certificado de trabajo</h3>
+	            <p>En muchos sectores es habitual pedir un <strong>certificado de trabajo</strong> al terminar. No es un “favor”: es un documento muy valorado en futuras candidaturas. Pídelo con tiempo y guarda copia.</p>
+
+	            <h3>Seguro de desempleo (paro) y RAV</h3>
+	            <p>En Suiza, el desempleo se gestiona con el RAV/ORP y una caja de desempleo. Si pierdes el empleo, puedes tener derecho a prestación si cumples condiciones, pero el sistema exige <strong>búsqueda documentada</strong> y plazos. No esperes a “ver qué pasa”: prepara evidencias y actúa rápido.</p>
+	            <p>Guía relacionada: <a href="#/rav-paro-suiza">RAV y paro en Suiza</a>.</p>
+
+	            <h2>Expectativas salariales</h2>
+	            <h3>Cómo estimar un rango realista</h3>
+	            <p>Los salarios varían muchísimo por cantón, sector y experiencia. Para evitar pedir a ciegas:</p>
+	            <ul>
+	                <li>Usa la herramienta oficial <strong>Salarium</strong> (estadísticas de la Oficina Federal de Estadística).</li>
+	                <li>Compara por región y nivel (junior/medio/senior) y por jornada (80% no es lo mismo que 100%).</li>
+	                <li>Aclara siempre: cifra <strong>bruta</strong>, si incluye 13.º, y qué pasa con horas extra/bonus.</li>
+	            </ul>
+
+	            <h3>Bruto vs neto: ejemplo orientativo</h3>
+	            <p>Ejemplo (muy orientativo): si te ofrecen 6.000 CHF brutos/mes, tu neto dependerá de tus deducciones sociales, previsión profesional y fiscalidad (cantón/comuna y, a menudo, impuesto a la fuente). No uses una “regla única” de internet: usa tu nómina real y, si dudas, pregunta a RRHH qué conceptos aplicarán.</p>
+
+	            <h3>Salario mínimo y CCT (varía por cantón/sector)</h3>
+	            <p>No existe un salario mínimo federal único para todos los sectores, pero hay cantones con reglas propias y, sobre todo, <strong>CCT</strong> que fijan mínimos obligatorios por sector. Para recién llegados, esto es importante: tu “suelo” puede venir del CCT aunque el anuncio no lo destaque.</p>
+
+	            <h3>Ejemplo práctico (cómo preguntar en entrevista)</h3>
+	            <p>Si te piden expectativas: da un rango y demuestra que has hecho deberes. Por ejemplo: “Según mi experiencia y el mercado en este cantón, me muevo en un rango X–Y CHF brutos anuales. Estoy abierto a ajustar según responsabilidades, 13.º, bonus y porcentaje de jornada”.</p>
+
+	            <h3>Lo que importa de verdad: el paquete</h3>
+	            <p>Tu “calidad de vida” depende de salario <em>y</em> de: coste de vivienda, seguro médico, transporte, estabilidad del contrato y crecimiento. No optimices solo el bruto: optimiza el conjunto.</p>
+
+	            <h2>Errores frecuentes</h2>
+	            <h3>1) Enviar CV genérico (sin logros)</h3>
+	            <p>Mejor 10 candidaturas alineadas que 80 genéricas. Un CV suizo eficaz suele ser de 1–2 páginas, con resultados y responsabilidades claras. Si necesitas ayuda, revisa <a href="#/buscar-empleo-suiza">Buscar empleo en Suiza</a>.</p>
+
+	            <h3>2) No indicar disponibilidad, ubicación y permiso</h3>
+	            <p>Si la empresa no entiende si puedes empezar y bajo qué condiciones, te descarta por incertidumbre. Indica fecha de disponibilidad, ciudad/cantón, y tu situación de derecho a trabajar.</p>
+
+	            <h3>3) Negociar sin entender 13.º y porcentaje</h3>
+	            <p>Un error típico es comparar un salario “mensual” sin saber si incluye 13.º. Otro: olvidarse de que un 80% reduce salario, vacaciones y a veces beneficios de forma proporcional. Pregunta siempre.</p>
+
+	            <h3>4) Firmar sin entender periodo de prueba y preaviso</h3>
+	            <p>Muchos conflictos nacen de asumir que “me voy con 30 días” o de no saber qué pasa durante la prueba. Léelo y pide aclaración.</p>
+
+	            <h3>5) No documentar la búsqueda si acabas en paro</h3>
+	            <p>En el RAV, una candidatura sin prueba puede contar como “no hecha”. Guarda emails, PDFs y capturas desde el primer día.</p>
+
+	            <h3>6) No adaptar idioma y formato</h3>
+	            <p>Enviar un CV en el idioma equivocado o con un formato difícil de leer reduce mucho respuestas. Si la oferta está en alemán, intenta responder en alemán (o explica claramente tu nivel y por qué el inglés sería viable para el puesto).</p>
+
+	            <h3>7) No hacer seguimiento</h3>
+	            <p>En Suiza, un seguimiento breve y profesional puede ayudarte: “Gracias por la entrevista, adjunto X, quedo disponible”. No es insistir; es demostrar fiabilidad.</p>
+
+	            <h2>Consejos prácticos</h2>
+	            <h3>Plan de 14 días (para empezar con orden)</h3>
+	            <ol>
+	                <li>Define 2–3 roles objetivo y 1 zona principal.</li>
+	                <li>Adapta CV y LinkedIn (coherencia de fechas y roles).</li>
+	                <li>Prepara carpeta de documentos (CV, diplomas, certificados, referencias).</li>
+	                <li>Crea una tabla de seguimiento: empresa, puesto, fecha, versión de CV, estado.</li>
+	                <li>Aplica y mejora: ajusta CV según respuestas reales.</li>
+	                <li>Activa alertas y revisa webs de empresas objetivo.</li>
+	            </ol>
+
+	            <h3>Rutina semanal (cuando la búsqueda se alarga)</h3>
+	            <ul>
+	                <li>2 días: candidaturas (calidad, CV adaptado, seguimiento).</li>
+	                <li>1 día: networking (llamadas cortas, mensajes, eventos).</li>
+	                <li>1 día: mejora (idioma, portfolio, entrevistas, certificaciones).</li>
+	                <li>1 día: revisión de estrategia (qué funciona y qué no).</li>
+	            </ul>
+
+	            <h3>Primer mes en el trabajo: checklist rápido</h3>
+	            <ul>
+	                <li>Guarda contrato, anexos y políticas internas en una carpeta.</li>
+	                <li>Verifica tu primera nómina: jornada, salario, 13.º, deducciones.</li>
+	                <li>Confirma coberturas de accidentes y qué debes hacer en caso de baja médica.</li>
+	                <li>Si estás a impuesto a la fuente, revisa que tu categoría sea correcta.</li>
+	            </ul>
+
+	            <h3>Checklist antes de una entrevista</h3>
+	            <ul>
+	                <li>Lee la empresa (actividad, clientes, noticias).</li>
+	                <li>Prepara 6 historias STAR (Situación–Tarea–Acción–Resultado).</li>
+	                <li>Ten un rango salarial listo y justificado (y preguntas sobre 13.º/bonus).</li>
+	                <li>Pregunta por objetivos 90 días, equipo, horarios reales y evaluación.</li>
+	            </ul>
+
+	            <h3>Señales de oferta dudosa (posible estafa)</h3>
+	            <ul>
+	                <li>“Contratación inmediata” sin entrevista real ni verificación.</li>
+	                <li>Piden dinero para “tramitar” contrato o permiso.</li>
+	                <li>Empresa sin rastro verificable o correos/dominios sospechosos.</li>
+	            </ul>
+
+	            <h2>Fuentes oficiales</h2>
+	            <ul>
+	                <li>ch.ch — Trabajo: <a href="https://www.ch.ch/es/trabajo/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/es/trabajo/</a></li>
+	                <li>ch.ch — Desempleo: <a href="https://www.ch.ch/es/trabajo/desempleo/" target="_blank" rel="noopener noreferrer">https://www.ch.ch/es/trabajo/desempleo/</a></li>
+	                <li>SECO (mercado laboral): <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer">https://www.seco.admin.ch</a></li>
+	                <li>Job-Room (servicio público): <a href="https://www.job-room.ch" target="_blank" rel="noopener noreferrer">https://www.job-room.ch</a></li>
+	                <li>OFS/BFS (Salarium): <a href="https://www.bfs.admin.ch" target="_blank" rel="noopener noreferrer">https://www.bfs.admin.ch</a></li>
+	            </ul>
+	        </div>`
     }
 });

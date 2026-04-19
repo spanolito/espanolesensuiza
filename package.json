@@ -1,7 +1,9 @@
 {
   "scripts": {
     "dev": "npx serve . -p 3000",
-    "check:i18n": "node check_i18n_coverage.js"
+    "check:i18n": "node check_i18n_coverage.js",
+    "check:i18n-sync": "node check_i18n_sync.js",
+    "sync:i18n": "node sync_i18n_from_es.js"
   },
   "dependencies": {
     "google-translate-api-x": "^10.7.2"

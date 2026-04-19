@@ -32,3 +32,21 @@ El contenido está orientado a responder preguntas frecuentes de hispanohablante
 ## Estructura del proyecto
 
 El repositorio contiene los archivos necesarios para el funcionamiento del portal.
+
+---
+
+## Flujo i18n
+
+La fuente de verdad editorial es el contenido en español.
+
+Para mantener FR, DE, IT y EN sincronizados:
+
+- editar primero `content-pages.js`, `content-articles.js` y `content-articles-facebook-es.js`
+- regenerar idiomas con `npm run sync:i18n`
+- validar cobertura y estructura con `npm run check:i18n-sync`
+
+Objetivo:
+
+- misma estructura en todos los idiomas
+- mismo orden de secciones
+- sin divergencias manuales entre idiomas
