@@ -78,7 +78,7 @@ window.siteContent.es.pages = {
                         <span class="stat-label">${ui['home-stats-community']}</span>
                     </div>
                     <div class="stat-item">
-                        <span class="stat-number">45+</span>
+                        <span class="stat-number">1000+</span>
                         <span class="stat-label">${ui['home-stats-guides']}</span>
                     </div>
                     <div class="stat-item">
