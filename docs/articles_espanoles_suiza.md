@@ -1743,3 +1743,47 @@ Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications 
 **579.** [¿Puede la inmobiliaria hacer una "inspección" del piso solo porque sí?](https://www.facebook.com/dyi/l/?l=ARzMHbsN9sZRWIvu93urNMFlVa9JCKzLXe-KY8FB3rE_cioUnM1nQR9227QFlD8d1LPjUNOM8ArkD6uhHtr0rrs3d0CPzEEFwcE2bkdNjHwTe36xSfXWtiMBLLSTx7mQ-tDc8ykVgmtuPkzUcvnzMCxQpFq4-WBV8Rv5eHomugTJHh_uxhTHL-c2K4-xluSz4QRdrA&s=520)  
 *mar 11, 2026 8:25:02 pm*
 
+**580.** La 13ª pensión AVS: qué es, cuándo llega y a quién afecta  
+*avr 16, 2026*
+
+**581.** El impuesto a la fuente en Suiza: lo que tu nómina no te explica  
+*avr 16, 2026*
+
+**582.** Años cotizados en España: ¿cuentan para tu jubilación en Suiza?  
+*avr 16, 2026*
+
+**583.** Venir a trabajar a Suiza: lo que necesitas tener resuelto antes de llegar  
+*avr 16, 2026*
+
+**584.** El 14 de junio, Suiza vota si limita su población a 10 millones  
+*avr 16, 2026*
+
+**585.** LPP 2026: las pensiones de invalidez y supervivencia, por fin ajustadas a los precios  
+*avr 16, 2026*
+
+**586.** Tardoc: lo que ha cambiado en tu consulta médica desde enero de 2026  
+*avr 17, 2026*
+
+**587.** El permiso C: cinco años después, hay algo que pedir  
+*avr 17, 2026*
+
+**588.** Si pierdes el trabajo en Suiza, esto es lo que debes saber desde el primer día  
+*avr 17, 2026*
+
+**589.** El fin de la "penalización fiscal" al matrimonio en Suiza: lo que cambia y cuándo  
+*avr 18, 2026*
+
+**590.** El taux de référence se mantiene en 1,25%: ni bajas de alquiler ni subidas para los inquilinos suizos  
+*avr 18, 2026*
+
+**591.** Las subvenciones a las primas del seguro médico: un dinero al que muchos tienen derecho y no piden  
+*avr 18, 2026*
+
+**592.** La regla de los 90 días en Suiza: lo que confunde a muchos españoles  
+*avr 19, 2026*
+
+**593.** Encontrar piso en Suiza en 2026: bienvenido al deporte más frustrante del país  
+*avr 19, 2026*
+
+**594.** Suiza no tiene salario mínimo nacional, pero eso no significa que no haya suelo salarial  
+*avr 19, 2026*
