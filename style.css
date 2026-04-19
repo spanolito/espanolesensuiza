@@ -1150,6 +1150,24 @@ strong, b {
     color: var(--text-secondary);
 }
 
+.community-page-actions {
+    justify-content: flex-start;
+    align-items: center;
+}
+
+@media (max-width: 640px) {
+    .community-page-actions {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0.75rem;
+    }
+
+    .community-page-actions .btn {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
 /* Canton links grid */
 .canton-link {
     display: flex;
