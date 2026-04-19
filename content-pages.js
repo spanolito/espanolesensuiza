@@ -483,6 +483,294 @@ window.siteContent.es.pages = {
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            const resourcesCopy = {
+                es: {
+                    breadcrumb: "Recursos",
+                    title: "Recursos para vivir en Suiza",
+                    intro: "Fuentes oficiales de la Confederacion, servicios cantonales y herramientas practicas. Los enlaces no oficiales estan claramente identificados al final de la pagina.",
+                    badgeOfficial: "Oficial",
+                    badgePrivate: "No oficial",
+                    federalTitle: "Fuentes oficiales — Confederacion Suiza",
+                    federalDesc: "Portales federales fiables. Validos para tramites, informacion legal y datos estadisticos.",
+                    chDesc: "Portal unico del gobierno suizo. Tramites, informacion para residentes, servicios por canton y formularios.",
+                    chCta: "Abrir ch.ch",
+                    semDesc: "Secretaria de Estado de Migracion. Permisos de residencia, reagrupacion familiar, nacionalidad y asilo.",
+                    semCta: "Abrir SEM",
+                    bfsDesc: "Oficina Federal de Estadistica. Datos oficiales sobre poblacion, salarios, coste de vida y mercado laboral.",
+                    bfsCta: "Abrir BFS",
+                    estvDesc: "Administracion Federal de Contribuciones. Impuestos federales, IVA, impuesto a la fuente (Quellensteuer).",
+                    estvCta: "Abrir ESTV",
+                    secoDesc: "Secretaria de Estado de Economia. Desempleo (RAV), condiciones de trabajo, mercado laboral y legislacion laboral.",
+                    secoCta: "Abrir SECO",
+                    bsvDesc: "Oficina Federal de Seguros Sociales. AHV/AVS (jubilacion), AI (invalidez), subsidios familiares y prestaciones complementarias.",
+                    bsvCta: "Abrir BSV",
+                    bagDesc: "Oficina Federal de Salud Publica. LAMal, vacunas, recomendaciones sanitarias y regulacion del sistema de salud.",
+                    bagCta: "Abrir BAG",
+                    healthTitle: "Seguro de salud — Comparador oficial de primas",
+                    healthDesc: "El unico comparador de primas LAMal publicado por la Confederacion. No es un sitio privado.",
+                    priminfoDesc: "Comparador oficial de primas del seguro de salud (LAMal). Publicado por la Confederacion Suiza. Permite comparar primas por canton, edad y modelo de seguro. Es la referencia legal, no un portal privado.",
+                    priminfoCta: "Comparar primas (oficial)",
+                    workTitle: "Trabajo y formacion profesional",
+                    workDesc: "Portales federales para empleo, desempleo (RAV), reconocimiento de diplomas y formacion.",
+                    travailDesc: "Portal federal de empleo. Bolsa de trabajo, inscripcion en el RAV, condiciones de desempleo y recursos para la reinsercion laboral.",
+                    travailCta: "Abrir travail.swiss",
+                    sefriDesc: "Secretaria de Estado de Educacion, Investigacion e Innovacion. Reconocimiento oficial de diplomas extranjeros y formacion profesional.",
+                    sefriCta: "Abrir SEFRI",
+                    dailyTitle: "Vida practica",
+                    dailyDesc: "Servicios publicos de uso cotidiano en Suiza.",
+                    sbbDesc: "Ferrocarriles Federales Suizos. Horarios, billetes, abonos (Halbtax, AG), transporte publico nacional e internacional.",
+                    sbbCta: "Abrir SBB.ch",
+                    postDesc: "Correos suizos. Envios nacionales e internacionales, cambio de domicilio, servicios financieros PostFinance.",
+                    postCta: "Abrir Post.ch",
+                    spainTitle: "Espana en Suiza",
+                    spainDesc: "Consulados espanoles para tramites de pasaporte, partidas, empadronamiento consular y documentacion.",
+                    spainGuide: "Guia completa de consulados",
+                    exterioresDesc: "Gobierno de Espana. Informacion consular, tramites en el exterior, ciudadania y viajes.",
+                    exterioresCta: "Abrir Exteriores.gob.es",
+                    cantonsDesc: "En Suiza, los tramites dependen del canton: permisos, impuestos, escuelas y registro civil los gestiona cada canton por separado. Selecciona el tuyo para acceder directamente a sus servicios.",
+                    cantonsExampleTitle: "Ejemplo — Ginebra (GE):",
+                    cantonsExampleBody: "El OCPM gestiona los permisos de residencia. El comparador cantonal de primas LAMal esta en ge.ch/assurance-maladie.",
+                    guidesTitle: "Explorar guias",
+                    toolsTitle: "Herramientas utiles — no oficiales",
+                    toolsWarningTitle: "Aviso:",
+                    toolsWarningBody: "Los servicios de esta seccion son herramientas privadas. Son utiles en la practica, pero no son fuentes oficiales del gobierno suizo y no tienen validez legal como referencia para tramites administrativos.",
+                    comparisDesc: "Comparador privado suizo. Permite comparar primas de seguros de salud, seguros de hogar, precios de alquiler y otros servicios. No es fuente oficial. Para primas LAMal oficiales, usa priminfo.admin.ch.",
+                    comparisCta: "Abrir Comparis.ch",
+                    homegateDesc: "Portal inmobiliario privado. Pisos y casas en alquiler o venta en toda Suiza. Herramienta practica para buscar vivienda, sin validez oficial.",
+                    homegateCta: "Abrir Homegate.ch",
+                    jobsDesc: "Portal privado de empleo. Ofertas de trabajo en Suiza por sector, canton y idioma. Complementario al portal oficial travail.swiss.",
+                    jobsCta: "Abrir Jobs.ch"
+                },
+                en: {
+                    breadcrumb: "Resources",
+                    title: "Resources for living in Switzerland",
+                    intro: "Official Confederation sources, cantonal services, and practical tools. Non-official links are clearly marked at the end of the page.",
+                    badgeOfficial: "Official",
+                    badgePrivate: "Unofficial",
+                    federalTitle: "Official sources — Swiss Confederation",
+                    federalDesc: "Reliable federal portals for procedures, legal information, and official statistics.",
+                    chDesc: "Central Swiss government portal. Procedures, resident information, cantonal services, and forms.",
+                    chCta: "Open ch.ch",
+                    semDesc: "State Secretariat for Migration. Residence permits, family reunification, nationality, and asylum.",
+                    semCta: "Open SEM",
+                    bfsDesc: "Federal Statistical Office. Official data on population, salaries, cost of living, and the labour market.",
+                    bfsCta: "Open BFS",
+                    estvDesc: "Federal Tax Administration. Federal taxes, VAT, and withholding tax.",
+                    estvCta: "Open ESTV",
+                    secoDesc: "State Secretariat for Economic Affairs. Unemployment, labour conditions, labour market, and employment law.",
+                    secoCta: "Open SECO",
+                    bsvDesc: "Federal Social Insurance Office. AHV/AVS pensions, disability insurance, family allowances, and supplementary benefits.",
+                    bsvCta: "Open BSV",
+                    bagDesc: "Federal Office of Public Health. LAMal, vaccines, health recommendations, and health system regulation.",
+                    bagCta: "Open BAG",
+                    healthTitle: "Health insurance — official premium comparison",
+                    healthDesc: "The only LAMal premium comparison tool published by the Confederation. It is not a private website.",
+                    priminfoDesc: "Official health-insurance premium comparison for LAMal. Published by the Swiss Confederation. It lets you compare premiums by canton, age, and insurance model. It is the legal reference, not a private portal.",
+                    priminfoCta: "Compare premiums (official)",
+                    workTitle: "Work and vocational training",
+                    workDesc: "Federal portals for jobs, unemployment benefits, diploma recognition, and training.",
+                    travailDesc: "Federal employment portal. Job listings, RAV registration, unemployment conditions, and reintegration resources.",
+                    travailCta: "Open travail.swiss",
+                    sefriDesc: "State Secretariat for Education, Research and Innovation. Official recognition of foreign diplomas and vocational training.",
+                    sefriCta: "Open SEFRI",
+                    dailyTitle: "Daily life",
+                    dailyDesc: "Public services used in everyday life in Switzerland.",
+                    sbbDesc: "Swiss Federal Railways. Timetables, tickets, travelcards, and national and international public transport.",
+                    sbbCta: "Open SBB.ch",
+                    postDesc: "Swiss Post. Domestic and international mail, address changes, and PostFinance services.",
+                    postCta: "Open Post.ch",
+                    spainTitle: "Spain in Switzerland",
+                    spainDesc: "Spanish consulates for passports, certificates, consular registration, and documentation.",
+                    spainGuide: "Full consulate guide",
+                    exterioresDesc: "Government of Spain. Consular information, procedures abroad, citizenship, and travel.",
+                    exterioresCta: "Open Exteriores.gob.es",
+                    cantonsDesc: "In Switzerland, many procedures depend on the canton: permits, taxes, schools, and civil registry are handled separately by each canton. Choose yours to access its services directly.",
+                    cantonsExampleTitle: "Example — Geneva (GE):",
+                    cantonsExampleBody: "The OCPM handles residence permits. The cantonal LAMal premium comparator is available at ge.ch/assurance-maladie.",
+                    guidesTitle: "Explore guides",
+                    toolsTitle: "Useful tools — unofficial",
+                    toolsWarningTitle: "Notice:",
+                    toolsWarningBody: "The services in this section are private tools. They are useful in practice, but they are not official Swiss government sources and have no legal value for administrative procedures.",
+                    comparisDesc: "Private Swiss comparison platform. It lets you compare health-insurance premiums, household insurance, rents, and other services. It is not an official source. For official LAMal premiums, use priminfo.admin.ch.",
+                    comparisCta: "Open Comparis.ch",
+                    homegateDesc: "Private real-estate portal. Flats and houses for rent or sale across Switzerland. Useful in practice, but not an official source.",
+                    homegateCta: "Open Homegate.ch",
+                    jobsDesc: "Private jobs portal. Job offers in Switzerland by sector, canton, and language. Complementary to the official portail travail.swiss.",
+                    jobsCta: "Open Jobs.ch"
+                },
+                fr: {
+                    breadcrumb: "Ressources",
+                    title: "Ressources pour vivre en Suisse",
+                    intro: "Sources officielles de la Confédération, services cantonaux et outils pratiques. Les liens non officiels sont clairement identifiés en fin de page.",
+                    badgeOfficial: "Officiel",
+                    badgePrivate: "Non officiel",
+                    federalTitle: "Sources officielles — Confédération suisse",
+                    federalDesc: "Portails fédéraux fiables pour les démarches, les informations légales et les statistiques officielles.",
+                    chDesc: "Portail central du gouvernement suisse. Démarches, informations pour les résidents, services cantonaux et formulaires.",
+                    chCta: "Ouvrir ch.ch",
+                    semDesc: "Secrétariat d'État aux migrations. Permis de séjour, regroupement familial, nationalité et asile.",
+                    semCta: "Ouvrir le SEM",
+                    bfsDesc: "Office fédéral de la statistique. Données officielles sur la population, les salaires, le coût de la vie et le marché du travail.",
+                    bfsCta: "Ouvrir l'OFS",
+                    estvDesc: "Administration fédérale des contributions. Impôts fédéraux, TVA et impôt à la source.",
+                    estvCta: "Ouvrir l'AFC",
+                    secoDesc: "Secrétariat d'État à l'économie. Chômage, conditions de travail, marché du travail et droit du travail.",
+                    secoCta: "Ouvrir le SECO",
+                    bsvDesc: "Office fédéral des assurances sociales. AVS, AI, allocations familiales et prestations complémentaires.",
+                    bsvCta: "Ouvrir l'OFAS",
+                    bagDesc: "Office fédéral de la santé publique. LAMal, vaccins, recommandations sanitaires et réglementation du système de santé.",
+                    bagCta: "Ouvrir l'OFSP",
+                    healthTitle: "Assurance maladie — comparateur officiel des primes",
+                    healthDesc: "Le seul comparateur de primes LAMal publié par la Confédération. Ce n'est pas un site privé.",
+                    priminfoDesc: "Comparateur officiel des primes d'assurance maladie LAMal. Publié par la Confédération suisse. Il permet de comparer les primes par canton, âge et modèle d'assurance. C'est la référence légale, pas un portail privé.",
+                    priminfoCta: "Comparer les primes (officiel)",
+                    workTitle: "Travail et formation professionnelle",
+                    workDesc: "Portails fédéraux pour l'emploi, le chômage, la reconnaissance des diplômes et la formation.",
+                    travailDesc: "Portail fédéral de l'emploi. Offres, inscription au RAV, conditions du chômage et ressources de réinsertion.",
+                    travailCta: "Ouvrir travail.swiss",
+                    sefriDesc: "Secrétariat d'État à la formation, à la recherche et à l'innovation. Reconnaissance officielle des diplômes étrangers et formation professionnelle.",
+                    sefriCta: "Ouvrir le SEFRI",
+                    dailyTitle: "Vie pratique",
+                    dailyDesc: "Services publics utiles au quotidien en Suisse.",
+                    sbbDesc: "Chemins de fer fédéraux suisses. Horaires, billets, abonnements et transports publics nationaux et internationaux.",
+                    sbbCta: "Ouvrir CFF.ch",
+                    postDesc: "La Poste suisse. Envois nationaux et internationaux, changement d'adresse et services PostFinance.",
+                    postCta: "Ouvrir post.ch",
+                    spainTitle: "L'Espagne en Suisse",
+                    spainDesc: "Consulats d'Espagne pour les passeports, actes d'état civil, inscription consulaire et documentation.",
+                    spainGuide: "Guide complet des consulats",
+                    exterioresDesc: "Gouvernement d'Espagne. Informations consulaires, démarches à l'étranger, citoyenneté et voyages.",
+                    exterioresCta: "Ouvrir exteriores.gob.es",
+                    cantonsDesc: "En Suisse, de nombreuses démarches dépendent du canton : permis, impôts, écoles et état civil sont gérés séparément par chaque canton. Sélectionnez le vôtre pour accéder directement à ses services.",
+                    cantonsExampleTitle: "Exemple — Genève (GE) :",
+                    cantonsExampleBody: "L'OCPM gère les permis de séjour. Le comparateur cantonal des primes LAMal se trouve sur ge.ch/assurance-maladie.",
+                    guidesTitle: "Explorer les guides",
+                    toolsTitle: "Outils utiles — non officiels",
+                    toolsWarningTitle: "Avertissement :",
+                    toolsWarningBody: "Les services de cette section sont des outils privés. Ils sont utiles en pratique, mais ne constituent pas des sources officielles du gouvernement suisse et n'ont aucune valeur légale pour les démarches administratives.",
+                    comparisDesc: "Comparateur privé suisse. Il permet de comparer les primes d'assurance maladie, les assurances ménage, les loyers et d'autres services. Ce n'est pas une source officielle. Pour les primes LAMal officielles, utilisez priminfo.admin.ch.",
+                    comparisCta: "Ouvrir Comparis.ch",
+                    homegateDesc: "Portail immobilier privé. Appartements et maisons à louer ou à vendre dans toute la Suisse. Utile en pratique, mais sans valeur officielle.",
+                    homegateCta: "Ouvrir Homegate.ch",
+                    jobsDesc: "Portail privé d'emploi. Offres en Suisse par secteur, canton et langue. Complémentaire au portail officiel travail.swiss.",
+                    jobsCta: "Ouvrir Jobs.ch"
+                },
+                de: {
+                    breadcrumb: "Ressourcen",
+                    title: "Ressourcen für das Leben in der Schweiz",
+                    intro: "Offizielle Quellen der Eidgenossenschaft, kantonale Dienste und praktische Werkzeuge. Nicht offizielle Links sind am Seitenende klar gekennzeichnet.",
+                    badgeOfficial: "Offiziell",
+                    badgePrivate: "Nicht offiziell",
+                    federalTitle: "Offizielle Quellen — Schweizer Eidgenossenschaft",
+                    federalDesc: "Verlässliche Bundesportale für Verfahren, Rechtsinformationen und offizielle Statistiken.",
+                    chDesc: "Zentrales Schweizer Regierungsportal. Verfahren, Informationen für Einwohner, kantonale Dienste und Formulare.",
+                    chCta: "ch.ch öffnen",
+                    semDesc: "Staatssekretariat für Migration. Aufenthaltsbewilligungen, Familiennachzug, Staatsangehörigkeit und Asyl.",
+                    semCta: "SEM öffnen",
+                    bfsDesc: "Bundesamt für Statistik. Offizielle Daten zu Bevölkerung, Löhnen, Lebenshaltungskosten und Arbeitsmarkt.",
+                    bfsCta: "BFS öffnen",
+                    estvDesc: "Eidgenössische Steuerverwaltung. Bundessteuern, Mehrwertsteuer und Quellensteuer.",
+                    estvCta: "ESTV öffnen",
+                    secoDesc: "Staatssekretariat für Wirtschaft. Arbeitslosigkeit, Arbeitsbedingungen, Arbeitsmarkt und Arbeitsrecht.",
+                    secoCta: "SECO öffnen",
+                    bsvDesc: "Bundesamt für Sozialversicherungen. AHV, IV, Familienzulagen und Ergänzungsleistungen.",
+                    bsvCta: "BSV öffnen",
+                    bagDesc: "Bundesamt für Gesundheit. LAMal, Impfungen, Gesundheitsempfehlungen und Regulierung des Gesundheitssystems.",
+                    bagCta: "BAG öffnen",
+                    healthTitle: "Krankenversicherung — offizieller Prämienvergleich",
+                    healthDesc: "Der einzige LAMal-Prämienvergleich, der von der Eidgenossenschaft veröffentlicht wird. Es ist keine private Website.",
+                    priminfoDesc: "Offizieller Vergleich der Krankenversicherungsprämien für LAMal. Veröffentlicht von der Schweizer Eidgenossenschaft. Er erlaubt den Vergleich nach Kanton, Alter und Versicherungsmodell. Er ist die rechtliche Referenz, kein privates Portal.",
+                    priminfoCta: "Prämien vergleichen (offiziell)",
+                    workTitle: "Arbeit und Berufsbildung",
+                    workDesc: "Bundesportale für Jobs, Arbeitslosigkeit, Diplomanerkennung und Ausbildung.",
+                    travailDesc: "Bundesportal für Beschäftigung. Stellenangebote, RAV-Anmeldung, Bedingungen der Arbeitslosigkeit und Wiedereingliederung.",
+                    travailCta: "travail.swiss öffnen",
+                    sefriDesc: "Staatssekretariat für Bildung, Forschung und Innovation. Offizielle Anerkennung ausländischer Diplome und Berufsbildung.",
+                    sefriCta: "SEFRI öffnen",
+                    dailyTitle: "Alltag",
+                    dailyDesc: "Öffentliche Dienste für den täglichen Gebrauch in der Schweiz.",
+                    sbbDesc: "Schweizerische Bundesbahnen. Fahrpläne, Billette, Abonnemente und nationaler wie internationaler öffentlicher Verkehr.",
+                    sbbCta: "SBB.ch öffnen",
+                    postDesc: "Schweizerische Post. Nationale und internationale Sendungen, Adressänderung und PostFinance-Dienste.",
+                    postCta: "Post.ch öffnen",
+                    spainTitle: "Spanien in der Schweiz",
+                    spainDesc: "Spanische Konsulate für Pässe, Urkunden, konsularische Anmeldung und Dokumentation.",
+                    spainGuide: "Vollständiger Konsulatsleitfaden",
+                    exterioresDesc: "Regierung Spaniens. Konsularische Informationen, Verfahren im Ausland, Staatsangehörigkeit und Reisen.",
+                    exterioresCta: "Exteriores.gob.es öffnen",
+                    cantonsDesc: "In der Schweiz hängen viele Verfahren vom Kanton ab: Bewilligungen, Steuern, Schulen und Zivilstandsregister werden von jedem Kanton separat verwaltet. Wählen Sie Ihren Kanton, um direkt auf seine Dienste zuzugreifen.",
+                    cantonsExampleTitle: "Beispiel — Genf (GE):",
+                    cantonsExampleBody: "Das OCPM verwaltet die Aufenthaltsbewilligungen. Der kantonale Vergleich der LAMal-Prämien befindet sich auf ge.ch/assurance-maladie.",
+                    guidesTitle: "Leitfäden erkunden",
+                    toolsTitle: "Nützliche Werkzeuge — nicht offiziell",
+                    toolsWarningTitle: "Hinweis:",
+                    toolsWarningBody: "Die Dienste in diesem Abschnitt sind private Werkzeuge. Sie sind in der Praxis nützlich, aber keine offiziellen Quellen der Schweizer Behörden und haben keinen rechtlichen Wert für Verwaltungsverfahren.",
+                    comparisDesc: "Privates Schweizer Vergleichsportal. Es ermöglicht den Vergleich von Krankenkassenprämien, Hausratversicherungen, Mieten und anderen Diensten. Es ist keine offizielle Quelle. Für offizielle LAMal-Prämien verwenden Sie priminfo.admin.ch.",
+                    comparisCta: "Comparis.ch öffnen",
+                    homegateDesc: "Privates Immobilienportal. Wohnungen und Häuser zur Miete oder zum Kauf in der ganzen Schweiz. Praktisch für die Suche, aber ohne amtlichen Charakter.",
+                    homegateCta: "Homegate.ch öffnen",
+                    jobsDesc: "Privates Stellenportal. Stellenangebote in der Schweiz nach Branche, Kanton und Sprache. Ergänzend zum offiziellen Portal travail.swiss.",
+                    jobsCta: "Jobs.ch öffnen"
+                },
+                it: {
+                    breadcrumb: "Risorse",
+                    title: "Risorse per vivere in Svizzera",
+                    intro: "Fonti ufficiali della Confederazione, servizi cantonali e strumenti pratici. I link non ufficiali sono chiaramente indicati alla fine della pagina.",
+                    badgeOfficial: "Ufficiale",
+                    badgePrivate: "Non ufficiale",
+                    federalTitle: "Fonti ufficiali — Confederazione Svizzera",
+                    federalDesc: "Portali federali affidabili per pratiche, informazioni legali e statistiche ufficiali.",
+                    chDesc: "Portale centrale del governo svizzero. Pratiche, informazioni per i residenti, servizi cantonali e formulari.",
+                    chCta: "Apri ch.ch",
+                    semDesc: "Segreteria di Stato della migrazione. Permessi di soggiorno, ricongiungimento familiare, cittadinanza e asilo.",
+                    semCta: "Apri SEM",
+                    bfsDesc: "Ufficio federale di statistica. Dati ufficiali su popolazione, salari, costo della vita e mercato del lavoro.",
+                    bfsCta: "Apri BFS",
+                    estvDesc: "Amministrazione federale delle contribuzioni. Imposte federali, IVA e imposta alla fonte.",
+                    estvCta: "Apri ESTV",
+                    secoDesc: "Segreteria di Stato dell'economia. Disoccupazione, condizioni di lavoro, mercato del lavoro e diritto del lavoro.",
+                    secoCta: "Apri SECO",
+                    bsvDesc: "Ufficio federale delle assicurazioni sociali. AVS, AI, assegni familiari e prestazioni complementari.",
+                    bsvCta: "Apri BSV",
+                    bagDesc: "Ufficio federale della sanità pubblica. LAMal, vaccini, raccomandazioni sanitarie e regolazione del sistema sanitario.",
+                    bagCta: "Apri BAG",
+                    healthTitle: "Assicurazione malattia — comparatore ufficiale dei premi",
+                    healthDesc: "L'unico comparatore dei premi LAMal pubblicato dalla Confederazione. Non è un sito privato.",
+                    priminfoDesc: "Comparatore ufficiale dei premi dell'assicurazione malattia LAMal. Pubblicato dalla Confederazione Svizzera. Consente di confrontare i premi per cantone, età e modello assicurativo. È il riferimento legale, non un portale privato.",
+                    priminfoCta: "Confronta i premi (ufficiale)",
+                    workTitle: "Lavoro e formazione professionale",
+                    workDesc: "Portali federali per lavoro, disoccupazione, riconoscimento dei diplomi e formazione.",
+                    travailDesc: "Portale federale del lavoro. Offerte, iscrizione al RAV, condizioni della disoccupazione e risorse per il reinserimento.",
+                    travailCta: "Apri travail.swiss",
+                    sefriDesc: "Segreteria di Stato per la formazione, la ricerca e l'innovazione. Riconoscimento ufficiale dei diplomi esteri e formazione professionale.",
+                    sefriCta: "Apri SEFRI",
+                    dailyTitle: "Vita pratica",
+                    dailyDesc: "Servizi pubblici di uso quotidiano in Svizzera.",
+                    sbbDesc: "Ferrovie Federali Svizzere. Orari, biglietti, abbonamenti e trasporto pubblico nazionale e internazionale.",
+                    sbbCta: "Apri SBB.ch",
+                    postDesc: "Posta svizzera. Spedizioni nazionali e internazionali, cambio di indirizzo e servizi PostFinance.",
+                    postCta: "Apri Post.ch",
+                    spainTitle: "Spagna in Svizzera",
+                    spainDesc: "Consolati spagnoli per passaporti, certificati, iscrizione consolare e documentazione.",
+                    spainGuide: "Guida completa ai consolati",
+                    exterioresDesc: "Governo della Spagna. Informazioni consolari, pratiche all'estero, cittadinanza e viaggi.",
+                    exterioresCta: "Apri Exteriores.gob.es",
+                    cantonsDesc: "In Svizzera molte pratiche dipendono dal cantone: permessi, imposte, scuole e stato civile sono gestiti separatamente da ciascun cantone. Seleziona il tuo per accedere direttamente ai servizi.",
+                    cantonsExampleTitle: "Esempio — Ginevra (GE):",
+                    cantonsExampleBody: "L'OCPM gestisce i permessi di soggiorno. Il comparatore cantonale dei premi LAMal si trova su ge.ch/assurance-maladie.",
+                    guidesTitle: "Esplora le guide",
+                    toolsTitle: "Strumenti utili — non ufficiali",
+                    toolsWarningTitle: "Avviso:",
+                    toolsWarningBody: "I servizi di questa sezione sono strumenti privati. Sono utili nella pratica, ma non sono fonti ufficiali del governo svizzero e non hanno valore legale per le pratiche amministrative.",
+                    comparisDesc: "Comparatore privato svizzero. Permette di confrontare premi dell'assicurazione malattia, assicurazioni casa, affitti e altri servizi. Non è una fonte ufficiale. Per i premi LAMal ufficiali, usa priminfo.admin.ch.",
+                    comparisCta: "Apri Comparis.ch",
+                    homegateDesc: "Portale immobiliare privato. Appartamenti e case in affitto o vendita in tutta la Svizzera. Utile nella pratica, ma senza valore ufficiale.",
+                    homegateCta: "Apri Homegate.ch",
+                    jobsDesc: "Portale privato di lavoro. Offerte in Svizzera per settore, cantone e lingua. Complementare al portale ufficiale travail.swiss.",
+                    jobsCta: "Apri Jobs.ch"
+                }
+            };
+            const copy = resourcesCopy[currentLang] || resourcesCopy.es;
             const formatConsulateDetails = (details) => {
                 const raw = String(details || "");
                 const parts = raw.split(" \u00b7 ").map(s => s.trim()).filter(Boolean);
@@ -496,8 +784,8 @@ window.siteContent.es.pages = {
             const geneva = formatConsulateDetails(ui['home-consulate-geneva-details']);
             const bern = formatConsulateDetails(ui['home-consulate-bern-details']);
             const zurich = formatConsulateDetails(ui['home-consulate-zurich-details']);
-            const badgeOficial = '<span style="font-size:0.65rem;font-weight:700;letter-spacing:0.06em;background:#e8f5e9;color:#2e7d32;padding:3px 9px;border-radius:999px;text-transform:uppercase;white-space:nowrap;">Oficial</span>';
-            const badgePrivado = '<span style="font-size:0.65rem;font-weight:700;letter-spacing:0.06em;background:#fff3e0;color:#e65100;padding:3px 9px;border-radius:999px;text-transform:uppercase;white-space:nowrap;">No oficial</span>';
+            const badgeOficial = `<span style="font-size:0.65rem;font-weight:700;letter-spacing:0.06em;background:#e8f5e9;color:#2e7d32;padding:3px 9px;border-radius:999px;text-transform:uppercase;white-space:nowrap;">${copy.badgeOfficial}</span>`;
+            const badgePrivado = `<span style="font-size:0.65rem;font-weight:700;letter-spacing:0.06em;background:#fff3e0;color:#e65100;padding:3px 9px;border-radius:999px;text-transform:uppercase;white-space:nowrap;">${copy.badgePrivate}</span>`;
             const sectionStyle = 'margin-top: var(--space-xl); padding-top: var(--space-lg); border-top: 1px solid var(--border-light);';
             const sectionTitleStyle = 'margin-top:0; margin-bottom:0.4rem; font-size:1.35rem;';
             const sectionDescStyle = 'color:var(--text-secondary); margin-bottom:1.5rem; font-size:0.98rem;';
@@ -505,110 +793,110 @@ window.siteContent.es.pages = {
             <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
                     <a href="#/">${ui['nav-inicio']}</a> &gt;
-                    <span>Recursos</span>
+                    <span>${copy.breadcrumb}</span>
                 </nav>
-                <h1>Recursos para vivir en Suiza</h1>
-                <p style="font-size: 1.15rem; max-width: 780px; color:var(--text-secondary);">Fuentes oficiales de la Confederacion, servicios cantonales y herramientas practicas. Los enlaces no oficiales estan claramente identificados al final de la pagina.</p>
+                <h1>${copy.title}</h1>
+                <p style="font-size: 1.15rem; max-width: 780px; color:var(--text-secondary);">${copy.intro}</p>
             </div>
 
             <!-- SECCION 1: FUENTES OFICIALES FEDERALES -->
             <section class="animate-fade-up">
-                <h2 style="${sectionTitleStyle}">Fuentes oficiales \u2014 Confederacion Suiza</h2>
-                <p style="${sectionDescStyle}">Portales federales fiables. Validos para tramites, informacion legal y datos estadisticos.</p>
+                <h2 style="${sectionTitleStyle}">${copy.federalTitle}</h2>
+                <p style="${sectionDescStyle}">${copy.federalDesc}</p>
                 <div class="topic-hub-grid">
                     <div class="card-hub">
                         <h3>ch.ch ${badgeOficial}</h3>
-                        <p>Portal unico del gobierno suizo. Tramites, informacion para residentes, servicios por canton y formularios.</p>
-                        <a href="https://www.ch.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">Abrir ch.ch</a>
+                        <p>${copy.chDesc}</p>
+                        <a href="https://www.ch.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">${copy.chCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>SEM ${badgeOficial}</h3>
-                        <p>Secretaria de Estado de Migracion. Permisos de residencia, reagrupacion familiar, nacionalidad y asilo.</p>
-                        <a href="https://www.sem.admin.ch/sem/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir SEM</a>
+                        <p>${copy.semDesc}</p>
+                        <a href="https://www.sem.admin.ch/sem/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.semCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>BFS / OFS ${badgeOficial}</h3>
-                        <p>Oficina Federal de Estadistica. Datos oficiales sobre poblacion, salarios, coste de vida y mercado laboral.</p>
-                        <a href="https://www.bfs.admin.ch/bfs/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir BFS</a>
+                        <p>${copy.bfsDesc}</p>
+                        <a href="https://www.bfs.admin.ch/bfs/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.bfsCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>ESTV / AFC ${badgeOficial}</h3>
-                        <p>Administracion Federal de Contribuciones. Impuestos federales, IVA, impuesto a la fuente (Quellensteuer).</p>
-                        <a href="https://www.estv.admin.ch/estv/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir ESTV</a>
+                        <p>${copy.estvDesc}</p>
+                        <a href="https://www.estv.admin.ch/estv/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.estvCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>SECO ${badgeOficial}</h3>
-                        <p>Secretaria de Estado de Economia. Desempleo (RAV), condiciones de trabajo, mercado laboral y legislacion laboral.</p>
-                        <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer" class="read-more">Abrir SECO</a>
+                        <p>${copy.secoDesc}</p>
+                        <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer" class="read-more">${copy.secoCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>BSV / OFAS ${badgeOficial}</h3>
-                        <p>Oficina Federal de Seguros Sociales. AHV/AVS (jubilacion), AI (invalidez), subsidios familiares y prestaciones complementarias.</p>
-                        <a href="https://www.bsv.admin.ch/bsv/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir BSV</a>
+                        <p>${copy.bsvDesc}</p>
+                        <a href="https://www.bsv.admin.ch/bsv/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.bsvCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>BAG / OFSP ${badgeOficial}</h3>
-                        <p>Oficina Federal de Salud Publica. LAMal, vacunas, recomendaciones sanitarias y regulacion del sistema de salud.</p>
-                        <a href="https://www.bag.admin.ch/bag/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir BAG</a>
+                        <p>${copy.bagDesc}</p>
+                        <a href="https://www.bag.admin.ch/bag/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.bagCta}</a>
                     </div>
                 </div>
             </section>
 
             <!-- SECCION 2: SEGURO DE SALUD — PRIMINFO -->
             <section class="animate-fade-up" style="${sectionStyle}">
-                <h2 style="${sectionTitleStyle}">Seguro de salud \u2014 Comparador oficial de primas</h2>
-                <p style="${sectionDescStyle}">El unico comparador de primas LAMal publicado por la Confederacion. No es un sitio privado.</p>
+                <h2 style="${sectionTitleStyle}">${copy.healthTitle}</h2>
+                <p style="${sectionDescStyle}">${copy.healthDesc}</p>
                 <div class="topic-hub-grid" style="grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));">
                     <div class="card-hub" style="border-color: #2e7d32; border-width: 2px;">
                         <h3>priminfo.admin.ch ${badgeOficial}</h3>
-                        <p><strong>Comparador oficial de primas del seguro de salud (LAMal).</strong> Publicado por la Confederacion Suiza. Permite comparar primas por canton, edad y modelo de seguro. Es la referencia legal, no un portal privado.</p>
-                        <a href="https://www.priminfo.admin.ch/es/praemien" target="_blank" rel="noopener noreferrer" class="read-more">Comparar primas (oficial)</a>
+                        <p><strong>${copy.priminfoDesc}</strong></p>
+                        <a href="https://www.priminfo.admin.ch/es/praemien" target="_blank" rel="noopener noreferrer" class="read-more">${copy.priminfoCta}</a>
                     </div>
                 </div>
             </section>
 
             <!-- SECCION 3: TRABAJO Y FORMACION -->
             <section class="animate-fade-up" style="${sectionStyle}">
-                <h2 style="${sectionTitleStyle}">Trabajo y formacion profesional</h2>
-                <p style="${sectionDescStyle}">Portales federales para empleo, desempleo (RAV), reconocimiento de diplomas y formacion.</p>
+                <h2 style="${sectionTitleStyle}">${copy.workTitle}</h2>
+                <p style="${sectionDescStyle}">${copy.workDesc}</p>
                 <div class="topic-hub-grid">
                     <div class="card-hub">
                         <h3>travail.swiss ${badgeOficial}</h3>
-                        <p>Portal federal de empleo. Bolsa de trabajo, inscripcion en el RAV, condiciones de desempleo y recursos para la reinsercion laboral.</p>
-                        <a href="https://www.travail.swiss/es" target="_blank" rel="noopener noreferrer" class="read-more">Abrir travail.swiss</a>
+                        <p>${copy.travailDesc}</p>
+                        <a href="https://www.travail.swiss/es" target="_blank" rel="noopener noreferrer" class="read-more">${copy.travailCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>SEFRI / SERI ${badgeOficial}</h3>
-                        <p>Secretaria de Estado de Educacion, Investigacion e Innovacion. Reconocimiento oficial de diplomas extranjeros y formacion profesional.</p>
-                        <a href="https://www.sefri.admin.ch/sefri/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir SEFRI</a>
+                        <p>${copy.sefriDesc}</p>
+                        <a href="https://www.sefri.admin.ch/sefri/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">${copy.sefriCta}</a>
                     </div>
                 </div>
             </section>
 
             <!-- SECCION 4: VIDA PRACTICA -->
             <section class="animate-fade-up" style="${sectionStyle}">
-                <h2 style="${sectionTitleStyle}">Vida practica</h2>
-                <p style="${sectionDescStyle}">Servicios publicos de uso cotidiano en Suiza.</p>
+                <h2 style="${sectionTitleStyle}">${copy.dailyTitle}</h2>
+                <p style="${sectionDescStyle}">${copy.dailyDesc}</p>
                 <div class="topic-hub-grid">
                     <div class="card-hub">
                         <h3>SBB / CFF ${badgeOficial}</h3>
-                        <p>Ferrocarriles Federales Suizos. Horarios, billetes, abonos (Halbtax, AG), transporte publico nacional e internacional.</p>
-                        <a href="https://www.sbb.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">Abrir SBB.ch</a>
+                        <p>${copy.sbbDesc}</p>
+                        <a href="https://www.sbb.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">${copy.sbbCta}</a>
                     </div>
                     <div class="card-hub">
                         <h3>Post / La Poste ${badgeOficial}</h3>
-                        <p>Correos suizos. Envios nacionales e internacionales, cambio de domicilio, servicios financieros PostFinance.</p>
-                        <a href="https://www.post.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">Abrir Post.ch</a>
+                        <p>${copy.postDesc}</p>
+                        <a href="https://www.post.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">${copy.postCta}</a>
                     </div>
                 </div>
             </section>
 
             <!-- SECCION 5: ESPANA EN SUIZA -->
             <section class="animate-fade-up" style="${sectionStyle}">
-                <h2 style="${sectionTitleStyle}">Espana en Suiza</h2>
+                <h2 style="${sectionTitleStyle}">${copy.spainTitle}</h2>
                 <p style="${sectionDescStyle}">
-                    Consulados espanoles para tramites de pasaporte, partidas, empadronamiento consular y documentacion.
-                    <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red); font-weight:600;">Guia completa de consulados</a>
+                    ${copy.spainDesc}
+                    <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red); font-weight:600;">${copy.spainGuide}</a>
                 </p>
                 <div class="topic-hub-grid" style="margin-top: 0;">
                     <div class="card-hub">
@@ -628,8 +916,8 @@ window.siteContent.es.pages = {
                     </div>
                     <div class="card-hub">
                         <h3>Ministerio de Asuntos Exteriores ${badgeOficial}</h3>
-                        <p>Gobierno de Espana. Informacion consular, tramites en el exterior, ciudadania y viajes.</p>
-                        <a href="https://www.exteriores.gob.es" target="_blank" rel="noopener noreferrer" class="read-more">Abrir Exteriores.gob.es</a>
+                        <p>${copy.exterioresDesc}</p>
+                        <a href="https://www.exteriores.gob.es" target="_blank" rel="noopener noreferrer" class="read-more">${copy.exterioresCta}</a>
                     </div>
                 </div>
             </section>
@@ -637,9 +925,9 @@ window.siteContent.es.pages = {
             <!-- SECCION 6: SERVICIOS CANTONALES -->
             <section id="cantones" class="animate-fade-up" style="${sectionStyle}">
                 <h2 style="${sectionTitleStyle}">${ui['home-title-cantones']}</h2>
-                <p style="${sectionDescStyle}">En Suiza, los tramites dependen del canton: permisos, impuestos, escuelas y registro civil los gestiona cada canton por separado. Selecciona el tuyo para acceder directamente a sus servicios.</p>
+                <p style="${sectionDescStyle}">${copy.cantonsDesc}</p>
                 <div class="callout" style="margin-bottom:1.5rem; font-size:0.95rem;">
-                    <strong>Ejemplo \u2014 Ginebra (GE):</strong> El <a href="https://www.ge.ch/organisation/office-cantonal-population-migrations" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">OCPM</a> gestiona los permisos de residencia. El comparador cantonal de primas LAMal esta en <a href="https://www.ge.ch/assurance-maladie" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">ge.ch/assurance-maladie</a>.
+                    <strong>${copy.cantonsExampleTitle}</strong> ${copy.cantonsExampleBody.replace("OCPM", '<a href="https://www.ge.ch/organisation/office-cantonal-population-migrations" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">OCPM</a>').replace("ge.ch/assurance-maladie", '<a href="https://www.ge.ch/assurance-maladie" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">ge.ch/assurance-maladie</a>')}.
                 </div>
                 <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem;">
                     <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovia (AG)</a>
@@ -673,31 +961,31 @@ window.siteContent.es.pages = {
 
             <!-- SECCION 7: GUIAS DEL SITIO -->
             <section class="animate-fade-up" style="${sectionStyle}">
-                <h2 style="${sectionTitleStyle}">${ui['lbl-explore-guides']}</h2>
+                <h2 style="${sectionTitleStyle}">${copy.guidesTitle}</h2>
                 <div id="category-articles-container"></div>
             </section>
 
             <!-- SECCION 8: HERRAMIENTAS UTILES (NO OFICIALES) -->
             <section class="animate-fade-up" style="${sectionStyle}">
-                <h2 style="${sectionTitleStyle}">Herramientas utiles \u2014 no oficiales</h2>
+                <h2 style="${sectionTitleStyle}">${copy.toolsTitle}</h2>
                 <div class="callout" style="margin-bottom:1.5rem; font-size:0.95rem; border-color: #e65100; background: rgba(230,81,0,0.05);">
-                    <strong>Aviso:</strong> Los servicios de esta seccion son herramientas privadas. Son utiles en la practica, pero no son fuentes oficiales del gobierno suizo y no tienen validez legal como referencia para tramites administrativos.
+                    <strong>${copy.toolsWarningTitle}</strong> ${copy.toolsWarningBody}
                 </div>
                 <div class="topic-hub-grid">
                     <div class="card-hub" style="border-color:#e0e0e0;">
                         <h3>Comparis ${badgePrivado}</h3>
-                        <p>Comparador privado suizo. Permite comparar primas de seguros de salud, seguros de hogar, precios de alquiler y otros servicios. No es fuente oficial. Para primas LAMal oficiales, usa priminfo.admin.ch.</p>
-                        <a href="https://www.comparis.ch" target="_blank" rel="noopener noreferrer" class="read-more">Abrir Comparis.ch</a>
+                        <p>${copy.comparisDesc}</p>
+                        <a href="https://www.comparis.ch" target="_blank" rel="noopener noreferrer" class="read-more">${copy.comparisCta}</a>
                     </div>
                     <div class="card-hub" style="border-color:#e0e0e0;">
                         <h3>Homegate ${badgePrivado}</h3>
-                        <p>Portal inmobiliario privado. Pisos y casas en alquiler o venta en toda Suiza. Herramienta practica para buscar vivienda, sin validez oficial.</p>
-                        <a href="https://www.homegate.ch" target="_blank" rel="noopener noreferrer" class="read-more">Abrir Homegate.ch</a>
+                        <p>${copy.homegateDesc}</p>
+                        <a href="https://www.homegate.ch" target="_blank" rel="noopener noreferrer" class="read-more">${copy.homegateCta}</a>
                     </div>
                     <div class="card-hub" style="border-color:#e0e0e0;">
                         <h3>Jobs.ch ${badgePrivado}</h3>
-                        <p>Portal privado de empleo. Ofertas de trabajo en Suiza por sector, canton y idioma. Complementario al portal oficial travail.swiss.</p>
-                        <a href="https://www.jobs.ch" target="_blank" rel="noopener noreferrer" class="read-more">Abrir Jobs.ch</a>
+                        <p>${copy.jobsDesc}</p>
+                        <a href="https://www.jobs.ch" target="_blank" rel="noopener noreferrer" class="read-more">${copy.jobsCta}</a>
                     </div>
                 </div>
             </section>
