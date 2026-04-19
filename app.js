@@ -1203,7 +1203,19 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
 
                 const results = Array.from(bySlug.values())
-                    .sort((a, b) => String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" }));
+                    .sort((a, b) => {
+                        const getRank = (art) => {
+                            const hasImg = !!art.image || !!art.featuredImage;
+                            const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
+                            if (hasImg && !isFb) return 3;
+                            if (!isFb) return 2;
+                            return 1;
+                        };
+                        const rankA = getRank(a);
+                        const rankB = getRank(b);
+                        if (rankA !== rankB) return rankB - rankA;
+                        return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
+                    });
 
                 const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
                 if (results.length > 0) {
