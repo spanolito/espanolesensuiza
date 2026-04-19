@@ -394,51 +394,73 @@ Object.assign(window.siteContent.es.articles, {
         category: "Alertas y recursos",
         hub: "recursos",
         slug: "fraudes-inmigrantes-suiza",
-        readingTime: 2,
+        readingTime: 4,
         dateUpdated: "Marzo 2026",
-        summary: "Alertas prácticas: estafas de alquiler, falsas multas, phishing, “ofertas de trabajo” falsas y suplantación. Señales típicas y cómo actuar en Suiza.",
+        summary: "Guía práctica para detectar fraudes de trabajo y vivienda en Suiza: cómo operan, señales de alerta, proceso real y qué hacer si te intentan estafar.",
         featuredImage: "media/guides/fraudes-inmigrantes-suiza.jpg",
         imageAlt: "Imagen conceptual de precaución con las llaves de casa y contratos",
         relatedSlugs: [],
         content: `<div class="article-content">
-            <h2>Introducción</h2>
-<p>La mayoría de estafas no se basan en “tecnología”, sino en una cosa: <strong>urgencia</strong>. Si aprendes a frenar y verificar, reduces el riesgo de forma drástica.</p>
-<h2>Contexto en Suiza</h2>
-<p>Recién llegados son un objetivo típico porque:</p>
+            <div class="callout">
+                <p><strong>En Suiza nadie te pedirá dinero por adelantado para darte un trabajo o un alojamiento.</strong></p>
+                <p>Si alguien lo hace, es muy probable que sea una estafa.</p>
+            </div>
+
+<p>Las estafas dirigidas a recién llegados funcionan casi siempre igual: te meten prisa, te hacen creer que la oportunidad es excepcional y te empujan a pagar antes de verificar. El objetivo no es convencerte con lógica, sino impedir que tengas tiempo para pensar.</p>
+
+<h2>Cómo funcionan estas estafas</h2>
+<p>El patrón más habitual mezcla tres elementos: urgencia, historia creíble y pago inmediato. Cambia el envoltorio, pero el mecanismo suele repetirse.</p>
+
+<h3>Pago por “reserva”</h3>
+<p>Te dicen que hay mucha demanda y que, para bloquear la habitación o el piso, tienes que enviar una transferencia inmediata. A veces lo llaman <em>reserva</em>, otras <em>depósito temporal</em> o <em>señal</em>. El problema no es el nombre: es que te piden dinero <strong>antes</strong> de que exista un proceso verificable y un contrato real.</p>
+
+<h3>Falsa oferta de trabajo</h3>
+<p>Te escriben con un empleo “rápido”, “bien pagado” y con poca fricción. Después aparece una supuesta tasa: por formación, material, uniformes, expediente, permiso o activación. En otros casos te piden documentos sensibles o datos bancarios completos antes incluso de una entrevista seria.</p>
+
+<h3>Alquiler sin visita</h3>
+<p>Es una de las estafas más comunes. El piso parece perfecto, el precio está por debajo de mercado y siempre hay una excusa para no visitarlo: el propietario está fuera, las llaves están en otra ciudad o el trámite se hará “online” por seguridad. La presión llega enseguida: o pagas ahora o “pasa al siguiente interesado”.</p>
+
+<h2>Señales de alerta</h2>
 <ul>
-<li>necesitan vivienda y trabajo rápido</li>
-<li>no conocen procedimientos locales</li>
-<li>no saben cómo verificar documentos y pagos</li>
+<li>Te piden dinero por adelantado para acceder a una vivienda o a un trabajo.</li>
+<li>No puedes visitar el piso ni hablar con una persona identificable por un canal verificable.</li>
+<li>Te presionan con frases como “hay mucha gente interesada”, “es ahora o nunca” o “si no pagas hoy, lo pierdes”.</li>
+<li>El precio está claramente por debajo de lo normal para la zona y las fotos parecen demasiado perfectas.</li>
+<li>Te envían un contrato improvisado o documentos sin datos verificables.</li>
+<li>Te piden pago por Western Union, criptomonedas, Bizum internacional o cuentas personales sin justificación clara.</li>
+<li>La oferta de trabajo evita detalles básicos: empresa, dirección, entrevista, funciones y condiciones reales.</li>
+<li>El supuesto empleador o arrendador no acepta que verifiques nada por tu cuenta.</li>
 </ul>
-<h2>Situaciones comunes que generan problemas</h2>
-<h3>Estafas frecuentes (patrones)</h3>
-<ul>
-<li><strong>Alquiler</strong>: pago por adelantado + “no se puede visitar”.</li>
-<li><strong>Phishing</strong>: SMS/email que imita bancos o servicios con enlaces.</li>
-<li><strong>Falsas multas/QR</strong>: códigos que llevan a webs de pago dudosas.</li>
-<li><strong>Ofertas de trabajo</strong>: te piden dinero, documentos sensibles o “tasas” para empezar.</li>
-</ul>
-<h3>Qué hacer (protocolo simple)</h3>
+
+<h2>Cómo funciona realmente en Suiza</h2>
+
+<h3>Trabajo</h3>
+<p>En un proceso normal, primero hay contacto, entrevista, verificación del perfil y propuesta concreta. Si te contratan, el paso formal es una <strong>oferta o contrato</strong>, no una petición de dinero. El trabajador no adelanta pagos para que le “den” el puesto.</p>
+<p>Puede haber trámites, certificados o documentación, pero no funcionan como una transferencia urgente al supuesto empleador. Si alguien te pide pagar para empezar a trabajar, debes tratarlo como una alerta roja.</p>
+
+<h3>Vivienda</h3>
+<p>En Suiza lo habitual es <strong>visitar</strong>, presentar dossier, recibir aceptación y entonces firmar contrato. La fianza existe, sí, pero no se entrega de cualquier manera: normalmente se deposita en una <strong>cuenta de garantía</strong> vinculada al alquiler, no como una transferencia improvisada al particular para “reservar”.</p>
+<p>Si no hay visita posible, si no puedes verificar la identidad del anunciante o si te piden dinero antes de formalizar nada, no estás en un proceso normal.</p>
+
+<h2>Qué hacer si te ocurre</h2>
 <ol>
-<li>No pagar ni enviar datos sensibles por prisa.</li>
-<li>Verificar por canal oficial (web oficial, teléfono oficial).</li>
-<li>Guardar pruebas (capturas, emails).</li>
-<li>Reportar si procede (policía, entidad afectada).</li>
+<li><strong>No pagues.</strong> Aunque el importe parezca pequeño, pagar una vez suele abrir la puerta a nuevas exigencias.</li>
+<li><strong>Corta el canal de presión.</strong> No sigas negociando si la única herramienta del otro es la urgencia.</li>
+<li><strong>Guarda pruebas.</strong> Capturas, correos, números de teléfono, anuncio, cuenta bancaria y mensajes.</li>
+<li><strong>Verifica por fuentes oficiales.</strong> Busca la empresa, la dirección, el dominio web y los canales públicos reales.</li>
+<li><strong>Denuncia si procede.</strong> Si ya compartiste datos o hiciste un pago, contacta con tu banco y con la policía de tu cantón lo antes posible.</li>
+<li><strong>Avisa a la comunidad.</strong> Compartir el patrón ayuda a que otros no caigan en la misma trampa.</li>
 </ol>
-<h2>Cómo evitar multas o conflictos</h2>
-<ul>
-<li>Verifica dominios y remitentes; no confíes en “logos”.</li>
-<li>Usa números oficiales (no los del mensaje).</li>
-</ul>
-<h2>Consejos prácticos</h2>
-<ul>
-<li>Si te presionan con “hoy o nunca”, es mala señal.</li>
-<li>Si te piden pago por “reservar” sin contrato verificable, sal.</li>
-</ul>
+
+<div class="callout">
+    <p><strong>En esta página nunca se pide dinero ni se intermedia en pagos.</strong></p>
+    <p>Si alguien usa el nombre del sitio, de la comunidad o de un supuesto contacto “de confianza” para pedirte un pago previo, desconfía y verifica antes de hacer nada.</p>
+</div>
+
 <h2>Fuentes oficiales</h2>
 <ul>
-<li>ch.ch: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
-<li>Fedpol (seguridad, según campaña): <a href="https://www.fedpol.admin.ch" target="_blank" rel="noopener noreferrer">https://www.fedpol.admin.ch</a></li>
+<li>Portal oficial suizo: <a href="https://www.ch.ch" target="_blank" rel="noopener noreferrer">https://www.ch.ch</a></li>
+<li>Fedpol: <a href="https://www.fedpol.admin.ch" target="_blank" rel="noopener noreferrer">https://www.fedpol.admin.ch</a></li>
 </ul>
         </div>`
     },
