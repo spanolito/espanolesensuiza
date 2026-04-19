@@ -797,6 +797,18 @@ document.addEventListener("DOMContentLoaded", () => {
             "home-banner-alt": "Espanoles en Suiza que realmente se ayudan",
             "home-hero-group-cta": "Solicitar acceso a la comunidad",
             "home-hero-whatsapp": "Grupo WhatsApp",
+            "scam-warning-title": "Atención a las estafas en Suiza",
+            "scam-warning-p1": "En Suiza nadie te pedirá dinero por adelantado para darte un trabajo o un alojamiento.",
+            "scam-warning-p2": "En esta página nunca se pide dinero, ni se intermedia en pagos entre particulares.",
+            "scam-warning-p3": "Si alguien te solicita un pago previo, es muy probable que se trate de una estafa.",
+            "scam-warning-list-title": "Las ofertas legítimas:",
+            "scam-warning-li1": "no exigen pagos iniciales",
+            "scam-warning-li2": "se formalizan mediante contrato",
+            "scam-warning-li3": "utilizan canales verificables",
+            "scam-warning-p4": "Si tienes dudas, consulta fuentes oficiales o pregunta en la comunidad antes de tomar cualquier decisión.",
+            "scam-warning-understood": "Entendido",
+            "scam-warning-more": "Más información",
+            "scam-warning-close": "Cerrar aviso",
             "home-title-situation": "Empieza según tu situación",
             "home-situation-no-job": "Llegas sin trabajo",
             "home-situation-no-job-desc": "Residencia, margen legal y plan de búsqueda.",
@@ -838,6 +850,18 @@ document.addEventListener("DOMContentLoaded", () => {
             "home-banner-alt": "Spaniards in Switzerland who really help each other",
             "home-hero-group-cta": "Request access to the community",
             "home-hero-whatsapp": "WhatsApp Group",
+            "scam-warning-title": "Beware of scams in Switzerland",
+            "scam-warning-p1": "In Switzerland, no one will ask you for money in advance to offer you a job or accommodation.",
+            "scam-warning-p2": "This site never asks for money and never intermediates payments between private individuals.",
+            "scam-warning-p3": "If someone asks you for an upfront payment, it is very likely a scam.",
+            "scam-warning-list-title": "Legitimate offers:",
+            "scam-warning-li1": "do not require upfront payments",
+            "scam-warning-li2": "are formalised by contract",
+            "scam-warning-li3": "use verifiable channels",
+            "scam-warning-p4": "If you are unsure, consult official sources or ask the community before making any decision.",
+            "scam-warning-understood": "Understood",
+            "scam-warning-more": "More information",
+            "scam-warning-close": "Close notice",
             "home-title-situation": "Start from your situation",
             "home-situation-no-job": "Arriving without a job",
             "home-situation-no-job-desc": "Residence, legal margin, and a job-search plan.",
@@ -879,6 +903,18 @@ document.addEventListener("DOMContentLoaded", () => {
             "home-banner-alt": "Espagnols en Suisse qui s'entraident vraiment",
             "home-hero-group-cta": "Demander l'accès à la communauté",
             "home-hero-whatsapp": "Groupe WhatsApp",
+            "scam-warning-title": "Attention aux arnaques en Suisse",
+            "scam-warning-p1": "En Suisse, personne ne vous demandera d'argent à l'avance pour vous proposer un emploi ou un logement.",
+            "scam-warning-p2": "Sur ce site, aucun paiement n'est demandé et aucun intermédiaire n'intervient dans les paiements entre particuliers.",
+            "scam-warning-p3": "Si quelqu'un vous demande un paiement préalable, il s'agit très probablement d'une arnaque.",
+            "scam-warning-list-title": "Les offres légitimes :",
+            "scam-warning-li1": "n'exigent pas de paiement initial",
+            "scam-warning-li2": "sont formalisées par contrat",
+            "scam-warning-li3": "utilisent des canaux vérifiables",
+            "scam-warning-p4": "En cas de doute, consultez des sources officielles ou posez la question dans la communauté avant de prendre une décision.",
+            "scam-warning-understood": "Compris",
+            "scam-warning-more": "Plus d'informations",
+            "scam-warning-close": "Fermer l'avis",
             "home-title-situation": "Commencez selon votre situation",
             "home-situation-no-job": "Vous arrivez sans emploi",
             "home-situation-no-job-desc": "Résidence, marge légale et plan de recherche.",
@@ -920,6 +956,18 @@ document.addEventListener("DOMContentLoaded", () => {
             "home-banner-alt": "Spanier in der Schweiz, die sich wirklich gegenseitig helfen",
             "home-hero-group-cta": "Zugang zur Community anfragen",
             "home-hero-whatsapp": "WhatsApp Gruppe",
+            "scam-warning-title": "Achtung vor Betrug in der Schweiz",
+            "scam-warning-p1": "In der Schweiz wird niemand von dir im Voraus Geld verlangen, um dir eine Arbeit oder eine Unterkunft zu verschaffen.",
+            "scam-warning-p2": "Auf dieser Seite wird niemals Geld verlangt, und es werden keine Zahlungen zwischen Privatpersonen vermittelt.",
+            "scam-warning-p3": "Wenn jemand eine Vorauszahlung verlangt, handelt es sich sehr wahrscheinlich um Betrug.",
+            "scam-warning-list-title": "Seriöse Angebote:",
+            "scam-warning-li1": "verlangen keine Vorauszahlungen",
+            "scam-warning-li2": "werden per Vertrag formalisiert",
+            "scam-warning-li3": "nutzen überprüfbare Kanäle",
+            "scam-warning-p4": "Wenn du Zweifel hast, nutze offizielle Quellen oder frage zuerst in der Community nach, bevor du eine Entscheidung triffst.",
+            "scam-warning-understood": "Verstanden",
+            "scam-warning-more": "Mehr Informationen",
+            "scam-warning-close": "Hinweis schließen",
             "home-title-situation": "Start je nach Situation",
             "home-situation-no-job": "Sie kommen ohne Job an",
             "home-situation-no-job-desc": "Aufenthalt, rechtlicher Rahmen und Jobsuche.",
@@ -961,6 +1009,18 @@ document.addEventListener("DOMContentLoaded", () => {
             "home-banner-alt": "Spagnoli in Svizzera che si aiutano davvero",
             "home-hero-group-cta": "Richiedi accesso alla community",
             "home-hero-whatsapp": "Gruppo WhatsApp",
+            "scam-warning-title": "Attenzione alle truffe in Svizzera",
+            "scam-warning-p1": "In Svizzera nessuno ti chiederà denaro in anticipo per offrirti un lavoro o un alloggio.",
+            "scam-warning-p2": "In questo sito non viene mai richiesto denaro e non si intermediano pagamenti tra privati.",
+            "scam-warning-p3": "Se qualcuno ti chiede un pagamento anticipato, è molto probabile che si tratti di una truffa.",
+            "scam-warning-list-title": "Le offerte legittime:",
+            "scam-warning-li1": "non richiedono pagamenti iniziali",
+            "scam-warning-li2": "vengono formalizzate tramite contratto",
+            "scam-warning-li3": "usano canali verificabili",
+            "scam-warning-p4": "Se hai dubbi, consulta fonti ufficiali o chiedi nella community prima di prendere qualsiasi decisione.",
+            "scam-warning-understood": "Capito",
+            "scam-warning-more": "Maggiori informazioni",
+            "scam-warning-close": "Chiudi avviso",
             "home-title-situation": "Inizia dalla tua situazione",
             "home-situation-no-job": "Arrivi senza lavoro",
             "home-situation-no-job-desc": "Residenza, margine legale e piano di ricerca.",
@@ -1005,6 +1065,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let currentLang = localStorage.getItem("lang") || "es";
     document.documentElement.lang = currentLang;
+    const SCAM_WARNING_KEY = "scam_warning_seen";
+    const SCAM_WARNING_TIMESTAMP_KEY = "scam_warning_seen_at";
+    const SCAM_WARNING_TTL_MS = 30 * 24 * 60 * 60 * 1000;
+    let scamWarningModal = null;
+    let scamWarningCheckedThisSession = false;
 
     function applyLanguage(lang) {
         if (!lang || !window.siteContent[lang]) return false;
@@ -1014,6 +1079,7 @@ document.addEventListener("DOMContentLoaded", () => {
         localStorage.setItem("lang", lang);
         document.documentElement.lang = currentLang;
         updateUITexts();
+        updateScamWarningModalContent();
 
         // Update active state + display
         const currentLangDisplay = document.getElementById("current-lang-display");
@@ -1050,6 +1116,129 @@ document.addEventListener("DOMContentLoaded", () => {
         if (searchInput) {
             searchInput.placeholder = ui['search-placeholder'];
         }
+    }
+
+    function getScamWarningGuideHref() {
+        const localizedArticles = window.siteContent[currentLang] && window.siteContent[currentLang].articles;
+        const fallbackArticles = window.siteContent.es && window.siteContent.es.articles;
+        const article = (localizedArticles && localizedArticles["fb-fraudes-inmigrantes-suiza"])
+            || (fallbackArticles && fallbackArticles["fb-fraudes-inmigrantes-suiza"]);
+        return (article && article.slug) ? `#/${article.slug}` : "#/fraudes-inmigrantes-suiza";
+    }
+
+    function markScamWarningSeen() {
+        try {
+            localStorage.setItem(SCAM_WARNING_KEY, "true");
+            localStorage.setItem(SCAM_WARNING_TIMESTAMP_KEY, String(Date.now()));
+        } catch (error) {
+            // localStorage can fail in private modes; ignore and continue.
+        }
+    }
+
+    function hasSeenScamWarning() {
+        try {
+            if (localStorage.getItem(SCAM_WARNING_KEY) !== "true") return false;
+            const seenAt = Number(localStorage.getItem(SCAM_WARNING_TIMESTAMP_KEY));
+            if (!Number.isFinite(seenAt)) return true;
+            return (Date.now() - seenAt) < SCAM_WARNING_TTL_MS;
+        } catch (error) {
+            return false;
+        }
+    }
+
+    function closeScamWarningModal(markSeen = false) {
+        if (!scamWarningModal) return;
+        if (markSeen) markScamWarningSeen();
+        scamWarningModal.classList.remove("is-visible");
+        scamWarningModal.setAttribute("aria-hidden", "true");
+    }
+
+    function updateScamWarningModalContent() {
+        if (!scamWarningModal) return;
+        const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+        const setText = (selector, value) => {
+            const node = scamWarningModal.querySelector(selector);
+            if (node) node.textContent = value || "";
+        };
+
+        setText("[data-scam-title]", ui["scam-warning-title"]);
+        setText("[data-scam-p1]", ui["scam-warning-p1"]);
+        setText("[data-scam-p2]", ui["scam-warning-p2"]);
+        setText("[data-scam-p3]", ui["scam-warning-p3"]);
+        setText("[data-scam-list-title]", ui["scam-warning-list-title"]);
+        setText("[data-scam-li1]", ui["scam-warning-li1"]);
+        setText("[data-scam-li2]", ui["scam-warning-li2"]);
+        setText("[data-scam-li3]", ui["scam-warning-li3"]);
+        setText("[data-scam-p4]", ui["scam-warning-p4"]);
+        setText("[data-scam-understood]", ui["scam-warning-understood"]);
+        setText("[data-scam-more]", ui["scam-warning-more"]);
+        const closeBtn = scamWarningModal.querySelector("[data-scam-close]");
+        if (closeBtn) closeBtn.setAttribute("aria-label", ui["scam-warning-close"] || "Close notice");
+        const moreLink = scamWarningModal.querySelector("[data-scam-more]");
+        if (moreLink) moreLink.setAttribute("href", getScamWarningGuideHref());
+    }
+
+    function ensureScamWarningModal() {
+        if (scamWarningModal) return scamWarningModal;
+
+        const overlay = document.createElement("div");
+        overlay.className = "scam-warning-modal";
+        overlay.setAttribute("aria-hidden", "true");
+        overlay.innerHTML = `
+            <div class="scam-warning-dialog" role="dialog" aria-modal="false" aria-labelledby="scam-warning-title">
+                <button type="button" class="scam-warning-close" data-scam-close>
+                    <span aria-hidden="true">×</span>
+                </button>
+                <div class="scam-warning-content">
+                    <h2 id="scam-warning-title" data-scam-title></h2>
+                    <p data-scam-p1></p>
+                    <p data-scam-p2></p>
+                    <p data-scam-p3></p>
+                    <p class="scam-warning-list-title" data-scam-list-title></p>
+                    <ul class="scam-warning-list">
+                        <li data-scam-li1></li>
+                        <li data-scam-li2></li>
+                        <li data-scam-li3></li>
+                    </ul>
+                    <p data-scam-p4></p>
+                </div>
+                <div class="scam-warning-actions">
+                    <a class="btn btn-secondary" data-scam-more href="#/fraudes-inmigrantes-suiza"></a>
+                    <button type="button" class="btn btn-primary" data-scam-understood></button>
+                </div>
+            </div>
+        `;
+
+        overlay.addEventListener("click", (event) => {
+            if (event.target === overlay) closeScamWarningModal(true);
+        });
+
+        const closeBtn = overlay.querySelector("[data-scam-close]");
+        const understoodBtn = overlay.querySelector("[data-scam-understood]");
+        const moreLink = overlay.querySelector("[data-scam-more]");
+
+        if (closeBtn) closeBtn.addEventListener("click", () => closeScamWarningModal(true));
+        if (understoodBtn) understoodBtn.addEventListener("click", () => closeScamWarningModal(true));
+        if (moreLink) moreLink.addEventListener("click", () => closeScamWarningModal(true));
+
+        document.addEventListener("keydown", (event) => {
+            if (event.key === "Escape" && scamWarningModal && scamWarningModal.classList.contains("is-visible")) {
+                closeScamWarningModal(true);
+            }
+        });
+
+        document.body.appendChild(overlay);
+        scamWarningModal = overlay;
+        updateScamWarningModalContent();
+        return scamWarningModal;
+    }
+
+    function maybeShowScamWarning() {
+        if (scamWarningCheckedThisSession || hasSeenScamWarning()) return;
+        scamWarningCheckedThisSession = true;
+        const modal = ensureScamWarningModal();
+        modal.classList.add("is-visible");
+        modal.setAttribute("aria-hidden", "false");
     }
 
     // Call it immediately on load
@@ -2673,6 +2862,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             appContainer.classList.remove("page-transitioning");
             window.scrollTo(0, 0);
+            window.requestAnimationFrame(maybeShowScamWarning);
 
         }, 200); // match CSS transiton time
     }
