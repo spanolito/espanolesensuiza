@@ -51,7 +51,12 @@ while ((match = regex.exec(histData)) !== null) {
     let finalFbUrl = fbUrl;
     let isSearch = false;
     if (!fbUrl.includes('/groups/')) {
-        const safeSearchTerm = encodeURIComponent(cleanTitle.substring(0, 50));
+        const searchWords = cleanTitle.replace(/[^\w\sáéíóúÁÉÍÓÚñÑüÜ]/g, ' ')
+                                .split(/\s+/)
+                                .filter(w => w.trim().length > 2)
+                                .slice(0, 5)
+                                .join(' ');
+        const safeSearchTerm = encodeURIComponent(searchWords);
         finalFbUrl = `https://www.facebook.com/groups/1560239407529680/search/?q=${safeSearchTerm}`;
         isSearch = true;
     }
