@@ -1102,15 +1102,12 @@ strong, b {
 }
 
 .community-page-header {
-    max-width: 860px;
-    margin-left: auto;
-    margin-right: auto;
     margin-bottom: 1.25rem;
 }
 
 .community-intro {
     max-width: 860px;
-    margin: 0 auto;
+    margin: 0;
     gap: 0;
 }
 
@@ -1129,6 +1126,11 @@ strong, b {
 .community-team-section {
     max-width: 860px;
     margin: 2.25rem auto 4.5rem;
+}
+
+.community-actions-wrap {
+    max-width: 860px;
+    margin: 1.5rem auto 0;
 }
 
 .community-team-panel {
@@ -1190,7 +1192,7 @@ strong, b {
 .community-page-actions {
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: stretch;
     flex-wrap: nowrap;
     gap: 1rem;
@@ -1219,6 +1221,10 @@ strong, b {
 @media (max-width: 640px) {
     .community-page-header {
         margin-bottom: 1rem;
+    }
+
+    .community-actions-wrap {
+        margin-top: 1.25rem;
     }
 
     .community-team-section {

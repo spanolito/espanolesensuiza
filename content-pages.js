@@ -1124,16 +1124,19 @@ window.siteContent.es.pages = {
                 <div class="article-body">
                     <p>${ui['com-p1']}</p>
                     <p>${ui['com-p2']}</p>
-                    <div class="hero-actions community-page-actions" style="margin-top:1.5rem;">
-                        <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" rel="noopener noreferrer" class="btn" style="background:#1877F2; color:white; display:inline-flex; align-items:center; gap:8px;">
-                            <svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
-                            ${ui['home-hero-group-cta']}
-                        </a>
-                        <a href="https://chat.whatsapp.com/Gd1Zei1Nycu69GM3zpKymC" target="_blank" rel="noopener noreferrer" class="btn" style="background:#25D366; color:white; display:inline-flex; align-items:center; gap:8px;">
-                            <svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M12 2a10 10 0 0 0-8.4 15.3l-1 4 4-1A10 10 0 1 0 12 2zm0 18c-1.1 0-2.2-.2-3.2-.6l-.2-.1-2.1.5.5-2.1-.1-.2A8 8 0 1 1 20 12a7.9 7.9 0 0 1-4.2 6.9L14.4 19a6 6 0 0 0 1.6-10.8 5.6 5.6 0 0 0-.7-.3 5.7 5.7 0 0 0-5.3 1.4l-.1.1-.1.1c-.6.6-1.5 1.5-1.5 3.4s.9 2.8 1.6 3.4l.2.2c1.2.9 2.5.9 3.2.9.7 0 1.4-.2 2-.5l.2-.1 1.8 1a8 8 0 0 1-3 1.3z" fill="white"></path></svg>
-                            ${ui['home-hero-whatsapp']}
-                        </a>
-                    </div>
+                </div>
+            </section>
+
+            <section class="community-actions-wrap">
+                <div class="hero-actions community-page-actions">
+                    <a href="https://www.facebook.com/groups/1560239407529680" target="_blank" rel="noopener noreferrer" class="btn" style="background:#1877F2; color:white; display:inline-flex; align-items:center; gap:8px;">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
+                        ${ui['home-hero-group-cta']}
+                    </a>
+                    <a href="https://chat.whatsapp.com/Gd1Zei1Nycu69GM3zpKymC" target="_blank" rel="noopener noreferrer" class="btn" style="background:#25D366; color:white; display:inline-flex; align-items:center; gap:8px;">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M12 2a10 10 0 0 0-8.4 15.3l-1 4 4-1A10 10 0 1 0 12 2zm0 18c-1.1 0-2.2-.2-3.2-.6l-.2-.1-2.1.5.5-2.1-.1-.2A8 8 0 1 1 20 12a7.9 7.9 0 0 1-4.2 6.9L14.4 19a6 6 0 0 0 1.6-10.8 5.6 5.6 0 0 0-.7-.3 5.7 5.7 0 0 0-5.3 1.4l-.1.1-.1.1c-.6.6-1.5 1.5-1.5 3.4s.9 2.8 1.6 3.4l.2.2c1.2.9 2.5.9 3.2.9.7 0 1.4-.2 2-.5l.2-.1 1.8 1a8 8 0 0 1-3 1.3z" fill="white"></path></svg>
+                        ${ui['home-hero-whatsapp']}
+                    </a>
                 </div>
             </section>
 
