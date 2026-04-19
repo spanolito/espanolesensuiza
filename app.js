@@ -1300,6 +1300,64 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     /**
+     * Inject All Articles into the /articulos page
+     */
+    function injectAllArticles() {
+        const container = document.getElementById("all-articles-container");
+        if (!container) return;
+
+        const langData = window.siteContent[currentLang].articles;
+        const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+
+        const scoreGuideCandidate = (article) => {
+            const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
+            const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
+            const contentLen = article && article.content ? String(article.content).length : 0;
+            return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
+        };
+
+        const allRaw = Object.keys(langData).map(key => ({ id: key, ...langData[key] })).filter(a => a && a.slug);
+
+        const bySlug = new Map();
+        for (const a of allRaw) {
+            const key = a.slug || a.id;
+            const prev = bySlug.get(key);
+            if (!prev || scoreGuideCandidate(a) > scoreGuideCandidate(prev)) bySlug.set(key, a);
+        }
+
+        const allArticles = Array.from(bySlug.values())
+            .sort((a, b) => String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" }));
+
+        function renderList(filteredArticles) {
+            if (filteredArticles.length > 0) {
+                container.innerHTML = filteredArticles.map(r => renderCard(r, ui)).join('');
+            } else {
+                container.innerHTML = `<p style="color: var(--text-light); margin-top: 2rem;">No se encontraron artículos.</p>`;
+            }
+        }
+
+        renderList(allArticles);
+
+        const searchInput = document.getElementById("articles-filter-input");
+        if (searchInput) {
+            searchInput.addEventListener("input", (e) => {
+                const term = e.target.value.toLowerCase();
+                if (!term) {
+                    renderList(allArticles);
+                    return;
+                }
+                const filtered = allArticles.filter(a => {
+                    const t = (a.title || "").toLowerCase();
+                    const c = (a.category || "").toLowerCase();
+                    const kw = (a.keywords || "").toLowerCase();
+                    return t.includes(term) || c.includes(term) || kw.includes(term);
+                });
+                renderList(filtered);
+            });
+        }
+    }
+
+    /**
      * Inject Featured Guides into the Home page.
      */
     function injectHomepageFeatured() {
@@ -2142,6 +2200,16 @@ document.addEventListener("DOMContentLoaded", () => {
 	                                </div>
 
                                     ${renderArticleHeroHTML(pageData, routeKey)}
+                                    
+                                    ${pageData.facebookUrl ? `
+                                    <div style="margin: 1.5rem 0;">
+                                        <a href="${pageData.facebookUrl}" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #1877F2; border-color: #1877F2; color: white;">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                                                <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.469h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.469h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                                            </svg>
+                                            Ver publicación original en Facebook
+                                        </a>
+                                    </div>` : ''}
 	                                
 	                                ${pageData.summary ? `
 	                                <div class="box-summary">
@@ -2178,6 +2246,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (pageData.isCategoryHub) {
                     // routeKey matches exactly the hub property in articles (e.g. "tramites")
                     injectCategoryArticles(routeKey);
+                } else if (routeKey === "articulos") {
+                    injectAllArticles();
                 }
 
                 if (routeKey === "home") {

@@ -564,6 +564,35 @@ window.siteContent.es.pages = {
         }
     },
 
+    "articulos": {
+        title: "Todos los artículos | Españoles en Suiza",
+        description: "Explora y busca entre más de 600 artículos y guías publicadas por la comunidad de Españoles en Suiza.",
+        isCategoryHub: false,
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+                <nav class="breadcrumbs">
+                    <a href="#/">${ui['nav-inicio']}</a> > 
+                    <span>Artículos</span>
+                </nav>
+                <h1>Todos los artículos</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">Explora nuestra base de conocimiento general.</p>
+                
+                <div class="search-container" style="margin-top: 1.5rem; max-width: 600px; margin-left: 0;">
+                    <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                    <input type="text" id="articles-filter-input" class="search-input" placeholder="Filtrar por título, palabra clave o categoría..." autocomplete="off">
+                </div>
+            </div>
+
+            <section>
+                <div id="all-articles-container" class="featured-grid"></div>
+            </section>
+            `;
+        }
+    },
+
     "comunidad": {
         title: "Comunidad de Españoles en Suiza: Ayuda mutua y networking",
         description: "Únete a la principal comunidad de españoles en Suiza. Consejos reales, ayuda entre compatriotas y resolución de dudas sobre la vida en el país.",
