@@ -1388,6 +1388,50 @@ document.addEventListener("DOMContentLoaded", () => {
         return { timestamp, fbIndex };
     }
 
+    function buildFacebookSearchQuery(pageData) {
+        const source = pageData && (pageData.title || pageData.description || pageData.summary)
+            ? String(pageData.title || pageData.description || pageData.summary)
+            : "";
+        if (!source) return "";
+
+        const stopWords = new Set([
+            "a", "al", "algo", "alguna", "alguno", "algunos", "alguien", "ante", "antes", "aqui", "así",
+            "como", "con", "contra", "cual", "cuando", "de", "del", "desde", "donde", "dos",
+            "el", "ella", "ellas", "ellos", "en", "entre", "era", "es", "esa", "ese", "eso",
+            "esta", "estaba", "estado", "este", "esto", "estos", "fin", "frente", "ha", "hay",
+            "hoy", "la", "las", "le", "les", "lo", "los", "mas", "mejor", "menor",
+            "mi", "muy", "no", "o", "otra", "otro", "para", "pero", "por", "porque", "puede",
+            "puedo", "que", "qué", "quien", "quién", "sabe", "se", "segun", "según", "si",
+            "sin", "sobre", "su", "sus", "suiza", "suizo", "suizos", "suizas", "tal", "te",
+            "the", "un", "una", "uno", "unos", "y", "ya"
+        ]);
+
+        const tokens = source.match(/[A-Za-zÀ-ÿ0-9]+/g) || [];
+        const picked = [];
+        const seen = new Set();
+
+        for (const token of tokens) {
+            const cleaned = token.trim();
+            if (!cleaned) continue;
+
+            const normalized = cleaned
+                .toLowerCase()
+                .normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "");
+
+            if (seen.has(normalized)) continue;
+            if (stopWords.has(normalized)) continue;
+            if (normalized.length < 3 && !/^\d+$/.test(normalized)) continue;
+
+            seen.add(normalized);
+            picked.push(cleaned);
+
+            if (picked.length === 4) break;
+        }
+
+        return picked.join(" ");
+    }
+
     function resolveFacebookUrl(pageData) {
         const rawUrl = pageData && pageData.facebookUrl ? String(pageData.facebookUrl).trim() : "";
         if (!rawUrl || !pageData || !pageData.isFbSearch) return rawUrl;
@@ -1400,6 +1444,10 @@ document.addEventListener("DOMContentLoaded", () => {
             const isGroupSearchPath = /^\/groups\/1560239407529680\/search\/?$/i.test(url.pathname);
             if (!isFacebookHost || !isGroupSearchPath) return rawUrl;
 
+            const conciseQuery = buildFacebookSearchQuery(pageData);
+            if (conciseQuery) {
+                url.searchParams.set("q", conciseQuery);
+            }
             url.searchParams.set("filters", authorMeFilter);
             return url.toString();
         } catch (error) {
