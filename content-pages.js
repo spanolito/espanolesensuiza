@@ -72,6 +72,33 @@ window.siteContent.es.pages = {
                 </p>
             </section>
 
+            <section class="animate-fade-up delay-050" style="margin-top: var(--space-lg);">
+                <h2 style="border-bottom:none; margin-bottom: 1rem;">${ui['home-title-situation']}</h2>
+                <div class="quick-start-grid">
+                    <a href="#/residir-en-suiza-sin-trabajo" class="card-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"></circle><path d="M6 20c1.5-3.5 4-5 6-5s4.5 1.5 6 5"></path><path d="M4 12h4"></path><path d="M2 14l2-2 2 2"></path></svg>
+                        <h3>${ui['home-situation-no-job']}</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['home-situation-no-job-desc']}</span>
+                    </a>
+                    <a href="#/registrarse-en-suiza" class="card-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11l3 3L22 4"></path><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path></svg>
+                        <h3>${ui['home-situation-with-contract']}</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['home-situation-with-contract-desc']}</span>
+                    </a>
+                    <a href="#/introduccion-suiza-como-funciona" class="card-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18"></path><path d="M12 3a15.3 15.3 0 0 1 4 9 15.3 15.3 0 0 1-4 9 15.3 15.3 0 0 1-4-9 15.3 15.3 0 0 1 4-9z"></path></svg>
+                        <h3>${ui['home-situation-settled']}</h3>
+                        <span style="font-size:0.9rem; color:var(--text-light); margin-top:8px;">${ui['home-situation-settled-desc']}</span>
+                    </a>
+                </div>
+            </section>
+
+            <section class="animate-fade-up delay-075" style="margin-top: var(--space-xl);">
+                <h2>${ui['home-title-latest']}</h2>
+                <p style="margin-bottom:2rem; color: var(--text-secondary);">${ui['home-desc-latest']}</p>
+                <div id="home-latest-articles-container"></div>
+            </section>
+
             <!-- STATS STRIP -->
             <div class="stats-strip animate-fade-up">
                 <div class="stat-item">

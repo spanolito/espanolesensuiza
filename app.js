@@ -753,9 +753,20 @@ document.addEventListener("DOMContentLoaded", () => {
         es: {
             "home-sr-title": "Espanoles en Suiza: guia practica para vivir y trabajar",
             "home-sr-desc": "Informacion clara, oficial y estructurada sobre permisos, trabajo, vivienda, seguros y vida diaria en Suiza.",
+            "nav-articulos": "Artículos",
             "home-banner-alt": "Espanoles en Suiza que realmente se ayudan",
             "home-hero-group-cta": "Solicitar acceso a la comunidad",
             "home-hero-whatsapp": "Grupo WhatsApp",
+            "home-title-situation": "Empieza según tu situación",
+            "home-situation-no-job": "Llegas sin trabajo",
+            "home-situation-no-job-desc": "Residencia, margen legal y plan de búsqueda.",
+            "home-situation-with-contract": "Ya tienes contrato",
+            "home-situation-with-contract-desc": "Registro, permiso y primeros trámites.",
+            "home-situation-settled": "Ya vives en Suiza",
+            "home-situation-settled-desc": "Entiende impuestos, seguros y vida diaria.",
+            "home-title-latest": "Últimos artículos",
+            "home-desc-latest": "Las 4 publicaciones más recientes del archivo editorial y comunitario.",
+            "home-latest-view-all": "Ver todos los artículos",
             "home-tax-topic-label": "Quellensteuer",
             "home-consulate-geneva": "Consulado de Ginebra",
             "home-consulate-bern": "Consulado de Berna",
@@ -783,9 +794,20 @@ document.addEventListener("DOMContentLoaded", () => {
         en: {
             "home-sr-title": "Spaniards in Switzerland: practical guide to live and work",
             "home-sr-desc": "Clear, official and structured information on permits, work, housing, insurance and daily life in Switzerland.",
+            "nav-articulos": "Articles",
             "home-banner-alt": "Spaniards in Switzerland who really help each other",
             "home-hero-group-cta": "Request access to the community",
             "home-hero-whatsapp": "WhatsApp Group",
+            "home-title-situation": "Start from your situation",
+            "home-situation-no-job": "Arriving without a job",
+            "home-situation-no-job-desc": "Residence, legal margin, and a job-search plan.",
+            "home-situation-with-contract": "You already have a contract",
+            "home-situation-with-contract-desc": "Registration, permit, and first formalities.",
+            "home-situation-settled": "You already live in Switzerland",
+            "home-situation-settled-desc": "Understand taxes, insurance, and daily life.",
+            "home-title-latest": "Latest articles",
+            "home-desc-latest": "The 4 most recent posts from the editorial and community archive.",
+            "home-latest-view-all": "View all articles",
             "home-tax-topic-label": "Withholding tax",
             "home-consulate-geneva": "Geneva Consulate",
             "home-consulate-bern": "Bern Consulate",
@@ -813,9 +835,20 @@ document.addEventListener("DOMContentLoaded", () => {
         fr: {
             "home-sr-title": "Espagnols en Suisse : guide pratique pour vivre et travailler",
             "home-sr-desc": "Informations claires, officielles et structurees sur les permis, le travail, le logement, les assurances et la vie quotidienne en Suisse.",
+            "nav-articulos": "Articles",
             "home-banner-alt": "Espagnols en Suisse qui s'entraident vraiment",
             "home-hero-group-cta": "Demander l'acces a la communaute",
             "home-hero-whatsapp": "Groupe WhatsApp",
+            "home-title-situation": "Commencez selon votre situation",
+            "home-situation-no-job": "Vous arrivez sans emploi",
+            "home-situation-no-job-desc": "Résidence, marge légale et plan de recherche.",
+            "home-situation-with-contract": "Vous avez déjà un contrat",
+            "home-situation-with-contract-desc": "Inscription, permis et premières démarches.",
+            "home-situation-settled": "Vous vivez déjà en Suisse",
+            "home-situation-settled-desc": "Comprenez impôts, assurances et vie quotidienne.",
+            "home-title-latest": "Derniers articles",
+            "home-desc-latest": "Les 4 publications les plus récentes de l’archive éditoriale et communautaire.",
+            "home-latest-view-all": "Voir tous les articles",
             "home-tax-topic-label": "Impot a la source",
             "home-consulate-geneva": "Consulat de Geneve",
             "home-consulate-bern": "Consulat de Berne",
@@ -843,9 +876,20 @@ document.addEventListener("DOMContentLoaded", () => {
         de: {
             "home-sr-title": "Spanier in der Schweiz: praktischer Leitfaden fur Leben und Arbeit",
             "home-sr-desc": "Klare, offizielle und strukturierte Informationen zu Bewilligungen, Arbeit, Wohnen, Versicherungen und Alltag in der Schweiz.",
+            "nav-articulos": "Artikel",
             "home-banner-alt": "Spanier in der Schweiz, die sich wirklich gegenseitig helfen",
             "home-hero-group-cta": "Zugang zur Community anfragen",
             "home-hero-whatsapp": "WhatsApp Gruppe",
+            "home-title-situation": "Start je nach Situation",
+            "home-situation-no-job": "Sie kommen ohne Job an",
+            "home-situation-no-job-desc": "Aufenthalt, rechtlicher Rahmen und Jobsuche.",
+            "home-situation-with-contract": "Sie haben bereits einen Vertrag",
+            "home-situation-with-contract-desc": "Anmeldung, Bewilligung und erste Schritte.",
+            "home-situation-settled": "Sie leben schon in der Schweiz",
+            "home-situation-settled-desc": "Verstehen Sie Steuern, Versicherungen und Alltag.",
+            "home-title-latest": "Neueste Artikel",
+            "home-desc-latest": "Die 4 neuesten Beiträge aus dem redaktionellen und Community-Archiv.",
+            "home-latest-view-all": "Alle Artikel ansehen",
             "home-tax-topic-label": "Quellensteuer",
             "home-consulate-geneva": "Konsulat Genf",
             "home-consulate-bern": "Konsulat Bern",
@@ -873,9 +917,20 @@ document.addEventListener("DOMContentLoaded", () => {
         it: {
             "home-sr-title": "Spagnoli in Svizzera: guida pratica per vivere e lavorare",
             "home-sr-desc": "Informazioni chiare, ufficiali e strutturate su permessi, lavoro, alloggio, assicurazioni e vita quotidiana in Svizzera.",
+            "nav-articulos": "Articoli",
             "home-banner-alt": "Spagnoli in Svizzera che si aiutano davvero",
             "home-hero-group-cta": "Richiedi accesso alla community",
             "home-hero-whatsapp": "Gruppo WhatsApp",
+            "home-title-situation": "Inizia dalla tua situazione",
+            "home-situation-no-job": "Arrivi senza lavoro",
+            "home-situation-no-job-desc": "Residenza, margine legale e piano di ricerca.",
+            "home-situation-with-contract": "Hai già un contratto",
+            "home-situation-with-contract-desc": "Registrazione, permesso e prime pratiche.",
+            "home-situation-settled": "Vivi già in Svizzera",
+            "home-situation-settled-desc": "Capisci tasse, assicurazioni e vita quotidiana.",
+            "home-title-latest": "Ultimi articoli",
+            "home-desc-latest": "I 4 contenuti più recenti dall’archivio editoriale e della community.",
+            "home-latest-view-all": "Vedi tutti gli articoli",
             "home-tax-topic-label": "Imposta alla fonte",
             "home-consulate-geneva": "Consolato di Ginevra",
             "home-consulate-bern": "Consolato di Berna",
@@ -1273,6 +1328,66 @@ document.addEventListener("DOMContentLoaded", () => {
             </a>`;
     }
 
+    function parseArticleTimestamp(dateValue) {
+        const raw = String(dateValue || "").trim();
+        if (!raw) return 0;
+
+        const nativeParsed = Date.parse(raw);
+        if (!Number.isNaN(nativeParsed)) return nativeParsed;
+
+        const normalized = raw
+            .toLowerCase()
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .replace(/[.,]/g, " ");
+
+        const monthMap = {
+            ene: 0, enero: 0, jan: 0, january: 0, janvier: 0, januar: 0, gennaio: 0, gen: 0,
+            feb: 1, febrero: 1, february: 1, fevrier: 1, fevr: 1, februar: 1, febbraio: 1,
+            mar: 2, marzo: 2, march: 2, mars: 2, marz: 2, maerz: 2,
+            abr: 3, abril: 3, apr: 3, april: 3, avr: 3, avril: 3,
+            may: 4, mayo: 4, mai: 4, maggio: 4, mag: 4,
+            jun: 5, junio: 5, june: 5, juin: 5, juni: 5, giugno: 5, giu: 5,
+            jul: 6, julio: 6, july: 6, juil: 6, juillet: 6, juli: 6, luglio: 6, lug: 6,
+            ago: 7, agosto: 7, aug: 7, august: 7, aout: 7,
+            sep: 8, sept: 8, septiembre: 8, september: 8, septembre: 8, settembre: 8, set: 8,
+            oct: 9, octubre: 9, october: 9, octobre: 9, oktober: 9, ott: 9, ottobre: 9, okt: 9,
+            nov: 10, noviembre: 10, november: 10, novembre: 10,
+            dec: 11, dic: 11, diciembre: 11, december: 11, decembre: 11, dez: 11, dezember: 11
+        };
+
+        const tokens = normalized.match(/[a-z]+|\d+/g) || [];
+        const numbers = [];
+        let month = -1;
+
+        tokens.forEach(token => {
+            if (/^\d+$/.test(token)) {
+                numbers.push(Number(token));
+            } else if (month === -1 && Object.prototype.hasOwnProperty.call(monthMap, token)) {
+                month = monthMap[token];
+            }
+        });
+
+        const year = [...numbers].reverse().find(n => n > 31);
+        if (!year) return 0;
+
+        let day = 1;
+        const yearIndex = numbers.lastIndexOf(year);
+        if (yearIndex > 0) {
+            const maybeDay = numbers.slice(0, yearIndex).find(n => n >= 1 && n <= 31);
+            if (maybeDay) day = maybeDay;
+        }
+
+        return Date.UTC(year, month >= 0 ? month : 0, day);
+    }
+
+    function articleRecencyScore(article) {
+        const timestamp = parseArticleTimestamp(article && article.dateUpdated);
+        const fbMatch = String(article && article.id ? article.id : "").match(/^fb-(\d+)/i);
+        const fbIndex = fbMatch ? Number(fbMatch[1]) : 0;
+        return { timestamp, fbIndex };
+    }
+
     /**
      * Inject Articles into Category Hub Pages
      */
@@ -1451,6 +1566,69 @@ document.addEventListener("DOMContentLoaded", () => {
         container.innerHTML = `
             <div class="featured-grid">
                 ${picked.map(r => renderCard(r, ui)).join('')}
+            </div>
+        `;
+    }
+
+    function injectHomepageLatestArticles() {
+        const container = document.getElementById("home-latest-articles-container");
+        if (!container) return;
+
+        const langArticles = window.siteContent[currentLang] && window.siteContent[currentLang].articles;
+        if (!langArticles) return;
+
+        const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+        const scoreGuideCandidate = (article) => {
+            const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
+            const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
+            const contentLen = article && article.content ? String(article.content).length : 0;
+            return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
+        };
+
+        const allRaw = Object.keys(langArticles)
+            .map(key => ({ id: key, ...langArticles[key] }))
+            .filter(article => article && article.slug);
+
+        const bySlug = new Map();
+        for (const article of allRaw) {
+            const mapKey = article.slug || article.id;
+            const prev = bySlug.get(mapKey);
+            if (!prev) {
+                bySlug.set(mapKey, article);
+                continue;
+            }
+
+            const currentRecency = articleRecencyScore(article);
+            const prevRecency = articleRecencyScore(prev);
+            const currentRank = currentRecency.timestamp * 100000 + currentRecency.fbIndex;
+            const prevRank = prevRecency.timestamp * 100000 + prevRecency.fbIndex;
+
+            if (currentRank > prevRank || (currentRank === prevRank && scoreGuideCandidate(article) > scoreGuideCandidate(prev))) {
+                bySlug.set(mapKey, article);
+            }
+        }
+
+        const latest = Array.from(bySlug.values())
+            .sort((a, b) => {
+                const recencyA = articleRecencyScore(a);
+                const recencyB = articleRecencyScore(b);
+                if (recencyA.timestamp !== recencyB.timestamp) return recencyB.timestamp - recencyA.timestamp;
+                if (recencyA.fbIndex !== recencyB.fbIndex) return recencyB.fbIndex - recencyA.fbIndex;
+                return scoreGuideCandidate(b) - scoreGuideCandidate(a);
+            })
+            .slice(0, 4);
+
+        if (latest.length === 0) {
+            container.innerHTML = `<p style="color: var(--text-light); margin-top: 2rem;">${ui['lbl-no-articles']}</p>`;
+            return;
+        }
+
+        container.innerHTML = `
+            <div class="featured-grid">
+                ${latest.map(article => renderCard(article, ui)).join('')}
+            </div>
+            <div style="margin-top: 1.25rem; text-align: center;">
+                <a href="#/articulos" class="btn btn-secondary">${ui['home-latest-view-all']}</a>
             </div>
         `;
     }
@@ -2309,6 +2487,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 if (routeKey === "home") {
                     injectHomepageFeatured();
+                    injectHomepageLatestArticles();
                 }
             }
 
