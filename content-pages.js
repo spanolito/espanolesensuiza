@@ -449,19 +449,19 @@ window.siteContent.es.pages = {
         }
     },
 
-    "recursos": {
-        title: "Recursos útiles y portales oficiales en Suiza para emigrantes",
-        description: "Listado de recursos y enlaces oficiales para vivir en Suiza: comparadores, portales federales, sitios cantonales y herramientas prácticas.",
+        "recursos": {
+        title: "Recursos oficiales y herramientas utiles para vivir en Suiza",
+        description: "Fuentes oficiales suizas, servicios cantonales, trabajo, salud y herramientas practicas para espanoles en Suiza. Separacion clara entre portales oficiales y servicios privados.",
         isCategoryHub: true,
         get content() {
             const currentLang = localStorage.getItem("lang") || "es";
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
             const formatConsulateDetails = (details) => {
                 const raw = String(details || "");
-                const parts = raw.split(" · ").map(s => s.trim()).filter(Boolean);
+                const parts = raw.split(" \u00b7 ").map(s => s.trim()).filter(Boolean);
                 if (parts.length >= 2) {
                     const phone = parts.pop();
-                    const address = parts.join(" · ");
+                    const address = parts.join(" \u00b7 ");
                     return { address, phone };
                 }
                 return { address: raw, phone: "" };
@@ -469,79 +469,120 @@ window.siteContent.es.pages = {
             const geneva = formatConsulateDetails(ui['home-consulate-geneva-details']);
             const bern = formatConsulateDetails(ui['home-consulate-bern-details']);
             const zurich = formatConsulateDetails(ui['home-consulate-zurich-details']);
+            const badgeOficial = '<span style="font-size:0.65rem;font-weight:700;letter-spacing:0.06em;background:#e8f5e9;color:#2e7d32;padding:3px 9px;border-radius:999px;text-transform:uppercase;white-space:nowrap;">Oficial</span>';
+            const badgePrivado = '<span style="font-size:0.65rem;font-weight:700;letter-spacing:0.06em;background:#fff3e0;color:#e65100;padding:3px 9px;border-radius:999px;text-transform:uppercase;white-space:nowrap;">No oficial</span>';
+            const sectionStyle = 'margin-top: var(--space-xl); padding-top: var(--space-lg); border-top: 1px solid var(--border-light);';
+            const sectionTitleStyle = 'margin-top:0; margin-bottom:0.4rem; font-size:1.35rem;';
+            const sectionDescStyle = 'color:var(--text-secondary); margin-bottom:1.5rem; font-size:0.98rem;';
             return `
             <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
                 <nav class="breadcrumbs">
-                    <a href="#/">${ui['nav-inicio']}</a> > 
-                    <span>${ui['rec-title']}</span>
+                    <a href="#/">${ui['nav-inicio']}</a> &gt;
+                    <span>Recursos</span>
                 </nav>
-                <h1>${ui['rec-h1']}</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">${ui['rec-desc']}</p>
-            </div>
-            
-            <div class="topic-hub-grid">
-                <div class="card-hub">
-                    <h3>ch.ch</h3>
-                    <p>${ui['rec-ch-p']}</p>
-                    <a href="https://www.ch.ch" target="_blank" class="read-more">${ui['rec-ch-link']}</a>
-                </div>
-                <div class="card-hub">
-                    <h3>SEM</h3>
-                    <p>${ui['rec-sem-p']}</p>
-                    <a href="https://www.sem.admin.ch/sem/es/home.html" target="_blank" class="read-more">${ui['rec-sem-link']}</a>
-                </div>
-                <div class="card-hub">
-                    <h3>Comparis</h3>
-                    <p>${ui['rec-comp-p']}</p>
-                    <a href="https://www.comparis.ch" target="_blank" class="read-more">${ui['rec-comp-link']}</a>
-                </div>
+                <h1>Recursos para vivir en Suiza</h1>
+                <p style="font-size: 1.15rem; max-width: 780px; color:var(--text-secondary);">Fuentes oficiales de la Confederacion, servicios cantonales y herramientas practicas. Los enlaces no oficiales estan claramente identificados al final de la pagina.</p>
             </div>
 
-            <section class="animate-fade-up" style="margin-top: var(--space-xl);">
-                <h2 style="margin-top:0;">${ui['lbl-explore-guides']}</h2>
-                <div id="category-articles-container"></div>
-            </section>
-
-            <section id="cantones" class="animate-fade-up" style="margin-top: var(--space-xl);">
-                <h2 style="margin-top:0;">${ui['home-title-cantones']}</h2>
-                <p style="margin-bottom:1.5rem; color:var(--text-secondary);">${ui['home-desc-cantones']}</p>
-                <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem;">
-                    <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovia (AG)</a>
-                    <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell I.Rh. (AI)</a>
-                    <a href="https://www.ar.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell A.Rh. (AR)</a>
-                    <a href="https://www.bs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Ciudad (BS)</a>
-                    <a href="https://www.bl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Campo (BL)</a>
-                    <a href="https://www.be.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Berna (BE)</a>
-                    <a href="https://www.fr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Friburgo (FR)</a>
-                    <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ginebra (GE)</a>
-                    <a href="https://www.gl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Glaris (GL)</a>
-                    <a href="https://www.gr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Grisones (GR)</a>
-                    <a href="https://www.jura.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Jura (JU)</a>
-                    <a href="https://www.lu.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Lucerna (LU)</a>
-                    <a href="https://www.ne.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Neuchâtel (NE)</a>
-                    <a href="https://www.nw.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Nidwalden (NW)</a>
-                    <a href="https://www.ow.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Obwalden (OW)</a>
-                    <a href="https://www.sh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schaffhausen (SH)</a>
-                    <a href="https://www.sz.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schwyz (SZ)</a>
-                    <a href="https://www.so.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Solothurn (SO)</a>
-                    <a href="https://www.sg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">San Galo (SG)</a>
-                    <a href="https://www.tg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Turgovia (TG)</a>
-                    <a href="https://www.ti.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ticino (TI)</a>
-                    <a href="https://www.ur.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Uri (UR)</a>
-                    <a href="https://www.vs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Valais / Wallis (VS)</a>
-                    <a href="https://www.vd.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Vaud (VD)</a>
-                    <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zug (ZG)</a>
-                    <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zúrich (ZH)</a>
+            <!-- SECCION 1: FUENTES OFICIALES FEDERALES -->
+            <section class="animate-fade-up">
+                <h2 style="${sectionTitleStyle}">Fuentes oficiales \u2014 Confederacion Suiza</h2>
+                <p style="${sectionDescStyle}">Portales federales fiables. Validos para tramites, informacion legal y datos estadisticos.</p>
+                <div class="topic-hub-grid">
+                    <div class="card-hub">
+                        <h3>ch.ch ${badgeOficial}</h3>
+                        <p>Portal unico del gobierno suizo. Tramites, informacion para residentes, servicios por canton y formularios.</p>
+                        <a href="https://www.ch.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">Abrir ch.ch</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>SEM ${badgeOficial}</h3>
+                        <p>Secretaria de Estado de Migracion. Permisos de residencia, reagrupacion familiar, nacionalidad y asilo.</p>
+                        <a href="https://www.sem.admin.ch/sem/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir SEM</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>BFS / OFS ${badgeOficial}</h3>
+                        <p>Oficina Federal de Estadistica. Datos oficiales sobre poblacion, salarios, coste de vida y mercado laboral.</p>
+                        <a href="https://www.bfs.admin.ch/bfs/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir BFS</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>ESTV / AFC ${badgeOficial}</h3>
+                        <p>Administracion Federal de Contribuciones. Impuestos federales, IVA, impuesto a la fuente (Quellensteuer).</p>
+                        <a href="https://www.estv.admin.ch/estv/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir ESTV</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>SECO ${badgeOficial}</h3>
+                        <p>Secretaria de Estado de Economia. Desempleo (RAV), condiciones de trabajo, mercado laboral y legislacion laboral.</p>
+                        <a href="https://www.seco.admin.ch" target="_blank" rel="noopener noreferrer" class="read-more">Abrir SECO</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>BSV / OFAS ${badgeOficial}</h3>
+                        <p>Oficina Federal de Seguros Sociales. AHV/AVS (jubilacion), AI (invalidez), subsidios familiares y prestaciones complementarias.</p>
+                        <a href="https://www.bsv.admin.ch/bsv/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir BSV</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>BAG / OFSP ${badgeOficial}</h3>
+                        <p>Oficina Federal de Salud Publica. LAMal, vacunas, recomendaciones sanitarias y regulacion del sistema de salud.</p>
+                        <a href="https://www.bag.admin.ch/bag/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir BAG</a>
+                    </div>
                 </div>
             </section>
 
-            <section style="margin-top: var(--space-xl);">
-                <h2 style="margin-top:0;">${ui['rec-consulates-title']}</h2>
-                <p style="color: var(--text-secondary); margin-bottom: 1.25rem;">
-                    ${ui['rec-consulates-desc']}
-                    <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red); font-weight:600;">${ui['home-consulados-link']}</a>
+            <!-- SECCION 2: SEGURO DE SALUD — PRIMINFO -->
+            <section class="animate-fade-up" style="${sectionStyle}">
+                <h2 style="${sectionTitleStyle}">Seguro de salud \u2014 Comparador oficial de primas</h2>
+                <p style="${sectionDescStyle}">El unico comparador de primas LAMal publicado por la Confederacion. No es un sitio privado.</p>
+                <div class="topic-hub-grid" style="grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));">
+                    <div class="card-hub" style="border-color: #2e7d32; border-width: 2px;">
+                        <h3>priminfo.admin.ch ${badgeOficial}</h3>
+                        <p><strong>Comparador oficial de primas del seguro de salud (LAMal).</strong> Publicado por la Confederacion Suiza. Permite comparar primas por canton, edad y modelo de seguro. Es la referencia legal, no un portal privado.</p>
+                        <a href="https://www.priminfo.admin.ch/es/praemien" target="_blank" rel="noopener noreferrer" class="read-more">Comparar primas (oficial)</a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SECCION 3: TRABAJO Y FORMACION -->
+            <section class="animate-fade-up" style="${sectionStyle}">
+                <h2 style="${sectionTitleStyle}">Trabajo y formacion profesional</h2>
+                <p style="${sectionDescStyle}">Portales federales para empleo, desempleo (RAV), reconocimiento de diplomas y formacion.</p>
+                <div class="topic-hub-grid">
+                    <div class="card-hub">
+                        <h3>travail.swiss ${badgeOficial}</h3>
+                        <p>Portal federal de empleo. Bolsa de trabajo, inscripcion en el RAV, condiciones de desempleo y recursos para la reinsercion laboral.</p>
+                        <a href="https://www.travail.swiss/es" target="_blank" rel="noopener noreferrer" class="read-more">Abrir travail.swiss</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>SEFRI / SERI ${badgeOficial}</h3>
+                        <p>Secretaria de Estado de Educacion, Investigacion e Innovacion. Reconocimiento oficial de diplomas extranjeros y formacion profesional.</p>
+                        <a href="https://www.sefri.admin.ch/sefri/es/home.html" target="_blank" rel="noopener noreferrer" class="read-more">Abrir SEFRI</a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SECCION 4: VIDA PRACTICA -->
+            <section class="animate-fade-up" style="${sectionStyle}">
+                <h2 style="${sectionTitleStyle}">Vida practica</h2>
+                <p style="${sectionDescStyle}">Servicios publicos de uso cotidiano en Suiza.</p>
+                <div class="topic-hub-grid">
+                    <div class="card-hub">
+                        <h3>SBB / CFF ${badgeOficial}</h3>
+                        <p>Ferrocarriles Federales Suizos. Horarios, billetes, abonos (Halbtax, AG), transporte publico nacional e internacional.</p>
+                        <a href="https://www.sbb.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">Abrir SBB.ch</a>
+                    </div>
+                    <div class="card-hub">
+                        <h3>Post / La Poste ${badgeOficial}</h3>
+                        <p>Correos suizos. Envios nacionales e internacionales, cambio de domicilio, servicios financieros PostFinance.</p>
+                        <a href="https://www.post.ch/es" target="_blank" rel="noopener noreferrer" class="read-more">Abrir Post.ch</a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SECCION 5: ESPANA EN SUIZA -->
+            <section class="animate-fade-up" style="${sectionStyle}">
+                <h2 style="${sectionTitleStyle}">Espana en Suiza</h2>
+                <p style="${sectionDescStyle}">
+                    Consulados espanoles para tramites de pasaporte, partidas, empadronamiento consular y documentacion.
+                    <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red); font-weight:600;">Guia completa de consulados</a>
                 </p>
-
                 <div class="topic-hub-grid" style="margin-top: 0;">
                     <div class="card-hub">
                         <h3>${ui['home-consulate-geneva']}</h3>
@@ -558,12 +599,84 @@ window.siteContent.es.pages = {
                         <p>${zurich.address}${zurich.phone ? `<br>${zurich.phone}` : ''}</p>
                         <a href="https://www.exteriores.gob.es/Consulados/zurich" target="_blank" rel="noopener noreferrer" class="read-more">${ui['rec-official-portal']}</a>
                     </div>
+                    <div class="card-hub">
+                        <h3>Ministerio de Asuntos Exteriores ${badgeOficial}</h3>
+                        <p>Gobierno de Espana. Informacion consular, tramites en el exterior, ciudadania y viajes.</p>
+                        <a href="https://www.exteriores.gob.es" target="_blank" rel="noopener noreferrer" class="read-more">Abrir Exteriores.gob.es</a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SECCION 6: SERVICIOS CANTONALES -->
+            <section id="cantones" class="animate-fade-up" style="${sectionStyle}">
+                <h2 style="${sectionTitleStyle}">${ui['home-title-cantones']}</h2>
+                <p style="${sectionDescStyle}">En Suiza, los tramites dependen del canton: permisos, impuestos, escuelas y registro civil los gestiona cada canton por separado. Selecciona el tuyo para acceder directamente a sus servicios.</p>
+                <div class="callout" style="margin-bottom:1.5rem; font-size:0.95rem;">
+                    <strong>Ejemplo \u2014 Ginebra (GE):</strong> El <a href="https://www.ge.ch/organisation/office-cantonal-population-migrations" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">OCPM</a> gestiona los permisos de residencia. El comparador cantonal de primas LAMal esta en <a href="https://www.ge.ch/assurance-maladie" target="_blank" rel="noopener noreferrer" style="color:var(--swiss-red);">ge.ch/assurance-maladie</a>.
+                </div>
+                <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(175px, 1fr)); gap:0.6rem;">
+                    <a href="https://www.ag.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Argovia (AG)</a>
+                    <a href="https://www.ai.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell I.Rh. (AI)</a>
+                    <a href="https://www.ar.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Appenzell A.Rh. (AR)</a>
+                    <a href="https://www.bs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Ciudad (BS)</a>
+                    <a href="https://www.bl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Basilea-Campo (BL)</a>
+                    <a href="https://www.be.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Berna (BE)</a>
+                    <a href="https://www.fr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Friburgo (FR)</a>
+                    <a href="https://www.ge.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ginebra (GE)</a>
+                    <a href="https://www.gl.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Glaris (GL)</a>
+                    <a href="https://www.gr.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Grisones (GR)</a>
+                    <a href="https://www.jura.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Jura (JU)</a>
+                    <a href="https://www.lu.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Lucerna (LU)</a>
+                    <a href="https://www.ne.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Neuchatel (NE)</a>
+                    <a href="https://www.nw.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Nidwalden (NW)</a>
+                    <a href="https://www.ow.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Obwalden (OW)</a>
+                    <a href="https://www.sh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schaffhausen (SH)</a>
+                    <a href="https://www.sz.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Schwyz (SZ)</a>
+                    <a href="https://www.so.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Solothurn (SO)</a>
+                    <a href="https://www.sg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">San Galo (SG)</a>
+                    <a href="https://www.tg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Turgovia (TG)</a>
+                    <a href="https://www.ti.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Ticino (TI)</a>
+                    <a href="https://www.ur.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Uri (UR)</a>
+                    <a href="https://www.vs.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Valais / Wallis (VS)</a>
+                    <a href="https://www.vd.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Vaud (VD)</a>
+                    <a href="https://www.zg.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zug (ZG)</a>
+                    <a href="https://www.zh.ch" target="_blank" rel="noopener noreferrer" class="canton-link">Zurich (ZH)</a>
+                </div>
+            </section>
+
+            <!-- SECCION 7: GUIAS DEL SITIO -->
+            <section class="animate-fade-up" style="${sectionStyle}">
+                <h2 style="${sectionTitleStyle}">${ui['lbl-explore-guides']}</h2>
+                <div id="category-articles-container"></div>
+            </section>
+
+            <!-- SECCION 8: HERRAMIENTAS UTILES (NO OFICIALES) -->
+            <section class="animate-fade-up" style="${sectionStyle}">
+                <h2 style="${sectionTitleStyle}">Herramientas utiles \u2014 no oficiales</h2>
+                <div class="callout" style="margin-bottom:1.5rem; font-size:0.95rem; border-color: #e65100; background: rgba(230,81,0,0.05);">
+                    <strong>Aviso:</strong> Los servicios de esta seccion son herramientas privadas. Son utiles en la practica, pero no son fuentes oficiales del gobierno suizo y no tienen validez legal como referencia para tramites administrativos.
+                </div>
+                <div class="topic-hub-grid">
+                    <div class="card-hub" style="border-color:#e0e0e0;">
+                        <h3>Comparis ${badgePrivado}</h3>
+                        <p>Comparador privado suizo. Permite comparar primas de seguros de salud, seguros de hogar, precios de alquiler y otros servicios. No es fuente oficial. Para primas LAMal oficiales, usa priminfo.admin.ch.</p>
+                        <a href="https://www.comparis.ch" target="_blank" rel="noopener noreferrer" class="read-more">Abrir Comparis.ch</a>
+                    </div>
+                    <div class="card-hub" style="border-color:#e0e0e0;">
+                        <h3>Homegate ${badgePrivado}</h3>
+                        <p>Portal inmobiliario privado. Pisos y casas en alquiler o venta en toda Suiza. Herramienta practica para buscar vivienda, sin validez oficial.</p>
+                        <a href="https://www.homegate.ch" target="_blank" rel="noopener noreferrer" class="read-more">Abrir Homegate.ch</a>
+                    </div>
+                    <div class="card-hub" style="border-color:#e0e0e0;">
+                        <h3>Jobs.ch ${badgePrivado}</h3>
+                        <p>Portal privado de empleo. Ofertas de trabajo en Suiza por sector, canton y idioma. Complementario al portal oficial travail.swiss.</p>
+                        <a href="https://www.jobs.ch" target="_blank" rel="noopener noreferrer" class="read-more">Abrir Jobs.ch</a>
+                    </div>
                 </div>
             </section>
             `;
         }
     },
-
     "articulos": {
         title: "Todos los artículos | Españoles en Suiza",
         description: "Explora y busca entre más de 600 artículos y guías publicadas por la comunidad de Españoles en Suiza.",
