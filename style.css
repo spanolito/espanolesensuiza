@@ -1105,6 +1105,11 @@ strong, b {
     margin-bottom: 1.25rem;
 }
 
+.community-text-measure {
+    max-width: 800px;
+    width: 100%;
+}
+
 .community-intro {
     max-width: 800px;
     margin: 0;
@@ -1113,6 +1118,7 @@ strong, b {
 
 .community-intro .article-body {
     width: 100%;
+    max-width: 800px;
 }
 
 .community-intro .article-body p {

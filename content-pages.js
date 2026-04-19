@@ -1117,7 +1117,7 @@ window.siteContent.es.pages = {
                     <span>${ui['com-nav']}</span>
                 </nav>
                 <h1>${ui['com-h1']}</h1>
-                <p style="font-size: 1.25rem; max-width: 800px;">${ui['com-desc']}</p>
+                <p class="community-text-measure" style="font-size: 1.25rem;">${ui['com-desc']}</p>
             </div>
 
             <section class="article-layout community-intro" style="padding:0; margin-top:0;">
