@@ -1804,7 +1804,7 @@ window.siteContent.fr.articles = {
         hub: 'trabajo',
         slug: "buscar-empleo-suiza",
         readingTime: 4,
-        featuredImage: "media/guides/buscar-empleo-heramientas.jpg",
+        featuredImage: "media/guides/buscar-empleo-heramientas.jpeg",
         imageAlt: "Personne cherchant un emploi en Suisse sur un ordinateur portable",
         summary: "En Suisse, chercher du travail en ligne est efficace via jobs.ch, jobup.ch et indeed.ch. Langage locale important (allemand/français/italien). Postulez rapidement - marché compétitif.",
         content: `

@@ -921,7 +921,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         hub: 'trabajo',
         slug: "cercare-lavoro-svizzera",
         readingTime: 4,
-        featuredImage: "media/guides/buscar-empleo-heramientas.jpg",
+        featuredImage: "media/guides/buscar-empleo-heramientas.jpeg",
         imageAlt: "Persona in cerca di lavoro in Svizzera in un caffè con vista su Zurigo che ripassa il proprio CV",
         summary: 'Il CV in stile svizzero deve includere foto, data di nascita e stato civile. Le piattaforme più utilizzate sono Jobup, Jobs.ch e LinkedIn.',
         content: `

@@ -1106,7 +1106,7 @@ window.siteContent.es.articles = {
         hub: 'trabajo',
         slug: "buscar-empleo-suiza",
         readingTime: 4,
-        featuredImage: "media/guides/buscar-empleo-heramientas.jpg",
+        featuredImage: "media/guides/buscar-empleo-heramientas.jpeg",
         imageAlt: "Persona buscando trabajo en Suiza en un café con vistas a Zúrich repasando su CV",
         summary: 'El CV al estilo suizo debe incluir foto, fecha de nacimiento y estado civil. Las plataformas más usadas son Jobup, Jobs.ch y LinkedIn.',
         content: `
