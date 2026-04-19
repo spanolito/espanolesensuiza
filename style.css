@@ -1133,6 +1133,7 @@ strong, b {
     background: var(--bg-surface);
     border: 1px solid var(--border-light);
     border-radius: var(--radius-md);
+    text-align: center;
 }
 
 .community-team-panel h2 {
@@ -1143,6 +1144,7 @@ strong, b {
 .community-team-grid {
     display: grid;
     gap: 0.8rem;
+    justify-items: center;
 }
 
 .community-team-group h3 {
@@ -1161,6 +1163,7 @@ strong, b {
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
+    justify-content: center;
     gap: 0.35rem;
 }
 
@@ -1202,6 +1205,7 @@ strong, b {
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
+    justify-content: center;
     gap: 0.45rem 0.65rem;
 }
 
