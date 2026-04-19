@@ -70,6 +70,26 @@ window.siteContent.es.pages = {
                 <p style="color: var(--color-primary, #c8102e); font-size:1rem; font-weight:500; text-align:center; margin:0; max-width:600px; margin-left:auto; margin-right:auto;">
                     ${ui['home-hero-sub'] || 'Información práctica, verificada y directamente explotable sobre permisos, trabajo, vivienda, fiscalidad y vida diaria.'}
                 </p>
+
+                <!-- STATS STRIP -->
+                <div class="stats-strip animate-fade-up">
+                    <div class="stat-item">
+                        <span class="stat-number">80k+</span>
+                        <span class="stat-label">${ui['home-stats-community']}</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">45+</span>
+                        <span class="stat-label">${ui['home-stats-guides']}</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">4</span>
+                        <span class="stat-label">${ui['home-stats-languages']}</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">26</span>
+                        <span class="stat-label">${ui['home-stats-cantons']}</span>
+                    </div>
+                </div>
             </section>
 
             <section class="animate-fade-up delay-050" style="margin-top: var(--space-lg);">
@@ -92,32 +112,6 @@ window.siteContent.es.pages = {
                     </a>
                 </div>
             </section>
-
-            <section class="animate-fade-up delay-075" style="margin-top: var(--space-xl);">
-                <h2>${ui['home-title-latest']}</h2>
-                <p style="margin-bottom:2rem; color: var(--text-secondary);">${ui['home-desc-latest']}</p>
-                <div id="home-latest-articles-container"></div>
-            </section>
-
-            <!-- STATS STRIP -->
-            <div class="stats-strip animate-fade-up">
-                <div class="stat-item">
-                    <span class="stat-number">80k+</span>
-                    <span class="stat-label">Miembros comunidad</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-number">45+</span>
-                    <span class="stat-label">Guías publicadas</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-number">4</span>
-                    <span class="stat-label">Idiomas</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-number">26</span>
-                    <span class="stat-label">Cantones cubiertos</span>
-                </div>
-            </div>
 
             <!-- SECCIÓN 1: Empezar aquí -->
             <section class="animate-fade-up delay-100" style="margin-top: var(--space-xl);">
@@ -157,6 +151,12 @@ window.siteContent.es.pages = {
                 <h2>${ui['home-title-featured']}</h2>
                 <p style="margin-bottom:2rem; color: var(--text-secondary);">${ui['home-desc-featured']}</p>
                 <div id="home-featured-guides-container"></div>
+            </section>
+
+            <section class="animate-fade-up delay-075" style="margin-top: var(--space-xl);">
+                <h2>${ui['home-title-latest']}</h2>
+                <p style="margin-bottom:2rem; color: var(--text-secondary);">${ui['home-desc-latest']}</p>
+                <div id="home-latest-articles-container"></div>
             </section>
 
             <!-- SECCIÓN 2: Fuentes oficiales -->
