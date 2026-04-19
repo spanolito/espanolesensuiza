@@ -44,16 +44,20 @@ while ((match = regex.exec(histData)) !== null) {
     let fbUrl = match[3];
     const dateStr = match[4];
 
-    if (!fbUrl.includes('/groups/')) {
-        fbUrl = '';
-    }
-
     const cleanTitle = title.replace(/[#*]/g, '').trim();
     const slug = `fb-${num}-${generateSlug(cleanTitle)}`;
     const { hub, category } = classifyHub(cleanTitle);
 
+    let finalFbUrl = fbUrl;
+    let isSearch = false;
+    if (!fbUrl.includes('/groups/')) {
+        const safeSearchTerm = encodeURIComponent(cleanTitle.substring(0, 50));
+        finalFbUrl = `https://www.facebook.com/groups/1560239407529680/search/?q=${safeSearchTerm}`;
+        isSearch = true;
+    }
+
     const safeTitle = cleanTitle.replace(/'/g, "\\'").replace(/"/g, '\\"');
-    const content = `<div class="article-content">\n  <div class="callout info">\n    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.\n  </div>\n</div>`;
+    const content = `<div class="article-content">\n  <p><strong>Resumen extraído:</strong> ${safeTitle}...</p>\n  <div class="callout info">\n    <strong>Nota histórica:</strong> Debido al formato de exportación, solo pudimos recuperar este fragmento introductorio. Puedes usar el botón de abajo para buscar el post completo directamente en el grupo de Facebook.\n  </div>\n</div>`;
 
     const code = `\n    "${slug}": {
         title: "${safeTitle}",
@@ -64,8 +68,9 @@ while ((match = regex.exec(histData)) !== null) {
         slug: "${slug}",
         readingTime: 2,
         dateUpdated: "${dateStr}",
-        facebookUrl: "${fbUrl}",
-        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        facebookUrl: "${finalFbUrl}",
+        isFbSearch: ${isSearch},
+        summary: "Accede al contenido completo discutido por la comunidad buscando el fragmento original.",
         content: \`${content}\`
     },`;
     
