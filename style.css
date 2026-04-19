@@ -1674,45 +1674,14 @@ textarea.form-control {
     letter-spacing: -0.02em;
 }
 
-/* Newsletter inline */
-.footer-newsletter {
-    display: flex;
-    gap: 0;
+.footer-community-cta {
     margin-top: 1rem;
+    margin-bottom: 0;
     max-width: 320px;
+    color: #bcbcbc;
+    font-size: 0.95rem;
+    line-height: 1.6;
 }
-
-.footer-newsletter input {
-    flex: 1;
-    padding: 0.65rem 1rem;
-    border: 1px solid #333;
-    border-right: none;
-    border-radius: var(--radius-sm) 0 0 var(--radius-sm);
-    background: #1a1a1a;
-    color: #ffffff;
-    font-family: inherit;
-    font-size: 0.875rem;
-    outline: none;
-}
-
-.footer-newsletter input::placeholder { color: #555; }
-.footer-newsletter input:focus { border-color: #555; }
-
-.footer-newsletter button {
-    padding: 0.65rem 1rem;
-    background: var(--swiss-red);
-    color: white;
-    border: none;
-    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
-    font-size: 0.875rem;
-    font-weight: 600;
-    cursor: pointer;
-    white-space: nowrap;
-    transition: background var(--transition-fast);
-    font-family: inherit;
-}
-
-.footer-newsletter button:hover { background: var(--swiss-red-hover); }
 
 /* Réseaux sociaux */
 .footer-social {
