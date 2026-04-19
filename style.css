@@ -1102,6 +1102,9 @@ strong, b {
 }
 
 .community-page-header {
+    max-width: 860px;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 1.25rem;
 }
 
@@ -1125,7 +1128,7 @@ strong, b {
 
 .community-team-section {
     max-width: 860px;
-    margin: 2.25rem auto 3.25rem;
+    margin: 2.25rem auto 4.5rem;
 }
 
 .community-team-panel {
@@ -1220,7 +1223,7 @@ strong, b {
 
     .community-team-section {
         margin-top: 1.75rem;
-        margin-bottom: 2.25rem;
+        margin-bottom: 3rem;
     }
 
     .community-team-panel {
