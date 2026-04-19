@@ -1207,13 +1207,20 @@ document.addEventListener("DOMContentLoaded", () => {
                         const getRank = (art) => {
                             const hasImg = !!art.image || !!art.featuredImage;
                             const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
-                            if (hasImg && !isFb) return 3;
+                            const rt = Number(art.readingTime) || 0;
+                            const contentLen = art.content ? String(art.content).length : 0;
+                            const isRich = rt >= 5 || contentLen > 3000;
+                            if (!isFb && hasImg && isRich) return 4;
+                            if (!isFb && hasImg) return 3;
                             if (!isFb) return 2;
                             return 1;
                         };
                         const rankA = getRank(a);
                         const rankB = getRank(b);
                         if (rankA !== rankB) return rankB - rankA;
+                        const richA = (Number(a.readingTime) || 0) * 1000 + (a.content ? String(a.content).length : 0);
+                        const richB = (Number(b.readingTime) || 0) * 1000 + (b.content ? String(b.content).length : 0);
+                        if (richA !== richB) return richB - richA;
                         return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
                     });
 
@@ -1301,13 +1308,20 @@ document.addEventListener("DOMContentLoaded", () => {
                 const getRank = (art) => {
                     const hasImg = !!art.image || !!art.featuredImage;
                     const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
-                    if (hasImg && !isFb) return 3;
+                    const rt = Number(art.readingTime) || 0;
+                    const contentLen = art.content ? String(art.content).length : 0;
+                    const isRich = rt >= 5 || contentLen > 3000;
+                    if (!isFb && hasImg && isRich) return 4;
+                    if (!isFb && hasImg) return 3;
                     if (!isFb) return 2;
                     return 1;
                 };
                 const rankA = getRank(a);
                 const rankB = getRank(b);
                 if (rankA !== rankB) return rankB - rankA;
+                const richA = (Number(a.readingTime) || 0) * 1000 + (a.content ? String(a.content).length : 0);
+                const richB = (Number(b.readingTime) || 0) * 1000 + (b.content ? String(b.content).length : 0);
+                if (richA !== richB) return richB - richA;
                 return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
             });
 
@@ -1354,13 +1368,20 @@ document.addEventListener("DOMContentLoaded", () => {
                 const getRank = (art) => {
                     const hasImg = !!art.image || !!art.featuredImage;
                     const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
-                    if (hasImg && !isFb) return 3;
+                    const rt = Number(art.readingTime) || 0;
+                    const contentLen = art.content ? String(art.content).length : 0;
+                    const isRich = rt >= 5 || contentLen > 3000;
+                    if (!isFb && hasImg && isRich) return 4;
+                    if (!isFb && hasImg) return 3;
                     if (!isFb) return 2;
                     return 1;
                 };
                 const rankA = getRank(a);
                 const rankB = getRank(b);
                 if (rankA !== rankB) return rankB - rankA;
+                const richA = (Number(a.readingTime) || 0) * 1000 + (a.content ? String(a.content).length : 0);
+                const richB = (Number(b.readingTime) || 0) * 1000 + (b.content ? String(b.content).length : 0);
+                if (richA !== richB) return richB - richA;
                 return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
             });
 
