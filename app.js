@@ -1105,11 +1105,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let currentLang = localStorage.getItem("lang") || "es";
     document.documentElement.lang = currentLang;
-    const SCAM_WARNING_KEY = "scam_warning_seen";
-    const SCAM_WARNING_TIMESTAMP_KEY = "scam_warning_seen_at";
-    const SCAM_WARNING_TTL_MS = 30 * 24 * 60 * 60 * 1000;
+    const SCAM_WARNING_TIMESTAMP_KEY = "fraudWarningLastShown";
+    const SCAM_WARNING_TTL_MS = 10 * 24 * 60 * 60 * 1000;
     let scamWarningModal = null;
-    let scamWarningCheckedThisSession = false;
 
     function applyLanguage(lang) {
         if (!lang || !window.siteContent[lang]) return false;
@@ -1168,21 +1166,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function markScamWarningSeen() {
         try {
-            localStorage.setItem(SCAM_WARNING_KEY, "true");
             localStorage.setItem(SCAM_WARNING_TIMESTAMP_KEY, String(Date.now()));
         } catch (error) {
             // localStorage can fail in private modes; ignore and continue.
         }
     }
 
-    function hasSeenScamWarning() {
+    function shouldShowScamWarning() {
         try {
-            if (localStorage.getItem(SCAM_WARNING_KEY) !== "true") return false;
             const seenAt = Number(localStorage.getItem(SCAM_WARNING_TIMESTAMP_KEY));
             if (!Number.isFinite(seenAt)) return true;
-            return (Date.now() - seenAt) < SCAM_WARNING_TTL_MS;
+            return (Date.now() - seenAt) >= SCAM_WARNING_TTL_MS;
         } catch (error) {
-            return false;
+            return true;
         }
     }
 
@@ -1274,8 +1270,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function maybeShowScamWarning() {
-        if (scamWarningCheckedThisSession || hasSeenScamWarning()) return;
-        scamWarningCheckedThisSession = true;
+        if (!shouldShowScamWarning()) return;
         const modal = ensureScamWarningModal();
         modal.classList.add("is-visible");
         modal.setAttribute("aria-hidden", "false");
