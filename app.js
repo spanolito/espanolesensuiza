@@ -24,8 +24,8 @@ document.addEventListener("DOMContentLoaded", () => {
     if (yearSpan) yearSpan.textContent = new Date().getFullYear();
 
     // UI Dictionary for static strings and JS generated elements
-        window.siteContent.ui = {
-            es: {
+    window.siteContent.ui = {
+        es: {
             "nav-inicio": "Inicio",
             "nav-vivir": "Vivir en Suiza",
             "nav-tramites": "Trámites",
@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "footer-source-bfs-link": "OFS / BFS — Estadística",
             "footer-source-seco-link": "SECO — Economía",
             "footer-link-consulates": "Consulados españoles",
-	            "footer-copyright": "Españoles en Suiza. Información con propósito comunitario.",
+            "footer-copyright": "Españoles en Suiza. Información con propósito comunitario.",
             "search-placeholder": "Buscar guías, trámites, impuestos...",
             "btn-read-guide": "Leer guía &rarr;",
             "btn-view-all": "Ver todas las guías de la sección",
@@ -184,7 +184,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "cont-success": "¡Gracias! Tu mensaje ha sido enviado.",
             "cont-error": "Hubo un error al enviar el formulario. Por favor, inténtalo de nuevo."
         },
-            en: {
+        en: {
             "nav-inicio": "Home",
             "nav-vivir": "Living in Switzerland",
             "nav-tramites": "Procedures",
@@ -350,7 +350,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "cont-success": "Thank you! Your message has been sent.",
             "cont-error": "There was an error sending the form. Please try again."
         },
-            fr: {
+        fr: {
             "nav-inicio": "Accueil",
             "nav-vivir": "Vivre en Suisse",
             "nav-tramites": "Démarches",
@@ -509,7 +509,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "cont-success": "Merci ! Votre message a été envoyé.",
             "cont-error": "Une erreur s'est produite. Veuillez réessayer."
         },
-            de: {
+        de: {
             "nav-inicio": "Startseite",
             "nav-vivir": "Leben in der Schweiz",
             "nav-tramites": "Verfahren",
@@ -668,7 +668,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "cont-success": "Vielen Dank! Ihre Nachricht wurde gesendet.",
             "cont-error": "Beim Senden ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
         },
-            it: {
+        it: {
             "nav-inicio": "Inizio",
             "nav-vivir": "Vivere in Svizzera",
             "nav-tramites": "Procedure",
@@ -1150,7 +1150,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 el.innerHTML = ui[key];
             }
         });
-        
+
         // Update Search input placeholder
         const searchInput = document.getElementById('global-search');
         if (searchInput) {
@@ -1299,7 +1299,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const scrollPercent = (window.scrollY / documentHeight) * 100;
             readingProgressBar.style.width = scrollPercent + "%";
         }
-        
+
         // Back to top visibility
         const backToTop = document.getElementById('back-to-top-btn');
         if (backToTop) {
@@ -1352,9 +1352,9 @@ document.addEventListener("DOMContentLoaded", () => {
             toggle.addEventListener("click", (e) => {
                 e.preventDefault();
                 e.stopPropagation();
-                
+
                 const isOpen = dropdown.classList.contains("open");
-                
+
                 // Close other open dropdowns
                 document.querySelectorAll(".dropdown.open").forEach(other => {
                     if (other !== dropdown) {
@@ -1413,7 +1413,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Set active button on load and update display
     const currentLangDisplay = document.getElementById("current-lang-display");
     langBtns.forEach(b => {
-        if(b.getAttribute("data-lang") === currentLang) {
+        if (b.getAttribute("data-lang") === currentLang) {
             b.classList.add("active");
             if (currentLangDisplay) currentLangDisplay.textContent = currentLang.toUpperCase();
         } else {
@@ -1564,11 +1564,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // ── Helper: article card with image, hub badge, meta ──────
     function renderCard(r, ui, opts = {}) {
-        const hub     = r.hub || '';
-        const slug    = r.slug || ('articulo/' + (r.id || ''));
-        const img     = r.featuredImage ? r.featuredImage + '?v=1776395259' : null;
-        const rt      = r.readingTime || 0;
-        const date    = r.dateUpdated || '';
+        const hub = r.hub || '';
+        const slug = r.slug || ('articulo/' + (r.id || ''));
+        const img = r.featuredImage ? r.featuredImage + '?v=1776395259' : null;
+        const rt = r.readingTime || 0;
+        const date = r.dateUpdated || '';
         const summary = r.summary || r.description || '';
         const compact = opts.compact || false;
         const hubLabels = {
@@ -1875,11 +1875,11 @@ document.addEventListener("DOMContentLoaded", () => {
         const langArticles = window.siteContent[currentLang] && window.siteContent[currentLang].articles;
         if (!langArticles) return;
 
-	        const featuredSlugs = [
-	            "tramites-llegada-suiza",
-	            "seguro-medico-lamal-suiza",
-	            "alquilar-vivienda-suiza"
-	        ];
+        const featuredSlugs = [
+            "tramites-llegada-suiza",
+            "seguro-medico-lamal-suiza",
+            "alquilar-vivienda-suiza"
+        ];
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
         const scoreGuideCandidate = (article) => {
@@ -2482,13 +2482,13 @@ document.addEventListener("DOMContentLoaded", () => {
         // Handle Home
         if (cleanPath === "/" || cleanPath === "") {
             routeKey = "home";
-        } 
+        }
         // Handle Articles (Legacy /articulo/ path)
         else if (cleanPath.startsWith("/articulo/")) {
             routeKey = cleanPath.replace("/articulo/", "");
             pageData = langData.articles[routeKey];
             isArticle = true;
-        } 
+        }
         // Handle Category Hubs or Static Pages
         else if (cleanPath.startsWith("/")) {
             routeKey = cleanPath.substring(1);
@@ -2540,7 +2540,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const langData = window.siteContent[currentLang] || window.siteContent['es'];
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
         const baseUrl = "https://www.espanolesensuiza.ch";
-        
+
         let resolvedTitle = pageData.title || "";
         let resolvedDescription = pageData.description || pageData.summary || "";
 
@@ -2627,7 +2627,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // 3. Update Meta Description and Keywords
         const metaDesc = document.getElementById("meta-description");
         if (metaDesc) metaDesc.setAttribute("content", resolvedDescription);
-        
+
         const metaKeywords = document.getElementById("meta-keywords");
         if (metaKeywords) {
             const hasLocalizedKeywords = Boolean(pageData && pageData.keywords && pageData.keywordsLocalized);
@@ -2645,7 +2645,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const ogUrl = document.getElementById("og-url");
         if (ogUrl) ogUrl.setAttribute("content", fullUrl);
-        
+
         const ogDesc = document.getElementById("og-description");
         if (ogDesc) ogDesc.setAttribute("content", resolvedDescription);
 
@@ -2724,7 +2724,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         return String(langArticles[a].title || "").localeCompare(String(langArticles[b].title || ""), undefined, { sensitivity: "base" });
                     })
                     .slice(0, 3);
-                
+
                 let relatedHTML = '';
                 if (relatedKeys.length > 0) {
                     relatedHTML = `
@@ -2732,9 +2732,9 @@ document.addEventListener("DOMContentLoaded", () => {
                             <h3>${ui['lbl-explore']} ${pageData.category || pageData.hub}</h3>
                             <div class="featured-grid" style="margin-top: 2rem; margin-bottom: 2rem;">
                                 ${relatedKeys.map(k => {
-                                    const r = langData.articles[k];
-                                    return renderCard({ ...r, id: k }, ui, { compact: false });
-                                }).join('')}
+                        const r = langData.articles[k];
+                        return renderCard({ ...r, id: k }, ui, { compact: false });
+                    }).join('')}
                             </div>
                             <a href="#/${pageData.hub}" class="btn btn-secondary" style="width: 100%;">${ui['btn-view-all']}</a>
                         </div>
@@ -2753,7 +2753,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 progressBarContainer.style.display = "block";
                 readingProgressBar.style.width = "0%";
 
-	                appContainer.innerHTML = `
+                appContainer.innerHTML = `
 	                    <div class="article-layout fade-in-up">
 	                        <main>
 	                            <article>
@@ -2808,8 +2808,8 @@ document.addEventListener("DOMContentLoaded", () => {
                     </div>
 	                `;
 
-                    postProcessArticleDOM(appContainer.querySelector("article"), pageData, routeKey);
-	            } else {
+                postProcessArticleDOM(appContainer.querySelector("article"), pageData, routeKey);
+            } else {
                 progressBarContainer.style.display = "none";
                 appContainer.innerHTML = `<div class="fade-in-up">${pageData.content}</div>`;
 
@@ -2915,4 +2915,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Initial load
     renderRoute();
+    function trackPageView() {
+        if (typeof gtag === "function") {
+            gtag("config", "G-2L9BFDH7DS", {
+                page_path: window.location.hash || "/"
+            });
+        }
+    }
+
+    window.addEventListener("hashchange", trackPageView);
+    window.addEventListener("load", trackPageView);
 });
