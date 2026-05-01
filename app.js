@@ -1562,7 +1562,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     const audienceMatch = filterAudience === '' || article.audience === filterAudience;
 
                     return termMatch && audienceMatch;
-                }).map(key => ({ id: key, ...langData[key] })).filter(a => a && a.slug);
+                }).map(key => ({ id: key, ...langData[key] })).filter(a => a && a.slug && hasValidTitle(a));
 
                 // Deduplicate by slug (avoid duplicated guides from different pipelines).
                 const scoreGuideCandidate = (article) => {
@@ -1616,6 +1616,13 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // ── Helper: article card with image, hub badge, meta ──────
+    const UNTITLED_RE = /^\s*\(?(untitled|sans[\s-]titre|ohne\s+titel|senza\s+titolo|sin\s+t[ií]tulo)\)?\s*$/i;
+
+    function hasValidTitle(article) {
+        const t = String(article && article.title || '').trim();
+        return t.length > 0 && !UNTITLED_RE.test(t);
+    }
+
     function stripMarkdown(str) {
         return String(str || '')
             .replace(/#{1,6}\s*/g, '')
@@ -1808,7 +1815,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const hubArticlesRaw = Object.keys(langData)
             .filter(key => langData[key].hub === hubKey)
             .map(key => ({ id: key, ...langData[key] }))
-            .filter(a => a && a.slug);
+            .filter(a => a && a.slug && hasValidTitle(a));
 
         // Deduplicate by slug (some pipelines may generate duplicates). Keep the most complete candidate.
         const bySlug = new Map();
@@ -1869,7 +1876,7 @@ document.addEventListener("DOMContentLoaded", () => {
             return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
         };
 
-        const allRaw = Object.keys(langData).map(key => ({ id: key, ...langData[key] })).filter(a => a && a.slug);
+        const allRaw = Object.keys(langData).map(key => ({ id: key, ...langData[key] })).filter(a => a && a.slug && hasValidTitle(a));
 
         const bySlug = new Map();
         for (const a of allRaw) {
