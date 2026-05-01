@@ -1616,6 +1616,16 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // ── Helper: article card with image, hub badge, meta ──────
+    function stripMarkdown(str) {
+        return String(str || '')
+            .replace(/#{1,6}\s*/g, '')
+            .replace(/\*\*([^*]*)\*\*/g, '$1')
+            .replace(/\*([^*]*)\*/g, '$1')
+            .replace(/`([^`]*)`/g, '$1')
+            .replace(/\s{2,}/g, ' ')
+            .trim();
+    }
+
     function renderCard(r, ui, opts = {}) {
         const hub = r.hub || '';
         const slug = r.slug || ('articulo/' + (r.id || ''));
@@ -1630,8 +1640,9 @@ document.addEventListener("DOMContentLoaded", () => {
             fronterizos: 'Fronterizos', recursos: 'Recursos'
         };
         const badgeLabel = hubLabels[hub] || (r.category || hub);
+        const cleanTitle = stripMarkdown(r.title);
         const thumbHTML = (img && !compact)
-            ? `<img class="card-article-thumb" src="${img}" alt="${r.title || ''}" loading="lazy" onerror="this.style.display='none'">`
+            ? `<img class="card-article-thumb" src="${img}" alt="${cleanTitle}" loading="lazy" onerror="this.style.display='none'">`
             : '';
         const footerHTML = (rt || date) ? `
             <div class="card-article-footer">
@@ -1643,7 +1654,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 ${thumbHTML}
                 <div class="card-article-body">
                     <span class="hub-badge" data-hub="${hub}">${badgeLabel}</span>
-                    <h3>${r.title || ''}</h3>
+                    <h3>${cleanTitle}</h3>
                     ${summary && !compact ? `<p>${summary}</p>` : ''}
                     ${footerHTML}
                 </div>
@@ -2594,7 +2605,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
         const baseUrl = "https://www.espanolesensuiza.ch";
 
-        let resolvedTitle = pageData.title || "";
+        let resolvedTitle = stripMarkdown(pageData.title || "");
         let resolvedDescription = pageData.description || pageData.summary || "";
 
         if (isArticle) {
@@ -2756,7 +2767,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         <div class="callout info" style="margin-top: 1.5rem;">
                             <strong>${ui['lbl-related']}</strong>
                             <ul style="margin-top: 0.75rem;">
-                                ${explicitRelatedItems.map(r => `<li><a href="#/${r.slug}">${r.title}</a></li>`).join('')}
+                                ${explicitRelatedItems.map(r => `<li><a href="#/${r.slug}">${stripMarkdown(r.title)}</a></li>`).join('')}
                             </ul>
                         </div>
                     `
@@ -2812,11 +2823,11 @@ document.addEventListener("DOMContentLoaded", () => {
 	                            <article>
 	                                <div class="article-header">
                                     <nav class="breadcrumbs">
-                                        <a href="#/">${ui['nav-inicio']}</a> > 
-                                        <a href="#/${pageData.hub || ''}">${pageData.category || ui['lbl-guides']}</a> > 
-                                        <span>${pageData.title}</span>
+                                        <a href="#/">${ui['nav-inicio']}</a> >
+                                        <a href="#/${pageData.hub || ''}">${pageData.category || ui['lbl-guides']}</a> >
+                                        <span>${stripMarkdown(pageData.title)}</span>
                                     </nav>
-                                    <h1>${pageData.title}</h1>
+                                    <h1>${stripMarkdown(pageData.title)}</h1>
 	                                    <div class="article-meta">
 	                                        <span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> ${readingTime} ${ui['lbl-read-time']}</span>
 	                                        ${pageData.dateUpdated ? `<span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> ${ui['lbl-updated']} ${pageData.dateUpdated}</span>` : ''}
