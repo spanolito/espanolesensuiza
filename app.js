@@ -1571,12 +1571,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Search Logic
         const searchInput = document.getElementById('global-search');
+        const sortSelect = document.getElementById('global-search-sort');
+
         if (searchInput) {
-            searchInput.addEventListener('input', (e) => {
-                const term = e.target.value.toLowerCase().trim();
+            const updateSearch = () => {
+                const term = searchInput.value.toLowerCase().trim();
                 const displayArea = document.getElementById('search-results');
+                const sortMode = sortSelect ? sortSelect.value : 'relevancia';
                 const newsKeywords = ['nuevo', 'nouveau', 'new', 'neu', 'nuovo', 'novedad', 'novedades'];
-                const isNewsSearch = newsKeywords.includes(term);
+                const isNewsSearch = newsKeywords.includes(term) || sortMode === 'recientes';
 
                 if (term.length < 3 && !isNewsSearch) {
                     displayArea.innerHTML = '';
@@ -1587,27 +1590,25 @@ document.addEventListener("DOMContentLoaded", () => {
                 const filterAudience = document.getElementById('search-filter-audience') ? document.getElementById('search-filter-audience').value : '';
 
                 let resultsRaw = [];
-                if (isNewsSearch) {
-                    // Show articles sorted by date
+                if (isNewsSearch && !term) {
+                    // Show all articles sorted by date if term is empty but "recent" is selected
+                    resultsRaw = Object.keys(langData).map(key => ({ id: key, ...langData[key] }));
+                } else if (isNewsSearch && newsKeywords.includes(term)) {
                     resultsRaw = Object.keys(langData).map(key => ({ id: key, ...langData[key] }));
                 } else {
                     resultsRaw = Object.keys(langData).filter(key => {
                         const article = langData[key];
-
                         const termMatch = (article.title && article.title.toLowerCase().includes(term)) ||
                             (article.keywords && article.keywords.toLowerCase().includes(term)) ||
                             (article.description && article.description.toLowerCase().includes(term)) ||
                             (article.summary && article.summary.toLowerCase().includes(term));
-
                         const audienceMatch = filterAudience === '' || article.audience === filterAudience;
-
                         return termMatch && audienceMatch;
                     }).map(key => ({ id: key, ...langData[key] }));
                 }
                 
                 resultsRaw = resultsRaw.filter(a => a && a.slug && hasValidTitle(a));
 
-                // Deduplicate by slug (avoid duplicated guides from different pipelines).
                 const scoreGuideCandidate = (article) => {
                     const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
                     const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
@@ -1624,46 +1625,51 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 const results = Array.from(bySlug.values())
                     .sort((a, b) => {
-                        if (isNewsSearch) {
+                        if (sortMode === 'recientes' || (isNewsSearch && newsKeywords.includes(term))) {
                             const recA = articleRecencyScore(a);
                             const recB = articleRecencyScore(b);
                             if (recB.timestamp !== recA.timestamp) return recB.timestamp - recA.timestamp;
                             if (recB.fbIndex !== recA.fbIndex) return recB.fbIndex - recA.fbIndex;
                             return scoreGuideCandidate(b) - scoreGuideCandidate(a);
+                        } else if (sortMode === 'abc') {
+                            return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
+                        } else {
+                            const getRank = (art) => {
+                                const hasImg = !!art.image || !!art.featuredImage;
+                                const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
+                                const rt = Number(art.readingTime) || 0;
+                                const contentLen = art.content ? String(art.content).length : 0;
+                                const isRich = rt >= 5 || contentLen > 3000;
+                                if (!isFb && hasImg && isRich) return 4;
+                                if (!isFb && hasImg) return 3;
+                                if (!isFb) return 2;
+                                return 1;
+                            };
+                            const rankA = getRank(a);
+                            const rankB = getRank(b);
+                            if (rankA !== rankB) return rankB - rankA;
+                            const richA = (Number(a.readingTime) || 0) * 1000 + (a.content ? String(a.content).length : 0);
+                            const richB = (Number(b.readingTime) || 0) * 1000 + (b.content ? String(b.content).length : 0);
+                            return richB - richA;
                         }
-                        const getRank = (art) => {
-                            const hasImg = !!art.image || !!art.featuredImage;
-                            const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
-                            const rt = Number(art.readingTime) || 0;
-                            const contentLen = art.content ? String(art.content).length : 0;
-                            const isRich = rt >= 5 || contentLen > 3000;
-                            if (!isFb && hasImg && isRich) return 4;
-                            if (!isFb && hasImg) return 3;
-                            if (!isFb) return 2;
-                            return 1;
-                        };
-                        const rankA = getRank(a);
-                        const rankB = getRank(b);
-                        if (rankA !== rankB) return rankB - rankA;
-                        const richA = (Number(a.readingTime) || 0) * 1000 + (a.content ? String(a.content).length : 0);
-                        const richB = (Number(b.readingTime) || 0) * 1000 + (b.content ? String(b.content).length : 0);
-                        if (richA !== richB) return richB - richA;
-                        return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
                     });
 
                 const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
                 if (results.length > 0) {
-                    const finalResults = isNewsSearch ? results.slice(0, 24) : results;
+                    const finalResults = (sortMode === 'recientes' || isNewsSearch) ? results.slice(0, 24) : results.slice(0, 30);
                     displayArea.innerHTML = `
-                        ${isNewsSearch ? `<h3 style="margin-top:2rem; border-bottom:none;">${ui['home-title-latest']}</h3>` : ''}
+                        ${(sortMode === 'recientes' || (isNewsSearch && newsKeywords.includes(term))) ? `<h3 style="margin-top:2rem; border-bottom:none;">${ui['home-title-latest']}</h3>` : ''}
                         <div class="featured-grid" style="margin-top: 1rem;">
-                            ${finalResults.map(r => renderCard(r, ui, { compact: true, showBadge: isNewsSearch })).join('')}
+                            ${finalResults.map(r => renderCard(r, ui, { compact: true, showBadge: (sortMode === 'recientes' || isNewsSearch) })).join('')}
                         </div>
                     `;
                 } else {
                     displayArea.innerHTML = `<p style="margin-top:2rem;">${ui['lbl-no-results']} "${term}".</p>`;
                 }
-            });
+            };
+
+            searchInput.addEventListener('input', updateSearch);
+            if (sortSelect) sortSelect.addEventListener('change', updateSearch);
         }
     }
 

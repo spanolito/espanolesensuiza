@@ -45,10 +45,19 @@ window.siteContent.es.pages = {
                 </div>
 
                 <!-- Barre de recherche -->
-                <div class="search-container">
-                    <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-                    <input type="text" id="global-search" class="search-input" placeholder="${ui['search-placeholder']}" autocomplete="off">
-                    <div id="search-results"></div>
+                <div style="display:flex; gap:0.75rem; align-items:center; flex-wrap:wrap; margin-bottom: 2rem;">
+                    <div class="search-container" style="flex: 1; min-width: 280px; margin-bottom: 0;">
+                        <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                        <input type="text" id="global-search" class="search-input" placeholder="${ui['search-placeholder']}" autocomplete="off">
+                        <div id="search-results"></div>
+                    </div>
+                    <div>
+                        <select id="global-search-sort" style="padding: 0.8rem 1rem; border-radius: var(--radius-sm); border: 1px solid var(--border-medium); background: white; font-family: inherit; font-size: 0.95rem; cursor: pointer; color: var(--text-primary);">
+                            <option value="relevancia" data-i18n="sort-relevance">${ui['sort-relevance'] || 'Más relevantes'}</option>
+                            <option value="recientes" data-i18n="sort-recent">${ui['sort-recent'] || 'Más recientes'}</option>
+                            <option value="abc" data-i18n="sort-abc">${ui['sort-abc'] || 'Alfabético (A-Z)'}</option>
+                        </select>
+                    </div>
                 </div>
 
                 <!-- CTA secondaires -->
