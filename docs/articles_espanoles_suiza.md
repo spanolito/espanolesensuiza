@@ -1,8 +1,8 @@
 # Articles publies - Espanoles que realmente se ayudan en Suiza
 
-Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications scrapees jusqu'au 15 avril 2026.
+Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications scrapees jusqu'au 1er mai 2026.
 
-**Total : 579 publications**
+**Total : 645 publications**
 
 ---
 
@@ -1787,3 +1787,155 @@ Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications 
 
 **594.** Suiza no tiene salario mínimo nacional, pero eso no significa que no haya suelo salarial  
 *avr 19, 2026*
+**595.** La campaña de la renta española 2025 afecta a más residentes en Suiza de lo que crees  
+*avr 20, 2026*
+
+**596.** Suiza negoció con Trump y bajó los aranceles al 15%, pero el daño ya estaba hecho  
+*avr 20, 2026*
+
+**597.** La declaración de impuestos en Suiza: quién está obligado, cuándo y cómo pedir más tiempo  
+*avr 20, 2026*
+
+**598.** Los Acuerdos Bilaterales III Suiza-UE: qué cambia para los que vivimos aquí  
+*avr 21, 2026*
+
+**599.** El segundo pilar suizo: qué pasa con ese dinero si decides volver a España  
+*avr 21, 2026*
+
+**600.** Reagrupación familiar en Suiza: lo que necesitas saber si quieres traer a tu familia  
+*avr 21, 2026*
+
+**601.** Tercer pilar: ya puedes recuperar los años que no cotizaste  
+*avr 21, 2026*
+
+**602.** El paro sube en Suiza, pero no del mismo modo para todos  
+*avr 21, 2026*
+
+**603.** Lo que el seguro médico ya cubre en 2026 sin que llegues a la franquicia  
+*avr 21, 2026*
+
+**604.** El referéndum del 14 de junio: lo que dicen las encuestas y lo que deberías hacer si tienes un proyecto en Suiza  
+*avr 22, 2026*
+
+**605.** La nacionalidad suiza: lo que hay que saber antes de pedirla, y la trampa que nadie te avisa  
+*avr 22, 2026*
+
+**606.** "Suiza cambia las normas": cuando el titular de la prensa española da más miedo que la realidad  
+*avr 22, 2026*
+
+**607.** La franquicia del seguro médico va a subir: lo que cambia y lo que no  
+*avr 23, 2026*
+
+**608.** El carnet de conducir español en Suiza: válido al llegar, pero con fecha de caducidad  
+*avr 23, 2026*
+
+**609.** Hacerse autónomo en Suiza siendo extranjero: más pasos de los que parece  
+*avr 23, 2026*
+
+**610.** El Kurzarbeit: cuando la economía frena, el seguro cubre parte de tu sueldo  
+*avr 24, 2026*
+
+**611.** La cuenta bancaria en Suiza: lo que nadie te explica bien cuando llegas  
+*avr 24, 2026*
+
+**612.** Los festivos en Suiza dependen del cantón donde trabajas, no de donde vives  
+*avr 24, 2026*
+
+**613.** La nueva asignación de guardería en Suiza: lo que cambia para familias trabajadoras  
+*avr 25, 2026*
+
+**614.** El mercado laboral suizo en 2026: qué sectores contratan y cuáles están ajustando  
+*avr 25, 2026*
+
+**615.** El convenio de doble imposición España-Suiza: por qué importa y cuándo te afecta  
+*avr 25, 2026*
+
+**616.** La E-ID suiza: el DNI digital que también pueden pedir los que vivimos aquí con permiso  
+*avr 26, 2026*
+
+**617.** El EES ya funciona en toda Europa: lo que implica si tienes familia que viene de fuera de Schengen  
+*avr 26, 2026*
+
+**618.** Comprar piso en Suiza siendo español: lo que depende de tu permiso, y lo que no  
+*avr 26, 2026*
+
+**619.** Empadronarse en Suiza: el primer trámite que muchos dejan para después  
+*avr 26, 2026*
+
+**620.** El salario mínimo en Suiza: qué cantones lo fijan y qué pasa en los que no  
+*avr 26, 2026*
+
+**621.** RC y seguro del hogar en Suiza: dos seguros distintos que van juntos pero no son lo mismo  
+*avr 26, 2026*
+
+**622.** El teletrabajo desde España siendo residente en Suiza: las reglas que ya son definitivas  
+*avr 26, 2026*
+
+**623.** La jubilación de las mujeres en Suiza: lo que cambia en 2026 con la reforma AVS 21  
+*avr 26, 2026*
+
+**624.** Las multas en Suiza: el sistema por el que una infracción de tráfico puede costar un mes de sueldo  
+*avr 26, 2026*
+
+**625.** El acuerdo PNR Suiza-UE: tus datos de vuelo ya no son solo tuyos  
+*avr 27, 2026*
+
+**626.** Alquilar en Suiza en 2026: cuando el mercado decide que no eres prioridad  
+*avr 27, 2026*
+
+**627.** El seguro de accidentes en Suiza: el que tienes sin saberlo y que no es el seguro médico  
+*avr 27, 2026*
+
+**628.** La obligación del empleador que pocos conocen: el Stellenmeldepflicht en 2026  
+*avr 28, 2026*
+
+**629.** El 1 de mayo en Suiza: festivo en algunos cantones, día de mudanzas en casi todos  
+*avr 28, 2026*
+
+**630.** Teletrabajo desde Francia para empresa suiza: las nuevas reglas que entraron en vigor en enero  
+*avr 28, 2026*
+
+**631.** La Lex Koller endurecida: lo que propone el gobierno suizo y por qué los españoles deberían saberlo  
+*avr 29, 2026*
+
+**632.** El impuesto a la fuente: la corrección que muy pocos solicitan y que puede devolverte dinero  
+*avr 29, 2026*
+
+**633.** El psicólogo cubierto por el seguro médico básico: cómo funciona y por qué tanta gente aún no lo sabe  
+*avr 29, 2026*
+
+**634.** La nueva ley del ruido entra en vigor y cambia las reglas para construir vivienda en Suiza  
+*avr 30, 2026*
+
+**635.** Defectos de construcción: ahora tienes 60 días para reclamar y eso cambia muchas cosas  
+*avr 30, 2026*
+
+**636.** La electricidad baja en 2026, pero solo si vives en el cantón correcto  
+*avr 30, 2026*
+
+**637.** El referéndum del 14 de junio: lo que realmente está en juego para los españoles en Suiza  
+*mai 1, 2026*
+
+**638.** El acoso es ahora delito independiente en Suiza: lo que cambia con el nuevo artículo del Código Penal  
+*mai 1, 2026*
+
+**639.** Las deducciones fiscales del pilar 3a en 2026: el límite sube y todavía hay tiempo de aprovecharlo  
+*mai 1, 2026*
+
+**640.** Las horas extras en Suiza no se pagan siempre con un plus del 25%  
+*mai 1, 2026*
+
+**641.** El GA, el demi-tarif y la pregunta que todo el mundo que llega a Suiza acaba haciendo  
+*mai 1, 2026*
+
+**642.** En Suiza se paga impuesto sobre el patrimonio, no solo sobre la renta. Y mucha gente lo descubre demasiado tarde  
+*mai 1, 2026*
+
+**643.** Tu titulo universitario espanol no vale automaticamente en Suiza  
+*mai 1, 2026*
+
+**644.** Las bolsas de basura en Suiza no son un detalle menor, y no funcionan igual en todos los cantones  
+*mai 1, 2026*
+
+**645.** Perder el trabajo en Suiza con permiso B no significa perder el permiso, pero las condiciones importan mucho  
+*mai 1, 2026*

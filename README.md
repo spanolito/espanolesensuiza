@@ -50,3 +50,12 @@ Objetivo:
 - misma estructura en todos los idiomas
 - mismo orden de secciones
 - sin divergencias manuales entre idiomas
+
+## Import de publicaciones diarias
+
+Si llegan nuevos ficheros Markdown a `/Users/oscarandujar/Projets/Publications/posts/` con formato `posts_YYYY-MM-DD.md`, puedes regenerar el bundle diario del sitio con:
+
+- `npm run import:daily-posts`
+- `npm run import:daily-posts:fast`
+
+La variante `fast` genera ES/EN/FR/DE sin depender de la traducción externa, usando el texto original como fallback.

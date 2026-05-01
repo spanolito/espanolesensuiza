@@ -1,5 +1,5 @@
 /* Simple SW: cache core assets + offline navigation fallback. */
-const CACHE_VERSION = "pwa-v7";
+const CACHE_VERSION = "pwa-v8";
 const CORE_ASSETS = [
   "/",
   "/index.html",
@@ -18,6 +18,10 @@ const CORE_ASSETS = [
   "/content-articles-facebook-en.js",
   "/content-articles-facebook-fr.js",
   "/content-articles-facebook-de.js",
+  "/content-articles-facebook-daily-es.js",
+  "/content-articles-facebook-daily-en.js",
+  "/content-articles-facebook-daily-fr.js",
+  "/content-articles-facebook-daily-de.js",
   "/icons/icon-192.png",
   "/icons/icon-512.png",
   "/icons/apple-touch-icon.png"
@@ -106,4 +110,3 @@ self.addEventListener("fetch", (event) => {
     })()
   );
 });
-
