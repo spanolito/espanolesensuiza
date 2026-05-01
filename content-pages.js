@@ -451,6 +451,30 @@ window.siteContent.es.pages = {
         }
     },
 
+    "cultura-eventos": {
+        title: "Cultura y Eventos en Suiza | Tradiciones, fiestas y vida social",
+        description: "Descubre las tradiciones suizas, eventos culturales, fiestas locales y la vida social. Todo lo que necesitas saber para integrarte y disfrutar de Suiza.",
+        isCategoryHub: true,
+        get content() {
+            const currentLang = localStorage.getItem("lang") || "es";
+            const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+            return `
+            <div class="page-header animate-fade-up" style="padding-top: var(--space-lg); border-bottom: 1px solid var(--border-light); padding-bottom: var(--space-md); margin-bottom: var(--space-xl);">
+                <nav class="breadcrumbs">
+                    <a href="#/">${ui['nav-inicio']}</a> >
+                    <span>${ui['cat-cultura-eventos'] || 'Cultura y Eventos'}</span>
+                </nav>
+                <h1>${ui['cat-cultura-eventos'] || 'Cultura y Eventos'}</h1>
+                <p style="font-size: 1.25rem; max-width: 800px;">${ui['cat-desc-cultura-eventos'] || 'Tradiciones suizas, eventos culturales, fiestas locales, historia y sociedad. Todo lo que enriquece tu vida social e integración en Suiza.'}</p>
+            </div>
+
+            <section>
+                <div id="category-articles-container"></div>
+            </section>
+            `;
+        }
+    },
+
     // TODO SEO slug migration: fronterizos -> trabajadores-fronterizos
     "fronterizos": {
         title: "Trabajadores fronterizos en Suiza | Permiso G, fiscalidad y seguro médico",
