@@ -72,6 +72,9 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-loading": "Cargando...",
             "lbl-no-results": "No se encontraron resultados para",
             "lbl-no-articles": "No hay artículos publicados en esta categoría todavía.",
+            "sort-recent": "Más recientes",
+            "sort-relevance": "Más relevantes",
+            "sort-abc": "Alfabético (A-Z)",
             "lbl-explore-guides": "Explorar guías &rarr;",
             "lbl-guides-plural": "guías",
             "lbl-guides-singular": "guía",
@@ -232,6 +235,9 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-loading": "Loading...",
             "lbl-no-results": "No results found for",
             "lbl-no-articles": "No articles published in this category yet.",
+            "sort-recent": "Most recent",
+            "sort-relevance": "Most relevant",
+            "sort-abc": "Alphabetical (A-Z)",
             "lbl-explore-guides": "Explore guides &rarr;",
             "lbl-guides-plural": "guides",
             "lbl-guides-singular": "guide",
@@ -399,6 +405,9 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-loading": "Chargement...",
             "lbl-no-results": "Aucun résultat trouvé pour",
             "lbl-no-articles": "Aucun article publié dans cette catégorie pour le moment.",
+            "sort-recent": "Plus récents",
+            "sort-relevance": "Plus pertinents",
+            "sort-abc": "Alphabétique (A-Z)",
             "lbl-explore-guides": "Explorer les guides &rarr;",
             "lbl-guides-plural": "guides",
             "lbl-guides-singular": "guide",
@@ -559,6 +568,9 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-loading": "Wird geladen...",
             "lbl-no-results": "Keine Ergebnisse gefunden für",
             "lbl-no-articles": "Noch keine Artikel in dieser Kategorie veröffentlicht.",
+            "sort-recent": "Neueste zuerst",
+            "sort-relevance": "Relevanteste",
+            "sort-abc": "Alphabetisch (A-Z)",
             "lbl-explore-guides": "Leitfäden erkunden &rarr;",
             "lbl-guides-plural": "Leitfäden",
             "lbl-guides-singular": "Leitfaden",
@@ -719,6 +731,9 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-loading": "Caricamento...",
             "lbl-no-results": "Nessun risultato trovato per",
             "lbl-no-articles": "Nessun articolo ancora pubblicato in questa categoria.",
+            "sort-recent": "Più recenti",
+            "sort-relevance": "Più rilevanti",
+            "sort-abc": "Alfabetico (A-Z)",
             "lbl-explore-guides": "Esplora le guide &rarr;",
             "lbl-guides-plural": "guide",
             "lbl-guides-singular": "guida",
@@ -1911,6 +1926,8 @@ document.addEventListener("DOMContentLoaded", () => {
      */
     function injectAllArticles() {
         const container = document.getElementById("all-articles-container");
+        const searchInput = document.getElementById("articles-filter-input");
+        const sortSelect = document.getElementById("articles-sort-select");
         if (!container) return;
 
         const langData = window.siteContent[currentLang].articles;
@@ -1932,55 +1949,64 @@ document.addEventListener("DOMContentLoaded", () => {
             if (!prev || scoreGuideCandidate(a) > scoreGuideCandidate(prev)) bySlug.set(key, a);
         }
 
-        const allArticles = Array.from(bySlug.values())
-            .sort((a, b) => {
-                const getRank = (art) => {
-                    const hasImg = !!art.image || !!art.featuredImage;
-                    const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
-                    const rt = Number(art.readingTime) || 0;
-                    const contentLen = art.content ? String(art.content).length : 0;
-                    const isRich = rt >= 5 || contentLen > 3000;
-                    if (!isFb && hasImg && isRich) return 4;
-                    if (!isFb && hasImg) return 3;
-                    if (!isFb) return 2;
-                    return 1;
-                };
-                const rankA = getRank(a);
-                const rankB = getRank(b);
-                if (rankA !== rankB) return rankB - rankA;
-                const richA = (Number(a.readingTime) || 0) * 1000 + (a.content ? String(a.content).length : 0);
-                const richB = (Number(b.readingTime) || 0) * 1000 + (b.content ? String(b.content).length : 0);
-                if (richA !== richB) return richB - richA;
-                return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
+        const baseArticles = Array.from(bySlug.values());
+
+        function update() {
+            const term = searchInput ? searchInput.value.toLowerCase().trim() : "";
+            const sortMode = sortSelect ? sortSelect.value : "recientes";
+
+            let filtered = baseArticles.filter(a => {
+                if (!term) return true;
+                const t = (a.title || "").toLowerCase();
+                const c = (a.category || "").toLowerCase();
+                const kw = (a.keywords || "").toLowerCase();
+                const d = (a.description || "").toLowerCase();
+                const s = (a.summary || "").toLowerCase();
+                return t.includes(term) || c.includes(term) || kw.includes(term) || d.includes(term) || s.includes(term);
             });
 
-        function renderList(filteredArticles) {
-            if (filteredArticles.length > 0) {
-                container.innerHTML = filteredArticles.map(r => renderCard(r, ui)).join('');
+            filtered.sort((a, b) => {
+                if (sortMode === 'recientes') {
+                    const recA = articleRecencyScore(a);
+                    const recB = articleRecencyScore(b);
+                    if (recB.timestamp !== recA.timestamp) return recB.timestamp - recA.timestamp;
+                    if (recB.fbIndex !== recA.fbIndex) return recB.fbIndex - recA.fbIndex;
+                    return scoreGuideCandidate(b) - scoreGuideCandidate(a);
+                } else if (sortMode === 'abc') {
+                    return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
+                } else {
+                    // Relevancia
+                    const getRank = (art) => {
+                        const hasImg = !!art.image || !!art.featuredImage;
+                        const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
+                        const rt = Number(art.readingTime) || 0;
+                        const contentLen = art.content ? String(art.content).length : 0;
+                        const isRich = rt >= 5 || contentLen > 3000;
+                        if (!isFb && hasImg && isRich) return 4;
+                        if (!isFb && hasImg) return 3;
+                        if (!isFb) return 2;
+                        return 1;
+                    };
+                    const rankA = getRank(a);
+                    const rankB = getRank(b);
+                    if (rankA !== rankB) return rankB - rankA;
+                    const richA = (Number(a.readingTime) || 0) * 1000 + (a.content ? String(a.content).length : 0);
+                    const richB = (Number(b.readingTime) || 0) * 1000 + (b.content ? String(b.content).length : 0);
+                    return richB - richA;
+                }
+            });
+
+            if (filtered.length > 0) {
+                container.innerHTML = filtered.map(r => renderCard(r, ui, { showBadge: sortMode === 'recientes' })).join('');
             } else {
-                container.innerHTML = `<p style="color: var(--text-light); margin-top: 2rem;">No se encontraron artículos.</p>`;
+                container.innerHTML = `<p style="color: var(--text-light); margin-top: 2rem;">${ui['lbl-no-results']} "${term}".</p>`;
             }
         }
 
-        renderList(allArticles);
+        if (searchInput) searchInput.addEventListener("input", update);
+        if (sortSelect) sortSelect.addEventListener("change", update);
 
-        const searchInput = document.getElementById("articles-filter-input");
-        if (searchInput) {
-            searchInput.addEventListener("input", (e) => {
-                const term = e.target.value.toLowerCase();
-                if (!term) {
-                    renderList(allArticles);
-                    return;
-                }
-                const filtered = allArticles.filter(a => {
-                    const t = (a.title || "").toLowerCase();
-                    const c = (a.category || "").toLowerCase();
-                    const kw = (a.keywords || "").toLowerCase();
-                    return t.includes(term) || c.includes(term) || kw.includes(term);
-                });
-                renderList(filtered);
-            });
-        }
+        update();
     }
 
     /**

@@ -1112,9 +1112,18 @@ window.siteContent.es.pages = {
                 <h1>Todos los artículos</h1>
                 <p style="font-size: 1.25rem; max-width: 800px;">Explora nuestra base de conocimiento general.</p>
                 
-                <div class="search-container" style="margin-top: 1.5rem; max-width: 600px; margin-left: 0;">
-                    <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-                    <input type="text" id="articles-filter-input" class="search-input" placeholder="Filtrar por título, palabra clave o categoría..." autocomplete="off">
+                <div style="display:flex; gap:1rem; align-items:center; flex-wrap:wrap; margin-top: 1.5rem;">
+                    <div class="search-container" style="max-width: 600px; margin-left: 0; flex: 1; min-width: 280px;">
+                        <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                        <input type="text" id="articles-filter-input" class="search-input" placeholder="Filtrar por título, palabra clave o categoría..." autocomplete="off">
+                    </div>
+                    <div>
+                        <select id="articles-sort-select" style="padding: 0.8rem 1rem; border-radius: var(--radius-sm); border: 1px solid var(--border-medium); background: white; font-family: inherit; font-size: 0.95rem; cursor: pointer; color: var(--text-primary);">
+                            <option value="recientes" data-i18n="sort-recent">Más recientes</option>
+                            <option value="relevancia" data-i18n="sort-relevance">Más relevantes</option>
+                            <option value="abc" data-i18n="sort-abc">Alfabético (A-Z)</option>
+                        </select>
+                    </div>
                 </div>
             </div>
 
