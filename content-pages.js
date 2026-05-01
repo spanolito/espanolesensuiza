@@ -74,11 +74,11 @@ window.siteContent.es.pages = {
                 <!-- STATS STRIP -->
                 <div class="stats-strip animate-fade-up">
                     <div class="stat-item">
-                        <span class="stat-number">80k+</span>
+                        <span class="stat-number" data-counter data-target="80" data-suffix="k+">0k+</span>
                         <span class="stat-label">${ui['home-stats-community']}</span>
                     </div>
                     <div class="stat-item">
-                        <span class="stat-number">1000+</span>
+                        <span class="stat-number" data-counter data-target="1000" data-suffix="+">0+</span>
                         <span class="stat-label">${ui['home-stats-guides']}</span>
                     </div>
                     <div class="stat-item">

@@ -1443,10 +1443,53 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     /**
+     * Animated counter for [data-counter] stat spans.
+     * Counts from 0 to data-target over 5 s with ease-out, then appends data-suffix.
+     * Triggered once when the element enters the viewport.
+     */
+    function initCounterAnimations() {
+        const counters = appContainer.querySelectorAll('[data-counter]');
+        if (!counters.length) return;
+
+        const DURATION = 5000;
+
+        const easeOut = t => 1 - Math.pow(1 - t, 3);
+
+        const animate = (el) => {
+            const target = parseInt(el.dataset.target, 10);
+            const suffix = el.dataset.suffix || '';
+            const start = performance.now();
+
+            const tick = (now) => {
+                const elapsed = now - start;
+                const progress = Math.min(elapsed / DURATION, 1);
+                const value = Math.round(easeOut(progress) * target);
+                el.textContent = value + suffix;
+                if (progress < 1) requestAnimationFrame(tick);
+            };
+
+            requestAnimationFrame(tick);
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    animate(entry.target);
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.3 });
+
+        counters.forEach(el => observer.observe(el));
+    }
+
+    /**
      * Component Logic Initializer
      */
     function initializeComponents() {
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
+
+        initCounterAnimations();
 
         // Accordions
         const accordions = appContainer.querySelectorAll('.accordion-header');
