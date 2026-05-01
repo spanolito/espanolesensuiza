@@ -1560,8 +1560,10 @@ document.addEventListener("DOMContentLoaded", () => {
             searchInput.addEventListener('input', (e) => {
                 const term = e.target.value.toLowerCase().trim();
                 const displayArea = document.getElementById('search-results');
+                const newsKeywords = ['nuevo', 'nouveau', 'new', 'neu', 'nuovo', 'novedad', 'novedades'];
+                const isNewsSearch = newsKeywords.includes(term);
 
-                if (term.length < 3) {
+                if (term.length < 3 && !isNewsSearch) {
                     displayArea.innerHTML = '';
                     return;
                 }
@@ -1569,18 +1571,26 @@ document.addEventListener("DOMContentLoaded", () => {
                 const langData = window.siteContent[currentLang].articles;
                 const filterAudience = document.getElementById('search-filter-audience') ? document.getElementById('search-filter-audience').value : '';
 
-                const resultsRaw = Object.keys(langData).filter(key => {
-                    const article = langData[key];
+                let resultsRaw = [];
+                if (isNewsSearch) {
+                    // Show articles sorted by date
+                    resultsRaw = Object.keys(langData).map(key => ({ id: key, ...langData[key] }));
+                } else {
+                    resultsRaw = Object.keys(langData).filter(key => {
+                        const article = langData[key];
 
-                    const termMatch = (article.title && article.title.toLowerCase().includes(term)) ||
-                        (article.keywords && article.keywords.toLowerCase().includes(term)) ||
-                        (article.description && article.description.toLowerCase().includes(term)) ||
-                        (article.summary && article.summary.toLowerCase().includes(term));
+                        const termMatch = (article.title && article.title.toLowerCase().includes(term)) ||
+                            (article.keywords && article.keywords.toLowerCase().includes(term)) ||
+                            (article.description && article.description.toLowerCase().includes(term)) ||
+                            (article.summary && article.summary.toLowerCase().includes(term));
 
-                    const audienceMatch = filterAudience === '' || article.audience === filterAudience;
+                        const audienceMatch = filterAudience === '' || article.audience === filterAudience;
 
-                    return termMatch && audienceMatch;
-                }).map(key => ({ id: key, ...langData[key] })).filter(a => a && a.slug && hasValidTitle(a));
+                        return termMatch && audienceMatch;
+                    }).map(key => ({ id: key, ...langData[key] }));
+                }
+                
+                resultsRaw = resultsRaw.filter(a => a && a.slug && hasValidTitle(a));
 
                 // Deduplicate by slug (avoid duplicated guides from different pipelines).
                 const scoreGuideCandidate = (article) => {
@@ -1599,6 +1609,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 const results = Array.from(bySlug.values())
                     .sort((a, b) => {
+                        if (isNewsSearch) {
+                            const recA = articleRecencyScore(a);
+                            const recB = articleRecencyScore(b);
+                            if (recB.timestamp !== recA.timestamp) return recB.timestamp - recA.timestamp;
+                            if (recB.fbIndex !== recA.fbIndex) return recB.fbIndex - recA.fbIndex;
+                            return scoreGuideCandidate(b) - scoreGuideCandidate(a);
+                        }
                         const getRank = (art) => {
                             const hasImg = !!art.image || !!art.featuredImage;
                             const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
@@ -1621,9 +1638,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
                 if (results.length > 0) {
+                    const finalResults = isNewsSearch ? results.slice(0, 24) : results;
                     displayArea.innerHTML = `
-                        <div class="featured-grid" style="margin-top: 2rem;">
-                            ${results.map(r => renderCard(r, ui, { compact: true })).join('')}
+                        ${isNewsSearch ? `<h3 style="margin-top:2rem; border-bottom:none;">${ui['home-title-latest']}</h3>` : ''}
+                        <div class="featured-grid" style="margin-top: 1rem;">
+                            ${finalResults.map(r => renderCard(r, ui, { compact: true, showBadge: isNewsSearch })).join('')}
                         </div>
                     `;
                 } else {
