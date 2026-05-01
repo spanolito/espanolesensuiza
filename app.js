@@ -1642,9 +1642,16 @@ document.addEventListener("DOMContentLoaded", () => {
         const summary = r.summary || r.description || '';
         const compact = opts.compact || false;
         const hubLabels = {
-            tramites: 'Trámites', trabajo: 'Trabajo', vivienda: 'Vivienda',
-            'vivir-en-suiza': 'Vivir en Suiza', salud: 'Salud', impuestos: 'Impuestos',
-            fronterizos: 'Fronterizos', recursos: 'Recursos'
+            tramites:         ui['cat-tramites']        || 'Trámites',
+            trabajo:          ui['cat-trabajo']         || 'Trabajo',
+            vivienda:         ui['cat-vivienda']        || 'Vivienda',
+            'vivir-en-suiza': ui['cat-vivir']           || 'Vivir en Suiza',
+            vivir:            ui['cat-vivir']           || 'Vivir en Suiza',
+            salud:            ui['cat-salud']           || 'Salud',
+            impuestos:        ui['cat-impuestos']       || 'Impuestos',
+            fronterizos:      ui['cat-fronterizos']     || 'Fronterizos',
+            recursos:         ui['nav-recursos']        || 'Recursos',
+            'cultura-eventos': ui['cat-cultura-eventos'] || 'Cultura y Eventos',
         };
         const badgeLabel = hubLabels[hub] || (r.category || hub);
         const cleanTitle = stripMarkdown(r.title);

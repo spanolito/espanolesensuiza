@@ -1458,14 +1458,15 @@ strong, b {
 
 /* ── Hub colour system ──────────────────────────────────────── */
 :root {
-    --hub-tramites-bg:    #EEF2FF; --hub-tramites-fg:    #3730A3;
-    --hub-trabajo-bg:     #F0FDF4; --hub-trabajo-fg:     #166534;
-    --hub-vivienda-bg:    #FFF7ED; --hub-vivienda-fg:    #9A3412;
-    --hub-salud-bg:       #FFF1F2; --hub-salud-fg:       #9F1239;
-    --hub-impuestos-bg:   #FEFCE8; --hub-impuestos-fg:   #854D0E;
-    --hub-vivir-bg:       #F0F9FF; --hub-vivir-fg:       #0C4A6E;
-    --hub-fronterizos-bg: #F5F3FF; --hub-fronterizos-fg: #5B21B6;
-    --hub-recursos-bg:    #FDF4FF; --hub-recursos-fg:    #701A75;
+    --hub-tramites-bg:       #EEF2FF; --hub-tramites-fg:       #3730A3;
+    --hub-trabajo-bg:        #F0FDF4; --hub-trabajo-fg:        #166534;
+    --hub-vivienda-bg:       #FFF7ED; --hub-vivienda-fg:       #9A3412;
+    --hub-salud-bg:          #FFF1F2; --hub-salud-fg:          #9F1239;
+    --hub-impuestos-bg:      #FEFCE8; --hub-impuestos-fg:      #854D0E;
+    --hub-vivir-bg:          #F0F9FF; --hub-vivir-fg:          #0C4A6E;
+    --hub-fronterizos-bg:    #F5F3FF; --hub-fronterizos-fg:    #5B21B6;
+    --hub-recursos-bg:       #FDF4FF; --hub-recursos-fg:       #701A75;
+    --hub-cultura-bg:        #FFF8F0; --hub-cultura-fg:        #92400E;
 }
 
 /* Badge hub — généré dynamiquement via data-hub */
@@ -1485,9 +1486,11 @@ strong, b {
 .hub-badge[data-hub="vivienda"]        { background: var(--hub-vivienda-bg);    color: var(--hub-vivienda-fg); }
 .hub-badge[data-hub="salud"]           { background: var(--hub-salud-bg);       color: var(--hub-salud-fg); }
 .hub-badge[data-hub="impuestos"]       { background: var(--hub-impuestos-bg);   color: var(--hub-impuestos-fg); }
+.hub-badge[data-hub="vivir"],
 .hub-badge[data-hub="vivir-en-suiza"]  { background: var(--hub-vivir-bg);       color: var(--hub-vivir-fg); }
 .hub-badge[data-hub="fronterizos"]     { background: var(--hub-fronterizos-bg); color: var(--hub-fronterizos-fg); }
 .hub-badge[data-hub="recursos"]        { background: var(--hub-recursos-bg);    color: var(--hub-recursos-fg); }
+.hub-badge[data-hub="cultura-eventos"] { background: var(--hub-cultura-bg);     color: var(--hub-cultura-fg); }
 /* Fallback si hub inconnu */
 .hub-badge:not([data-hub]) { background: var(--bg-surface); color: var(--text-light); }
 
