@@ -57,5 +57,25 @@ Si llegan nuevos ficheros Markdown a `/Users/oscarandujar/Projets/Publications/p
 
 - `npm run import:daily-posts`
 - `npm run import:daily-posts:fast`
+- `npm run import:daily-posts:auto`
 
 La variante `fast` genera ES/EN/FR/DE sin depender de la traducción externa, usando el texto original como fallback.
+
+`auto` solo reprocesa ficheros modificados, actualiza el estado en `.daily-posts-import-state.json` y escribe un reporte de clasificación en `docs/daily-posts-classification.json`.
+
+## Automatización local
+
+En macOS puedes instalar un `LaunchAgent` local con:
+
+- `npm run install:daily-posts-agent`
+
+Eso deja un agente `launchd` que:
+
+- ejecuta el import al cargar la sesión
+- vigila `/Users/oscarandujar/Projets/Publications/posts/`
+- lanza también una ejecución diaria a las `07:15`
+
+Scripts asociados:
+
+- `scripts/run_daily_posts_import.sh`
+- `scripts/install_daily_posts_launch_agent.sh`

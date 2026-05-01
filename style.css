@@ -49,6 +49,22 @@
     --transition-smooth: 0.4s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
+
+.badge-new {
+    background-color: var(--swiss-red);
+    color: white;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    display: inline-flex;
+    align-items: center;
+    line-height: 1;
+    letter-spacing: 0.05em;
+    pointer-events: none;
+}
+
 /* Base Reset */
 *, *::before, *::after {
     box-sizing: border-box;

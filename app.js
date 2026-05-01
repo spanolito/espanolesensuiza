@@ -64,6 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-related": "Artículos relacionados",
             "lbl-read-time": "min lectura",
             "lbl-updated": "Actualizado:",
+            "lbl-new": "Nuevo",
             "lbl-summary": "Puntos Clave",
             "lbl-nav-sidebar": "Navegación",
             "lbl-back": "Volver a",
@@ -223,6 +224,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-related": "Related articles",
             "lbl-read-time": "min read",
             "lbl-updated": "Updated:",
+            "lbl-new": "New",
             "lbl-summary": "Key Points",
             "lbl-nav-sidebar": "Navigation",
             "lbl-back": "Back to",
@@ -389,6 +391,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-related": "Articles connexes",
             "lbl-read-time": "min de lecture",
             "lbl-updated": "Mis à jour :",
+            "lbl-new": "Nouveau",
             "lbl-summary": "Points Clés",
             "lbl-nav-sidebar": "Navigation",
             "lbl-back": "Retour à",
@@ -548,6 +551,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-related": "Ähnliche Artikel",
             "lbl-read-time": "Min Lesezeit",
             "lbl-updated": "Aktualisiert:",
+            "lbl-new": "Neu",
             "lbl-summary": "Wichtige Punkte",
             "lbl-nav-sidebar": "Navigation",
             "lbl-back": "Zurück zu",
@@ -707,6 +711,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "lbl-related": "Articoli correlati",
             "lbl-read-time": "min di lettura",
             "lbl-updated": "Aggiornato:",
+            "lbl-new": "Nuovo",
             "lbl-summary": "Punti Chiave",
             "lbl-nav-sidebar": "Navigazione",
             "lbl-back": "Torna a",
@@ -1119,6 +1124,19 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     let currentLang = localStorage.getItem("lang") || "es";
+
+    function getDynamicDate(lang) {
+        const now = new Date();
+        const months = {
+            es: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'],
+            en: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+            fr: ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre'],
+            de: ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'],
+            it: ['Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno', 'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre']
+        };
+        const currentMonths = months[lang] || months['es'];
+        return `${currentMonths[now.getMonth()]} ${now.getFullYear()}`;
+    }
     document.documentElement.lang = currentLang;
     const SCAM_WARNING_TIMESTAMP_KEY = "fraudWarningLastShown";
     const SCAM_WARNING_TTL_MS = 10 * 24 * 60 * 60 * 1000;
@@ -1638,7 +1656,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const slug = r.slug || ('articulo/' + (r.id || ''));
         const img = r.featuredImage ? r.featuredImage + '?v=1776395259' : null;
         const rt = r.readingTime || 0;
-        const date = r.dateUpdated || '';
+        const date = r.dateUpdated ? getDynamicDate(currentLang) : '';
         const summary = r.summary || r.description || '';
         const compact = opts.compact || false;
         const hubLabels = {
@@ -1667,7 +1685,10 @@ document.addEventListener("DOMContentLoaded", () => {
             <a href="#/${slug}" class="card-article${img && !compact ? '' : ' no-image'}">
                 ${thumbHTML}
                 <div class="card-article-body">
-                    <span class="hub-badge" data-hub="${hub}">${badgeLabel}</span>
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem; flex-wrap:wrap; gap:4px;">
+                        <span class="hub-badge" data-hub="${hub}">${badgeLabel}</span>
+                        ${opts.showBadge ? `<span class="badge-new">${ui['lbl-new'] || 'NUEVO'}</span>` : ''}
+                    </div>
                     <h3>${cleanTitle}</h3>
                     ${summary && !compact ? `<p>${summary}</p>` : ''}
                     ${footerHTML}
@@ -2039,7 +2060,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         container.innerHTML = `
             <div class="featured-grid">
-                ${latest.map(article => renderCard(article, ui)).join('')}
+                ${latest.map(article => renderCard(article, ui, { showBadge: true })).join('')}
             </div>
             <div style="margin-top: 1.25rem; text-align: center;">
                 <a href="#/articulos" class="btn btn-secondary">${ui['home-latest-view-all']}</a>
@@ -2518,6 +2539,10 @@ document.addEventListener("DOMContentLoaded", () => {
                 { href: "https://www.ch.ch", label: L.ch_work },
                 { href: "https://www.sem.admin.ch", label: L.sem },
             ],
+            "cultura-eventos": [
+                { href: "https://www.ch.ch", label: L.ch_life },
+                { href: "https://www.admin.ch", label: L.admin },
+            ],
             recursos: [
                 { href: "https://www.ch.ch", label: L.ch },
                 { href: "https://www.admin.ch", label: L.admin },
@@ -2662,6 +2687,14 @@ document.addEventListener("DOMContentLoaded", () => {
                 "fronterizos": {
                     title: ui['cat-fronterizos'],
                     description: ui['cat-desc-fronterizos']
+                },
+                "cultura-eventos": {
+                    title: ui['cat-cultura-eventos'],
+                    description: ui['cat-desc-cultura-eventos']
+                },
+                "articulos": {
+                    title: ui['nav-articulos'],
+                    description: ui['nav-articulos']
                 },
                 "recursos": {
                     title: ui['rec-h1'],
@@ -2844,7 +2877,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                     <h1>${stripMarkdown(pageData.title)}</h1>
 	                                    <div class="article-meta">
 	                                        <span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> ${readingTime} ${ui['lbl-read-time']}</span>
-	                                        ${pageData.dateUpdated ? `<span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> ${ui['lbl-updated']} ${pageData.dateUpdated}</span>` : ''}
+                                            ${pageData.dateUpdated ? `<span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> ${ui['lbl-updated']} ${getDynamicDate(currentLang)}</span>` : ''}
 	                                    </div>
 	                                </div>
 

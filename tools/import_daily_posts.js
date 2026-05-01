@@ -19,6 +19,7 @@ const DEFAULT_OUT_FILES = {
   fr: "content-articles-facebook-daily-fr.js",
   de: "content-articles-facebook-daily-de.js",
 };
+const DEFAULT_STATE_FILE = path.join(ROOT, ".daily-posts-import-state.json");
 
 const MONTHS = {
   en: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
@@ -63,6 +64,84 @@ const HUB_LABELS = {
     impuestos: "Steuern",
     tramites: "Behorden & Bewilligungen",
     recursos: "Warnungen & Ressourcen",
+    "cultura-eventos": "Kultur & Veranstaltungen",
+    fronterizos: "Grenzgaenger",
+  },
+};
+
+const HUB_RULES = {
+  trabajo: {
+    title: [
+      "trabajar", "trabajo", "empleo", "salario", "nomina", "paro", "rav", "desempleo",
+      "cotizados", "jubilacion", "avs", "ahv", "cct", "gav", "mercado laboral",
+    ],
+    body: [
+      "trabajar", "empleador", "empleo", "contrato de trabajo", "salario", "nomina",
+      "desempleo", "rav", "paro", "cotizacion", "cotizaciones", "jubilacion", "avs", "ahv",
+      "cct", "gav", "mercado laboral", "caja de compensacion", "seguridad social",
+    ],
+  },
+  vivienda: {
+    title: [
+      "alquiler", "alquilar", "piso", "vivienda", "inquilino", "arrendador", "fianza", "sublet",
+    ],
+    body: [
+      "alquiler", "alquilar", "piso", "vivienda", "inquilino", "arrendador", "homegate", "immoscout",
+      "comparis", "fianza", "deposito", "sublet", "subalquiler", "cooperativa de vivienda",
+      "taux de reference", "referencia hipotecaria", "mieterverband", "asloca",
+    ],
+  },
+  salud: {
+    title: [
+      "seguro medico", "lamal", "psicologo", "psicologo", "psiquiatra", "prima", "pramienverbilligung",
+    ],
+    body: [
+      "seguro medico", "lamal", "franquicia", "copago", "medico de cabecera", "psicologo",
+      "psiquiatra", "primas", "pramienverbilligung", "ipt", "bag.admin", "aseguradora", "kvg",
+    ],
+  },
+  impuestos: {
+    title: [
+      "impuesto", "impuestos", "fuente", "quellensteuer", "fiscal", "tributacion", "declaracion",
+    ],
+    body: [
+      "impuesto", "impuestos", "quellensteuer", "fuente", "declaracion", "deduccion", "deducciones",
+      "fiscal", "tributacion", "iva", "declaracion ordinaria", "retencion", "canton de residencia",
+    ],
+  },
+  tramites: {
+    title: [
+      "permiso", "residencia", "registro", "commune", "municipio", "etias", "lex koller", "llegar",
+    ],
+    body: [
+      "permiso", "permisos", "residencia", "registro", "commune", "municipio", "control de habitantes",
+      "etias", "frontera", "lex koller", "registrarte", "empadronamiento", "direccion de residencia",
+      "solicitar el permiso", "autoridad cantonal", "titulo de residencia",
+    ],
+  },
+  recursos: {
+    title: [
+      "fraude", "estafa", "alerta", "consulta", "reforma", "referendum", "votacion", "ley",
+    ],
+    body: [
+      "fraude", "estafa", "alerta", "consulta publica", "consulta", "consejo federal", "referendum",
+      "votacion", "ley federal", "mercado inmobiliario", "reforma", "proyecto", "multa", "multas",
+    ],
+  },
+  fronterizos: {
+    title: ["fronterizo", "fronterizos", "permiso g", "cmu"],
+    body: ["fronterizo", "fronterizos", "permiso g", "cmu", "cruzar la frontera", "francia", "alta saboya"],
+  },
+  "cultura-eventos": {
+    title: ["fiesta", "fiestas", "festival", "tradicion", "tradiciones", "evento", "cultura"],
+    body: ["fiesta", "fiestas", "festival", "tradicion", "tradiciones", "evento", "cultura", "feria", "carnaval"],
+  },
+  "vivir-en-suiza": {
+    title: ["suiza", "vida diaria", "vida en suiza", "consejos"],
+    body: [
+      "vida diaria", "coste de vida", "costo de vida", "transporte publico", "escuela", "cantonal",
+      "vecinos", "integracion", "idioma", "idiomas", "recien llegado", "convivencia",
+    ],
   },
 };
 
@@ -83,6 +162,9 @@ function parseArgs(argv) {
     limit: 0,
     since: "",
     noTranslate: false,
+    changedOnly: false,
+    stateFile: DEFAULT_STATE_FILE,
+    reportPath: "",
   };
 
   for (let i = 0; i < argv.length; i += 1) {
@@ -101,6 +183,14 @@ function parseArgs(argv) {
       i += 1;
     } else if (arg === "--no-translate") {
       options.noTranslate = true;
+    } else if (arg === "--changed-only") {
+      options.changedOnly = true;
+    } else if (arg === "--state-file" && argv[i + 1]) {
+      options.stateFile = argv[i + 1];
+      i += 1;
+    } else if (arg === "--report" && argv[i + 1]) {
+      options.reportPath = argv[i + 1];
+      i += 1;
     }
   }
 
@@ -163,15 +253,59 @@ function extractKeywords(title, body) {
   return picked.join(", ");
 }
 
+function normalizeText(value) {
+  return String(value || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+}
+
+function countKeywordHits(text, keywords) {
+  let hits = 0;
+  for (const keyword of keywords) {
+    const token = normalizeText(keyword);
+    if (!token) continue;
+    if (text.includes(token)) hits += 1;
+  }
+  return hits;
+}
+
 function classifyHub(title, body) {
-  const haystack = `${title}\n${body}`.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-  if (/(alquiler|piso|vivienda|arrend|inquilino|homegate|immoscout|deposito)/.test(haystack)) return "vivienda";
-  if (/(seguro medico|lamal|psicolog|medic|prima|pramienverbilligung|bag\.admin)/.test(haystack)) return "salud";
-  if (/(impuesto|fiscal|quellensteuer|declaracion|tribut|deduc)/.test(haystack)) return "impuestos";
-  if (/(salario|empleo|trabajo|cct|gav|paro|rav|contrato|mercado laboral)/.test(haystack)) return "trabajo";
-  if (/(permiso|residencia|commune|municipio|registro|etias|frontera|lex koller)/.test(haystack)) return "tramites";
-  if (/(fraude|estafa|alerta|consulta|consejo federal|referendum|votacion)/.test(haystack)) return "recursos";
-  return "vivir-en-suiza";
+  const normalizedTitle = normalizeText(title);
+  const normalizedBody = normalizeText(body);
+  const scores = {};
+
+  for (const [hub, rules] of Object.entries(HUB_RULES)) {
+    const titleHits = countKeywordHits(normalizedTitle, rules.title || []);
+    const bodyHits = countKeywordHits(normalizedBody, rules.body || []);
+    scores[hub] = (titleHits * 5) + (bodyHits * 2);
+  }
+
+  if (normalizedTitle.includes("venir a trabajar") || normalizedTitle.includes("buscar trabajo")) {
+    scores.trabajo += 6;
+  }
+  if (normalizedTitle.includes("permiso g") || normalizedBody.includes("lamal vs cmu")) {
+    scores.fronterizos += 8;
+  }
+  if (normalizedTitle.includes("coste de vida") || normalizedTitle.includes("costo de vida")) {
+    scores["vivir-en-suiza"] += 8;
+  }
+
+  const ranked = Object.entries(scores).sort((a, b) => {
+    if (b[1] !== a[1]) return b[1] - a[1];
+    const preferredOrder = [
+      "fronterizos",
+      "impuestos",
+      "salud",
+      "trabajo",
+      "vivienda",
+      "tramites",
+      "recursos",
+      "cultura-eventos",
+      "vivir-en-suiza",
+    ];
+    return preferredOrder.indexOf(a[0]) - preferredOrder.indexOf(b[0]);
+  });
+
+  const [bestHub, bestScore] = ranked[0] || ["vivir-en-suiza", 0];
+  return bestScore > 0 ? bestHub : "vivir-en-suiza";
 }
 
 function estimateReadingTime(text) {
@@ -236,6 +370,7 @@ function parseDailyMarkdown(contents, dateInfo) {
       readingTime: estimateReadingTime(rawBody),
       dateUpdated: formatDateForLang("es", dateInfo),
       dateInfo,
+      sourceFile: `posts_${dateInfo.isoDate}.md`,
     };
   });
 }
@@ -316,29 +451,64 @@ ${entries}
 `;
 }
 
+function readState(stateFile) {
+  if (!stateFile || !fs.existsSync(stateFile)) return {};
+  try {
+    return JSON.parse(fs.readFileSync(stateFile, "utf8"));
+  } catch (error) {
+    return {};
+  }
+}
+
+function writeState(stateFile, payload) {
+  if (!stateFile) return;
+  fs.writeFileSync(stateFile, JSON.stringify(payload, null, 2), "utf8");
+}
+
 function loadSourceFiles(sourceDir, options) {
   const filenames = fs.readdirSync(sourceDir)
     .filter((name) => /^posts_\d{4}-\d{2}-\d{2}\.md$/.test(name))
     .sort();
+  const state = readState(options.stateFile);
 
   const filtered = filenames.filter((filename) => {
     const dateInfo = parseDailyFileName(filename);
     if (!dateInfo) return false;
     if (options.since && dateInfo.isoDate < options.since) return false;
+    if (options.changedOnly) {
+      const filePath = path.join(sourceDir, filename);
+      const stat = fs.statSync(filePath);
+      const previous = state.files && state.files[filename];
+      const signature = `${stat.size}:${stat.mtimeMs}`;
+      if (previous === signature) return false;
+    }
     return true;
   });
 
   const selected = options.limit > 0 ? filtered.slice(-options.limit) : filtered;
   const articles = [];
+  const manifest = [];
+  const fileSignatures = {};
 
   for (const filename of selected) {
     const dateInfo = parseDailyFileName(filename);
     const filePath = path.join(sourceDir, filename);
     const contents = fs.readFileSync(filePath, "utf8");
-    articles.push(...parseDailyMarkdown(contents, dateInfo));
+    const stat = fs.statSync(filePath);
+    fileSignatures[filename] = `${stat.size}:${stat.mtimeMs}`;
+    const parsed = parseDailyMarkdown(contents, dateInfo);
+    articles.push(...parsed);
+    manifest.push(...parsed.map((article) => ({
+      id: article.id,
+      title: article.title,
+      hub: article.hub,
+      slug: article.slug,
+      sourceFile: article.sourceFile,
+      dateUpdated: article.dateUpdated,
+    })));
   }
 
-  return articles;
+  return { articles, selectedFiles: selected, fileSignatures, manifest };
 }
 
 async function main() {
@@ -349,8 +519,12 @@ async function main() {
     throw new Error(`Source directory not found: ${sourceDir}`);
   }
 
-  const baseArticles = loadSourceFiles(sourceDir, options);
-  if (baseArticles.length === 0) {
+  const loaded = loadSourceFiles(sourceDir, options);
+  if (loaded.articles.length === 0) {
+    if (options.changedOnly) {
+      console.log("No changed daily posts detected");
+      return;
+    }
     throw new Error(`No daily posts found in ${sourceDir}`);
   }
 
@@ -361,13 +535,25 @@ async function main() {
     }
 
     const localized = [];
-    for (const article of baseArticles) {
+    for (const article of loaded.articles) {
       localized.push(await localizeArticle(article, lang, options));
     }
 
     const outPath = path.join(ROOT, DEFAULT_OUT_FILES[lang]);
     fs.writeFileSync(outPath, renderBundle(lang, localized), "utf8");
     console.log(`Wrote ${path.basename(outPath)} with ${localized.length} articles`);
+  }
+
+  writeState(options.stateFile, {
+    updatedAt: new Date().toISOString(),
+    sourceDir,
+    files: loaded.fileSignatures,
+    selectedFiles: loaded.selectedFiles,
+  });
+
+  if (options.reportPath) {
+    fs.writeFileSync(options.reportPath, JSON.stringify(loaded.manifest, null, 2), "utf8");
+    console.log(`Wrote classification report to ${options.reportPath}`);
   }
 }
 
