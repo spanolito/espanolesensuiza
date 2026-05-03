@@ -1063,5 +1063,69 @@ Object.assign(window.siteContent.es.articles, {
 <p>El pilar 3a es el ahorro privado vinculado a la jubilación que el Estado suizo incentiva fiscalmente. Abres una cuenta en un banco o aseguradora, ingresas la cantidad que quieras hasta el límite legal, y ese importe se resta directamente de tu renta imponible en la declaración. Dependiendo del cantón y de tu nivel salarial, el ahorro fiscal real puede ser considerable, perfectamente entre 1.500 y 3.000 francos menos en impuestos al año para alguien con un sueldo medio.</p>
 <p>Lo que mucha gente no sabe, especialmente quienes llevan pocos años en Suiza, es que puedes abrir varias cuentas 3a en distintas instituciones, y que al llegar a la jubilación puedes rescatarlas en años distintos para reducir el impacto fiscal del rescate. El plazo para la aportación del ejercicio 2026 es el 31 de diciembre, pero conviene no dejarlo para el último momento si quieres comparar condiciones entre bancos y fondos de inversión. Algunos ofrecen rentabilidades significativamente mejores que otros.</p>
 </div>`
+    },
+
+    "fb-daily-20260503-01-cambiar-de-canton-en-suiza-no-es-solo-cambiar-de-direccion": {
+        title: "Cambiar de cantón en Suiza no es solo cambiar de dirección",
+        description: "Si llevas un tiempo aquí, probablemente ya sabes que Suiza no funciona como un país centralizado. Cada cantón tiene su propia fiscalidad, su propia…",
+        keywords: "cambiar, cantón, suiza, solo, dirección, llevas, tiempo, aquí",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-03-1-cambiar-de-canton-en-suiza-no-es-solo-cambiar-de-direccion",
+        readingTime: 1,
+        dateUpdated: "3 mayo 2026",
+        summary: "Si llevas un tiempo aquí, probablemente ya sabes que Suiza no funciona como un país centralizado. Cada cantón tiene su propia fiscalidad, su propia…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Si llevas un tiempo aquí, probablemente ya sabes que Suiza no funciona como un país centralizado. Cada cantón tiene su propia fiscalidad, su propia administración y, si eres extranjero con permiso de residencia, cambiar de cantón implica más gestiones de las que mucha gente prevé.</p>
+<p>Lo primero es notificar tu salida a la comuna actual y registrarte en la nueva dentro de los 14 días siguientes a tu traslado. Esto no es opcional: es una obligación legal. Si tienes permiso B o C, la nueva autoridad cantonal de migración tomará el relevo y emitirá el permiso correspondiente al nuevo cantón. Para ciudadanos de la UE/AELE el proceso es ágil, pero requiere que lo actives tú.</p>
+<p>Un matiz que conviene conocer: si eres titular de un permiso B y estás cobrando el paro (chômage/RAV), no puedes cambiar de cantón libremente. La ley exige que no estés en desempleo para ejercer ese derecho de movilidad. La oficina RAV del nuevo cantón lo comprobará, y si no hay comunicación con la del cantón de origen, el traslado queda bloqueado.</p>
+<p>En cuanto a los impuestos, si te mudas a mitad del año, pagas impuestos cantonales en proporción al tiempo vivido en cada cantón. Para los que tributan a la fuente, la nueva tasa se aplica a partir del mes siguiente al cambio de domicilio. Las diferencias entre cantones son considerables: Zug, Schwyz o Nidwald tienen tipos muy inferiores a Ginebra, Berna o Vaud. No es raro que alguien se plantee el traslado por motivos puramente fiscales.</p>
+<p>El seguro médico no cambia automáticamente, pero los precios de las primas varían por cantón de residencia. Es el momento de comparar.</p>
+<p>En resumen: es posible hacerlo, el proceso existe y funciona. Pero no pasa solo.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-02-si-te-pones-enfermo-en-suiza-esto-es-lo-que-debes-hacer-y-lo-que-te-cu": {
+        title: "Si te pones enfermo en Suiza, esto es lo que debes hacer y lo que te cubre",
+        description: "La baja laboral en Suiza funciona de modo bastante diferente al sistema español, y entenderlo antes de necesitarla evita sorpresas desagradables.",
+        keywords: "pones, enfermo, suiza, esto, debes, hacer, cubre, baja",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-2-si-te-pones-enfermo-en-suiza-esto-es-lo-que-debes-hacer-y-lo-que-te-cu",
+        readingTime: 1,
+        dateUpdated: "3 mayo 2026",
+        summary: "La baja laboral en Suiza funciona de modo bastante diferente al sistema español, y entenderlo antes de necesitarla evita sorpresas desagradables.",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>La baja laboral en Suiza funciona de modo bastante diferente al sistema español, y entenderlo antes de necesitarla evita sorpresas desagradables.</p>
+<p>Lo primero: si no puedes trabajar por enfermedad, debes avisarlo a tu empleador cuanto antes, ese mismo día si es posible. No es una formalidad: es una obligación contractual. El certificado médico, en la mayoría de empresas, se exige a partir del tercer día, aunque el contrato puede pedirlo desde el primero. Si no lo presentas a tiempo, el empleador puede descontarte los días.</p>
+<p>Lo que te corresponde: el artículo 324a del Código de Obligaciones (CO) obliga al empleador a pagarte el salario íntegro durante la baja. En el primer año de contrato, ese mínimo es de tres semanas. A partir del segundo año, la duración aumenta con la antigüedad según las escalas de referencia cantonales. Sin embargo, la mayoría de las empresas tienen un seguro de indemnidades diarias (Krankentaggeld) que cubre el 80% del salario durante 720 días dentro de un período de 900 días. Este seguro sustituye a la obligación directa del empleador, y la ley exige que éste pague al menos la mitad de la prima.</p>
+<p>Dos cosas que mucha gente no sabe: no existe ningún día de carencia en Suiza, es decir, cobras desde el primer día de baja. Y tu contrato está protegido: el empleador no puede despedirte mientras estás de baja médica, durante un período de 30, 90 o 180 días según tu antigüedad.</p>
+<p>Si la empresa no tiene ese seguro y aplica solo el mínimo legal, la cobertura es bastante más corta. Merece la pena saberlo antes de necesitarlo.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-03-el-dentista-en-suiza-no-lo-cubre-el-seguro-basico-y-muchos-lo-descubre": {
+        title: "El dentista en Suiza no lo cubre el seguro básico, y muchos lo descubren de la peor manera",
+        description: "En España, la seguridad social cubre algunas prestaciones dentales básicas. No es mucho, pero existe algo. En Suiza, el seguro médico obligatorio (LAMal) no…",
+        keywords: "dentista, suiza, cubre, seguro, básico, muchos, descubren, peor",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-3-el-dentista-en-suiza-no-lo-cubre-el-seguro-basico-y-muchos-lo-descubre",
+        readingTime: 1,
+        dateUpdated: "3 mayo 2026",
+        summary: "En España, la seguridad social cubre algunas prestaciones dentales básicas. No es mucho, pero existe algo. En Suiza, el seguro médico obligatorio…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En España, la seguridad social cubre algunas prestaciones dentales básicas. No es mucho, pero existe algo. En Suiza, el seguro médico obligatorio (LAMal) no cubre prácticamente nada de lo que ocurre en una consulta dental. Y conviene saberlo antes de sentarte en el sillón.</p>
+<p>La LAMal solo paga tratamientos dentales en tres situaciones concretas: cuando son consecuencia de una enfermedad grave del aparato masticador, cuando son necesarios para tratar otra enfermedad grave, o cuando el daño fue causado por un accidente y ninguna otra cobertura lo asume. Fuera de esas tres excepciones, la LAMal no interviene. Una caries, una extracción, una limpieza, una ortodoncia de adulto, un implante, una funda: todo eso va directamente a tu bolsillo.</p>
+<p>Los precios son acordes al país. Una limpieza básica ronda los 150-200 francos. Una extracción puede costar entre 200 y 500. Un implante completo, entre 3.000 y 5.000 francos por pieza. Una ortodoncia para adultos puede superar los 10.000.</p>
+<p>Existe la posibilidad de contratar una Zusatzversicherung dental (seguro complementario dental), pero tiene sus propias reglas: casi todas las aseguradoras exigen un período de espera de varios meses antes de empezar a cubrir, tienen un límite anual (habitualmente entre el 50 y el 75% de los costes, hasta un techo de 1.000 a 3.000 francos anuales) y no cubren tratamientos que ya tenías en marcha cuando contratas.</p>
+<p>El consejo práctico: contrátala cuando llegues, antes de que haya ningún problema. Y ve al dentista con regularidad; aquí la prevención sale mucho más barata que la intervención.</p>
+</div>`
     }
 });
