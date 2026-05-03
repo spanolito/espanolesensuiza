@@ -356,15 +356,11 @@ strong, b {
     box-shadow: var(--shadow-sm);
 }
 
-.site-header .container {
-    max-width: 1460px;
-}
-
 .header-inner {
     display: grid;
     grid-template-columns: auto 1fr auto;
     align-items: center;
-    gap: 1.5rem;
+    gap: 1rem;
 }
 
 .logo-link {
@@ -403,7 +399,7 @@ strong, b {
 .main-nav {
     display: flex;
     align-items: center;
-    gap: var(--space-md);
+    gap: 1.25rem;
     flex: 1 1 auto;
     min-width: 0;
     justify-content: center;
