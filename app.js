@@ -1378,18 +1378,26 @@ document.addEventListener("DOMContentLoaded", () => {
         return normalizedPath === "/" || normalizedPath === "";
     }
 
-    document.querySelectorAll('a[href="#/"].nav-link, a[href="#/"].logo-link').forEach(link => {
-        link.addEventListener("click", (event) => {
-            if (!isCurrentRouteHome()) return;
+    function scrollHomeToTop() {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+        document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
+        document.body.scrollTop = 0;
+        if (appContainer) {
+            appContainer.scrollIntoView({ block: "start", behavior: "smooth" });
+        }
+    }
 
-            event.preventDefault();
-            if (window.innerWidth <= 768) {
-                mainNav.classList.remove("open");
-                mobileToggle.setAttribute("aria-expanded", "false");
-            }
-            window.scrollTo({ top: 0, behavior: "smooth" });
-        });
-    });
+    document.addEventListener("click", (event) => {
+        const homeLink = event.target.closest('a[href="#/"]');
+        if (!homeLink || !isCurrentRouteHome()) return;
+
+        event.preventDefault();
+        if (window.innerWidth <= 768) {
+            mainNav.classList.remove("open");
+            mobileToggle.setAttribute("aria-expanded", "false");
+        }
+        scrollHomeToTop();
+    }, true);
 
     // Dropdown Logic
     const dropdowns = document.querySelectorAll(".dropdown");
