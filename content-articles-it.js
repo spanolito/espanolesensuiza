@@ -12755,7 +12755,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         slug: "la-13-pensi-n-avs-qu-es-cu-ndo-llega-y-a-qui-n-afecta",
         readingTime: 3,
         dateUpdated: "2026-04-16",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "L'iniziativa popolare "Per una vita migliore in pensione" è stata accettata il 3 marzo 2024 dal popolo svizzero con il 58,2% dei voti. La conseguenza…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>L'iniziativa popolare "Per una vita migliore in pensione" è stata accettata il 3 marzo 2024 dal popolo svizzero con il 58,2% dei voti. La conseguenza diretta: a partire da dicembre 2026 tutti i pensionati con reddito AVS riceveranno per la prima volta una tredicesima mensilità, equivalente a una mensilità intera. L'importo va da un minimo di CHF 1.225 a un massimo di CHF 2.520, a seconda degli anni di contributi accumulati. Per chi applica il canone massimo si parla di 2'520 franchi in più in un'unica soluzione. 
@@ -12781,7 +12781,7 @@ Se avete tra i 55 e i 65 anni è il momento di richiedere il vostro estratto con
         slug: "el-impuesto-a-la-fuente-en-suiza-lo-que-tu-n-mina-no-te-explica",
         readingTime: 3,
         dateUpdated: "2026-04-16",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "Se hai un permesso B o L e lavori in Svizzera, probabilmente non hai mai presentato la dichiarazione dei redditi. Non è che sei esente: è che il tuo…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>Se hai un permesso B o L e lavori in Svizzera, probabilmente non hai mai presentato la dichiarazione dei redditi. Non è che sei esente: è che il tuo datore di lavoro trattiene ogni mese l'imposta direttamente sulla tua busta paga. Si chiama imposta alla fonte, Quellensteuer in tedesco, impôt à la source in francese. Il sistema è apparentemente conveniente, ma nasconde delle sfumature che possono costarti centinaia o addirittura migliaia di franchi se non conosci i diritti che ti riguardano. 
@@ -12807,7 +12807,7 @@ Le differenze cantonali su questo punto sono rilevanti. La soglia federale di 12
         slug: "a-os-cotizados-en-espa-a-cuentan-para-tu-jubilaci-n-en-suiza",
         readingTime: 3,
         dateUpdated: "2026-04-16",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "C'è una domanda che si pone regolarmente tra gli spagnoli arrivati in Svizzera da adulti e che hanno lavorato per diversi anni in Spagna prima di…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>C'è una domanda che si pone regolarmente tra gli spagnoli arrivati in Svizzera da adulti e che hanno lavorato per diversi anni in Spagna prima di emigrare: quegli anni di contribuzione servono a qualcosa qui? La risposta è sì, ma con una sfumatura cruciale che pochissimi spiegano con precisione, e che fa la differenza tra comprendere bene la propria situazione pensionistica o pianificarla su basi sbagliate. 
@@ -12833,7 +12833,7 @@ La raccomandazione pratica, soprattutto se hai più di 55 anni, è chiara: richi
         slug: "venir-a-trabajar-a-suiza-lo-que-necesitas-tener-resuelto-antes-de-llegar",
         readingTime: 2,
         dateUpdated: "2026-04-16",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "C'è una confusione che si ripete costantemente nei gruppi di spagnoli in Svizzera: l'idea che, come cittadino dell'UE, puoi venire in Svizzera,…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>C'è una confusione che si ripete costantemente nei gruppi di spagnoli in Svizzera: l'idea che, come cittadino dell'UE, puoi venire in Svizzera, stabilirti e cercare lavoro e un appartamento quando sei qui. La libera circolazione esiste sì, ma prevede condizioni che i servizi cantonali della migrazione applicano in modo più rigoroso rispetto a prima. Arrivare senza contratto di lavoro e senza domicilio confermato significa, in pratica, partire con il piede sbagliato. 
@@ -12857,7 +12857,7 @@ Per chi è già qui o sta progettando il trasloco, il messaggio è semplice: pri
         slug: "el-14-de-junio-suiza-vota-si-limita-su-poblaci-n-a-10-millones",
         readingTime: 2,
         dateUpdated: "2026-04-16",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "Il 14 giugno 2026 i cittadini svizzeri si recheranno alle urne per votare su una delle iniziative popolari di più diretta rilevanza per gli stranieri…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>Il 14 giugno 2026 i cittadini svizzeri si recheranno alle urne per votare su una delle iniziative popolari di più diretta rilevanza per gli stranieri degli ultimi decenni. L'iniziativa, promossa dall'UDC (Unione Democratica Centrale), propone di iscrivere nella Costituzione federale l'obbligo di mantenere la popolazione totale della Svizzera al di sotto dei 10 milioni di abitanti entro il 2050. Il Paese conta attualmente circa 9,1 milioni di abitanti, di cui il 27% stranieri. 
@@ -12881,7 +12881,7 @@ Se risiedi straniero in Svizzera, non puoi votare in questa votazione federale, 
         slug: "lpp-2026-las-pensiones-de-invalidez-y-supervivencia-por-fin-ajustadas-a-los-precios",
         readingTime: 2,
         dateUpdated: "2026-04-16",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "C'è un cambiamento entrato in vigore il 1° gennaio 2026 e che è passato in gran parte inosservato tra i gruppi di spagnoli in Svizzera, ma che…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>C'è un cambiamento entrato in vigore il 1° gennaio 2026 e che è passato in gran parte inosservato tra i gruppi di spagnoli in Svizzera, ma che colpisce una parte molto specifica della comunità: le persone che ricevono una pensione di invalidità del secondo pilastro (LPP) o una pensione di reversibilità come vedova, vedovo o orfano, anch'essa derivata dalla LPP obbligatoria. Per la prima volta da quando esiste questa assicurazione, queste pensioni sono state adeguate all'evoluzione del costo della vita. 
@@ -12905,7 +12905,7 @@ Questo tasso di cambio non compare in nessuna lettera ufficiale dal titolo accat
         slug: "tardoc-lo-que-ha-cambiado-en-tu-consulta-m-dica-desde-enero-de-2026",
         readingTime: 2,
         dateUpdated: "2026-04-17",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "Dal 1° gennaio 2026, ogni volta che vai dal medico in Svizzera, la fattura che arriva al tuo assicuratore non viene più calcolata con il vecchio…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>Dal 1° gennaio 2026, ogni volta che vai dal medico in Svizzera, la fattura che arriva al tuo assicuratore non viene più calcolata con il vecchio sistema Tarmed. Quella entrata in vigore si chiama Tardoc, insieme ad una serie di tariffe forfettarie per alcune prestazioni ambulatoriali. Il cambiamento può sembrare tecnico, ma riguarda tutti. 
@@ -12927,7 +12927,7 @@ Per il paziente, il cambiamento non dovrebbe tradursi in fatture più alte. Il C
         slug: "el-permiso-c-cinco-a-os-despu-s-hay-algo-que-pedir",
         readingTime: 2,
         dateUpdated: "2026-04-17",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "C'è una domanda che ricorre regolarmente nei gruppi: "Quanti anni devo essere qui per avere il permesso C?" La risposta breve è cinque anni se sei…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>C'è una domanda che ricorre regolarmente nei gruppi: "Quanti anni devo essere qui per avere il permesso C?" La risposta breve è cinque anni se sei cittadino dell’UE, come lo sono gli spagnoli. Ma la risposta utile è un po’ più lunga. 
@@ -12949,7 +12949,7 @@ Per richiederlo, oltre ai cinque anni di residenza continuativa, le autorità ve
         slug: "si-pierdes-el-trabajo-en-suiza-esto-es-lo-que-debes-saber-desde-el-primer-d-a",
         readingTime: 2,
         dateUpdated: "2026-04-17",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "La disoccupazione in Svizzera è in aumento dalla metà del 2024. Nel dicembre 2025 ha raggiunto il 3,1% e la SECO prevede che continuerà a crescere…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>La disoccupazione in Svizzera è in aumento dalla metà del 2024. Nel dicembre 2025 ha raggiunto il 3,1% e la SECO prevede che continuerà a crescere moderatamente nel 2026. Non è una crisi, ma non è l’invulnerabile mercato del lavoro di qualche anno fa. Gli stranieri, compresi gli spagnoli, sono statisticamente più colpiti degli svizzeri. 
@@ -12969,7 +12969,7 @@ Un dettaglio che pochissimi sanno: se hai lavorato e contribuito in Spagna prima
         slug: "el-fin-de-la-penalizaci-n-fiscal-al-matrimonio-en-suiza-lo-que-cambia-y-cu-ndo",
         readingTime: 2,
         dateUpdated: "2026-04-18",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "L'8 marzo 2026 la Svizzera ha approvato con il 54,26% della legge federale sulla tassazione individuale. In pratica significa la fine di decenni di…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>L'8 marzo 2026 la Svizzera ha approvato con il 54,26% della legge federale sulla tassazione individuale. In pratica significa la fine di decenni di un sistema che penalizzava fiscalmente le coppie sposate rispetto a quelle che convivevano senza sposarsi. D'ora in poi ciascun coniuge dichiarerà e pagherà le tasse sul proprio reddito e patrimonio, esattamente come se fosse single. La riforma non entrerà in vigore domani, ma al più tardi nel 2032, lasciando all’amministrazione il tempo di adattarsi a 1,7 milioni di dichiarazioni aggiuntive. 
@@ -12991,7 +12991,7 @@ Ciò che non va perso di vista è l’argomento alla base della riforma: il sist
         slug: "el-taux-de-r-f-rence-se-mantiene-en-1-25-ni-bajas-de-alquiler-ni-subidas-para-los-inquilinos-suizos",
         readingTime: 2,
         dateUpdated: "2026-04-18",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "Nel marzo 2026, il Bundesamt für Wohnungswesen (BWO) ha confermato che il taux Hypothécaire de référence, l'indicatore che in Svizzera regola la…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>Nel marzo 2026, il Bundesamt für Wohnungswesen (BWO) ha confermato che il taux Hypothécaire de référence, l'indicatore che in Svizzera regola la possibilità di modificare gli affitti, rimane all'1,25%. La notizia ha una doppia lettura. Da un lato i proprietari non possono esigere aumenti degli affitti sulla base di questo indice. D'altro canto, anche se può sembrare una buona notizia per gli inquilini, neanche loro hanno il diritto di pretendere una riduzione. 
@@ -13013,7 +13013,7 @@ Da un punto di vista pratico, se negli ultimi anni il tuo padrone di casa ha aum
         slug: "las-subvenciones-a-las-primas-del-seguro-m-dico-un-dinero-al-que-muchos-tienen-derecho-y-no-piden",
         readingTime: 2,
         dateUpdated: "2026-04-18",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "Nel 2026 i premi della cassa malati in Svizzera sono aumentati tra il 4% e il 15% a seconda del cantone, con casi eclatanti come Nidvaldo (+15%) o…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>Nel 2026 i premi della cassa malati in Svizzera sono aumentati tra il 4% e il 15% a seconda del cantone, con casi eclatanti come Nidvaldo (+15%) o Zugo (+11%). Ciò che molti non sanno è che esiste un sistema di aiuti cantonali per ridurre i costi, il cosiddetto "Prämienverbilligung" (IPT, in francese), e che una parte significativa degli abitanti che ne avrebbero diritto semplicemente non ne fanno richiesta, o per ignoranza o perché credono che siano destinati solo a persone in situazioni precarie. 
@@ -13033,7 +13033,7 @@ Il primo e più semplice passo è consultare il portale del cantone di residenza
         slug: "la-regla-de-los-90-d-as-en-suiza-lo-que-confunde-a-muchos-espa-oles",
         readingTime: 2,
         dateUpdated: "2026-04-19",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "C'è un malinteso che si ripresenta costantemente nel gruppo e che vale la pena chiarire una volta per tutte. I cittadini spagnoli possono entrare in…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>C'è un malinteso che si ripresenta costantemente nel gruppo e che vale la pena chiarire una volta per tutte. I cittadini spagnoli possono entrare in Svizzera senza visto e senza alcuna autorizzazione preventiva. Fino ad allora, tutto è corretto. Ma ciò non significa che possano stabilirsi o iniziare a lavorare senza ulteriori indugi semplicemente perché hanno un passaporto europeo. 
@@ -13057,7 +13057,7 @@ C’è un ulteriore elemento che comincia a circolare e che vale la pena conosce
         slug: "encontrar-piso-en-suiza-en-2026-bienvenido-al-deporte-m-s-frustrante-del-pa-s",
         readingTime: 2,
         dateUpdated: "2026-04-19",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "Se qualcosa accomuna quasi tutti noi che siamo in Svizzera da un po', è l'esperienza di cercare un appartamento. Non importa se parli quattro lingue,…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>Se qualcosa accomuna quasi tutti noi che siamo in Svizzera da un po', è l'esperienza di cercare un appartamento. Non importa se parli quattro lingue, hai uno stipendio dignitoso e referenze impeccabili: il mercato degli affitti resta uno dei più tesi in Europa e nel 2026 non è migliorato. Il tasso di vacancy, cioè la percentuale di appartamenti disponibili sul totale, è a livelli storicamente bassi, soprattutto nelle grandi città. A Zurigo e Ginevra trovare un appartamento in affitto a condizioni ragionevoli è più una prova di resistenza psicologica che un processo razionale. 
@@ -13079,7 +13079,7 @@ Ciò che molti nuovi arrivati ​​non calcolano è il tempo. Trovare un appart
         slug: "suiza-no-tiene-salario-m-nimo-nacional-pero-eso-no-significa-que-no-haya-suelo-salarial",
         readingTime: 2,
         dateUpdated: "2026-04-19",
-        summary: "Guida della community basata su esperienze recenti e verificate.",
+        summary: "È uno di quegli argomenti che genera confusione fin dal primo giorno. Tecnicamente, la Svizzera non ha un salario minimo fissato a livello federale.…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>È uno di quegli argomenti che genera confusione fin dal primo giorno. Tecnicamente, la Svizzera non ha un salario minimo fissato a livello federale. Ma dire che “in Svizzera non esiste un salario minimo” è semplificare fino a disinformare, perché in pratica ci sono livelli salariali ben definiti, semplicemente funzionano in modo diverso da quello che conosciamo in Spagna. 
