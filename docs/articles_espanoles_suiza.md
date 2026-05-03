@@ -1,8 +1,8 @@
 # Articles publies - Espanoles que realmente se ayudan en Suiza
 
-Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications scrapees jusqu'au 1er mai 2026.
+Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications scrapees jusqu'au 3 mai 2026.
 
-**Total : 645 publications**
+**Total : 651 publications**
 
 ---
 
@@ -1939,3 +1939,21 @@ Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications 
 
 **645.** Perder el trabajo en Suiza con permiso B no significa perder el permiso, pero las condiciones importan mucho  
 *mai 1, 2026*
+
+**646.** El seguro de accidentes en Suiza no cubre todo lo que te pasa en el trabajo  
+*mai 2, 2026*
+
+**647.** Tener un perro en Suiza cuesta mas de lo que parece  
+*mai 2, 2026*
+
+**648.** Trabajar a tiempo parcial en Suiza no es solo cobrar la mitad  
+*mai 2, 2026*
+
+**649.** Cambiar de cantón en Suiza no es solo cambiar de dirección  
+*mai 3, 2026*
+
+**650.** Si te pones enfermo en Suiza, esto es lo que debes hacer y lo que te cubre  
+*mai 3, 2026*
+
+**651.** El dentista en Suiza no lo cubre el seguro básico, y muchos lo descubren de la peor manera  
+*mai 3, 2026*
