@@ -1156,6 +1156,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const SCAM_WARNING_TIMESTAMP_KEY = "fraudWarningLastShown";
     const SCAM_WARNING_TTL_MS = 10 * 24 * 60 * 60 * 1000;
     let scamWarningModal = null;
+    let activeHomeSearchCleanup = null;
 
     function applyLanguage(lang) {
         if (!lang || !window.siteContent[lang]) return false;
@@ -1522,6 +1523,11 @@ document.addEventListener("DOMContentLoaded", () => {
     function initializeComponents() {
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
 
+        if (typeof activeHomeSearchCleanup === "function") {
+            activeHomeSearchCleanup();
+            activeHomeSearchCleanup = null;
+        }
+
         initCounterAnimations();
 
         // Accordions
@@ -1576,44 +1582,65 @@ document.addEventListener("DOMContentLoaded", () => {
         if (searchInput) {
             const displayArea = document.getElementById('search-results');
             const searchContainer = searchInput.closest('.search-container');
+            const langArticles = window.siteContent[currentLang].articles || {};
+            const canonicalArticles = getCanonicalArticlesForLang(langArticles);
+            let isPanelOpen = false;
+
             const setSearchPanel = (html = '') => {
                 if (!displayArea) return;
                 displayArea.innerHTML = html;
+                isPanelOpen = html.trim().length > 0;
                 if (searchContainer) {
-                    searchContainer.classList.toggle('is-search-active', html.trim().length > 0);
+                    searchContainer.classList.toggle('is-search-active', isPanelOpen);
                 }
             };
 
+            const closeSearchPanel = ({ clearInput = false, blurInput = false } = {}) => {
+                if (clearInput) searchInput.value = '';
+                setSearchPanel('');
+                if (blurInput) searchInput.blur();
+            };
+
+            const showSuggestions = () => {
+                setSearchPanel(buildHomeSearchSuggestionsHTML({
+                    ui,
+                    currentLang,
+                    articles: canonicalArticles
+                }));
+            };
+
             const updateSearch = () => {
-                const term = searchInput.value.toLowerCase().trim();
+                const rawTerm = searchInput.value.trim();
+                const term = rawTerm.toLowerCase();
                 const sortMode = sortSelect ? sortSelect.value : 'relevancia';
                 const newsKeywords = ['nuevo', 'nouveau', 'new', 'neu', 'nuovo', 'novedad', 'novedades'];
                 const isNewsSearch = newsKeywords.includes(term);
+                const searchLabels = getHomeSearchFrequentTerms(currentLang);
 
-                if (!term || (term.length < 3 && !isNewsSearch)) {
-                    setSearchPanel('');
+                if (!document.activeElement || document.activeElement !== searchInput) {
                     return;
                 }
 
-                const langData = window.siteContent[currentLang].articles;
                 const filterAudience = document.getElementById('search-filter-audience') ? document.getElementById('search-filter-audience').value : '';
+
+                if (!term) {
+                    showSuggestions();
+                    return;
+                }
 
                 let resultsRaw = [];
                 if (isNewsSearch) {
-                    resultsRaw = Object.keys(langData).map(key => ({ id: key, ...langData[key] }));
+                    resultsRaw = canonicalArticles;
                 } else {
-                    resultsRaw = Object.keys(langData).filter(key => {
-                        const article = langData[key];
+                    resultsRaw = canonicalArticles.filter(article => {
                         const termMatch = (article.title && article.title.toLowerCase().includes(term)) ||
                             (article.keywords && article.keywords.toLowerCase().includes(term)) ||
                             (article.description && article.description.toLowerCase().includes(term)) ||
                             (article.summary && article.summary.toLowerCase().includes(term));
                         const audienceMatch = filterAudience === '' || article.audience === filterAudience;
                         return termMatch && audienceMatch;
-                    }).map(key => ({ id: key, ...langData[key] }));
+                    });
                 }
-                
-                resultsRaw = resultsRaw.filter(a => a && a.slug && hasValidTitle(a));
 
                 const bySlug = new Map();
                 for (const a of resultsRaw) {
@@ -1629,23 +1656,91 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (results.length > 0) {
                     const finalResults = (sortMode === 'recientes' || isNewsSearch) ? results.slice(0, 24) : results.slice(0, 30);
                     setSearchPanel(`
-                        ${(sortMode === 'recientes' || isNewsSearch) ? `<h3 style="margin-top:2rem; border-bottom:none;">${ui['home-title-latest']}</h3>` : ''}
-                        <div class="featured-grid" style="margin-top: 1rem;">
+                        <section class="search-panel-section">
+                            <h3 class="search-panel-title">${searchLabels.resultsTitle}</h3>
+                            <div class="featured-grid" style="margin-top: 1rem;">
                             ${finalResults.map(r => renderCard(r, ui, { compact: true, showBadge: (sortMode === 'recientes' || isNewsSearch) })).join('')}
-                        </div>
+                            </div>
+                        </section>
                     `);
                 } else {
-                    setSearchPanel(`<p style="margin-top:2rem;">${ui['lbl-no-results']} "${term}".</p>`);
+                    setSearchPanel(`<p style="margin-top:2rem;">${ui['lbl-no-results']} "${rawTerm}".</p>`);
                 }
             };
 
+            const handleSearchPanelClick = (event) => {
+                const searchTermBtn = event.target.closest('[data-search-term]');
+                if (searchTermBtn) {
+                    const nextTerm = searchTermBtn.getAttribute('data-search-term') || '';
+                    searchInput.value = nextTerm;
+                    searchInput.focus();
+                    updateSearch();
+                    return;
+                }
+
+                const articleLink = event.target.closest('a[href^="#/"]');
+                if (articleLink) {
+                    closeSearchPanel({ blurInput: true });
+                }
+            };
+
+            const handleDocumentPointerDown = (event) => {
+                if (!searchContainer || !isPanelOpen) return;
+                if (!searchContainer.contains(event.target)) {
+                    closeSearchPanel({ blurInput: true });
+                }
+            };
+
+            const handleDocumentKeydown = (event) => {
+                if (event.key === "Escape" && isPanelOpen) {
+                    closeSearchPanel({ blurInput: true });
+                }
+            };
+
+            const handleHashChangeClose = () => {
+                closeSearchPanel({ blurInput: true });
+            };
+
+            const handleSearchFocusOut = (event) => {
+                const nextFocus = event.relatedTarget;
+                if (searchContainer && nextFocus && searchContainer.contains(nextFocus)) {
+                    return;
+                }
+
+                window.setTimeout(() => {
+                    if (!searchContainer) return;
+                    const activeEl = document.activeElement;
+                    if (!activeEl || !searchContainer.contains(activeEl)) {
+                        closeSearchPanel();
+                    }
+                }, 0);
+            };
+
+            searchInput.addEventListener('focus', updateSearch);
             searchInput.addEventListener('input', updateSearch);
+            if (searchContainer) searchContainer.addEventListener('focusout', handleSearchFocusOut);
+            if (displayArea) displayArea.addEventListener('click', handleSearchPanelClick);
             if (sortSelect) {
                 sortSelect.addEventListener('change', () => {
-                    setSearchPanel('');
+                    closeSearchPanel({ blurInput: true });
                     injectHomepageLatestArticles(sortSelect.value || 'recientes');
                 });
             }
+
+            document.addEventListener('pointerdown', handleDocumentPointerDown);
+            document.addEventListener('keydown', handleDocumentKeydown);
+            window.addEventListener('hashchange', handleHashChangeClose);
+
+            activeHomeSearchCleanup = () => {
+                closeSearchPanel();
+                searchInput.removeEventListener('focus', updateSearch);
+                searchInput.removeEventListener('input', updateSearch);
+                if (searchContainer) searchContainer.removeEventListener('focusout', handleSearchFocusOut);
+                if (displayArea) displayArea.removeEventListener('click', handleSearchPanelClick);
+                document.removeEventListener('pointerdown', handleDocumentPointerDown);
+                document.removeEventListener('keydown', handleDocumentKeydown);
+                window.removeEventListener('hashchange', handleHashChangeClose);
+            };
         }
     }
 
@@ -1707,6 +1802,96 @@ document.addEventListener("DOMContentLoaded", () => {
         const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
         const contentLen = article && article.content ? String(article.content).length : 0;
         return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
+    }
+
+    function getCanonicalArticlesForLang(langArticles) {
+        const allRaw = Object.keys(langArticles || {})
+            .map(key => ({ id: key, ...langArticles[key] }))
+            .filter(article => article && article.slug && hasValidTitle(article));
+
+        const bySlug = new Map();
+        for (const article of allRaw) {
+            const mapKey = article.slug || article.id;
+            const prev = bySlug.get(mapKey);
+            if (!prev || scoreGuideCandidateForSort(article) > scoreGuideCandidateForSort(prev)) {
+                bySlug.set(mapKey, article);
+            }
+        }
+
+        return Array.from(bySlug.values());
+    }
+
+    function getHomeSearchFrequentTerms(lang) {
+        const labels = {
+            es: {
+                resultsTitle: "Resultados",
+                title: "Busquedas frecuentes",
+                terms: ["permiso B", "LAMal", "impuestos", "vivienda", "frontalier", "CV suizo"]
+            },
+            en: {
+                resultsTitle: "Results",
+                title: "Popular searches",
+                terms: ["permit B", "LAMal", "taxes", "housing", "frontaliers", "Swiss CV"]
+            },
+            fr: {
+                resultsTitle: "Resultats",
+                title: "Recherches frequentes",
+                terms: ["permis B", "LAMal", "impots", "logement", "frontalier", "CV suisse"]
+            },
+            de: {
+                resultsTitle: "Ergebnisse",
+                title: "Haufige Suchen",
+                terms: ["Bewilligung B", "LAMal", "Steuern", "Wohnen", "Grenzganger", "Schweizer CV"]
+            },
+            it: {
+                resultsTitle: "Risultati",
+                title: "Ricerche frequenti",
+                terms: ["permesso B", "LAMal", "tasse", "alloggio", "frontalier", "CV svizzero"]
+            }
+        };
+
+        return labels[lang] || labels.es;
+    }
+
+    function buildHomeSearchSuggestionsHTML({ ui, currentLang, articles }) {
+        const latest = [...articles]
+            .sort(getArticleSortComparator("recientes"))
+            .slice(0, 4);
+
+        const featuredSlugs = [
+            "tramites-llegada-suiza",
+            "seguro-medico-lamal-suiza",
+            "alquilar-vivienda-suiza"
+        ];
+
+        const featured = featuredSlugs
+            .map(slug => articles.find(article => article.slug === slug))
+            .filter(Boolean);
+
+        const frequent = getHomeSearchFrequentTerms(currentLang);
+
+        return `
+            <div class="search-suggestions-panel">
+                <section class="search-panel-section">
+                    <h3 class="search-panel-title">${ui['home-title-latest']}</h3>
+                    <div class="featured-grid">
+                        ${latest.map(article => renderCard(article, ui, { compact: true, showBadge: true })).join('')}
+                    </div>
+                </section>
+                <section class="search-panel-section">
+                    <h3 class="search-panel-title">${ui['home-title-featured']}</h3>
+                    <div class="featured-grid">
+                        ${featured.map(article => renderCard(article, ui, { compact: true })).join('')}
+                    </div>
+                </section>
+                <section class="search-panel-section">
+                    <h3 class="search-panel-title">${frequent.title}</h3>
+                    <div class="search-frequent-list">
+                        ${frequent.terms.map(term => `<button type="button" class="search-chip" data-search-term="${term}">${term}</button>`).join('')}
+                    </div>
+                </section>
+            </div>
+        `;
     }
 
     function renderCard(r, ui, opts = {}) {
