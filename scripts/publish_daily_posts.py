@@ -46,10 +46,7 @@ TARGET_FILES = {
     "it": os.path.join(SITE_DIR, "content-articles-facebook-daily-it.js"),
 }
 
-DEEPL_API_KEY = os.environ.get(
-    "DEEPL_API_KEY",
-    "c6e36772-ce76-494a-a3aa-6625cc5bf6c6:fx"
-)
+DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
 
 DEEPL_ENDPOINT = "https://api-free.deepl.com/v2/translate"
 DEEPL_TARGETS = {
@@ -227,6 +224,13 @@ def js_template(text: str) -> str:
 # ── DeepL ─────────────────────────────────────────────────────────────────────
 
 _CACHE: dict = {}
+
+
+def require_env(name: str) -> str:
+    value = os.getenv(name)
+    if not value:
+        raise ValueError(f"Missing {name} environment variable")
+    return value
 
 
 def translate_text(text: str, lang: str, retries: int = 3) -> str:
@@ -421,6 +425,9 @@ def main() -> None:
     parser.add_argument("--date", help="Date YYYY-MM-DD. Défaut : aujourd'hui")
     parser.add_argument("--dry-run", action="store_true", help="Affiche sans écrire ni pusher")
     args = parser.parse_args()
+
+    global DEEPL_API_KEY
+    DEEPL_API_KEY = require_env("DEEPL_API_KEY")
 
     if args.date:
         try:

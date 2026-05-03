@@ -79,3 +79,61 @@ Scripts asociados:
 
 - `scripts/run_daily_posts_import.sh`
 - `scripts/install_daily_posts_launch_agent.sh`
+
+## Variables de entorno
+
+Reglas:
+
+- no hardcodear secretos en el repositorio
+- configurar secretos en local con variables de entorno del shell
+- configurar secretos en Vercel en `Settings -> Environment Variables`
+- no usar `.env` en producción
+
+Variables necesarias para el flujo Python `scripts/publish_daily_posts.py`:
+
+- `DEEPL_API_KEY`: clave de DeepL obligatoria
+- `POSTS_DIR`: opcional, ruta de entrada de Markdown
+- `SITE_DIR`: opcional, ruta del proyecto
+
+Ejemplo local:
+
+```bash
+export DEEPL_API_KEY="tu_clave_deepl"
+export POSTS_DIR="/Users/oscarandujar/Projets/Publications/posts"
+export SITE_DIR="/Users/oscarandujar/Projets/espanolesensuiza"
+python3 scripts/publish_daily_posts.py --date 2026-05-03
+```
+
+Si falta `DEEPL_API_KEY`, el script debe fallar con error explícito.
+
+## Respuesta ante secretos comprometidos
+
+Si detectas una clave en el código o en el historial Git:
+
+1. Revócala inmediatamente en el proveedor.
+2. Rótala por una nueva.
+3. Elimina la clave del árbol actual.
+4. Limpia el historial con `git filter-repo` o `BFG Repo-Cleaner`.
+5. Haz `push --force` del historial reescrito.
+
+Ejemplo con `git filter-repo`:
+
+```bash
+git filter-repo --replace-text <(printf 'COMPROMISED_DEEPL_KEY==>REMOVED_DEEPL_KEY')
+git push --force --all
+git push --force --tags
+```
+
+Alternativa con BFG:
+
+```bash
+bfg --replace-text secrets.txt
+git push --force --all
+git push --force --tags
+```
+
+Donde `secrets.txt` contiene:
+
+```text
+COMPROMISED_DEEPL_KEY
+```
