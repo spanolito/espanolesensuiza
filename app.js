@@ -1574,15 +1574,24 @@ document.addEventListener("DOMContentLoaded", () => {
         const sortSelect = document.getElementById('global-search-sort');
 
         if (searchInput) {
+            const displayArea = document.getElementById('search-results');
+            const searchContainer = searchInput.closest('.search-container');
+            const setSearchPanel = (html = '') => {
+                if (!displayArea) return;
+                displayArea.innerHTML = html;
+                if (searchContainer) {
+                    searchContainer.classList.toggle('is-search-active', html.trim().length > 0);
+                }
+            };
+
             const updateSearch = () => {
                 const term = searchInput.value.toLowerCase().trim();
-                const displayArea = document.getElementById('search-results');
                 const sortMode = sortSelect ? sortSelect.value : 'relevancia';
                 const newsKeywords = ['nuevo', 'nouveau', 'new', 'neu', 'nuovo', 'novedad', 'novedades'];
-                const isNewsSearch = newsKeywords.includes(term) || sortMode === 'recientes';
+                const isNewsSearch = newsKeywords.includes(term);
 
-                if (term.length < 3 && !isNewsSearch) {
-                    displayArea.innerHTML = '';
+                if (!term || (term.length < 3 && !isNewsSearch)) {
+                    setSearchPanel('');
                     return;
                 }
 
@@ -1590,10 +1599,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 const filterAudience = document.getElementById('search-filter-audience') ? document.getElementById('search-filter-audience').value : '';
 
                 let resultsRaw = [];
-                if (isNewsSearch && !term) {
-                    // Show all articles sorted by date if term is empty but "recent" is selected
-                    resultsRaw = Object.keys(langData).map(key => ({ id: key, ...langData[key] }));
-                } else if (isNewsSearch && newsKeywords.includes(term)) {
+                if (isNewsSearch) {
                     resultsRaw = Object.keys(langData).map(key => ({ id: key, ...langData[key] }));
                 } else {
                     resultsRaw = Object.keys(langData).filter(key => {
@@ -1609,67 +1615,37 @@ document.addEventListener("DOMContentLoaded", () => {
                 
                 resultsRaw = resultsRaw.filter(a => a && a.slug && hasValidTitle(a));
 
-                const scoreGuideCandidate = (article) => {
-                    const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
-                    const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
-                    const contentLen = article && article.content ? String(article.content).length : 0;
-                    return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
-                };
-
                 const bySlug = new Map();
                 for (const a of resultsRaw) {
                     const key = a.slug || a.id;
                     const prev = bySlug.get(key);
-                    if (!prev || scoreGuideCandidate(a) > scoreGuideCandidate(prev)) bySlug.set(key, a);
+                    if (!prev || scoreGuideCandidateForSort(a) > scoreGuideCandidateForSort(prev)) bySlug.set(key, a);
                 }
 
                 const results = Array.from(bySlug.values())
-                    .sort((a, b) => {
-                        if (sortMode === 'recientes' || (isNewsSearch && newsKeywords.includes(term))) {
-                            const recA = articleRecencyScore(a);
-                            const recB = articleRecencyScore(b);
-                            if (recB.timestamp !== recA.timestamp) return recB.timestamp - recA.timestamp;
-                            if (recB.fbIndex !== recA.fbIndex) return recB.fbIndex - recA.fbIndex;
-                            return scoreGuideCandidate(b) - scoreGuideCandidate(a);
-                        } else if (sortMode === 'abc') {
-                            return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
-                        } else {
-                            const getRank = (art) => {
-                                const hasImg = !!art.image || !!art.featuredImage;
-                                const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
-                                const rt = Number(art.readingTime) || 0;
-                                const contentLen = art.content ? String(art.content).length : 0;
-                                const isRich = rt >= 5 || contentLen > 3000;
-                                if (!isFb && hasImg && isRich) return 4;
-                                if (!isFb && hasImg) return 3;
-                                if (!isFb) return 2;
-                                return 1;
-                            };
-                            const rankA = getRank(a);
-                            const rankB = getRank(b);
-                            if (rankA !== rankB) return rankB - rankA;
-                            const richA = (Number(a.readingTime) || 0) * 1000 + (a.content ? String(a.content).length : 0);
-                            const richB = (Number(b.readingTime) || 0) * 1000 + (b.content ? String(b.content).length : 0);
-                            return richB - richA;
-                        }
-                    });
+                    .sort(getArticleSortComparator(sortMode));
 
                 const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
                 if (results.length > 0) {
                     const finalResults = (sortMode === 'recientes' || isNewsSearch) ? results.slice(0, 24) : results.slice(0, 30);
-                    displayArea.innerHTML = `
-                        ${(sortMode === 'recientes' || (isNewsSearch && newsKeywords.includes(term))) ? `<h3 style="margin-top:2rem; border-bottom:none;">${ui['home-title-latest']}</h3>` : ''}
+                    setSearchPanel(`
+                        ${(sortMode === 'recientes' || isNewsSearch) ? `<h3 style="margin-top:2rem; border-bottom:none;">${ui['home-title-latest']}</h3>` : ''}
                         <div class="featured-grid" style="margin-top: 1rem;">
                             ${finalResults.map(r => renderCard(r, ui, { compact: true, showBadge: (sortMode === 'recientes' || isNewsSearch) })).join('')}
                         </div>
-                    `;
+                    `);
                 } else {
-                    displayArea.innerHTML = `<p style="margin-top:2rem;">${ui['lbl-no-results']} "${term}".</p>`;
+                    setSearchPanel(`<p style="margin-top:2rem;">${ui['lbl-no-results']} "${term}".</p>`);
                 }
             };
 
             searchInput.addEventListener('input', updateSearch);
-            if (sortSelect) sortSelect.addEventListener('change', updateSearch);
+            if (sortSelect) {
+                sortSelect.addEventListener('change', () => {
+                    setSearchPanel('');
+                    injectHomepageLatestArticles(sortSelect.value || 'recientes');
+                });
+            }
         }
     }
 
@@ -1689,6 +1665,48 @@ document.addEventListener("DOMContentLoaded", () => {
             .replace(/`([^`]*)`/g, '$1')
             .replace(/\s{2,}/g, ' ')
             .trim();
+    }
+
+    function getArticleSortComparator(sortMode) {
+        return (a, b) => {
+            if (sortMode === 'recientes') {
+                const recA = articleRecencyScore(a);
+                const recB = articleRecencyScore(b);
+                if (recB.timestamp !== recA.timestamp) return recB.timestamp - recA.timestamp;
+                if (recB.fbIndex !== recA.fbIndex) return recB.fbIndex - recA.fbIndex;
+                return scoreGuideCandidateForSort(b) - scoreGuideCandidateForSort(a);
+            }
+
+            if (sortMode === 'abc') {
+                return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
+            }
+
+            const getRank = (art) => {
+                const hasImg = !!art.image || !!art.featuredImage;
+                const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
+                const rt = Number(art.readingTime) || 0;
+                const contentLen = art.content ? String(art.content).length : 0;
+                const isRich = rt >= 5 || contentLen > 3000;
+                if (!isFb && hasImg && isRich) return 4;
+                if (!isFb && hasImg) return 3;
+                if (!isFb) return 2;
+                return 1;
+            };
+
+            const rankA = getRank(a);
+            const rankB = getRank(b);
+            if (rankA !== rankB) return rankB - rankA;
+            const richA = (Number(a.readingTime) || 0) * 1000 + (a.content ? String(a.content).length : 0);
+            const richB = (Number(b.readingTime) || 0) * 1000 + (b.content ? String(b.content).length : 0);
+            return richB - richA;
+        };
+    }
+
+    function scoreGuideCandidateForSort(article) {
+        const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
+        const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
+        const contentLen = article && article.content ? String(article.content).length : 0;
+        return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
     }
 
     function renderCard(r, ui, opts = {}) {
@@ -1939,20 +1957,13 @@ document.addEventListener("DOMContentLoaded", () => {
         const langData = window.siteContent[currentLang].articles;
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
 
-        const scoreGuideCandidate = (article) => {
-            const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
-            const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
-            const contentLen = article && article.content ? String(article.content).length : 0;
-            return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
-        };
-
         const allRaw = Object.keys(langData).map(key => ({ id: key, ...langData[key] })).filter(a => a && a.slug && hasValidTitle(a));
 
         const bySlug = new Map();
         for (const a of allRaw) {
             const key = a.slug || a.id;
             const prev = bySlug.get(key);
-            if (!prev || scoreGuideCandidate(a) > scoreGuideCandidate(prev)) bySlug.set(key, a);
+            if (!prev || scoreGuideCandidateForSort(a) > scoreGuideCandidateForSort(prev)) bySlug.set(key, a);
         }
 
         const baseArticles = Array.from(bySlug.values());
@@ -1971,36 +1982,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 return t.includes(term) || c.includes(term) || kw.includes(term) || d.includes(term) || s.includes(term);
             });
 
-            filtered.sort((a, b) => {
-                if (sortMode === 'recientes') {
-                    const recA = articleRecencyScore(a);
-                    const recB = articleRecencyScore(b);
-                    if (recB.timestamp !== recA.timestamp) return recB.timestamp - recA.timestamp;
-                    if (recB.fbIndex !== recA.fbIndex) return recB.fbIndex - recA.fbIndex;
-                    return scoreGuideCandidate(b) - scoreGuideCandidate(a);
-                } else if (sortMode === 'abc') {
-                    return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
-                } else {
-                    // Relevancia
-                    const getRank = (art) => {
-                        const hasImg = !!art.image || !!art.featuredImage;
-                        const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
-                        const rt = Number(art.readingTime) || 0;
-                        const contentLen = art.content ? String(art.content).length : 0;
-                        const isRich = rt >= 5 || contentLen > 3000;
-                        if (!isFb && hasImg && isRich) return 4;
-                        if (!isFb && hasImg) return 3;
-                        if (!isFb) return 2;
-                        return 1;
-                    };
-                    const rankA = getRank(a);
-                    const rankB = getRank(b);
-                    if (rankA !== rankB) return rankB - rankA;
-                    const richA = (Number(a.readingTime) || 0) * 1000 + (a.content ? String(a.content).length : 0);
-                    const richB = (Number(b.readingTime) || 0) * 1000 + (b.content ? String(b.content).length : 0);
-                    return richB - richA;
-                }
-            });
+            filtered.sort(getArticleSortComparator(sortMode));
 
             if (filtered.length > 0) {
                 container.innerHTML = filtered.map(r => renderCard(r, ui, { showBadge: sortMode === 'recientes' })).join('');
@@ -2032,19 +2014,13 @@ document.addEventListener("DOMContentLoaded", () => {
         ];
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
-        const scoreGuideCandidate = (article) => {
-            const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
-            const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
-            const contentLen = article && article.content ? String(article.content).length : 0;
-            return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
-        };
 
         const picked = featuredSlugs.map(slug => {
             const matches = Object.keys(langArticles)
                 .filter(k => langArticles[k] && langArticles[k].slug === slug)
                 .map(k => ({ id: k, ...langArticles[k] }));
             if (matches.length === 0) return null;
-            return matches.reduce((best, cur) => (scoreGuideCandidate(cur) > scoreGuideCandidate(best) ? cur : best), matches[0]);
+            return matches.reduce((best, cur) => (scoreGuideCandidateForSort(cur) > scoreGuideCandidateForSort(best) ? cur : best), matches[0]);
         }).filter(Boolean);
 
         if (picked.length === 0) return;
@@ -2056,7 +2032,7 @@ document.addEventListener("DOMContentLoaded", () => {
         `;
     }
 
-    function injectHomepageLatestArticles() {
+    function injectHomepageLatestArticles(sortMode = "recientes") {
         const container = document.getElementById("home-latest-articles-container");
         if (!container) return;
 
@@ -2064,12 +2040,6 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!langArticles) return;
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
-        const scoreGuideCandidate = (article) => {
-            const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
-            const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
-            const contentLen = article && article.content ? String(article.content).length : 0;
-            return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
-        };
 
         const allRaw = Object.keys(langArticles)
             .map(key => ({ id: key, ...langArticles[key] }))
@@ -2089,19 +2059,13 @@ document.addEventListener("DOMContentLoaded", () => {
             const currentRank = currentRecency.timestamp * 100000 + currentRecency.fbIndex;
             const prevRank = prevRecency.timestamp * 100000 + prevRecency.fbIndex;
 
-            if (currentRank > prevRank || (currentRank === prevRank && scoreGuideCandidate(article) > scoreGuideCandidate(prev))) {
+            if (currentRank > prevRank || (currentRank === prevRank && scoreGuideCandidateForSort(article) > scoreGuideCandidateForSort(prev))) {
                 bySlug.set(mapKey, article);
             }
         }
 
         const latest = Array.from(bySlug.values())
-            .sort((a, b) => {
-                const recencyA = articleRecencyScore(a);
-                const recencyB = articleRecencyScore(b);
-                if (recencyA.timestamp !== recencyB.timestamp) return recencyB.timestamp - recencyA.timestamp;
-                if (recencyA.fbIndex !== recencyB.fbIndex) return recencyB.fbIndex - recencyA.fbIndex;
-                return scoreGuideCandidate(b) - scoreGuideCandidate(a);
-            })
+            .sort(getArticleSortComparator(sortMode))
             .slice(0, 4);
 
         if (latest.length === 0) {
@@ -2985,7 +2949,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 if (routeKey === "home") {
                     injectHomepageFeatured();
-                    injectHomepageLatestArticles();
+                    const homeSortSelect = document.getElementById("global-search-sort");
+                    injectHomepageLatestArticles(homeSortSelect ? homeSortSelect.value : "recientes");
                 }
             }
 
