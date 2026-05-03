@@ -1063,5 +1063,69 @@ Object.assign(window.siteContent.de.articles, {
 <p>Bei der Säule 3a handelt es sich um private Altersvorsorgesparen, die der Schweizer Staat steuerlich fördert. Sie eröffnen ein Konto bei einer Bank oder Versicherung, geben den gewünschten Betrag bis zur gesetzlichen Höchstgrenze ein und dieser Betrag wird in der Erklärung direkt von Ihrem steuerpflichtigen Einkommen abgezogen. Je nach Kanton und Lohnniveau kann die tatsächliche Steuerersparnis beträchtlich sein, bei einem durchschnittlichen Lohn liegen die Steuerersparnisse zwischen 1.500 und 3.000 Franken weniger pro Jahr.</p>
 <p>Was viele Menschen nicht wissen, insbesondere diejenigen, die erst seit ein paar Jahren in der Schweiz sind, ist, dass man mehrere 3a-Konten bei verschiedenen Institutionen eröffnen und diese bei Erreichen der Pensionierung in verschiedenen Jahren einlösen kann, um die steuerlichen Auswirkungen der Rettung zu reduzieren. Die Frist für den Beitrag für das Geschäftsjahr 2026 ist der 31. Dezember. Wenn Sie die Konditionen zwischen Banken und Investmentfonds vergleichen möchten, ist es jedoch ratsam, dies nicht bis zur letzten Minute zu verschieben. Einige bieten deutlich bessere Renditen als andere.</p>
 </div>`
+    },
+
+    "fb-daily-20260503-01-ein-kantonswechsel-in-der-schweiz-bedeutet-nicht-nur-eine-adressanderu": {
+        title: "Ein Kantonswechsel in der Schweiz bedeutet nicht nur eine Adressänderung",
+        description: "Wenn du schon eine Weile hier bist, weißt du wahrscheinlich bereits, dass die Schweiz kein zentralistisch geführtes Land ist. Jeder Kanton hat sein eigenes…",
+        keywords: "kantonswechsel, schweiz, bedeutet, nicht, adressänderung, wenn, schon, weile",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-03-1-ein-kantonswechsel-in-der-schweiz-bedeutet-nicht-nur-eine-adressanderu",
+        readingTime: 1,
+        dateUpdated: "3 Mai 2026",
+        summary: "Wenn du schon eine Weile hier bist, weißt du wahrscheinlich bereits, dass die Schweiz kein zentralistisch geführtes Land ist. Jeder Kanton hat sein…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Wenn du schon eine Weile hier bist, weißt du wahrscheinlich bereits, dass die Schweiz kein zentralistisch geführtes Land ist. Jeder Kanton hat sein eigenes Steuersystem, seine eigene Verwaltung, und wenn du als Ausländer eine Aufenthaltsbewilligung hast, ist ein Kantonswechsel mit mehr Formalitäten verbunden, als viele Leute erwarten.</p>
+<p>Zunächst musst du deinen Wegzug bei der bisherigen Gemeinde melden und dich innerhalb von 14 Tagen nach deinem Umzug in der neuen Gemeinde anmelden. Dies ist keine Option, sondern eine gesetzliche Verpflichtung. Wenn du eine Aufenthaltsbewilligung der Kategorie B oder C besitzt, übernimmt die neue kantonale Migrationsbehörde die Bearbeitung und stellt die für den neuen Kanton gültige Bewilligung aus. Für EU-/EFTA-Bürger ist das Verfahren unkompliziert, muss jedoch von dir selbst in Gang gesetzt werden.</p>
+<p>Ein wichtiger Hinweis: Wenn du im Besitz eines Führerscheins der Klasse B bist und Arbeitslosengeld (chômage/RAV) beziehst, kannst du nicht frei den Kanton wechseln. Das Gesetz schreibt vor, dass du nicht arbeitslos sein darfst, um dieses Recht auf Mobilität auszuüben. Die RAV-Stelle des neuen Kantons wird dies überprüfen, und wenn keine Kommunikation mit der Stelle des Herkunftskantons besteht, wird der Umzug blockiert.</p>
+<p>Was die Steuern betrifft: Wenn du mitten im Jahr umziehst, zahlst du Kantonssteuern proportional zur Zeit, die du in jedem Kanton verbracht hast. Für diejenigen, die der Quellensteuer unterliegen, gilt der neue Steuersatz ab dem Monat nach dem Wohnsitzwechsel. Die Unterschiede zwischen den Kantonen sind beträchtlich: Zug, Schwyz oder Nidwalden haben deutlich niedrigere Steuersätze als Genf, Bern oder Waadt. Es ist nicht ungewöhnlich, dass jemand einen Umzug aus rein steuerlichen Gründen in Betracht zieht.</p>
+<p>Die Krankenversicherung ändert sich nicht automatisch, aber die Prämienpreise variieren je nach Wohnkanton. Jetzt ist es an der Zeit, die Angebote zu vergleichen.</p>
+<p>Kurz gesagt: Es ist möglich, das Verfahren gibt es und es funktioniert. Aber es läuft nicht von selbst.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-02-wenn-du-in-der-schweiz-krank-wirst-solltest-du-folgendes-tun-und-darau": {
+        title: "Wenn du in der Schweiz krank wirst, solltest du Folgendes tun und darauf kannst du dich verlassen",
+        description: "Die Krankschreibung in der Schweiz funktioniert ganz anders als im spanischen System, und wenn man sich damit vertraut macht, bevor man sie benötigt, vermeidet…",
+        keywords: "wenn, schweiz, krank, wirst, solltest, folgendes, darauf, kannst",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-2-wenn-du-in-der-schweiz-krank-wirst-solltest-du-folgendes-tun-und-darau",
+        readingTime: 1,
+        dateUpdated: "3 Mai 2026",
+        summary: "Die Krankschreibung in der Schweiz funktioniert ganz anders als im spanischen System, und wenn man sich damit vertraut macht, bevor man sie benötigt,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Die Krankschreibung in der Schweiz funktioniert ganz anders als im spanischen System, und wenn man sich damit vertraut macht, bevor man sie benötigt, vermeidet man unangenehme Überraschungen.</p>
+<p>Zunächst einmal: Wenn du krankheitsbedingt nicht arbeiten kannst, musst du deinen Arbeitgeber so schnell wie möglich darüber informieren, wenn möglich noch am selben Tag. Das ist keine reine Formalität, sondern eine vertragliche Verpflichtung. In den meisten Unternehmen wird ein ärztliches Attest ab dem dritten Tag verlangt, auch wenn es im Arbeitsvertrag bereits ab dem ersten Tag vorgeschrieben sein kann. Wenn du es nicht rechtzeitig vorlegst, kann der Arbeitgeber dir die Tage vom Lohn abziehen.</p>
+<p>Was dir zusteht: Artikel 324a des Obligationenrechts (OR) verpflichtet den Arbeitgeber, dir während der Abwesenheit den vollen Lohn zu zahlen. Im ersten Vertragsjahr beträgt diese Mindestdauer drei Wochen. Ab dem zweiten Jahr verlängert sich die Dauer entsprechend der Betriebszugehörigkeit nach den kantonalen Referenztabellen. Die meisten Unternehmen verfügen jedoch über eine Krankentaggeldversicherung, die 80 % des Lohns während 720 Tagen innerhalb eines Zeitraums von 900 Tagen abdeckt. Diese Versicherung ersetzt die direkte Verpflichtung des Arbeitgebers, und das Gesetz schreibt vor, dass dieser mindestens die Hälfte der Prämie übernimmt.</p>
+<p>Zwei Dinge, die viele Menschen nicht wissen: In der Schweiz gibt es keine Karenzzeit, das heißt, du erhältst ab dem ersten Tag der Arbeitsunfähigkeit Lohn. Und dein Arbeitsverhältnis ist geschützt: Der Arbeitgeber darf dich während deiner Arbeitsunfähigkeit nicht entlassen, und zwar für einen Zeitraum von 30, 90 oder 180 Tagen, je nach deiner Betriebszugehörigkeit.</p>
+<p>Wenn das Unternehmen keine solche Versicherung hat und nur die gesetzliche Mindestdeckung anbietet, ist der Versicherungsschutz deutlich geringer. Es lohnt sich, dies zu wissen, bevor man darauf angewiesen ist.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-03-zahnarztkosten-werden-in-der-schweiz-nicht-von-der-grundversicherung-u": {
+        title: "Zahnarztkosten werden in der Schweiz nicht von der Grundversicherung übernommen, und viele erfahren das auf die schmerzhafte Weise",
+        description: "In Spanien übernimmt die Sozialversicherung einige grundlegende zahnärztliche Leistungen. Das ist nicht viel, aber immerhin etwas. In der Schweiz deckt die…",
+        keywords: "zahnarztkosten, werden, schweiz, nicht, grundversicherung, übernommen, viele, erfahren",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-3-zahnarztkosten-werden-in-der-schweiz-nicht-von-der-grundversicherung-u",
+        readingTime: 1,
+        dateUpdated: "3 Mai 2026",
+        summary: "In Spanien übernimmt die Sozialversicherung einige grundlegende zahnärztliche Leistungen. Das ist nicht viel, aber immerhin etwas. In der Schweiz…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Spanien übernimmt die Sozialversicherung einige grundlegende zahnärztliche Leistungen. Das ist nicht viel, aber immerhin etwas. In der Schweiz deckt die obligatorische Krankenversicherung (KVG) praktisch nichts ab, was in einer Zahnarztpraxis anfällt. Und das sollte man wissen, bevor man sich auf den Behandlungsstuhl setzt.</p>
+<p>Das KVG übernimmt die Kosten für Zahnbehandlungen nur in drei konkreten Fällen: wenn sie die Folge einer schweren Erkrankung des Kausystems sind, wenn sie zur Behandlung einer anderen schweren Erkrankung notwendig sind oder wenn der Schaden durch einen Unfall verursacht wurde und keine andere Versicherung dafür aufkommt. Außerhalb dieser drei Ausnahmen greift das KVG nicht ein. Karies, eine Zahnextraktion, eine Zahnreinigung, eine kieferorthopädische Behandlung bei Erwachsenen, ein Implantat, eine Krone: All das musst du selbst bezahlen.</p>
+<p>Die Preise entsprechen dem Landesdurchschnitt. Eine einfache Zahnreinigung kostet etwa 150 bis 200 Franken. Eine Zahnextraktion kann zwischen 200 und 500 Franken kosten. Ein vollständiges Implantat kostet zwischen 3.000 und 5.000 Franken pro Stück. Eine kieferorthopädische Behandlung für Erwachsene kann mehr als 10.000 Franken kosten.</p>
+<p>Es besteht die Möglichkeit, eine Zahnzusatzversicherung abzuschließen, doch dafür gelten eigene Regeln: Fast alle Versicherer verlangen eine Wartezeit von mehreren Monaten, bevor der Versicherungsschutz beginnt, sie haben eine jährliche Obergrenze (in der Regel zwischen 50 und 75 % der Kosten, bis zu einer Höchstgrenze von 1.000 bis 3.000 Franken pro Jahr) und decken keine Behandlungen ab, die bereits vor Vertragsabschluss begonnen haben.</p>
+<p>Ein praktischer Tipp: Schließen Sie eine Versicherung ab, sobald Sie hier sind, bevor Probleme auftreten. Und gehen Sie regelmäßig zum Zahnarzt; hier ist Vorbeugung viel günstiger als eine Behandlung.</p>
+</div>`
     }
 });

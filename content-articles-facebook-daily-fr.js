@@ -1063,5 +1063,69 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Le pilier 3a est l'épargne privée liée à la retraite que l'État suisse accorde par des incitations fiscales. Vous ouvrez un compte dans une banque ou une compagnie d'assurance, indiquez le montant souhaité dans la limite légale et ce montant est soustrait directement de votre revenu imposable dans la déclaration. Selon le canton et votre niveau de salaire, les économies d'impôts réelles peuvent être considérables, parfaitement entre 1'500 et 3'000 francs d'impôts en moins par an pour quelqu'un avec un salaire moyen.</p>
 <p>Ce que beaucoup de gens ne savent pas, surtout ceux qui ne sont en Suisse que depuis quelques années, c'est qu'on peut ouvrir plusieurs comptes 3a dans différentes institutions, et qu'une fois arrivé à la retraite, on peut les racheter à différentes années pour réduire l'impact fiscal du sauvetage. La date limite de cotisation pour l’exercice 2026 est le 31 décembre, mais il convient de ne pas s’y attendre à la dernière minute si l’on souhaite comparer les conditions entre banques et fonds d’investissement. Certains offrent des rendements nettement meilleurs que d’autres.</p>
 </div>`
+    },
+
+    "fb-daily-20260503-01-changer-de-canton-en-suisse-ce-nx27est-pas-seulement-changer-dx27adres": {
+        title: "Changer de canton en Suisse, ce n&#x27;est pas seulement changer d&#x27;adresse",
+        description: "Si tu es ici depuis un certain temps, tu sais sans doute déjà que la Suisse ne fonctionne pas comme un État centralisé. Chaque canton a son propre système…",
+        keywords: "changer, canton, suisse, seulement, adresse, depuis, certain, temps",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-03-1-changer-de-canton-en-suisse-ce-nx27est-pas-seulement-changer-dx27adres",
+        readingTime: 2,
+        dateUpdated: "3 mai 2026",
+        summary: "Si tu es ici depuis un certain temps, tu sais sans doute déjà que la Suisse ne fonctionne pas comme un État centralisé. Chaque canton a son propre…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Si tu es ici depuis un certain temps, tu sais sans doute déjà que la Suisse ne fonctionne pas comme un État centralisé. Chaque canton a son propre système fiscal, sa propre administration et, si tu es étranger titulaire d&#x27;un permis de séjour, changer de canton implique plus de démarches que beaucoup ne le pensent.</p>
+<p>Tu dois tout d&#x27;abord signaler ton départ à ta commune actuelle et t&#x27;inscrire dans ta nouvelle commune dans les 14 jours suivant ton déménagement. Ce n&#x27;est pas facultatif : il s&#x27;agit d&#x27;une obligation légale. Si tu es titulaire d&#x27;un permis B ou C, la nouvelle autorité cantonale compétente en matière d&#x27;immigration prendra le relais et délivrera le permis correspondant au nouveau canton. Pour les citoyens de l&#x27;UE/AELE, la procédure est simple, mais tu dois en faire la demande toi-même.</p>
+<p>Une précision qu&#x27;il convient de connaître : si vous êtes titulaire d&#x27;un permis B et que vous percevez des allocations chômage (chômage/RAV), vous ne pouvez pas changer de canton librement. La loi exige que vous ne soyez pas au chômage pour exercer ce droit à la mobilité. L&#x27;agence RAV du nouveau canton vérifiera cette information, et s&#x27;il n&#x27;y a pas de communication avec celle du canton d&#x27;origine, le transfert sera bloqué.</p>
+<p>En matière d&#x27;impôts, si vous déménagez en cours d&#x27;année, vous payez des impôts cantonaux au prorata du temps passé dans chaque canton. Pour les personnes imposées à la source, le nouveau taux s&#x27;applique à partir du mois suivant le changement de domicile. Les différences entre les cantons sont considérables : Zoug, Schwyz ou Nidwald ont des taux bien inférieurs à ceux de Genève, Berne ou Vaud. Il n’est pas rare que quelqu’un envisage de déménager pour des raisons purement fiscales.</p>
+<p>L&#x27;assurance maladie ne change pas automatiquement, mais le montant des primes varie selon le canton de résidence. C&#x27;est le moment de comparer.</p>
+<p>En résumé : c&#x27;est possible, le processus existe et fonctionne. Mais ça ne se fait pas tout seul.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-02-si-vous-tombez-malade-en-suisse-voici-ce-que-vous-devez-faire-et-ce-qu": {
+        title: "Si vous tombez malade en Suisse, voici ce que vous devez faire et ce qui est pris en charge",
+        description: "Le congé maladie en Suisse fonctionne de manière assez différente du système espagnol, et le comprendre avant d&#x27;en avoir besoin permet d&#x27;éviter les…",
+        keywords: "vous, tombez, malade, suisse, voici, devez, faire, pris",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-2-si-vous-tombez-malade-en-suisse-voici-ce-que-vous-devez-faire-et-ce-qu",
+        readingTime: 2,
+        dateUpdated: "3 mai 2026",
+        summary: "Le congé maladie en Suisse fonctionne de manière assez différente du système espagnol, et le comprendre avant d&#x27;en avoir besoin permet…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Le congé maladie en Suisse fonctionne de manière assez différente du système espagnol, et le comprendre avant d&#x27;en avoir besoin permet d&#x27;éviter les mauvaises surprises.</p>
+<p>Tout d&#x27;abord : si vous ne pouvez pas travailler pour cause de maladie, vous devez en informer votre employeur dès que possible, le jour même si possible. Ce n&#x27;est pas une simple formalité : c&#x27;est une obligation contractuelle. Dans la plupart des entreprises, le certificat médical est exigé à partir du troisième jour, même si le contrat peut le demander dès le premier jour. Si vous ne le présentez pas à temps, l&#x27;employeur peut vous déduire ces jours de salaire.</p>
+<p>Ce à quoi vous avez droit : l&#x27;article 324a du Code des obligations (CO) oblige l&#x27;employeur à vous verser l&#x27;intégralité de votre salaire pendant votre arrêt de travail. Au cours de la première année de contrat, cette durée minimale est de trois semaines. À partir de la deuxième année, elle augmente en fonction de l&#x27;ancienneté, selon les barèmes cantonaux de référence. Cependant, la plupart des entreprises ont souscrit une assurance indemnités journalières (Krankentaggeld) qui couvre 80 % du salaire pendant 720 jours sur une période de 900 jours. Cette assurance se substitue à l&#x27;obligation directe de l&#x27;employeur, et la loi exige que celui-ci paie au moins la moitié de la prime.</p>
+<p>Voici deux choses que beaucoup de gens ignorent : il n&#x27;y a pas de délai de carence en Suisse, ce qui signifie que vous percevez vos indemnités dès le premier jour d&#x27;arrêt maladie. De plus, votre contrat est protégé : votre employeur ne peut pas vous licencier pendant votre arrêt maladie, et ce pendant une période de 30, 90 ou 180 jours, selon votre ancienneté.</p>
+<p>Si l&#x27;entreprise ne dispose pas de cette assurance et se contente d&#x27;appliquer le minimum légal, la couverture est nettement plus limitée. Il vaut mieux le savoir avant d&#x27;en avoir besoin.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-03-en-suisse-les-soins-dentaires-ne-sont-pas-pris-en-charge-par-lx27assur": {
+        title: "En Suisse, les soins dentaires ne sont pas pris en charge par l&#x27;assurance de base, et beaucoup s&#x27;en rendent compte à leurs dépens",
+        description: "En Espagne, la sécurité sociale prend en charge certaines prestations dentaires de base. Ce n&#x27;est pas grand-chose, mais c&#x27;est déjà ça. En Suisse,…",
+        keywords: "suisse, soins, dentaires, sont, pris, charge, assurance, base",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-3-en-suisse-les-soins-dentaires-ne-sont-pas-pris-en-charge-par-lx27assur",
+        readingTime: 1,
+        dateUpdated: "3 mai 2026",
+        summary: "En Espagne, la sécurité sociale prend en charge certaines prestations dentaires de base. Ce n&#x27;est pas grand-chose, mais c&#x27;est déjà ça. En…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Espagne, la sécurité sociale prend en charge certaines prestations dentaires de base. Ce n&#x27;est pas grand-chose, mais c&#x27;est déjà ça. En Suisse, l&#x27;assurance maladie obligatoire (LAMal) ne couvre pratiquement rien de ce qui se passe chez le dentiste. Et il vaut mieux le savoir avant de s&#x27;asseoir dans le fauteuil.</p>
+<p>La LAMal ne prend en charge les soins dentaires que dans trois cas précis : lorsqu&#x27;ils résultent d&#x27;une affection grave de l&#x27;appareil masticatoire, lorsqu&#x27;ils sont nécessaires pour traiter une autre affection grave, ou lorsque le dommage a été causé par un accident et qu&#x27;aucune autre assurance ne le couvre. En dehors de ces trois exceptions, la LAMal n&#x27;intervient pas. Une carie, une extraction, un détartrage, un traitement orthodontique chez l&#x27;adulte, un implant, une couronne : tout cela est à ta charge.</p>
+<p>Les prix sont conformes à ceux pratiqués dans le pays. Un nettoyage de base coûte environ 150 à 200 francs. Une extraction peut coûter entre 200 et 500 francs. Un implant complet coûte entre 3 000 et 5 000 francs par pièce. Un traitement orthodontique pour adulte peut dépasser les 10 000 francs.</p>
+<p>Il est possible de souscrire une assurance dentaire complémentaire (Zusatzversicherung), mais celle-ci obéit à ses propres règles : presque tous les assureurs exigent un délai d&#x27;attente de plusieurs mois avant de commencer à couvrir les soins, ils ont un plafond annuel (généralement entre 50 et 75 % des coûts, jusqu&#x27;à un plafond de 1 000 à 3 000 francs par an) et ne couvrent pas les traitements déjà en cours au moment de la souscription.</p>
+<p>Un conseil pratique : souscrivez-y dès votre arrivée, avant que les problèmes ne surviennent. Et rendez-vous régulièrement chez le dentiste ; ici, la prévention revient bien moins cher que les soins.</p>
+</div>`
     }
 });
