@@ -1,87 +1,178 @@
 #!/usr/bin/env python3
 """
 publish_daily_posts.py
-Lit le fichier posts_YYYY-MM-DD.md du jour, génère les entrées JS
-et les insère dans content-articles-facebook-daily-es.js, puis fait git commit+push.
 
-Usage : python3 publish_daily_posts.py
-        python3 publish_daily_posts.py --date 2026-05-03  (forcer une date)
+Lit /Users/oscarandujar/Projets/Publications/posts/posts_YYYY-MM-DD.md,
+extrait les publications Facebook, traduit automatiquement avec DeepL,
+insere les articles dans les fichiers JS multilingues du site, puis fait git commit + push.
+
+Langues generees :
+- es : content-articles-facebook-daily-es.js
+- fr : content-articles-facebook-daily-fr.js
+- en : content-articles-facebook-daily-en.js
+- de : content-articles-facebook-daily-de.js
+- it : content-articles-facebook-daily-it.js
+
+Usage :
+    python3 publish_daily_posts.py
+    python3 publish_daily_posts.py --date 2026-05-03
+    python3 publish_daily_posts.py --date 2026-05-03 --dry-run
+    python3 publish_daily_posts.py --date 2026-05-03 --no-push
 """
 
-import re
-import sys
-import os
-import subprocess
 import argparse
+import json
+import os
+import re
+import subprocess
+import sys
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
 from datetime import date, datetime
 
-# ── Chemins ────────────────────────────────────────────────────────────────────
-POSTS_DIR   = "/Users/oscarandujar/Projets/Publications/posts"
-SITE_DIR    = "/Users/oscarandujar/Projets/espanolesensuiza"
-TARGET_FILE = os.path.join(SITE_DIR, "content-articles-facebook-daily-es.js")
+# ── Configuration ─────────────────────────────────────────────────────────────
 
-# ── Table hub / catégorie ──────────────────────────────────────────────────────
+POSTS_DIR = "/Users/oscarandujar/Projets/Publications/posts"
+SITE_DIR = "/Users/oscarandujar/Projets/espanolesensuiza"
+
+LANGUAGES = ["es", "fr", "en", "de", "it"]
+
+TARGET_FILES = {
+    "es": os.path.join(SITE_DIR, "content-articles-facebook-daily-es.js"),
+    "fr": os.path.join(SITE_DIR, "content-articles-facebook-daily-fr.js"),
+    "en": os.path.join(SITE_DIR, "content-articles-facebook-daily-en.js"),
+    "de": os.path.join(SITE_DIR, "content-articles-facebook-daily-de.js"),
+    "it": os.path.join(SITE_DIR, "content-articles-facebook-daily-it.js"),
+}
+
+DEEPL_API_KEY = os.environ.get(
+    "DEEPL_API_KEY",
+    "c6e36772-ce76-494a-a3aa-6625cc5bf6c6:fx"
+)
+
+DEEPL_ENDPOINT = "https://api-free.deepl.com/v2/translate"
+DEEPL_TARGETS = {
+    "fr": "FR",
+    "en": "EN-GB",
+    "de": "DE",
+    "it": "IT",
+}
+
+# ── Table hub / categorie ─────────────────────────────────────────────────────
+
 HUB_RULES = [
     (["permiso", "empadron", "trámite", "tramite", "migración", "migracion",
       "registro", "naturaliz", "carnet", "conducir", "e-id", "ees"],
-     "tramites", "Tramites y Permisos"),
+     "tramites"),
     (["trabajo", "contrato", "salario", "cct", "despido", "paro", "rav",
       "kurzarbeit", "autónomo", "autonomo", "empleo", "laboral", "nómina",
-      "nomina", "sueldo", "ccт"],
-     "trabajo", "Trabajo y Salarios"),
+      "nomina", "sueldo"],
+     "trabajo"),
     (["alquiler", "piso", "vivienda", "inquilino", "propietario", "garantía",
       "garantia", "alquilar", "inmobiliaria", "habitación", "habitacion"],
-     "vivienda", "Vivienda"),
+     "vivienda"),
     (["seguro médico", "seguro medico", "lamal", "franquicia", "psicólogo",
       "psicologo", "dentista", "dental", "diente", "dientes", "accidente",
       "laa", "uvg", "kvg", "salud", "médico", "medico", "enfermedad",
       "hospital", "baja", "enfermo", "zusatzversicherung"],
-     "salud", "Salud y LAMal"),
+     "salud"),
     (["impuesto", "fuente", "3a", "declaración", "declaracion", "fiscal",
       "irpf", "convenio", "tributar", "hacienda", "aeat", "quellensteuer",
       "pilar 3", "deducciones"],
-     "impuestos", "Impuestos"),
-    (["frontalier", "frontera", "frontalizo", "teletrabajo desde francia",
-      "france"],
-     "fronterizos", "Fronterizos"),
+     "impuestos"),
+    (["frontalier", "frontera", "frontalizo", "teletrabajo desde francia"],
+     "fronterizos"),
     (["referéndum", "referendum", "votación", "votacion", "iniciativa",
       "política", "politica", "svp", "udc", "consejo federal"],
-     "vivir-en-suiza", "Vivir en Suiza"),
+     "vivir-en-suiza"),
 ]
-DEFAULT_HUB      = "vivir-en-suiza"
-DEFAULT_CATEGORY = "Vivir en Suiza"
 
-# ── Helpers ────────────────────────────────────────────────────────────────────
+DEFAULT_HUB = "vivir-en-suiza"
+
+CATEGORY_BY_HUB = {
+    "es": {
+        "tramites": "Tramites y Permisos",
+        "trabajo": "Trabajo y Salarios",
+        "vivienda": "Vivienda",
+        "salud": "Salud y LAMal",
+        "impuestos": "Impuestos",
+        "fronterizos": "Fronterizos",
+        "vivir-en-suiza": "Vivir en Suiza",
+    },
+    "fr": {
+        "tramites": "Démarches et permis",
+        "trabajo": "Travail et salaires",
+        "vivienda": "Logement",
+        "salud": "Santé et LAMal",
+        "impuestos": "Impôts",
+        "fronterizos": "Frontaliers",
+        "vivir-en-suiza": "Vivre en Suisse",
+    },
+    "en": {
+        "tramites": "Formalities and Permits",
+        "trabajo": "Work and Salaries",
+        "vivienda": "Housing",
+        "salud": "Health and LAMal",
+        "impuestos": "Taxes",
+        "fronterizos": "Cross-border Workers",
+        "vivir-en-suiza": "Living in Switzerland",
+    },
+    "de": {
+        "tramites": "Formalitäten und Bewilligungen",
+        "trabajo": "Arbeit und Löhne",
+        "vivienda": "Wohnen",
+        "salud": "Gesundheit und KVG",
+        "impuestos": "Steuern",
+        "fronterizos": "Grenzgänger",
+        "vivir-en-suiza": "Leben in der Schweiz",
+    },
+    "it": {
+        "tramites": "Pratiche e permessi",
+        "trabajo": "Lavoro e salari",
+        "vivienda": "Alloggio",
+        "salud": "Salute e LAMal",
+        "impuestos": "Imposte",
+        "fronterizos": "Frontalieri",
+        "vivir-en-suiza": "Vivere in Svizzera",
+    },
+}
+
+# ── Helpers ───────────────────────────────────────────────────────────────────
 
 def slugify(text: str, max_len: int = 70) -> str:
-    """Convertit un titre en kebab-case ASCII sans accents."""
     replacements = {
-        'á':'a','é':'e','í':'i','ó':'o','ú':'u','ü':'u','ñ':'n',
-        'à':'a','è':'e','ì':'i','ò':'o','ù':'u',
-        'â':'a','ê':'e','î':'i','ô':'o','û':'u',
-        'Á':'a','É':'e','Í':'i','Ó':'o','Ú':'u','Ü':'u','Ñ':'n',
-        'ª':'a','º':'o',
+        "á":"a","é":"e","í":"i","ó":"o","ú":"u","ü":"u","ñ":"n",
+        "à":"a","è":"e","ì":"i","ò":"o","ù":"u",
+        "â":"a","ê":"e","î":"i","ô":"o","û":"u",
+        "ä":"a","ë":"e","ï":"i","ö":"o","ÿ":"y",
+        "ç":"c","ß":"ss",
+        "Á":"a","É":"e","Í":"i","Ó":"o","Ú":"u","Ü":"u","Ñ":"n",
+        "À":"a","È":"e","Ì":"i","Ò":"o","Ù":"u",
+        "Â":"a","Ê":"e","Î":"i","Ô":"o","Û":"u",
+        "Ä":"a","Ë":"e","Ï":"i","Ö":"o","Ÿ":"y",
+        "Ç":"c","ª":"a","º":"o",
     }
     t = text.lower()
     for k, v in replacements.items():
         t = t.replace(k, v)
-    t = re.sub(r'[^a-z0-9\s-]', '', t)
-    t = re.sub(r'[\s]+', '-', t.strip())
-    t = re.sub(r'-+', '-', t)
-    return t[:max_len].rstrip('-')
+    t = re.sub(r"[^a-z0-9\s-]", "", t)
+    t = re.sub(r"[\s]+", "-", t.strip())
+    t = re.sub(r"-+", "-", t)
+    return t[:max_len].rstrip("-") or "article"
 
 
-def infer_hub(title: str, content: str):
+def infer_hub(title: str, content: str) -> str:
     combined = (title + " " + content).lower()
-    for keywords, hub, category in HUB_RULES:
+    for keywords, hub in HUB_RULES:
         if any(kw in combined for kw in keywords):
-            return hub, category
-    return DEFAULT_HUB, DEFAULT_CATEGORY
+            return hub
+    return DEFAULT_HUB
 
 
 def reading_time(text: str) -> int:
-    words = len(text.split())
-    return max(1, round(words / 200))
+    return max(1, round(len(text.split()) / 200))
 
 
 def text_to_html(paragraphs: list) -> str:
@@ -91,14 +182,19 @@ def text_to_html(paragraphs: list) -> str:
 def make_description(first_para: str, max_len: int = 160) -> str:
     d = first_para.strip()
     if len(d) > max_len:
-        d = d[:max_len].rsplit(' ', 1)[0] + "…"
+        d = d[:max_len].rsplit(" ", 1)[0] + "…"
     return d
 
 
 def make_keywords(title: str, first_para: str) -> str:
     combined = (title + " " + first_para).lower()
-    combined = re.sub(r'[^a-záéíóúüñà-ÿ\s]', ' ', combined)
-    words = [w for w in combined.split() if len(w) > 3]
+    combined = re.sub(r"[^a-záéíóúüñà-ÿ\s]", " ", combined)
+    stop = {
+        "para","como","pero","esto","esta","este","desde","sobre","entre",
+        "dans","avec","pour","this","that","from","with","eine","einer",
+        "und","oder","dass","sono","alla","della","degli","con","che"
+    }
+    words = [w for w in combined.split() if len(w) > 3 and w not in stop]
     seen, unique = set(), []
     for w in words:
         if w not in seen:
@@ -109,243 +205,312 @@ def make_keywords(title: str, first_para: str) -> str:
     return ", ".join(unique)
 
 
-def format_date_es(d: date) -> str:
-    months = ["enero","febrero","marzo","abril","mayo","junio",
-              "julio","agosto","septiembre","octubre","noviembre","diciembre"]
-    return f"{d.day} {months[d.month - 1]} {d.year}"
+def format_date(d: date, lang: str) -> str:
+    months = {
+        "es": ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],
+        "fr": ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],
+        "en": ["January","February","March","April","May","June","July","August","September","October","November","December"],
+        "de": ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],
+        "it": ["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],
+    }
+    if lang == "en":
+        return f"{months[lang][d.month - 1]} {d.day}, {d.year}"
+    return f"{d.day} {months[lang][d.month - 1]} {d.year}"
 
 
-def js_escape(text: str) -> str:
-    """Échappe les backticks et les backslashes dans le contenu HTML."""
-    return text.replace('\\', '\\\\').replace('`', '\\`').replace('${', '\\${')
+def js_string(text: str) -> str:
+    return json.dumps(text, ensure_ascii=False)
 
-# ── Parsing du fichier MD ──────────────────────────────────────────────────────
+
+def js_template(text: str) -> str:
+    return text.replace("\\", "\\\\").replace("`", "\\`").replace("${", "\\${")
+
+# ── DeepL ─────────────────────────────────────────────────────────────────────
+
+_CACHE: dict = {}
+
+
+def translate_text(text: str, lang: str, retries: int = 3) -> str:
+    if lang == "es" or not text.strip():
+        return text
+    key = (lang, text)
+    if key in _CACHE:
+        return _CACHE[key]
+    data = urllib.parse.urlencode({
+        "text": text,
+        "source_lang": "ES",
+        "target_lang": DEEPL_TARGETS[lang],
+        "preserve_formatting": "1",
+        "tag_handling": "html",
+    }).encode("utf-8")
+    last_error = None
+    for attempt in range(1, retries + 1):
+        try:
+            req = urllib.request.Request(
+                DEEPL_ENDPOINT, data=data,
+                headers={
+                    "Content-Type": "application/x-www-form-urlencoded",
+                    "Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}",
+                },
+                method="POST",
+            )
+            with urllib.request.urlopen(req, timeout=45) as r:
+                result = json.loads(r.read().decode("utf-8"))
+            translated = result["translations"][0]["text"]
+            _CACHE[key] = translated
+            return translated
+        except Exception as exc:
+            last_error = exc
+            if attempt < retries:
+                wait = 5 * attempt
+                print(f"  [RETRY] tentative {attempt}/{retries}, attente {wait}s...")
+                time.sleep(wait)
+            else:
+                raise RuntimeError(f"Erreur DeepL vers {lang}: {last_error}") from exc
+    raise RuntimeError(f"Erreur DeepL vers {lang}: {last_error}")
+
+
+def translate_post(post: dict, lang: str) -> dict:
+    if lang == "es":
+        return post
+    return {
+        "num": post["num"],
+        "title": translate_text(post["title"], lang),
+        "paragraphs": [translate_text(p, lang) for p in post["paragraphs"]],
+        "hub": post["hub"],
+    }
+
+# ── Parsing Markdown ──────────────────────────────────────────────────────────
 
 def parse_posts(md_content: str) -> list:
-    """
-    Extrait les posts du fichier MD.
-    Retourne une liste de dicts : {num, title, paragraphs}
-    Ignore l'en-tête, les métadonnées, les séparateurs et les lignes de sources.
-    """
-    # Trouver le premier ## POST — tout ce qui précède est ignoré
-    start = re.search(r'^## POST \d+', md_content, re.MULTILINE)
+    start = re.search(r"^##\s+POST\s+\d+", md_content, re.MULTILINE | re.IGNORECASE)
     if not start:
         return []
     body = md_content[start.start():]
-
-    # Découper par bloc ## POST NNN
-    blocks = re.split(r'^## POST (\d+)[^\n]*\n', body, flags=re.MULTILINE)
-    # blocks[0] = '' (avant le premier split), puis alternance [num, contenu, num, contenu...]
+    blocks = re.split(r"^##\s+POST\s+(\d+)[^\n]*\n", body, flags=re.MULTILINE | re.IGNORECASE)
     posts = []
     for i in range(1, len(blocks), 2):
         num = int(blocks[i])
         raw = blocks[i + 1] if i + 1 < len(blocks) else ""
-
-        lines = raw.split('\n')
-        title = ""
-        paragraphs = []
-        current_para = []
-
-        for line in lines:
-            stripped = line.strip()
-
-            # Titre : ligne en gras **...**
-            if not title and re.match(r'^\*\*.+\*\*$', stripped):
-                title = stripped.strip('*').strip()
+        title, paragraphs, current = "", [], []
+        for line in raw.split("\n"):
+            s = line.strip()
+            if not title and re.match(r"^\*\*.+\*\*$", s):
+                title = s.strip("*").strip()
                 continue
-
-            # Ignorer les séparateurs, les lignes vides initiales et les sources
-            if stripped == '---':
+            if s == "---":
                 continue
-            if stripped.lower().startswith('fuentes:') or stripped.lower().startswith('fuente:'):
+            if s.lower().startswith("fuentes:") or s.lower().startswith("fuente:"):
                 continue
-
-            # Paragraphes : ligne vide = fin de paragraphe en cours
-            if stripped == '':
-                if current_para:
-                    paragraphs.append(' '.join(current_para))
-                    current_para = []
+            if s == "":
+                if current:
+                    paragraphs.append(" ".join(current))
+                    current = []
             else:
-                current_para.append(stripped)
-
-        if current_para:
-            paragraphs.append(' '.join(current_para))
-
+                current.append(s)
+        if current:
+            paragraphs.append(" ".join(current))
         if title and paragraphs:
-            posts.append({"num": num, "title": title, "paragraphs": paragraphs})
-
+            full = " ".join(paragraphs)
+            posts.append({"num": num, "title": title, "paragraphs": paragraphs, "hub": infer_hub(title, full)})
     return posts
 
-# ── Génération JS ──────────────────────────────────────────────────────────────
+# ── Génération JS ─────────────────────────────────────────────────────────────
 
-def build_js_entry(post: dict, day: date, order: int) -> tuple:
-    """
-    Construit l'entrée JS pour un post.
-    Retourne (clé, bloc_js).
-    """
-    date_str   = day.strftime("%Y%m%d")
-    date_iso   = day.strftime("%Y-%m-%d")
+def build_js_entry(post: dict, day: date, order: int, lang: str) -> tuple:
+    date_str = day.strftime("%Y%m%d")
+    date_iso = day.strftime("%Y-%m-%d")
     slug_title = slugify(post["title"])
-
-    key  = f"fb-daily-{date_str}-{order:02d}-{slug_title}"
+    key = f"fb-daily-{date_str}-{order:02d}-{slug_title}"
     slug = f"actualidad-{date_iso}-{order}-{slug_title}"
-
-    title      = post["title"]
+    title = post["title"]
     paragraphs = post["paragraphs"]
-    full_text  = " ".join(paragraphs)
+    full_text = " ".join(paragraphs)
     first_para = paragraphs[0] if paragraphs else ""
-
+    hub = post.get("hub") or infer_hub(title, full_text)
+    category = CATEGORY_BY_HUB[lang].get(hub, CATEGORY_BY_HUB[lang][DEFAULT_HUB])
     description = make_description(first_para)
-    summary     = make_description(first_para, 150)
-    keywords    = make_keywords(title, first_para)
-    hub, cat    = infer_hub(title, full_text)
-    rt          = reading_time(full_text)
-    date_es     = format_date_es(day)
-
+    summary = make_description(first_para, 150)
+    keywords = make_keywords(title, first_para)
+    rt = reading_time(full_text)
+    date_label = format_date(day, lang)
     html_content = text_to_html(paragraphs)
-    html_escaped = js_escape(html_content)
-
+    html_escaped = js_template(html_content)
     block = f'''
-    "{key}": {{
-        title: "{title.replace('"', '\\"')}",
-        description: "{description.replace('"', '\\"')}",
-        keywords: "{keywords}",
+    {js_string(key)}: {{
+        title: {js_string(title)},
+        description: {js_string(description)},
+        keywords: {js_string(keywords)},
         keywordsLocalized: true,
-        category: "{cat}",
-        hub: "{hub}",
-        slug: "{slug}",
+        category: {js_string(category)},
+        hub: {js_string(hub)},
+        slug: {js_string(slug)},
         readingTime: {rt},
-        dateUpdated: "{date_es}",
-        summary: "{summary.replace('"', '\\"')}",
+        dateUpdated: {js_string(date_label)},
+        summary: {js_string(summary)},
         relatedSlugs: [],
         content: `<div class="article-content">
 {html_escaped}
 </div>`
     }}'''
-
     return key, block
 
-# ── Insertion dans le fichier JS ───────────────────────────────────────────────
 
-def insert_into_js(entries: list, target_file: str, day: date) -> list:
-    """
-    Insère les nouvelles entrées dans le fichier JS avant le });  final.
-    Ignore les clés déjà présentes.
-    Retourne la liste des clés effectivement insérées.
-    """
-    with open(target_file, 'r', encoding='utf-8') as f:
+def build_entries_for_language(posts: list, day: date, lang: str) -> list:
+    entries = []
+    for order, post in enumerate(posts, start=1):
+        translated_post = translate_post(post, lang)
+        entries.append(build_js_entry(translated_post, day, order, lang))
+    return entries
+
+# ── Insertion JS ──────────────────────────────────────────────────────────────
+
+def insert_into_js(entries: list, target_file: str) -> list:
+    if not os.path.exists(target_file):
+        raise FileNotFoundError(f"Fichier cible introuvable : {target_file}")
+    with open(target_file, "r", encoding="utf-8") as f:
         content = f.read()
-
-    inserted_keys = []
-    blocks_to_add = []
-
+    inserted_keys, blocks_to_add = [], []
     for key, block in entries:
-        if f'"{key}"' in content:
+        if js_string(key) in content or f'"{key}"' in content:
             print(f"  [SKIP] Clé déjà présente : {key}")
         else:
             blocks_to_add.append((key, block))
             inserted_keys.append(key)
-
     if not blocks_to_add:
         return []
-
     new_blocks = ",\n".join(block for _, block in blocks_to_add)
-
-    # Trouver le });  de fermeture du Object.assign(...)
-    close_pattern = re.compile(r'\n\}\);?\s*$', re.MULTILINE)
-    match = close_pattern.search(content)
+    match = re.search(r"\n\}\);\s*$", content, re.MULTILINE)
     if not match:
-        raise ValueError("Impossible de trouver le });  de fermeture dans le fichier JS.")
-
-    insert_pos = match.start()
-    new_content = content[:insert_pos] + ",\n" + new_blocks + content[insert_pos:]
-
-    with open(target_file, 'w', encoding='utf-8') as f:
+        raise ValueError(f"Impossible de trouver le }}); dans {target_file}")
+    new_content = content[:match.start()] + ",\n" + new_blocks + content[match.start():]
+    with open(target_file, "w", encoding="utf-8") as f:
         f.write(new_content)
-
     return inserted_keys
 
-# ── Git ────────────────────────────────────────────────────────────────────────
+# ── Git ───────────────────────────────────────────────────────────────────────
 
-def git_commit_push(site_dir: str, filename: str, day: date, post_nums: list):
-    nums_str = ", ".join(str(n) for n in post_nums)
-    message  = f"daily: add posts {day.isoformat()} ({nums_str})"
-
-    cmds = [
-        ["git", "-C", site_dir, "add", filename],
-        ["git", "-C", site_dir, "commit", "-m", message],
-        ["git", "-C", site_dir, "push"],
-    ]
-    for cmd in cmds:
-        result = subprocess.run(cmd, capture_output=True, text=True)
-        if result.returncode != 0:
-            print(f"  [ERREUR git] {' '.join(cmd)}")
+def run_git(cmd: list) -> None:
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        print(f"  [ERREUR git] {' '.join(cmd)}")
+        if result.stdout.strip():
+            print(result.stdout)
+        if result.stderr.strip():
             print(result.stderr)
-            sys.exit(1)
-        else:
-            print(f"  [OK] {' '.join(cmd[2:])}")
+        sys.exit(1)
+    print(f"  [OK] {' '.join(cmd[2:])}")
 
-# ── Main ───────────────────────────────────────────────────────────────────────
 
-def main():
+def git_commit_push(site_dir: str, filenames: list, day: date, post_nums: list) -> None:
+    nums_str = ", ".join(str(n) for n in post_nums)
+    message = f"daily: add multilingual posts {day.isoformat()} ({nums_str})"
+    rel_files = [os.path.relpath(p, site_dir) for p in filenames]
+    run_git(["git", "-C", site_dir, "add", *rel_files])
+    status = subprocess.run(["git", "-C", site_dir, "status", "--porcelain"], capture_output=True, text=True)
+    if not status.stdout.strip():
+        print("  [STOP] Aucun changement Git à committer.")
+        return
+    run_git(["git", "-C", site_dir, "commit", "-m", message])
+    run_git(["git", "-C", site_dir, "push"])
+
+# ── Main ──────────────────────────────────────────────────────────────────────
+
+def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument('--date', help='Date au format YYYY-MM-DD (défaut : aujourd\'hui)')
-    parser.add_argument('--dry-run', action='store_true', help='Affiche le JS sans écrire ni pusher')
+    parser.add_argument("--date", help="Date YYYY-MM-DD. Défaut : aujourd'hui")
+    parser.add_argument("--dry-run", action="store_true", help="Affiche sans écrire ni pusher")
+    parser.add_argument("--no-push", action="store_true", help="Ecrit les fichiers JS sans git push")
     args = parser.parse_args()
 
     if args.date:
-        day = datetime.strptime(args.date, "%Y-%m-%d").date()
+        try:
+            day = datetime.strptime(args.date, "%Y-%m-%d").date()
+        except ValueError:
+            print("  [ERREUR] Format attendu : YYYY-MM-DD")
+            sys.exit(1)
     else:
         day = date.today()
 
     posts_file = os.path.join(POSTS_DIR, f"posts_{day.isoformat()}.md")
-    print(f"\n── Publish daily posts ─────────────────────────────")
+
+    print("\n── Publish daily posts multilang ───────────────────")
     print(f"  Date    : {day.isoformat()}")
     print(f"  Fichier : {posts_file}")
+    print(f"  Langues : {', '.join(LANGUAGES)}")
 
     if not os.path.exists(posts_file):
         print(f"\n  [STOP] Fichier introuvable : {posts_file}")
         sys.exit(0)
 
-    with open(posts_file, 'r', encoding='utf-8') as f:
+    with open(posts_file, "r", encoding="utf-8") as f:
         md_content = f.read()
 
     posts = parse_posts(md_content)
     if not posts:
-        print("\n  [STOP] Aucun post trouvé dans le fichier.")
+        print("\n  [STOP] Aucun post trouvé.")
         sys.exit(0)
 
     print(f"\n  Posts trouvés : {len(posts)}")
-
-    entries = []
     for i, post in enumerate(posts, start=1):
-        key, block = build_js_entry(post, day, i)
-        entries.append((key, block))
-        print(f"  [{i}] {post['num']} — {post['title'][:60]}")
+        print(f"  [{i}] {post['num']} — {post['title'][:80]}")
+
+    all_inserted: dict = {}
+    changed_files: list = []
+
+    for lang_idx, lang in enumerate(LANGUAGES):
+        target_file = TARGET_FILES[lang]
+        print(f"\n── Langue {lang} ───────────────────────────────────")
+        print(f"  Cible : {target_file}")
+
+        if lang_idx > 0 and lang != "es":
+            time.sleep(2)
+
+        try:
+            entries = build_entries_for_language(posts, day, lang)
+        except RuntimeError as exc:
+            print(f"  [ERREUR] {exc}")
+            sys.exit(1)
+
+        if args.dry_run:
+            print("  DRY RUN — clés générées :")
+            for key, block in entries:
+                print(f"\n// {key}")
+                print(block)
+            continue
+
+        inserted = insert_into_js(entries, target_file)
+        all_inserted[lang] = inserted
+        if inserted:
+            changed_files.append(target_file)
+            print(f"  Clés insérées : {len(inserted)}")
+        else:
+            print("  [SKIP] Aucune nouvelle clé à insérer.")
 
     if args.dry_run:
-        print("\n── DRY RUN — JS généré ─────────────────────────────")
-        for key, block in entries:
-            print(f"\n// {key}")
-            print(block)
+        print("\n── Terminé DRY RUN ─────────────────────────────────")
         return
 
-    print(f"\n  Insertion dans : {TARGET_FILE}")
-    inserted = insert_into_js(entries, TARGET_FILE, day)
-
-    if not inserted:
-        print("  [STOP] Aucune nouvelle clé à insérer.")
+    total_inserted = sum(len(v) for v in all_inserted.values())
+    if total_inserted == 0:
+        print("\n  [STOP] Aucun nouvel article à publier.")
         sys.exit(0)
 
-    print(f"  Clés insérées : {len(inserted)}")
+    print("\n── Résumé insertion ────────────────────────────────")
+    for lang in LANGUAGES:
+        print(f"  {lang}: {len(all_inserted.get(lang, []))} article(s)")
 
-    post_nums = [p["num"] for p in posts]
+    if args.no_push:
+        print("\n── Terminé sans git push ────────────────────────────")
+        return
+
     print("\n  Git commit + push...")
-    git_commit_push(SITE_DIR, TARGET_FILE, day, post_nums)
+    post_nums = [p["num"] for p in posts]
+    git_commit_push(SITE_DIR, changed_files, day, post_nums)
 
     print("\n── Terminé ─────────────────────────────────────────")
-    print(f"  {len(inserted)} article(s) publiés sur espanolesensuiza.ch")
-    print(f"  Commit : daily: add posts {day.isoformat()} ({', '.join(str(n) for n in post_nums)})")
+    print(f"  {total_inserted} article(s) insérés")
+    print(f"  Commit : daily: add multilingual posts {day.isoformat()}")
 
 
 if __name__ == "__main__":
