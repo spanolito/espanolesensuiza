@@ -356,10 +356,15 @@ strong, b {
     box-shadow: var(--shadow-sm);
 }
 
+.site-header .container {
+    max-width: 1460px;
+}
+
 .header-inner {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 1.5rem;
 }
 
 .logo-link {
@@ -370,6 +375,10 @@ strong, b {
     gap: 8px;
     letter-spacing: -0.02em;
     color: var(--text-primary);
+}
+
+.logo-title {
+    white-space: nowrap;
 }
 
 .logo-link svg {
@@ -395,17 +404,20 @@ strong, b {
     display: flex;
     align-items: center;
     gap: var(--space-md);
+    flex: 1 1 auto;
+    min-width: 0;
+    justify-content: flex-end;
 }
 
 .nav-list {
     display: flex;
     align-items: center;
     list-style: none;
-    gap: 1.5rem;
-    flex-wrap: wrap;
-    row-gap: 0.5rem;
+    gap: 1.25rem;
+    flex-wrap: nowrap;
     margin: 0;
     padding: 0;
+    min-width: 0;
 }
 
 .nav-list > li {
@@ -419,7 +431,7 @@ strong, b {
     color: var(--text-secondary);
     position: relative;
     padding: 4px 0;
-    overflow-wrap: anywhere;
+    white-space: nowrap;
 }
 
 .nav-link::after {
@@ -526,6 +538,7 @@ strong, b {
     gap: 6px;
     padding: 4px 0;
     transition: color var(--transition-fast);
+    white-space: nowrap;
 }
 
 .dropdown-toggle:hover, .dropdown.open .dropdown-toggle {
