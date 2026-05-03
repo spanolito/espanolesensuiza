@@ -1127,5 +1127,65 @@ Object.assign(window.siteContent.es.articles, {
 <p>Existe la posibilidad de contratar una Zusatzversicherung dental (seguro complementario dental), pero tiene sus propias reglas: casi todas las aseguradoras exigen un período de espera de varios meses antes de empezar a cubrir, tienen un límite anual (habitualmente entre el 50 y el 75% de los costes, hasta un techo de 1.000 a 3.000 francos anuales) y no cubren tratamientos que ya tenías en marcha cuando contratas.</p>
 <p>El consejo práctico: contrátala cuando llegues, antes de que haya ningún problema. Y ve al dentista con regularidad; aquí la prevención sale mucho más barata que la intervención.</p>
 </div>`
+    },
+
+    "fb-daily-20260502-01-el-seguro-de-accidentes-en-suiza-no-cubre-todo-lo-que-te-pasa-en-el-tr": {
+        title: "El seguro de accidentes en Suiza no cubre todo lo que te pasa en el trabajo",
+        description: "Muchos españoles que llegan a trabajar aquí asumen que el \"seguro de accidentes\" cubre cualquier problema de salud relacionado con el trabajo. Esa confusión…",
+        keywords: "seguro, accidentes, suiza, cubre, todo, pasa, trabajo, muchos",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-02-1-el-seguro-de-accidentes-en-suiza-no-cubre-todo-lo-que-te-pasa-en-el-tr",
+        readingTime: 2,
+        dateUpdated: "2 mayo 2026",
+        summary: "Muchos españoles que llegan a trabajar aquí asumen que el \"seguro de accidentes\" cubre cualquier problema de salud relacionado con el trabajo. Esa…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Muchos españoles que llegan a trabajar aquí asumen que el "seguro de accidentes" cubre cualquier problema de salud relacionado con el trabajo. Esa confusión puede salir cara. La Ley Federal de Seguro de Accidentes (LAA) distingue dos categorías claramente separadas: el accidente, que es un evento súbito, externo e involuntario, y la enfermedad profesional, que es una patología causada principalmente por la actividad laboral. La diferencia no es semántica: de ella depende quién paga, cuánto y durante cuánto tiempo.</p>
+<p>Para que la SUVA reconozca una enfermedad como profesional, esta debe estar causada por el trabajo en más de un 50% en el caso de enfermedades incluidas en la lista oficial, y en más de un 75% para las que no lo están. Dolencias derivadas del ruido continuo, ciertas alergias cutáneas, patologías respiratorias por exposición a sustancias tóxicas, o enfermedades musculoesqueléticas relacionadas con posturas de trabajo pueden entrar en esa categoría, pero el reconocimiento no es automático y el proceso puede durar meses. Durante ese tiempo, muchos trabajadores se encuentran en una zona gris que nadie les había explicado.</p>
+<p>El verdadero problema aparece cuando la SUVA determina que la causa laboral no alcanza el umbral exigido. En ese caso, la enfermedad pasa a ser competencia del seguro médico (LAMal), que cubre los costes médicos pero no garantiza ningún reemplazo salarial. La compensación económica durante la baja depende entonces del contrato individual y de si el empleador tiene contratado un seguro de indemnización diaria (LCA), que en Suiza no es obligatorio.</p>
+<p>Lo más importante que hay que saber: si sospechas que un problema de salud tiene origen en tu trabajo, comunícalo a tu empleador cuanto antes y exige que lo declare a la SUVA como posible enfermedad profesional. Los plazos de prescripción existen, y una vez pasados, recuperar esos derechos se vuelve prácticamente imposible. El empleador tiene la obligación de hacer la declaración, pero tú también puedes solicitarla directamente.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-02-tener-un-perro-en-suiza-cuesta-mas-de-lo-que-parece": {
+        title: "Tener un perro en Suiza cuesta mas de lo que parece",
+        description: "En España, tener un perro implica unos gastos conocidos: veterinario, comida, chip. En Suiza hay que añadir un trámite fiscal que sorprende a casi todos los…",
+        keywords: "tener, perro, suiza, cuesta, parece, españa, implica, unos",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-02-2-tener-un-perro-en-suiza-cuesta-mas-de-lo-que-parece",
+        readingTime: 2,
+        dateUpdated: "2 mayo 2026",
+        summary: "En España, tener un perro implica unos gastos conocidos: veterinario, comida, chip. En Suiza hay que añadir un trámite fiscal que sorprende a casi…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En España, tener un perro implica unos gastos conocidos: veterinario, comida, chip. En Suiza hay que añadir un trámite fiscal que sorprende a casi todos los recién llegados: el impuesto sobre el perro. No es una broma ni una leyenda urbana. Es un impuesto real, gestionado a nivel cantonal o comunal según el canton, que se paga anualmente mientras tengas el animal.</p>
+<p>Los importes varían bastante según donde vivas. En el canton de Vaud, la tasa cantonal es de 100 francos anuales por perro, registro incluido. En Ginebra, el calculo combina un impuesto cantonal, los centeaux additionnels comunales y una tasa fija, lo que puede resultar en cifras similares o superiores. Algunos cantones del centro del pais como Zug o Schwyz han optado por no aplicarlo, pero son la excepcion. El primer paso es siempre el mismo en cualquier canton: inscribir al animal en la base de datos nacional AMICUS, que es obligatoria en todo el territorio. Una vez registrado, la administracion te enviara la factura anual.</p>
+<p>Mas alla del aspecto fiscal, hay normas de circulacion que en la practica son mucho mas estrictas que en Espana. En muchos espacios publicos, parques, playas de lago, medios de transporte publico, el perro debe ir con correa. En Zurich existen zonas habilitadas para que corran libres, pero en la mayoria de cantones las restricciones son rigurosas y las multas por incumplirlas, reales. Las normas del edificio (Hausordnung o reglamento interior) suelen tambien regular los horarios en los que el animal puede hacer ruido, y los vecinos suizos no suelen ser de los que miran para otro lado.</p>
+<p>Para quien traiga el perro desde Espana, los requisitos veterinarios son los habituales del espacio Schengen: pasaporte europeo de animales de compania valido, microchip identificativo y vacuna antirrrabica en vigor. Una vez en Suiza, hay que buscar un veterinario local, completar el registro en AMICUS y ponerse al dia con el impuesto communal. Es burocracia, no complicacion, pero lleva su tiempo y tiene sus fechas.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-03-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-la-mitad": {
+        title: "Trabajar a tiempo parcial en Suiza no es solo cobrar la mitad",
+        description: "Cuando alguien negocia un contrato al 60% o al 80% en Suiza, suele pensar en terminos simples: menos horas, menos sueldo, mas tiempo libre. Lo que casi nadie…",
+        keywords: "trabajar, tiempo, parcial, suiza, solo, cobrar, mitad, cuando",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-02-3-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-la-mitad",
+        readingTime: 2,
+        dateUpdated: "2 mayo 2026",
+        summary: "Cuando alguien negocia un contrato al 60% o al 80% en Suiza, suele pensar en terminos simples: menos horas, menos sueldo, mas tiempo libre. Lo que…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Cuando alguien negocia un contrato al 60% o al 80% en Suiza, suele pensar en terminos simples: menos horas, menos sueldo, mas tiempo libre. Lo que casi nadie le explica es que ese porcentaje de pensum tiene consecuencias directas sobre la pension, el seguro de accidentes y la cobertura en caso de desempleo, y que algunas de esas consecuencias son permanentes.</p>
+<p>El segundo pilar, la caja de pensiones (LPP), tiene un umbral de acceso obligatorio. En 2026, solo estan asegurados obligatoriamente quienes ganan mas de 22.680 francos anuales con un mismo empleador. Un contrato al 30% o al 40% en un sector de salario medio puede situarse facilmente por debajo de ese umbral, lo que significa que esos anos de trabajo no acumulan nada en el segundo pilar. La reforma de la LPP que habria bajado ese umbral fue rechazada en referendum en septiembre de 2024, de modo que la situacion no ha cambiado. Esta situacion afecta de manera desproporcionada a las mujeres, que son quienes trabajan a tiempo parcial con mayor frecuencia en Suiza.</p>
+<p>El seguro de accidentes no profesionales es otro punto que pasa desapercibido. Si trabajas menos de ocho horas semanales para un mismo empleador, ese empleador no esta obligado a cubrir tus accidentes fuera del trabajo. En caso de fractura en una pista de esqui o en bicicleta un fin de semana, la LAMal cubre los costes medicos, pero la SUVA no interviene. Quien trabaja a muy bajo porcentaje o combina varios miniempleos puede encontrarse sin esa cobertura por cada uno de ellos.</p>
+<p>En materia de desempleo, la indemnizacion se calcula en proporcion al salario percibido. Si perdiste un trabajo al 50%, el paro se basa en ese 50%. Si tienes varios empleos a tiempo parcial y pierdes uno, solo se considera esa parte. Nada de esto es razon para rechazar un contrato parcial, pero si informacion que conviene tener antes de firmar, no despues de perder el trabajo.</p>
+</div>`
     }
 });
