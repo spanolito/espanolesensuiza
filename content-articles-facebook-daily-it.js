@@ -7,69 +7,69 @@ window.siteContent = window.siteContent || {};
 window.siteContent.it = window.siteContent.it || { global: {}, pages: {}, articles: {} };
 window.siteContent.it.articles = window.siteContent.it.articles || {};
 
-Object.assign(window.siteContent.it.articles, {,
+Object.assign(window.siteContent.it.articles, {
 
-    "fb-daily-20260503-01-cambiare-cantone-in-svizzera-non-significa-solo-cambiare-indirizzo": {
-        title: "Cambiare cantone in Svizzera non significa solo cambiare indirizzo",
-        description: "Se vivi qui da un po&#x27;, probabilmente sai già che la Svizzera non è un paese centralizzato. Ogni cantone ha il proprio sistema fiscale, la propria…",
-        keywords: "cambiare, cantone, svizzera, significa, solo, indirizzo, vivi, probabilmente",
+    "fb-daily-20260503-01-cambiare-cantone-in-svizzera-non-e-solo-cambiare-indirizzo": {
+        title: "Cambiare cantone in Svizzera non è solo cambiare indirizzo",
+        description: "Se siete qui da un po' di tempo, sapete probabilmente già che la Svizzera non funziona come un paese centralizzato. Ogni cantone ha il proprio sistema fiscale,…",
+        keywords: "cambiare, cantone, svizzera, solo, indirizzo, siete, tempo, sapete",
         keywordsLocalized: true,
         category: "Pratiche e permessi",
         hub: "tramites",
-        slug: "actualidad-2026-05-03-1-cambiare-cantone-in-svizzera-non-significa-solo-cambiare-indirizzo",
+        slug: "actualidad-2026-05-03-1-cambiare-cantone-in-svizzera-non-e-solo-cambiare-indirizzo",
         readingTime: 1,
         dateUpdated: "3 maggio 2026",
-        summary: "Se vivi qui da un po&#x27;, probabilmente sai già che la Svizzera non è un paese centralizzato. Ogni cantone ha il proprio sistema fiscale, la…",
+        summary: "Se siete qui da un po' di tempo, sapete probabilmente già che la Svizzera non funziona come un paese centralizzato. Ogni cantone ha il proprio…",
         relatedSlugs: [],
         content: `<div class="article-content">
-<p>Se vivi qui da un po&#x27;, probabilmente sai già che la Svizzera non è un paese centralizzato. Ogni cantone ha il proprio sistema fiscale, la propria amministrazione e, se sei uno straniero con permesso di soggiorno, cambiare cantone comporta più pratiche di quanto molti immaginino.</p>
-<p>Per prima cosa devi comunicare il tuo trasferimento al comune di residenza attuale e registrarti presso quello di destinazione entro 14 giorni dal trasloco. Non si tratta di una scelta facoltativa, ma di un obbligo di legge. Se sei titolare di un permesso B o C, l’autorità cantonale competente in materia di migrazione subentrerà e rilascerà il permesso corrispondente al nuovo cantone. Per i cittadini dell’UE/AELS la procedura è rapida, ma devi attivarla tu stesso.</p>
-<p>Una precisazione da tenere presente: se sei titolare di un permesso B e percepisci l&#x27;indennità di disoccupazione (chômage/RAV), non puoi cambiare cantone liberamente. La legge prevede che tu non sia disoccupato per poter esercitare tale diritto di mobilità. L&#x27;ufficio RAV del nuovo cantone verificherà tale requisito e, in assenza di comunicazione con l&#x27;ufficio del cantone di origine, il trasferimento verrà bloccato.</p>
-<p>Per quanto riguarda le imposte, se ti trasferisci a metà anno, paghi le imposte cantonali in proporzione al tempo trascorso in ciascun cantone. Per chi è soggetto a ritenuta alla fonte, la nuova aliquota si applica a partire dal mese successivo al cambio di domicilio. Le differenze tra i cantoni sono notevoli: Zugo, Svitto o Nidvaldo hanno aliquote molto inferiori rispetto a Ginevra, Berna o Vaud. Non è raro che qualcuno prenda in considerazione il trasferimento per motivi puramente fiscali.</p>
-<p>L&#x27;assicurazione sanitaria non cambia automaticamente, ma i premi variano a seconda del cantone di residenza. È il momento di confrontare le offerte.</p>
-<p>In sintesi: è possibile farlo, la procedura esiste e funziona. Ma non basta: bisogna agire.</p>
+<p>Se siete qui da un po' di tempo, sapete probabilmente già che la Svizzera non funziona come un paese centralizzato. Ogni cantone ha il proprio sistema fiscale, la propria amministrazione e, se siete stranieri con permesso di soggiorno, cambiare cantone comporta più pratiche di quante molti prevedano.</p>
+<p>La prima cosa da fare è comunicare la partenza al comune attuale e iscriversi in quello nuovo entro 14 giorni dal trasferimento. Non è facoltativo: è un obbligo legale. Se avete un permesso B o C, la nuova autorità cantonale della migrazione prenderà il controllo e rilascerà il permesso corrispondente al nuovo cantone. Per i cittadini UE/AELS la procedura è rapida, ma dovete attivarla voi stessi.</p>
+<p>Un punto importante da sapere: se siete titolari di un permesso B e percepite l'indennità di disoccupazione (chômage/RAV), non potete cambiare cantone liberamente. La legge richiede che non siate disoccupati per esercitare questo diritto di mobilità. L'ufficio RAV del nuovo cantone verificherà la situazione, e se non c'è comunicazione con quello del cantone di origine, il trasferimento verrà bloccato.</p>
+<p>Per quanto riguarda le imposte, se vi trasferite a metà anno, pagate le imposte cantonali in proporzione al tempo trascorso in ciascun cantone. Per chi è tassato alla fonte, il nuovo tasso si applica a partire dal mese successivo al cambio di domicilio. Le differenze tra cantoni sono considerevoli: Zugo, Svitto o Nidvaldo hanno aliquote molto inferiori rispetto a Ginevra, Berna o Vaud. Non è raro che qualcuno consideri il trasferimento per ragioni puramente fiscali.</p>
+<p>L'assicurazione malattia non cambia automaticamente, ma i premi variano a seconda del cantone di residenza. È il momento giusto per fare dei confronti.</p>
+<p>In sintesi: è possibile farlo, il processo esiste e funziona. Ma non avviene da solo.</p>
 </div>`
     },
 
-    "fb-daily-20260503-02-se-ti-ammali-in-svizzera-ecco-cosa-devi-fare-e-cosa-e-coperto": {
-        title: "Se ti ammali in Svizzera, ecco cosa devi fare e cosa è coperto",
-        description: "Il congedo per malattia in Svizzera funziona in modo piuttosto diverso rispetto al sistema spagnolo, e comprenderne il funzionamento prima di averne bisogno…",
-        keywords: "ammali, svizzera, ecco, cosa, devi, fare, coperto, congedo",
+    "fb-daily-20260503-02-se-vi-ammalate-in-svizzera-ecco-cosa-dovete-fare-e-cosa-vi-copre": {
+        title: "Se vi ammalate in Svizzera, ecco cosa dovete fare e cosa vi copre",
+        description: "L'assenza per malattia in Svizzera funziona in modo abbastanza diverso dal sistema spagnolo, e capirlo prima di averne bisogno evita spiacevoli sorprese.",
+        keywords: "ammalate, svizzera, ecco, cosa, dovete, fare, copre, assenza",
         keywordsLocalized: true,
         category: "Lavoro e salari",
         hub: "trabajo",
-        slug: "actualidad-2026-05-03-2-se-ti-ammali-in-svizzera-ecco-cosa-devi-fare-e-cosa-e-coperto",
+        slug: "actualidad-2026-05-03-2-se-vi-ammalate-in-svizzera-ecco-cosa-dovete-fare-e-cosa-vi-copre",
         readingTime: 1,
         dateUpdated: "3 maggio 2026",
-        summary: "Il congedo per malattia in Svizzera funziona in modo piuttosto diverso rispetto al sistema spagnolo, e comprenderne il funzionamento prima di averne…",
+        summary: "L'assenza per malattia in Svizzera funziona in modo abbastanza diverso dal sistema spagnolo, e capirlo prima di averne bisogno evita spiacevoli…",
         relatedSlugs: [],
         content: `<div class="article-content">
-<p>Il congedo per malattia in Svizzera funziona in modo piuttosto diverso rispetto al sistema spagnolo, e comprenderne il funzionamento prima di averne bisogno permette di evitare spiacevoli sorprese.</p>
-<p>Innanzitutto: se non puoi lavorare per malattia, devi avvisare il tuo datore di lavoro il prima possibile, se possibile entro la giornata stessa. Non si tratta di una semplice formalità: è un obbligo contrattuale. Nella maggior parte delle aziende, il certificato medico è richiesto a partire dal terzo giorno, anche se il contratto potrebbe richiederlo già dal primo. Se non lo presenti in tempo, il datore di lavoro può detrarti i giorni di assenza.</p>
-<p>I tuoi diritti: l’articolo 324a del Codice delle obbligazioni (CO) obbliga il datore di lavoro a corrisponderti l’intero salario durante l’assenza per malattia. Nel primo anno di contratto, tale durata minima è di tre settimane. A partire dal secondo anno, la durata aumenta in base all’anzianità di servizio secondo le tabelle di riferimento cantonali. Tuttavia, la maggior parte delle aziende dispone di un&#x27;assicurazione di indennità giornaliera (Krankentaggeld) che copre l&#x27;80% dello stipendio per 720 giorni nell&#x27;arco di un periodo di 900 giorni. Questa assicurazione sostituisce l&#x27;obbligo diretto del datore di lavoro, e la legge impone a quest&#x27;ultimo di pagare almeno la metà del premio.</p>
-<p>Due cose che molti non sanno: in Svizzera non esiste alcun periodo di carenza, ovvero si riceve l&#x27;indennità fin dal primo giorno di assenza per malattia. Inoltre, il tuo contratto è tutelato: il datore di lavoro non può licenziarti mentre sei in congedo per malattia, per un periodo di 30, 90 o 180 giorni a seconda della tua anzianità di servizio.</p>
-<p>Se l&#x27;azienda non dispone di tale assicurazione e si limita al minimo previsto dalla legge, la copertura è notevolmente più ridotta. È bene saperlo prima di averne bisogno.</p>
+<p>L'assenza per malattia in Svizzera funziona in modo abbastanza diverso dal sistema spagnolo, e capirlo prima di averne bisogno evita spiacevoli sorprese.</p>
+<p>Per prima cosa: se non potete lavorare per malattia, dovete informare il datore di lavoro il prima possibile, se possibile lo stesso giorno. Non è una formalità: è un obbligo contrattuale. Il certificato medico è richiesto nella maggior parte delle aziende a partire dal terzo giorno, anche se il contratto può richiederlo fin dal primo. Se non lo presentate in tempo, il datore di lavoro può detrarre quei giorni dalla retribuzione.</p>
+<p>Cosa vi spetta: l'articolo 324a del Codice delle obbligazioni (CO) obbliga il datore di lavoro a pagarvi il salario intero durante l'assenza. Nel primo anno di contratto, questo minimo è di tre settimane. Dal secondo anno, la durata aumenta con l'anzianità secondo le scale di riferimento cantonali. Tuttavia, la maggior parte delle aziende ha un'assicurazione indennità giornaliera (Krankentaggeld) che copre l'80% del salario per 720 giorni nell'arco di 900 giorni. Questa assicurazione sostituisce l'obbligo diretto del datore di lavoro, e la legge richiede che quest'ultimo paghi almeno la metà del premio.</p>
+<p>Due cose che molti non sanno: in Svizzera non esiste alcun periodo di carenza, il che significa che ricevete un'indennità fin dal primo giorno di malattia. E il vostro contratto è protetto: il datore di lavoro non può licenziarvi durante un'assenza per malattia, per un periodo di 30, 90 o 180 giorni a seconda della vostra anzianità.</p>
+<p>Se l'azienda non ha questa assicurazione e applica solo il minimo legale, la copertura è molto più breve. Vale la pena saperlo prima di averne bisogno.</p>
 </div>`
     },
 
-    "fb-daily-20260503-03-in-svizzera-le-cure-dentistiche-non-sono-coperte-dallx27assicurazione": {
-        title: "In Svizzera le cure dentistiche non sono coperte dall&#x27;assicurazione di base, e molti lo scoprono nel modo peggiore",
-        description: "In Spagna, la previdenza sociale copre alcune prestazioni odontoiatriche di base. Non è molto, ma almeno c&#x27;è qualcosa. In Svizzera, l&#x27;assicurazione…",
-        keywords: "svizzera, cure, dentistiche, coperte, dall, assicurazione, base, molti",
+    "fb-daily-20260503-03-il-dentista-in-svizzera-non-e-coperto-dallassicurazione-di-base-e-molt": {
+        title: "Il dentista in Svizzera non è coperto dall'assicurazione di base, e molti lo scoprono nel modo peggiore",
+        description: "In Spagna, la previdenza sociale copre alcune prestazioni dentali di base. Non è molto, ma qualcosa esiste. In Svizzera, l'assicurazione malattia obbligatoria…",
+        keywords: "dentista, svizzera, coperto, dall, assicurazione, base, molti, scoprono",
         keywordsLocalized: true,
         category: "Lavoro e salari",
         hub: "trabajo",
-        slug: "actualidad-2026-05-03-3-in-svizzera-le-cure-dentistiche-non-sono-coperte-dallx27assicurazione",
+        slug: "actualidad-2026-05-03-3-il-dentista-in-svizzera-non-e-coperto-dallassicurazione-di-base-e-molt",
         readingTime: 1,
         dateUpdated: "3 maggio 2026",
-        summary: "In Spagna, la previdenza sociale copre alcune prestazioni odontoiatriche di base. Non è molto, ma almeno c&#x27;è qualcosa. In Svizzera,…",
+        summary: "In Spagna, la previdenza sociale copre alcune prestazioni dentali di base. Non è molto, ma qualcosa esiste. In Svizzera, l'assicurazione malattia…",
         relatedSlugs: [],
         content: `<div class="article-content">
-<p>In Spagna, la previdenza sociale copre alcune prestazioni odontoiatriche di base. Non è molto, ma almeno c&#x27;è qualcosa. In Svizzera, l&#x27;assicurazione malattia obbligatoria (LAMal) non copre praticamente nulla di ciò che avviene durante una visita dal dentista. Ed è bene saperlo prima di sedersi sulla poltrona.</p>
-<p>La LAMal copre le cure dentistiche solo in tre casi specifici: quando sono la conseguenza di una malattia grave dell’apparato masticatorio, quando sono necessarie per curare un’altra malattia grave, oppure quando il danno è stato causato da un incidente e nessun’altra copertura lo assume. Al di fuori di queste tre eccezioni, la LAMal non interviene. Una carie, un&#x27;estrazione, una pulizia, un trattamento ortodontico per adulti, un impianto, una corona: tutto questo va direttamente a tuo carico.</p>
-<p>I prezzi sono in linea con quelli del Paese. Una pulizia di base costa circa 150-200 franchi. Un&#x27;estrazione può costare tra i 200 e i 500 franchi. Un impianto completo costa tra i 3.000 e i 5.000 franchi a dente. Un trattamento ortodontico per adulti può superare i 10.000 franchi.</p>
-<p>È possibile stipulare un&#x27;assicurazione dentistica integrativa (Zusatzversicherung), ma essa è soggetta a regole specifiche: quasi tutte le compagnie assicurative richiedono un periodo di attesa di diversi mesi prima di iniziare a coprire le spese, hanno un limite annuale (di solito tra il 50 e il 75% dei costi, fino a un massimo di 1.000-3.000 franchi all&#x27;anno) e non coprono le cure già in corso al momento della stipula.</p>
-<p>Un consiglio pratico: stipulate la polizza appena arrivate, prima che sorgano eventuali problemi. E andate dal dentista regolarmente; qui la prevenzione costa molto meno dell’intervento.</p>
+<p>In Spagna, la previdenza sociale copre alcune prestazioni dentali di base. Non è molto, ma qualcosa esiste. In Svizzera, l'assicurazione malattia obbligatoria (LAMal) non copre praticamente nulla di ciò che avviene in uno studio dentistico. Vale la pena saperlo prima di sedersi sulla poltrona.</p>
+<p>La LAMal copre le cure dentali solo in tre situazioni specifiche: quando sono conseguenza di una grave malattia dell'apparato masticatorio, quando sono necessarie per trattare un'altra malattia grave, o quando il danno è stato causato da un incidente e nessun'altra copertura lo assume. Al di fuori di queste tre eccezioni, la LAMal non interviene. Una carie, un'estrazione, una pulizia, un'ortodonzia adulti, un impianto, una corona: tutto questo va direttamente di tasca vostra.</p>
+<p>I prezzi sono in linea con il paese. Una pulizia di base costa circa 150-200 franchi. Un'estrazione può costare tra 200 e 500. Un impianto completo tra 3'000 e 5'000 franchi al pezzo. Un'ortodonzia per adulti può superare i 10'000.</p>
+<p>È possibile sottoscrivere una Zusatzversicherung dentale (assicurazione complementare dentale), ma ha le sue regole: quasi tutte le assicurazioni richiedono un periodo di attesa di diversi mesi prima che la copertura inizi, hanno un limite annuale (di solito tra il 50 e il 75% dei costi, fino a un massimo di 1'000-3'000 franchi all'anno) e non coprono le cure già in corso al momento della stipula.</p>
+<p>Il consiglio pratico: sottoscrivetela quando arrivate, prima che ci siano problemi. E andate regolarmente dal dentista; qui la prevenzione costa molto meno dell'intervento.</p>
 </div>`
     }
 });

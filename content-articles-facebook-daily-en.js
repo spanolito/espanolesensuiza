@@ -1127,5 +1127,69 @@ Object.assign(window.siteContent.en.articles, {
 <p>It is possible to take out supplementary dental insurance, but it has its own rules: almost all insurers require a waiting period of several months before cover begins, they have an annual limit (usually between 50% and 75% of costs, up to a ceiling of 1,000 to 3,000 francs per year) and they do not cover treatments that were already underway when you took out the policy.</p>
 <p>A handy tip: book an appointment as soon as you arrive, before any problems arise. And visit the dentist regularly; here, prevention works out much cheaper than treatment.</p>
 </div>`
+    },
+
+    "fb-daily-20260503-01-changing-canton-in-switzerland-is-more-than-just-changing-your-address": {
+        title: "Changing canton in Switzerland is more than just changing your address",
+        description: "If you have been here for a while, you probably already know that Switzerland does not work like a centralised country. Each canton has its own tax system, its…",
+        keywords: "changing, canton, switzerland, more, than, just, your, address",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-03-1-changing-canton-in-switzerland-is-more-than-just-changing-your-address",
+        readingTime: 1,
+        dateUpdated: "May 3, 2026",
+        summary: "If you have been here for a while, you probably already know that Switzerland does not work like a centralised country. Each canton has its own tax…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>If you have been here for a while, you probably already know that Switzerland does not work like a centralised country. Each canton has its own tax system, its own administration and, if you are a foreign national with a residence permit, changing canton involves more procedures than many people expect.</p>
+<p>The first step is to notify your current municipality of your departure and register with the new one within 14 days of your move. This is not optional: it is a legal obligation. If you hold a permit B or C, the new cantonal migration authority will take over and issue the corresponding permit for the new canton. For EU/EFTA citizens the process is straightforward, but you need to initiate it yourself.</p>
+<p>One important point to know: if you hold a permit B and are receiving unemployment benefits (chômage/RAV), you cannot change canton freely. The law requires that you are not unemployed to exercise this right of mobility. The RAV office in the new canton will verify this, and if there is no communication with the one in the canton of origin, the transfer will be blocked.</p>
+<p>As for taxes, if you move mid-year, you pay cantonal taxes proportional to the time spent in each canton. For those taxed at source, the new rate applies from the month following the change of domicile. The differences between cantons are significant: Zug, Schwyz or Nidwald have much lower rates than Geneva, Berne or Vaud. It is not uncommon for someone to consider moving for purely fiscal reasons.</p>
+<p>Health insurance does not change automatically, but premium prices vary by canton of residence. It is a good time to compare.</p>
+<p>In short: it is possible, the process exists and works. But it does not happen by itself.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-02-if-you-fall-ill-in-switzerland-here-is-what-you-need-to-do-and-what-co": {
+        title: "If you fall ill in Switzerland, here is what you need to do and what covers you",
+        description: "Sick leave in Switzerland works quite differently from the Spanish system, and understanding it before you need it avoids unpleasant surprises.",
+        keywords: "fall, switzerland, here, what, need, covers, sick, leave",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-2-if-you-fall-ill-in-switzerland-here-is-what-you-need-to-do-and-what-co",
+        readingTime: 1,
+        dateUpdated: "May 3, 2026",
+        summary: "Sick leave in Switzerland works quite differently from the Spanish system, and understanding it before you need it avoids unpleasant surprises.",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Sick leave in Switzerland works quite differently from the Spanish system, and understanding it before you need it avoids unpleasant surprises.</p>
+<p>First: if you cannot work due to illness, you must inform your employer as soon as possible, that same day if possible. This is not a formality: it is a contractual obligation. In most companies, a medical certificate is required from the third day, although the contract may request it from the first. If you do not present it in time, the employer can deduct those days from your pay.</p>
+<p>What you are entitled to: Article 324a of the Code of Obligations (CO) requires the employer to pay your full salary during sick leave. In the first year of employment, this minimum is three weeks. From the second year, the duration increases with seniority according to cantonal reference scales. However, most companies have a daily benefits insurance (Krankentaggeld) that covers 80% of salary for 720 days within a period of 900 days. This insurance replaces the employer's direct obligation, and the law requires the employer to pay at least half the premium.</p>
+<p>Two things many people do not know: there is no waiting period in Switzerland, meaning you receive compensation from the first day of sick leave. And your contract is protected: the employer cannot dismiss you during sick leave, for a period of 30, 90 or 180 days depending on your seniority.</p>
+<p>If the company does not have this insurance and only applies the legal minimum, the coverage is considerably shorter. It is worth knowing before you need it.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-03-dental-care-in-switzerland-is-not-covered-by-basic-insurance-and-many": {
+        title: "Dental care in Switzerland is not covered by basic insurance, and many find out the hard way",
+        description: "In Spain, the social security system covers some basic dental services. It is not much, but something exists. In Switzerland, the compulsory health insurance…",
+        keywords: "dental, care, switzerland, covered, basic, insurance, many, find",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-3-dental-care-in-switzerland-is-not-covered-by-basic-insurance-and-many",
+        readingTime: 1,
+        dateUpdated: "May 3, 2026",
+        summary: "In Spain, the social security system covers some basic dental services. It is not much, but something exists. In Switzerland, the compulsory health…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Spain, the social security system covers some basic dental services. It is not much, but something exists. In Switzerland, the compulsory health insurance (LAMal) covers virtually nothing that happens in a dental practice. It is worth knowing this before sitting down in the chair.</p>
+<p>LAMal only pays for dental treatments in three specific situations: when they result from a serious disease of the masticatory system, when they are necessary to treat another serious illness, or when the damage was caused by an accident and no other coverage applies. Outside these three exceptions, LAMal does not intervene. A cavity, an extraction, a cleaning, adult orthodontics, an implant, a crown: all of that comes directly out of your pocket.</p>
+<p>Prices are in line with the country. A basic cleaning costs around 150-200 francs. An extraction can cost between 200 and 500. A full implant between 3,000 and 5,000 francs per unit. Adult orthodontics can exceed 10,000.</p>
+<p>It is possible to take out a dental Zusatzversicherung (supplementary dental insurance), but it has its own rules: almost all insurers require a waiting period of several months before coverage begins, they have an annual limit (usually between 50 and 75% of costs, up to a ceiling of 1,000 to 3,000 francs per year) and do not cover treatments already underway when you take out the policy.</p>
+<p>The practical advice: take it out when you arrive, before there are any problems. And go to the dentist regularly; here, prevention is much cheaper than treatment.</p>
+</div>`
     }
 });

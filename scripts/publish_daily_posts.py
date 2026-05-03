@@ -17,7 +17,6 @@ Usage :
     python3 publish_daily_posts.py
     python3 publish_daily_posts.py --date 2026-05-03
     python3 publish_daily_posts.py --date 2026-05-03 --dry-run
-    python3 publish_daily_posts.py --date 2026-05-03 --no-push
 """
 
 import argparse
@@ -34,8 +33,8 @@ from datetime import date, datetime
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 
-POSTS_DIR = "/Users/oscarandujar/Projets/Publications/posts"
-SITE_DIR = "/Users/oscarandujar/Projets/espanolesensuiza"
+POSTS_DIR = os.environ.get("POSTS_DIR", "/Users/oscarandujar/Projets/Publications/posts")
+SITE_DIR = os.environ.get("SITE_DIR", "/Users/oscarandujar/Projets/espanolesensuiza")
 
 LANGUAGES = ["es", "fr", "en", "de", "it"]
 
@@ -257,6 +256,7 @@ def translate_text(text: str, lang: str, retries: int = 3) -> str:
             with urllib.request.urlopen(req, timeout=45) as r:
                 result = json.loads(r.read().decode("utf-8"))
             translated = result["translations"][0]["text"]
+            translated = translated.replace("&#x27;", "'").replace("&#39;", "'").replace("&quot;", '"').replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">").replace("&x27;", "'").replace("&x22;", '"')
             _CACHE[key] = translated
             return translated
         except Exception as exc:
@@ -420,7 +420,6 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", help="Date YYYY-MM-DD. Défaut : aujourd'hui")
     parser.add_argument("--dry-run", action="store_true", help="Affiche sans écrire ni pusher")
-    parser.add_argument("--no-push", action="store_true", help="Ecrit les fichiers JS sans git push")
     args = parser.parse_args()
 
     if args.date:
@@ -499,10 +498,6 @@ def main() -> None:
     print("\n── Résumé insertion ────────────────────────────────")
     for lang in LANGUAGES:
         print(f"  {lang}: {len(all_inserted.get(lang, []))} article(s)")
-
-    if args.no_push:
-        print("\n── Terminé sans git push ────────────────────────────")
-        return
 
     print("\n  Git commit + push...")
     post_nums = [p["num"] for p in posts]

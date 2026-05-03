@@ -1127,5 +1127,69 @@ Object.assign(window.siteContent.de.articles, {
 <p>Es besteht die Möglichkeit, eine Zahnzusatzversicherung abzuschließen, doch dafür gelten eigene Regeln: Fast alle Versicherer verlangen eine Wartezeit von mehreren Monaten, bevor der Versicherungsschutz beginnt, sie haben eine jährliche Obergrenze (in der Regel zwischen 50 und 75 % der Kosten, bis zu einer Höchstgrenze von 1.000 bis 3.000 Franken pro Jahr) und decken keine Behandlungen ab, die bereits vor Vertragsabschluss begonnen haben.</p>
 <p>Ein praktischer Tipp: Schließen Sie eine Versicherung ab, sobald Sie hier sind, bevor Probleme auftreten. Und gehen Sie regelmäßig zum Zahnarzt; hier ist Vorbeugung viel günstiger als eine Behandlung.</p>
 </div>`
+    },
+
+    "fb-daily-20260503-01-einen-kanton-in-der-schweiz-zu-wechseln-bedeutet-mehr-als-nur-eine-neu": {
+        title: "Einen Kanton in der Schweiz zu wechseln bedeutet mehr als nur eine neue Adresse",
+        description: "Wenn Sie schon eine Weile hier sind, wissen Sie wahrscheinlich bereits, dass die Schweiz nicht wie ein zentralisiertes Land funktioniert. Jeder Kanton hat sein…",
+        keywords: "einen, kanton, schweiz, wechseln, bedeutet, mehr, neue, adresse",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-03-1-einen-kanton-in-der-schweiz-zu-wechseln-bedeutet-mehr-als-nur-eine-neu",
+        readingTime: 1,
+        dateUpdated: "3. Mai 2026",
+        summary: "Wenn Sie schon eine Weile hier sind, wissen Sie wahrscheinlich bereits, dass die Schweiz nicht wie ein zentralisiertes Land funktioniert. Jeder…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Wenn Sie schon eine Weile hier sind, wissen Sie wahrscheinlich bereits, dass die Schweiz nicht wie ein zentralisiertes Land funktioniert. Jeder Kanton hat sein eigenes Steuersystem, seine eigene Verwaltung und, wenn Sie Ausländer mit Aufenthaltsbewilligung sind, bringt ein Kantonswechsel mehr Formalitäten mit sich, als viele erwarten.</p>
+<p>Zunächst müssen Sie Ihren Wegzug bei der aktuellen Gemeinde melden und sich in der neuen Gemeinde innerhalb von 14 Tagen nach Ihrem Umzug anmelden. Das ist nicht optional: Es ist eine gesetzliche Pflicht. Wenn Sie eine Bewilligung B oder C haben, übernimmt die neue kantonale Migrationsbehörde und stellt die entsprechende Bewilligung für den neuen Kanton aus. Für EU/EFTA-Bürger ist der Vorgang unkompliziert, aber Sie müssen ihn selbst in die Wege leiten.</p>
+<p>Ein wichtiger Punkt, den man kennen sollte: Wenn Sie eine Bewilligung B haben und Arbeitslosenunterstützung (Chômage/RAV) beziehen, können Sie den Kanton nicht frei wechseln. Das Gesetz verlangt, dass Sie nicht arbeitslos sind, um dieses Mobilitätsrecht ausüben zu können. Das RAV-Büro im neuen Kanton wird dies überprüfen, und wenn keine Kommunikation mit dem Büro des Herkunftskantons besteht, wird der Umzug blockiert.</p>
+<p>Was die Steuern betrifft: Wenn Sie im Laufe des Jahres umziehen, zahlen Sie kantonale Steuern proportional zur Zeit, die Sie in jedem Kanton verbracht haben. Für Personen mit Quellenbesteuerung gilt der neue Satz ab dem Monat nach dem Wohnsitzwechsel. Die Unterschiede zwischen den Kantonen sind erheblich: Zug, Schwyz oder Nidwalden haben viel niedrigere Sätze als Genf, Bern oder Waadt. Es ist nicht ungewöhnlich, dass jemand einen Umzug aus rein steuerlichen Gründen in Betracht zieht.</p>
+<p>Die Krankenkasse ändert sich nicht automatisch, aber die Prämien variieren je nach Wohnkanton. Es ist der richtige Moment zum Vergleichen.</p>
+<p>Zusammenfassend: Es ist möglich, der Prozess existiert und funktioniert. Aber er läuft nicht von allein.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-02-wenn-sie-in-der-schweiz-krank-werden-was-sie-tun-mussen-und-was-sie-ab": {
+        title: "Wenn Sie in der Schweiz krank werden: Was Sie tun müssen und was Sie absichert",
+        description: "Krankheitsbedingte Arbeitsunfähigkeit in der Schweiz funktioniert ganz anders als im spanischen System, und es zu verstehen, bevor man es braucht, vermeidet…",
+        keywords: "wenn, schweiz, krank, werden, müssen, absichert, krankheitsbedingte, arbeitsunfähigkeit",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-2-wenn-sie-in-der-schweiz-krank-werden-was-sie-tun-mussen-und-was-sie-ab",
+        readingTime: 1,
+        dateUpdated: "3. Mai 2026",
+        summary: "Krankheitsbedingte Arbeitsunfähigkeit in der Schweiz funktioniert ganz anders als im spanischen System, und es zu verstehen, bevor man es braucht,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Krankheitsbedingte Arbeitsunfähigkeit in der Schweiz funktioniert ganz anders als im spanischen System, und es zu verstehen, bevor man es braucht, vermeidet unangenehme Überraschungen.</p>
+<p>Zunächst: Wenn Sie krankheitsbedingt nicht arbeiten können, müssen Sie Ihren Arbeitgeber so bald wie möglich informieren, möglichst noch am selben Tag. Das ist keine Formalität: Es ist eine vertragliche Pflicht. In den meisten Unternehmen wird ein Arztzeugnis ab dem dritten Tag verlangt, obwohl der Vertrag es ab dem ersten verlangen kann. Wenn Sie es nicht rechtzeitig einreichen, kann der Arbeitgeber Ihnen diese Tage vom Lohn abziehen.</p>
+<p>Was Ihnen zusteht: Artikel 324a des Obligationenrechts (OR) verpflichtet den Arbeitgeber, Ihnen während der Krankheit den vollen Lohn zu zahlen. Im ersten Vertragsjahr beträgt dieses Minimum drei Wochen. Ab dem zweiten Jahr verlängert sich die Dauer mit der Betriebszugehörigkeit gemäss den kantonalen Referenzskalen. Die meisten Unternehmen haben jedoch eine Krankentaggeldversicherung, die 80 % des Lohnes für 720 Tage innerhalb eines Zeitraums von 900 Tagen abdeckt. Diese Versicherung ersetzt die direkte Arbeitgeberpflicht, und das Gesetz verlangt, dass der Arbeitgeber mindestens die Hälfte der Prämie bezahlt.</p>
+<p>Zwei Dinge, die viele nicht wissen: Es gibt in der Schweiz keine Wartefrist, das heisst, Sie erhalten ab dem ersten Krankheitstag eine Entschädigung. Und Ihr Vertrag ist geschützt: Der Arbeitgeber kann Sie während einer Krankschreibung nicht kündigen, und zwar für eine Dauer von 30, 90 oder 180 Tagen je nach Betriebszugehörigkeit.</p>
+<p>Wenn das Unternehmen diese Versicherung nicht hat und nur das gesetzliche Minimum anwendet, ist die Deckung deutlich kürzer. Es lohnt sich, das zu wissen, bevor man es braucht.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-03-zahnarztbehandlungen-werden-in-der-schweiz-nicht-von-der-grundversiche": {
+        title: "Zahnarztbehandlungen werden in der Schweiz nicht von der Grundversicherung übernommen, und viele lernen das auf die harte Tour",
+        description: "In Spanien deckt die Sozialversicherung einige grundlegende Zahnleistungen ab. Es ist nicht viel, aber es gibt etwas. In der Schweiz deckt die obligatorische…",
+        keywords: "zahnarztbehandlungen, werden, schweiz, nicht, grundversicherung, übernommen, viele, lernen",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-3-zahnarztbehandlungen-werden-in-der-schweiz-nicht-von-der-grundversiche",
+        readingTime: 1,
+        dateUpdated: "3. Mai 2026",
+        summary: "In Spanien deckt die Sozialversicherung einige grundlegende Zahnleistungen ab. Es ist nicht viel, aber es gibt etwas. In der Schweiz deckt die…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Spanien deckt die Sozialversicherung einige grundlegende Zahnleistungen ab. Es ist nicht viel, aber es gibt etwas. In der Schweiz deckt die obligatorische Krankenversicherung (KVG/LAMal) praktisch nichts ab, was in einer Zahnarztpraxis passiert. Es lohnt sich, das zu wissen, bevor man sich in den Stuhl setzt.</p>
+<p>Das KVG übernimmt Zahnbehandlungen nur in drei konkreten Situationen: wenn sie Folge einer schweren Erkrankung des Kauapparates sind, wenn sie zur Behandlung einer anderen schweren Krankheit notwendig sind oder wenn der Schaden durch einen Unfall verursacht wurde und keine andere Versicherung einspringt. Ausserhalb dieser drei Ausnahmen greift das KVG nicht. Eine Karies, eine Extraktion, eine Reinigung, eine Erwachsenenorthopädie, ein Implantat, eine Krone: Das alles geht direkt zu Ihren Lasten.</p>
+<p>Die Preise entsprechen dem Landesniveau. Eine Basiszahnreinigung kostet rund 150-200 Franken. Eine Extraktion kann zwischen 200 und 500 kosten. Ein vollständiges Implantat zwischen 3'000 und 5'000 Franken pro Einheit. Eine Erwachsenenorthopädie kann 10'000 Franken übersteigen.</p>
+<p>Es ist möglich, eine Zahnzusatzversicherung abzuschliessen, aber sie hat ihre eigenen Regeln: Fast alle Versicherer verlangen eine Wartezeit von mehreren Monaten, bevor die Deckung beginnt, sie haben eine Jahreshöchstgrenze (in der Regel zwischen 50 und 75 % der Kosten, bis zu einem Maximum von 1'000 bis 3'000 Franken pro Jahr) und decken keine Behandlungen ab, die bei Vertragsabschluss bereits laufen.</p>
+<p>Der praktische Rat: Schliessen Sie sie ab, wenn Sie ankommen, bevor es irgendwelche Probleme gibt. Und gehen Sie regelmässig zum Zahnarzt; hier ist Vorsorge viel günstiger als Behandlung.</p>
+</div>`
     }
 });

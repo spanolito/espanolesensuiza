@@ -1065,67 +1065,67 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260503-01-changer-de-canton-en-suisse-ce-nx27est-pas-seulement-changer-dx27adres": {
-        title: "Changer de canton en Suisse, ce n&#x27;est pas seulement changer d&#x27;adresse",
-        description: "Si tu es ici depuis un certain temps, tu sais sans doute déjà que la Suisse ne fonctionne pas comme un État centralisé. Chaque canton a son propre système…",
-        keywords: "changer, canton, suisse, seulement, adresse, depuis, certain, temps",
+    "fb-daily-20260503-01-changer-de-canton-en-suisse-ne-se-resume-pas-a-changer-dadresse": {
+        title: "Changer de canton en Suisse ne se résume pas à changer d'adresse",
+        description: "Si vous êtes ici depuis un certain temps, vous savez probablement déjà que la Suisse ne fonctionne pas comme un pays centralisé. Chaque canton a sa propre…",
+        keywords: "changer, canton, suisse, résume, adresse, vous, êtes, depuis",
         keywordsLocalized: true,
         category: "Démarches et permis",
         hub: "tramites",
-        slug: "actualidad-2026-05-03-1-changer-de-canton-en-suisse-ce-nx27est-pas-seulement-changer-dx27adres",
+        slug: "actualidad-2026-05-03-1-changer-de-canton-en-suisse-ne-se-resume-pas-a-changer-dadresse",
         readingTime: 2,
         dateUpdated: "3 mai 2026",
-        summary: "Si tu es ici depuis un certain temps, tu sais sans doute déjà que la Suisse ne fonctionne pas comme un État centralisé. Chaque canton a son propre…",
+        summary: "Si vous êtes ici depuis un certain temps, vous savez probablement déjà que la Suisse ne fonctionne pas comme un pays centralisé. Chaque canton a sa…",
         relatedSlugs: [],
         content: `<div class="article-content">
-<p>Si tu es ici depuis un certain temps, tu sais sans doute déjà que la Suisse ne fonctionne pas comme un État centralisé. Chaque canton a son propre système fiscal, sa propre administration et, si tu es étranger titulaire d&#x27;un permis de séjour, changer de canton implique plus de démarches que beaucoup ne le pensent.</p>
-<p>Tu dois tout d&#x27;abord signaler ton départ à ta commune actuelle et t&#x27;inscrire dans ta nouvelle commune dans les 14 jours suivant ton déménagement. Ce n&#x27;est pas facultatif : il s&#x27;agit d&#x27;une obligation légale. Si tu es titulaire d&#x27;un permis B ou C, la nouvelle autorité cantonale compétente en matière d&#x27;immigration prendra le relais et délivrera le permis correspondant au nouveau canton. Pour les citoyens de l&#x27;UE/AELE, la procédure est simple, mais c&#x27;est à toi de la mettre en œuvre.</p>
-<p>Une précision qu&#x27;il convient de connaître : si vous êtes titulaire d&#x27;un permis B et que vous percevez des allocations chômage (chômage/RAV), vous ne pouvez pas changer de canton librement. La loi exige que vous ne soyez pas au chômage pour exercer ce droit à la mobilité. L&#x27;agence RAV du nouveau canton vérifiera cette information, et s&#x27;il n&#x27;y a pas de communication avec celle du canton d&#x27;origine, le transfert sera bloqué.</p>
-<p>En matière d&#x27;impôts, si vous déménagez en cours d&#x27;année, vous payez des impôts cantonaux au prorata du temps passé dans chaque canton. Pour les personnes imposées à la source, le nouveau taux s&#x27;applique à partir du mois suivant le changement de domicile. Les différences entre les cantons sont considérables : Zoug, Schwyz ou Nidwald ont des taux bien inférieurs à ceux de Genève, Berne ou Vaud. Il n’est pas rare que quelqu’un envisage de déménager pour des raisons purement fiscales.</p>
-<p>L&#x27;assurance maladie ne change pas automatiquement, mais le montant des primes varie selon le canton de résidence. C&#x27;est le moment de comparer.</p>
-<p>En résumé : c&#x27;est possible, le processus existe et fonctionne. Mais ça ne se fait pas tout seul.</p>
+<p>Si vous êtes ici depuis un certain temps, vous savez probablement déjà que la Suisse ne fonctionne pas comme un pays centralisé. Chaque canton a sa propre fiscalité, sa propre administration et, si vous êtes étranger titulaire d'un permis de séjour, changer de canton implique plus de démarches que beaucoup ne le prévoient.</p>
+<p>La première chose à faire est de déclarer votre départ à votre commune actuelle et de vous inscrire dans la nouvelle dans les 14 jours suivant votre déménagement. Ce n'est pas facultatif : c'est une obligation légale. Si vous êtes titulaire d'un permis B ou C, la nouvelle autorité cantonale des migrations prendra le relais et délivrera le permis correspondant au nouveau canton. Pour les ressortissants de l'UE/AELE, la procédure est rapide, mais c'est à vous de la mettre en marche.</p>
+<p>Un point important à connaître : si vous êtes titulaire d'un permis B et que vous percevez des allocations chômage (chômage/RAV), vous ne pouvez pas changer de canton librement. La loi exige que vous ne soyez pas au chômage pour exercer ce droit à la mobilité. Le bureau RAV du nouveau canton vérifiera la situation, et si la communication avec celui du canton d'origine fait défaut, le transfert sera bloqué.</p>
+<p>Concernant les impôts, si vous déménagez en cours d'année, vous payez des impôts cantonaux au prorata du temps passé dans chaque canton. Pour les personnes imposées à la source, le nouveau taux s'applique à partir du mois suivant le changement de domicile. Les différences entre cantons sont considérables : Zoug, Schwyz ou Nidwald ont des taux bien inférieurs à Genève, Berne ou Vaud. Il n'est pas rare que quelqu'un envisage un déménagement pour des raisons purement fiscales.</p>
+<p>L'assurance maladie ne change pas automatiquement, mais le montant des primes varie selon le canton de résidence. C'est le bon moment pour comparer.</p>
+<p>En résumé : c'est faisable, le processus existe et fonctionne. Mais il ne se fait pas tout seul.</p>
 </div>`
     },
 
     "fb-daily-20260503-02-si-vous-tombez-malade-en-suisse-voici-ce-que-vous-devez-faire-et-ce-qu": {
-        title: "Si vous tombez malade en Suisse, voici ce que vous devez faire et ce qui est pris en charge",
-        description: "Le congé maladie en Suisse fonctionne de manière assez différente du système espagnol, et le comprendre avant d&#x27;en avoir besoin permet d&#x27;éviter les…",
-        keywords: "vous, tombez, malade, suisse, voici, devez, faire, pris",
+        title: "Si vous tombez malade en Suisse, voici ce que vous devez faire et ce qui vous couvre",
+        description: "L'arrêt de travail en Suisse fonctionne de manière assez différente du système espagnol, et le comprendre avant d'en avoir besoin évite des surprises…",
+        keywords: "vous, tombez, malade, suisse, voici, devez, faire, couvre",
         keywordsLocalized: true,
         category: "Travail et salaires",
         hub: "trabajo",
         slug: "actualidad-2026-05-03-2-si-vous-tombez-malade-en-suisse-voici-ce-que-vous-devez-faire-et-ce-qu",
-        readingTime: 2,
+        readingTime: 1,
         dateUpdated: "3 mai 2026",
-        summary: "Le congé maladie en Suisse fonctionne de manière assez différente du système espagnol, et le comprendre avant d&#x27;en avoir besoin permet…",
+        summary: "L'arrêt de travail en Suisse fonctionne de manière assez différente du système espagnol, et le comprendre avant d'en avoir besoin évite des surprises…",
         relatedSlugs: [],
         content: `<div class="article-content">
-<p>Le congé maladie en Suisse fonctionne de manière assez différente du système espagnol, et le comprendre avant d&#x27;en avoir besoin permet d&#x27;éviter les mauvaises surprises.</p>
-<p>Tout d&#x27;abord : si vous ne pouvez pas travailler pour cause de maladie, vous devez en informer votre employeur dès que possible, le jour même si possible. Ce n&#x27;est pas une simple formalité : c&#x27;est une obligation contractuelle. Dans la plupart des entreprises, le certificat médical est exigé à partir du troisième jour, même si le contrat peut le demander dès le premier jour. Si vous ne le présentez pas à temps, l&#x27;employeur peut vous déduire ces jours de salaire.</p>
-<p>Ce à quoi vous avez droit : l&#x27;article 324a du Code des obligations (CO) oblige l&#x27;employeur à vous verser l&#x27;intégralité de votre salaire pendant votre arrêt de travail. Au cours de la première année de contrat, cette durée minimale est de trois semaines. À partir de la deuxième année, elle augmente en fonction de l&#x27;ancienneté, selon les barèmes cantonaux de référence. Cependant, la plupart des entreprises ont souscrit une assurance indemnités journalières (Krankentaggeld) qui couvre 80 % du salaire pendant 720 jours sur une période de 900 jours. Cette assurance se substitue à l&#x27;obligation directe de l&#x27;employeur, et la loi exige que celui-ci paie au moins la moitié de la prime.</p>
-<p>Voici deux choses que beaucoup de gens ignorent : il n&#x27;y a pas de délai de carence en Suisse, ce qui signifie que vous percevez vos indemnités dès le premier jour d&#x27;arrêt maladie. De plus, votre contrat est protégé : votre employeur ne peut pas vous licencier pendant votre arrêt maladie, et ce pendant une période de 30, 90 ou 180 jours, selon votre ancienneté.</p>
-<p>Si l&#x27;entreprise ne dispose pas de cette assurance et se contente d&#x27;appliquer le minimum légal, la couverture est nettement plus limitée. Il vaut mieux le savoir avant d&#x27;en avoir besoin.</p>
+<p>L'arrêt de travail en Suisse fonctionne de manière assez différente du système espagnol, et le comprendre avant d'en avoir besoin évite des surprises désagréables.</p>
+<p>La première chose : si vous ne pouvez pas travailler pour cause de maladie, vous devez en informer votre employeur le plus tôt possible, le jour même si possible. Ce n'est pas une formalité : c'est une obligation contractuelle. Le certificat médical est exigé dans la plupart des entreprises à partir du troisième jour, bien que le contrat puisse le demander dès le premier. Si vous ne le présentez pas à temps, l'employeur peut vous déduire ces jours.</p>
+<p>Ce à quoi vous avez droit : l'article 324a du Code des obligations (CO) oblige l'employeur à vous payer le salaire intégral pendant l'arrêt de travail. Lors de la première année de contrat, ce minimum est de trois semaines. À partir de la deuxième année, la durée augmente avec l'ancienneté selon les barèmes de référence cantonaux. Cependant, la plupart des entreprises disposent d'une assurance indemnités journalières (Krankentaggeld) qui couvre 80 % du salaire pendant 720 jours dans une période de 900 jours. Cette assurance remplace l'obligation directe de l'employeur, et la loi exige que celui-ci paie au moins la moitié de la prime.</p>
+<p>Deux choses que beaucoup ignorent : il n'y a aucun délai de carence en Suisse, ce qui signifie que vous êtes indemnisé dès le premier jour d'arrêt. Et votre contrat est protégé : l'employeur ne peut pas vous licencier pendant un arrêt maladie, durant une période de 30, 90 ou 180 jours selon votre ancienneté.</p>
+<p>Si l'entreprise ne dispose pas de cette assurance et applique uniquement le minimum légal, la couverture est nettement plus courte. Mieux vaut le savoir avant d'en avoir besoin.</p>
 </div>`
     },
 
-    "fb-daily-20260503-03-en-suisse-les-soins-dentaires-ne-sont-pas-pris-en-charge-par-lx27assur": {
-        title: "En Suisse, les soins dentaires ne sont pas pris en charge par l&#x27;assurance de base, et beaucoup s&#x27;en rendent compte à leurs dépens",
-        description: "En Espagne, la sécurité sociale prend en charge certaines prestations dentaires de base. Ce n&#x27;est pas grand-chose, mais c&#x27;est déjà ça. En Suisse,…",
-        keywords: "suisse, soins, dentaires, sont, pris, charge, assurance, base",
+    "fb-daily-20260503-03-le-dentiste-en-suisse-nest-pas-couvert-par-lassurance-de-base-et-beauc": {
+        title: "Le dentiste en Suisse n'est pas couvert par l'assurance de base, et beaucoup le découvrent à leurs dépens",
+        description: "En Espagne, la sécurité sociale couvre quelques prestations dentaires de base. Ce n'est pas grand-chose, mais il y a quelque chose. En Suisse, l'assurance…",
+        keywords: "dentiste, suisse, couvert, assurance, base, beaucoup, découvrent, leurs",
         keywordsLocalized: true,
         category: "Travail et salaires",
         hub: "trabajo",
-        slug: "actualidad-2026-05-03-3-en-suisse-les-soins-dentaires-ne-sont-pas-pris-en-charge-par-lx27assur",
+        slug: "actualidad-2026-05-03-3-le-dentiste-en-suisse-nest-pas-couvert-par-lassurance-de-base-et-beauc",
         readingTime: 1,
         dateUpdated: "3 mai 2026",
-        summary: "En Espagne, la sécurité sociale prend en charge certaines prestations dentaires de base. Ce n&#x27;est pas grand-chose, mais c&#x27;est déjà ça. En…",
+        summary: "En Espagne, la sécurité sociale couvre quelques prestations dentaires de base. Ce n'est pas grand-chose, mais il y a quelque chose. En Suisse,…",
         relatedSlugs: [],
         content: `<div class="article-content">
-<p>En Espagne, la sécurité sociale prend en charge certaines prestations dentaires de base. Ce n&#x27;est pas grand-chose, mais c&#x27;est déjà ça. En Suisse, l&#x27;assurance maladie obligatoire (LAMal) ne couvre pratiquement rien de ce qui se passe chez le dentiste. Et il vaut mieux le savoir avant de s&#x27;asseoir dans le fauteuil.</p>
-<p>La LAMal ne prend en charge les soins dentaires que dans trois cas précis : lorsqu&#x27;ils résultent d&#x27;une affection grave de l&#x27;appareil masticatoire, lorsqu&#x27;ils sont nécessaires pour traiter une autre affection grave, ou lorsque le dommage a été causé par un accident et qu&#x27;aucune autre assurance ne le couvre. En dehors de ces trois exceptions, la LAMal n&#x27;intervient pas. Une carie, une extraction, un détartrage, un traitement orthodontique chez l&#x27;adulte, un implant, une couronne : tout cela est à ta charge.</p>
-<p>Les prix sont conformes à ceux pratiqués dans le pays. Un nettoyage de base coûte environ 150 à 200 francs. Une extraction peut coûter entre 200 et 500 francs. Un implant complet coûte entre 3 000 et 5 000 francs par pièce. Un traitement orthodontique pour adulte peut dépasser les 10 000 francs.</p>
-<p>Il est possible de souscrire une assurance dentaire complémentaire (Zusatzversicherung), mais celle-ci obéit à ses propres règles : presque tous les assureurs exigent un délai d&#x27;attente de plusieurs mois avant de commencer à couvrir les soins, ils appliquent un plafond annuel (généralement entre 50 et 75 % des coûts, jusqu&#x27;à un plafond de 1 000 à 3 000 francs par an) et ne couvrent pas les traitements déjà en cours au moment de la souscription.</p>
-<p>Un conseil pratique : souscrivez-y dès votre arrivée, avant que les problèmes ne surviennent. Et rendez-vous régulièrement chez le dentiste ; ici, la prévention revient bien moins cher que les soins.</p>
+<p>En Espagne, la sécurité sociale couvre quelques prestations dentaires de base. Ce n'est pas grand-chose, mais il y a quelque chose. En Suisse, l'assurance maladie obligatoire (LAMal) ne couvre pratiquement rien de ce qui se passe dans un cabinet dentaire. Il vaut mieux le savoir avant de s'asseoir dans le fauteuil.</p>
+<p>La LAMal ne prend en charge les soins dentaires que dans trois situations précises : lorsqu'ils résultent d'une maladie grave de l'appareil masticateur, lorsqu'ils sont nécessaires pour traiter une autre maladie grave, ou lorsque le dommage a été causé par un accident et qu'aucune autre couverture ne le prend en charge. En dehors de ces trois exceptions, la LAMal n'intervient pas. Une carie, une extraction, un détartrage, une orthodontie adulte, un implant, une couronne : tout cela va directement dans votre poche.</p>
+<p>Les prix sont conformes à ceux du pays. Un détartrage de base coûte environ 150-200 francs. Une extraction peut coûter entre 200 et 500. Un implant complet entre 3'000 et 5'000 francs par pièce. Une orthodontie pour adultes peut dépasser les 10'000.</p>
+<p>Il est possible de souscrire une Zusatzversicherung dentaire (assurance complémentaire dentaire), mais elle a ses propres règles : presque toutes les assurances exigent une période d'attente de plusieurs mois avant de commencer à couvrir, elles ont un plafond annuel (généralement entre 50 et 75 % des frais, jusqu'à un maximum de 1'000 à 3'000 francs par an) et ne couvrent pas les traitements déjà en cours au moment de la souscription.</p>
+<p>Le conseil pratique : souscrivez-la à votre arrivée, avant qu'il n'y ait le moindre problème. Et consultez régulièrement le dentiste ; ici, la prévention coûte beaucoup moins cher que l'intervention.</p>
 </div>`
     }
 });
