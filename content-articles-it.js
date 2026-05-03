@@ -12755,7 +12755,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         slug: "la-13-pensi-n-avs-qu-es-cu-ndo-llega-y-a-qui-n-afecta",
         readingTime: 3,
         dateUpdated: "2026-04-16",
-        summary: "L'iniziativa popolare "Per una vita migliore in pensione" è stata accettata il 3 marzo 2024 dal popolo svizzero con il 58,2% dei voti. La conseguenza…",
+        summary: "L'iniziativa popolare \"Per una vita migliore in pensione\" è stata accettata il 3 marzo 2024 dal popolo svizzero con il 58,2% dei voti. La conseguenza…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>L'iniziativa popolare "Per una vita migliore in pensione" è stata accettata il 3 marzo 2024 dal popolo svizzero con il 58,2% dei voti. La conseguenza diretta: a partire da dicembre 2026 tutti i pensionati con reddito AVS riceveranno per la prima volta una tredicesima mensilità, equivalente a una mensilità intera. L'importo va da un minimo di CHF 1.225 a un massimo di CHF 2.520, a seconda degli anni di contributi accumulati. Per chi applica il canone massimo si parla di 2'520 franchi in più in un'unica soluzione. 
@@ -12927,7 +12927,7 @@ Per il paziente, il cambiamento non dovrebbe tradursi in fatture più alte. Il C
         slug: "el-permiso-c-cinco-a-os-despu-s-hay-algo-que-pedir",
         readingTime: 2,
         dateUpdated: "2026-04-17",
-        summary: "C'è una domanda che ricorre regolarmente nei gruppi: "Quanti anni devo essere qui per avere il permesso C?" La risposta breve è cinque anni se sei…",
+        summary: "C'è una domanda che ricorre regolarmente nei gruppi: \"Quanti anni devo essere qui per avere il permesso C?\" La risposta breve è cinque anni se sei…",
         imageAlt: "",
         content: `<div class="article-content">
 <p>C'è una domanda che ricorre regolarmente nei gruppi: "Quanti anni devo essere qui per avere il permesso C?" La risposta breve è cinque anni se sei cittadino dell’UE, come lo sono gli spagnoli. Ma la risposta utile è un po’ più lunga. 
