@@ -1371,6 +1371,26 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 
+    function isCurrentRouteHome() {
+        const rawPath = getCurrentPath();
+        const { path } = extractLangFromPath(rawPath);
+        const normalizedPath = path || "/";
+        return normalizedPath === "/" || normalizedPath === "";
+    }
+
+    document.querySelectorAll('a[href="#/"].nav-link, a[href="#/"].logo-link').forEach(link => {
+        link.addEventListener("click", (event) => {
+            if (!isCurrentRouteHome()) return;
+
+            event.preventDefault();
+            if (window.innerWidth <= 768) {
+                mainNav.classList.remove("open");
+                mobileToggle.setAttribute("aria-expanded", "false");
+            }
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+    });
+
     // Dropdown Logic
     const dropdowns = document.querySelectorAll(".dropdown");
 
