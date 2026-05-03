@@ -1853,10 +1853,10 @@ document.addEventListener("DOMContentLoaded", () => {
         return labels[lang] || labels.es;
     }
 
-    function buildHomeSearchSuggestionsHTML({ ui, currentLang, articles }) {
-        const latest = [...articles]
-            .sort(getArticleSortComparator("recientes"))
-            .slice(0, 4);
+    function getHomepageFeaturedArticles(lang = currentLang) {
+        const langArticles = window.siteContent[lang] && window.siteContent[lang].articles;
+        const esArticles = window.siteContent.es && window.siteContent.es.articles;
+        if (!langArticles || !esArticles) return [];
 
         const featuredSlugs = [
             "tramites-llegada-suiza",
@@ -1864,9 +1864,27 @@ document.addEventListener("DOMContentLoaded", () => {
             "alquilar-vivienda-suiza"
         ];
 
-        const featured = featuredSlugs
-            .map(slug => articles.find(article => article.slug === slug))
-            .filter(Boolean);
+        return featuredSlugs.map(slug => {
+            const localMatches = Object.keys(langArticles)
+                .filter(k => langArticles[k] && langArticles[k].slug === slug)
+                .map(k => ({ id: k, ...langArticles[k] }));
+            if (localMatches.length > 0) {
+                return localMatches.reduce((best, cur) => (
+                    scoreGuideCandidateForSort(cur) > scoreGuideCandidateForSort(best) ? cur : best
+                ), localMatches[0]);
+            }
+
+            const esKey = Object.keys(esArticles).find(k => esArticles[k] && esArticles[k].slug === slug);
+            if (!esKey || !langArticles[esKey]) return null;
+            return { id: esKey, ...langArticles[esKey] };
+        }).filter(Boolean);
+    }
+
+    function buildHomeSearchSuggestionsHTML({ ui, currentLang, articles }) {
+        const latest = [...articles]
+            .sort(getArticleSortComparator("recientes"))
+            .slice(0, 4);
+        const featured = getHomepageFeaturedArticles(currentLang);
 
         const frequent = getHomeSearchFrequentTerms(currentLang);
 
@@ -2199,24 +2217,8 @@ document.addEventListener("DOMContentLoaded", () => {
         const container = document.getElementById("home-featured-guides-container");
         if (!container) return;
 
-        const langArticles = window.siteContent[currentLang] && window.siteContent[currentLang].articles;
-        if (!langArticles) return;
-
-        const featuredSlugs = [
-            "tramites-llegada-suiza",
-            "seguro-medico-lamal-suiza",
-            "alquilar-vivienda-suiza"
-        ];
-
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
-
-        const picked = featuredSlugs.map(slug => {
-            const matches = Object.keys(langArticles)
-                .filter(k => langArticles[k] && langArticles[k].slug === slug)
-                .map(k => ({ id: k, ...langArticles[k] }));
-            if (matches.length === 0) return null;
-            return matches.reduce((best, cur) => (scoreGuideCandidateForSort(cur) > scoreGuideCandidateForSort(best) ? cur : best), matches[0]);
-        }).filter(Boolean);
+        const picked = getHomepageFeaturedArticles(currentLang);
 
         if (picked.length === 0) return;
 
