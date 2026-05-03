@@ -1387,17 +1387,24 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
-    document.addEventListener("click", (event) => {
-        const homeLink = event.target.closest('a[href="#/"]');
-        if (!homeLink || !isCurrentRouteHome()) return;
+    const homeNavLink = document.getElementById("home-nav-link");
+    if (homeNavLink) {
+        homeNavLink.addEventListener("click", (event) => {
+            event.preventDefault();
+            if (window.innerWidth <= 768) {
+                mainNav.classList.remove("open");
+                mobileToggle.setAttribute("aria-expanded", "false");
+            }
 
-        event.preventDefault();
-        if (window.innerWidth <= 768) {
-            mainNav.classList.remove("open");
-            mobileToggle.setAttribute("aria-expanded", "false");
-        }
-        scrollHomeToTop();
-    }, true);
+            if (isCurrentRouteHome()) {
+                scrollHomeToTop();
+                return;
+            }
+
+            window.location.hash = "#/";
+            window.setTimeout(scrollHomeToTop, 260);
+        });
+    }
 
     // Dropdown Logic
     const dropdowns = document.querySelectorAll(".dropdown");
