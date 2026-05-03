@@ -1916,6 +1916,7 @@ document.addEventListener("DOMContentLoaded", () => {
         };
         const badgeLabel = hubLabels[hub] || (r.category || hub);
         const cleanTitle = stripMarkdown(r.title);
+        const showNewBadge = opts.showBadge && isArticleNew(r);
         const thumbHTML = (img && !compact)
             ? `<img class="card-article-thumb" src="${img}" alt="${cleanTitle}" loading="lazy" onerror="this.style.display='none'">`
             : '';
@@ -1930,13 +1931,22 @@ document.addEventListener("DOMContentLoaded", () => {
                 <div class="card-article-body">
                     <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem; flex-wrap:wrap; gap:4px;">
                         <span class="hub-badge" data-hub="${hub}">${badgeLabel}</span>
-                        ${opts.showBadge ? `<span class="badge-new">${ui['lbl-new'] || 'NUEVO'}</span>` : ''}
+                        ${showNewBadge ? `<span class="badge-new">${ui['lbl-new'] || 'NUEVO'}</span>` : ''}
                     </div>
                     <h3>${cleanTitle}</h3>
                     ${summary && !compact ? `<p>${summary}</p>` : ''}
                     ${footerHTML}
                 </div>
             </a>`;
+    }
+
+    function isArticleNew(article, now = Date.now()) {
+        const timestamp = parseArticleTimestamp(article && article.dateUpdated);
+        if (!timestamp) return false;
+
+        const ageMs = now - timestamp;
+        const twoWeeksMs = 14 * 24 * 60 * 60 * 1000;
+        return ageMs >= 0 && ageMs <= twoWeeksMs;
     }
 
     function parseArticleTimestamp(dateValue) {
