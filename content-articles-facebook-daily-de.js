@@ -1127,5 +1127,307 @@ Object.assign(window.siteContent.de.articles, {
 <p>Es ist möglich, eine Zahnzusatzversicherung abzuschliessen, aber sie hat ihre eigenen Regeln: Fast alle Versicherer verlangen eine Wartezeit von mehreren Monaten, bevor die Deckung beginnt, sie haben eine Jahreshöchstgrenze (in der Regel zwischen 50 und 75 % der Kosten, bis zu einem Maximum von 1'000 bis 3'000 Franken pro Jahr) und decken keine Behandlungen ab, die bei Vertragsabschluss bereits laufen.</p>
 <p>Der praktische Rat: Schliessen Sie sie ab, wenn Sie ankommen, bevor es irgendwelche Probleme gibt. Und gehen Sie regelmässig zum Zahnarzt; hier ist Vorsorge viel günstiger als Behandlung.</p>
 </div>`
+    },
+
+    "fb-daily-20260501-04-delinquir-en-suiza-hasta-que-se-acaba-la-paciencia": {
+        title: "Kriminalität in der Schweiz bis zum Ende der Geduld",
+        description: "Ich habe diese Nachrichten aus dem Wallis gesehen und denke, dass sie es wert sind, über die einfache Schlagzeile hinaus gelesen zu werden. Es handelt sich nicht um einen Einzelfall oder eine \"Sensation\". Es ist ziemlich repräsentativ dafür, wie r…",
+        keywords: "Verbrechen, Schweiz, bis, es endet, Geduld, gesehen, Nachrichten, Wallis",
+        keywordsLocalized: true,
+        category: "Leben in der Schweiz",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-01-4-delinquir-en-suiza-hasta-que-se-acaba-la-paciencia",
+        readingTime: 2,
+        dateUpdated: "1 Mai 2026",
+        summary: "Ich habe diese Nachrichten aus dem Wallis gesehen und denke, dass sie es wert sind, über die einfache Schlagzeile hinaus gelesen zu werden. Es handelt sich nicht um einen Einzelfall oder eine \"Sensation\". Es ist ziemlich repräsentativ ...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Ich habe diese Nachrichten aus dem Wallis gesehen und denke, dass sie es wert sind, über die einfache Schlagzeile hinaus gelesen zu werden. Es handelt sich nicht um einen Einzelfall oder eine "Sensation". Es ist ziemlich repräsentativ dafür, wie das Schweizer System wirklich funktioniert, wenn jemand Verbrechen aneinanderreiht.</p>
+<p>Wir sprechen von einer Person, die Dutzende von Verstößen begangen hat: Diebstähle, Sachbeschädigungen, illegale Einreisen... es handelt sich nicht um einen konkreten Fehler oder eine schlechte Nacht. Es ist eine Dynamik. Und die letzte Reaktion ist die, die früher oder später hier eintrifft: strafrechtliche Verurteilung und Ausweisung aus dem Land.</p>
+<p>Und hier kommt das Interessante. Weil viele mit zwei ziemlich weit verbreiteten Vorstellungen weitermachen, die nicht zur Schweizer Realität passen.</p>
+<p>Das erste: "In der Schweiz kann man machen, was man will." Nein. Was passiert, ist, dass das System eine Garantie ist. Sie weisen dich nicht gleich beim ersten Mal raus. In jedem Fall gilt der Grundsatz der Verhältnismäßigkeit, der bedeutet, dass die Gerichte die Situation analysieren, bevor sie eine so schwerwiegende Maßnahme wie eine Ausweisung ergreifen. Dies ist keine Improvisation, sondern die Grundlage des Schweizer Rechts und der Anwendung des Einwanderungsgesetzes durch das Secrétariat d'État aux migrations (SEM).</p>
+<p>Der zweite: "Sie weisen dich für alles raus." Weder. Um an diesen Punkt zu gelangen, benötigen Sie Schwerkraft oder Akkumulation. Und in diesem Fall wurde diese Grenze eindeutig überschritten.</p>
+<p>Seit der Reform der Ausländerausweisung nach Straftaten gibt es Situationen, in denen Richter praktisch keinen Spielraum mehr haben: Bei Vorliegen bestimmter Kriterien wird die Ausweisung vollstreckt. Und es kann auch mit einem jahrelangen Einreiseverbot einhergehen.</p>
+<p>Letztlich ist die Schweizer Logik ganz klar, auch wenn sie von außen manchmal schwer zu erkennen ist: anfängliche Toleranz, aber null Geduld mit Rückfällen.</p>
+<p>Praktische Übersetzung für uns: Zur Arbeit kommen, sein Leben leben und sich an die Regeln halten ist kein Problem. Aber in der Schweiz in eine Kriminalitätsspirale zu geraten, ist keine gute Idee. Es scheint, als würde nichts passieren ... bis alles plötzlich passiert.</p>
+<p>Quelle: Watson-Artikel https://www.watson.ch/.../225591197-il-a-commis-des...</p>
+</div>`
+    },
+
+    "fb-daily-20260501-05-en-suiza-la-puntualidad-es-clave-si-pero-otra-cosa-distinta-es-regalar-tiempo": {
+        title: "In der Schweiz ist Pünktlichkeit das A und O, ja. Aber eine andere Sache ist, Zeit zu geben. ",
+        description: "In den meisten Gesundheitseinrichtungen (Krankenhäusern oder Rettungsdiensten) ist das Prinzip ganz klar: Die Arbeitszeit beginnt, wenn Sie dem Arbeitgeber zur Verfügung stehen. Und dazu gehört auch, …",
+        keywords: "Schweiz, Pünktlichkeit, Schlüssel, Sache, anders, geben, Zeit, Mehrheit",
+        keywordsLocalized: true,
+        category: "Arbeit & Lohne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-01-5-en-suiza-la-puntualidad-es-clave-si-pero-otra-cosa-distinta-es-regalar-tiempo",
+        readingTime: 1,
+        dateUpdated: "1 Mai 2026",
+        summary: "In den meisten Gesundheitseinrichtungen (Krankenhäusern oder Rettungsdiensten) ist das Prinzip ganz klar: Die Arbeitszeit beginnt, wenn Sie dem Arbeitgeber zur Verfügung stehen.…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>In den meisten Gesundheitseinrichtungen (Krankenhäusern oder Rettungsdiensten) ist das Prinzip ganz klar: Die Arbeitszeit beginnt, wenn Sie dem Arbeitgeber zur Verfügung stehen. Und dazu gehört auch, dass Sie bereits gewechselt werden, wenn die Uniform Pflicht ist und Sie diese nicht von zu Hause aus tragen können. Es handelt sich dabei nicht um ein nebensächliches Detail, sondern ergibt sich aus dem schweizerischen Arbeitsrecht und der gängigen Praxis in internen Vereinbarungen und Vorschriften.</p>
+<p>Einfach gesagt: - Wenn Ihre Schicht um 07:00 Uhr beginnt, müssen Sie um 07:00 Uhr einsatzbereit sein. - Allerdings sollte die Zeit, die für den Wechsel benötigt wird, wenn er in der Einrichtung zwingend durchgeführt werden muss, in die Arbeitszeit eingerechnet werden.</p>
+<p>Eine andere Sache ist die Realität des täglichen Lebens, in der viele Teams mit dem "kulturellen Druck" arbeiten, früh anzukommen, schnell zu wechseln und um 07:00 Uhr in Kontakt zu sein, als ob es normal wäre. Es kommt vor, ja. Aber es macht die Praxis nicht richtig.</p>
+<p>Zudem kommt es stark auf den Kanton, das Spital und die Vereinbarung an (in einigen Branchen CCT). In großen öffentlichen Krankenhäusern ist es meist stärker reguliert. Im kleinen oder privaten EMS gelinde gesagt "flexibler".</p>
+<p>Also ja, Schweizer Pünktlichkeit: absolut.</p>
+<p>Pünktlichkeit bedeutet jedoch nicht, jeden Tag fünf oder zehn Minuten lang kostenlos zu arbeiten.</p>
+<p>Und das ist für jemanden, der einen Job beginnt, der Schlüssel zum Verständnis. Sich an das System anpassen, ja, aber ohne Dinge zu normalisieren, die nicht normal sind.</p>
+</div>`
+    },
+
+    "fb-daily-20260501-06-desde-suiza-para-el-mundo": {
+        title: "Von der Schweiz in die Welt",
+        description: "An diesem Tag vor 33 Jahren stellte das CERN die World-Wide-Web-Software der Öffentlichkeit zur Verfügung. Die Idee wurde ursprünglich von Sir Tim Berners-Lee vorgeschlagen, damit Wissenschaftler…",
+        keywords: "Schweiz, Welt, vor Jahren, CERN, Put, Software, Welt",
+        keywordsLocalized: true,
+        category: "Leben in der Schweiz",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-01-6-desde-suiza-para-el-mundo",
+        readingTime: 1,
+        dateUpdated: "1 Mai 2026",
+        summary: "An diesem Tag vor 33 Jahren stellte das CERN die World-Wide-Web-Software der Öffentlichkeit zur Verfügung. Die Idee wurde ursprünglich von Sir Tim Berners-Lee vorgeschlagen…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>An diesem Tag vor 33 Jahren stellte das CERN die World-Wide-Web-Software der Öffentlichkeit zur Verfügung.</p>
+<p>Die Idee wurde von Sir Tim Berners-Lee ursprünglich vorgeschlagen, damit Wissenschaftler und Institute, die mit CERN-Daten arbeiten, Informationen schnell und genau auf der ganzen Welt austauschen können.</p>
+<p>Später veröffentlichte CERN auch eine offene Lizenzversion, um die Verbreitung weiter zu erleichtern.</p>
+<p>Auf den Bildern sehen Sie:</p>
+<p>1 und 2. Das Dokument, das das World Wide Web offiziell öffentlich zugänglich machte. 3. Tim Berners-Lees NeXT-Computer, der als ursprünglicher Webserver und Entwicklungsmaschine für das WWW-Projekt diente. 4. Ein Screenshot der Neugestaltung der ersten Website.</p>
+<p>Und so begann in einem CERN-Büro in Meyrin (Genf) etwas, das wir heute für fast alles nutzen. Sogar auf Facebook mit Leuten zu streiten, die die Quellen nicht lesen. Dinge des Fortschritts.</p>
+<p>Quelle: CERN https://home.web.cern.ch/science/computing/birth-web</p>
+</div>`
+    },
+
+    "fb-daily-20260502-04-si-manana-desaparecieran-los-inmigrantes-en-suiza-y-en-el-resto-de-europa": {
+        title: "Wenn morgen Einwanderer in der Schweiz verschwinden würden... und im übrigen Europa",
+        description: "Wenn morgen Einwanderer in der Schweiz verschwinden... und im Rest Europas... Eine Überlegung, die ich schon seit einiger Zeit objektiv zu verfassen versuche. Diese Debatte wird normalerweise angestoßen ...",
+        keywords: "Morgen, verschwinden, Einwanderer, Schweiz, Ruhe, Europa, Reflexion, tragen",
+        keywordsLocalized: true,
+        category: "Arbeit & Lohne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-02-4-si-manana-desaparecieran-los-inmigrantes-en-suiza-y-en-el-resto-de-europa",
+        readingTime: 2,
+        dateUpdated: "2 Mai 2026",
+        summary: "Wenn morgen Einwanderer in der Schweiz verschwinden... und im Rest Europas... Eine Überlegung, die ich schon seit einiger Zeit objektiv zu verfassen versuche. Das muss…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Wenn morgen Einwanderer in der Schweiz verschwinden... und im Rest Europas... Eine Überlegung, die ich schon seit einiger Zeit objektiv zu verfassen versuche.</p>
+<p>Diese Debatte wird oft so dargestellt, als wäre sie etwas "typisches für die Schweiz". Das ist es nicht. Die Schweiz ist nur ein sehr sichtbares Beispiel für etwas, das in fast ganz Europa passiert.</p>
+<p>Hier wären die Auswirkungen unmittelbar: Personalmangel im Gesundheitswesen, im Baugewerbe, im Gastgewerbe, in der Industrie ... und direkter Druck auf die AVS, weil ein wichtiger Teil der Beitragszahler verschwindet. Aber wenn man sich Deutschland anschaut, sagt man dort seit Jahren offen, dass es Hunderttausende ausländischer Arbeitskräfte braucht, um seine Wirtschaft aufrechtzuerhalten. In Italien ist das Problem noch offensichtlicher: alternde Bevölkerung und entleerende Regionen. Und in Spanien hängt die soziale Sicherheit zunehmend vom Beitrag ausländischer Arbeitnehmer ab, um das System auszugleichen.</p>
+<p>Der Unterschied liegt nicht im Inhalt, sondern in der Form. Die Schweiz merkt das schnell, weil ihr Arbeitsmarkt klein und sehr spezialisiert ist und zudem stark auf Grenzgänger angewiesen ist. Andere Länder haben aufgrund ihrer Größe einen größeren Spielraum, aber das Problem ist genau das gleiche: weniger Geburten, mehr Rentner und weniger Menschen im erwerbsfähigen Alter.</p>
+<p>Um es klar auszudrücken: Wenn man heute in Europa die Einwanderung abschafft, "befiehlt" man nichts. Sie entfernen einen Teil, der bereits Teil der Bilanz ist.</p>
+<p>Und nun der Teil, der in diesen Debatten fast nie erwähnt wird: Jeder Spanier, der in der Schweiz arbeitet, ist ein Beitrag weniger in Spanien. Das heißt, Spanien verliert einen Beitragszahler und die Schweiz gewinnt einen. So einfach ist das.</p>
+<p>Wenn man es als Ganzes betrachtet, ist es das gleiche Phänomen, nur von der anderen Seite betrachtet. Länder wie Spanien, Italien oder Portugal verlieren seit Jahren Erwerbsbevölkerung, die schließlich in der Schweiz, in Deutschland oder in Frankreich arbeitet. Dabei handelt es sich nicht um Randgruppen, sondern in vielen Fällen um junge Menschen im Beitragsalter, genau um diejenigen, die jedes Rentensystem am meisten braucht.</p>
+<p>Hier geht es nicht um "sie nehmen von uns" oder "sie geben uns". Es geht um Flüsse. Europa funktioniert als vernetztes System, in dem einige Länder Arbeitskräfte exportieren und andere sie absorbieren. Und innerhalb dieses Systems sind viele derjenigen, die die Einwanderung in der Schweiz kritisieren, Teil genau desselben Mechanismus.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-05-beber-en-la-calle-en-suiza-el-problema-no-es-la-cerveza-es-lo-que-dejas-detras": {
+        title: "Trinken auf der Straße in der Schweiz: Das Problem ist nicht das Bier, sondern das, was man zurücklässt! ",
+        description: "Dies ist das Ergebnis einer Nachricht in einer unserer WhatsApp-Gruppen und ich denke, dass dies eine Überlegung wert ist. Dieses Foto ist keine Ausnahme, es passiert, wenn man \"erlaubt\" mit… verwechselt.",
+        keywords: "trinken, Straße, Schweiz, Problem, Bier, zurücklassen, kommt",
+        keywordsLocalized: true,
+        category: "Leben in der Schweiz",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-02-5-beber-en-la-calle-en-suiza-el-problema-no-es-la-cerveza-es-lo-que-dejas-detras",
+        readingTime: 1,
+        dateUpdated: "2 Mai 2026",
+        summary: "Dies ist das Ergebnis einer Nachricht in einer unserer WhatsApp-Gruppen und ich denke, dass dies eine Überlegung wert ist. Dieses Foto ist keine Ausnahme, es ist das, was passiert, wenn Sie…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Dies ist das Ergebnis einer Nachricht in einer unserer WhatsApp-Gruppen und ich denke, dass dies eine Überlegung wert ist.</p>
+<p>Dieses Foto ist keine Ausnahme, es ist das, was passiert, wenn man "erlaubt" mit "alles ist möglich" verwechselt. In der Schweiz darf man an vielen öffentlichen Orten trinken, ja. Dazu gehört aber nicht, einen See in eine Mülltonne im Freien zu verwandeln. Und hier kommt der Kulturschock, den viele nicht erleben wollen.</p>
+<p>Weil die ungeschriebene Regel besser funktioniert als das Gesetz. Niemand wird Ihnen etwas dafür sagen, dass Sie mit Freunden am See etwas trinken gehen. Von Ihnen wird jedoch erwartet, dass Sie die Website genauso oder besser verlassen, als Sie sie vorgefunden haben. Es ist keine "Postkarten"-Höflichkeit; Es ist das Mindeste, dass dieses Modell ohne massive Verbote funktioniert. Wenn das fehlschlägt, kommen Einschränkungen, Bußgelder ... und dann die üblichen Beschwerden.</p>
+<p>Und das Merkwürdigste: Dann sind wir die Ersten, die sagen, dass die Schweiz sauber ist, dass alles funktioniert, dass es angenehm ist. Ja natürlich. Aber es ist keine Zauberei. Es ist einfach so, dass die Mehrheit ihre eigenen sammelt. Wenn sich das ändert, ändert sich auch das System. So einfach ist das.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-06-reclamacion-de-salario-en-suiza-plazos-claros-y-sin-vueltas": {
+        title: "Lohnantrag in der Schweiz - klare Fristen und keine Fragen",
+        description: "Wenn Ihr Arbeitgeber Sie nicht bezahlt, besteht kein Grund, die Situation in die Länge zu ziehen, \"um zu sehen, ob das Problem behoben wird\". Das Gehalt ist eine gesetzliche Verpflichtung im Sinne des Schweizerischen Obligationenrechts (OR), und hier, was funktioniert…",
+        keywords: "Anspruch, Gehalt, Schweiz, Fristen, klar, Rückgaben, Arbeitgeber, Bezahlung",
+        keywordsLocalized: true,
+        category: "Arbeit & Lohne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-02-6-reclamacion-de-salario-en-suiza-plazos-claros-y-sin-vueltas",
+        readingTime: 1,
+        dateUpdated: "2 Mai 2026",
+        summary: "Wenn Ihr Arbeitgeber Sie nicht bezahlt, besteht kein Grund, die Situation in die Länge zu ziehen, \"um zu sehen, ob das Problem behoben wird\". Der Lohn ist eine gesetzliche Verpflichtung im Sinne des Schweizerischen Obligationenrechts (OR).",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Wenn Ihr Arbeitgeber Sie nicht bezahlt, besteht kein Grund, die Situation in die Länge zu ziehen, "um zu sehen, ob das Problem behoben wird". Das Gehalt ist eine gesetzliche Verpflichtung nach dem Schweizerischen Obligationenrecht (OR), und was hier funktioniert, ist, es schriftlich und unter Einhaltung von Fristen zu erledigen. Erster Schritt: Senden Sie eine formelle Mitteilung (Post oder Brief) mit Angabe des fälligen Betrags und der geleisteten Arbeitszeit, mit einer Frist von 5 bis 10 Tagen. Erfolgt keine Reaktion, erfolgt eine zweite Mahnung mit einer Frist von 7, maximal 10 Tagen, in der klargestellt wird, dass bei Nichtzahlung Maßnahmen ergriffen werden.</p>
+<p>Wenn nach dieser zweiten Frist keine Zahlung erfolgt, warten oder verhandeln Sie nicht endlos weiter. Sie gehen direkt zum Inkassoverfahren beim Betreibungsamt. Sie brauchen keinen Anwalt, um loszulegen, und es ist der Standardkanal in der Schweiz. Wenn der Arbeitgeber Einspruch erhebt, ist bereits das arbeitsgerichtliche Verfahren zur Geltendmachung dieses Widerspruchs eingeleitet.</p>
+<p>Eine wichtige Tatsache, die viele erst spät entdecken: Der Lohnanspruch erlischt nach 5 Jahren (Art. 128 OR). Aber das ist keine Aufforderung zum Warten, im Gegenteil. Je früher Sie handeln, desto mehr reale Optionen müssen Sie sammeln. Der Ansatz hier ist einfach: Schreiben, Kurzfristigkeit und Handeln. Wenn sie nicht zahlen, liegt das meist nicht an Unachtsamkeit.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-04-el-sms-blaster-ya-esta-en-suiza-y-si-es-tan-simple-como-peligroso": {
+        title: "Der \"SMS Blaster\" ist bereits in der Schweiz. Und ja, es ist so einfach wie gefährlich. ",
+        description: "Laut RTS ermöglicht diese neue Betrugsmethode Kriminellen, Massen-SMS-Nachrichten direkt an Mobiltelefone in der Nähe zu senden, ohne den Umweg über Betreiber oder Kontaktlisten. Es ist…",
+        keywords: "Blaster, Schweiz, einfach, gefährlich, neu, Methode, Betrug, erlaubt",
+        keywordsLocalized: true,
+        category: "Warnungen & Ressourcen",
+        hub: "recursos",
+        slug: "actualidad-2026-05-03-4-el-sms-blaster-ya-esta-en-suiza-y-si-es-tan-simple-como-peligroso",
+        readingTime: 1,
+        dateUpdated: "3 Mai 2026",
+        summary: "Laut RTS ermöglicht diese neue Betrugsmethode Kriminellen, Massen-SMS-Nachrichten direkt an Mobiltelefone in der Nähe zu senden, ohne den Umweg über Betreiber oder Listen …",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Laut RTS ermöglicht diese neue Betrugsmethode Kriminellen, Massen-SMS-Nachrichten direkt an Mobiltelefone in der Nähe zu senden, ohne den Umweg über Betreiber oder Kontaktlisten. Das heißt, sie brauchen Ihre Nummer nicht. Es reicht aus, wenn sie sich physisch in der Nähe befinden, beispielsweise an einem Bahnhof, einem Flughafen oder sogar in einem Einkaufszentrum.</p>
+<p>Der Trick ist recht einfach, funktioniert aber: Sie erhalten eine SMS, die offiziell aussieht - Bank, Post, Zoll, sogar Behörden - mit einem Link. Und hier beginnt das Problem. Da die Nachricht nicht über herkömmliche Netzwerke läuft, werden viele Sicherheitsfilter umgangen. Ergebnis: mehr Glaubwürdigkeit, mehr Klicks ... und mehr Opfer.</p>
+<p>Das ändert eine wichtige Sache: Bisher konnte man denken: "Wenn ich meine Nummer nicht gebe, ist alles in Ordnung." Nicht mehr. Hier erfolgt der Angriff durch Nähe, als ob jemand ein unsichtbares Netzwerk für alle Mobiltelefone in der Umgebung eingerichtet hätte. Und in Gebieten wie Genf mit so viel Verkehr ist das Gelände perfekt.</p>
+<p>Praktische Ratschläge, ohne Dramatisierung, aber ohne Naivität: 1. Klicken Sie nicht auf SMS-Links, auch wenn diese offiziell aussehen 2. Verifizieren Sie immer über offizielle Kanäle (Bank-App, direkte Website) 3. Seien Sie besonders vorsichtig bei dringenden oder dringenden Nachrichten</p>
+<p>In der Schweiz funktioniert alles gut... bis es nicht mehr funktioniert. Und wenn es um Betrug geht, sind sie immer einen Schritt voraus.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-05-el-queroseno-empieza-a-convertirse-en-un-problema-real-y-esta-vez-si-tiene-conse": {
+        title: "Kerosin wird langsam zu einem echten Problem ... und dieses Mal hat es Konsequenzen",
+        description: "In den Nachrichten geht es nicht um ferne Szenen. Wenn die Kerosinversorgung kompliziert wird, macht sich das schnell in der Tasche und in den Plänen bemerkbar. Fluggesellschaften arbeiten mit geringeren Margen…",
+        keywords: "Kerosin, beginnt, wird, Problem, real, hat, Konsequenzen, Neuigkeiten",
+        keywordsLocalized: true,
+        category: "Leben in der Schweiz",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-03-5-el-queroseno-empieza-a-convertirse-en-un-problema-real-y-esta-vez-si-tiene-conse",
+        readingTime: 1,
+        dateUpdated: "3 Mai 2026",
+        summary: "In den Nachrichten geht es nicht um ferne Szenen. Wenn die Kerosinversorgung kompliziert wird, macht sich das schnell in der Tasche und in den Plänen bemerkbar. Fluggesellschaften…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>In den Nachrichten geht es nicht um ferne Szenen. Wenn die Kerosinversorgung kompliziert wird, macht sich das schnell in der Tasche und in den Plänen bemerkbar. Fluggesellschaften arbeiten mit sehr geringen Margen und Treibstoff ist einer ihrer Hauptkosten. Wenn es zunimmt oder knapp wird, übertragen sie es direkt auf die Banknoten. Hier gibt es keine Magie.</p>
+<p>Für diejenigen, die planen, diesen Sommer nach Spanien zu fliegen, lassen sich die Dinge in drei ganz konkrete Dinge umsetzen: höhere Preise, weniger verfügbare Flüge und ein höheres Risiko von Änderungen oder Stornierungen. Weniger Treibstoff bedeutet, profitable Routen zu priorisieren und die Frequenzen zu reduzieren. Und wenn das Angebot geringer ist und die Nachfrage gleich bleibt, ist das Ergebnis dasselbe wie immer: mehr für das Gleiche bezahlen ... oder für weniger.</p>
+<p>Nicht um in Panik zu geraten, sondern um realistisch zu sein. Wenn Sie klare Termine haben, scheint es dieses Jahr nicht die beste Strategie zu sein, bis zur letzten Minute zu warten. Denn hier geht es nicht um einen bestimmten Vorrat, der entweicht, sondern um einen strukturellen Faktor: Fällt das Kerosin aus, stellt sich das gesamte Luftsystem um. Und normalerweise wird diese Anpassung letztendlich vom Passagier bezahlt.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-06-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-menos": {
+        title: "Bei Teilzeitarbeit geht es in der Schweiz nicht nur darum, weniger zu verdienen",
+        description: "Wenn jemand in der Schweiz einen 60- oder 80-Prozent-Vertrag aushandelt, denkt er meist an etwas ganz Einfaches: weniger Stunden, weniger Lohn, mehr Freizeit. Bis dahin ist alles richtig. Das Problem…",
+        keywords: "Arbeit, Zeit, Teilzeit, Schweiz, allein, Gebühr, weniger, jemand",
+        keywordsLocalized: true,
+        category: "Arbeit & Lohne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-6-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-menos",
+        readingTime: 2,
+        dateUpdated: "3 Mai 2026",
+        summary: "Wenn jemand in der Schweiz einen 60- oder 80-Prozent-Vertrag aushandelt, denkt er meist an etwas ganz Einfaches: weniger Stunden, weniger Lohn, mehr Freizeit. Bis dahin alles...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Wenn jemand in der Schweiz einen 60- oder 80-Prozent-Vertrag aushandelt, denkt er meist an etwas ganz Einfaches: weniger Stunden, weniger Lohn, mehr Freizeit. Bis dahin ist alles richtig. Das Problem besteht darin, dass der Rentenprozentsatz nicht in der Lohn- und Gehaltsabrechnung verbleibt. Es hat direkte Auswirkungen auf drei wichtige Säulen des Schweizer Systems: Rente, Unfallversicherung und Arbeitslosigkeit. Und einige dieser Folgen werden später nicht behoben.</p>
+<p>Die zweite Säule, die Pensionskasse nach dem Bundesberufsvorsorgegesetz (BVG), hat eine Mindestzugangsschwelle. Pflichtbeiträge leistet im Jahr 2026 nur noch, wer beim gleichen Arbeitgeber mehr als 22'680 Franken pro Jahr verdient. Was passiert in der Praxis? Dass ein Vertrag mit 30 % oder sogar 40 % in vielen Branchen zu kurz kommt. Ergebnis: Sie arbeiten, sammeln aber nichts in der zweiten Säule an. Langfristig führt das zu echten Rentenlücken. Und nein, es ist kein kleines Detail. Die Reform, die dies korrigieren sollte, wurde in der Volksabstimmung über die BVG-Reform im September 2024 abgelehnt, so dass das System gleich bleibt. Wie immer sind diejenigen am stärksten betroffen, die am meisten Teilzeit arbeiten, insbesondere Frauen.</p>
+<p>Ein weiterer Punkt, den viele erst spät entdecken: die Unfallversicherung. Wenn Sie weniger als 8 Stunden pro Woche beim gleichen Arbeitgeber arbeiten, sind Sie laut Bundesunfallversicherungsgesetz (BVG) nicht gegen Nichtberufsunfälle versichert. Das heißt, man bricht sich am Wochenende beim Skifahren oder Radfahren das Bein und die Unfallversicherung greift nicht ein. Es kommt nur Ihre Krankenversicherung (KVG) mit Selbstbehalt und Zuzahlung in Betracht. Bei mehreren Minijobs ist Vorsicht geboten: Die Berechnung erfolgt nach Arbeitgeber, nicht nach Gesamtsumme. Hier ist mehr als eine Person überrascht.</p>
+<p>Was die Arbeitslosigkeit betrifft, ist die Schweizer Logik recht einfach. Die Arbeitslosigkeit wird anhand Ihres Verdienstes berechnet. Wenn Sie zu 50 % arbeiten, leisten Sie Ihren Beitrag als solchen und werden auch als solcher bezahlt. Wenn Sie mehrere Jobs haben und einen verlieren, wird nur dieser Prozentsatz berücksichtigt. Es gibt keine magische oder globale Entschädigung. Das System ist konsistent, aber es ist nicht nachsichtig.</p>
+<p>Nichts davon bedeutet, dass Teilzeitarbeit vermieden werden sollte. In vielen Fällen ist es eine gute Lösung. Aber es ist eine gute Idee, genau zu wissen, was es bedeutet, bevor Sie unterschreiben, und nicht erst, wenn es zu spät ist. Denn wie fast immer sind es in der Schweiz die technischen Details, die den Unterschied machen.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-01-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab": {
+        title: "Nach einer Veröffentlichung kehre ich zu einem unangenehmen Thema zurück: dem Hidjab",
+        description: "Ein Beitrag in unserer WhatsApp-Gruppe löste bei mir Alarm aus. Es ist eine Sache, jemanden ehrlich zu warnen, dass er in vielen Bereichen möglicherweise auf weitere Hindernisse stößt. Das ist…",
+        keywords: "Wurzel, Veröffentlichung, Rückkehr, Thema, unbequem, Hidjab, unsere Gruppe",
+        keywordsLocalized: true,
+        category: "Arbeit & Lohne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-04-1-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab",
+        readingTime: 1,
+        dateUpdated: "4 Mai 2026",
+        summary: "Ein Beitrag in unserer WhatsApp-Gruppe löste bei mir Alarm aus. Es ist eine Sache, jemanden ehrlich zu warnen, dass er in vielen Bereichen ...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Ein Beitrag in unserer WhatsApp-Gruppe löste bei mir Alarm aus. Es ist eine Sache, jemanden ehrlich zu warnen, dass er in vielen Bereichen möglicherweise auf weitere Hindernisse stößt. Das existiert. Es zu leugnen, würde Ihnen einen Film verkaufen. In der Schweiz gibt es viele Arbeitgeber, die bei sichtbaren religiösen Symbolen, insbesondere in öffentlich zugänglichen Positionen, zurückhaltender sind als in anderen europäischen Ländern. Es ist nicht schön, aber es ist Realität.</p>
+<p>Es ist etwas ganz anderes, diese Realität in eine offene Bar zu verwandeln, um eine Person zu demütigen, zu beleidigen oder zum Taschentuch zu degradieren. Ein Mädchen fragt, ob sie Jobmöglichkeiten hat, und anstatt über Lebenslauf, Sprache, Erfahrung, Genehmigungen oder Branchen zu sprechen, in denen sie passen könnte, bringen einige den gesamten Katalog der Vorurteile zur Sprache. Was für eine Überraschung, dann beschweren sie sich, dass "die Leute nicht arbeiten wollen".</p>
+<p>Sie können sagen: "Es wird schwieriger für Sie." Sie können sagen: "In den Bereichen Reinigung, Produktion, Logistik oder interne Positionen haben Sie möglicherweise einige Optionen." Es kann ratsam sein, Ihren Lebenslauf anzupassen, Ihr Französisch zu verbessern, auf große Unternehmen oder vielfältigere Strukturen abzuzielen.</p>
+<p>Was nicht nötig ist, sind rassistische Äußerungen, Spott oder Autobahnkreuz-Integrationslehren.</p>
+<p>Helfen bedeutet auch, die Wahrheit zu sagen. Aber die Wahrheit muss nicht in Verachtung gehüllt werden.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-02-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio": {
+        title: "Sie kamen mit einer Idee... und die Realität hat Sie in die Schranken gewiesen. ",
+        description: "Mal sehen, ich stelle die Frage, weil das jede Woche privat zur Sprache kommt: Welchen \"Schwindel\" haben Sie vor Ihrer Ankunft in der Schweiz geglaubt? Die Aussage, dass \"hier alles perfekt funktioniert\", die Aussage, dass \"mit allen…",
+        keywords: "Du bist gekommen, Idee, Realität, Ort, Ort, Start, Frage, weil",
+        keywordsLocalized: true,
+        category: "Leben in der Schweiz",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-2-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio",
+        readingTime: 1,
+        dateUpdated: "4 Mai 2026",
+        summary: "Mal sehen, ich stelle die Frage, weil das jede Woche privat zur Sprache kommt: Welchen \"Schwindel\" haben Sie vor Ihrer Ankunft in der Schweiz geglaubt? Dass \"hier alles perfekt funktioniert...\"",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Mal sehen, ich stelle die Frage, weil das jede Woche privat zur Sprache kommt: Welchen "Schwindel" haben Sie vor Ihrer Ankunft in der Schweiz geglaubt?</p>
+<p>Die über "Hier funktioniert alles perfekt", die über "Mit jedem Job lebt man gut", die über "Man spart auf jeden Fall"... oder die klassische über "In zwei Monaten bin ich integriert".</p>
+<p>Spoiler: Nicht immer.</p>
+<p>Ich glaube, dass es ein paar Fantasien gibt, die sich oft wiederholen, und dann kommt die Realität: Versicherung, Miete, Sprache, Arbeitsmarkt ... und das zerlegt die Geschichte ziemlich schnell.</p>
+<p>Sag mir deine!! Sicherlich erkennen sich mehr als einer in den Kommentaren wieder.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-03-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad": {
+        title: "Temu steht in der Schweiz im Rampenlicht ... und das ist kein Zufall",
+        description: "Temu überschwemmt Europa seit Monaten mit Preisen, die, um es klarzustellen, in keine normale Marktlogik passen. Und in der Schweiz hat es bereits begonnen, auf politischer Ebene für Aufsehen zu sorgen.…",
+        keywords: "temu, Punkt, schauen, Schweiz, Chance, dauert, Monate, fegen",
+        keywordsLocalized: true,
+        category: "Warnungen & Ressourcen",
+        hub: "recursos",
+        slug: "actualidad-2026-05-04-3-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad",
+        readingTime: 2,
+        dateUpdated: "4 Mai 2026",
+        summary: "Temu überschwemmt Europa seit Monaten mit Preisen, die, um es klarzustellen, in keine normale Marktlogik passen. Und in der Schweiz hat es bereits begonnen, die Augenbrauen hochzuziehen ...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Temu überschwemmt Europa seit Monaten mit Preisen, die, um es klarzustellen, in keine normale Marktlogik passen. Und in der Schweiz hat es auf politischer Ebene bereits begonnen, für Aufsehen zu sorgen.</p>
+<p>Das Schweizer Parlament stellt einige durchaus gravierende Punkte in Frage. Einerseits Transparenz bei Preisen und Geschäftspraktiken: ständige Rabatte, künstliche Dringlichkeit wie "Es sind nur noch 3 Einheiten übrig" und eine sehr aggressive Strategie, um den Konsum anzukurbeln. Für jeden, der die App geöffnet hat, ist das nichts Neues, aber wenn wir über Verbraucherschutz sprechen, ist das kein einfaches Ärgernis mehr.</p>
+<p>Auf der anderen Seite gibt es das heikelste Thema: Produktionsbedingungen und unlauterer Wettbewerb. Schweizer und europäische Unternehmen prangern seit Längerem an, dass Plattformen wie Temu zu unmöglichen Preisen verkaufen können, weil sie mit Standards arbeiten, die hier keinen Filter passieren würden. Einfache Übersetzung: Wenn man mit anderen Regeln konkurriert, konkurriert man nicht, man zerstört.</p>
+<p>Und dann ist da noch der Schweizer Klassiker: Besteuerung und Kontrolle. Viele dieser Produkte werden in kleinen Verpackungen geliefert, die oft unter bestimmten Schwellenwerten liegen, was die Zollkontrolle und die Mehrwertsteuererhebung erschwert. Ergebnis: Wettbewerbsvorteil gegenüber lokalen Unternehmen, die alles auf den Cent genau liefern.</p>
+<p>Das bedeutet nicht, dass sie Temu morgen verbieten werden. Aber wir sind in der Phase, in der die Schweiz beginnt, das zu tun, was sie am besten kann: regulieren, wenn etwas aus dem Ruder läuft. Und wenn das Schweizer Parlament anfängt, sich mit etwas genauer zu befassen, dann normalerweise, weil das Thema bereits so weit fortgeschritten ist, dass es nicht ignoriert werden kann.</p>
+<p>Moral: Sehr niedrige Preise haben immer ihren Preis. Manchmal zahlt der Käufer nicht dafür... aber jemand zahlt dafür.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-04-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo": {
+        title: "Erdbeeren pflücken in Genf: ein schöner Plan... bis man den Preis pro Kilo sieht",
+        description: "Jeden Frühling erscheint das gleiche Video: grüne Felder, perfekte Erdbeeren, glückliche Kinder und das Gefühl, in einer Joghurt-Werbung zu sein. Und ja, es existiert. Aber wie alles in der Schweiz,…",
+        keywords: "pflücken, Erdbeeren, Gin, planen, schön, oben, Preis, Kilo",
+        keywordsLocalized: true,
+        category: "Leben in der Schweiz",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-4-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo",
+        readingTime: 1,
+        dateUpdated: "4 Mai 2026",
+        summary: "Jeden Frühling erscheint das gleiche Video: grüne Felder, perfekte Erdbeeren, glückliche Kinder und das Gefühl, in einer Joghurt-Werbung zu sein. Und ja, es existiert. Aber...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Jeden Frühling erscheint das gleiche Video: grüne Felder, perfekte Erdbeeren, glückliche Kinder und das Gefühl, in einer Joghurt-Werbung zu sein. Und ja, es existiert. Aber wie bei allem in der Schweiz ist es eine gute Idee, die Funktionsweise zu verstehen, bevor man einsteigt.</p>
+<p>Sie werden hier nicht "kostenlos Erdbeeren vom Feld pflücken". Es handelt sich um das Selbsterntesystem. Sie gehen hin, holen sich selbst ab... und zahlen bei der Abreise je nach Gewicht. Die Gnade liegt in der Erfahrung, nicht in den Ersparnissen. Tatsächlich ist ein Kilo um ein Vielfaches gleich oder teurer als im Supermarkt, vor allem, wenn man aufgeregt ist, Kisten zu füllen.</p>
+<p>Im Raum Genf gibt es mehrere bekannte Orte: - La Fraisière in Meyrin - La Flânerie in Troinex</p>
+<p>Sie funktionieren ähnlich: Man tritt ein, schnappt sich einen Behälter, holt ihn ab und geht zur Kasse. Einfach. Seien Sie natürlich vorsichtig mit den Zeitplänen und der Saison. Wenn es geregnet hat oder viele Erntetage vergangen sind, finden Sie möglicherweise mehr Blätter als Erdbeeren.</p>
+<p>Praktischer Tipp: Bringen Sie Bargeld mit oder prüfen Sie, wie Sie bezahlen, kontrollieren Sie das Gewicht (diese Kisten füllen sich schnell) und glauben Sie nicht, dass Sie sparen werden. Sie halten sich an Ihren Plan, im Moment und weil frisch gepflückte Erdbeeren anders schmecken.</p>
+<p>Und noch ein sehr schweizerisches Detail: Respektieren Sie die Regeln. Beim Pflücken dürfen keine Testerdbeeren gegessen werden. Ja, das denken wir alle... aber hier zahlt man auch dafür.</p>
+<p>Empfohlener Plan, besonders mit Kindern oder für einen anderen Morgen. Aber es ist kein Schnäppchen, es ist ein Erlebnis. Und in der Schweiz kommen Erlebnisse auch durch Bargeld zustande.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-05-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca": {
+        title: "Abgelaufener Reisepass und verweigertes Boarding: Wenn die Fluggesellschaft falsch liegt",
+        description: "Im Oktober 2018 verweigerte die Fluggesellschaft EasyJet in Lyon einer Minderjährigen die Beförderung auf einem Flug nach Neapel, weil ihr Reisepass seit 18 Tagen abgelaufen war. Die Familie endete…",
+        keywords: "Reisepass, abgelaufen, Ablehnung, Einsteigen, Fluggesellschaft, falsch, Oktober 2018",
+        keywordsLocalized: true,
+        category: "Behorden & Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-04-5-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca",
+        readingTime: 1,
+        dateUpdated: "4 Mai 2026",
+        summary: "Im Oktober 2018 verweigerte die Fluggesellschaft EasyJet in Lyon einer Minderjährigen die Beförderung auf einem Flug nach Neapel, weil ihr Reisepass seit 18 Tagen abgelaufen war ...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Im Oktober 2018 verweigerte die Fluggesellschaft EasyJet in Lyon einer Minderjährigen die Beförderung auf einem Flug nach Neapel, weil ihr Reisepass seit 18 Tagen abgelaufen war. Die Familie reiste schließlich mit dem Bus und verpasste eine Hotelübernachtung. Jahre später entschied das Gericht von Lyon zu ihren Gunsten (Urteil vom 26. Februar 2026): 871,70 € für materiellen Schaden und 2.000 € für moralischen Schaden. Übersetzt: Nicht alles, was am Boarding-Schalter steht, ist Gesetz.</p>
+<p>Der rechtliche Schlüssel liegt nicht in den klassischen europäischen Regelungen, sondern im Europäischen Abkommen über den Personenverkehr von 1957. Dieses noch immer gültige Abkommen erlaubt es spanischen Staatsbürgern, mit einem Reisepass, der seit weniger als fünf Jahren abgelaufen ist, in bestimmte Länder zu reisen, sofern es sich um Kurzaufenthalte (maximal 90 Tage) und ohne berufliche Tätigkeit handelt. Der Cour de Cassation selbst hatte dies bereits 2020 bestätigt, auch gegenüber EasyJet. Es ist nicht neu, aber es scheint, dass einige Zähler es noch nicht verstanden haben.</p>
+<p>Wo gilt das? In den Unterzeichnerländern des Abkommens: unter anderem Deutschland, Frankreich, Italien, Spanien, Portugal, Belgien, Niederlande, Luxemburg, Österreich, Griechenland, Ungarn, Slowenien, Malta, Zypern, Türkei und Schweiz. Das heißt, es handelt sich nicht um etwas Randales.</p>
+<p>Wenn Sie Spanier sind und Ihnen unter diesen Bedingungen die Beförderung verweigert wird, gibt es eine rechtliche Grundlage für eine Beschwerde. Eine andere Sache ist, was Sie am Flugsteig um 6:00 Uhr morgens mit jemandem besprechen möchten, der nur einem internen Verfahren folgt. Recht haben ist gut. Dass sie dich ins Flugzeug einsteigen lassen, desto besser.</p>
+</div>`
     }
 });

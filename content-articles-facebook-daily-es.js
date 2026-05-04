@@ -1187,5 +1187,307 @@ Object.assign(window.siteContent.es.articles, {
 <p>El seguro de accidentes no profesionales es otro punto que pasa desapercibido. Si trabajas menos de ocho horas semanales para un mismo empleador, ese empleador no esta obligado a cubrir tus accidentes fuera del trabajo. En caso de fractura en una pista de esqui o en bicicleta un fin de semana, la LAMal cubre los costes medicos, pero la SUVA no interviene. Quien trabaja a muy bajo porcentaje o combina varios miniempleos puede encontrarse sin esa cobertura por cada uno de ellos.</p>
 <p>En materia de desempleo, la indemnizacion se calcula en proporcion al salario percibido. Si perdiste un trabajo al 50%, el paro se basa en ese 50%. Si tienes varios empleos a tiempo parcial y pierdes uno, solo se considera esa parte. Nada de esto es razon para rechazar un contrato parcial, pero si informacion que conviene tener antes de firmar, no despues de perder el trabajo.</p>
 </div>`
+    },
+
+    "fb-daily-20260501-04-delinquir-en-suiza-hasta-que-se-acaba-la-paciencia": {
+        title: "Delinquir en Suiza hasta que se acaba la paciencia",
+        description: "He visto esta noticia de Valais y creo que merece una lectura más allá del titular fácil. No es un caso aislado ni \"sensacionalista\". Es bastante representativo de cómo funciona r…",
+        keywords: "delinquir, suiza, hasta, acaba, paciencia, visto, noticia, valais",
+        keywordsLocalized: true,
+        category: "Vivir en Suiza",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-01-4-delinquir-en-suiza-hasta-que-se-acaba-la-paciencia",
+        readingTime: 2,
+        dateUpdated: "1 mayo 2026",
+        summary: "He visto esta noticia de Valais y creo que merece una lectura más allá del titular fácil. No es un caso aislado ni \"sensacionalista\". Es bastante representativ…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>He visto esta noticia de Valais y creo que merece una lectura más allá del titular fácil. No es un caso aislado ni \"sensacionalista\". Es bastante representativo de cómo funciona realmente el sistema suizo cuando alguien encadena delitos.</p>
+<p>Estamos hablando de una persona que ha cometido decenas de infracciones: robos, daños, entradas ilegales... no es un error puntual ni una mala noche. Es una dinámica. Y la respuesta final ha sido la que tarde o temprano llega aquí: condena penal y expulsión del país.</p>
+<p>Y aquí viene lo interesante. Porque muchos siguen con dos ideas bastante extendidas que no encajan con la realidad suiza.</p>
+<p>La primera: \"en Suiza puedes hacer lo que quieras\". No. Lo que pasa es que el sistema es garantista. No te expulsan a la primera. Hay un principio de proporcionalidad que se aplica en cada caso, y eso implica que los tribunales analizan la situación antes de tomar una medida tan fuerte como una expulsión. Esto no es improvisación, está en la base del derecho suizo y en la aplicación de la ley de extranjería por parte del Secrétariat d'État aux migrations (SEM).</p>
+<p>La segunda: \"te expulsan por cualquier cosa\". Tampoco. Para llegar a este punto hace falta gravedad o acumulación. Y en este caso, claramente se ha cruzado esa línea.</p>
+<p>Desde la reforma sobre expulsión de extranjeros tras delitos, hay situaciones donde los jueces prácticamente no tienen margen: si se cumplen ciertos criterios, la expulsión se aplica. Y además puede ir acompañada de una prohibición de entrada durante años.</p>
+<p>Al final, la lógica suiza es bastante clara, aunque a veces cueste verla desde fuera: tolerancia inicial, pero cero paciencia con la reincidencia.</p>
+<p>Traducción práctica para nosotros: venir a trabajar, hacer tu vida y cumplir las normas no plantea ningún problema. Pero entrar en una espiral de delitos en Suiza no es una buena idea. Puede parecer que no pasa nada... hasta que pasa todo de golpe.</p>
+<p>Fuente: artículo de Watson https://www.watson.ch/.../225591197-il-a-commis-des...</p>
+</div>`
+    },
+
+    "fb-daily-20260501-05-en-suiza-la-puntualidad-es-clave-si-pero-otra-cosa-distinta-es-regalar-tiempo": {
+        title: "En Suiza la puntualidad es clave, sí. Pero otra cosa distinta es regalar tiempo.",
+        description: "En la mayoría de centros sanitarios (hospitales o EMS), el principio es bastante claro: el tiempo de trabajo empieza cuando estás a disposición del empleador. Y eso incluye estar…",
+        keywords: "suiza, puntualidad, clave, cosa, distinta, regalar, tiempo, mayoria",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-01-5-en-suiza-la-puntualidad-es-clave-si-pero-otra-cosa-distinta-es-regalar-tiempo",
+        readingTime: 1,
+        dateUpdated: "1 mayo 2026",
+        summary: "En la mayoría de centros sanitarios (hospitales o EMS), el principio es bastante claro: el tiempo de trabajo empieza cuando estás a disposición del empleador.…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>En la mayoría de centros sanitarios (hospitales o EMS), el principio es bastante claro: el tiempo de trabajo empieza cuando estás a disposición del empleador. Y eso incluye estar ya cambiado si el uniforme es obligatorio y no puedes llevarlo desde casa. No es un detalle menor, viene del derecho laboral suizo y de la práctica habitual en convenios y reglamentos internos.</p>
+<p>Dicho de forma simple: - Si tu turno empieza a las 07:00, debes estar operativo a las 07:00. - Pero el tiempo necesario para cambiarte, si es obligatorio hacerlo en el centro, debería estar incluido dentro del tiempo de trabajo.</p>
+<p>Otra cosa es la realidad del día a día, donde muchos equipos funcionan con esa \"presión cultural\" de llegar antes, cambiarse rápido y estar ya en el rapport a las 07:00 como si fuera lo normal. Pasa, sí. Pero no convierte la práctica en correcta.</p>
+<p>Además, depende bastante del cantón, del hospital y del convenio (CCT en algunos sectores). En hospitales públicos grandes suele estar más regulado. En EMS pequeños o privados, más \"flexible\", por decirlo suavemente.</p>
+<p>Así que sí, puntualidad suiza: totalmente.</p>
+<p>Pero puntualidad no significa empezar a trabajar gratis cinco o diez minutos cada día.</p>
+<p>Y esto, para alguien que empieza un trabajo, es clave entenderlo. Adaptarse al sistema sí, pero sin normalizar cosas que no lo son.</p>
+</div>`
+    },
+
+    "fb-daily-20260501-06-desde-suiza-para-el-mundo": {
+        title: "Desde Suiza para el mundo",
+        description: "Un día como hoy, hace 33 años, el CERN puso el software del World Wide Web en el dominio público. La idea había sido propuesta por Sir Tim Berners-Lee, inicialmente para que cient…",
+        keywords: "suiza, mundo, hace, anos, cern, puso, software, world",
+        keywordsLocalized: true,
+        category: "Vivir en Suiza",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-01-6-desde-suiza-para-el-mundo",
+        readingTime: 1,
+        dateUpdated: "1 mayo 2026",
+        summary: "Un día como hoy, hace 33 años, el CERN puso el software del World Wide Web en el dominio público. La idea había sido propuesta por Sir Tim Berners-Lee, inicial…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Un día como hoy, hace 33 años, el CERN puso el software del World Wide Web en el dominio público.</p>
+<p>La idea había sido propuesta por Sir Tim Berners-Lee, inicialmente para que científicos e institutos que trabajaban con datos del CERN pudieran compartir información de forma rápida y precisa en todo el mundo.</p>
+<p>Más tarde, el CERN publicó también una versión con licencia abierta para facilitar todavía más su difusión.</p>
+<p>En las imágenes se ve:</p>
+<p>1 y 2. El documento que puso oficialmente el World Wide Web en el dominio público. 3. El ordenador NeXT de Tim Berners-Lee, que sirvió como servidor web original y máquina de desarrollo del proyecto WWW. 4. Una captura de la recreación del primer sitio web.</p>
+<p>Y así, desde un despacho del CERN en Meyrin (Ginebra), empezó algo que hoy usamos para casi todo. Incluso para discutir en Facebook con gente que no lee las fuentes. Cosas del progreso.</p>
+<p>Fuente: CERN https://home.web.cern.ch/science/computing/birth-web</p>
+</div>`
+    },
+
+    "fb-daily-20260502-04-si-manana-desaparecieran-los-inmigrantes-en-suiza-y-en-el-resto-de-europa": {
+        title: "Si mañana desaparecieran los inmigrantes en Suiza... y en el resto de Europa",
+        description: "Si mañana desaparecieran los inmigrantes en Suiza... y en el resto de Europa... Una reflexión que llevo tiempo intentando escribir de forma objetiva. Este debate suele plantearse…",
+        keywords: "manana, desaparecieran, inmigrantes, suiza, resto, europa, reflexion, llevo",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-02-4-si-manana-desaparecieran-los-inmigrantes-en-suiza-y-en-el-resto-de-europa",
+        readingTime: 2,
+        dateUpdated: "2 mayo 2026",
+        summary: "Si mañana desaparecieran los inmigrantes en Suiza... y en el resto de Europa... Una reflexión que llevo tiempo intentando escribir de forma objetiva. Este deba…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Si mañana desaparecieran los inmigrantes en Suiza... y en el resto de Europa... Una reflexión que llevo tiempo intentando escribir de forma objetiva.</p>
+<p>Este debate suele plantearse como si fuera algo \"propio de Suiza\". No lo es. Suiza es solo un ejemplo muy visible de algo que pasa en casi toda Europa.</p>
+<p>Aquí el impacto sería inmediato: falta de personal en sanidad, construcción, hostelería, industria... y presión directa sobre el AVS porque desaparece una parte importante de los cotizantes. Pero si miras a Alemania, llevan años diciendo abiertamente que necesitan cientos de miles de trabajadores extranjeros para sostener su economía. En Italia, el problema es aún más evidente: población envejecida y regiones que se vacían. Y en España, la Seguridad Social depende cada vez más de la aportación de trabajadores extranjeros para equilibrar el sistema.</p>
+<p>La diferencia no es de fondo, es de forma. Suiza lo nota rápido porque su mercado laboral es pequeño y muy especializado, y además depende mucho de trabajadores fronterizos. Otros países tienen más margen por tamaño, pero el problema es exactamente el mismo: menos nacimientos, más jubilados y menos gente en edad de trabajar.</p>
+<p>Dicho claro: si quitas la inmigración hoy en Europa, no estás \"ordenando\" nada. Estás quitando una pieza que ya forma parte del equilibrio.</p>
+<p>Y ahora la parte que casi nunca se dice en estos debates: cada español que trabaja en Suiza es una cotización menos en España. Es decir, España pierde un cotizante y Suiza gana uno. Así de simple.</p>
+<p>Si lo miras en conjunto, es el mismo fenómeno pero visto desde el otro lado. Países como España, Italia o Portugal llevan años perdiendo población activa que acaba trabajando en Suiza, Alemania o Francia. Y no son perfiles marginales, son en muchos casos jóvenes en edad de cotizar, justo los que más necesita cualquier sistema de pensiones.</p>
+<p>Esto no va de \"nos quitan\" o \"nos dan\". Va de flujos. Europa funciona como un sistema conectado donde unos países exportan mano de obra y otros la absorben. Y dentro de ese sistema, muchos de los que critican la inmigración en Suiza... forman parte exactamente del mismo mecanismo.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-05-beber-en-la-calle-en-suiza-el-problema-no-es-la-cerveza-es-lo-que-dejas-detras": {
+        title: "Beber en la calle en Suiza: el problema no es la cerveza, es lo que dejas detrás!",
+        description: "Esto viene a raíz de un mensaje en uno de nuestros grupos de WhatsApp, y creo que merece reflexión. Esta foto no es una excepción, es lo que pasa cuando se confunde \"permitido\" co…",
+        keywords: "beber, calle, suiza, problema, cerveza, dejas, detras, viene",
+        keywordsLocalized: true,
+        category: "Vivir en Suiza",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-02-5-beber-en-la-calle-en-suiza-el-problema-no-es-la-cerveza-es-lo-que-dejas-detras",
+        readingTime: 1,
+        dateUpdated: "2 mayo 2026",
+        summary: "Esto viene a raíz de un mensaje en uno de nuestros grupos de WhatsApp, y creo que merece reflexión. Esta foto no es una excepción, es lo que pasa cuando se con…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Esto viene a raíz de un mensaje en uno de nuestros grupos de WhatsApp, y creo que merece reflexión.</p>
+<p>Esta foto no es una excepción, es lo que pasa cuando se confunde \"permitido\" con \"todo vale\". En Suiza puedes beber en muchos espacios públicos, sí. Pero eso no incluye convertir un lago en un cubo de basura al aire libre. Y aquí es donde viene el choque cultural que muchos no quieren ver.</p>
+<p>Porque la norma no escrita funciona mejor que la ley. Nadie te va a decir nada por tomarte algo con amigos junto al lago. Pero se espera que dejes el sitio igual o mejor de lo que lo encontraste. No es civismo \"de postal\", es lo mínimo para que ese modelo funcione sin prohibiciones masivas. Cuando eso falla, llegan las restricciones, las multas... y luego las quejas de siempre.</p>
+<p>Y lo más curioso: luego somos los primeros en decir que Suiza está limpia, que todo funciona, que da gusto. Sí, claro. Pero no es magia. Es simplemente que la mayoría recoge lo suyo. Cuando eso cambia, el sistema también cambia. Así de simple.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-06-reclamacion-de-salario-en-suiza-plazos-claros-y-sin-vueltas": {
+        title: "Reclamación de salario en Suiza - plazos claros y sin vueltas",
+        description: "Si tu empleador no te paga, no hay que alargar la situación \"a ver si se arregla\". El salario es una obligación legal según el Código de Obligaciones suizo (CO), y aquí lo que fun…",
+        keywords: "reclamacion, salario, suiza, plazos, claros, vueltas, empleador, paga",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-02-6-reclamacion-de-salario-en-suiza-plazos-claros-y-sin-vueltas",
+        readingTime: 1,
+        dateUpdated: "2 mayo 2026",
+        summary: "Si tu empleador no te paga, no hay que alargar la situación \"a ver si se arregla\". El salario es una obligación legal según el Código de Obligaciones suizo (CO…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Si tu empleador no te paga, no hay que alargar la situación \"a ver si se arregla\". El salario es una obligación legal según el Código de Obligaciones suizo (CO), y aquí lo que funciona es hacerlo por escrito y con plazos. Primer paso: enviar un aviso formal (correo o carta) indicando el importe debido y el periodo trabajado, con un plazo de 5 a 10 días. Si no hay reacción, se envía un segundo requerimiento más firme (Mahnung), dando 7 días, máximo 10, dejando claro que iniciarás acciones si no pagan.</p>
+<p>Si tras ese segundo plazo no hay pago, no se sigue esperando ni negociando indefinidamente. Se pasa directamente al procedimiento de cobro en la Oficina de ejecución de deudas (Betreibungsamt). No hace falta abogado para empezar y es el canal estándar en Suiza. Si el empleador se opone, entonces ya se entra en vía judicial laboral para levantar esa oposición.</p>
+<p>Dato clave que muchos descubren tarde: el derecho a reclamar salario prescribe a los 5 años (art. 128 CO). Pero eso no es una invitación a esperar, al contrario. Cuanto antes actúes, más opciones reales tienes de cobrar. Aquí el enfoque es simple: escrito, plazo corto y acción. Si no pagan, normalmente no es por despiste.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-04-el-sms-blaster-ya-esta-en-suiza-y-si-es-tan-simple-como-peligroso": {
+        title: "El \"SMS Blaster\" ya está en Suiza. Y sí, es tan simple como peligroso.",
+        description: "Según RTS, este nuevo método de estafa permite a los delincuentes enviar mensajes SMS masivos directamente a móviles cercanos, sin pasar por operadores ni listas de contactos. Es…",
+        keywords: "blaster, suiza, simple, peligroso, nuevo, metodo, estafa, permite",
+        keywordsLocalized: true,
+        category: "Alertas y recursos",
+        hub: "recursos",
+        slug: "actualidad-2026-05-03-4-el-sms-blaster-ya-esta-en-suiza-y-si-es-tan-simple-como-peligroso",
+        readingTime: 1,
+        dateUpdated: "3 mayo 2026",
+        summary: "Según RTS, este nuevo método de estafa permite a los delincuentes enviar mensajes SMS masivos directamente a móviles cercanos, sin pasar por operadores ni list…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Según RTS, este nuevo método de estafa permite a los delincuentes enviar mensajes SMS masivos directamente a móviles cercanos, sin pasar por operadores ni listas de contactos. Es decir, no necesitan tu número. Les basta con estar físicamente cerca, por ejemplo en una estación, un aeropuerto o incluso en un centro comercial.</p>
+<p>El truco es bastante básico, pero funciona: recibes un SMS que parece oficial - banco, correos, aduana, incluso autoridades - con un enlace. Y ahí empieza el problema. Como el mensaje no pasa por redes tradicionales, evita muchos filtros de seguridad. Resultado: más credibilidad, más clics... y más víctimas.</p>
+<p>Esto cambia una cosa importante: hasta ahora podías pensar \"si no doy mi número, estoy tranquilo\". Ya no. Aquí el ataque es por proximidad, como si alguien lanzara una red invisible a todos los móviles alrededor. Y en zonas como Ginebra, con tanto tránsito, el terreno es perfecto.</p>
+<p>Consejo práctico, sin dramatizar pero sin ingenuidad: 1. No hagas clic en enlaces de SMS, aunque parezcan oficiales 2. Verifica siempre por canales oficiales (app del banco, web directa) 3. Desconfía especialmente de mensajes urgentes o con presión</p>
+<p>En Suiza todo funciona bien... hasta que deja de hacerlo. Y en temas de fraude, van siempre un paso por delante.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-05-el-queroseno-empieza-a-convertirse-en-un-problema-real-y-esta-vez-si-tiene-conse": {
+        title: "El queroseno empieza a convertirse en un problema real... y esta vez sí tiene consecuencias",
+        description: "La noticia no va de escenarios lejanos. Si el suministro de queroseno se complica, el impacto se nota rápido en el bolsillo y en los planes. Las aerolíneas trabajan con márgenes m…",
+        keywords: "queroseno, empieza, convertirse, problema, real, tiene, consecuencias, noticia",
+        keywordsLocalized: true,
+        category: "Vivir en Suiza",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-03-5-el-queroseno-empieza-a-convertirse-en-un-problema-real-y-esta-vez-si-tiene-conse",
+        readingTime: 1,
+        dateUpdated: "3 mayo 2026",
+        summary: "La noticia no va de escenarios lejanos. Si el suministro de queroseno se complica, el impacto se nota rápido en el bolsillo y en los planes. Las aerolíneas tra…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>La noticia no va de escenarios lejanos. Si el suministro de queroseno se complica, el impacto se nota rápido en el bolsillo y en los planes. Las aerolíneas trabajan con márgenes muy ajustados y el combustible es uno de sus principales costes. Si sube o escasea, lo trasladan directamente a los billetes. No hay magia aquí.</p>
+<p>Para quien tiene pensado volar este verano a España, la cosa se puede traducir en tres cosas bastante concretas: precios más altos, menos vuelos disponibles y más riesgo de cambios o cancelaciones. Menos combustible significa priorizar rutas rentables y reducir frecuencias. Y cuando hay menos oferta y la demanda sigue igual, el resultado es el de siempre: pagar más por lo mismo... o por menos.</p>
+<p>No es para entrar en pánico, pero sí para ser realista. Si tienes fechas claras, esperar a última hora no parece la mejor estrategia este año. Porque aquí no hablamos de una oferta puntual que se escapa, sino de un factor estructural: si el queroseno falla, todo el sistema aéreo se ajusta. Y normalmente, ese ajuste lo acaba pagando el pasajero.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-06-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-menos": {
+        title: "Trabajar a tiempo parcial en Suiza no es solo cobrar menos",
+        description: "Cuando alguien negocia un contrato al 60% o al 80% en Suiza, suele pensar en algo bastante simple: menos horas, menos sueldo, mas tiempo libre. Hasta ahi, todo correcto. El proble…",
+        keywords: "trabajar, tiempo, parcial, suiza, solo, cobrar, menos, alguien",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-6-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-menos",
+        readingTime: 2,
+        dateUpdated: "3 mayo 2026",
+        summary: "Cuando alguien negocia un contrato al 60% o al 80% en Suiza, suele pensar en algo bastante simple: menos horas, menos sueldo, mas tiempo libre. Hasta ahi, todo…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Cuando alguien negocia un contrato al 60% o al 80% en Suiza, suele pensar en algo bastante simple: menos horas, menos sueldo, mas tiempo libre. Hasta ahi, todo correcto. El problema es que el porcentaje de pensum no se queda en la nomina. Tiene impacto directo en tres pilares clave del sistema suizo: pension, seguro de accidentes y desempleo. Y algunas de esas consecuencias no se recuperan despues.</p>
+<p>El segundo pilar, la caja de pensiones segun la Ley Federal de Previsión Profesional (LPP), tiene un umbral minimo de acceso. En 2026, solo cotizan obligatoriamente quienes superan los 22.680 CHF anuales con un mismo empleador. ¿Que pasa en la practica? Que un contrato al 30% o incluso al 40% en muchos sectores se queda por debajo. Resultado: trabajas, pero no acumulas nada en el segundo pilar. A largo plazo, eso se traduce en lagunas reales en la jubilacion. Y no, no es un detalle menor. La reforma que pretendia corregir esto fue rechazada en el Referéndum sobre la reforma de la LPP de septiembre de 2024, asi que el sistema sigue igual. Como siempre, el impacto recae mas en quienes mas trabajan a tiempo parcial, especialmente mujeres.</p>
+<p>Otro punto que muchos descubren tarde: el seguro de accidentes. Segun la Ley Federal sobre el Seguro de Accidentes (LAA), si trabajas menos de 8 horas semanales para un mismo empleador, no estas cubierto para accidentes no profesionales. Es decir, te rompes una pierna esquiando o en bici el fin de semana y no interviene la aseguradora de accidentes. Solo entra tu seguro de salud (LAMal), con franquicia y copago. Si tienes varios mini empleos, ojo: el calculo se hace por empleador, no por suma total. Aqui es donde mas de uno se lleva la sorpresa.</p>
+<p>En cuanto al desempleo, la logica suiza es bastante directa. El paro se calcula sobre lo que ganas. Si trabajas al 50%, cotizas como tal y cobras como tal. Si tienes varios empleos y pierdes uno, solo se tiene en cuenta ese porcentaje. No hay magia ni compensacion global. El sistema es coherente, pero no perdona.</p>
+<p>Nada de esto significa que haya que evitar el trabajo a tiempo parcial. En muchos casos es una buena solucion. Pero conviene saber exactamente lo que implica antes de firmar, no cuando ya es demasiado tarde. Porque en Suiza, como casi siempre, el detalle tecnico es lo que marca la diferencia.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-01-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab": {
+        title: "A raíz de una publicación, vuelvo sobre un tema incómodo... El hidjab",
+        description: "Una publicación en nuestro grupo whatsapp hiceron saltar mis alarmas. Una cosa es advertir a alguien con honestidad de que, en muchos sectores, puede encontrar más barreras. Eso e…",
+        keywords: "raiz, publicacion, vuelvo, tema, incomodo, hidjab, nuestro, grupo",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-04-1-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab",
+        readingTime: 1,
+        dateUpdated: "4 mayo 2026",
+        summary: "Una publicación en nuestro grupo whatsapp hiceron saltar mis alarmas. Una cosa es advertir a alguien con honestidad de que, en muchos sectores, puede encontrar…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Una publicación en nuestro grupo whatsapp hiceron saltar mis alarmas. Una cosa es advertir a alguien con honestidad de que, en muchos sectores, puede encontrar más barreras. Eso existe. Negarlo sería venderle una película. En Suiza hay bastantes empleadores más reticentes que en otros países europeos con símbolos religiosos visibles, sobre todo en puestos de cara al público. No es bonito, pero es la realidad.</p>
+<p>Otra cosa muy distinta es convertir esa realidad en barra libre para humillar, insultar o reducir a una persona a un pañuelo. Una chica pregunta si tiene posibilidades de trabajar, y en vez de hablar de CV, idioma, experiencia, permisos o sectores donde puede encajar, algunos sacan el catálogo completo de prejuicios. Qué sorpresa, luego se quejan de que \"la gente no quiere trabajar\".</p>
+<p>Se puede decir: \"te será más difícil\". Se puede decir: \"en limpieza, producción, logística o puestos internos quizá tengas alguna opciones\". Se puede aconsejar adaptar el CV, mejorar el francés, apuntar a empresas grandes o estructuras más diversas.</p>
+<p>Lo que no hace falta es soltar comentarios racistas, burlas o lecciones de integración de bar de autopista.</p>
+<p>Ayudar también es decir la verdad. Pero la verdad no necesita ir envuelta en desprecio.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-02-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio": {
+        title: "Se viniste con una idea... y la realidad te puso en tu sitio.",
+        description: "A ver, voy a lanzar la pregunta porque esto sale en privado cada semana: ¿qué \"bulo\" te creíste antes de llegar a Suiza? La de que \"aquí todo funciona perfecto\", la de \"con cualqu…",
+        keywords: "viniste, idea, realidad, puso, sitio, lanzar, pregunta, porque",
+        keywordsLocalized: true,
+        category: "Vivir en Suiza",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-2-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio",
+        readingTime: 1,
+        dateUpdated: "4 mayo 2026",
+        summary: "A ver, voy a lanzar la pregunta porque esto sale en privado cada semana: ¿qué \"bulo\" te creíste antes de llegar a Suiza? La de que \"aquí todo funciona perfecto…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>A ver, voy a lanzar la pregunta porque esto sale en privado cada semana: ¿qué \"bulo\" te creíste antes de llegar a Suiza?</p>
+<p>La de que \"aquí todo funciona perfecto\", la de \"con cualquier trabajo vives bien\", la de \"ahorras sí o sí\"... o la clásica de \"en dos meses estoy integrado\".</p>
+<p>Spoiler: no siempre.</p>
+<p>Yo creo que hay unas cuantas fantasías que se repiten muchísimo, y luego llega la realidad: seguros, alquileres, idioma, mercado laboral... y te desmonta el cuento bastante rápido.</p>
+<p>Cuéntame la tuya!! Seguro que más de uno se reconoce en los comentarios.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-03-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad": {
+        title: "Temu en el punto de mira en Suiza... y no es casualidad",
+        description: "Temu lleva meses arrasando en Europa con precios que, siendo claros, no cuadran con ninguna lógica de mercado normal. Y en Suiza ya ha empezado a levantar cejas a nivel político.…",
+        keywords: "temu, punto, mira, suiza, casualidad, lleva, meses, arrasando",
+        keywordsLocalized: true,
+        category: "Alertas y recursos",
+        hub: "recursos",
+        slug: "actualidad-2026-05-04-3-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad",
+        readingTime: 2,
+        dateUpdated: "4 mayo 2026",
+        summary: "Temu lleva meses arrasando en Europa con precios que, siendo claros, no cuadran con ninguna lógica de mercado normal. Y en Suiza ya ha empezado a levantar ceja…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Temu lleva meses arrasando en Europa con precios que, siendo claros, no cuadran con ninguna lógica de mercado normal. Y en Suiza ya ha empezado a levantar cejas a nivel político.</p>
+<p>El Parlamento suizo está cuestionando varios puntos bastante serios. Por un lado, la transparencia en los precios y las prácticas comerciales: descuentos constantes, urgencia artificial tipo \"solo quedan 3 unidades\", y una estrategia muy agresiva para empujar al consumo. Nada nuevo para quien haya abierto la app, pero cuando hablamos de protección del consumidor, deja de ser una simple molestia.</p>
+<p>Por otro lado, está el tema más delicado: condiciones de producción y competencia desleal. Empresas suizas y europeas llevan tiempo denunciando que plataformas como Temu pueden vender a precios imposibles porque operan con estándares que aquí no pasarían ningún filtro. Traducción simple: si compites con reglas distintas, no compites, arrasas.</p>
+<p>Y luego está el clásico suizo: la fiscalidad y el control. Muchos de estos productos entran en pequeños paquetes, a menudo por debajo de ciertos umbrales, lo que complica el control aduanero y el cobro de IVA. Resultado: ventaja competitiva frente a comercios locales que sí cumplen todo al céntimo.</p>
+<p>Esto no significa que mañana vayan a prohibir Temu. Pero sí que estamos en la fase en la que Suiza empieza a hacer lo que mejor sabe hacer: regular cuando algo se le va de las manos. Y normalmente, cuando el Parlamento suizo se pone a mirar algo de cerca, es porque el tema ya ha crecido lo suficiente como para no ignorarlo.</p>
+<p>Moraleja: precios muy bajos siempre tienen un coste. A veces no lo paga quien compra... pero alguien lo paga.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-04-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo": {
+        title: "Recolectar fresas en Ginebra: plan bonito... hasta que ves el precio por kilo",
+        description: "Cada primavera aparece el mismo vídeo: campos verdes, fresas perfectas, niños felices y la sensación de que estás en un anuncio de yogures. Y sí, existe. Pero como todo en Suiza,…",
+        keywords: "recolectar, fresas, ginebra, plan, bonito, hasta, precio, kilo",
+        keywordsLocalized: true,
+        category: "Vivir en Suiza",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-4-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo",
+        readingTime: 1,
+        dateUpdated: "4 mayo 2026",
+        summary: "Cada primavera aparece el mismo vídeo: campos verdes, fresas perfectas, niños felices y la sensación de que estás en un anuncio de yogures. Y sí, existe. Pero…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Cada primavera aparece el mismo vídeo: campos verdes, fresas perfectas, niños felices y la sensación de que estás en un anuncio de yogures. Y sí, existe. Pero como todo en Suiza, conviene entender bien cómo funciona antes de lanzarse.</p>
+<p>Aquí no vas a \"coger fresas gratis del campo\". Es el sistema de autocosecha. Vas, recoges tú mismo... y pagas al salir según el peso. La gracia está en la experiencia, no en el ahorro. De hecho, muchas veces el kilo sale igual o más caro que en el supermercado, sobre todo si te emocionas llenando cajas.</p>
+<p>En la zona de Ginebra tienes varios sitios conocidos: - La Fraisière en Meyrin - La Flânerie en Troinex</p>
+<p>Funcionan parecido: entras, coges un recipiente, recoges y pasas por caja. Sencillo. Eso sí, ojo con los horarios y la temporada. Si ha llovido o ya han pasado muchos días de recogida, puedes encontrarte más hojas que fresas.</p>
+<p>Consejo práctico: lleva efectivo o verifica cómo se paga, controla el peso (esas cajas se llenan rápido) y no vayas con la idea de que vas a ahorrar. Vas por el plan, por el momento y porque las fresas recién cogidas sí saben diferente.</p>
+<p>Y otro detalle muy suizo: respeta las reglas. Nada de comer fresas \"de prueba\" mientras recoges. Que sí, que todos lo pensamos... pero aquí eso también se paga.</p>
+<p>Plan recomendable, sobre todo con niños o para una mañana diferente. Pero no es un chollo, es una experiencia. Y en Suiza, las experiencias también pasan por caja.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-05-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca": {
+        title: "Pasaporte caducado y denegación de embarque: cuando la aerolínea se equivoca",
+        description: "En octubre de 2018, en Lyon, la compañía EasyJet negó el embarque a una menor en un vuelo hacia Nápoles porque su pasaporte estaba caducado desde hacía 18 días. La familia acabó v…",
+        keywords: "pasaporte, caducado, denegacion, embarque, aerolinea, equivoca, octubre, 2018",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-04-5-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca",
+        readingTime: 1,
+        dateUpdated: "4 mayo 2026",
+        summary: "En octubre de 2018, en Lyon, la compañía EasyJet negó el embarque a una menor en un vuelo hacia Nápoles porque su pasaporte estaba caducado desde hacía 18 días…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>En octubre de 2018, en Lyon, la compañía EasyJet negó el embarque a una menor en un vuelo hacia Nápoles porque su pasaporte estaba caducado desde hacía 18 días. La familia acabó viajando en autobús y perdió una noche de hotel. Años después, el Tribunal judicial de Lyon les dio la razón (sentencia de 26 de febrero de 2026): 871,70 € por daños materiales y 2'000 € por daño moral. Traducido: no todo lo que dice el mostrador de embarque es ley.</p>
+<p>La clave jurídica no está en la normativa europea clásica, sino en el Acuerdo europeo sobre la circulación de personas de 1957. Este acuerdo, que sigue en vigor, permite a los ciudadanos españoles viajar a determinados países con el pasaporte caducado desde hace menos de cinco años, siempre que se trate de estancias cortas (máximo 90 días) y sin actividad profesional. La propia Cour de cassation ya lo había confirmado en 2020, también contra EasyJet. No es nuevo, pero parece que en algunos mostradores aún no se han enterado.</p>
+<p>¿Dónde aplica esto? En los países firmantes del acuerdo: Alemania, Francia, Italia, España, Portugal, Bélgica, Países Bajos, Luxemburgo, Austria, Grecia, Hungría, Eslovenia, Malta, Chipre, Turquía y Suiza, entre otros. Es decir, no es algo marginal.</p>
+<p>Si eres español y te niegan el embarque en estas condiciones, hay base legal para reclamar. Otra cosa es lo que te apetezca discutir en la puerta de embarque a las 6:00 de la mañana con alguien que solo sigue un procedimiento interno. Tener razón está bien. Que te dejen subir al avión, mejor.</p>
+</div>`
     }
 });

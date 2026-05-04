@@ -1127,5 +1127,307 @@ Object.assign(window.siteContent.en.articles, {
 <p>It is possible to take out a dental Zusatzversicherung (supplementary dental insurance), but it has its own rules: almost all insurers require a waiting period of several months before coverage begins, they have an annual limit (usually between 50 and 75% of costs, up to a ceiling of 1,000 to 3,000 francs per year) and do not cover treatments already underway when you take out the policy.</p>
 <p>The practical advice: take it out when you arrive, before there are any problems. And go to the dentist regularly; here, prevention is much cheaper than treatment.</p>
 </div>`
+    },
+
+    "fb-daily-20260501-04-delinquir-en-suiza-hasta-que-se-acaba-la-paciencia": {
+        title: "Crime in Switzerland until patience runs out",
+        description: "I have seen this news from Valais and I think it deserves reading beyond the easy headline. It is not an isolated or \"sensational\" case. It is quite representative of how r…",
+        keywords: "crime, switzerland, until, it ends, patience, seen, news, valais",
+        keywordsLocalized: true,
+        category: "Living in Switzerland",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-01-4-delinquir-en-suiza-hasta-que-se-acaba-la-paciencia",
+        readingTime: 2,
+        dateUpdated: "1 May 2026",
+        summary: "I have seen this news from Valais and I think it deserves reading beyond the easy headline. It is not an isolated or \"sensational\" case. It is quite representative…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>I have seen this news from Valais and I think it deserves reading beyond the easy headline. It is not an isolated or \"sensational\" case. It's pretty representative of how the Swiss system really works when someone strings together crimes.</p>
+<p>We are talking about a person who has committed dozens of infractions: thefts, damages, illegal entries... it is not a specific mistake or a bad night. It's a dynamic. And the final response has been the one that sooner or later arrives here: criminal conviction and expulsion from the country.</p>
+<p>And here comes the interesting thing. Because many continue with two fairly widespread ideas that do not fit with Swiss reality.</p>
+<p>The first: \"in Switzerland you can do whatever you want.\" No. What happens is that the system is a guarantee. They don't expel you the first time. There is a principle of proportionality that is applied in each case, and that implies that the courts analyze the situation before taking a measure as strong as an expulsion. This is not improvisation, it is the basis of Swiss law and the application of the immigration law by the Secrétariat d'État aux migrations (SEM).</p>
+<p>The second: \"they expel you for anything.\" Neither. To get to this point you need gravity or accumulation. And in this case, that line has clearly been crossed.</p>
+<p>Since the reform on the expulsion of foreigners after crimes, there are situations where judges have practically no margin: if certain criteria are met, the expulsion is applied. And it can also be accompanied by an entry ban for years.</p>
+<p>In the end, the Swiss logic is quite clear, although it is sometimes difficult to see it from the outside: initial tolerance, but zero patience with recidivism.</p>
+<p>Practical translation for us: coming to work, living your life and following the rules does not pose any problem. But getting into a spiral of crime in Switzerland is not a good idea. It may seem like nothing is happening... until it all happens suddenly.</p>
+<p>Source: Watson article https://www.watson.ch/.../225591197-il-a-commis-des...</p>
+</div>`
+    },
+
+    "fb-daily-20260501-05-en-suiza-la-puntualidad-es-clave-si-pero-otra-cosa-distinta-es-regalar-tiempo": {
+        title: "In Switzerland, punctuality is key, yes. But another thing is giving time.",
+        description: "In most healthcare facilities (hospitals or EMS), the principle is quite clear: working time begins when you are at the employer's disposal. And that includes being…",
+        keywords: "switzerland, punctuality, key, thing, different, give, time, majority",
+        keywordsLocalized: true,
+        category: "Work & Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-01-5-en-suiza-la-puntualidad-es-clave-si-pero-otra-cosa-distinta-es-regalar-tiempo",
+        readingTime: 1,
+        dateUpdated: "1 May 2026",
+        summary: "In most healthcare facilities (hospitals or EMS), the principle is quite clear: working time begins when you are at the employer's disposal.…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>In most healthcare facilities (hospitals or EMS), the principle is quite clear: working time begins when you are at the employer's disposal. And that includes being already changed if the uniform is mandatory and you cannot wear it from home. It is not a minor detail, it comes from Swiss labor law and common practice in internal agreements and regulations.</p>
+<p>Simply put: - If your shift starts at 07:00, you must be operational at 07:00. - But the time necessary to change, if it is mandatory to do so at the center, should be included in the work time.</p>
+<p>Another thing is the reality of day-to-day life, where many teams operate with that \"cultural pressure\" to arrive early, change quickly and be in rapport at 07:00 as if it were normal. It happens, yes. But it does not make the practice correct.</p>
+<p>Furthermore, it depends quite a bit on the canton, the hospital and the agreement (CCT in some sectors). In large public hospitals it is usually more regulated. In small or private EMS, more \"flexible\", to put it mildly.</p>
+<p>So yes, Swiss punctuality: totally.</p>
+<p>But punctuality does not mean starting to work for free for five or ten minutes every day.</p>
+<p>And this, for someone starting a job, is key to understand. Adapt to the system, yes, but without normalizing things that are not normal.</p>
+</div>`
+    },
+
+    "fb-daily-20260501-06-desde-suiza-para-el-mundo": {
+        title: "From Switzerland to the world",
+        description: "On this day, 33 years ago, CERN put the World Wide Web software into the public domain. The idea had been proposed by Sir Tim Berners-Lee, initially so that scientists…",
+        keywords: "switzerland, world, years ago, cern, put, software, world",
+        keywordsLocalized: true,
+        category: "Living in Switzerland",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-01-6-desde-suiza-para-el-mundo",
+        readingTime: 1,
+        dateUpdated: "1 May 2026",
+        summary: "On this day, 33 years ago, CERN put the World Wide Web software into the public domain. The idea had been proposed by Sir Tim Berners-Lee, initial…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>On this day, 33 years ago, CERN put the World Wide Web software into the public domain.</p>
+<p>The idea had been proposed by Sir Tim Berners-Lee, initially so that scientists and institutes working with CERN data could share information quickly and accurately around the world.</p>
+<p>Later, CERN also published an open license version to further facilitate its dissemination.</p>
+<p>In the images you can see:</p>
+<p>1 and 2. The document that officially put the World Wide Web into the public domain. 3. Tim Berners-Lee's NeXT computer, which served as the original web server and development machine for the WWW project. 4. A screenshot of the recreation of the first website.</p>
+<p>And so, from a CERN office in Meyrin (Geneva), something began that today we use for almost everything. Even to argue on Facebook with people who don't read the sources. Things of progress.</p>
+<p>Source: CERN https://home.web.cern.ch/science/computing/birth-web</p>
+</div>`
+    },
+
+    "fb-daily-20260502-04-si-manana-desaparecieran-los-inmigrantes-en-suiza-y-en-el-resto-de-europa": {
+        title: "If tomorrow immigrants disappeared in Switzerland... and in the rest of Europe",
+        description: "If tomorrow immigrants disappeared in Switzerland... and in the rest of Europe... A reflection that I have been trying to write objectively for some time. This debate is usually raised…",
+        keywords: "morning, disappear, immigrants, switzerland, rest, europe, reflection, carry",
+        keywordsLocalized: true,
+        category: "Work & Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-02-4-si-manana-desaparecieran-los-inmigrantes-en-suiza-y-en-el-resto-de-europa",
+        readingTime: 2,
+        dateUpdated: "2 May 2026",
+        summary: "If tomorrow immigrants disappeared in Switzerland... and in the rest of Europe... A reflection that I have been trying to write objectively for some time. This must…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>If tomorrow immigrants disappeared in Switzerland... and in the rest of Europe... A reflection that I have been trying to write objectively for some time.</p>
+<p>This debate is often presented as if it were something \"typical of Switzerland\". It is not. Switzerland is just a very visible example of something that happens in almost all of Europe.</p>
+<p>Here the impact would be immediate: lack of personnel in health, construction, hospitality, industry... and direct pressure on the AVS because an important part of the contributors disappears. But if you look at Germany, they have been openly saying for years that they need hundreds of thousands of foreign workers to sustain their economy. In Italy, the problem is even more evident: aging population and emptying regions. And in Spain, Social Security increasingly depends on the contribution of foreign workers to balance the system.</p>
+<p>The difference is not in substance, it is in form. Switzerland notices this quickly because its labor market is small and very specialized, and it also depends a lot on border workers. Other countries have more margin due to size, but the problem is exactly the same: fewer births, more retirees and fewer people of working age.</p>
+<p>To put it clearly: if you remove immigration today in Europe, you are not \"ordering\" anything. You are removing a piece that is already part of the balance.</p>
+<p>And now the part that is almost never said in these debates: each Spaniard who works in Switzerland is one less contribution in Spain. That is, Spain loses one contributor and Switzerland gains one. It's that simple.</p>
+<p>If you look at it as a whole, it is the same phenomenon but seen from the other side. Countries like Spain, Italy or Portugal have been losing active population for years who end up working in Switzerland, Germany or France. And they are not marginal profiles, they are in many cases young people of contributing age, just those that any pension system needs most.</p>
+<p>This is not about \"they take from us\" or \"they give to us.\" It's about flows. Europe functions as a connected system where some countries export labor and others absorb it. And within that system, many of those who criticize immigration in Switzerland... are part of exactly the same mechanism.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-05-beber-en-la-calle-en-suiza-el-problema-no-es-la-cerveza-es-lo-que-dejas-detras": {
+        title: "Drinking on the street in Switzerland: the problem is not the beer, it's what you leave behind!",
+        description: "This comes as a result of a message in one of our WhatsApp groups, and I think it deserves reflection. This photo is no exception, it's what happens when you confuse \"allowed\" with…",
+        keywords: "drink, street, switzerland, problem, beer, leave, behind, comes",
+        keywordsLocalized: true,
+        category: "Living in Switzerland",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-02-5-beber-en-la-calle-en-suiza-el-problema-no-es-la-cerveza-es-lo-que-dejas-detras",
+        readingTime: 1,
+        dateUpdated: "2 May 2026",
+        summary: "This comes as a result of a message in one of our WhatsApp groups, and I think it deserves reflection. This photo is no exception, it is what happens when you…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>This comes as a result of a message in one of our WhatsApp groups, and I think it deserves reflection.</p>
+<p>This photo is no exception, it's what happens when you confuse \"allowed\" with \"anything goes.\" In Switzerland you can drink in many public spaces, yes. But that doesn't include turning a lake into an open-air garbage can. And this is where the culture shock comes that many do not want to see.</p>
+<p>Because the unwritten rule works better than the law. Nobody is going to say anything to you for having a drink with friends by the lake. But you are expected to leave the site the same or better than you found it. It is not \"postcard\" civility; it is the minimum for this model to work without massive prohibitions. When that fails, restrictions come, fines... and then the usual complaints.</p>
+<p>And the most curious thing: then we are the first to say that Switzerland is clean, that everything works, that it is pleasant. Yes of course. But it's not magic. It's simply that the majority collects their own. When that changes, the system changes too. It's that simple.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-06-reclamacion-de-salario-en-suiza-plazos-claros-y-sin-vueltas": {
+        title: "Salary claim in Switzerland - clear deadlines and no questions asked",
+        description: "If your employer does not pay you, there is no need to drag out the situation \"to see if it gets fixed.\" Salary is a legal obligation according to the Swiss Code of Obligations (CO), and here what works…",
+        keywords: "claim, salary, switzerland, deadlines, clear, returns, employer, pay",
+        keywordsLocalized: true,
+        category: "Work & Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-02-6-reclamacion-de-salario-en-suiza-plazos-claros-y-sin-vueltas",
+        readingTime: 1,
+        dateUpdated: "2 May 2026",
+        summary: "If your employer does not pay you, there is no need to drag out the situation \"to see if it gets fixed.\" Salary is a legal obligation according to the Swiss Code of Obligations (CO…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>If your employer does not pay you, there is no need to drag out the situation \"to see if it gets fixed.\" Salary is a legal obligation according to the Swiss Code of Obligations (CO), and what works here is to do it in writing and with deadlines. First step: send a formal notice (mail or letter) indicating the amount due and the period worked, with a period of 5 to 10 days. If there is no reaction, a second, firmer demand (Mahnung) is sent, giving 7 days, maximum 10, making it clear that you will take action if they do not pay.</p>
+<p>If after that second period there is no payment, you do not continue waiting or negotiating indefinitely. You go directly to the collection procedure at the Debt Enforcement Office (Betreibungsamt). You don't need a lawyer to get started and it is the standard channel in Switzerland. If the employer objects, then the labor court process is already entered into to raise that opposition.</p>
+<p>Key fact that many discover late: the right to claim salary expires after 5 years (art. 128 CO). But that is not an invitation to wait, on the contrary. The sooner you act, the more real options you have to collect. The approach here is simple: writing, short term and action. If they don't pay, it's usually not because of inattention.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-04-el-sms-blaster-ya-esta-en-suiza-y-si-es-tan-simple-como-peligroso": {
+        title: "The \"SMS Blaster\" is already in Switzerland. And yes, it is as simple as it is dangerous.",
+        description: "According to RTS, this new scam method allows criminals to send mass SMS messages directly to nearby mobile phones, without going through operators or contact lists. Is…",
+        keywords: "blaster, switzerland, simple, dangerous, new, method, scam, allows",
+        keywordsLocalized: true,
+        category: "Alerts & resources",
+        hub: "recursos",
+        slug: "actualidad-2026-05-03-4-el-sms-blaster-ya-esta-en-suiza-y-si-es-tan-simple-como-peligroso",
+        readingTime: 1,
+        dateUpdated: "3 May 2026",
+        summary: "According to RTS, this new scam method allows criminals to send mass SMS messages directly to nearby mobile phones, without going through operators or lists…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>According to RTS, this new scam method allows criminals to send mass SMS messages directly to nearby mobile phones, without going through operators or contact lists. That is, they don't need your number. It is enough for them to be physically close, for example at a station, an airport or even in a shopping center.</p>
+<p>The trick is quite basic, but it works: you receive an SMS that looks official - bank, post office, customs, even authorities - with a link. And that's where the problem begins. Since the message does not go through traditional networks, it avoids many security filters. Result: more credibility, more clicks... and more victims.</p>
+<p>This changes one important thing: until now you could think \"if I don't give my number, I'm fine.\" Not anymore. Here the attack is by proximity, as if someone launched an invisible network to all the mobile phones around. And in areas like Geneva, with so much traffic, the terrain is perfect.</p>
+<p>Practical advice, without dramatization but without naivety: 1. Don't click on SMS links, even if they look official 2. Always verify through official channels (bank app, direct website) 3. Be especially wary of urgent or pressure messages</p>
+<p>In Switzerland everything works well... until it doesn't. And when it comes to fraud, they are always one step ahead.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-05-el-queroseno-empieza-a-convertirse-en-un-problema-real-y-esta-vez-si-tiene-conse": {
+        title: "Kerosene is starting to become a real problem... and this time it does have consequences",
+        description: "The news is not about distant scenes. If the supply of kerosene becomes complicated, the impact is quickly felt in the pocket and in the plans. Airlines work with lower margins…",
+        keywords: "kerosene, begins, become, problem, real, has, consequences, news",
+        keywordsLocalized: true,
+        category: "Living in Switzerland",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-03-5-el-queroseno-empieza-a-convertirse-en-un-problema-real-y-esta-vez-si-tiene-conse",
+        readingTime: 1,
+        dateUpdated: "3 May 2026",
+        summary: "The news is not about distant scenes. If the supply of kerosene becomes complicated, the impact is quickly felt in the pocket and in the plans. Airlines tra…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>The news is not about distant scenes. If the supply of kerosene becomes complicated, the impact is quickly felt in the pocket and in the plans. Airlines work on very tight margins and fuel is one of their main costs. If it increases or is scarce, they transfer it directly to the banknotes. There is no magic here.</p>
+<p>For those who plan to fly to Spain this summer, things can be translated into three very specific things: higher prices, fewer flights available and more risk of changes or cancellations. Less fuel means prioritizing profitable routes and reducing frequencies. And when there is less supply and demand remains the same, the result is the same as always: paying more for the same... or for less.</p>
+<p>Not to panic, but to be realistic. If you have clear dates, waiting until the last minute does not seem like the best strategy this year. Because here we are not talking about a specific supply that escapes, but about a structural factor: if the kerosene fails, the entire air system adjusts. And normally, this adjustment ends up being paid by the passenger.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-06-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-menos": {
+        title: "Working part-time in Switzerland is not just about earning less",
+        description: "When someone negotiates a 60% or 80% contract in Switzerland, they usually think of something quite simple: fewer hours, less salary, more free time. Until then, everything is correct. The problem…",
+        keywords: "work, time, part-time, switzerland, alone, charge, less, someone",
+        keywordsLocalized: true,
+        category: "Work & Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-6-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-menos",
+        readingTime: 2,
+        dateUpdated: "3 May 2026",
+        summary: "When someone negotiates a 60% or 80% contract in Switzerland, they usually think of something quite simple: fewer hours, less salary, more free time. Until then, everything...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>When someone negotiates a 60% or 80% contract in Switzerland, they usually think of something quite simple: fewer hours, less salary, more free time. Until then, everything is correct. The problem is that the pension percentage does not remain in the payroll. It has a direct impact on three key pillars of the Swiss system: pension, accident insurance and unemployment. And some of those consequences are not recovered later.</p>
+<p>The second pillar, the pension fund according to the Federal Professional Pension Law (LPP), has a minimum access threshold. In 2026, only those who earn more than CHF 22,680 per year with the same employer make mandatory contributions. What happens in practice? That a contract at 30% or even 40% in many sectors falls short. Result: you work, but you do not accumulate anything in the second pillar. In the long term, that translates into real gaps in retirement. And no, it is not a minor detail. The reform that was intended to correct this was rejected in the Referendum on the reform of the LPP in September 2024, so the system remains the same. As always, the impact falls most on those who work most part-time, especially women.</p>
+<p>Another point that many discover late: accident insurance. According to the Federal Accident Insurance Law (LAA), if you work less than 8 hours a week for the same employer, you are not covered for non-occupational accidents. That is, you break your leg skiing or cycling on the weekend and the accident insurance company does not intervene. Only your health insurance (LAMal) enters, with deductible and co-payment. If you have several mini jobs, be careful: the calculation is done by employer, not by total sum. This is where more than one person is surprised.</p>
+<p>Regarding unemployment, the Swiss logic is quite straightforward. Unemployment is calculated on what you earn. If you work at 50%, you contribute as such and get paid as such. If you have several jobs and lose one, only that percentage is taken into account. There is no magic or global compensation. The system is consistent, but it is not forgiving.</p>
+<p>None of this means that part-time work should be avoided. In many cases it is a good solution. But it's a good idea to know exactly what it entails before you sign, not when it's too late. Because in Switzerland, as almost always, the technical detail is what makes the difference.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-01-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab": {
+        title: "Following a publication, I return to an uncomfortable topic... The Hidjab",
+        description: "A post in our WhatsApp group set off my alarms. It's one thing to honestly warn someone that, in many sectors, they may encounter more barriers. That's…",
+        keywords: "root, publication, return, topic, uncomfortable, hidjab, our, group",
+        keywordsLocalized: true,
+        category: "Work & Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-04-1-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab",
+        readingTime: 1,
+        dateUpdated: "4 May 2026",
+        summary: "A post in our WhatsApp group set off my alarms. It's one thing to honestly warn someone that, in many sectors, they can find...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>A post in our WhatsApp group set off my alarms. It's one thing to honestly warn someone that, in many sectors, they may encounter more barriers. That exists. To deny it would be to sell you a movie. In Switzerland there are many employers who are more reluctant than in other European countries with visible religious symbols, especially in public-facing positions. It's not pretty, but it's reality.</p>
+<p>It is quite another thing to turn that reality into an open bar to humiliate, insult or reduce a person to a handkerchief. A girl asks if she has job opportunities, and instead of talking about CV, language, experience, permits or sectors where she can fit, some bring up the entire catalog of prejudices. What a surprise, then they complain that \"people don't want to work.\"</p>
+<p>You can say: \"it will be more difficult for you.\" You can say: \"in cleaning, production, logistics or internal positions you may have some options.\" It may be advisable to adapt your CV, improve your French, target large companies or more diverse structures.</p>
+<p>What is not necessary is to make racist comments, mockery or highway bar integration lessons.</p>
+<p>Helping is also telling the truth. But the truth does not need to be wrapped in contempt.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-02-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio": {
+        title: "You came with an idea... and reality put you in your place.",
+        description: "Let's see, I'm going to ask the question because this comes up privately every week: what \"hoax\" did you believe before arriving in Switzerland? The one that \"everything works perfectly here\", the one that \"with any…",
+        keywords: "you came, idea, reality, put, place, launch, question, because",
+        keywordsLocalized: true,
+        category: "Living in Switzerland",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-2-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio",
+        readingTime: 1,
+        dateUpdated: "4 May 2026",
+        summary: "Let's see, I'm going to ask the question because this comes up privately every week: what \"hoax\" did you believe before arriving in Switzerland? That \"everything works perfectly here...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Let's see, I'm going to ask the question because this comes up privately every week: what \"hoax\" did you believe before arriving in Switzerland?</p>
+<p>The one about \"everything works perfectly here\", the one about \"with any job you live well\", the one about \"you save no matter what\"... or the classic one of \"in two months I'll be integrated\".</p>
+<p>Spoiler: not always.</p>
+<p>I believe that there are a few fantasies that are repeated a lot, and then reality arrives: insurance, rent, language, job market... and it dismantles the story quite quickly.</p>
+<p>Tell me yours!! Surely more than one recognizes themselves in the comments.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-03-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad": {
+        title: "Temu in the spotlight in Switzerland... and it is no coincidence",
+        description: "Temu has been sweeping Europe for months with prices that, to be clear, do not fit with any normal market logic. And in Switzerland it has already begun to raise eyebrows on a political level.…",
+        keywords: "temu, point, look, switzerland, chance, takes, months, sweeping",
+        keywordsLocalized: true,
+        category: "Alerts & resources",
+        hub: "recursos",
+        slug: "actualidad-2026-05-04-3-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad",
+        readingTime: 2,
+        dateUpdated: "4 May 2026",
+        summary: "Temu has been sweeping Europe for months with prices that, to be clear, do not fit with any normal market logic. And in Switzerland it has already begun to raise eyebrows...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Temu has been sweeping Europe for months with prices that, to be clear, do not fit with any normal market logic. And in Switzerland it has already begun to raise eyebrows on a political level.</p>
+<p>The Swiss Parliament is questioning several quite serious points. On the one hand, transparency in prices and commercial practices: constant discounts, artificial urgency like \"there are only 3 units left\", and a very aggressive strategy to push consumption. Nothing new for anyone who has opened the app, but when we talk about consumer protection, it is no longer a simple annoyance.</p>
+<p>On the other hand, there is the most delicate issue: production conditions and unfair competition. Swiss and European companies have been denouncing for some time that platforms like Temu can sell at impossible prices because they operate with standards that would not pass any filter here. Simple translation: if you compete with different rules, you don't compete, you destroy.</p>
+<p>And then there is the Swiss classic: taxation and control. Many of these products come in small packages, often below certain thresholds, which complicates customs control and VAT collection. Result: competitive advantage over local businesses that do deliver everything to the penny.</p>
+<p>This does not mean that they will ban Temu tomorrow. But we are in the phase in which Switzerland begins to do what it does best: regulate when something gets out of hand. And normally, when the Swiss Parliament starts to look at something closely, it is because the issue has already grown enough to not ignore it.</p>
+<p>Moral: very low prices always have a cost. Sometimes the buyer doesn't pay for it... but someone pays for it.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-04-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo": {
+        title: "Picking strawberries in Geneva: a nice plan... until you see the price per kilo",
+        description: "Every spring the same video appears: green fields, perfect strawberries, happy children and the feeling that you are in a yogurt commercial. And yes, it exists. But like everything in Switzerland,…",
+        keywords: "pick, strawberries, gin, plan, nice, up, price, kilo",
+        keywordsLocalized: true,
+        category: "Living in Switzerland",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-4-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo",
+        readingTime: 1,
+        dateUpdated: "4 May 2026",
+        summary: "Every spring the same video appears: green fields, perfect strawberries, happy children and the feeling that you are in a yogurt commercial. And yes, it exists. But…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Every spring the same video appears: green fields, perfect strawberries, happy children and the feeling that you are in a yogurt commercial. And yes, it exists. But like everything in Switzerland, it's a good idea to understand how it works before jumping in.</p>
+<p>You're not going to \"pick free strawberries from the field\" here. It is the self-harvesting system. You go, you pick up yourself... and you pay when you leave according to the weight. The grace is in the experience, not in the savings. In fact, many times a kilo is the same or more expensive than in the supermarket, especially if you get excited filling boxes.</p>
+<p>In the Geneva area you have several well-known places: - La Fraisière in Meyrin - La Flânerie in Troinex</p>
+<p>They work similarly: you enter, grab a container, pick up and go to the checkout. Simple. Of course, be careful with the schedules and the season. If it has rained or many days of harvesting have passed, you may find more leaves than strawberries.</p>
+<p>Practical tip: bring cash or check how you pay, control the weight (those boxes fill up quickly) and don't go with the idea that you are going to save. You go by the plan, for the moment and because freshly picked strawberries do taste different.</p>
+<p>And another very Swiss detail: respect the rules. No eating \"test\" strawberries while picking. Yes, we all think so... but here you also pay for that.</p>
+<p>Recommended plan, especially with children or for a different morning. But it's not a bargain, it's an experience. And in Switzerland, experiences also come through cash.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-05-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca": {
+        title: "Expired passport and denied boarding: when the airline is wrong",
+        description: "In October 2018, in Lyon, the EasyJet company denied boarding to a minor on a flight to Naples because her passport had expired for 18 days. The family ended up…",
+        keywords: "passport, expired, denial, boarding, airline, wrong, October, 2018",
+        keywordsLocalized: true,
+        category: "Procedures & Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-04-5-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca",
+        readingTime: 1,
+        dateUpdated: "4 May 2026",
+        summary: "In October 2018, in Lyon, the EasyJet company denied boarding to a minor on a flight to Naples because her passport had expired for 18 days...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>In October 2018, in Lyon, the EasyJet company denied boarding to a minor on a flight to Naples because her passport had expired for 18 days. The family ended up traveling by bus and missed a hotel night. Years later, the Lyon Judicial Court ruled in their favor (ruling of February 26, 2026): €871.70 for material damage and €2,000 for moral damage. Translated: not everything the boarding counter says is law.</p>
+<p>The legal key is not in the classic European regulations, but in the European Agreement on the Movement of Persons of 1957. This agreement, which is still in force, allows Spanish citizens to travel to certain countries with a passport that has expired for less than five years, as long as they are short stays (maximum 90 days) and without professional activity. The Cour de Cassation itself had already confirmed this in 2020, also against EasyJet. It's not new, but it seems that some counters haven't caught on yet.</p>
+<p>Where does this apply? In the signatory countries of the agreement: Germany, France, Italy, Spain, Portugal, Belgium, Netherlands, Luxembourg, Austria, Greece, Hungary, Slovenia, Malta, Cyprus, Turkey and Switzerland, among others. That is, it is not something marginal.</p>
+<p>If you are Spanish and they deny you boarding under these conditions, there is a legal basis to complain. Another thing is what you feel like discussing at the boarding gate at 6:00 in the morning with someone who only follows an internal procedure. Being right is good. That they let you get on the plane, the better.</p>
+</div>`
     }
 });

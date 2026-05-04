@@ -1127,5 +1127,307 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Il est possible de souscrire une Zusatzversicherung dentaire (assurance complémentaire dentaire), mais elle a ses propres règles : presque toutes les assurances exigent une période d'attente de plusieurs mois avant de commencer à couvrir, elles ont un plafond annuel (généralement entre 50 et 75 % des frais, jusqu'à un maximum de 1'000 à 3'000 francs par an) et ne couvrent pas les traitements déjà en cours au moment de la souscription.</p>
 <p>Le conseil pratique : souscrivez-la à votre arrivée, avant qu'il n'y ait le moindre problème. Et consultez régulièrement le dentiste ; ici, la prévention coûte beaucoup moins cher que l'intervention.</p>
 </div>`
+    },
+
+    "fb-daily-20260501-04-delinquir-en-suiza-hasta-que-se-acaba-la-paciencia": {
+        title: "La criminalité en Suisse jusqu'à épuisement de la patience",
+        description: "J'ai vu cette nouvelle du Valais et je pense qu'elle mérite d'être lue au-delà du simple gros titre. Il ne s'agit pas d'un cas isolé ou \" sensationnel \". C'est assez représentatif de la façon dont r…",
+        keywords: "crime, suisse, jusqu'à ce que ça se termine, patience, vu, nouvelles, valais",
+        keywordsLocalized: true,
+        category: "Vivre en Suisse",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-01-4-delinquir-en-suiza-hasta-que-se-acaba-la-paciencia",
+        readingTime: 2,
+        dateUpdated: "1 mai 2026",
+        summary: "J'ai vu cette nouvelle du Valais et je pense qu'elle mérite d'être lue au-delà du simple gros titre. Il ne s'agit pas d'un cas isolé ou \" sensationnel \". C'est assez représentatif…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>J'ai vu cette nouvelle du Valais et je pense qu'elle mérite d'être lue au-delà du simple gros titre. Il ne s'agit pas d'un cas isolé ou " sensationnel ". C'est assez représentatif de la façon dont fonctionne réellement le système suisse lorsque quelqu'un enchaîne les crimes.</p>
+<p>Nous parlons d'une personne qui a commis des dizaines d'infractions : vols, dégradations, entrées illégales... ce n'est pas une erreur spécifique ou une mauvaise nuit. C'est une dynamique. Et la réponse finale a été celle qui arrive tôt ou tard ici : une condamnation pénale et l'expulsion du pays.</p>
+<p>Et voici la chose intéressante. Car beaucoup continuent avec deux idées assez répandues et qui ne correspondent pas à la réalité suisse.</p>
+<p>La première: \"en Suisse, on fait ce qu'on veut\". Non. Ce qui se passe, c'est que le système est une garantie. Ils ne vous expulsent pas du premier coup. Il existe un principe de proportionnalité qui s'applique dans chaque cas, et qui implique que les tribunaux analysent la situation avant de prendre une mesure aussi forte qu'une expulsion. Ce n'est pas de l'improvisation, c'est la base du droit suisse et de l'application du droit de l'immigration par le Secrétariat d'État aux migrations (SEM).</p>
+<p>La seconde : \"ils vous expulsent pour n'importe quoi\". Ni l'un ni l'autre. Pour arriver à ce point, vous avez besoin de gravité ou d'accumulation. Et dans ce cas-ci, cette limite a clairement été franchie.</p>
+<p>Depuis la réforme sur l'expulsion des étrangers après des délits, il existe des situations où les juges n'ont pratiquement aucune marge : si certains critères sont remplis, l'expulsion est appliquée. Et cela peut aussi s'accompagner d'une interdiction d'entrée pendant des années.</p>
+<p>Au final, la logique suisse est assez claire, même s'il est parfois difficile de la voir de l'extérieur : tolérance initiale, mais patience zéro face à la récidive.</p>
+<p>Traduction pratique pour nous : venir travailler, vivre sa vie et respecter les règles ne pose aucun problème. Mais entrer dans une spirale de criminalité en Suisse n'est pas une bonne idée. Il peut sembler que rien ne se passe... jusqu'à ce que tout se produise soudainement.</p>
+<p>Source : article Watson https://www.watson.ch/.../225591197-il-a-commis-des...</p>
+</div>`
+    },
+
+    "fb-daily-20260501-05-en-suiza-la-puntualidad-es-clave-si-pero-otra-cosa-distinta-es-regalar-tiempo": {
+        title: "En Suisse, la ponctualité est essentielle, oui. Mais une autre chose est de donner du temps. ",
+        description: "Dans la plupart des établissements de santé (hôpitaux ou EMS), le principe est assez clair : le temps de travail commence lorsque l'on est à la disposition de l'employeur. Et cela inclut d'être…",
+        keywords: "Suisse, ponctualité, clé, chose, différent, donner, temps, majorité",
+        keywordsLocalized: true,
+        category: "Travail & salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-01-5-en-suiza-la-puntualidad-es-clave-si-pero-otra-cosa-distinta-es-regalar-tiempo",
+        readingTime: 1,
+        dateUpdated: "1 mai 2026",
+        summary: "Dans la plupart des établissements de santé (hôpitaux ou EMS), le principe est assez clair : le temps de travail commence lorsque l'on est à la disposition de l'employeur.…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Dans la plupart des établissements de santé (hôpitaux ou EMS), le principe est assez clair : le temps de travail commence lorsque l'on est à la disposition de l'employeur. Et cela inclut d'être déjà changé si l'uniforme est obligatoire et que vous ne pouvez pas le porter depuis chez vous. Ce n'est pas un détail mineur, cela vient du droit du travail suisse et des pratiques courantes dans les accords et règlements internes.</p>
+<p>En termes simples : - Si votre quart de travail commence à 07h00, vous devez être opérationnel à 07h00. - Mais le temps nécessaire au changement, s'il est obligatoire au centre, doit être inclus dans le temps de travail.</p>
+<p>Une autre chose est la réalité de la vie quotidienne, où de nombreuses équipes fonctionnent avec cette " pression culturelle " pour arriver tôt, changer rapidement et être en relation à 7h00 comme si c'était normal. Cela arrive, oui. Mais cela ne rend pas la pratique correcte.</p>
+<p>De plus, cela dépend beaucoup du canton, de l'hôpital et de la convention (CCT dans certains secteurs). Dans les grands hôpitaux publics, cette pratique est généralement plus réglementée. Dans des EMS petits ou privés, plus " flexibles ", c'est un euphémisme.</p>
+<p>Alors oui, la ponctualité suisse : totalement.</p>
+<p>Mais la ponctualité ne signifie pas commencer à travailler gratuitement cinq ou dix minutes chaque jour.</p>
+<p>Et cela, pour quelqu'un qui commence un emploi, est essentiel à comprendre. S'adapter au système, oui, mais sans normaliser des choses qui ne sont pas normales.</p>
+</div>`
+    },
+
+    "fb-daily-20260501-06-desde-suiza-para-el-mundo": {
+        title: "De la Suisse au monde",
+        description: "Il y a 33 ans aujourd'hui, le CERN plaçait le logiciel du World Wide Web dans le domaine public. L'idée avait été proposée par Sir Tim Berners-Lee, initialement pour que les scientifiques…",
+        keywords: "Suisse, monde, il y a des années, cern, mettre, logiciel, monde",
+        keywordsLocalized: true,
+        category: "Vivre en Suisse",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-01-6-desde-suiza-para-el-mundo",
+        readingTime: 1,
+        dateUpdated: "1 mai 2026",
+        summary: "Il y a 33 ans aujourd'hui, le CERN plaçait le logiciel du World Wide Web dans le domaine public. L'idée avait été proposée par Sir Tim Berners-Lee, initial…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Il y a 33 ans aujourd'hui, le CERN plaçait le logiciel du World Wide Web dans le domaine public.</p>
+<p>L'idée avait été proposée par Sir Tim Berners-Lee, initialement pour que les scientifiques et les instituts travaillant avec les données du CERN puissent partager des informations rapidement et précisément dans le monde entier.</p>
+<p>Plus tard, le CERN a également publié une version sous licence ouverte pour faciliter davantage sa diffusion.</p>
+<p>Sur les images, vous pouvez voir :</p>
+<p>1 et 2. Le document qui a officiellement placé le World Wide Web dans le domaine public. 3. L'ordinateur NeXT de Tim Berners-Lee, qui a servi de serveur Web d'origine et de machine de développement pour le projet WWW. 4. Une capture d'écran de la recréation du premier site Web.</p>
+<p>C'est ainsi qu'est né dans un bureau du CERN à Meyrin (Genève) quelque chose que nous utilisons aujourd'hui pour presque tout. Même pour discuter sur Facebook avec des gens qui ne lisent pas les sources. Des choses de progrès.</p>
+<p>Source : CERN https://home.web.cern.ch/science/computing/birth-web</p>
+</div>`
+    },
+
+    "fb-daily-20260502-04-si-manana-desaparecieran-los-inmigrantes-en-suiza-y-en-el-resto-de-europa": {
+        title: "Si demain les immigrés disparaissaient en Suisse... et dans le reste de l'Europe",
+        description: "Si demain les immigrés disparaissaient en Suisse... et dans le reste de l'Europe... Une réflexion que j'essaie d'écrire objectivement depuis quelques temps. Ce débat est généralement soulevé…",
+        keywords: "Matin, disparaître, les immigrants, Suisse, du repos, L'Europe , réflexion, porter",
+        keywordsLocalized: true,
+        category: "Travail & salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-02-4-si-manana-desaparecieran-los-inmigrantes-en-suiza-y-en-el-resto-de-europa",
+        readingTime: 2,
+        dateUpdated: "2 mai 2026",
+        summary: "Si demain les immigrés disparaissaient en Suisse... et dans le reste de l'Europe... Une réflexion que j'essaie d'écrire objectivement depuis quelques temps. Cela doit…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Si demain les immigrés disparaissaient en Suisse... et dans le reste de l'Europe... Une réflexion que j'essaie d'écrire objectivement depuis quelques temps.</p>
+<p>Ce débat est souvent présenté comme s'il s'agissait d'un débat \"typique de la Suisse\". Ce n'est pas. La Suisse n'est qu'un exemple très visible de ce qui se passe dans presque toute l'Europe.</p>
+<p>Ici l'impact serait immédiat : manque de personnel dans la santé, le bâtiment, l'hôtellerie, l'industrie... et pression directe sur l'AVS car une partie importante des cotisants disparaît. Mais si vous regardez l'Allemagne, elle affirme ouvertement depuis des années qu'elle a besoin de centaines de milliers de travailleurs étrangers pour soutenir son économie. En Italie, le problème est encore plus évident : la population vieillit et les régions se vident. Et en Espagne, la sécurité sociale dépend de plus en plus de la contribution des travailleurs étrangers pour équilibrer le système.</p>
+<p>La différence n'est pas dans le fond, mais dans la forme. La Suisse s'en rend vite compte car son marché du travail est petit et très spécialisé, et il dépend aussi beaucoup des travailleurs frontaliers. D'autres pays ont une plus grande marge en raison de leur taille, mais le problème est exactement le même : moins de naissances, plus de retraités et moins de personnes en âge de travailler.</p>
+<p>En clair : si vous supprimez aujourd'hui l'immigration en Europe, vous ne " commandez " rien. Vous supprimez une pièce qui fait déjà partie de la balance.</p>
+<p>Et maintenant, ce qui n'est presque jamais dit dans ces débats : chaque Espagnol qui travaille en Suisse représente une contribution de moins en Espagne. Autrement dit, l'Espagne perd un contributeur et la Suisse en gagne un. C'est aussi simple que cela.</p>
+<p>Si on le regarde dans son ensemble, c'est le même phénomène mais vu de l'autre côté. Des pays comme l'Espagne, l'Italie ou le Portugal perdent depuis des années une population active qui finit par travailler en Suisse, en Allemagne ou en France. Et ce ne sont pas des profils marginaux, ce sont dans de nombreux cas des jeunes en âge de cotiser, justement ceux dont tout système de retraite a le plus besoin.</p>
+<p>Il ne s'agit pas ici de " ils nous prennent " ou " ils nous donnent ". C'est une question de flux. L'Europe fonctionne comme un système connecté dans lequel certains pays exportent de la main-d'œuvre et d'autres l'absorbent. Et au sein de ce système, nombre de ceux qui critiquent l'immigration en Suisse... font partie exactement du même mécanisme.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-05-beber-en-la-calle-en-suiza-el-problema-no-es-la-cerveza-es-lo-que-dejas-detras": {
+        title: "Boire dans la rue en Suisse : le problème n'est pas la bière, c'est ce qu'on laisse derrière soi ! ",
+        description: "Cela fait suite à un message dans l'un de nos groupes WhatsApp, et je pense que cela mérite réflexion. Cette photo ne fait pas exception, c'est ce qui arrive quand on confond \" autorisé \" avec…",
+        keywords: "boisson, rue, Suisse, problème, bière, laisser, derrière, vient",
+        keywordsLocalized: true,
+        category: "Vivre en Suisse",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-02-5-beber-en-la-calle-en-suiza-el-problema-no-es-la-cerveza-es-lo-que-dejas-detras",
+        readingTime: 1,
+        dateUpdated: "2 mai 2026",
+        summary: "Cela fait suite à un message dans l'un de nos groupes WhatsApp, et je pense que cela mérite réflexion. Cette photo ne fait pas exception, c'est ce qui arrive lorsque vous…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Cela fait suite à un message dans l'un de nos groupes WhatsApp, et je pense que cela mérite réflexion.</p>
+<p>Cette photo ne fait pas exception, c'est ce qui arrive lorsque l'on confond " autorisé " avec " tout est permis ". En Suisse, on peut boire dans de nombreux espaces publics, oui. Mais cela n'implique pas de transformer un lac en poubelle à ciel ouvert. Et c'est là que survient le choc culturel que beaucoup ne veulent pas voir.</p>
+<p>Parce que la règle non écrite fonctionne mieux que la loi. Personne ne vous dira rien pour boire un verre entre amis au bord du lac. Mais vous êtes censé quitter le site tel ou meilleur que vous l'avez trouvé. Ce n'est pas une civilité de " carte postale " ; c'est le minimum pour que ce modèle fonctionne sans interdictions massives. Quand cela échoue, des restrictions arrivent, des amendes... et puis les plaintes habituelles.</p>
+<p>Et le plus curieux : alors nous sommes les premiers à dire que la Suisse est propre, que tout fonctionne, qu'elle est agréable. Oui bien sûr. Mais ce n'est pas magique. C'est simplement que la majorité collecte les siennes. Quand cela change, le système change aussi. C'est aussi simple que cela.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-06-reclamacion-de-salario-en-suiza-plazos-claros-y-sin-vueltas": {
+        title: "Réclamation de salaire en Suisse - des délais clairs et sans poser de questions",
+        description: "Si votre employeur ne vous paie pas, inutile de traîner la situation \" pour voir si elle s'arrange \". Le salaire est une obligation légale selon le Code des obligations suisse (CO), et voici ce qui fonctionne…",
+        keywords: "réclamation, salaire, Suisse, délais, clair, retours, employeur, payer",
+        keywordsLocalized: true,
+        category: "Travail & salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-02-6-reclamacion-de-salario-en-suiza-plazos-claros-y-sin-vueltas",
+        readingTime: 1,
+        dateUpdated: "2 mai 2026",
+        summary: "Si votre employeur ne vous paie pas, inutile de traîner la situation \" pour voir si elle s'arrange \". Le salaire est une obligation légale selon le Code suisse des obligations (CO…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Si votre employeur ne vous paie pas, inutile de traîner la situation " pour voir si elle s'arrange ". Le salaire est une obligation légale selon le Code des obligations suisse (CO), et ce qui fonctionne ici, c'est de le faire par écrit et dans des délais. Première étape : envoyer une mise en demeure (courrier ou lettre) indiquant le montant dû et la période travaillée, dans un délai de 5 à 10 jours. S'il n'y a pas de réaction, une deuxième demande (Mahnung) plus ferme est envoyée, donnant un délai de 7 jours, maximum 10, précisant que vous agirez s'ils ne paient pas.</p>
+<p>Si après ce deuxième délai il n'y a pas de paiement, vous ne continuez pas à attendre ou à négocier indéfiniment. Vous vous adressez directement à la procédure de recouvrement auprès de l'Office des poursuites pour dettes (Betreibungsamt). Vous n'avez pas besoin d'un avocat pour vous lancer et c'est le canal standard en Suisse. Si l'employeur s'y oppose, la procédure devant le tribunal du travail est déjà engagée pour soulever cette opposition.</p>
+<p>Fait marquant que beaucoup découvrent tardivement : le droit au salaire expire au bout de 5 ans (art. 128 CO). Mais ce n'est pas une invitation à attendre, bien au contraire. Plus tôt vous agirez, plus vous aurez d'options réelles à collecter. L'approche ici est simple : écriture, court terme et action. S'ils ne paient pas, ce n'est généralement pas par inattention.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-04-el-sms-blaster-ya-esta-en-suiza-y-si-es-tan-simple-como-peligroso": {
+        title: "Le \"SMS Blaster\" est déjà en Suisse. Et oui, c'est aussi simple que dangereux. ",
+        description: "Selon la RTS, cette nouvelle méthode d'arnaque permet aux criminels d'envoyer des SMS en masse directement sur des téléphones mobiles à proximité, sans passer par des opérateurs ou des listes de contacts. C'est…",
+        keywords: "blaster, suisse, simples, dangereux, nouveaux, méthode, arnaque, permet",
+        keywordsLocalized: true,
+        category: "Alertes & ressources",
+        hub: "recursos",
+        slug: "actualidad-2026-05-03-4-el-sms-blaster-ya-esta-en-suiza-y-si-es-tan-simple-como-peligroso",
+        readingTime: 1,
+        dateUpdated: "3 mai 2026",
+        summary: "Selon la RTS, cette nouvelle méthode d'arnaque permet aux criminels d'envoyer des SMS en masse directement sur des téléphones portables à proximité, sans passer par des opérateurs ou des listes…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Selon la RTS, cette nouvelle méthode d'arnaque permet aux criminels d'envoyer des SMS en masse directement sur des téléphones mobiles à proximité, sans passer par des opérateurs ou des listes de contacts. Autrement dit, ils n'ont pas besoin de votre numéro. Il suffit qu'ils soient physiquement proches, par exemple dans une gare, un aéroport ou encore dans un centre commercial.</p>
+<p>L'astuce est assez basique, mais elle fonctionne : vous recevez un SMS qui a l'air officiel - banque, poste, douane, voire autorités - avec un lien. Et c'est là que le problème commence. Le message ne transitant pas par les réseaux traditionnels, il évite de nombreux filtres de sécurité. Résultat : plus de crédibilité, plus de clics… et plus de victimes.</p>
+<p>Cela change une chose importante : jusqu'à présent, on pouvait penser \"si je ne donne pas mon numéro, tout va bien\". Pas plus. Ici, l'attaque se fait par proximité, comme si quelqu'un lançait un réseau invisible vers tous les téléphones portables alentour. Et dans des régions très fréquentées comme Genève, le terrain est parfait.</p>
+<p>Des conseils pratiques, sans dramatisation mais sans naïveté : 1. Ne cliquez pas sur les liens SMS, même s'ils semblent officiels 2. Vérifiez toujours via les canaux officiels (application bancaire, site Web direct) 3. Méfiez-vous particulièrement des messages urgents ou sous pression</p>
+<p>En Suisse, tout fonctionne bien... jusqu'à ce que ce ne soit plus le cas. Et lorsqu'il s'agit de fraude, ils ont toujours une longueur d'avance.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-05-el-queroseno-empieza-a-convertirse-en-un-problema-real-y-esta-vez-si-tiene-conse": {
+        title: "Le kérosène commence à devenir un vrai problème... et cette fois il a des conséquences",
+        description: "L'actualité ne concerne pas des scènes lointaines. Si l'approvisionnement en kérosène devient compliqué, l'impact se fait vite sentir dans la poche et dans les plans. Les compagnies aériennes travaillent avec des marges plus faibles…",
+        keywords: "kérosène, commence, devient, problème, réel, a, conséquences, actualités",
+        keywordsLocalized: true,
+        category: "Vivre en Suisse",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-03-5-el-queroseno-empieza-a-convertirse-en-un-problema-real-y-esta-vez-si-tiene-conse",
+        readingTime: 1,
+        dateUpdated: "3 mai 2026",
+        summary: "L'actualité ne concerne pas des scènes lointaines. Si l'approvisionnement en kérosène devient compliqué, l'impact se fait vite sentir dans la poche et dans les plans. Trafic aérien…",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>L'actualité ne concerne pas des scènes lointaines. Si l'approvisionnement en kérosène devient compliqué, l'impact se fait vite sentir dans la poche et dans les plans. Les compagnies aériennes travaillent avec des marges très serrées et le carburant constitue l'un de leurs principaux coûts. S'il augmente ou se raréfie, ils le transfèrent directement sur les billets. Il n'y a pas de magie ici.</p>
+<p>Pour ceux qui envisagent de se rendre en Espagne cet été, les choses peuvent se traduire par trois choses très spécifiques : des prix plus élevés, moins de vols disponibles et plus de risques de modifications ou d'annulations. Moins de carburant signifie donner la priorité aux itinéraires rentables et réduire les fréquences. Et lorsqu'il y a moins d'offre et que la demande reste la même, le résultat est toujours le même : payer plus pour la même chose… ou pour moins.</p>
+<p>Pas de panique, mais d'être réaliste. Si vous avez des dates claires, attendre la dernière minute ne semble pas être la meilleure stratégie cette année. Car il ne s'agit pas ici d'une alimentation spécifique qui s'échappe, mais d'un facteur structurel : en cas de panne de kérosène, tout le système d'air s'ajuste. Et normalement, cet ajustement finit par être payé par le passager.</p>
+</div>`
+    },
+
+    "fb-daily-20260503-06-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-menos": {
+        title: "Travailler à temps partiel en Suisse, ce n'est pas seulement gagner moins",
+        description: "Lorsqu'on négocie un contrat à 60 ou 80 % en Suisse, on pense généralement à quelque chose d'assez simple : moins d'heures, moins de salaire, plus de temps libre. Jusque-là, tout est correct. Le problème…",
+        keywords: "travail, temps, temps partiel, Suisse, seul, charge, moins, quelqu'un",
+        keywordsLocalized: true,
+        category: "Travail & salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-03-6-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-menos",
+        readingTime: 2,
+        dateUpdated: "3 mai 2026",
+        summary: "Lorsqu'on négocie un contrat à 60 ou 80 % en Suisse, on pense généralement à quelque chose d'assez simple : moins d'heures, moins de salaire, plus de temps libre. En attendant, tout...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Lorsqu'on négocie un contrat à 60 ou 80 % en Suisse, on pense généralement à quelque chose d'assez simple : moins d'heures, moins de salaire, plus de temps libre. Jusque-là, tout est correct. Le problème est que le pourcentage de pension ne reste pas dans la masse salariale. Elle a un impact direct sur trois piliers clés du système suisse : la retraite, l'assurance-accidents et le chômage. Et certaines de ces conséquences ne sont pas récupérées plus tard.</p>
+<p>Le deuxième pilier, la caisse de pension selon la loi fédérale sur la retraite professionnelle (LPP), a un seuil d'accès minimum. En 2026, seuls ceux qui gagnent plus de CHF 22'680 par an auprès du même employeur cotisent obligatoirement. Que se passe-t-il en pratique ? Qu'un contrat à 30%, voire 40% dans de nombreux secteurs, ne suffit pas. Résultat : vous travaillez, mais vous n'accumulez rien dans le 2e pilier. À long terme, cela se traduit par de véritables écarts de retraite. Et non, ce n'est pas un détail mineur. La réforme qui visait à corriger cela a été rejetée lors du référendum sur la réforme de la LPP en septembre 2024, le système reste donc le même. Comme toujours, les conséquences pèsent le plus sur ceux qui travaillent le plus à temps partiel, en particulier les femmes.</p>
+<p>Autre point que beaucoup découvrent tardivement : l'assurance accident. Selon la loi fédérale sur l'assurance-accidents (LAA), si vous travaillez moins de 8 heures par semaine pour le même employeur, vous n'êtes pas couvert pour les accidents non professionnels. Autrement dit, vous vous cassez la jambe à ski ou à vélo le week-end et la compagnie d'assurance-accidents n'intervient pas. Seule votre assurance maladie (LAMal) entre en jeu, avec franchise et ticket modérateur. Si vous cumulez plusieurs mini-jobs, attention : le calcul se fait par employeur et non par somme totale. C'est là que plus d'une personne est surprise.</p>
+<p>Concernant le chômage, la logique suisse est assez simple. Le chômage est calculé sur ce que vous gagnez. Si vous travaillez à 50 %, vous cotisez comme tel et êtes payé comme tel. Si vous avez plusieurs emplois et en perdez un, seul ce pourcentage est pris en compte. Il n'y a pas de compensation magique ni globale. Le système est cohérent, mais il ne pardonne pas.</p>
+<p>Rien de tout cela ne signifie que le travail à temps partiel doit être évité. Dans de nombreux cas, c'est une bonne solution. Mais c'est une bonne idée de savoir exactement ce que cela implique avant de signer, pas quand il est trop tard. Car en Suisse, comme presque toujours, c'est le détail technique qui fait la différence.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-01-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab": {
+        title: "Suite à une publication, je reviens sur un sujet inconfortable... Le Hidjab",
+        description: "Une publication dans notre groupe WhatsApp a déclenché mes alarmes. C'est une chose d'avertir honnêtement quelqu'un que, dans de nombreux secteurs, il risque de se heurter à davantage d'obstacles. C'est…",
+        keywords: "racine, publication, retour, sujet, inconfortable, hijab, notre, groupe",
+        keywordsLocalized: true,
+        category: "Travail & salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-04-1-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab",
+        readingTime: 1,
+        dateUpdated: "4 mai 2026",
+        summary: "Une publication dans notre groupe WhatsApp a déclenché mes alarmes. C'est une chose d'avertir honnêtement quelqu'un que, dans de nombreux secteurs, il peut trouver...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Une publication dans notre groupe WhatsApp a déclenché mes alarmes. C'est une chose d'avertir honnêtement quelqu'un que, dans de nombreux secteurs, il risque de se heurter à davantage d'obstacles. Cela existe. Le nier serait vous vendre un film. En Suisse, de nombreux employeurs sont plus réticents que dans d'autres pays européens à l'égard des symboles religieux visibles, notamment dans les postes destinés au public. Ce n'est pas joli, mais c'est la réalité.</p>
+<p>C'en est une autre de transformer cette réalité en open bar pour humilier, insulter ou réduire une personne à un mouchoir. Une fille demande si elle a des opportunités d'emploi, et au lieu de parler de CV, de langue, d'expérience, de permis ou de secteurs dans lesquels elle peut s'intégrer, certaines évoquent toute la liste des préjugés. Quelle surprise, alors ils se plaignent que " les gens ne veulent pas travailler ".</p>
+<p>Vous pouvez dire : " ce sera plus difficile pour vous ". Vous pouvez dire : \"dans les postes de nettoyage, de production, de logistique ou en interne, vous pouvez avoir certaines options\". Il peut être judicieux d'adapter son CV, d'améliorer son français, de cibler de grandes entreprises ou des structures plus diverses.</p>
+<p>Ce qui n'est pas nécessaire, c'est de faire des propos racistes, des moqueries ou des leçons d'intégration d'interdiction de la route.</p>
+<p>Aider, c'est aussi dire la vérité. Mais la vérité n'a pas besoin d'être enveloppée de mépris.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-02-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio": {
+        title: "Vous êtes venu avec une idée... et la réalité vous a remis à votre place. ",
+        description: "Voyons, je vais poser la question car cela revient chaque semaine en privé : à quelle \"canular\" aviez-vous cru avant d'arriver en Suisse ? Celle qui \" tout fonctionne parfaitement ici \", celle qui \" avec n'importe quel…",
+        keywords: "tu es venu, idée, réalité, mise, lieu, lancement, question, parce que",
+        keywordsLocalized: true,
+        category: "Vivre en Suisse",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-2-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio",
+        readingTime: 1,
+        dateUpdated: "4 mai 2026",
+        summary: "Voyons, je vais poser la question car cela revient chaque semaine en privé : à quelle \"canular\" aviez-vous cru avant d'arriver en Suisse ? Que \" tout fonctionne parfaitement ici...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Voyons, je vais poser la question car cela revient chaque semaine en privé : à quelle \"canular\" aviez-vous cru avant d'arriver en Suisse ?</p>
+<p>Celui de \"tout fonctionne parfaitement ici\", celui de \"avec n'importe quel travail tu vis bien\", celui de \"tu épargnes quoi qu'il arrive\"... ou encore le classique de \"dans deux mois je serai intégré\".</p>
+<p>Spoiler : pas toujours.</p>
+<p>Je crois qu'il y a quelques fantasmes qui se répètent beaucoup, et puis arrive la réalité : l'assurance, le loyer, la langue, le marché du travail... et ça démonte l'histoire assez vite.</p>
+<p>Dis-moi le tien !! Sûrement plus d'un se reconnaissent dans les commentaires.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-03-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad": {
+        title: "Temu à l'honneur en Suisse... et ce n'est pas un hasard",
+        description: "Temu balaye l'Europe depuis des mois avec des prix qui, pour être clair, ne correspondent à aucune logique normale de marché. Et en Suisse, cela commence déjà à faire sourciller au niveau politique.…",
+        keywords: "temu, point, regarde, Suisse, chance, prend, mois, balayage",
+        keywordsLocalized: true,
+        category: "Alertes & ressources",
+        hub: "recursos",
+        slug: "actualidad-2026-05-04-3-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad",
+        readingTime: 2,
+        dateUpdated: "4 mai 2026",
+        summary: "Temu balaye l'Europe depuis des mois avec des prix qui, pour être clair, ne correspondent à aucune logique normale de marché. Et en Suisse, cela commence déjà à faire sourciller...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Temu balaye l'Europe depuis des mois avec des prix qui, pour être clair, ne correspondent à aucune logique normale de marché. Et en Suisse, cela commence déjà à faire sourciller au niveau politique.</p>
+<p>Le Parlement suisse remet en question plusieurs points assez sérieux. D'un côté, la transparence des prix et des pratiques commerciales : des remises constantes, une urgence artificielle du type \"il ne reste que 3 unités\", et une stratégie très agressive pour pousser la consommation. Rien de nouveau pour quiconque a ouvert l'application, mais quand on parle de protection des consommateurs, ce n'est plus une simple nuisance.</p>
+<p>De l'autre, il y a la question la plus délicate : les conditions de production et la concurrence déloyale. Les entreprises suisses et européennes dénoncent depuis un certain temps que des plateformes comme Temu peuvent vendre à des prix impossibles parce qu'elles fonctionnent avec des normes qui ne passeraient aucun filtre ici. Traduction simple : si vous rivalisez avec des règles différentes, vous ne rivalisez pas, vous détruisez.</p>
+<p>Et puis il y a le classique suisse : la fiscalité et le contrôle. Beaucoup de ces produits sont présentés en petits emballages, souvent inférieurs à certains seuils, ce qui complique le contrôle douanier et la collecte de la TVA. Résultat : un avantage concurrentiel par rapport aux entreprises locales qui livrent tout au centime près.</p>
+<p>Cela ne veut pas dire qu'ils interdiront Temu demain. Mais nous sommes dans la phase où la Suisse commence à faire ce qu'elle fait le mieux : réglementer lorsque quelque chose devient incontrôlable. Et normalement, lorsque le Parlement suisse commence à examiner quelque chose de près, c'est parce que le sujet est déjà suffisamment développé pour ne pas l'ignorer.</p>
+<p>Moralité : les prix très bas ont toujours un coût. Parfois, l'acheteur ne paie pas... mais quelqu'un le paie.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-04-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo": {
+        title: "Cueillette de fraises à Genève : un joli plan... en attendant de voir le prix au kilo",
+        description: "Chaque printemps, la même vidéo apparaît : des champs verts, des fraises parfaites, des enfants heureux et le sentiment d'être dans une publicité de yaourt. Et oui, ça existe. Mais comme partout en Suisse,…",
+        keywords: "choisir, des fraises, gin, plan, sympa, en haut, prix, kilo",
+        keywordsLocalized: true,
+        category: "Vivre en Suisse",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-4-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo",
+        readingTime: 1,
+        dateUpdated: "4 mai 2026",
+        summary: "Chaque printemps, la même vidéo apparaît : des champs verts, des fraises parfaites, des enfants heureux et le sentiment d'être dans une publicité de yaourt. Et oui, ça existe. Mais...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>Chaque printemps, la même vidéo apparaît : des champs verts, des fraises parfaites, des enfants heureux et le sentiment d'être dans une publicité de yaourt. Et oui, ça existe. Mais comme partout en Suisse, c'est une bonne idée de comprendre comment ça marche avant de se lancer.</p>
+<p>Vous n'allez pas " cueillir des fraises gratuites dans les champs " ici. C'est le système d'auto-récolte. Vous partez, vous récupérez vous-même... et vous payez à votre départ en fonction du poids. La grâce est dans l'expérience, pas dans les économies. En fait, un kilo coûte souvent le même prix, voire plus cher, qu'au supermarché, surtout si vous avez hâte de remplir des cartons.</p>
+<p>Dans la région de Genève vous disposez de plusieurs lieux connus : - La Fraisière à Meyrin - La Flânerie à Troinex</p>
+<p>Leur fonctionnement est similaire : vous entrez, prenez un conteneur, récupérez et passez à la caisse. Simple. Bien entendu, soyez attentif aux horaires et à la saison. S'il a plu ou si plusieurs jours de récolte se sont écoulés, vous trouverez peut-être plus de feuilles que de fraises.</p>
+<p>Conseil pratique : apportez de l'argent liquide ou vérifiez comment vous payez, contrôlez le poids (ces cartons se remplissent vite) et ne partez pas avec l'idée que vous allez économiser. Vous suivez le plan, pour le moment et parce que les fraises fraîchement cueillies ont un goût différent.</p>
+<p>Et autre détail très suisse : respecter les règles. Pas de consommation de fraises " test " lors de la cueillette. Oui, nous le pensons tous... mais ici, vous payez aussi pour cela.</p>
+<p>Plan recommandé, surtout avec des enfants ou pour une matinée différente. Mais ce n'est pas une bonne affaire, c'est une expérience. Et en Suisse, les expériences se font aussi en espèces.</p>
+</div>`
+    },
+
+    "fb-daily-20260504-05-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca": {
+        title: "Passeport expiré et refus d'embarquement : quand la compagnie aérienne se trompe",
+        description: "En octobre 2018, à Lyon, la compagnie EasyJet avait refusé l'embarquement à une mineure sur un vol à destination de Naples car son passeport était expiré depuis 18 jours. La famille s'est retrouvée…",
+        keywords: "passeport, expiré, refus, embarquement, compagnie aérienne, faux, octobre 2018",
+        keywordsLocalized: true,
+        category: "Demarches & permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-04-5-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca",
+        readingTime: 1,
+        dateUpdated: "4 mai 2026",
+        summary: "En octobre 2018, à Lyon, la compagnie EasyJet refuse l'embarquement à une mineure sur un vol à destination de Naples car son passeport était expiré depuis 18 jours...",
+        relatedSlugs: [],
+        content: `<div class=\"article-content\">
+<p>En octobre 2018, à Lyon, la compagnie EasyJet avait refusé l'embarquement à une mineure sur un vol à destination de Naples car son passeport était expiré depuis 18 jours. La famille a fini par voyager en bus et a raté une nuit d'hôtel. Des années plus tard, le Tribunal Judiciaire de Lyon leur donne raison (arrêt du 26 février 2026) : 871,70 € pour préjudice matériel et 2 000 € pour préjudice moral. Traduit : tout ce que dit le comptoir d'embarquement n'est pas une loi.</p>
+<p>La clé juridique ne se trouve pas dans la réglementation européenne classique, mais dans l'Accord européen sur la circulation des personnes de 1957. Cet accord, toujours en vigueur, permet aux citoyens espagnols de voyager vers certains pays avec un passeport expiré depuis moins de cinq ans, à condition qu'il s'agisse de courts séjours (maximum 90 jours) et sans activité professionnelle. La Cour de cassation elle-même l'avait déjà confirmé en 2020, également contre EasyJet. Ce n'est pas nouveau, mais il semble que certains compteurs n'aient pas encore fait leur chemin.</p>
+<p>Où est-ce que cela s'applique ? Dans les pays signataires de l'accord : Allemagne, France, Italie, Espagne, Portugal, Belgique, Pays-Bas, Luxembourg, Autriche, Grèce, Hongrie, Slovénie, Malte, Chypre, Turquie et Suisse, entre autres. Autrement dit, ce n'est pas quelque chose de marginal.</p>
+<p>Si vous êtes espagnol et qu'on vous refuse l'embarquement dans ces conditions, il existe une base légale pour vous plaindre. Une autre chose est de savoir ce dont vous avez envie de discuter à la porte d'embarquement à 6 heures du matin avec quelqu'un qui ne suit qu'une procédure interne. Avoir raison, c'est bien. Qu'ils vous laissent monter dans l'avion, mieux c'est.</p>
+</div>`
     }
 });
