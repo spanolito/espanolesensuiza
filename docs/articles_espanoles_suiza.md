@@ -1,8 +1,8 @@
 # Articles publies - Espanoles que realmente se ayudan en Suiza
 
-Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications scrapees jusqu'au 3 mai 2026.
+Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications scrapees jusqu'au 5 mai 2026.
 
-**Total : 651 publications**
+**Total : 669 publications**
 
 ---
 
@@ -1779,6 +1779,7 @@ Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications 
 **591.** Las subvenciones a las primas del seguro médico: un dinero al que muchos tienen derecho y no piden  
 *avr 18, 2026*
 
+
 **592.** La regla de los 90 días en Suiza: lo que confunde a muchos españoles  
 *avr 19, 2026*
 
@@ -1787,6 +1788,7 @@ Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications 
 
 **594.** Suiza no tiene salario mínimo nacional, pero eso no significa que no haya suelo salarial  
 *avr 19, 2026*
+
 **595.** La campaña de la renta española 2025 afecta a más residentes en Suiza de lo que crees  
 *avr 20, 2026*
 
@@ -1931,29 +1933,83 @@ Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications 
 **642.** En Suiza se paga impuesto sobre el patrimonio, no solo sobre la renta. Y mucha gente lo descubre demasiado tarde  
 *mai 1, 2026*
 
-**643.** Tu titulo universitario espanol no vale automaticamente en Suiza  
+**643.** Tu titulo universitario espanol no vale automaticamente en Suiza
 *mai 1, 2026*
 
-**644.** Las bolsas de basura en Suiza no son un detalle menor, y no funcionan igual en todos los cantones  
+**644.** Las bolsas de basura en Suiza no son un detalle menor, y no funcionan igual en todos los cantones
 *mai 1, 2026*
 
-**645.** Perder el trabajo en Suiza con permiso B no significa perder el permiso, pero las condiciones importan mucho  
+**645.** Perder el trabajo en Suiza con permiso B no significa perder el permiso, pero las condiciones importan mucho
 *mai 1, 2026*
 
-**646.** El seguro de accidentes en Suiza no cubre todo lo que te pasa en el trabajo  
+**646.** El seguro de accidentes en Suiza no cubre todo lo que te pasa en el trabajo
 *mai 2, 2026*
 
-**647.** Tener un perro en Suiza cuesta mas de lo que parece  
+**647.** Tener un perro en Suiza cuesta mas de lo que parece
 *mai 2, 2026*
 
-**648.** Trabajar a tiempo parcial en Suiza no es solo cobrar la mitad  
+**648.** Trabajar a tiempo parcial en Suiza no es solo cobrar la mitad
 *mai 2, 2026*
 
-**649.** Cambiar de cantón en Suiza no es solo cambiar de dirección  
+**649.** Cambiar de cantón en Suiza no es solo cambiar de dirección
 *mai 3, 2026*
 
-**650.** Si te pones enfermo en Suiza, esto es lo que debes hacer y lo que te cubre  
+**650.** Si te pones enfermo en Suiza, esto es lo que debes hacer y lo que te cubre
 *mai 3, 2026*
 
-**651.** El dentista en Suiza no lo cubre el seguro básico, y muchos lo descubren de la peor manera  
+**651.** El dentista en Suiza no lo cubre el seguro básico, y muchos lo descubren de la peor manera
 *mai 3, 2026*
+
+**652.** El registro de poursuites: el documento que puede bloquearte en Suiza sin que lo sepas
+*mai 4, 2026*
+
+**653.** Baja de maternidad y paternidad en Suiza: lo que cobra cada uno y cuándo
+*mai 4, 2026*
+
+**654.** Los extranjeros no pueden votar en Suiza: verdad a medias, y la parte que importa
+*mai 4, 2026*
+
+**655.** Los trajes tradicionales suizos: ni disfraz, ni folklore barato
+*avr 30, 2026*
+
+**656.** Delinquir en Suiza hasta que se acaba la paciencia
+*mai 1, 2026*
+
+**657.** En Suiza la puntualidad es clave, si. Pero otra cosa distinta es regalar tiempo.
+*mai 1, 2026*
+
+**658.** Desde Suiza para el mundo
+*mai 1, 2026*
+
+**659.** Si manana desaparecieran los inmigrantes en Suiza... y en el resto de Europa
+*mai 2, 2026*
+
+**660.** Beber en la calle en Suiza: el problema no es la cerveza, es lo que dejas detras
+*mai 2, 2026*
+
+**661.** Reclamacion de salario en Suiza: plazos claros y sin vueltas
+*mai 2, 2026*
+
+**662.** El "SMS Blaster" ya esta en Suiza. Y si, es tan simple como peligroso.
+*mai 3, 2026*
+
+**663.** El queroseno empieza a convertirse en un problema real... y esta vez si tiene consecuencias
+*mai 3, 2026*
+
+**664.** El hidjab en el mercado laboral suizo: entre la realidad y el insulto gratuito
+*mai 4, 2026*
+
+**665.** Se viniste con una idea... y la realidad te puso en tu sitio
+*mai 4, 2026*
+
+**666.** Temu en el punto de mira en Suiza... y no es casualidad
+*mai 4, 2026*
+
+**667.** Recolectar fresas en Ginebra: plan bonito... hasta que ves el precio por kilo
+*mai 4, 2026*
+
+**668.** Pasaporte caducado y denegacion de embarque: cuando la aerolinea se equivoca
+*mai 4, 2026*
+
+**669.** PFAS en productos cotidianos en Suiza: el problema que nadie ve
+*mai 5, 2026*
