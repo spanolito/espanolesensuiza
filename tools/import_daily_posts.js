@@ -182,7 +182,14 @@ const STOP_WORDS = new Set([
 const translationCache = new Map();
 const TITLE_HUB_OVERRIDES = new Map([
   ["trabajar a tiempo parcial en suiza no es solo cobrar menos", "trabajo"],
-  ["se viniste con una idea... y la realidad te puso en tu sitio.", "vivir-en-suiza"],
+  ["si te pones enfermo en suiza, esto es lo que debes hacer y lo que te cubre", "salud"],
+  ["el dentista en suiza no lo cubre el seguro basico, y muchos lo descubren de la peor manera", "salud"],
+  ["el seguro de accidentes en suiza no cubre todo lo que te pasa en el trabajo", "salud"],
+  ["tener un perro en suiza cuesta mas de lo que parece", "vivir-en-suiza"],
+  ["delinquir en suiza hasta que se acaba la paciencia", "tramites"],
+  ["desde suiza para el mundo", "cultura-eventos"],
+  ["el queroseno empieza a convertirse en un problema real... y esta vez si tiene consecuencias", ""],
+  ["se viniste con una idea... y la realidad te puso en tu sitio.", ""],
 ]);
 
 function parseArgs(argv) {
