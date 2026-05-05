@@ -125,10 +125,10 @@ const HUB_RULES = {
   },
   impuestos: {
     title: [
-      "impuesto", "impuestos", "fuente", "quellensteuer", "fiscal", "tributacion", "declaracion",
+      "impuesto", "impuestos", "bancario", "fuente", "quellensteuer", "fiscal", "tributacion", "declaracion",
     ],
     body: [
-      "impuesto", "impuestos", "quellensteuer", "fuente", "declaracion", "deduccion", "deducciones",
+      "impuesto", "impuestos", "bancario", "3a", "aeat", "quellensteuer", "fuente", "declaracion", "deduccion", "deducciones",
       "fiscal", "tributacion", "iva", "declaracion ordinaria", "retencion", "canton de residencia",
     ],
   },
@@ -464,7 +464,7 @@ function loadBundleArticles(lang) {
   const source = fs.readFileSync(bundlePath, "utf8");
   const context = {
     window: {},
-    console: { log() {}, warn() {}, error() {} },
+    console: { log() { }, warn() { }, error() { } },
   };
   vm.createContext(context);
   vm.runInContext(source, context, { filename: bundlePath });
