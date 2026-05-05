@@ -1550,5 +1550,117 @@ Object.assign(window.siteContent.fr.articles, {
 <p>... Voir plus</p>
 <p>www.espanolesensuiza.ch</p>
 </div>`
+    },
+
+    "fb-daily-20260504-01-a-la-suite-dune-publication-je-reviens-sur-un-sujet-delicat-le-hijab": {
+        title: "À la suite d'une publication, je reviens sur un sujet délicat… Le hijab",
+        description: "Une publication dans notre groupe WhatsApp m'a mis la puce à l'oreille. C'est une chose d'avertir quelqu'un en toute honnêteté que, dans de nombreux secteurs,…",
+        keywords: "suite, publication, reviens, sujet, délicat, hijab, notre, groupe",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-04-1-a-la-suite-dune-publication-je-reviens-sur-un-sujet-delicat-le-hijab",
+        readingTime: 1,
+        dateUpdated: "4 mai 2026",
+        summary: "Une publication dans notre groupe WhatsApp m'a mis la puce à l'oreille. C'est une chose d'avertir quelqu'un en toute honnêteté que, dans de nombreux…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Une publication dans notre groupe WhatsApp m'a mis la puce à l'oreille. C'est une chose d'avertir quelqu'un en toute honnêteté que, dans de nombreux secteurs, il risque de se heurter à davantage d'obstacles. C'est un fait. Le nier reviendrait à lui faire miroiter un monde de chimères. En Suisse, les employeurs sont bien plus réticents qu'ailleurs en Europe à accepter le port de symboles religieux visibles, surtout pour les postes en contact avec le public. Ce n'est pas réjouissant, mais c'est la réalité.</p>
+<p>C'est tout autre chose que de transformer cette réalité en prétexte pour humilier, insulter ou rabaisser quelqu'un. Une jeune femme demande si elle a des chances de trouver du travail, et au lieu de parler de CV, de langues, d'expérience, de permis ou des secteurs où elle pourrait s'intégrer, certains sortent tout leur répertoire de préjugés. Quelle surprise : ensuite, ils se plaignent que « les gens ne veulent pas travailler ».</p>
+<p>On peut dire : « Ce sera plus difficile pour toi ». On peut dire : « Dans les domaines du nettoyage, de la production, de la logistique ou pour des postes en interne, tu auras peut-être quelques opportunités ». On peut conseiller d'adapter son CV, d'améliorer son niveau de français, de cibler les grandes entreprises ou des structures plus diversifiées.</p>
+<p>Ce qu’il ne faut surtout pas, c’est tenir des propos racistes, se moquer des autres ou donner des leçons d’intégration dignes d’un bar d’autoroute.</p>
+<p>Aider, c'est aussi dire la vérité. Mais la vérité n'a pas besoin d'être enrobée de mépris.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-02-tu-es-arrive-avec-une-idee-et-la-realite-ta-remis-a-ta-place": {
+        title: "Tu es arrivé avec une idée… et la réalité t'a remis à ta place.",
+        description: "Bon, je vais poser la question, parce que ça revient chaque semaine en privé : quelle « rumeur » as-tu crue avant d'arriver en Suisse ?",
+        keywords: "arrivé, idée, réalité, remis, place, vais, poser, question",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-04-2-tu-es-arrive-avec-une-idee-et-la-realite-ta-remis-a-ta-place",
+        readingTime: 1,
+        dateUpdated: "4 mai 2026",
+        summary: "Bon, je vais poser la question, parce que ça revient chaque semaine en privé : quelle « rumeur » as-tu crue avant d'arriver en Suisse ?",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Bon, je vais poser la question, parce que ça revient chaque semaine en privé : quelle « rumeur » as-tu crue avant d'arriver en Suisse ?</p>
+<p>Celle qui dit « ici, tout fonctionne à merveille », celle qui dit « n'importe quel boulot te permet de bien vivre », celle qui dit « tu arrives forcément à mettre de l'argent de côté »… ou encore le grand classique : « dans deux mois, je serai intégré ».</p>
+<p>Attention, spoiler : pas toujours.</p>
+<p>Je pense qu'il y a pas mal de fantasmes qui reviennent sans cesse, puis vient la réalité : assurances, loyers, langue, marché du travail… et ça te fait redescendre sur terre assez vite.</p>
+<p>Raconte-moi la tienne !! Je suis sûr que plus d'un se reconnaîtra dans ces commentaires.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-03-temu-sous-les-feux-de-la-rampe-en-suisse-et-ce-nest-pas-un-hasard": {
+        title: "Temu sous les feux de la rampe en Suisse… et ce n'est pas un hasard",
+        description: "Depuis des mois, Temu fait un tabac en Europe avec des prix qui, soyons clairs, ne correspondent à aucune logique de marché normale. Et en Suisse, cela…",
+        keywords: "temu, sous, feux, rampe, suisse, hasard, depuis, mois",
+        keywordsLocalized: true,
+        category: "Impôts",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-04-3-temu-sous-les-feux-de-la-rampe-en-suisse-et-ce-nest-pas-un-hasard",
+        readingTime: 2,
+        dateUpdated: "4 mai 2026",
+        summary: "Depuis des mois, Temu fait un tabac en Europe avec des prix qui, soyons clairs, ne correspondent à aucune logique de marché normale. Et en Suisse,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Depuis des mois, Temu fait un tabac en Europe avec des prix qui, soyons clairs, ne correspondent à aucune logique de marché normale. Et en Suisse, cela commence déjà à faire des vagues au niveau politique.</p>
+<p>Le Parlement suisse soulève plusieurs questions assez graves. D'une part, la transparence des prix et des pratiques commerciales : remises constantes, sentiment d'urgence artificiel du type « il ne reste plus que 3 articles », et une stratégie très agressive visant à stimuler la consommation. Rien de nouveau pour ceux qui ont déjà ouvert l'application, mais lorsqu'il s'agit de protection des consommateurs, cela dépasse le simple stade de la nuisance.</p>
+<p>D'un autre côté, il y a la question la plus délicate : les conditions de production et la concurrence déloyale. Les entreprises suisses et européennes dénoncent depuis longtemps le fait que des plateformes comme Temu peuvent vendre à des prix impossibles, car elles opèrent selon des normes qui ne passeraient aucun contrôle ici. En clair : si tu joues selon des règles différentes, tu ne rivalises pas, tu écrases la concurrence.</p>
+<p>Et puis, il y a le grand classique suisse : la fiscalité et les contrôles. Bon nombre de ces produits sont expédiés dans de petits colis, dont le contenu est souvent inférieur à certains seuils, ce qui complique les contrôles douaniers et la perception de la TVA. Résultat : un avantage concurrentiel par rapport aux commerces locaux qui respectent scrupuleusement toutes les règles.</p>
+<p>Cela ne veut pas dire que Temu sera interdit dès demain. Mais cela signifie que nous en sommes à un stade où la Suisse commence à faire ce qu’elle sait faire de mieux : réglementer lorsqu’une situation lui échappe. Et généralement, lorsque le Parlement suisse se penche de près sur une question, c’est parce que celle-ci a pris suffisamment d’ampleur pour qu’on ne puisse plus l’ignorer.</p>
+<p>Morale de l'histoire : les prix très bas ont toujours un coût. Ce n'est pas toujours l'acheteur qui le paie... mais quelqu'un finit toujours par le payer.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-04-cueillir-des-fraises-a-geneve-une-idee-sympa-jusqua-ce-quon-voie-le-pr": {
+        title: "Cueillir des fraises à Genève : une idée sympa… jusqu’à ce qu’on voie le prix au kilo",
+        description: "Chaque printemps, on voit la même vidéo : des champs verdoyants, des fraises parfaites, des enfants heureux et l'impression d'être dans une pub pour des…",
+        keywords: "cueillir, fraises, genève, idée, sympa, jusqu, voie, prix",
+        keywordsLocalized: true,
+        category: "Vivre en Suisse",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-4-cueillir-des-fraises-a-geneve-une-idee-sympa-jusqua-ce-quon-voie-le-pr",
+        readingTime: 2,
+        dateUpdated: "4 mai 2026",
+        summary: "Chaque printemps, on voit la même vidéo : des champs verdoyants, des fraises parfaites, des enfants heureux et l'impression d'être dans une pub pour…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Chaque printemps, on voit la même vidéo : des champs verdoyants, des fraises parfaites, des enfants heureux et l'impression d'être dans une pub pour des yaourts. Et oui, ça existe. Mais comme pour tout en Suisse, il vaut mieux bien comprendre comment ça marche avant de se lancer.</p>
+<p>Ici, tu ne vas pas « cueillir des fraises gratuitement dans les champs ». C'est un système de cueillette libre. Tu y vas, tu cueilles toi-même… et tu paies à la sortie en fonction du poids. Tout l'intérêt réside dans l'expérience, pas dans les économies. En fait, souvent, le kilo revient aussi cher, voire plus cher qu'au supermarché, surtout si tu te laisses emporter en remplissant les caisses.</p>
+<p>Dans la région de Genève, il y a plusieurs adresses réputées : - La Fraisière à Meyrin - La Flânerie à Troinex</p>
+<p>Le principe est le même : tu entres, tu prends un panier, tu cueilles et tu passes à la caisse. C'est simple. Mais attention aux horaires et à la saison. S'il a plu ou si la cueillette a déjà commencé depuis plusieurs jours, tu risques de trouver plus de feuilles que de fraises.</p>
+<p>Conseil pratique : emporte de l'argent liquide ou vérifie les modes de paiement, surveille le poids (ces caisses se remplissent vite) et ne pars pas en pensant que tu vas faire des économies. Tu y vas pour le plaisir, pour l'instant présent et parce que les fraises fraîchement cueillies ont vraiment un goût différent.</p>
+<p>Et encore un détail très suisse : on respecte les règles. Pas question de manger des fraises « à l'essai » pendant la cueillette. Bien sûr, on y pense tous… mais ici, ça se paie aussi.</p>
+<p>Une sortie à recommander, surtout avec des enfants ou pour passer une matinée originale. Mais ce n'est pas une bonne affaire, c'est une expérience. Et en Suisse, les expériences ont aussi un prix.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-05-passeport-perime-et-refus-dembarquement-quand-la-compagnie-aerienne-se": {
+        title: "Passeport périmé et refus d'embarquement : quand la compagnie aérienne se trompe",
+        description: "En octobre 2018, à Lyon, la compagnie EasyJet a refusé l'embarquement à une mineure sur un vol à destination de Naples au motif que son passeport était périmé…",
+        keywords: "passeport, périmé, refus, embarquement, quand, compagnie, aérienne, trompe",
+        keywordsLocalized: true,
+        category: "Vivre en Suisse",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-5-passeport-perime-et-refus-dembarquement-quand-la-compagnie-aerienne-se",
+        readingTime: 2,
+        dateUpdated: "4 mai 2026",
+        summary: "En octobre 2018, à Lyon, la compagnie EasyJet a refusé l'embarquement à une mineure sur un vol à destination de Naples au motif que son passeport…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En octobre 2018, à Lyon, la compagnie EasyJet a refusé l'embarquement à une mineure sur un vol à destination de Naples au motif que son passeport était périmé depuis 18 jours. La famille a finalement dû voyager en bus et a perdu une nuit d'hôtel. Des années plus tard, le tribunal de grande instance de Lyon leur a donné raison (jugement du 26 février 2026) : 871,70 € pour le préjudice matériel et 2 000 € pour le préjudice moral. En résumé : tout ce que dit le comptoir d'embarquement n'a pas forcément force de loi.</p>
+<p>La clé juridique ne réside pas dans la réglementation européenne classique, mais dans l'Accord européen sur la libre circulation des personnes de 1957. Cet accord, qui est toujours en vigueur, permet aux citoyens espagnols de se rendre dans certains pays avec un passeport périmé depuis moins de cinq ans, à condition qu'il s'agisse de séjours de courte durée (90 jours maximum) et sans activité professionnelle. La Cour de cassation elle-même l’avait déjà confirmé en 2020, également à l’encontre d’EasyJet. Ce n’est pas nouveau, mais il semble que certains guichets ne soient pas encore au courant.</p>
+<p>Où cela s'applique-t-il ? Dans les pays signataires de l'accord : l'Allemagne, la France, l'Italie, l'Espagne, le Portugal, la Belgique, les Pays-Bas, le Luxembourg, l'Autriche, la Grèce, la Hongrie, la Slovénie, Malte, Chypre, la Turquie et la Suisse, entre autres. En d'autres termes, il ne s'agit pas d'un phénomène marginal.</p>
+<p>Si vous êtes espagnol et qu’on vous refuse l’embarquement dans ces conditions, vous disposez d’un fondement juridique pour porter plainte. C’est une autre histoire si vous avez envie de vous disputer à la porte d’embarquement à 6 heures du matin avec quelqu’un qui ne fait que suivre une procédure interne. Avoir raison, c’est bien. Qu’on vous laisse monter dans l’avion, c’est mieux.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
     }
 });

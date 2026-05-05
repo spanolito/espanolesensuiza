@@ -1550,5 +1550,117 @@ Object.assign(window.siteContent.de.articles, {
 <p>... Mehr anzeigen</p>
 <p>www.espanolesensuiza.ch</p>
 </div>`
+    },
+
+    "fb-daily-20260504-01-aufgrund-eines-beitrags-komme-ich-noch-einmal-auf-ein-heikles-thema-zu": {
+        title: "Aufgrund eines Beitrags komme ich noch einmal auf ein heikles Thema zurück... Der Hidschab",
+        description: "Ein Beitrag in unserer WhatsApp-Gruppe hat bei mir alle Alarmglocken läuten lassen. Es ist eine Sache, jemanden ehrlich darauf hinzuweisen, dass er in vielen…",
+        keywords: "aufgrund, eines, beitrags, komme, noch, einmal, heikles, thema",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-04-1-aufgrund-eines-beitrags-komme-ich-noch-einmal-auf-ein-heikles-thema-zu",
+        readingTime: 1,
+        dateUpdated: "4 Mai 2026",
+        summary: "Ein Beitrag in unserer WhatsApp-Gruppe hat bei mir alle Alarmglocken läuten lassen. Es ist eine Sache, jemanden ehrlich darauf hinzuweisen, dass er…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Ein Beitrag in unserer WhatsApp-Gruppe hat bei mir alle Alarmglocken läuten lassen. Es ist eine Sache, jemanden ehrlich darauf hinzuweisen, dass er in vielen Branchen auf mehr Hindernisse stoßen kann. Das ist nun mal so. Das zu leugnen, hieße, ihm etwas vorzumachen. In der Schweiz gibt es deutlich mehr Arbeitgeber als in anderen europäischen Ländern, die sichtbaren religiösen Symbolen gegenüber zurückhaltender sind, vor allem in Positionen mit Kundenkontakt. Das ist nicht schön, aber es ist die Realität.</p>
+<p>Es ist jedoch etwas ganz anderes, diese Realität als Freibrief zu nutzen, um jemanden zu demütigen, zu beleidigen oder auf ein Taschentuch zu reduzieren. Ein Mädchen fragt, ob sie Chancen auf einen Job hat, und anstatt über Lebenslauf, Sprachkenntnisse, Erfahrung, Arbeitserlaubnis oder Branchen zu sprechen, in denen sie passen könnte, ziehen manche den ganzen Katalog an Vorurteilen hervor. Was für eine Überraschung – und dann beschweren sie sich, dass „die Leute nicht arbeiten wollen“.</p>
+<p>Man könnte sagen: „Das wird schwieriger für dich.“ Man könnte sagen: „In den Bereichen Reinigung, Produktion, Logistik oder in internen Positionen hast du vielleicht einige Möglichkeiten.“ Man könnte raten, den Lebenslauf anzupassen, die Französischkenntnisse zu verbessern und sich auf große Unternehmen oder vielfältigere Strukturen zu konzentrieren.</p>
+<p>Was man sich sparen kann, sind rassistische Bemerkungen, Spott oder Integrationstipps wie aus einer Autobahnraststätte.</p>
+<p>Helfen bedeutet auch, die Wahrheit zu sagen. Aber die Wahrheit muss nicht unbedingt mit Verachtung einhergehen.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-02-du-hattest-eine-idee-und-die-realitat-hat-dich-auf-den-boden-der-tatsa": {
+        title: "Du hattest eine Idee … und die Realität hat dich auf den Boden der Tatsachen zurückgeholt.",
+        description: "Also gut, ich stelle die Frage mal hier, weil sie jede Woche privat auftaucht: Welchem „Gerücht“ hast du geglaubt, bevor du in die Schweiz gekommen bist?",
+        keywords: "hattest, idee, realität, dich, boden, tatsachen, zurückgeholt, also",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-04-2-du-hattest-eine-idee-und-die-realitat-hat-dich-auf-den-boden-der-tatsa",
+        readingTime: 1,
+        dateUpdated: "4 Mai 2026",
+        summary: "Also gut, ich stelle die Frage mal hier, weil sie jede Woche privat auftaucht: Welchem „Gerücht“ hast du geglaubt, bevor du in die Schweiz gekommen…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Also gut, ich stelle die Frage mal hier, weil sie jede Woche privat auftaucht: Welchem „Gerücht“ hast du geglaubt, bevor du in die Schweiz gekommen bist?</p>
+<p>Die Behauptung, dass „hier alles perfekt läuft“, die, dass „man mit jedem Job gut leben kann“, die, dass „man auf jeden Fall Geld spart“ … oder der Klassiker: „In zwei Monaten habe ich mich integriert.“</p>
+<p>Spoiler: Nicht immer.</p>
+<p>Ich glaube, es gibt einige Fantasien, die immer wieder auftauchen, und dann kommt die Realität: Versicherungen, Mieten, Sprache, Arbeitsmarkt … und schon ist der Traum ziemlich schnell ausgeträumt.</p>
+<p>Erzähl mir deine Geschichte!! Sicherlich findet sich der eine oder andere in den Kommentaren wieder.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-03-temu-steht-in-der-schweiz-im-rampenlicht-und-das-ist-kein-zufall": {
+        title: "Temu steht in der Schweiz im Rampenlicht … und das ist kein Zufall",
+        description: "Temu sorgt seit Monaten in Europa für Furore – mit Preisen, die, um es ganz klar zu sagen, keiner normalen Marktlogik entsprechen. Und in der Schweiz sorgt das…",
+        keywords: "temu, steht, schweiz, rampenlicht, kein, zufall, sorgt, seit",
+        keywordsLocalized: true,
+        category: "Steuern",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-04-3-temu-steht-in-der-schweiz-im-rampenlicht-und-das-ist-kein-zufall",
+        readingTime: 1,
+        dateUpdated: "4 Mai 2026",
+        summary: "Temu sorgt seit Monaten in Europa für Furore – mit Preisen, die, um es ganz klar zu sagen, keiner normalen Marktlogik entsprechen. Und in der Schweiz…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Temu sorgt seit Monaten in Europa für Furore – mit Preisen, die, um es ganz klar zu sagen, keiner normalen Marktlogik entsprechen. Und in der Schweiz sorgt das Unternehmen bereits auf politischer Ebene für Stirnrunzeln.</p>
+<p>Das Schweizer Parlament hinterfragt derzeit einige ziemlich schwerwiegende Punkte. Zum einen geht es um Transparenz bei Preisen und Geschäftspraktiken: ständige Rabatte, künstlich erzeugte Dringlichkeit à la „nur noch 3 Stück verfügbar“ und eine sehr aggressive Strategie, um den Konsum anzukurbeln. Für jeden, der die App schon einmal geöffnet hat, ist das nichts Neues, aber wenn es um Verbraucherschutz geht, ist das mehr als nur ein Ärgernis.</p>
+<p>Auf der anderen Seite gibt es das heiklere Thema: Produktionsbedingungen und unlauterer Wettbewerb. Schweizer und europäische Unternehmen kritisieren seit Langem, dass Plattformen wie Temu zu unhaltbaren Preisen verkaufen können, weil sie nach Standards arbeiten, die hier keine Zulassung finden würden. Einfach ausgedrückt: Wenn man nach anderen Regeln konkurriert, konkurriert man nicht, sondern dominiert den Markt.</p>
+<p>Und dann ist da noch der Schweizer Klassiker: das Steuerwesen und die Kontrolle. Viele dieser Produkte werden in kleinen Paketen verschickt, oft unterhalb bestimmter Schwellenwerte, was die Zollkontrolle und die Erhebung der Mehrwertsteuer erschwert. Das Ergebnis: ein Wettbewerbsvorteil gegenüber lokalen Händlern, die sich buchstabengetreu an alle Vorschriften halten.</p>
+<p>Das bedeutet nicht, dass Temu morgen verboten wird. Aber es bedeutet, dass wir uns in einer Phase befinden, in der die Schweiz das tut, was sie am besten kann: regulieren, wenn ihr etwas aus den Händen gleitet. Und normalerweise ist es so, dass das Schweizer Parlament sich erst dann eingehend mit einer Sache befasst, wenn das Thema bereits so groß geworden ist, dass man es nicht mehr ignorieren kann.</p>
+<p>Die Moral von der Geschichte: Sehr niedrige Preise haben immer ihren Preis. Manchmal zahlt ihn nicht der Käufer … aber irgendjemand zahlt ihn.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-04-erdbeeren-pflucken-in-genf-eine-schone-idee-bis-man-den-preis-pro-kilo": {
+        title: "Erdbeeren pflücken in Genf: eine schöne Idee … bis man den Preis pro Kilo sieht",
+        description: "Jedes Frühjahr taucht dasselbe Video auf: grüne Felder, perfekte Erdbeeren, glückliche Kinder und das Gefühl, man befinde sich in einem Joghurt-Werbespot. Und…",
+        keywords: "erdbeeren, pflücken, genf, schöne, idee, preis, kilo, sieht",
+        keywordsLocalized: true,
+        category: "Leben in der Schweiz",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-4-erdbeeren-pflucken-in-genf-eine-schone-idee-bis-man-den-preis-pro-kilo",
+        readingTime: 1,
+        dateUpdated: "4 Mai 2026",
+        summary: "Jedes Frühjahr taucht dasselbe Video auf: grüne Felder, perfekte Erdbeeren, glückliche Kinder und das Gefühl, man befinde sich in einem…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Jedes Frühjahr taucht dasselbe Video auf: grüne Felder, perfekte Erdbeeren, glückliche Kinder und das Gefühl, man befinde sich in einem Joghurt-Werbespot. Und ja, es gibt das wirklich. Aber wie bei allem in der Schweiz sollte man sich erst einmal genau darüber informieren, wie das Ganze funktioniert, bevor man sich darauf einlässt.</p>
+<p>Hier kann man keine „kostenlosen Erdbeeren vom Feld pflücken“. Es handelt sich um ein Selbstpflücksystem. Man geht hin, pflückt selbst … und bezahlt beim Verlassen des Geländes nach Gewicht. Der Reiz liegt in dem Erlebnis, nicht in der Ersparnis. Tatsächlich ist das Kilo oft genauso teuer oder sogar teurer als im Supermarkt, vor allem, wenn man sich beim Befüllen der Kisten mitreißen lässt.</p>
+<p>In der Gegend um Genf gibt es mehrere bekannte Lokale: - La Fraisière in Meyrin - La Flânerie in Troinex</p>
+<p>Es funktioniert ähnlich: Man geht hinein, nimmt sich einen Behälter, pflückt und geht zur Kasse. Ganz einfach. Aber achte auf die Öffnungszeiten und die Saison. Wenn es geregnet hat oder schon viele Tage seit der letzten Ernte vergangen sind, findest du vielleicht mehr Blätter als Erdbeeren.</p>
+<p>Praktischer Tipp: Nimm Bargeld mit oder informiere dich über die Zahlungsmöglichkeiten, achte auf das Gewicht (die Kisten sind schnell voll) und geh nicht mit der Vorstellung hin, dass du Geld sparen willst. Du gehst hin, weil es dir gerade so passt, und weil frisch gepflückte Erdbeeren einfach anders schmecken.</p>
+<p>Und noch eine typisch schweizerische Kleinigkeit: Halte dich an die Regeln. Keine Erdbeeren „zur Probe“ naschen, während du pflückst. Klar, das denken wir alle … aber auch das muss man hier bezahlen.</p>
+<p>Ein empfehlenswertes Programm, vor allem mit Kindern oder für einen etwas anderen Vormittag. Aber es ist kein Schnäppchen, sondern ein Erlebnis. Und in der Schweiz muss man für Erlebnisse auch tief in die Tasche greifen.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-05-abgelaufener-reisepass-und-verweigerung-des-boardings-wenn-die-flugges": {
+        title: "Abgelaufener Reisepass und Verweigerung des Boardings: Wenn die Fluggesellschaft einen Fehler macht",
+        description: "Im Oktober 2018 verweigerte die Fluggesellschaft EasyJet in Lyon einer Minderjährigen das Einsteigen in einen Flug nach Neapel, da ihr Reisepass seit 18 Tagen…",
+        keywords: "abgelaufener, reisepass, verweigerung, boardings, wenn, fluggesellschaft, einen, fehler",
+        keywordsLocalized: true,
+        category: "Leben in der Schweiz",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-5-abgelaufener-reisepass-und-verweigerung-des-boardings-wenn-die-flugges",
+        readingTime: 1,
+        dateUpdated: "4 Mai 2026",
+        summary: "Im Oktober 2018 verweigerte die Fluggesellschaft EasyJet in Lyon einer Minderjährigen das Einsteigen in einen Flug nach Neapel, da ihr Reisepass seit…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Im Oktober 2018 verweigerte die Fluggesellschaft EasyJet in Lyon einer Minderjährigen das Einsteigen in einen Flug nach Neapel, da ihr Reisepass seit 18 Tagen abgelaufen war. Die Familie reiste schließlich mit dem Bus weiter und verlor eine Übernachtung im Hotel. Jahre später gab das Gericht in Lyon ihnen Recht (Urteil vom 26. Februar 2026): 871,70 € für materiellen Schaden und 2'000 € für immateriellen Schaden. Übersetzt: Nicht alles, was am Check-in-Schalter gesagt wird, ist Gesetz.</p>
+<p>Der rechtliche Schlüssel liegt nicht in den klassischen europäischen Rechtsvorschriften, sondern im Europäischen Abkommen über den Personenverkehr von 1957. Dieses Abkommen, das nach wie vor in Kraft ist, ermöglicht es spanischen Staatsbürgern, mit einem Reisepass, der seit weniger als fünf Jahren abgelaufen ist, in bestimmte Länder zu reisen, sofern es sich um Kurzaufenthalte (maximal 90 Tage) ohne berufliche Tätigkeit handelt. Die Cour de cassation selbst hatte dies bereits 2020 bestätigt, ebenfalls gegen EasyJet. Das ist nichts Neues, aber anscheinend hat sich das an einigen Schaltern noch nicht herumgesprochen.</p>
+<p>Wo gilt das? In den Unterzeichnerstaaten des Abkommens: unter anderem in Deutschland, Frankreich, Italien, Spanien, Portugal, Belgien, den Niederlanden, Luxemburg, Österreich, Griechenland, Ungarn, Slowenien, Malta, Zypern, der Türkei und der Schweiz. Es handelt sich also nicht um eine Randerscheinung.</p>
+<p>Wenn du Spanier bist und dir unter diesen Umständen das Einsteigen verweigert wird, gibt es eine Rechtsgrundlage für eine Beschwerde. Eine andere Sache ist es, was du um 6:00 Uhr morgens am Flugsteig mit jemandem diskutieren möchtest, der lediglich interne Vorschriften befolgt. Recht zu haben ist gut. Dass man dich ins Flugzeug lässt, ist besser.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
     }
 });

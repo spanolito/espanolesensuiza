@@ -1570,5 +1570,117 @@ Object.assign(window.siteContent.en.articles, {
 <p>... See more</p>
 <p>www.espanolesensuiza.ch</p>
 </div>`
+    },
+
+    "fb-daily-20260504-01-following-a-post-im-returning-to-an-uncomfortable-topic-the-hijab": {
+        title: "Following a post, I’m returning to an uncomfortable topic… The hijab",
+        description: "A post in our WhatsApp group set off alarm bells for me. It’s one thing to honestly warn someone that, in many sectors, they may encounter more barriers.…",
+        keywords: "following, post, returning, uncomfortable, topic, hijab, whatsapp, group",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-04-1-following-a-post-im-returning-to-an-uncomfortable-topic-the-hijab",
+        readingTime: 1,
+        dateUpdated: "May 4, 2026",
+        summary: "A post in our WhatsApp group set off alarm bells for me. It’s one thing to honestly warn someone that, in many sectors, they may encounter more…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>A post in our WhatsApp group set off alarm bells for me. It’s one thing to honestly warn someone that, in many sectors, they may encounter more barriers. That’s a reality. To deny it would be to pull the wool over their eyes. In Switzerland, there are quite a few employers who are more reluctant than in other European countries when it comes to visible religious symbols, particularly in customer-facing roles. It’s not nice, but it’s the reality.</p>
+<p>It’s quite another matter entirely to use that reality as a free pass to humiliate, insult or belittle someone. A young woman asks if she has any chance of finding work, and instead of discussing her CV, language skills, experience, visas or sectors where she might fit in, some people pull out the full catalogue of prejudices. What a surprise – then they complain that “people don’t want to work”.</p>
+<p>You could say: "It will be more difficult for you." You could say: "You might have some options in cleaning, production, logistics or internal roles." You could advise them to tailor their CV, improve their French, or target large companies or more diverse organisations.</p>
+<p>What we don’t need is racist remarks, mockery or half-baked lectures on integration from the sort of people you’d find in a motorway service station bar.</p>
+<p>Helping also means telling the truth. But the truth does not need to be wrapped in contempt.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-02-you-came-up-with-an-idea-and-reality-brought-you-back-down-to-earth": {
+        title: "You came up with an idea... and reality brought you back down to earth.",
+        description: "Right then, I’m going to ask the question because this comes up in private chats every week: what ‘hoax’ did you believe before you arrived in Switzerland?",
+        keywords: "came, idea, reality, brought, back, down, earth, right",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-04-2-you-came-up-with-an-idea-and-reality-brought-you-back-down-to-earth",
+        readingTime: 1,
+        dateUpdated: "May 4, 2026",
+        summary: "Right then, I’m going to ask the question because this comes up in private chats every week: what ‘hoax’ did you believe before you arrived in…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Right then, I’m going to ask the question because this comes up in private chats every week: what ‘hoax’ did you believe before you arrived in Switzerland?</p>
+<p>The one about “everything works perfectly here”, the one about “you can live comfortably on any job”, the one about “you’ll definitely save money”… or the classic “I’ll be settled in within two months”.</p>
+<p>Spoiler: not always.</p>
+<p>I think there are a few common fantasies that crop up time and time again, and then reality sets in: insurance, rent, the language, the job market... and it all comes crashing down pretty quickly.</p>
+<p>Tell me your story!! I'm sure more than a few of you will recognise yourselves in the comments.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-03-temu-is-in-the-spotlight-in-switzerland-and-its-no-coincidence": {
+        title: "Temu is in the spotlight in Switzerland... and it’s no coincidence",
+        description: "Temu has been taking Europe by storm for months with prices that, let’s be honest, defy all normal market logic. And in Switzerland, it has already started to…",
+        keywords: "temu, spotlight, switzerland, coincidence, been, taking, europe, storm",
+        keywordsLocalized: true,
+        category: "Taxes",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-04-3-temu-is-in-the-spotlight-in-switzerland-and-its-no-coincidence",
+        readingTime: 2,
+        dateUpdated: "May 4, 2026",
+        summary: "Temu has been taking Europe by storm for months with prices that, let’s be honest, defy all normal market logic. And in Switzerland, it has already…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Temu has been taking Europe by storm for months with prices that, let’s be honest, defy all normal market logic. And in Switzerland, it has already started to raise eyebrows at a political level.</p>
+<p>The Swiss Parliament is raising a number of quite serious concerns. On the one hand, there is the issue of transparency in pricing and commercial practices: constant discounts, artificial urgency of the “only 3 left” variety, and a very aggressive strategy to drive consumption. This is nothing new to anyone who has opened the app, but when it comes to consumer protection, it ceases to be a mere annoyance.</p>
+<p>On the other hand, there is the more sensitive issue: production conditions and unfair competition. Swiss and European companies have long been complaining that platforms such as Temu are able to sell at impossibly low prices because they operate to standards that would never pass muster here. Put simply: if you compete by different rules, you’re not just competing – you’re sweeping the board.</p>
+<p>And then there’s the classic Swiss issue: taxation and regulation. Many of these products arrive in small parcels, often below certain thresholds, which makes customs checks and VAT collection difficult. The result: a competitive advantage over local retailers who do comply with every last detail.</p>
+<p>This doesn’t mean that Temu will be banned tomorrow. But it does mean that we’re at the stage where Switzerland is starting to do what it does best: regulate when things get out of hand. And usually, when the Swiss Parliament starts to look into something closely, it’s because the issue has grown to such an extent that it can no longer be ignored.</p>
+<p>The moral of the story: very low prices always come at a cost. Sometimes it’s not the buyer who pays for it... but someone does.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-04-picking-strawberries-in-geneva-sounds-like-a-lovely-idea-until-you-see": {
+        title: "Picking strawberries in Geneva: sounds like a lovely idea... until you see the price per kilo",
+        description: "Every spring, the same video pops up: green fields, perfect strawberries, happy children, and the feeling that you’re in a yoghurt advert. And yes, it does…",
+        keywords: "picking, strawberries, geneva, sounds, like, lovely, idea, until",
+        keywordsLocalized: true,
+        category: "Living in Switzerland",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-4-picking-strawberries-in-geneva-sounds-like-a-lovely-idea-until-you-see",
+        readingTime: 1,
+        dateUpdated: "May 4, 2026",
+        summary: "Every spring, the same video pops up: green fields, perfect strawberries, happy children, and the feeling that you’re in a yoghurt advert. And yes,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Every spring, the same video pops up: green fields, perfect strawberries, happy children, and the feeling that you’re in a yoghurt advert. And yes, it does exist. But like everything in Switzerland, it’s best to understand exactly how it works before you take the plunge.</p>
+<p>You won’t be “picking strawberries for free” here. It’s a pick-your-own scheme. You go there, pick them yourself… and pay by weight when you leave. The appeal lies in the experience, not in the savings. In fact, it often works out at the same price per kilo as the supermarket, or even more, especially if you get carried away filling up your boxes.</p>
+<p>In the Geneva area, there are several well-known places: - La Fraisière in Meyrin - La Flânerie in Troinex</p>
+<p>They work in a similar way: you go in, grab a container, pick some fruit and head to the till. Simple. Just bear in mind the opening hours and the season. If it’s rained or it’s been a while since the last harvest, you might find more leaves than strawberries.</p>
+<p>Top tip: take cash with you or check how to pay, keep an eye on the weight (those boxes fill up quickly) and don’t go in thinking you’re going to save money. You’re there for the experience, for the moment, and because freshly picked strawberries really do taste different.</p>
+<p>And another very Swiss detail: stick to the rules. No ‘tasting’ strawberries whilst you’re picking them. Sure, we all think about it… but here you have to pay for those too.</p>
+<p>A great idea, especially if you’ve got children or are looking for something a bit different to do in the morning. But it’s not a bargain; it’s an experience. And in Switzerland, experiences come at a price.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-05-expired-passport-and-denied-boarding-when-the-airline-makes-a-mistake": {
+        title: "Expired passport and denied boarding: when the airline makes a mistake",
+        description: "In October 2018, in Lyon, EasyJet refused to allow a minor to board a flight to Naples because her passport had expired 18 days earlier. The family ended up…",
+        keywords: "expired, passport, denied, boarding, when, airline, makes, mistake",
+        keywordsLocalized: true,
+        category: "Living in Switzerland",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-5-expired-passport-and-denied-boarding-when-the-airline-makes-a-mistake",
+        readingTime: 1,
+        dateUpdated: "May 4, 2026",
+        summary: "In October 2018, in Lyon, EasyJet refused to allow a minor to board a flight to Naples because her passport had expired 18 days earlier. The family…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In October 2018, in Lyon, EasyJet refused to allow a minor to board a flight to Naples because her passport had expired 18 days earlier. The family ended up travelling by coach and lost a night’s accommodation. Years later, the Lyon Court of Justice ruled in their favour (judgement of 26 February 2026): €871.70 for material damages and €2,000 for non-pecuniary damages. In short: not everything the check-in desk says is law.</p>
+<p>The legal basis lies not in standard European legislation, but in the 1957 European Agreement on the Free Movement of Persons. This agreement, which remains in force, allows Spanish citizens to travel to certain countries with a passport that has been expired for less than five years, provided that the stay is of short duration (maximum 90 days) and does not involve any professional activity. The Cour de cassation itself had already confirmed this in 2020, also in a case against EasyJet. It is not new, but it seems that some check-in desks have not yet got the message.</p>
+<p>Where does this apply? In the countries that have signed the agreement: Germany, France, Italy, Spain, Portugal, Belgium, the Netherlands, Luxembourg, Austria, Greece, Hungary, Slovenia, Malta, Cyprus, Turkey and Switzerland, amongst others. In other words, it is by no means a marginal issue.</p>
+<p>If you are Spanish and are denied boarding under these circumstances, there is a legal basis for making a claim. Whether you want to argue with someone at the boarding gate at 6:00 am—someone who is simply following internal procedures—is another matter. Being in the right is all well and good. Being allowed to board the plane is even better.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
     }
 });

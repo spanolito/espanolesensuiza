@@ -493,5 +493,117 @@ Object.assign(window.siteContent.it.articles, {
 <p>... Vedi altro</p>
 <p>www.espanolesensuiza.ch</p>
 </div>`
+    },
+
+    "fb-daily-20260504-01-a-seguito-di-un-post-torno-su-un-argomento-delicato-lhijab": {
+        title: "A seguito di un post, torno su un argomento delicato... L'hijab",
+        description: "Un post pubblicato nel nostro gruppo WhatsApp mi ha fatto insospettire. Una cosa è avvertire qualcuno con sincerità che, in molti settori, potrebbe incontrare…",
+        keywords: "seguito, post, torno, argomento, delicato, hijab, pubblicato, nostro",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-05-04-1-a-seguito-di-un-post-torno-su-un-argomento-delicato-lhijab",
+        readingTime: 1,
+        dateUpdated: "4 maggio 2026",
+        summary: "Un post pubblicato nel nostro gruppo WhatsApp mi ha fatto insospettire. Una cosa è avvertire qualcuno con sincerità che, in molti settori, potrebbe…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Un post pubblicato nel nostro gruppo WhatsApp mi ha fatto insospettire. Una cosa è avvertire qualcuno con sincerità che, in molti settori, potrebbe incontrare maggiori ostacoli. È un dato di fatto. Negarlo significherebbe raccontargli delle favole. In Svizzera ci sono molti datori di lavoro più restii rispetto ad altri paesi europei nei confronti dei simboli religiosi visibili, soprattutto nei ruoli a contatto con il pubblico. Non è bello, ma è la realtà.</p>
+<p>Un'altra cosa ben diversa è trasformare questa realtà in un pretesto per umiliare, insultare o ridurre una persona a un semplice fazzoletto. Una ragazza chiede se ha possibilità di trovare lavoro e, invece di parlare di curriculum, lingua, esperienza, permessi o settori in cui potrebbe inserirsi, alcuni tirano fuori l'intero repertorio di pregiudizi. Che sorpresa: poi si lamentano che «la gente non vuole lavorare».</p>
+<p>Si potrebbe dire: «Sarà più difficile per te». Si potrebbe dire: «Nel settore delle pulizie, della produzione, della logistica o in ruoli interni potresti avere qualche possibilità». Si potrebbe consigliare di adattare il curriculum, migliorare il francese, puntare su grandi aziende o strutture più diversificate.</p>
+<p>Quello che non serve è sparare commenti razzisti, prendere in giro gli altri o impartire lezioni di integrazione da bar di autostrada.</p>
+<p>Aiutare significa anche dire la verità. Ma la verità non ha bisogno di essere avvolta nel disprezzo.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-02-ti-sei-presentato-con-unidea-e-la-realta-ti-ha-rimesso-al-tuo-posto": {
+        title: "Ti sei presentato con un'idea... e la realtà ti ha rimesso al tuo posto.",
+        description: "Allora, ti faccio una domanda, visto che me la fanno ogni settimana in privato: a quale \"bufala\" hai creduto prima di arrivare in Svizzera?",
+        keywords: "presentato, idea, realtà, rimesso, posto, allora, faccio, domanda",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-04-2-ti-sei-presentato-con-unidea-e-la-realta-ti-ha-rimesso-al-tuo-posto",
+        readingTime: 1,
+        dateUpdated: "4 maggio 2026",
+        summary: "Allora, ti faccio una domanda, visto che me la fanno ogni settimana in privato: a quale \"bufala\" hai creduto prima di arrivare in Svizzera?",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Allora, ti faccio una domanda, visto che me la fanno ogni settimana in privato: a quale "bufala" hai creduto prima di arrivare in Svizzera?</p>
+<p>Quella secondo cui «qui funziona tutto alla perfezione», quella secondo cui «con qualsiasi lavoro si vive bene», quella secondo cui «si risparmia a tutti i costi»... o la classica «tra due mesi mi sarò integrato».</p>
+<p>Spoiler: non sempre.</p>
+<p>Credo che ci siano alcune fantasie che si ripetono continuamente, e poi arriva la realtà: assicurazioni, affitti, lingua, mercato del lavoro... e ti smonta le illusioni piuttosto in fretta.</p>
+<p>Raccontami la tua storia!! Sono sicuro che più di uno si riconoscerà nei commenti.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-03-temu-sotto-i-riflettori-in-svizzera-e-non-e-un-caso": {
+        title: "Temu sotto i riflettori in Svizzera... e non è un caso",
+        description: "Da mesi Temu sta spopolando in Europa con prezzi che, diciamolo chiaramente, non hanno nulla a che vedere con le normali logiche di mercato. E in Svizzera ha…",
+        keywords: "temu, sotto, riflettori, svizzera, caso, mesi, spopolando, europa",
+        keywordsLocalized: true,
+        category: "Imposte",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-04-3-temu-sotto-i-riflettori-in-svizzera-e-non-e-un-caso",
+        readingTime: 1,
+        dateUpdated: "4 maggio 2026",
+        summary: "Da mesi Temu sta spopolando in Europa con prezzi che, diciamolo chiaramente, non hanno nulla a che vedere con le normali logiche di mercato. E in…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Da mesi Temu sta spopolando in Europa con prezzi che, diciamolo chiaramente, non hanno nulla a che vedere con le normali logiche di mercato. E in Svizzera ha già iniziato a suscitare perplessità a livello politico.</p>
+<p>Il Parlamento svizzero sta sollevando diverse questioni piuttosto serie. Da un lato, la trasparenza dei prezzi e delle pratiche commerciali: sconti continui, urgenza artificiale del tipo «rimangono solo 3 pezzi» e una strategia molto aggressiva volta a stimolare i consumi. Niente di nuovo per chi ha aperto l’app, ma quando si parla di tutela dei consumatori, la questione smette di essere un semplice fastidio.</p>
+<p>D'altra parte, c'è la questione più delicata: le condizioni di produzione e la concorrenza sleale. Le aziende svizzere ed europee denunciano da tempo che piattaforme come Temu riescono a vendere a prezzi impossibili perché operano secondo standard che qui non supererebbero alcun controllo. In parole povere: se si compete con regole diverse, non si compete, si stravince.</p>
+<p>E poi c'è il classico problema svizzero: la fiscalità e i controlli. Molti di questi prodotti vengono spediti in piccoli pacchi, spesso al di sotto di determinate soglie, il che complica i controlli doganali e la riscossione dell'IVA. Risultato: un vantaggio competitivo rispetto ai negozi locali che invece rispettano alla lettera tutte le norme.</p>
+<p>Questo non significa che domani Temu verrà vietato. Significa però che siamo nella fase in cui la Svizzera inizia a fare ciò che sa fare meglio: intervenire con misure normative quando una situazione le sfugge di mano. E di solito, quando il Parlamento svizzero decide di esaminare una questione da vicino, è perché il problema è ormai diventato abbastanza grave da non poter essere ignorato.</p>
+<p>Morale: i prezzi molto bassi hanno sempre un costo. A volte non è chi acquista a pagarlo... ma qualcuno lo paga comunque.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-04-raccogliere-fragole-a-ginevra-unidea-allettante-finche-non-si-vede-il": {
+        title: "Raccogliere fragole a Ginevra: un'idea allettante... finché non si vede il prezzo al chilo",
+        description: "Ogni primavera ricompare lo stesso video: campi verdi, fragole perfette, bambini felici e la sensazione di trovarsi in uno spot pubblicitario di yogurt. E sì,…",
+        keywords: "raccogliere, fragole, ginevra, idea, allettante, finché, vede, prezzo",
+        keywordsLocalized: true,
+        category: "Vivere in Svizzera",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-4-raccogliere-fragole-a-ginevra-unidea-allettante-finche-non-si-vede-il",
+        readingTime: 1,
+        dateUpdated: "4 maggio 2026",
+        summary: "Ogni primavera ricompare lo stesso video: campi verdi, fragole perfette, bambini felici e la sensazione di trovarsi in uno spot pubblicitario di…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Ogni primavera ricompare lo stesso video: campi verdi, fragole perfette, bambini felici e la sensazione di trovarsi in uno spot pubblicitario di yogurt. E sì, esiste davvero. Ma come per ogni cosa in Svizzera, è bene capire bene come funziona prima di buttarsi.</p>
+<p>Qui non si "raccolgono fragole gratis nei campi". È un sistema di raccolta fai-da-te. Ci vai, le raccogli da solo... e paghi all'uscita in base al peso. Il bello sta nell'esperienza, non nel risparmio. Anzi, spesso il chilo costa quanto o più del supermercato, soprattutto se ti lasci prendere la mano e riempi le cassette.</p>
+<p>Nella zona di Ginevra ci sono diversi locali famosi: - La Fraisière a Meyrin - La Flânerie a Troinex</p>
+<p>Il funzionamento è più o meno lo stesso: entri, prendi un contenitore, raccogli e vai alla cassa. Semplice. Attenzione però agli orari e alla stagione. Se ha piovuto o sono già passati molti giorni dall’inizio della raccolta, potresti trovare più foglie che fragole.</p>
+<p>Consiglio pratico: porta con te dei contanti o verifica come si paga, controlla il peso (quelle cassette si riempiono in un attimo) e non andare lì pensando di risparmiare. Ci vai per il programma, per il momento e perché le fragole appena raccolte hanno davvero un sapore diverso.</p>
+<p>E un altro dettaglio tipicamente svizzero: rispetta le regole. Niente "assaggi" di fragole mentre le raccogli. Certo, ci pensiamo tutti... ma qui anche quello si paga.</p>
+<p>Un'idea da non perdere, soprattutto con i bambini o per una mattinata diversa dal solito. Ma non è un affare, è un'esperienza. E in Svizzera, anche le esperienze si pagano.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-05-passaporto-scaduto-e-rifiuto-di-imbarco-quando-la-compagnia-aerea-comm": {
+        title: "Passaporto scaduto e rifiuto di imbarco: quando la compagnia aerea commette un errore",
+        description: "Nell'ottobre 2018, a Lione, la compagnia EasyJet ha negato l'imbarco a una minorenne su un volo diretto a Napoli perché il suo passaporto era scaduto da 18…",
+        keywords: "passaporto, scaduto, rifiuto, imbarco, quando, compagnia, aerea, commette",
+        keywordsLocalized: true,
+        category: "Vivere in Svizzera",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-5-passaporto-scaduto-e-rifiuto-di-imbarco-quando-la-compagnia-aerea-comm",
+        readingTime: 1,
+        dateUpdated: "4 maggio 2026",
+        summary: "Nell'ottobre 2018, a Lione, la compagnia EasyJet ha negato l'imbarco a una minorenne su un volo diretto a Napoli perché il suo passaporto era scaduto…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Nell'ottobre 2018, a Lione, la compagnia EasyJet ha negato l'imbarco a una minorenne su un volo diretto a Napoli perché il suo passaporto era scaduto da 18 giorni. La famiglia ha finito per viaggiare in autobus e ha perso una notte in hotel. Anni dopo, il Tribunale di Lione ha dato loro ragione (sentenza del 26 febbraio 2026): 871,70 € per danni materiali e 2.000 € per danni morali. In altre parole: non tutto ciò che dice il banco del check-in è legge.</p>
+<p>Il punto chiave dal punto di vista giuridico non risiede nella normativa europea tradizionale, bensì nell’Accordo europeo sulla circolazione delle persone del 1957. Tale accordo, tuttora in vigore, consente ai cittadini spagnoli di recarsi in determinati paesi con un passaporto scaduto da meno di cinque anni, a condizione che si tratti di soggiorni di breve durata (massimo 90 giorni) e senza attività lavorativa. La stessa Cour de cassation lo aveva già confermato nel 2020, sempre contro EasyJet. Non è una novità, ma sembra che ad alcuni sportelli non sia ancora giunta voce.</p>
+<p>Dove si applica questa norma? Nei paesi firmatari dell'accordo: Germania, Francia, Italia, Spagna, Portogallo, Belgio, Paesi Bassi, Lussemburgo, Austria, Grecia, Ungheria, Slovenia, Malta, Cipro, Turchia e Svizzera, tra gli altri. Insomma, non si tratta di una questione marginale.</p>
+<p>Se sei spagnolo e ti viene negato l'imbarco in queste circostanze, hai una base giuridica per presentare un reclamo. Un'altra cosa è decidere di discutere alle 6:00 del mattino al gate d'imbarco con qualcuno che sta semplicemente seguendo una procedura interna. Avere ragione va bene. Che ti lascino salire sull'aereo, meglio ancora.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
     }
 });

@@ -1610,5 +1610,50 @@ Object.assign(window.siteContent.es.articles, {
 <p>... Voir plus</p>
 <p>www.espanolesensuiza.ch</p>
 </div>`
+    },
+
+    "fb-daily-20260504-04-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-k": {
+        title: "Recolectar fresas en Ginebra: plan bonito... hasta que ves el precio por kilo",
+        description: "Cada primavera aparece el mismo vídeo: campos verdes, fresas perfectas, niños felices y la sensación de que estás en un anuncio de yogures. Y sí, existe. Pero…",
+        keywords: "recolectar, fresas, ginebra, plan, bonito, hasta, precio, kilo",
+        keywordsLocalized: true,
+        category: "Vivir en Suiza",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-4-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-k",
+        readingTime: 1,
+        dateUpdated: "4 mayo 2026",
+        summary: "Cada primavera aparece el mismo vídeo: campos verdes, fresas perfectas, niños felices y la sensación de que estás en un anuncio de yogures. Y sí,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Cada primavera aparece el mismo vídeo: campos verdes, fresas perfectas, niños felices y la sensación de que estás en un anuncio de yogures. Y sí, existe. Pero como todo en Suiza, conviene entender bien cómo funciona antes de lanzarse.</p>
+<p>Aquí no vas a "coger fresas gratis del campo". Es el sistema de autocosecha. Vas, recoges tú mismo... y pagas al salir según el peso. La gracia está en la experiencia, no en el ahorro. De hecho, muchas veces el kilo sale igual o más caro que en el supermercado, sobre todo si te emocionas llenando cajas.</p>
+<p>En la zona de Ginebra tienes varios sitios conocidos: - La Fraisière en Meyrin - La Flânerie en Troinex</p>
+<p>Funcionan parecido: entras, coges un recipiente, recoges y pasas por caja. Sencillo. Eso sí, ojo con los horarios y la temporada. Si ha llovido o ya han pasado muchos días de recogida, puedes encontrarte más hojas que fresas.</p>
+<p>Consejo práctico: lleva efectivo o verifica cómo se paga, controla el peso (esas cajas se llenan rápido) y no vayas con la idea de que vas a ahorrar. Vas por el plan, por el momento y porque las fresas recién cogidas sí saben diferente.</p>
+<p>Y otro detalle muy suizo: respeta las reglas. Nada de comer fresas "de prueba" mientras recoges. Que sí, que todos lo pensamos... pero aquí eso también se paga.</p>
+<p>Plan recomendable, sobre todo con niños o para una mañana diferente. Pero no es un chollo, es una experiencia. Y en Suiza, las experiencias también pasan por caja.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260504-05-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equ": {
+        title: "Pasaporte caducado y denegación de embarque: cuando la aerolínea se equivoca",
+        description: "En octubre de 2018, en Lyon, la compañía EasyJet negó el embarque a una menor en un vuelo hacia Nápoles porque su pasaporte estaba caducado desde hacía 18…",
+        keywords: "pasaporte, caducado, denegación, embarque, cuando, aerolínea, equivoca, octubre",
+        keywordsLocalized: true,
+        category: "Vivir en Suiza",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-04-5-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equ",
+        readingTime: 1,
+        dateUpdated: "4 mayo 2026",
+        summary: "En octubre de 2018, en Lyon, la compañía EasyJet negó el embarque a una menor en un vuelo hacia Nápoles porque su pasaporte estaba caducado desde…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En octubre de 2018, en Lyon, la compañía EasyJet negó el embarque a una menor en un vuelo hacia Nápoles porque su pasaporte estaba caducado desde hacía 18 días. La familia acabó viajando en autobús y perdió una noche de hotel. Años después, el Tribunal judicial de Lyon les dio la razón (sentencia de 26 de febrero de 2026): 871,70 € por daños materiales y 2'000 € por daño moral. Traducido: no todo lo que dice el mostrador de embarque es ley.</p>
+<p>La clave jurídica no está en la normativa europea clásica, sino en el Acuerdo europeo sobre la circulación de personas de 1957. Este acuerdo, que sigue en vigor, permite a los ciudadanos españoles viajar a determinados países con el pasaporte caducado desde hace menos de cinco años, siempre que se trate de estancias cortas (máximo 90 días) y sin actividad profesional. La propia Cour de cassation ya lo había confirmado en 2020, también contra EasyJet. No es nuevo, pero parece que en algunos mostradores aún no se han enterado.</p>
+<p>¿Dónde aplica esto? En los países firmantes del acuerdo: Alemania, Francia, Italia, España, Portugal, Bélgica, Países Bajos, Luxemburgo, Austria, Grecia, Hungría, Eslovenia, Malta, Chipre, Turquía y Suiza, entre otros. Es decir, no es algo marginal.</p>
+<p>Si eres español y te niegan el embarque en estas condiciones, hay base legal para reclamar. Otra cosa es lo que te apetezca discutir en la puerta de embarque a las 6:00 de la mañana con alguien que solo sigue un procedimiento interno. Tener razón está bien. Que te dejen subir al avión, mejor.</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
     }
 });
