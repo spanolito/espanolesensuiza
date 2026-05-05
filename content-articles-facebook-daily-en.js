@@ -1489,5 +1489,25 @@ Object.assign(window.siteContent.en.articles, {
 <p>This will be expanded in 2026. Switzerland is in the process of including crypto-assets in this exchange, with implementation scheduled for 2027. The list of countries includes all EU member states. So if you hold bitcoin or equivalent assets on a registered Swiss platform, those assets will also come under the tax authorities’ scrutiny shortly.</p>
 <p>The practical implication is clear: if you are a tax resident in Spain, you are required to declare your foreign accounts and assets using Form 720 once they exceed certain thresholds. An undeclared balance in Switzerland is not hidden. Swiss banking secrecy vis-à-vis foreign tax authorities ceased to exist almost a decade ago, and anyone who has not adapted to this reality faces a problem that is likely to become increasingly complicated over time.</p>
 </div>`
+    },
+
+    "fb-daily-20260505-03-swiss-banking-secrecy-and-spain-what-you-need-to-know-to-avoid-any-nas": {
+        title: "Swiss banking secrecy and Spain: what you need to know to avoid any nasty surprises",
+        description: "If anyone has told you that having a Swiss bank account means the Spanish tax authorities won’t find out, that information has been out of date for several…",
+        keywords: "swiss, banking, secrecy, spain, what, need, know, avoid",
+        keywordsLocalized: true,
+        category: "Taxes",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-05-3-swiss-banking-secrecy-and-spain-what-you-need-to-know-to-avoid-any-nas",
+        readingTime: 1,
+        dateUpdated: "May 5, 2026",
+        summary: "If anyone has told you that having a Swiss bank account means the Spanish tax authorities won’t find out, that information has been out of date for…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>If anyone has told you that having a Swiss bank account means the Spanish tax authorities won’t find out, that information has been out of date for several years. Since 2017, Switzerland has been automatically exchanging tax data with all EU member states, including Spain. The agreement is based on the OECD’s Automatic Exchange of Information (AEOI/EAR) standard and is fully binding.</p>
+<p>The information that Swiss banks provide each year to the Federal Tax Administration (FTA/ESTV), which in turn forwards it to the Spanish Tax Agency: full name, address, country of tax residence, tax identification number, account balances, and income generated (interest, dividends, capital gains). No judicial investigation or prior request is required. It is automatic, annual and systematic. By 2026, data on more than 3.4 million financial accounts had already been exchanged with 101 countries.</p>
+<p>This will be expanded in 2026. Switzerland is in the process of including crypto-assets in this exchange, with implementation scheduled for 2027. The list of countries includes all EU member states. So if you hold bitcoin or equivalent assets on a registered Swiss platform, those assets will also come under the tax authorities’ scrutiny shortly.</p>
+<p>The practical implication is clear: if you are a tax resident in Spain, you are required to declare your foreign accounts and assets using Form 720 once they exceed certain thresholds. An undeclared balance in Switzerland is not hidden. Swiss banking secrecy vis-à-vis foreign tax authorities ceased to exist almost a decade ago, and anyone who has not adapted to this reality faces a problem that is likely to become increasingly complicated over time.</p>
+</div>`
     }
 });
