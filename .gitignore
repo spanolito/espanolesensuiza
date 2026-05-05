@@ -18,6 +18,13 @@ yarn-error.log*
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# PyInstaller — artefacts de build (ne jamais committer)
+build/
+dist/
+*.spec
 
 # Vercel
 .vercel
