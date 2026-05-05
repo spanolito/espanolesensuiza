@@ -406,7 +406,7 @@ def run_git(cmd: list) -> None:
     print(f"  [OK] {' '.join(cmd[2:])}")
 
 
-def git_commit_push(site_dir: str, filenames: list, day: date, post_nums: list) -> None:
+def git_commit_push(site_dir: str, filenames: list, day: date, post_nums: list, no_push: bool = False) -> None:
     nums_str = ", ".join(str(n) for n in post_nums)
     message = f"daily: add multilingual posts {day.isoformat()} ({nums_str})"
     rel_files = [os.path.relpath(p, site_dir) for p in filenames]
@@ -416,7 +416,10 @@ def git_commit_push(site_dir: str, filenames: list, day: date, post_nums: list) 
         print("  [STOP] Aucun changement Git à committer.")
         return
     run_git(["git", "-C", site_dir, "commit", "-m", message])
-    run_git(["git", "-C", site_dir, "push"])
+    if no_push:
+        print("  [INFO] --no-push actif : push différé (validation manuelle requise).")
+    else:
+        run_git(["git", "-C", site_dir, "push"])
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
@@ -424,6 +427,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", help="Date YYYY-MM-DD. Défaut : aujourd'hui")
     parser.add_argument("--dry-run", action="store_true", help="Affiche sans écrire ni pusher")
+    parser.add_argument("--no-push", action="store_true", help="Commit local uniquement, sans git push")
     args = parser.parse_args()
 
     global DEEPL_API_KEY
@@ -498,21 +502,42 @@ def main() -> None:
         return
 
     total_inserted = sum(len(v) for v in all_inserted.values())
+
     if total_inserted == 0:
         print("\n  [STOP] Aucun nouvel article à publier.")
+        print(f"\n[SUMMARY] posts={len(posts)}")
+        print(f"[SUMMARY] langs=0")
+        print(f"[SUMMARY] inserted=0")
+        print(f"[SUMMARY] skipped={len(posts) * len(LANGUAGES)}")
+        print("[SUMMARY] errors=0")
+        print("[SUMMARY] status=success")
         sys.exit(0)
 
     print("\n── Résumé insertion ────────────────────────────────")
+    langs_ok = 0
     for lang in LANGUAGES:
-        print(f"  {lang}: {len(all_inserted.get(lang, []))} article(s)")
+        n = len(all_inserted.get(lang, []))
+        print(f"  {lang}: {n} article(s)")
+        if n > 0:
+            langs_ok += 1
 
-    print("\n  Git commit + push...")
+    print(f"\n  Git commit {'(sans push)' if args.no_push else '+ push'}...")
     post_nums = [p["num"] for p in posts]
-    git_commit_push(SITE_DIR, changed_files, day, post_nums)
+    git_commit_push(SITE_DIR, changed_files, day, post_nums, no_push=args.no_push)
 
     print("\n── Terminé ─────────────────────────────────────────")
     print(f"  {total_inserted} article(s) insérés")
-    print(f"  Commit : daily: add multilingual posts {day.isoformat()}")
+    commit_msg = f"daily: add multilingual posts {day.isoformat()} ({', '.join(str(n) for n in post_nums)})"
+    print(f"  Commit : {commit_msg}")
+
+    print(f"\n[SUMMARY] posts={len(posts)}")
+    print(f"[SUMMARY] langs={langs_ok}")
+    print(f"[SUMMARY] inserted={total_inserted}")
+    skipped_total = len(posts) * len(LANGUAGES) - total_inserted
+    print(f"[SUMMARY] skipped={max(0, skipped_total)}")
+    print("[SUMMARY] errors=0")
+    print("[SUMMARY] status=success")
+    print(f"[SUMMARY] commit={commit_msg}")
 
 
 if __name__ == "__main__":
