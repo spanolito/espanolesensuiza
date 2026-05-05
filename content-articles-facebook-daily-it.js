@@ -432,5 +432,66 @@ Object.assign(window.siteContent.it.articles, {
 <p>Nel 2026 l'ambito di applicazione verrà esteso. La Svizzera sta procedendo all'inclusione delle criptovalute in questo scambio, con un'attuazione prevista per il 2027. L'elenco dei paesi comprende tutti gli Stati membri dell'UE. Pertanto, se possiedi bitcoin o equivalenti su una piattaforma svizzera registrata, anche tale attività entrerà presto nel campo visivo delle autorità fiscali.</p>
 <p>La conseguenza pratica è immediata: se sei residente fiscale in Spagna, hai l'obbligo di dichiarare i tuoi conti e i tuoi beni all'estero tramite il Modello 720 quando superano determinate soglie. Un saldo non dichiarato in Svizzera non è nascosto. Il segreto bancario svizzero nei confronti delle autorità fiscali straniere è venuto meno quasi un decennio fa, e chi non si è ancora adeguato a questa realtà si trova di fronte a un problema che potrebbe complicarsi col passare del tempo.</p>
 </div>`
+    },
+
+    "fb-daily-20260430-01-la-notte-dei-musei-a-ginevra": {
+        title: "La Notte dei Musei a Ginevra",
+        description: "Sabato 30 maggio 2026, a partire dalle ore 18:00, torna la Notte dei Musei a Ginevra. E non si tratta della solita visita tranquilla... è piuttosto una…",
+        keywords: "notte, musei, ginevra, sabato, maggio, partire, dalle, torna",
+        keywordsLocalized: true,
+        category: "Vivere in Svizzera",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-04-30-1-la-notte-dei-musei-a-ginevra",
+        readingTime: 1,
+        dateUpdated: "30 aprile 2026",
+        summary: "Sabato 30 maggio 2026, a partire dalle ore 18:00, torna la Notte dei Musei a Ginevra. E non si tratta della solita visita tranquilla... è piuttosto…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Sabato 30 maggio 2026, a partire dalle ore 18:00, torna la Notte dei Musei a Ginevra. E non si tratta della solita visita tranquilla... è piuttosto una maratona culturale.</p>
+<p>150 attività distribuite in 29 spazi. Mostre, laboratori, escape game, performance, cacce al tesoro... e molto altro ancora.</p>
+<p>Quest'anno si aggiungono due nuove tappe: la Bibliothèque Braille Romande et livre parlé e il Geneva Skateboard Museum. Due proposte piuttosto diverse tra loro, ma che... Vedi altro</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260430-02-i-costumi-tradizionali-svizzeri-ne-travestimenti-ne-folklore-di-bassa": {
+        title: "I costumi tradizionali svizzeri: né travestimenti, né folklore di bassa lega",
+        description: "Ho letto un articolo di SwissCommunity sui costumi tradizionali in Svizzera e credo sia utile fornire qualche informazione di contesto, perché da fuori la…",
+        keywords: "costumi, tradizionali, svizzeri, travestimenti, folklore, bassa, lega, letto",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-04-30-2-i-costumi-tradizionali-svizzeri-ne-travestimenti-ne-folklore-di-bassa",
+        readingTime: 1,
+        dateUpdated: "30 aprile 2026",
+        summary: "Ho letto un articolo di SwissCommunity sui costumi tradizionali in Svizzera e credo sia utile fornire qualche informazione di contesto, perché da…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Ho letto un articolo di SwissCommunity sui costumi tradizionali in Svizzera e credo sia utile fornire qualche informazione di contesto, perché da fuori la questione risulta piuttosto difficile da comprendere.</p>
+<p>Innanzitutto, non esiste «il costume svizzero». Ce ne sono centinaia. Letteralmente. Ogni cantone, ogni regione, a volte ogni paese, ha il proprio. E non è un caso: i colori, i ricami o gli accessori indicavano aspetti molto precisi, come lo stato civile, la religione o persino la posizione sociale. Insomma, non era solo una questione estetica, era quasi una carta d’identità in versione tessile.</p>
+<p>Secondo punto importante: molti dei costumi che vediamo oggi durante le feste non sono così antichi come sembrano. Molti sono stati reinterpretati nel XIX secolo, quando la Svizzera, come altri paesi europei, stava costruendo la propria identità nazionale. Tradizione sì, ma ben rielaborata e messa in scena.</p>
+<p>Oggi questi costumi esistono ancora, ma solo in contesti ben precisi: feste locali, associazioni culturali, sfilate. Nessuno va al lavoro vestito così, nel caso qualcuno lo pensasse. E un dettaglio interessante: un costume completo può costare diverse migliaia di franchi. Non è certo un souvenir da 50 CHF.</p>
+<p>In fin dei conti, questo rispecchia abbastanza il modo in cui funziona la Svizzera: una vera diversità, un sistema fortemente decentralizzato e un rapporto con la tradizione che non è nostalgico, ma ben strutturato e, in molti casi, piuttosto pragmatico.</p>
+<p>https://www.espanolesensuiza.ch/</p>
+</div>`
+    },
+
+    "fb-daily-20260430-03-la-lex-koller-diventa-piu-severa-non-ti-riguarda-ma-ne-sentirai-comunq": {
+        title: "La Lex Koller diventa più severa: non ti riguarda... ma ne sentirai comunque le conseguenze",
+        description: "Il Consiglio federale ha avviato una consultazione per la riforma della Lex Koller, e la linea da seguire è chiara: maggiori restrizioni per i cittadini…",
+        keywords: "koller, diventa, severa, riguarda, sentirai, comunque, conseguenze, consiglio",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-04-30-3-la-lex-koller-diventa-piu-severa-non-ti-riguarda-ma-ne-sentirai-comunq",
+        readingTime: 1,
+        dateUpdated: "30 aprile 2026",
+        summary: "Il Consiglio federale ha avviato una consultazione per la riforma della Lex Koller, e la linea da seguire è chiara: maggiori restrizioni per i…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Il Consiglio federale ha avviato una consultazione per la riforma della Lex Koller, e la linea da seguire è chiara: maggiori restrizioni per i cittadini provenienti da paesi al di fuori dell’UE e dell’AELS. Si prevede che anche per l’acquisto di un’abitazione principale sia necessario richiedere un permesso individuale e che, in caso di partenza dalla Svizzera, i proprietari siano obbligati a vendere l’immobile entro due anni. Inoltre, si intende vietare l’acquisto di immobili a scopo puramente di investimento per la locazione.</p>
+<p>... Vedi altro</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
     }
 });

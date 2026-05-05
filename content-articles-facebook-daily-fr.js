@@ -1489,5 +1489,66 @@ Object.assign(window.siteContent.fr.articles, {
 <p>En 2026, cette mesure sera étendue. La Suisse est en train d'intégrer les crypto-actifs dans ce système d'échange, dont la mise en œuvre est prévue pour 2027. La liste des pays concernés comprend tous les États membres de l'UE. Ainsi, si vous détenez des bitcoins ou des équivalents sur une plateforme suisse enregistrée, ces actifs seront eux aussi bientôt pris en compte par les autorités fiscales.</p>
 <p>La conséquence pratique est claire : si vous êtes résident fiscal en Espagne, vous êtes tenu de déclarer vos comptes et vos actifs à l'étranger au moyen du formulaire 720 dès lors qu'ils dépassent certains seuils. Un solde non déclaré en Suisse n'est pas caché. Le secret bancaire suisse vis-à-vis des autorités fiscales étrangères a cessé d'exister il y a près d'une décennie, et ceux qui ne se sont pas adaptés à cette réalité se retrouvent face à un problème qui risque de se compliquer avec le temps.</p>
 </div>`
+    },
+
+    "fb-daily-20260430-01-la-nuit-des-musees-a-geneve": {
+        title: "La Nuit des musées à Genève",
+        description: "Le samedi 30 mai 2026, à partir de 18 h, la Nuit des musées fait son retour à Genève. Et il ne s'agit pas d'une simple visite tranquille... mais plutôt d'un…",
+        keywords: "nuit, musées, genève, samedi, partir, fait, retour, agit",
+        keywordsLocalized: true,
+        category: "Vivre en Suisse",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-04-30-1-la-nuit-des-musees-a-geneve",
+        readingTime: 1,
+        dateUpdated: "30 avril 2026",
+        summary: "Le samedi 30 mai 2026, à partir de 18 h, la Nuit des musées fait son retour à Genève. Et il ne s'agit pas d'une simple visite tranquille... mais…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Le samedi 30 mai 2026, à partir de 18 h, la Nuit des musées fait son retour à Genève. Et il ne s'agit pas d'une simple visite tranquille... mais plutôt d'un marathon culturel.</p>
+<p>150 activités réparties sur 29 espaces. Expositions, ateliers, escape games, performances, jeux de piste… et bien plus encore.</p>
+<p>Cette année, deux nouveaux lieux viennent s'ajouter à la liste : la Bibliothèque Braille Romande et livre parlé et le Geneva Skateboard Museum. Deux lieux assez différents, mais qui... Voir plus</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260430-02-les-costumes-traditionnels-suisses-ni-deguisement-ni-folklore-de-pacot": {
+        title: "Les costumes traditionnels suisses : ni déguisement, ni folklore de pacotille",
+        description: "J'ai lu un article de SwissCommunity sur les costumes traditionnels en Suisse, et je pense qu'il est utile d'apporter quelques précisions, car vu de…",
+        keywords: "costumes, traditionnels, suisses, déguisement, folklore, pacotille, article, swisscommunity",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-04-30-2-les-costumes-traditionnels-suisses-ni-deguisement-ni-folklore-de-pacot",
+        readingTime: 1,
+        dateUpdated: "30 avril 2026",
+        summary: "J'ai lu un article de SwissCommunity sur les costumes traditionnels en Suisse, et je pense qu'il est utile d'apporter quelques précisions, car vu de…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>J'ai lu un article de SwissCommunity sur les costumes traditionnels en Suisse, et je pense qu'il est utile d'apporter quelques précisions, car vu de l'extérieur, c'est assez difficile à comprendre.</p>
+<p>Tout d'abord, il n'existe pas « le costume suisse ». Il y en a des centaines. Littéralement. Chaque canton, chaque région, parfois chaque village, a le sien. Et ce n'est pas un hasard : les couleurs, les broderies ou les accessoires indiquaient des éléments très précis, comme l'état civil, la religion ou même la position sociale. En somme, ce n'était pas une question d'esthétique, c'était presque une carte d'identité en version textile.</p>
+<p>Deuxième point important : bon nombre des costumes que l'on voit aujourd'hui lors des fêtes ne sont pas aussi anciens qu'ils en ont l'air. Beaucoup ont été réinterprétés au XIXe siècle, à une époque où la Suisse, comme d'autres pays européens, était en train de forger son identité nationale. De la tradition, certes, mais bien réorganisée et mise en scène.</p>
+<p>De nos jours, ces costumes existent toujours, mais dans des contextes très précis : fêtes locales, associations culturelles, défilés. Personne ne s'habille ainsi pour aller travailler, au cas où quelqu'un l'aurait pensé. Et détail intéressant : un costume complet peut coûter plusieurs milliers de francs. Ce n'est pas un souvenir à 50 CHF.</p>
+<p>Au final, cela correspond assez bien au fonctionnement de la Suisse : une véritable diversité, une forte décentralisation, et un rapport à la tradition qui n'est pas nostalgique, mais structuré et, bien souvent, assez pragmatique.</p>
+<p>https://www.espanolesensuiza.ch/</p>
+</div>`
+    },
+
+    "fb-daily-20260430-03-la-loi-koller-se-durcit-cela-ne-te-concerne-pas-mais-ca-va-te-toucher": {
+        title: "La loi Koller se durcit : cela ne te concerne pas... mais ça va te toucher",
+        description: "Le Conseil fédéral a lancé une consultation en vue de réformer la Lex Koller, et l'orientation est claire : davantage de restrictions pour les ressortissants…",
+        keywords: "koller, durcit, cela, concerne, mais, toucher, conseil, fédéral",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-04-30-3-la-loi-koller-se-durcit-cela-ne-te-concerne-pas-mais-ca-va-te-toucher",
+        readingTime: 1,
+        dateUpdated: "30 avril 2026",
+        summary: "Le Conseil fédéral a lancé une consultation en vue de réformer la Lex Koller, et l'orientation est claire : davantage de restrictions pour les…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Le Conseil fédéral a lancé une consultation en vue de réformer la Lex Koller, et l'orientation est claire : davantage de restrictions pour les ressortissants hors UE et AELE. Il est envisagé que même pour l'achat d'une résidence principale, ils doivent demander une autorisation individuelle, et s'ils quittent la Suisse, ils seraient tenus de vendre dans un délai de deux ans. En outre, on souhaite mettre fin à l'achat de biens immobiliers à des fins purement d'investissement en vue de la location.</p>
+<p>... Voir plus</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
     }
 });

@@ -1489,5 +1489,66 @@ Object.assign(window.siteContent.de.articles, {
 <p>Im Jahr 2026 wird dies ausgeweitet. Die Schweiz ist dabei, Krypto-Vermögenswerte in diesen Austausch einzubeziehen, wobei die Umsetzung für 2027 vorgesehen ist. Die Liste der Länder umfasst alle EU-Mitgliedstaaten. Wenn Sie also Bitcoin oder ähnliche Vermögenswerte auf einer registrierten Schweizer Plattform halten, wird dieser Vermögenswert in Kürze ebenfalls ins Visier der Steuerbehörden geraten.</p>
 <p>Die praktische Konsequenz ist klar: Wenn Sie in Spanien steuerlich ansässig sind, sind Sie verpflichtet, Ihre Konten und Vermögenswerte im Ausland mittels des Formulars 720 anzugeben, sobald diese bestimmte Schwellenwerte überschreiten. Ein nicht angegebenes Guthaben in der Schweiz ist nicht verborgen. Das Schweizer Bankgeheimnis gegenüber ausländischen Steuerbehörden existiert seit fast einem Jahrzehnt nicht mehr, und wer sich dieser Realität noch nicht angepasst hat, steht vor einem Problem, das sich mit der Zeit verschärfen kann.</p>
 </div>`
+    },
+
+    "fb-daily-20260430-01-die-museumsnacht-in-genf": {
+        title: "Die Museumsnacht in Genf",
+        description: "Am Samstag, dem 30. Mai 2026, ab 18 Uhr findet in Genf wieder die Museumsnacht statt. Und es handelt sich nicht um einen gewöhnlichen, gemächlichen Rundgang ……",
+        keywords: "museumsnacht, genf, samstag, findet, wieder, statt, handelt, sich",
+        keywordsLocalized: true,
+        category: "Leben in der Schweiz",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-04-30-1-die-museumsnacht-in-genf",
+        readingTime: 1,
+        dateUpdated: "30 April 2026",
+        summary: "Am Samstag, dem 30. Mai 2026, ab 18 Uhr findet in Genf wieder die Museumsnacht statt. Und es handelt sich nicht um einen gewöhnlichen, gemächlichen…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Am Samstag, dem 30. Mai 2026, ab 18 Uhr findet in Genf wieder die Museumsnacht statt. Und es handelt sich nicht um einen gewöhnlichen, gemächlichen Rundgang … sondern eher um einen Kulturmarathon.</p>
+<p>150 Aktivitäten an 29 Veranstaltungsorten. Ausstellungen, Workshops, Escape Games, Performances, Schnitzeljagden … und vieles mehr.</p>
+<p>In diesem Jahr kommen zwei neue Orte hinzu: die Bibliothèque Braille Romande et livre parlé und das Geneva Skateboard Museum. Zwei recht unterschiedliche Angebote, die jedoch... Mehr anzeigen</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260430-02-schweizer-trachten-weder-kostum-noch-billige-folklore": {
+        title: "Schweizer Trachten: weder Kostüm noch billige Folklore",
+        description: "Ich habe einen Artikel von SwissCommunity über die Trachten in der Schweiz gelesen und finde, es ist sinnvoll, ein wenig Hintergrundwissen zu vermitteln, da…",
+        keywords: "schweizer, trachten, weder, kostüm, noch, billige, folklore, habe",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-04-30-2-schweizer-trachten-weder-kostum-noch-billige-folklore",
+        readingTime: 1,
+        dateUpdated: "30 April 2026",
+        summary: "Ich habe einen Artikel von SwissCommunity über die Trachten in der Schweiz gelesen und finde, es ist sinnvoll, ein wenig Hintergrundwissen zu…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Ich habe einen Artikel von SwissCommunity über die Trachten in der Schweiz gelesen und finde, es ist sinnvoll, ein wenig Hintergrundwissen zu vermitteln, da man das Thema von außen betrachtet oft nur schwer versteht.</p>
+<p>Erstens gibt es nicht „die eine Schweizer Tracht“. Es gibt Hunderte davon. Im wahrsten Sinne des Wortes. Jeder Kanton, jede Region, manchmal sogar jedes Dorf hat seine eigene. Und das ist kein Zufall: Die Farben, Stickereien oder Accessoires signalisierten ganz konkrete Dinge wie den Familienstand, die Religion oder sogar die soziale Stellung. Es ging also nicht um Ästhetik, sondern es war fast wie ein Ausweis in Textilform.</p>
+<p>Zweiter wichtiger Punkt: Viele der Trachten, die wir heute auf Festen sehen, sind gar nicht so alt, wie es den Anschein hat. Viele wurden im 19. Jahrhundert neu interpretiert, als die Schweiz – wie andere europäische Länder auch – ihre nationale Identität aufbaute. Tradition ja, aber gut neu gestaltet und inszeniert.</p>
+<p>Heutzutage gibt es diese Trachten zwar noch, aber nur in ganz bestimmten Zusammenhängen: bei lokalen Festen, in Kulturvereinen oder bei Umzügen. Niemand geht so zur Arbeit, falls das jemand gedacht haben sollte. Und noch eine interessante Anmerkung: Ein komplettes Trachtenoutfit kann mehrere tausend Franken kosten. Es handelt sich also nicht um ein Souvenir für 50 CHF.</p>
+<p>Letztendlich passt das ziemlich gut zu dem, wie die Schweiz funktioniert: echte Vielfalt, stark dezentralisiert und ein Verhältnis zur Tradition, das nicht nostalgisch, sondern strukturiert und in vielen Fällen recht pragmatisch ist.</p>
+<p>https://www.espanolesensuiza.ch/</p>
+</div>`
+    },
+
+    "fb-daily-20260430-03-das-lex-koller-gesetz-wird-verscharft-es-betrifft-dich-zwar-nicht-dire": {
+        title: "Das Lex-Koller-Gesetz wird verschärft: Es betrifft dich zwar nicht direkt … aber es wird dich dennoch betreffen",
+        description: "Der Bundesrat hat eine Vernehmlassung zur Reform der Lex Koller eröffnet, und die Richtung ist klar: mehr Einschränkungen für Bürger aus Ländern außerhalb der…",
+        keywords: "koller, gesetz, wird, verschärft, betrifft, dich, zwar, nicht",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-04-30-3-das-lex-koller-gesetz-wird-verscharft-es-betrifft-dich-zwar-nicht-dire",
+        readingTime: 1,
+        dateUpdated: "30 April 2026",
+        summary: "Der Bundesrat hat eine Vernehmlassung zur Reform der Lex Koller eröffnet, und die Richtung ist klar: mehr Einschränkungen für Bürger aus Ländern…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Der Bundesrat hat eine Vernehmlassung zur Reform der Lex Koller eröffnet, und die Richtung ist klar: mehr Einschränkungen für Bürger aus Ländern außerhalb der EU und der EFTA. Es wird vorgeschlagen, dass sie selbst für den Kauf eines Hauptwohnsitzes eine individuelle Bewilligung beantragen müssen, und sollten sie die Schweiz verlassen, wären sie verpflichtet, die Immobilie innerhalb von zwei Jahren zu verkaufen. Zudem soll der Kauf von Immobilien zu rein investiven Zwecken zur Vermietung unterbunden werden.</p>
+<p>... Mehr anzeigen</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
     }
 });

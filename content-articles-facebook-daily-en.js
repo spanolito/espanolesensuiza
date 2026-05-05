@@ -1509,5 +1509,66 @@ Object.assign(window.siteContent.en.articles, {
 <p>This will be expanded in 2026. Switzerland is in the process of including crypto-assets in this exchange, with implementation scheduled for 2027. The list of countries includes all EU member states. So if you hold bitcoin or equivalent assets on a registered Swiss platform, those assets will also come under the tax authorities’ scrutiny shortly.</p>
 <p>The practical implication is clear: if you are a tax resident in Spain, you are required to declare your foreign accounts and assets using Form 720 once they exceed certain thresholds. An undeclared balance in Switzerland is not hidden. Swiss banking secrecy vis-à-vis foreign tax authorities ceased to exist almost a decade ago, and anyone who has not adapted to this reality faces a problem that is likely to become increasingly complicated over time.</p>
 </div>`
+    },
+
+    "fb-daily-20260430-01-museum-night-in-geneva": {
+        title: "Museum Night in Geneva",
+        description: "On Saturday 30 May 2026, from 6 pm, Geneva’s Museum Night returns. And it’s not your typical leisurely visit… it’s more of a cultural marathon.",
+        keywords: "museum, night, geneva, saturday, returns, your, typical, leisurely",
+        keywordsLocalized: true,
+        category: "Living in Switzerland",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-04-30-1-museum-night-in-geneva",
+        readingTime: 1,
+        dateUpdated: "April 30, 2026",
+        summary: "On Saturday 30 May 2026, from 6 pm, Geneva’s Museum Night returns. And it’s not your typical leisurely visit… it’s more of a cultural marathon.",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>On Saturday 30 May 2026, from 6 pm, Geneva’s Museum Night returns. And it’s not your typical leisurely visit… it’s more of a cultural marathon.</p>
+<p>150 activities spread across 29 venues. Exhibitions, workshops, escape games, performances, treasure hunts… and much more.</p>
+<p>This year, two new venues have been added: the Bibliothèque Braille Romande et livre parlé and the Geneva Skateboard Museum. Two quite different venues, but... Read more</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260430-02-traditional-swiss-costumes-neither-fancy-dress-nor-cheap-folklore": {
+        title: "Traditional Swiss costumes: neither fancy dress nor cheap folklore",
+        description: "I’ve read an article by SwissCommunity about traditional costumes in Switzerland, and I think it’s worth providing a bit of context, because it’s quite hard to…",
+        keywords: "traditional, swiss, costumes, neither, fancy, dress, cheap, folklore",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-04-30-2-traditional-swiss-costumes-neither-fancy-dress-nor-cheap-folklore",
+        readingTime: 1,
+        dateUpdated: "April 30, 2026",
+        summary: "I’ve read an article by SwissCommunity about traditional costumes in Switzerland, and I think it’s worth providing a bit of context, because it’s…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>I’ve read an article by SwissCommunity about traditional costumes in Switzerland, and I think it’s worth providing a bit of context, because it’s quite hard to understand from the outside.</p>
+<p>Firstly, there is no such thing as ‘the Swiss costume’. There are hundreds of them. Literally. Every canton, every region, and sometimes even every village, has its own. And this is no coincidence: the colours, embroidery and accessories signified very specific things, such as marital status, religion or even social standing. In short, it wasn’t just about aesthetics; it was almost like a textile version of an ID card.</p>
+<p>A second important point: many of the costumes we see at festivals today are not as old as they appear. Many were reinterpreted in the 19th century, when Switzerland, like other European countries, was forging its national identity. Tradition, yes, but thoroughly reworked and staged.</p>
+<p>These days, these costumes still exist, but only in very specific contexts: local festivals, cultural societies and parades. Nobody goes to work dressed like that, in case anyone was wondering. And here’s an interesting fact: a full costume can cost several thousand francs. It’s not a souvenir that costs 50 CHF.</p>
+<p>Ultimately, this fits in quite well with how Switzerland works: genuine diversity, a highly decentralised system, and a relationship with tradition that is not nostalgic, but rather structured and, in many cases, quite pragmatic.</p>
+<p>https://www.espanolesensuiza.ch/</p>
+</div>`
+    },
+
+    "fb-daily-20260430-03-the-lex-koller-is-being-tightened-up-it-doesnt-affect-you-but-it-will": {
+        title: "The Lex Koller is being tightened up: it doesn’t affect you... but it will have an impact on you",
+        description: "The Federal Council has launched a consultation on reforming the Lex Koller, and the direction is clear: more restrictions for non-EU and non-EFTA nationals.…",
+        keywords: "koller, being, tightened, doesn, affect, will, have, impact",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-04-30-3-the-lex-koller-is-being-tightened-up-it-doesnt-affect-you-but-it-will",
+        readingTime: 1,
+        dateUpdated: "April 30, 2026",
+        summary: "The Federal Council has launched a consultation on reforming the Lex Koller, and the direction is clear: more restrictions for non-EU and non-EFTA…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>The Federal Council has launched a consultation on reforming the Lex Koller, and the direction is clear: more restrictions for non-EU and non-EFTA nationals. It is proposed that they would have to apply for an individual permit even to purchase a main residence, and if they leave Switzerland, they would be obliged to sell within two years. Furthermore, the aim is to ban the purchase of property purely for investment purposes with a view to letting it out.</p>
+<p>... See more</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
     }
 });

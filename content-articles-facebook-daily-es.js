@@ -1549,5 +1549,66 @@ Object.assign(window.siteContent.es.articles, {
 <p>En 2026 esto se amplía. Suiza está en proceso de incluir los criptoactivos en este intercambio, con implementación prevista para 2027. La lista de países incluye todos los estados miembros de la UE. Así que si tienes bitcoin o equivalentes en una plataforma suiza registrada, ese activo también entrará en el radar fiscal en breve.</p>
 <p>La consecuencia práctica es directa: si eres residente fiscal en España, tienes obligación de declarar tus cuentas y activos en el extranjero mediante el Modelo 720 cuando superan determinados umbrales. Un saldo no declarado en Suiza no está oculto. El secreto bancario suizo frente a las autoridades fiscales extranjeras dejó de existir hace casi una década, y quien no se haya adaptado a esa realidad tiene un problema que se puede ir complicando con el tiempo.</p>
 </div>`
+    },
+
+    "fb-daily-20260430-01-la-noche-de-los-museos-en-ginebra": {
+        title: "La Noche de los Museos en Ginebra",
+        description: "El sábado 30 de mayo de 2026, a partir de las 18h, vuelve la Noche de los Museos en Ginebra. Y no es la típica visita tranquila... es más bien un maratón…",
+        keywords: "noche, museos, ginebra, sábado, mayo, partir, vuelve, típica",
+        keywordsLocalized: true,
+        category: "Vivir en Suiza",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-04-30-1-la-noche-de-los-museos-en-ginebra",
+        readingTime: 1,
+        dateUpdated: "30 abril 2026",
+        summary: "El sábado 30 de mayo de 2026, a partir de las 18h, vuelve la Noche de los Museos en Ginebra. Y no es la típica visita tranquila... es más bien un…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>El sábado 30 de mayo de 2026, a partir de las 18h, vuelve la Noche de los Museos en Ginebra. Y no es la típica visita tranquila... es más bien un maratón cultural.</p>
+<p>150 actividades repartidas en 29 espacios. Exposiciones, talleres, escape games, performances, juegos de pista... y bastante más.</p>
+<p>Este año se suman dos lugares nuevos: la Bibliothèque Braille Romande et livre parlé y el Geneva Skateboard Museum. Dos propuestas bastante distintas, pero que... Voir plus</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260430-02-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato": {
+        title: "Los trajes tradicionales suizos: ni disfraz, ni folklore barato",
+        description: "He visto un articulo de SwissCommunity sobre los trajes tradicionales en Suiza, y creo que viene bien poner un poco de contexto, porque desde fuera se entiende…",
+        keywords: "trajes, tradicionales, suizos, disfraz, folklore, barato, visto, articulo",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-04-30-2-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato",
+        readingTime: 1,
+        dateUpdated: "30 abril 2026",
+        summary: "He visto un articulo de SwissCommunity sobre los trajes tradicionales en Suiza, y creo que viene bien poner un poco de contexto, porque desde fuera…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>He visto un articulo de SwissCommunity sobre los trajes tradicionales en Suiza, y creo que viene bien poner un poco de contexto, porque desde fuera se entiende bastante mal.</p>
+<p>Primero, no existe "el traje suizo". Hay cientos. Literalmente. Cada canton, cada region, a veces cada pueblo, tiene el suyo. Y no es casualidad: los colores, los bordados o los accesorios indicaban cosas muy concretas, como el estado civil, la religion o incluso la posicion social. Vamos, que no era estetica, era casi un DNI en version textil.</p>
+<p>Segundo punto importante: muchos de los trajes que hoy vemos en fiestas no son tan antiguos como parece. Muchos fueron reinterpretados en el siglo XIX, cuando Suiza, como otros paises europeos, estaba construyendo su identidad nacional. Tradicion si, pero bien reorganizada y puesta en escena.</p>
+<p>Hoy en dia, estos trajes siguen existiendo, pero en contextos muy concretos: fiestas locales, asociaciones culturales, desfiles. Nadie va asi al trabajo, por si alguien lo pensaba. Y detalle interesante: un traje completo puede costar varios miles de francos. No es un souvenir de 50 CHF.</p>
+<p>Al final, esto encaja bastante con como funciona Suiza: diversidad real, muy descentralizada, y una relacion con la tradicion que no es nostalgica, sino organizada y, en muchos casos, bastante pragmatica.</p>
+<p>https://www.espanolesensuiza.ch/</p>
+</div>`
+    },
+
+    "fb-daily-20260430-03-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar": {
+        title: "La Lex Koller se endurece: no te afecta... pero sí te va a tocar",
+        description: "El Consejo Federal ha abierto una consulta para reformar la Lex Koller, y la dirección es clara: más restricciones para ciudadanos de fuera de la UE y la AELE.…",
+        keywords: "koller, endurece, afecta, tocar, consejo, federal, abierto, consulta",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-04-30-3-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar",
+        readingTime: 1,
+        dateUpdated: "30 abril 2026",
+        summary: "El Consejo Federal ha abierto una consulta para reformar la Lex Koller, y la dirección es clara: más restricciones para ciudadanos de fuera de la UE…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>El Consejo Federal ha abierto una consulta para reformar la Lex Koller, y la dirección es clara: más restricciones para ciudadanos de fuera de la UE y la AELE. Se plantea que incluso para comprar una vivienda principal tengan que solicitar un permiso individual, y si abandonan Suiza, estarían obligados a vender en un plazo de dos años. Además, se quiere eliminar la compra de inmuebles con fines puramente de inversión para alquilar.</p>
+<p>... Voir plus</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
     }
 });
