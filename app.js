@@ -1652,7 +1652,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 const isNewsSearch = newsKeywords.includes(term);
                 const searchLabels = getHomeSearchFrequentTerms(currentLang);
 
-                if (!document.activeElement || document.activeElement !== searchInput) {
+                const isSearching = document.activeElement === searchInput || document.activeElement === sortSelect;
+                if (!isSearching && !searchInput.value.trim()) {
                     return;
                 }
 
@@ -1757,8 +1758,13 @@ document.addEventListener("DOMContentLoaded", () => {
             if (displayArea) displayArea.addEventListener('click', handleSearchPanelClick);
             if (sortSelect) {
                 sortSelect.addEventListener('change', () => {
-                    closeSearchPanel({ blurInput: true });
-                    injectHomepageLatestArticles(sortSelect.value || 'recientes');
+                    const term = searchInput.value.trim();
+                    if (term) {
+                        updateSearch();
+                    } else {
+                        // If no term, just refresh the homepage feed below
+                        injectHomepageLatestArticles(sortSelect.value || 'recientes');
+                    }
                 });
             }
 
