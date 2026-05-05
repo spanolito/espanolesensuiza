@@ -372,5 +372,65 @@ Object.assign(window.siteContent.it.articles, {
 <p>Dove si applica questo? Nei paesi firmatari dell'accordo: Germania, Francia, Italia, Spagna, Portogallo, Belgio, Paesi Bassi, Lussemburgo, Austria, Grecia, Ungheria, Slovenia, Malta, Cipro, Turchia e Svizzera, tra gli altri. Cioè non è qualcosa di marginale.</p>
 <p>Se sei spagnolo e ti negano l'imbarco in queste condizioni, c'è una base legale per reclamare. Un'altra cosa è quello che ti viene voglia di discutere al gate d'imbarco alle 6 del mattino con qualcuno che segue solo una procedura interna. Avere ragione è positivo. Che ti facciano salire sull'aereo, meglio è.</p>
 </div>`
+    },
+
+    "fb-daily-20260505-01-quello-che-nessuno-ti-spiega-sulleredita-in-svizzera": {
+        title: "Quello che nessuno ti spiega sull'eredità in Svizzera",
+        description: "In Svizzera non esiste un'imposta federale di successione. Esistono invece le imposte cantonali, e ogni cantone applica le proprie norme. Ciò significa che se…",
+        keywords: "quello, nessuno, spiega, sull, eredità, svizzera, esiste, imposta",
+        keywordsLocalized: true,
+        category: "Salute e LAMal",
+        hub: "salud",
+        slug: "actualidad-2026-05-05-1-quello-che-nessuno-ti-spiega-sulleredita-in-svizzera",
+        readingTime: 1,
+        dateUpdated: "5 maggio 2026",
+        summary: "In Svizzera non esiste un'imposta federale di successione. Esistono invece le imposte cantonali, e ogni cantone applica le proprie norme. Ciò…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Svizzera non esiste un'imposta federale di successione. Esistono invece le imposte cantonali, e ogni cantone applica le proprie norme. Ciò significa che se hai la fortuna di ereditare qualcosa qui, la prima cosa che devi sapere non è l'aliquota fiscale, ma in quale cantone viveva il defunto.</p>
+<p>La buona notizia per la maggior parte delle persone: tutti i cantoni esentano i discendenti diretti (figli, nipoti) e i coniugi o le coppie registrate. In pratica, se sei figlio di una persona deceduta in Svizzera, nella maggior parte dei casi non paghi alcuna imposta di successione svizzera. I cantoni di Svitto e Obvaldo vanno oltre: non applicano alcuna imposta di successione, indipendentemente dal grado di parentela.</p>
+<p>La situazione cambia se sei un fratello, un nipote, un convivente non registrato o semplicemente una terza persona. Le aliquote variano notevolmente a seconda del cantone e del grado di parentela e possono arrivare fino al 50% in casi estremi. La differenza tra i cantoni per lo stesso tipo di eredità può essere enorme.</p>
+<p>Un dettaglio che molti residenti in Svizzera tendono a trascurare: se si ereditano beni in Spagna, questi sono soggetti all’imposta di successione spagnola, non a quella svizzera. Inoltre, se al momento dell’apertura della successione si risiedeva al di fuori della Spagna, dal 2018 si hanno esattamente gli stessi diritti dei residenti nella comunità autonoma in cui si trovano i beni. Vale la pena verificare la situazione con un commercialista, poiché le differenze tra le diverse comunità autonome possono essere molto significative.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-02-le-vacanze-in-svizzera-cosa-dice-la-legge-e-cosa-dipende-dal-tuo-contr": {
+        title: "Le vacanze in Svizzera: cosa dice la legge e cosa dipende dal tuo contratto",
+        description: "In Spagna sono 22 giorni lavorativi, che corrispondono a circa 30 giorni di calendario. In Svizzera il minimo legale è di 4 settimane all'anno per i lavoratori…",
+        keywords: "vacanze, svizzera, cosa, dice, legge, dipende, contratto, spagna",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-05-2-le-vacanze-in-svizzera-cosa-dice-la-legge-e-cosa-dipende-dal-tuo-contr",
+        readingTime: 1,
+        dateUpdated: "5 maggio 2026",
+        summary: "In Spagna sono 22 giorni lavorativi, che corrispondono a circa 30 giorni di calendario. In Svizzera il minimo legale è di 4 settimane all'anno per i…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Spagna sono 22 giorni lavorativi, che corrispondono a circa 30 giorni di calendario. In Svizzera il minimo legale è di 4 settimane all'anno per i lavoratori adulti, secondo l'articolo 329a del Codice delle obbligazioni (CO). Per i lavoratori di età inferiore ai 20 anni il minimo è di 5 settimane. Non si tratta né di giorni di calendario né di giorni lavorativi: sono settimane lavorative, il che in pratica, con una settimana di 5 giorni, equivale a 20 giorni lavorativi per un adulto.</p>
+<p>La legge stabilisce inoltre che almeno due settimane debbano essere prese consecutivamente e che le ferie debbano essere godute, per quanto possibile, entro l'anno in corso. Il datore di lavoro stabilisce le date tenendo conto delle preferenze del lavoratore, ma ha l'ultima parola se sussistono ragioni oggettive di organizzazione. Ciò che la legge vieta chiaramente è sostituire i giorni di ferie con un compenso in denaro mentre il contratto è in vigore: le ferie non si percepiscono, si prendono.</p>
+<p>Molti contratti collettivi (CCT) e contratti individuali prevedono condizioni migliori rispetto a questo minimo legale. È comune trovare 5 settimane nelle medie e grandi imprese, e anche in base all’anzianità di servizio. Vale la pena controllare il contratto e, se esiste, il contratto collettivo di settore, poiché le differenze possono essere significative.</p>
+<p>Un aspetto che molti ignorano: se ti ammali durante le ferie e lo dimostri con un certificato medico, quei giorni di assenza non vengono detratti dalle tue ferie. Hai diritto a recuperarli. Si tratta di una giurisprudenza consolidata in Svizzera, anche se nella pratica è opportuno comunicarlo al datore di lavoro senza indugio e con la documentazione in regola.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-03-il-segreto-bancario-svizzero-e-la-spagna-cosa-occorre-sapere-per-evita": {
+        title: "Il segreto bancario svizzero e la Spagna: cosa occorre sapere per evitare brutte sorprese",
+        description: "Se qualcuno ti ha detto che avere un conto in una banca svizzera significa che il fisco spagnolo non ne viene a conoscenza, questa informazione è ormai…",
+        keywords: "segreto, bancario, svizzero, spagna, cosa, occorre, sapere, evitare",
+        keywordsLocalized: true,
+        category: "Imposte",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-05-3-il-segreto-bancario-svizzero-e-la-spagna-cosa-occorre-sapere-per-evita",
+        readingTime: 1,
+        dateUpdated: "5 maggio 2026",
+        summary: "Se qualcuno ti ha detto che avere un conto in una banca svizzera significa che il fisco spagnolo non ne viene a conoscenza, questa informazione è…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Se qualcuno ti ha detto che avere un conto in una banca svizzera significa che il fisco spagnolo non ne viene a conoscenza, questa informazione è ormai obsoleta da diversi anni. Dal 2017, la Svizzera scambia automaticamente i dati fiscali con tutti gli Stati membri dell'UE, Spagna compresa. L'accordo si basa sulla norma dell'OCSE relativa allo scambio automatico di informazioni (AEOI/EAR) ed è pienamente vincolante.</p>
+<p>Ecco cosa trasmettono ogni anno le banche svizzere all'Amministrazione federale delle contribuzioni (AFC/ESTV), che a sua volta invia tali dati all'Agenzia delle Entrate spagnola: nome completo, indirizzo, paese di residenza fiscale, codice fiscale, saldo dei conti e redditi generati (interessi, dividendi, plusvalenze). Non è necessaria alcuna indagine giudiziaria né richiesta preventiva. È un processo automatico, annuale e sistematico. Nel 2026 sono già stati scambiati dati relativi a oltre 3,4 milioni di conti finanziari con 101 paesi.</p>
+<p>Nel 2026 l'ambito di applicazione verrà esteso. La Svizzera sta procedendo all'inclusione delle criptovalute in questo scambio, con un'attuazione prevista per il 2027. L'elenco dei paesi comprende tutti gli Stati membri dell'UE. Pertanto, se possiedi bitcoin o equivalenti su una piattaforma svizzera registrata, anche tale attività entrerà presto nel campo visivo delle autorità fiscali.</p>
+<p>La conseguenza pratica è immediata: se sei residente fiscale in Spagna, hai l'obbligo di dichiarare i tuoi conti e i tuoi beni all'estero tramite il Modello 720 quando superano determinate soglie. Un saldo non dichiarato in Svizzera non è nascosto. Il segreto bancario svizzero nei confronti delle autorità fiscali straniere è venuto meno quasi un decennio fa, e chi non si è ancora adeguato a questa realtà si trova di fronte a un problema che potrebbe complicarsi col passare del tempo.</p>
+</div>`
     }
 });

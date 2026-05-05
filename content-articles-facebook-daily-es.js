@@ -1489,5 +1489,65 @@ Object.assign(window.siteContent.es.articles, {
 <p>¿Dónde aplica esto? En los países firmantes del acuerdo: Alemania, Francia, Italia, España, Portugal, Bélgica, Países Bajos, Luxemburgo, Austria, Grecia, Hungría, Eslovenia, Malta, Chipre, Turquía y Suiza, entre otros. Es decir, no es algo marginal.</p>
 <p>Si eres español y te niegan el embarque en estas condiciones, hay base legal para reclamar. Otra cosa es lo que te apetezca discutir en la puerta de embarque a las 6:00 de la mañana con alguien que solo sigue un procedimiento interno. Tener razón está bien. Que te dejen subir al avión, mejor.</p>
 </div>`
+    },
+
+    "fb-daily-20260505-01-lo-que-nadie-te-explica-sobre-heredar-en-suiza": {
+        title: "Lo que nadie te explica sobre heredar en Suiza",
+        description: "En Suiza no existe un impuesto de sucesiones federal. Lo que hay son impuestos cantonales, y cada cantón hace lo suyo. Esto significa que si tienes la fortuna…",
+        keywords: "nadie, explica, heredar, suiza, existe, impuesto, sucesiones, federal",
+        keywordsLocalized: true,
+        category: "Salud y LAMal",
+        hub: "salud",
+        slug: "actualidad-2026-05-05-1-lo-que-nadie-te-explica-sobre-heredar-en-suiza",
+        readingTime: 1,
+        dateUpdated: "5 mayo 2026",
+        summary: "En Suiza no existe un impuesto de sucesiones federal. Lo que hay son impuestos cantonales, y cada cantón hace lo suyo. Esto significa que si tienes…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suiza no existe un impuesto de sucesiones federal. Lo que hay son impuestos cantonales, y cada cantón hace lo suyo. Esto significa que si tienes la fortuna de heredar algo aquí, lo primero que necesitas saber no es la tasa impositiva, sino en qué cantón vivía el fallecido.</p>
+<p>La buena noticia para la mayoría: todos los cantones exoneran a los descendientes directos (hijos, nietos) y a los cónyuges o parejas registradas. En la práctica, si eres hijo de alguien que fallece en Suiza, en la mayoría de casos no pagas nada de impuesto de sucesiones suizo. Los cantones de Schwyz y Obwalden van más lejos: no tienen ningún impuesto de sucesiones, independientemente del grado de parentesco.</p>
+<p>El panorama cambia si eres hermano, sobrino, pareja de hecho no registrada o simplemente un tercero. Las tasas varían mucho según el cantón y el grado de parentesco, y pueden llegar hasta el 50% en casos extremos. La diferencia entre cantones para el mismo tipo de herencia puede ser enorme.</p>
+<p>Un detalle que mucha gente que vive en Suiza pasa por alto: si heredas bienes en España, eso es materia del impuesto de sucesiones español, no suizo. Y si vivías fuera de España cuando se abrió la herencia, desde 2018 tienes exactamente los mismos derechos que los residentes en la comunidad autónoma donde estén los bienes. Vale la pena verificarlo con un gestor, porque las diferencias autonómicas pueden ser muy importantes.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-02-las-vacaciones-en-suiza-lo-que-dice-la-ley-y-lo-que-depende-de-tu-cont": {
+        title: "Las vacaciones en Suiza: lo que dice la ley y lo que depende de tu contrato",
+        description: "En España son 22 días hábiles, que equivalen a unos 30 días naturales. En Suiza el mínimo legal es de 4 semanas al año para los trabajadores adultos, según el…",
+        keywords: "vacaciones, suiza, dice, depende, contrato, españa, días, hábiles",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-05-2-las-vacaciones-en-suiza-lo-que-dice-la-ley-y-lo-que-depende-de-tu-cont",
+        readingTime: 1,
+        dateUpdated: "5 mayo 2026",
+        summary: "En España son 22 días hábiles, que equivalen a unos 30 días naturales. En Suiza el mínimo legal es de 4 semanas al año para los trabajadores adultos,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En España son 22 días hábiles, que equivalen a unos 30 días naturales. En Suiza el mínimo legal es de 4 semanas al año para los trabajadores adultos, según el artículo 329a del Código de Obligaciones (CO). Para los trabajadores menores de 20 años el mínimo es de 5 semanas. No son días naturales ni días hábiles: son semanas de trabajo, lo que en la práctica con una semana de 5 días equivale a 20 días laborables para un adulto.</p>
+<p>La ley establece además que al menos dos semanas deben tomarse de forma consecutiva, y que las vacaciones deben disfrutarse dentro del año en curso en la medida de lo posible. El empleador fija las fechas teniendo en cuenta los deseos del trabajador, pero tiene la última palabra si hay razones objetivas de organización. Lo que la ley prohíbe de forma clara es sustituir los días de vacaciones por dinero mientras el contrato está en vigor: las vacaciones no se cobran, se toman.</p>
+<p>Muchos convenios colectivos (CCT) y contratos individuales mejoran este mínimo legal. Es habitual encontrar 5 semanas en empresas medianas y grandes, y también según la antigüedad. Vale la pena revisar el contrato y, si existe, el CCT del sector, porque las diferencias pueden ser importantes.</p>
+<p>Un punto que muchos desconocen: si caes enfermo durante las vacaciones y lo acreditas con un certificado médico, esos días de baja no se descuentan de tus vacaciones. Tienes derecho a recuperarlos. Es jurisprudencia establecida en Suiza, aunque en la práctica conviene comunicarlo al empleador sin demora y con la documentación en regla.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-03-el-secreto-bancario-suizo-y-espana-lo-que-hay-que-saber-antes-de-lleva": {
+        title: "El secreto bancario suizo y España: lo que hay que saber antes de llevarse una sorpresa",
+        description: "Si alguien te dijo que tener una cuenta en un banco suizo significa que Hacienda española no se entera, esa información lleva varios años obsoleta. Desde 2017,…",
+        keywords: "secreto, bancario, suizo, españa, saber, antes, llevarse, sorpresa",
+        keywordsLocalized: true,
+        category: "Impuestos",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-05-3-el-secreto-bancario-suizo-y-espana-lo-que-hay-que-saber-antes-de-lleva",
+        readingTime: 1,
+        dateUpdated: "5 mayo 2026",
+        summary: "Si alguien te dijo que tener una cuenta en un banco suizo significa que Hacienda española no se entera, esa información lleva varios años obsoleta.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Si alguien te dijo que tener una cuenta en un banco suizo significa que Hacienda española no se entera, esa información lleva varios años obsoleta. Desde 2017, Suiza intercambia automáticamente datos fiscales con todos los estados miembros de la UE, España incluida. El acuerdo se basa en la norma de la OCDE sobre Intercambio Automático de Información (AEOI/EAR), y es completamente vinculante.</p>
+<p>Lo que los bancos suizos transmiten cada año a la Administración Federal de Contribuciones (AFC/ESTV), que a su vez lo remite a la Agencia Tributaria española: nombre completo, domicilio, país de residencia fiscal, número de identificación fiscal, saldo de las cuentas, y las rentas generadas (intereses, dividendos, ganancias de capital). No hace falta ninguna investigación judicial ni solicitud previa. Es automático, anual y sistemático. En 2026 ya se han intercambiado datos de más de 3,4 millones de cuentas financieras con 101 países.</p>
+<p>En 2026 esto se amplía. Suiza está en proceso de incluir los criptoactivos en este intercambio, con implementación prevista para 2027. La lista de países incluye todos los estados miembros de la UE. Así que si tienes bitcoin o equivalentes en una plataforma suiza registrada, ese activo también entrará en el radar fiscal en breve.</p>
+<p>La consecuencia práctica es directa: si eres residente fiscal en España, tienes obligación de declarar tus cuentas y activos en el extranjero mediante el Modelo 720 cuando superan determinados umbrales. Un saldo no declarado en Suiza no está oculto. El secreto bancario suizo frente a las autoridades fiscales extranjeras dejó de existir hace casi una década, y quien no se haya adaptado a esa realidad tiene un problema que se puede ir complicando con el tiempo.</p>
+</div>`
     }
 });

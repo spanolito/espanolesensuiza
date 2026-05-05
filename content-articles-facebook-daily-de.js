@@ -1429,5 +1429,65 @@ Object.assign(window.siteContent.de.articles, {
 <p>Wo gilt das? In den Unterzeichnerländern des Abkommens: unter anderem Deutschland, Frankreich, Italien, Spanien, Portugal, Belgien, Niederlande, Luxemburg, Österreich, Griechenland, Ungarn, Slowenien, Malta, Zypern, Türkei und Schweiz. Das heißt, es handelt sich nicht um etwas Randales.</p>
 <p>Wenn Sie Spanier sind und Ihnen unter diesen Bedingungen die Beförderung verweigert wird, gibt es eine rechtliche Grundlage für eine Beschwerde. Eine andere Sache ist, was Sie am Flugsteig um 6:00 Uhr morgens mit jemandem besprechen möchten, der nur einem internen Verfahren folgt. Recht haben ist gut. Dass sie dich ins Flugzeug einsteigen lassen, desto besser.</p>
 </div>`
+    },
+
+    "fb-daily-20260505-01-was-dir-niemand-uber-das-erben-in-der-schweiz-erklart": {
+        title: "Was dir niemand über das Erben in der Schweiz erklärt",
+        description: "In der Schweiz gibt es keine Bundeserbschaftssteuer. Es gibt lediglich kantonale Steuern, und jeder Kanton regelt dies auf eigene Weise. Das bedeutet: Wenn du…",
+        keywords: "niemand, über, erben, schweiz, erklärt, gibt, keine, bundeserbschaftssteuer",
+        keywordsLocalized: true,
+        category: "Gesundheit und KVG",
+        hub: "salud",
+        slug: "actualidad-2026-05-05-1-was-dir-niemand-uber-das-erben-in-der-schweiz-erklart",
+        readingTime: 1,
+        dateUpdated: "5 Mai 2026",
+        summary: "In der Schweiz gibt es keine Bundeserbschaftssteuer. Es gibt lediglich kantonale Steuern, und jeder Kanton regelt dies auf eigene Weise. Das…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In der Schweiz gibt es keine Bundeserbschaftssteuer. Es gibt lediglich kantonale Steuern, und jeder Kanton regelt dies auf eigene Weise. Das bedeutet: Wenn du das Glück hast, hier etwas zu erben, musst du als Erstes nicht den Steuersatz kennen, sondern wissen, in welchem Kanton der Verstorbene gelebt hat.</p>
+<p>Die gute Nachricht für die meisten: Alle Kantone befreien direkte Nachkommen (Kinder, Enkelkinder) sowie Ehepartner oder eingetragene Partner von der Erbschaftssteuer. In der Praxis bedeutet dies: Wenn Sie ein Kind einer in der Schweiz verstorbenen Person sind, zahlen Sie in den meisten Fällen keine Schweizer Erbschaftssteuer. Die Kantone Schwyz und Obwalden gehen noch einen Schritt weiter: Dort gibt es überhaupt keine Erbschaftssteuer, unabhängig vom Verwandtschaftsgrad.</p>
+<p>Die Situation sieht anders aus, wenn du ein Geschwisterteil, ein Neffe oder eine Nichte, ein nicht eingetragener Lebenspartner oder einfach nur ein Dritter bist. Die Sätze variieren stark je nach Kanton und Verwandtschaftsgrad und können in Extremfällen bis zu 50 % betragen. Die Unterschiede zwischen den Kantonen bei derselben Art von Erbschaft können enorm sein.</p>
+<p>Ein Detail, das viele Menschen, die in der Schweiz leben, übersehen: Wenn Sie in Spanien Vermögen erben, unterliegt dies der spanischen Erbschaftssteuer, nicht der schweizerischen. Und wenn Sie zum Zeitpunkt des Erbfalls außerhalb Spaniens wohnten, haben Sie seit 2018 genau dieselben Rechte wie die Einwohner der Autonomen Gemeinschaft, in der sich das Vermögen befindet. Es lohnt sich, dies mit einem Steuerberater zu klären, da die Unterschiede zwischen den Autonomen Gemeinschaften sehr groß sein können.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-02-urlaub-in-der-schweiz-was-das-gesetz-vorschreibt-und-was-von-deinem-ar": {
+        title: "Urlaub in der Schweiz: Was das Gesetz vorschreibt und was von deinem Arbeitsvertrag abhängt",
+        description: "In Spanien sind es 22 Arbeitstage, was etwa 30 Kalendertagen entspricht. In der Schweiz beträgt das gesetzliche Minimum für erwachsene Arbeitnehmer gemäß…",
+        keywords: "urlaub, schweiz, gesetz, vorschreibt, deinem, arbeitsvertrag, abhängt, spanien",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-05-2-urlaub-in-der-schweiz-was-das-gesetz-vorschreibt-und-was-von-deinem-ar",
+        readingTime: 1,
+        dateUpdated: "5 Mai 2026",
+        summary: "In Spanien sind es 22 Arbeitstage, was etwa 30 Kalendertagen entspricht. In der Schweiz beträgt das gesetzliche Minimum für erwachsene Arbeitnehmer…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Spanien sind es 22 Arbeitstage, was etwa 30 Kalendertagen entspricht. In der Schweiz beträgt das gesetzliche Minimum für erwachsene Arbeitnehmer gemäß Artikel 329a des Obligationenrechts (OR) 4 Wochen pro Jahr. Für Arbeitnehmer unter 20 Jahren beträgt das Minimum 5 Wochen. Es handelt sich dabei weder um Kalendertage noch um Arbeitstage, sondern um Arbeitswochen, was bei einer 5-Tage-Woche in der Praxis 20 Arbeitstage für einen Erwachsenen entspricht.</p>
+<p>Das Gesetz sieht außerdem vor, dass mindestens zwei Wochen am Stück genommen werden müssen und dass der Urlaub so weit wie möglich im laufenden Jahr genommen werden soll. Der Arbeitgeber legt die Termine unter Berücksichtigung der Wünsche des Arbeitnehmers fest, hat jedoch das letzte Wort, wenn objektive organisatorische Gründe vorliegen. Was das Gesetz eindeutig verbietet, ist die Ersetzung von Urlaubstagen durch Geld während der Laufzeit des Arbeitsvertrags: Urlaub wird nicht ausgezahlt, sondern genommen.</p>
+<p>Viele Tarifverträge und Einzelarbeitsverträge sehen mehr als diesen gesetzlichen Mindestanspruch vor. In mittleren und großen Unternehmen sind fünf Wochen üblich, wobei die Dauer auch von der Betriebszugehörigkeit abhängt. Es lohnt sich, den Arbeitsvertrag und, falls vorhanden, den Branchentarifvertrag zu prüfen, da die Unterschiede erheblich sein können.</p>
+<p>Was viele nicht wissen: Wenn du im Urlaub krank wirst und dies durch ein ärztliches Attest nachweisen kannst, werden diese Krankheitstage nicht von deinem Urlaubskontingent abgezogen. Du hast Anspruch darauf, sie nachzuholen. Dies ist in der Schweiz geltende Rechtsprechung, doch in der Praxis ist es ratsam, den Arbeitgeber unverzüglich und mit den entsprechenden Unterlagen darüber zu informieren.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-03-das-schweizer-bankgeheimnis-und-spanien-was-man-wissen-sollte-um-keine": {
+        title: "Das Schweizer Bankgeheimnis und Spanien: Was man wissen sollte, um keine böse Überraschung zu erleben",
+        description: "Falls dir jemand gesagt hat, dass ein Konto bei einer Schweizer Bank bedeutet, dass das spanische Finanzamt nichts davon erfährt, ist diese Information schon…",
+        keywords: "schweizer, bankgeheimnis, spanien, wissen, sollte, keine, böse, überraschung",
+        keywordsLocalized: true,
+        category: "Steuern",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-05-3-das-schweizer-bankgeheimnis-und-spanien-was-man-wissen-sollte-um-keine",
+        readingTime: 1,
+        dateUpdated: "5 Mai 2026",
+        summary: "Falls dir jemand gesagt hat, dass ein Konto bei einer Schweizer Bank bedeutet, dass das spanische Finanzamt nichts davon erfährt, ist diese…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Falls dir jemand gesagt hat, dass ein Konto bei einer Schweizer Bank bedeutet, dass das spanische Finanzamt nichts davon erfährt, ist diese Information schon seit mehreren Jahren überholt. Seit 2017 tauscht die Schweiz automatisch Steuerdaten mit allen EU-Mitgliedstaaten aus, darunter auch Spanien. Das Abkommen basiert auf der OECD-Richtlinie zum automatischen Informationsaustausch (AEOI/EAR) und ist uneingeschränkt verbindlich.</p>
+<p>Was die Schweizer Banken jedes Jahr an die Eidgenössische Steuerverwaltung (ESTV) übermitteln, die diese Informationen wiederum an die spanische Steuerbehörde weiterleitet: vollständiger Name, Wohnsitz, Land des steuerlichen Wohnsitzes, Steueridentifikationsnummer, Kontostände und erzielte Erträge (Zinsen, Dividenden, Kapitalgewinne). Es bedarf keiner gerichtlichen Untersuchung oder vorherigen Anfrage. Der Austausch erfolgt automatisch, jährlich und systematisch. Im Jahr 2026 wurden bereits Daten von mehr als 3,4 Millionen Finanzkonten mit 101 Ländern ausgetauscht.</p>
+<p>Im Jahr 2026 wird dies ausgeweitet. Die Schweiz ist dabei, Krypto-Vermögenswerte in diesen Austausch einzubeziehen, wobei die Umsetzung für 2027 vorgesehen ist. Die Liste der Länder umfasst alle EU-Mitgliedstaaten. Wenn Sie also Bitcoin oder ähnliche Vermögenswerte auf einer registrierten Schweizer Plattform halten, wird dieser Vermögenswert in Kürze ebenfalls ins Visier der Steuerbehörden geraten.</p>
+<p>Die praktische Konsequenz ist klar: Wenn Sie in Spanien steuerlich ansässig sind, sind Sie verpflichtet, Ihre Konten und Vermögenswerte im Ausland mittels des Formulars 720 anzugeben, sobald diese bestimmte Schwellenwerte überschreiten. Ein nicht angegebenes Guthaben in der Schweiz ist nicht verborgen. Das Schweizer Bankgeheimnis gegenüber ausländischen Steuerbehörden existiert seit fast einem Jahrzehnt nicht mehr, und wer sich dieser Realität noch nicht angepasst hat, steht vor einem Problem, das sich mit der Zeit verschärfen kann.</p>
+</div>`
     }
 });

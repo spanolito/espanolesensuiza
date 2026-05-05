@@ -1429,5 +1429,65 @@ Object.assign(window.siteContent.en.articles, {
 <p>Where does this apply? In the signatory countries of the agreement: Germany, France, Italy, Spain, Portugal, Belgium, Netherlands, Luxembourg, Austria, Greece, Hungary, Slovenia, Malta, Cyprus, Turkey and Switzerland, among others. That is, it is not something marginal.</p>
 <p>If you are Spanish and they deny you boarding under these conditions, there is a legal basis to complain. Another thing is what you feel like discussing at the boarding gate at 6:00 in the morning with someone who only follows an internal procedure. Being right is good. That they let you get on the plane, the better.</p>
 </div>`
+    },
+
+    "fb-daily-20260505-01-what-nobody-tells-you-about-inheritance-in-switzerland": {
+        title: "What nobody tells you about inheritance in Switzerland",
+        description: "There is no federal inheritance tax in Switzerland. Instead, there are cantonal taxes, and each canton sets its own rules. This means that if you are lucky…",
+        keywords: "what, nobody, tells, about, inheritance, switzerland, there, federal",
+        keywordsLocalized: true,
+        category: "Health and LAMal",
+        hub: "salud",
+        slug: "actualidad-2026-05-05-1-what-nobody-tells-you-about-inheritance-in-switzerland",
+        readingTime: 1,
+        dateUpdated: "May 5, 2026",
+        summary: "There is no federal inheritance tax in Switzerland. Instead, there are cantonal taxes, and each canton sets its own rules. This means that if you are…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>There is no federal inheritance tax in Switzerland. Instead, there are cantonal taxes, and each canton sets its own rules. This means that if you are lucky enough to inherit something here, the first thing you need to know is not the tax rate, but which canton the deceased lived in.</p>
+<p>The good news for most people is that all cantons exempt direct descendants (children, grandchildren) and spouses or registered partners. In practice, if you are the child of someone who dies in Switzerland, in most cases you pay no Swiss inheritance tax. The cantons of Schwyz and Obwalden go even further: they have no inheritance tax at all, regardless of the degree of kinship.</p>
+<p>The situation is different if you are a sibling, nephew or niece, an unregistered partner, or simply a third party. Fees vary greatly depending on the canton and the degree of kinship, and can be as high as 50% in extreme cases. The difference between cantons for the same type of inheritance can be enormous.</p>
+<p>One detail that many people living in Switzerland overlook is that if you inherit assets in Spain, this is subject to Spanish inheritance tax, not Swiss. And if you were living outside Spain when the inheritance came into effect, since 2018 you have exactly the same rights as residents of the autonomous community where the assets are located. It is worth checking this with an accountant, as differences between autonomous communities can be significant.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-02-holidays-in-switzerland-what-the-law-says-and-what-depends-on-your-con": {
+        title: "Holidays in Switzerland: what the law says and what depends on your contract",
+        description: "In Spain, it is 22 working days, which is equivalent to around 30 calendar days. In Switzerland, the legal minimum is four weeks per year for adult workers,…",
+        keywords: "holidays, switzerland, what, says, depends, your, contract, spain",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-05-2-holidays-in-switzerland-what-the-law-says-and-what-depends-on-your-con",
+        readingTime: 1,
+        dateUpdated: "May 5, 2026",
+        summary: "In Spain, it is 22 working days, which is equivalent to around 30 calendar days. In Switzerland, the legal minimum is four weeks per year for adult…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Spain, it is 22 working days, which is equivalent to around 30 calendar days. In Switzerland, the legal minimum is four weeks per year for adult workers, according to Article 329a of the Swiss Code of Obligations (CO). For workers under the age of 20, the minimum is five weeks. These are not calendar days or working days: they are working weeks, which in practice, with a five-day week, equates to 20 working days for an adult.</p>
+<p>The law also stipulates that at least two weeks must be taken consecutively, and that annual leave must be taken within the current year wherever possible. The employer sets the dates taking the employee’s wishes into account, but has the final say if there are objective organisational reasons. What the law clearly prohibits is substituting holiday days for money whilst the contract is in force: holidays are not paid out, they are taken.</p>
+<p>Many collective agreements and individual contracts offer better terms than this legal minimum. It is common to find five weeks’ holiday entitlement in medium-sized and large companies, and this may also depend on length of service. It is worth checking your contract and, if applicable, the sector’s collective agreement, as the differences can be significant.</p>
+<p>Something many people are unaware of: if you fall ill whilst on holiday and provide a doctor’s certificate to prove it, those days off will not be deducted from your holiday entitlement. You are entitled to have them added back on. This is established case law in Switzerland, although in practice it is advisable to notify your employer without delay and provide the necessary documentation.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-03-swiss-banking-secrecy-and-spain-what-you-need-to-know-before-youre-in": {
+        title: "Swiss banking secrecy and Spain: what you need to know before you’re in for a surprise",
+        description: "If anyone has told you that having a Swiss bank account means the Spanish tax authorities won’t find out, that information has been out of date for several…",
+        keywords: "swiss, banking, secrecy, spain, what, need, know, before",
+        keywordsLocalized: true,
+        category: "Taxes",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-05-3-swiss-banking-secrecy-and-spain-what-you-need-to-know-before-youre-in",
+        readingTime: 1,
+        dateUpdated: "May 5, 2026",
+        summary: "If anyone has told you that having a Swiss bank account means the Spanish tax authorities won’t find out, that information has been out of date for…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>If anyone has told you that having a Swiss bank account means the Spanish tax authorities won’t find out, that information has been out of date for several years. Since 2017, Switzerland has been automatically exchanging tax data with all EU member states, including Spain. The agreement is based on the OECD’s Automatic Exchange of Information (AEOI/EAR) standard and is fully binding.</p>
+<p>The information that Swiss banks report each year to the Federal Tax Administration (FTA/ESTV), which in turn forwards it to the Spanish Tax Agency: full name, address, country of tax residence, tax identification number, account balances, and income generated (interest, dividends, capital gains). No judicial investigation or prior request is required. It is automatic, annual and systematic. By 2026, data on more than 3.4 million financial accounts had already been exchanged with 101 countries.</p>
+<p>This will be expanded in 2026. Switzerland is in the process of including crypto-assets in this exchange, with implementation scheduled for 2027. The list of countries includes all EU member states. So if you hold bitcoin or equivalent assets on a registered Swiss platform, those assets will also come under the tax authorities’ scrutiny shortly.</p>
+<p>The practical implication is clear: if you are a tax resident in Spain, you are required to declare your foreign accounts and assets using Form 720 once they exceed certain thresholds. An undeclared balance in Switzerland is not hidden. Swiss banking secrecy vis-à-vis foreign tax authorities ceased to exist almost a decade ago, and anyone who has not adapted to this reality faces a problem that is likely to become increasingly complicated over time.</p>
+</div>`
     }
 });

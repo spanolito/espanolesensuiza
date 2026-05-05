@@ -1429,5 +1429,65 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Où est-ce que cela s'applique ? Dans les pays signataires de l'accord : Allemagne, France, Italie, Espagne, Portugal, Belgique, Pays-Bas, Luxembourg, Autriche, Grèce, Hongrie, Slovénie, Malte, Chypre, Turquie et Suisse, entre autres. Autrement dit, ce n'est pas quelque chose de marginal.</p>
 <p>Si vous êtes espagnol et qu'on vous refuse l'embarquement dans ces conditions, il existe une base légale pour vous plaindre. Une autre chose est de savoir ce dont vous avez envie de discuter à la porte d'embarquement à 6 heures du matin avec quelqu'un qui ne suit qu'une procédure interne. Avoir raison, c'est bien. Qu'ils vous laissent monter dans l'avion, mieux c'est.</p>
 </div>`
+    },
+
+    "fb-daily-20260505-01-ce-que-personne-ne-vous-dit-sur-les-successions-en-suisse": {
+        title: "Ce que personne ne vous dit sur les successions en Suisse",
+        description: "En Suisse, il n'existe pas d'impôt fédéral sur les successions. Il s'agit d'impôts cantonaux, et chaque canton applique ses propres règles. Cela signifie que…",
+        keywords: "personne, vous, successions, suisse, existe, impôt, fédéral, agit",
+        keywordsLocalized: true,
+        category: "Santé et LAMal",
+        hub: "salud",
+        slug: "actualidad-2026-05-05-1-ce-que-personne-ne-vous-dit-sur-les-successions-en-suisse",
+        readingTime: 1,
+        dateUpdated: "5 mai 2026",
+        summary: "En Suisse, il n'existe pas d'impôt fédéral sur les successions. Il s'agit d'impôts cantonaux, et chaque canton applique ses propres règles. Cela…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suisse, il n'existe pas d'impôt fédéral sur les successions. Il s'agit d'impôts cantonaux, et chaque canton applique ses propres règles. Cela signifie que si vous avez la chance d'hériter d'un bien ici, la première chose à savoir n'est pas le taux d'imposition, mais dans quel canton résidait le défunt.</p>
+<p>La bonne nouvelle pour la plupart des gens : tous les cantons exonèrent les descendants directs (enfants, petits-enfants) ainsi que les conjoints ou les partenaires enregistrés. En pratique, si vous êtes l'enfant d'une personne décédée en Suisse, vous ne payez dans la plupart des cas aucun droit de succession suisse. Les cantons de Schwyz et d'Obwald vont encore plus loin : ils n'appliquent aucun droit de succession, quel que soit le degré de parenté.</p>
+<p>La situation est différente si vous êtes un frère, un neveu, un concubin non enregistré ou simplement un tiers. Les taux varient considérablement selon le canton et le degré de parenté, et peuvent atteindre jusqu'à 50 % dans les cas extrêmes. Les écarts entre les cantons pour un même type d'héritage peuvent être considérables.</p>
+<p>Un détail que beaucoup de personnes vivant en Suisse ont tendance à oublier : si vous héritez de biens en Espagne, ceux-ci sont soumis à l'impôt sur les successions espagnol, et non au suisse. Et si vous résidiez hors d'Espagne au moment de l'ouverture de la succession, depuis 2018, vous disposez exactement des mêmes droits que les résidents de la communauté autonome où se trouvent les biens. Il vaut la peine de vérifier cela auprès d'un conseiller fiscal, car les différences entre les communautés autonomes peuvent être très importantes.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-02-les-conges-en-suisse-ce-que-dit-la-loi-et-ce-qui-depend-de-ton-contrat": {
+        title: "Les congés en Suisse : ce que dit la loi et ce qui dépend de ton contrat",
+        description: "En Espagne, ce sont 22 jours ouvrables, ce qui correspond à environ 30 jours civils. En Suisse, le minimum légal est de 4 semaines par an pour les travailleurs…",
+        keywords: "congés, suisse, dépend, contrat, espagne, sont, jours, ouvrables",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-05-2-les-conges-en-suisse-ce-que-dit-la-loi-et-ce-qui-depend-de-ton-contrat",
+        readingTime: 1,
+        dateUpdated: "5 mai 2026",
+        summary: "En Espagne, ce sont 22 jours ouvrables, ce qui correspond à environ 30 jours civils. En Suisse, le minimum légal est de 4 semaines par an pour les…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Espagne, ce sont 22 jours ouvrables, ce qui correspond à environ 30 jours civils. En Suisse, le minimum légal est de 4 semaines par an pour les travailleurs adultes, conformément à l'article 329a du Code des obligations (CO). Pour les travailleurs de moins de 20 ans, le minimum est de 5 semaines. Il ne s'agit ni de jours civils ni de jours ouvrables : ce sont des semaines de travail, ce qui, dans la pratique, avec une semaine de 5 jours, équivaut à 20 jours ouvrables pour un adulte.</p>
+<p>La loi prévoit en outre qu'au moins deux semaines doivent être prises d'affilée et que les congés doivent être pris dans l'année en cours dans la mesure du possible. L'employeur fixe les dates en tenant compte des souhaits du salarié, mais il a le dernier mot s'il existe des raisons objectives liées à l'organisation. Ce que la loi interdit clairement, c'est de remplacer les jours de congé par une compensation financière pendant la durée du contrat : les congés ne se paient pas, ils se prennent.</p>
+<p>De nombreuses conventions collectives (CCT) et contrats individuels améliorent ce minimum légal. Il est courant de bénéficier de 5 semaines dans les moyennes et grandes entreprises, et ce en fonction de l'ancienneté. Il vaut la peine de vérifier son contrat et, le cas échéant, la CCT du secteur, car les différences peuvent être importantes.</p>
+<p>Un point que beaucoup ignorent : si vous tombez malade pendant vos vacances et que vous le justifiez par un certificat médical, ces jours d'arrêt ne sont pas décomptés de vos vacances. Vous avez le droit de les récupérer. Il s'agit d'une jurisprudence établie en Suisse, même si, dans la pratique, il est conseillé d'en informer votre employeur sans tarder et de lui fournir les documents nécessaires.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-03-le-secret-bancaire-suisse-et-lespagne-ce-quil-faut-savoir-pour-eviter": {
+        title: "Le secret bancaire suisse et l'Espagne : ce qu'il faut savoir pour éviter les mauvaises surprises",
+        description: "Si quelqu'un vous a dit qu'avoir un compte dans une banque suisse signifiait que le fisc espagnol n'en savait rien, cette information est obsolète depuis…",
+        keywords: "secret, bancaire, suisse, espagne, faut, savoir, éviter, mauvaises",
+        keywordsLocalized: true,
+        category: "Impôts",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-05-3-le-secret-bancaire-suisse-et-lespagne-ce-quil-faut-savoir-pour-eviter",
+        readingTime: 1,
+        dateUpdated: "5 mai 2026",
+        summary: "Si quelqu'un vous a dit qu'avoir un compte dans une banque suisse signifiait que le fisc espagnol n'en savait rien, cette information est obsolète…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Si quelqu'un vous a dit qu'avoir un compte dans une banque suisse signifiait que le fisc espagnol n'en savait rien, cette information est obsolète depuis plusieurs années. Depuis 2017, la Suisse échange automatiquement des données fiscales avec tous les États membres de l'UE, y compris l'Espagne. Cet accord repose sur la norme de l'OCDE relative à l'échange automatique d'informations (AEOI/EAR) et est pleinement contraignant.</p>
+<p>Voici les informations que les banques suisses transmettent chaque année à l'Administration fédérale des contributions (AFC/ESTV), qui les transmet à son tour à l'administration fiscale espagnole : nom complet, adresse, pays de résidence fiscale, numéro d'identification fiscale, solde des comptes et revenus générés (intérêts, dividendes, plus-values). Aucune enquête judiciaire ni demande préalable n'est nécessaire. Ce processus est automatique, annuel et systématique. En 2026, des données concernant plus de 3,4 millions de comptes financiers ont déjà été échangées avec 101 pays.</p>
+<p>En 2026, cette mesure sera étendue. La Suisse est en train d'intégrer les crypto-actifs dans ce système d'échange, dont la mise en œuvre est prévue pour 2027. La liste des pays concernés comprend tous les États membres de l'UE. Ainsi, si vous détenez des bitcoins ou des équivalents sur une plateforme suisse enregistrée, ces actifs seront eux aussi bientôt pris en compte par les autorités fiscales.</p>
+<p>La conséquence pratique est claire : si vous êtes résident fiscal en Espagne, vous êtes tenu de déclarer vos comptes et vos actifs à l'étranger au moyen du formulaire 720 dès lors qu'ils dépassent certains seuils. Un solde non déclaré en Suisse n'est pas caché. Le secret bancaire suisse vis-à-vis des autorités fiscales étrangères a cessé d'exister il y a près d'une décennie, et ceux qui ne se sont pas adaptés à cette réalité se retrouvent face à un problème qui risque de se compliquer avec le temps.</p>
+</div>`
     }
 });
