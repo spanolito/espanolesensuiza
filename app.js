@@ -1636,11 +1636,12 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (blurInput) searchInput.blur();
             };
 
-            const showSuggestions = () => {
+            const showSuggestions = (sortMode = 'relevancia') => {
                 setSearchPanel(buildHomeSearchSuggestionsHTML({
                     ui,
                     currentLang,
-                    articles: canonicalArticles
+                    articles: canonicalArticles,
+                    sortMode
                 }));
             };
 
@@ -1660,7 +1661,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 const filterAudience = document.getElementById('search-filter-audience') ? document.getElementById('search-filter-audience').value : '';
 
                 if (!term) {
-                    showSuggestions();
+                    showSuggestions(sortMode);
                     return;
                 }
 
@@ -1921,20 +1922,24 @@ document.addEventListener("DOMContentLoaded", () => {
         }).filter(Boolean);
     }
 
-    function buildHomeSearchSuggestionsHTML({ ui, currentLang, articles }) {
-        const latest = [...articles]
-            .sort(getArticleSortComparator("recientes"))
+    function buildHomeSearchSuggestionsHTML({ ui, currentLang, articles, sortMode = "recientes" }) {
+        const results = [...articles]
+            .sort(getArticleSortComparator(sortMode))
             .slice(0, 4);
-        const featured = getHomepageFeaturedArticles(currentLang);
+        
+        let sectionTitle = ui['home-title-latest'] || 'Más recientes';
+        if (sortMode === 'relevancia') sectionTitle = ui['sort-relevance'] || 'Más relevantes';
+        if (sortMode === 'abc') sectionTitle = ui['sort-abc'] || 'Alfabético (A-Z)';
 
+        const featured = getHomepageFeaturedArticles(currentLang);
         const frequent = getHomeSearchFrequentTerms(currentLang);
 
         return `
             <div class="search-suggestions-panel">
                 <section class="search-panel-section">
-                    <h3 class="search-panel-title">${ui['home-title-latest']}</h3>
+                    <h3 class="search-panel-title">${sectionTitle}</h3>
                     <div class="featured-grid">
-                        ${latest.map(article => renderCard(article, ui, { compact: true, showBadge: true })).join('')}
+                        ${results.map(article => renderCard(article, ui, { compact: true, showBadge: sortMode === 'recientes' })).join('')}
                     </div>
                 </section>
                 <section class="search-panel-section">
