@@ -1682,5 +1682,68 @@ Object.assign(window.siteContent.en.articles, {
 <p>If you are Spanish and are denied boarding under these circumstances, there is a legal basis for making a claim. Whether you want to argue with someone at the boarding gate at 6:00 am—someone who is simply following internal procedures—is another matter. Being in the right is all well and good. Being allowed to board the plane is even better.</p>
 <p>www.espanolesensuiza.ch</p>
 </div>`
+    },
+
+    "fb-daily-20260506-01-what-nobody-tells-you-about-pay-as-you-go-mobile-contracts-in-switzerl": {
+        title: "What nobody tells you about pay-as-you-go mobile contracts in Switzerland",
+        description: "On-call work (travail sur appel) is one of the most common types of contract in the hospitality, retail, cleaning and care sectors. The employer calls you when…",
+        keywords: "what, nobody, tells, about, mobile, contracts, switzerland, call",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-06-1-what-nobody-tells-you-about-pay-as-you-go-mobile-contracts-in-switzerl",
+        readingTime: 2,
+        dateUpdated: "May 6, 2026",
+        summary: "On-call work (travail sur appel) is one of the most common types of contract in the hospitality, retail, cleaning and care sectors. The employer…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>On-call work (travail sur appel) is one of the most common types of contract in the hospitality, retail, cleaning and care sectors. The employer calls you when there is work to be done, and doesn’t when there isn’t. It sounds convenient for the company. In Switzerland, however, the business risk does not fall on the worker, and that changes things quite a bit.</p>
+<p>The case law of the Federal Court is clear: an on-call contract is not a series of one-off mini-contracts. It is a single contract of indefinite duration. This has a direct consequence: if the employer decides to let you go, they cannot simply stop calling you. The statutory notice periods set out in the Swiss Code of Obligations (CO) apply, and during that period you are entitled to your average wage calculated over the previous 6 or 12 months, regardless of whether you actually worked on those days.</p>
+<p>Article 324 of the Labour Code gets straight to the point: if your employer cannot offer you work for reasons attributable to them, including a downturn in business or a quiet period, the financial risk is theirs. You are entitled to your salary even if you haven’t set foot in the workplace. The same applies to holiday leave: a minimum of four weeks’ holiday per year is guaranteed, with at least two consecutive weeks, regardless of the number of days actually worked. Sick pay is calculated based on the duration of the contract, not on the hours worked.</p>
+<p>In practice, the problem stems from poorly drafted contracts. If the document does not specify a minimum number of guaranteed hours, the employer can argue that the historical average is low and calculate your pay during the notice period accordingly. Collective labour agreements (CLAs) can improve these conditions: in the hospitality sector, the L-GAV sets out rules that offer greater protection than the standard Labour Code. Before signing any on-call contract, it is worth checking which CLA applies to your sector and what it specifically states regarding this type of contract.</p>
+<p>- Swiss Federal Council, report on the regulation of on-call work: https://www.newsd.admin.ch/newsd/message/attachments/69051.pdf - Parlament.ch, motion 19.3748 "Regulating on-call work": https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20193748 - espacedroit.ch, on-call work in Switzerland: https://www.espacedroit.ch/en/topics/travail-sur-appel-en/</p>
+</div>`
+    },
+
+    "fb-daily-20260506-02-getting-rid-of-old-furniture-in-switzerland-what-works-what-doesnt-and": {
+        title: "Getting rid of old furniture in Switzerland: what works, what doesn’t, and how much it might cost you",
+        description: "In Switzerland, disposing of an old sofa, mattress or furniture left over from a move doesn’t work in the same way as in other countries. Leaving them on the…",
+        keywords: "getting, furniture, switzerland, what, works, doesn, much, might",
+        keywordsLocalized: true,
+        category: "Living in Switzerland",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-06-2-getting-rid-of-old-furniture-in-switzerland-what-works-what-doesnt-and",
+        readingTime: 2,
+        dateUpdated: "May 6, 2026",
+        summary: "In Switzerland, disposing of an old sofa, mattress or furniture left over from a move doesn’t work in the same way as in other countries. Leaving…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Switzerland, disposing of an old sofa, mattress or furniture left over from a move doesn’t work in the same way as in other countries. Leaving them on the street is not an option: depending on the canton and municipality, it may constitute an offence punishable by a fine, or the resident may be liable for the collection costs. The household waste bin is not intended for this type of item either. So-called ‘bulky items’ or encombrants have their own collection system.</p>
+<p>The main option is the ‘dechetterie’ or cantonal recycling centre. Each canton has a network of centres where you can take furniture, electrical appliances, wood and other bulky items. Most of these are free for residents of the municipality or canton, but there are conditions: you must visit during opening hours, sort items correctly and, in some cantons, provide proof of residence. In Geneva, from 1 February 2026, you must present an ESREC pass (Geneva resident card) to access the cantonal recycling centres. Without this card, you will not be granted access.</p>
+<p>Many local councils also organise bulky waste collections from homes once or twice a year. The schedule is usually available on the council’s website. In some cases, you need to book an appointment in advance. Outside these dates, there is the option of using clearance services, private companies that collect items from your home for a fee. The free alternative is to post them on reuse platforms such as Ricardo, Tutti or local Facebook groups: in Switzerland, the culture of giving objects a second life before throwing them away is quite well established and works well for furniture in good condition.</p>
+<p>It is worth remembering that leaving bulky items on the street without permission, in communal areas of the building or in domestic waste bins may result in a fine or the cost of collection being passed on directly to the person who left them there. Each local authority has its own rules, which can vary considerably even within the same district. Before taking any action, it is best to check the local authority’s website or call the municipal waste collection service.</p>
+<p>- ge.ch, bulky waste and scrap metal in Geneva: https://www.ge.ch/comment-trier-ses-dechets-geneve/encombrants-ferraille - geneve.ch, bulky waste collection: https://www.geneve.ch/themes/environnement-urbain-espaces-verts/recyclage-dechets-menagers/objets-encombrants - recyclage-express.ch, waste collection centres in French-speaking Switzerland: https://recyclage-express.ch/en/tout-savoir-sur-les-dechetteries-en-suisse-romande/</p>
+</div>`
+    },
+
+    "fb-daily-20260506-03-the-14-june-initiative-does-not-deport-anyone-with-a-permit-but-in-the": {
+        title: "The 14 June initiative does not deport anyone with a permit. But in the groups, the opposite is being claimed.",
+        description: "Whenever a vote on immigration approaches in Switzerland, Spanish-speaking groups are flooded with messages that mix legitimate concerns with rumours that have…",
+        keywords: "june, initiative, does, deport, anyone, permit, groups, opposite",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-06-3-the-14-june-initiative-does-not-deport-anyone-with-a-permit-but-in-the",
+        readingTime: 2,
+        dateUpdated: "May 6, 2026",
+        summary: "Whenever a vote on immigration approaches in Switzerland, Spanish-speaking groups are flooded with messages that mix legitimate concerns with rumours…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Whenever a vote on immigration approaches in Switzerland, Spanish-speaking groups are flooded with messages that mix legitimate concerns with rumours that have no basis in the text put to the vote. With the “Pas de Suisse à 10 millions!” initiative on 14 June, the cycle is repeating itself once again. It is worth reading what the text actually says and, above all, what it does not say.</p>
+<p>The SVP’s initiative proposes that Switzerland’s permanent resident population should not exceed 10 million by 2050. If the threshold of 9.5 million is reached before that date, the Federal Council and Parliament would be obliged to take action. The measures explicitly mentioned in the text mainly concern asylum: people with provisional admission would no longer be able to obtain settlement permits, and family reunification would be restricted in certain cases. The text also includes a clause on compliance with peremptory international law.</p>
+<p>What the text does not contain is any provision for the withdrawal of permits already granted or for the forced return of residents with stable legal status. Holders of B permits, C permits and G permits, and their family members with dependent permits, are not the target of this initiative. To claim otherwise without any basis in the text is simply incorrect. The Federal Council and Parliament reject the initiative, but because of its potential impact on bilateral agreements with the EU and on the Swiss economy, not because it would expel established residents.</p>
+<p>There is a certain logic to the confusion: an initiative that talks about “controlling the number of residents” naturally causes anxiety, especially among those who have had to deal with permit renewals or complicated immigration procedures. But voting or commenting out of fear rather than on the basis of the text itself helps no one. The full text is available at admin.ch. It takes ten minutes to read and is worth more than a hundred WhatsApp posts.</p>
+<p>- admin.ch, the initiative’s official website: https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, the Federal Council’s position: https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, analysis of the text: https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, official initiative details: https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
+</div>`
     }
 });

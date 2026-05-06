@@ -1662,5 +1662,68 @@ Object.assign(window.siteContent.de.articles, {
 <p>Wenn du Spanier bist und dir unter diesen Umständen das Einsteigen verweigert wird, gibt es eine Rechtsgrundlage für eine Beschwerde. Eine andere Sache ist es, was du um 6:00 Uhr morgens am Flugsteig mit jemandem diskutieren möchtest, der lediglich interne Vorschriften befolgt. Recht zu haben ist gut. Dass man dich ins Flugzeug lässt, ist besser.</p>
 <p>www.espanolesensuiza.ch</p>
 </div>`
+    },
+
+    "fb-daily-20260506-01-was-dir-niemand-uber-den-vertrag-mit-abrechnung-nach-verbrauch-in-der": {
+        title: "Was dir niemand über den Vertrag mit Abrechnung nach Verbrauch in der Schweiz erklärt",
+        description: "Die „Auf Abruf“-Beschäftigung (travail sur appel) ist eine der häufigsten Beschäftigungsformen im Gastgewerbe, im Handel, in der Reinigungsbranche und im…",
+        keywords: "niemand, über, vertrag, abrechnung, nach, verbrauch, schweiz, erklärt",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-06-1-was-dir-niemand-uber-den-vertrag-mit-abrechnung-nach-verbrauch-in-der",
+        readingTime: 2,
+        dateUpdated: "6 Mai 2026",
+        summary: "Die „Auf Abruf“-Beschäftigung (travail sur appel) ist eine der häufigsten Beschäftigungsformen im Gastgewerbe, im Handel, in der Reinigungsbranche…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Die „Auf Abruf“-Beschäftigung (travail sur appel) ist eine der häufigsten Beschäftigungsformen im Gastgewerbe, im Handel, in der Reinigungsbranche und im Pflegebereich. Der Arbeitgeber ruft dich an, wenn Arbeit da ist, und wenn nicht, dann eben nicht. Das klingt für das Unternehmen bequem. In der Schweiz liegt das unternehmerische Risiko jedoch nicht beim Arbeitnehmer, und das verändert die Situation erheblich.</p>
+<p>Die Rechtsprechung des Bundesgerichts ist eindeutig: Ein Abrufvertrag ist keine Aneinanderreihung von punktuellen Miniverträgen. Es handelt sich um einen einzigen Vertrag auf unbestimmte Zeit. Das hat eine direkte Konsequenz: Wenn der Arbeitgeber beschliesst, auf dich zu verzichten, kann er nicht einfach aufhören, dich anzurufen. Es gelten die gesetzlichen Kündigungsfristen des Obligationenrechts (OR), und während dieser Zeit hast du Anspruch auf den Durchschnittslohn, berechnet auf der Grundlage der letzten 6 oder 12 Monate, unabhängig davon, ob du an diesen Tagen gearbeitet hast oder nicht.</p>
+<p>Artikel 324 des Arbeitsgesetzbuchs (CO) bringt es auf den Punkt: Wenn der Arbeitgeber dir aus Gründen, die er zu vertreten hat – einschließlich eines Rückgangs der Geschäftstätigkeit oder einer Nebensaison – keine Arbeit anbieten kann, trägt er das wirtschaftliche Risiko. Du hast Anspruch auf deinen Lohn, auch wenn du keinen Fuß in die Arbeit gesetzt hast. Das Gleiche gilt für den Urlaub: Mindestens vier Wochen pro Jahr sind garantiert, davon mindestens zwei aufeinanderfolgende Wochen, unabhängig von den tatsächlich gearbeiteten Tagen. Der Krankengeldanspruch richtet sich nach der Vertragsdauer, nicht nach den geleisteten Arbeitsstunden.</p>
+<p>In der Praxis liegt das Problem in schlecht formulierten Verträgen. Wenn im Vertrag keine garantierte Mindeststundenzahl festgelegt ist, kann der Arbeitgeber argumentieren, dass der historische Durchschnitt niedrig ist, und entsprechend berechnen, was er dir während der Kündigungsfrist schuldet. Tarifverträge können diese Bedingungen verbessern: Im Gastgewerbe legt der L-GAV strengere Schutzbestimmungen fest als das allgemeine Arbeitsgesetz. Bevor du einen Vertrag auf Abruf unterzeichnest, lohnt es sich zu prüfen, welcher Tarifvertrag in deiner Branche gilt und was er konkret zu dieser Vertragsart sagt.</p>
+<p>- Schweizer Bundesrat, Bericht zur Regulierung der Arbeit auf Abruf: https://www.newsd.admin.ch/newsd/message/attachments/69051.pdf - Parlament.ch, Motion 19.3748 „Reglementer le travail sur appel“: https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20193748 - espacedroit.ch, Arbeit auf Abruf in der Schweiz: https://www.espacedroit.ch/en/topics/travail-sur-appel-en/</p>
+</div>`
+    },
+
+    "fb-daily-20260506-02-alte-mobel-in-der-schweiz-entsorgen-was-funktioniert-was-nicht-und-was": {
+        title: "Alte Möbel in der Schweiz entsorgen: Was funktioniert, was nicht und was es kosten kann",
+        description: "In der Schweiz funktioniert die Entsorgung von alten Sofas, Matratzen oder Möbeln aus einem Umzug nicht so wie in anderen Ländern. Sie auf der Straße…",
+        keywords: "alte, möbel, schweiz, entsorgen, funktioniert, nicht, kosten, kann",
+        keywordsLocalized: true,
+        category: "Leben in der Schweiz",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-06-2-alte-mobel-in-der-schweiz-entsorgen-was-funktioniert-was-nicht-und-was",
+        readingTime: 2,
+        dateUpdated: "6 Mai 2026",
+        summary: "In der Schweiz funktioniert die Entsorgung von alten Sofas, Matratzen oder Möbeln aus einem Umzug nicht so wie in anderen Ländern. Sie auf der Straße…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In der Schweiz funktioniert die Entsorgung von alten Sofas, Matratzen oder Möbeln aus einem Umzug nicht so wie in anderen Ländern. Sie auf der Straße abzustellen, ist keine Option: Je nach Kanton und Gemeinde kann dies einen Verstoß darstellen, der mit einer Geldstrafe geahndet wird oder dazu führt, dass die Kosten für die Abholung dem Bewohner in Rechnung gestellt werden. Auch der Hauskehrichtcontainer ist für solche Gegenstände nicht vorgesehen. Die sogenannten «Sperrmüllgegenstände» oder «Encombrants» haben ihren eigenen Entsorgungsweg.</p>
+<p>Die wichtigste Möglichkeit ist die „Dechettérie“ oder kantonale Recyclingstelle. Jeder Kanton verfügt über ein Netz von Zentren, in denen Möbel, Haushaltsgeräte, Holz und andere sperrige Gegenstände abgegeben werden können. Für Einwohner der Gemeinde oder des Kantons ist dies meist kostenlos, allerdings gelten bestimmte Bedingungen: Man muss während der Öffnungszeiten kommen, die Sortierung der Materialien beachten und in einigen Kantonen entsprechende Nachweise vorlegen. In Genf ist es seit dem 1. Februar 2026 Pflicht, einen ESREC-Pass (Genfer Einwohnerausweis) vorzuweisen, um Zugang zu den kantonalen Recyclingstellen zu erhalten. Ohne diese Karte wird kein Zutritt gewährt.</p>
+<p>Viele Gemeinden organisieren zudem ein- oder zweimal im Jahr eine Sperrmüllabholung. Der Terminplan ist in der Regel auf der Website der Gemeinde zu finden. In manchen Fällen muss man einen Termin vereinbaren. Ausserhalb dieser Termine gibt es die Möglichkeit, Entrümpelungsdienste in Anspruch zu nehmen – private Unternehmen, die die Gegenstände gegen Bezahlung zu Hause abholen. Die kostenlose Alternative besteht darin, sie auf Wiederverwendungsplattformen wie Ricardo, Tutti oder in lokalen Facebook-Gruppen anzubieten: In der Schweiz ist die Kultur, Gegenständen ein zweites Leben zu schenken, bevor man sie wegwirft, ziemlich tief verwurzelt und funktioniert gut bei Möbeln in gutem Zustand.</p>
+<p>Was Sie beachten sollten: Das unbefugte Abstellen von Sperrmüll auf der Straße, in den Gemeinschaftsbereichen des Gebäudes oder in Hausmüllcontainern kann zu einer Geldstrafe führen oder dazu, dass die Kosten für die Abholung direkt demjenigen in Rechnung gestellt werden, der den Müll dort abgestellt hat. Jede Gemeinde hat ihre eigenen Vorschriften, die selbst innerhalb desselben Kantons stark variieren können. Bevor Sie etwas unternehmen, sollten Sie am besten die Website der Gemeinde konsultieren oder den kommunalen Entsorgungsdienst anrufen.</p>
+<p>- ge.ch, Sperrmüll und Altmetall in Genf: https://www.ge.ch/comment-trier-ses-dechets-geneve/encombrants-ferraille - geneve.ch, Sperrmüllabholung: https://www.geneve.ch/themes/environnement-urbain-espaces-verts/recyclage-dechets-menagers/objets-encombrants - recyclage-express.ch, Wertstoffhöfe in der Westschweiz: https://recyclage-express.ch/en/tout-savoir-sur-les-dechetteries-en-suisse-romande/</p>
+</div>`
+    },
+
+    "fb-daily-20260506-03-die-initiative-vom-14-juni-sieht-keine-ausweisung-von-personen-mit-auf": {
+        title: "Die Initiative vom 14. Juni sieht keine Ausweisung von Personen mit Aufenthaltsgenehmigung vor. In den Gruppen wird jedoch das Gegenteil behauptet.",
+        description: "Jedes Mal, wenn in der Schweiz eine Abstimmung zum Thema Einwanderung ansteht, füllen sich die spanischen Gruppen mit Beiträgen, in denen berechtigte Bedenken…",
+        keywords: "initiative, juni, sieht, keine, ausweisung, personen, aufenthaltsgenehmigung, gruppen",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-06-3-die-initiative-vom-14-juni-sieht-keine-ausweisung-von-personen-mit-auf",
+        readingTime: 2,
+        dateUpdated: "6 Mai 2026",
+        summary: "Jedes Mal, wenn in der Schweiz eine Abstimmung zum Thema Einwanderung ansteht, füllen sich die spanischen Gruppen mit Beiträgen, in denen berechtigte…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Jedes Mal, wenn in der Schweiz eine Abstimmung zum Thema Einwanderung ansteht, füllen sich die spanischen Gruppen mit Beiträgen, in denen berechtigte Bedenken mit Gerüchten vermischt werden, die keinerlei Grundlage in dem zur Abstimmung stehenden Text haben. Mit der Initiative „Pas de Suisse à 10 millions!“ am 14. Juni wiederholt sich dieser Kreislauf pünktlich. Es lohnt sich, zu lesen, was der Text sagt – und vor allem, was er nicht sagt.</p>
+<p>Die SVP-Initiative sieht vor, dass die ständige Wohnbevölkerung der Schweiz bis 2050 die 10-Millionen-Marke nicht überschreiten darf. Sollte die Schwelle von 9,5 Millionen vor diesem Zeitpunkt erreicht werden, wären der Bundesrat und das Parlament verpflichtet, Massnahmen zu ergreifen. Die im Text ausdrücklich genannten Massnahmen betreffen vor allem den Asylbereich: Personen mit vorläufiger Aufnahme könnten keine Niederlassungsbewilligung mehr erhalten, und die Familienzusammenführung würde in bestimmten Fällen eingeschränkt. Der Text enthält zudem eine Klausel zur Einhaltung des zwingenden Völkerrechts.</p>
+<p>Der Text enthält jedoch keine Klausel über den Entzug bereits erteilter Aufenthaltsbewilligungen oder die Zwangsrückführung von Personen mit einem stabilen Rechtsstatus. Inhaber von B-, C- und G-Bewilligungen sowie deren Familienangehörige mit abgeleiteten Bewilligungen sind nicht von dieser Initiative betroffen. Dies ohne Grundlage im Text zu behaupten, ist schlichtweg falsch. Der Bundesrat und das Parlament lehnen die Initiative ab, jedoch wegen ihrer möglichen Auswirkungen auf die bilateralen Abkommen mit der EU und auf die Schweizer Wirtschaft, nicht weil sie bereits ansässige Personen ausweisen würde.</p>
+<p>Die Verwirrung hat ihre eigene Logik: Eine Initiative, die von der „Kontrolle der Einwohnerzahl“ spricht, löst verständlicherweise Ängste aus, insbesondere bei jenen, die bereits Erfahrungen mit der Verlängerung von Aufenthaltsgenehmigungen oder komplizierten Einwanderungsverfahren gemacht haben. Aber aus Angst zu stimmen oder zu kommentieren, anstatt sich auf den Text selbst zu stützen, hilft niemandem. Der vollständige Text ist auf admin.ch verfügbar. Das Lesen dauert zehn Minuten und ist mehr wert als hundert WhatsApp-Beiträge.</p>
+<p>- admin.ch, offizielle Website der Initiative: https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, Stellungnahme des Bundesrats: https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, Textanalyse: https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, offizielles Datenblatt zur Initiative: https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
+</div>`
     }
 });

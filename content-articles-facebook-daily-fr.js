@@ -1662,5 +1662,68 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Si vous êtes espagnol et qu’on vous refuse l’embarquement dans ces conditions, vous disposez d’un fondement juridique pour porter plainte. C’est une autre histoire si vous avez envie de vous disputer à la porte d’embarquement à 6 heures du matin avec quelqu’un qui ne fait que suivre une procédure interne. Avoir raison, c’est bien. Qu’on vous laisse monter dans l’avion, c’est mieux.</p>
 <p>www.espanolesensuiza.ch</p>
 </div>`
+    },
+
+    "fb-daily-20260506-01-ce-que-personne-ne-vous-dit-sur-les-forfaits-a-la-minute-en-suisse": {
+        title: "Ce que personne ne vous dit sur les forfaits à la minute en Suisse",
+        description: "Le « travail sur appel » est l'un des contrats les plus courants dans l'hôtellerie, le commerce, le nettoyage et les services de soins. L'employeur t'appelle…",
+        keywords: "personne, vous, forfaits, minute, suisse, travail, appel, contrats",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-06-1-ce-que-personne-ne-vous-dit-sur-les-forfaits-a-la-minute-en-suisse",
+        readingTime: 2,
+        dateUpdated: "6 mai 2026",
+        summary: "Le « travail sur appel » est l'un des contrats les plus courants dans l'hôtellerie, le commerce, le nettoyage et les services de soins. L'employeur…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Le « travail sur appel » est l'un des contrats les plus courants dans l'hôtellerie, le commerce, le nettoyage et les services de soins. L'employeur t'appelle quand il y a du travail, et sinon, il ne t'appelle pas. Cela semble pratique pour l'entreprise. En Suisse, cependant, le risque entrepreneurial ne repose pas sur le salarié, ce qui change considérablement la donne.</p>
+<p>La jurisprudence de la Cour fédérale est claire : le contrat de travail sur appel n'est pas une succession de mini-contrats ponctuels. Il s'agit d'un contrat unique à durée indéterminée. Cela a une conséquence directe : si l'employeur décide de se passer de vos services, il ne peut pas simplement cesser de vous appeler. Les délais de préavis légaux prévus par le Code des obligations (CO) s'appliquent, et pendant cette période, vous avez droit à un salaire moyen calculé sur les 6 ou 12 mois précédents, que vous ayez travaillé ou non ces jours-là.</p>
+<p>L'article 324 du Code du travail va droit au but : si l'employeur ne peut pas te proposer de travail pour des raisons qui lui sont imputables, y compris une baisse d'activité ou une saison creuse, c'est lui qui en supporte le risque économique. Tu as droit à ton salaire même si tu n'as pas mis les pieds au travail. Il en va de même pour les congés : quatre semaines minimales garanties par an et au moins deux semaines consécutives, quel que soit le nombre de jours effectivement travaillés. Le congé maladie est calculé en fonction de la durée du contrat, et non des heures accumulées.</p>
+<p>Dans la pratique, le problème vient de contrats mal rédigés. Si le document ne précise pas de nombre minimum d'heures garanties, l'employeur peut faire valoir que la moyenne historique est faible et calculer en conséquence le montant qu'il te doit pendant le préavis. Les conventions collectives de travail (CCT) peuvent améliorer ces conditions : dans l'hôtellerie, la L-GAV établit des règles plus protectrices que le CO de base. Avant de signer un contrat sur appel, il vaut la peine de vérifier quelle CCT s'applique à votre secteur et ce qu'elle stipule concrètement concernant ce type de contrat.</p>
+<p>- Conseil fédéral suisse, rapport sur la réglementation du travail sur appel : https://www.newsd.admin.ch/newsd/message/attachments/69051.pdf - Parlament.ch, motion 19.3748 « Réglementer le travail sur appel » : https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20193748 - espacedroit.ch, travail sur appel en Suisse : https://www.espacedroit.ch/en/topics/travail-sur-appel-en/</p>
+</div>`
+    },
+
+    "fb-daily-20260506-02-se-debarrasser-de-vieux-meubles-en-suisse-ce-qui-marche-ce-qui-ne-marc": {
+        title: "Se débarrasser de vieux meubles en Suisse : ce qui marche, ce qui ne marche pas, et ce que cela peut coûter",
+        description: "En Suisse, se débarrasser d'un vieux canapé, d'un matelas ou de meubles suite à un déménagement ne se passe pas comme dans d'autres pays. Les laisser dans la…",
+        keywords: "débarrasser, vieux, meubles, suisse, marche, cela, peut, coûter",
+        keywordsLocalized: true,
+        category: "Vivre en Suisse",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-06-2-se-debarrasser-de-vieux-meubles-en-suisse-ce-qui-marche-ce-qui-ne-marc",
+        readingTime: 2,
+        dateUpdated: "6 mai 2026",
+        summary: "En Suisse, se débarrasser d'un vieux canapé, d'un matelas ou de meubles suite à un déménagement ne se passe pas comme dans d'autres pays. Les laisser…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suisse, se débarrasser d'un vieux canapé, d'un matelas ou de meubles suite à un déménagement ne se passe pas comme dans d'autres pays. Les laisser dans la rue n'est pas une option : selon le canton et la commune, cela peut constituer une infraction passible d'une amende ou entraîner la facturation des frais de ramassage au résident. La poubelle ménagère n'est pas non plus prévue pour ce type d'objets. Les « objets encombrants » ont leur propre circuit de collecte.</p>
+<p>La solution principale est la déchetterie ou le point de recyclage cantonal. Chaque canton dispose d'un réseau de centres où l'on peut déposer des meubles, des appareils électroménagers, du bois et d'autres objets volumineux. La plupart sont gratuits pour les résidents de la commune ou du canton, mais certaines conditions s'appliquent : il faut s'y rendre pendant les heures d'ouverture, respecter le tri des matériaux et, dans certains cantons, présenter des justificatifs. À Genève, depuis le 1er février 2026, il est obligatoire de présenter un passe ESREC (carte de résident genevois) pour accéder aux points de recyclage cantonaux. Sans cette carte, l'accès est refusé.</p>
+<p>De nombreuses communes organisent également des collectes d'encombrants à domicile une ou deux fois par an. Le calendrier est généralement disponible sur le site web de la commune. Dans certains cas, il faut prendre rendez-vous à l'avance. En dehors de ces dates, il est possible de faire appel à des services de débarras, des entreprises privées qui viennent chercher les objets à domicile moyennant paiement. L'alternative gratuite consiste à les publier sur des plateformes de réutilisation telles que Ricardo, Tutti ou les groupes Facebook locaux : en Suisse, la culture consistant à donner une seconde vie aux objets avant de les jeter est assez bien ancrée et fonctionne bien pour les meubles en bon état.</p>
+<p>Ce qu'il faut retenir : déposer des encombrants dans la rue sans autorisation, dans les parties communes de l'immeuble ou dans les conteneurs à ordures ménagères peut entraîner une amende ou la facturation directe des frais de ramassage à la personne qui les a déposés. Chaque commune a ses propres règles, qui peuvent varier considérablement, même au sein d'un même canton. Avant d'agir, le plus sûr est de consulter le site web de la commune ou d'appeler le service municipal des déchets.</p>
+<p>- ge.ch, encombrants et ferraille à Genève : https://www.ge.ch/comment-trier-ses-dechets-geneve/encombrants-ferraille - geneve.ch, enlèvement d'objets encombrants : https://www.geneve.ch/themes/environnement-urbain-espaces-verts/recyclage-dechets-menagers/objets-encombrants - recyclage-express.ch, déchetteries en Suisse romande : https://recyclage-express.ch/en/tout-savoir-sur-les-dechetteries-en-suisse-romande/</p>
+</div>`
+    },
+
+    "fb-daily-20260506-03-linitiative-du-14-juin-nexpulse-personne-en-situation-reguliere-mais-d": {
+        title: "L'initiative du 14 juin n'expulse personne en situation régulière. Mais dans les groupes, on dit le contraire.",
+        description: "À chaque fois qu'un vote sur l'immigration approche en Suisse, les groupes d'Espagnols sont inondés de messages mêlant des inquiétudes légitimes à des rumeurs…",
+        keywords: "initiative, juin, expulse, personne, situation, régulière, mais, groupes",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-06-3-linitiative-du-14-juin-nexpulse-personne-en-situation-reguliere-mais-d",
+        readingTime: 2,
+        dateUpdated: "6 mai 2026",
+        summary: "À chaque fois qu'un vote sur l'immigration approche en Suisse, les groupes d'Espagnols sont inondés de messages mêlant des inquiétudes légitimes à…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>À chaque fois qu'un vote sur l'immigration approche en Suisse, les groupes d'Espagnols sont inondés de messages mêlant des inquiétudes légitimes à des rumeurs qui n'ont aucun fondement dans le texte soumis au vote. Avec l'initiative « Pas de Suisse à 10 millions ! » du 14 juin, le cycle se répète immanquablement. Il vaut la peine de lire ce que dit le texte et, surtout, ce qu'il ne dit pas.</p>
+<p>L'initiative de l'UDC propose que la population résidante permanente de la Suisse ne dépasse pas les 10 millions d'habitants avant 2050. Si le seuil de 9,5 millions est atteint avant cette date, le Conseil fédéral et le Parlement seraient tenus de prendre des mesures. Les mesures explicitement mentionnées dans le texte concernent principalement l'asile : les personnes bénéficiant d'une admission provisoire ne pourraient plus obtenir de permis d'établissement, et le regroupement familial serait restreint dans certains cas. Le texte comprend en outre une clause de respect du droit international impératif.</p>
+<p>Le texte ne contient aucune clause prévoyant le retrait des permis déjà accordés ni le retour forcé des résidents bénéficiant d'un statut juridique stable. Les titulaires d'un permis B, C ou G, ainsi que les membres de leur famille titulaires de permis dérivés, ne sont pas visés par cette initiative. Affirmer le contraire sans s'appuyer sur le texte est tout simplement faux. Le Conseil fédéral et le Parlement rejettent l'initiative, mais en raison de ses effets potentiels sur les accords bilatéraux avec l'UE et sur l'économie suisse, et non parce qu'elle entraînerait l'expulsion de résidents déjà établis.</p>
+<p>Cette confusion obéit à une logique compréhensible : une initiative qui parle de « contrôler le nombre d'habitants » suscite une inquiétude naturelle, en particulier chez ceux qui ont déjà dû faire face à des renouvellements de permis ou à des démarches migratoires compliquées. Mais voter ou s'exprimer en se laissant guider par la peur plutôt que par le texte n'aide personne. Le texte complet est disponible sur admin.ch. Sa lecture prend dix minutes et vaut mieux que cent messages WhatsApp.</p>
+<p>- admin.ch, site officiel de l'initiative : https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, prise de position du Conseil fédéral : https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, analyse du texte : https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, fiche officielle de l'initiative : https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
+</div>`
     }
 });

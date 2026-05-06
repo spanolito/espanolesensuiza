@@ -605,5 +605,68 @@ Object.assign(window.siteContent.it.articles, {
 <p>Se sei spagnolo e ti viene negato l'imbarco in queste circostanze, hai una base giuridica per presentare un reclamo. Un'altra cosa è decidere di discutere alle 6:00 del mattino al gate d'imbarco con qualcuno che sta semplicemente seguendo una procedura interna. Avere ragione va bene. Che ti lascino salire sull'aereo, meglio ancora.</p>
 <p>www.espanolesensuiza.ch</p>
 </div>`
+    },
+
+    "fb-daily-20260506-01-quello-che-nessuno-ti-spiega-sul-contratto-a-chiamata-in-svizzera": {
+        title: "Quello che nessuno ti spiega sul contratto a chiamata in Svizzera",
+        description: "Il lavoro \"a chiamata\" (travail sur appel) è uno dei contratti più diffusi nei settori dell'ospitalità, del commercio, delle pulizie e dei servizi di…",
+        keywords: "quello, nessuno, spiega, contratto, chiamata, svizzera, lavoro, travail",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-06-1-quello-che-nessuno-ti-spiega-sul-contratto-a-chiamata-in-svizzera",
+        readingTime: 2,
+        dateUpdated: "6 maggio 2026",
+        summary: "Il lavoro \"a chiamata\" (travail sur appel) è uno dei contratti più diffusi nei settori dell'ospitalità, del commercio, delle pulizie e dei servizi di…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Il lavoro "a chiamata" (travail sur appel) è uno dei contratti più diffusi nei settori dell'ospitalità, del commercio, delle pulizie e dei servizi di assistenza. Il datore di lavoro ti chiama quando c'è lavoro e, quando non ce n'è, non ti chiama. Sembra una soluzione comoda per l'azienda. In Svizzera, tuttavia, il rischio imprenditoriale non ricade sul lavoratore, e questo cambia notevolmente le cose.</p>
+<p>La giurisprudenza del Tribunale federale è chiara: il contratto a chiamata non è una serie di mini-contratti a tempo determinato. Si tratta di un unico contratto a tempo indeterminato. Ciò ha una conseguenza diretta: se il datore di lavoro decide di fare a meno di te, non può semplicemente smettere di chiamarti. Si applicano i termini di preavviso previsti dal Codice delle obbligazioni (CO) e, durante tale periodo, hai diritto alla retribuzione media calcolata sui 6 o 12 mesi precedenti, indipendentemente dal fatto che tu abbia lavorato o meno in quei giorni.</p>
+<p>L'articolo 324 del Codice del Lavoro va dritto al punto: se il datore di lavoro non è in grado di offrirti lavoro per motivi a lui imputabili, tra cui un calo dell'attività o un periodo di bassa stagione, il rischio economico è a suo carico. Hai diritto alla retribuzione anche se non hai messo piede al lavoro. Lo stesso vale per le ferie: quattro settimane minime garantite all'anno e almeno due settimane consecutive, indipendentemente dai giorni effettivamente lavorati. Il congedo per malattia viene calcolato in base alla durata del contratto, non alle ore accumulate.</p>
+<p>In pratica, il problema deriva da contratti redatti in modo inadeguato. Se il documento non specifica un numero minimo di ore garantite, il datore di lavoro può sostenere che la media storica è bassa e calcolare di conseguenza l’importo che ti spetta durante il periodo di preavviso. I contratti collettivi di lavoro (CCL) possono migliorare queste condizioni: nel settore alberghiero, il L-GAV stabilisce regole più protettive rispetto al CO di base. Prima di firmare qualsiasi contratto a chiamata, vale la pena verificare quale CCL si applica al tuo settore e cosa dice concretamente su questo tipo di contratto.</p>
+<p>- Consiglio federale svizzero, rapporto sulla regolamentazione del lavoro su chiamata: https://www.newsd.admin.ch/newsd/message/attachments/69051.pdf - Parlament.ch, mozione 19.3748 «Reglementer le travail sur appel»: https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20193748 - espacedroit.ch, lavoro su chiamata in Svizzera: https://www.espacedroit.ch/en/topics/travail-sur-appel-en/</p>
+</div>`
+    },
+
+    "fb-daily-20260506-02-sbarazzarsi-dei-vecchi-mobili-in-svizzera-cosa-funziona-cosa-no-e-quan": {
+        title: "Sbarazzarsi dei vecchi mobili in Svizzera: cosa funziona, cosa no e quanto può costare",
+        description: "In Svizzera, smaltire il vecchio divano, il materasso o i mobili in eccesso dopo un trasloco non funziona come in altri paesi. Lasciarli in strada non è…",
+        keywords: "sbarazzarsi, vecchi, mobili, svizzera, cosa, funziona, quanto, costare",
+        keywordsLocalized: true,
+        category: "Vivere in Svizzera",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-06-2-sbarazzarsi-dei-vecchi-mobili-in-svizzera-cosa-funziona-cosa-no-e-quan",
+        readingTime: 2,
+        dateUpdated: "6 maggio 2026",
+        summary: "In Svizzera, smaltire il vecchio divano, il materasso o i mobili in eccesso dopo un trasloco non funziona come in altri paesi. Lasciarli in strada…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Svizzera, smaltire il vecchio divano, il materasso o i mobili in eccesso dopo un trasloco non funziona come in altri paesi. Lasciarli in strada non è un'opzione: a seconda del cantone e del comune, può costituire un'infrazione punibile con una multa o comportare l'addebito dei costi di raccolta al residente. Neanche il cassonetto dei rifiuti domestici è previsto per questo tipo di oggetti. I cosiddetti "oggetti ingombranti" o encombrants hanno un proprio circuito di smaltimento.</p>
+<p>L'opzione principale è rappresentata dai centri di raccolta o dai punti di riciclaggio cantonali. Ogni cantone dispone di una rete di centri dove è possibile portare mobili, elettrodomestici, legno e altri materiali ingombranti. La maggior parte di essi è gratuita per i residenti del comune o del cantone, ma ci sono alcune condizioni: è necessario recarsi nei centri durante gli orari di apertura, rispettare la separazione dei materiali e, in alcuni cantoni, presentare la documentazione richiesta. A Ginevra, dal 1° febbraio 2026, è obbligatorio presentare un pass ESREC (tessera di residente ginevrino) per accedere ai punti di riciclaggio cantonali. Senza tale tessera non viene concesso l'accesso.</p>
+<p>Molti comuni organizzano anche raccolte porta a porta di ingombri una o due volte all'anno. Il calendario è solitamente disponibile sul sito web del comune. In alcuni casi è necessario prenotare un appuntamento. Al di fuori di queste date c'è la possibilità di ricorrere ai servizi di sgombero, aziende private che ritirano gli oggetti a domicilio previo pagamento. L'alternativa gratuita è quella di pubblicarli su piattaforme di riutilizzo come Ricardo, Tutti o i gruppi Facebook locali: in Svizzera la cultura di dare una seconda vita agli oggetti prima di buttarli è piuttosto radicata e funziona bene per i mobili in buono stato.</p>
+<p>È bene ricordare che lasciare rifiuti ingombranti in strada senza autorizzazione, nelle aree comuni dell'edificio o nei cassonetti dei rifiuti domestici può comportare una multa o l'addebito diretto dei costi di raccolta a chi li ha abbandonati. Ogni comune ha le proprie norme, che possono variare notevolmente anche all'interno dello stesso cantone. Prima di agire, la cosa più sicura è consultare il sito web del comune o chiamare il servizio comunale di gestione dei rifiuti.</p>
+<p>- ge.ch, rifiuti ingombranti e rottami metallici a Ginevra: https://www.ge.ch/comment-trier-ses-dechets-geneve/encombrants-ferraille - geneve.ch, ritiro di oggetti ingombranti: https://www.geneve.ch/themes/environnement-urbain-espaces-verts/recyclage-dechets-menagers/objets-encombrants - recyclage-express.ch, centri di raccolta in Svizzera romanda: https://recyclage-express.ch/en/tout-savoir-sur-les-dechetteries-en-suisse-romande/</p>
+</div>`
+    },
+
+    "fb-daily-20260506-03-liniziativa-del-14-giugno-non-espelle-nessuno-in-possesso-di-un-permes": {
+        title: "L'iniziativa del 14 giugno non espelle nessuno in possesso di un permesso. Ma nei gruppi si dice il contrario.",
+        description: "Ogni volta che in Svizzera si avvicina una votazione sull'immigrazione, i gruppi di spagnoli si riempiono di messaggi che mescolano preoccupazioni legittime a…",
+        keywords: "iniziativa, giugno, espelle, nessuno, possesso, permesso, gruppi, dice",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-05-06-3-liniziativa-del-14-giugno-non-espelle-nessuno-in-possesso-di-un-permes",
+        readingTime: 2,
+        dateUpdated: "6 maggio 2026",
+        summary: "Ogni volta che in Svizzera si avvicina una votazione sull'immigrazione, i gruppi di spagnoli si riempiono di messaggi che mescolano preoccupazioni…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Ogni volta che in Svizzera si avvicina una votazione sull'immigrazione, i gruppi di spagnoli si riempiono di messaggi che mescolano preoccupazioni legittime a voci prive di fondamento rispetto al testo sottoposto a votazione. Con l'iniziativa «Pas de Suisse a 10 millions!» del 14 giugno, il ciclo si ripete puntualmente. Vale la pena leggere ciò che dice il testo e, soprattutto, ciò che non dice.</p>
+<p>L'iniziativa dell'UDC propone che la popolazione residente permanente in Svizzera non superi i 10 milioni di abitanti prima del 2050. Se prima di tale data si raggiungesse la soglia dei 9,5 milioni, il Consiglio federale e il Parlamento sarebbero tenuti ad adottare misure. Le misure menzionate esplicitamente nel testo riguardano principalmente l'asilo: le persone con ammissione provvisoria non potrebbero più ottenere permessi di soggiorno, e il ricongiungimento familiare sarebbe limitato in determinati casi. Il testo include inoltre una clausola di rispetto del diritto internazionale imperativo.</p>
+<p>Ciò che il testo non prevede è alcuna clausola relativa alla revoca dei permessi già concessi né al rimpatrio forzato dei residenti con uno status giuridico stabile. I titolari di permesso B, permesso C, permesso G e i loro familiari con permessi derivati non rientrano nell’ambito di applicazione di questa iniziativa. Affermarlo senza alcun fondamento nel testo è semplicemente errato. Il Consiglio federale e il Parlamento respingono l'iniziativa, ma per i suoi possibili effetti sugli accordi bilaterali con l'UE e sull'economia svizzera, non perché essa comporti l'espulsione di residenti già stabiliti.</p>
+<p>La confusione ha una sua logica comprensibile: un’iniziativa che parla di «controllare il numero di abitanti» suscita una naturale apprensione, soprattutto tra chi ha dovuto affrontare il rinnovo dei permessi o complicate pratiche migratorie. Ma votare o commentare sulla base della paura anziché del testo non aiuta nessuno. Il testo completo è disponibile su admin.ch. Leggerlo richiede dieci minuti e vale più di cento post su WhatsApp.</p>
+<p>- admin.ch, sito ufficiale dell'iniziativa: https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, presa di posizione del Consiglio federale: https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, analisi del testo: https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, scheda ufficiale dell'iniziativa: https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
+</div>`
     }
 });

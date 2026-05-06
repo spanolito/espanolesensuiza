@@ -1655,5 +1655,68 @@ Object.assign(window.siteContent.es.articles, {
 <p>Si eres español y te niegan el embarque en estas condiciones, hay base legal para reclamar. Otra cosa es lo que te apetezca discutir en la puerta de embarque a las 6:00 de la mañana con alguien que solo sigue un procedimiento interno. Tener razón está bien. Que te dejen subir al avión, mejor.</p>
 <p>www.espanolesensuiza.ch</p>
 </div>`
+    },
+
+    "fb-daily-20260506-01-lo-que-nadie-te-explica-del-contrato-a-llamada-en-suiza": {
+        title: "Lo que nadie te explica del contrato a llamada en Suiza",
+        description: "El trabajo \"a llamada\" (travail sur appel) es uno de los contratos mas frecuentes en hosteleria, comercio, limpieza y servicios de cuidado. El empleador te…",
+        keywords: "nadie, explica, contrato, llamada, suiza, trabajo, travail, appel",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-06-1-lo-que-nadie-te-explica-del-contrato-a-llamada-en-suiza",
+        readingTime: 2,
+        dateUpdated: "6 mayo 2026",
+        summary: "El trabajo \"a llamada\" (travail sur appel) es uno de los contratos mas frecuentes en hosteleria, comercio, limpieza y servicios de cuidado. El…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>El trabajo "a llamada" (travail sur appel) es uno de los contratos mas frecuentes en hosteleria, comercio, limpieza y servicios de cuidado. El empleador te llama cuando hay trabajo y cuando no, no. Suena comodo para la empresa. En Suiza, sin embargo, el riesgo empresarial no recae sobre el trabajador, y eso cambia bastante las cosas.</p>
+<p>La jurisprudencia del Tribunal Federal es clara: el contrato a llamada no es una cadena de mini-contratos puntuales. Es un unico contrato de duracion indefinida. Eso tiene una consecuencia directa: si el empleador decide prescindir de ti, no puede simplemente dejar de llamar. Se aplican los plazos legales de preaviso del Codigo de Obligaciones (CO), y durante ese periodo tienes derecho al salario medio calculado sobre los 6 o 12 meses anteriores, hayas trabajado o no esos dias.</p>
+<p>El articulo 324 del CO va al fondo: si el empleador no te puede ofrecer trabajo por razones que le son imputables, incluyendo una caida de actividad o una temporada baja, el riesgo economico es suyo. Tienes derecho al salario aunque no hayas puesto un pie en el trabajo. Lo mismo con las vacaciones: cuatro semanas minimas garantizadas por ano y al menos dos semanas consecutivas, independientemente de los dias efectivamente trabajados. La baja medica se calcula en funcion de la duracion del contrato, no de las horas acumuladas.</p>
+<p>En la practica, el problema viene de los contratos mal redactados. Si el documento no especifica un minimo de horas garantizadas, el empleador puede argumentar que la media historica es baja y calcular en consecuencia lo que te debe durante el preaviso. Los convenios colectivos de trabajo (CCT) pueden mejorar estas condiciones: en hosteleria, el L-GAV establece reglas mas protectoras que el CO de base. Antes de firmar cualquier contrato a llamada, vale la pena verificar que CCT aplica en tu sector y que dice concretamente sobre este tipo de contrato.</p>
+<p>- Consejo Federal suizo, informe sobre la regulacion del travail sur appel: https://www.newsd.admin.ch/newsd/message/attachments/69051.pdf - Parlament.ch, mocion 19.3748 "Reglementer le travail sur appel": https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20193748 - espacedroit.ch, travail sur appel en Suisse: https://www.espacedroit.ch/en/topics/travail-sur-appel-en/</p>
+</div>`
+    },
+
+    "fb-daily-20260506-02-deshacerse-de-muebles-viejos-en-suiza-lo-que-funciona-lo-que-no-y-lo-q": {
+        title: "Deshacerse de muebles viejos en Suiza: lo que funciona, lo que no, y lo que te puede costar",
+        description: "En Suiza, tirar el sofa viejo, el colchon o los muebles de la mudanza no funciona como en otros paises. Dejarlos en la calle no es una opcion: segun el canton…",
+        keywords: "deshacerse, muebles, viejos, suiza, funciona, puede, costar, tirar",
+        keywordsLocalized: true,
+        category: "Vivir en Suiza",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-06-2-deshacerse-de-muebles-viejos-en-suiza-lo-que-funciona-lo-que-no-y-lo-q",
+        readingTime: 2,
+        dateUpdated: "6 mayo 2026",
+        summary: "En Suiza, tirar el sofa viejo, el colchon o los muebles de la mudanza no funciona como en otros paises. Dejarlos en la calle no es una opcion: segun…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suiza, tirar el sofa viejo, el colchon o los muebles de la mudanza no funciona como en otros paises. Dejarlos en la calle no es una opcion: segun el canton y la commune, puede ser una infraccion con multa o con repercusion de los costes de recogida sobre el residente. El contenedor de basura domestica tampoco esta previsto para ese tipo de objetos. Los llamados "objetos voluminosos" o encombrants tienen su propio circuito.</p>
+<p>La opcion principal es la dechetterie o punto de reciclaje cantonal. Cada canton dispone de una red de centros donde se pueden llevar muebles, electrodomesticos, madera y otros materiales grandes. La mayoria son gratuitos para los residentes del municipio o canton, pero hay condiciones: hay que ir dentro del horario de apertura, respetar la clasificacion de materiales y, en algunos cantones, presentar documentacion. En Ginebra, desde el 1 de febrero de 2026, es obligatorio presentar un pase ESREC (tarjeta de residente ginebrina) para acceder a los puntos de reciclaje cantonales. Sin esa tarjeta no dan acceso.</p>
+<p>Muchas communes organizan tambien recogidas domiciliarias de encombrants una o dos veces al ano. El calendario suele estar en el sitio web municipal. En algunos casos hay que reservar cita previa. Fuera de esas fechas existe la opcion de los servicios de debarras, empresas privadas que recogen los objetos en casa previo pago. La alternativa gratuita es publicarlos en plataformas de reutilizacion como Ricardo, Tutti o los grupos locales de Facebook: en Suiza la cultura de dar una segunda vida a los objetos antes de tirarlos esta bastante arraigada y funciona bien para muebles en buen estado.</p>
+<p>Lo que conviene recordar: dejar encombrants en la calle sin autorizacion, en zonas comunes del edificio o en contenedores de basura domestica puede terminar en multa o en que el coste de recogida se repercuta directamente sobre quien lo dejo. Cada commune tiene sus propias normas, que pueden variar bastante incluso dentro del mismo canton. Antes de actuar, lo mas seguro es consultar el sitio web de la commune o llamar al servicio de residuos municipal.</p>
+<p>- ge.ch, encombrants y ferraille en Ginebra: https://www.ge.ch/comment-trier-ses-dechets-geneve/encombrants-ferraille - geneve.ch, debarras de objetos voluminosos: https://www.geneve.ch/themes/environnement-urbain-espaces-verts/recyclage-dechets-menagers/objets-encombrants - recyclage-express.ch, dechetteries en Suiza romanda: https://recyclage-express.ch/en/tout-savoir-sur-les-dechetteries-en-suisse-romande/</p>
+</div>`
+    },
+
+    "fb-daily-20260506-03-la-iniciativa-del-14-de-junio-no-expulsa-a-nadie-con-permiso-pero-en-l": {
+        title: "La iniciativa del 14 de junio no expulsa a nadie con permiso. Pero en los grupos se dice lo contrario.",
+        description: "Cada vez que se acerca una votacion sobre inmigracion en Suiza, los grupos de espanoles se llenan de mensajes que mezclan inquietudes legitimas con rumores que…",
+        keywords: "iniciativa, junio, expulsa, nadie, permiso, grupos, dice, contrario",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-06-3-la-iniciativa-del-14-de-junio-no-expulsa-a-nadie-con-permiso-pero-en-l",
+        readingTime: 2,
+        dateUpdated: "6 mayo 2026",
+        summary: "Cada vez que se acerca una votacion sobre inmigracion en Suiza, los grupos de espanoles se llenan de mensajes que mezclan inquietudes legitimas con…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Cada vez que se acerca una votacion sobre inmigracion en Suiza, los grupos de espanoles se llenan de mensajes que mezclan inquietudes legitimas con rumores que no tienen base en el texto sometido a voto. Con la iniciativa "Pas de Suisse a 10 millions!" del 14 de junio, el ciclo se repite puntualmente. Merece la pena leer lo que dice el texto y, sobre todo, lo que no dice.</p>
+<p>La iniciativa de la UDC propone que la poblacion residente permanente de Suiza no supere los 10 millones de habitantes antes de 2050. Si se alcanza el umbral de 9,5 millones antes de esa fecha, el Consejo Federal y el Parlamento estarian obligados a tomar medidas. Las medidas mencionadas explicitamente en el texto afectan principalmente al asilo: las personas con admision provisional dejarian de poder obtener permisos de establecimiento, y el reagrupamiento familiar se restringiria en determinados supuestos. El texto incluye ademas una clausula de respeto al derecho internacional imperativo.</p>
+<p>Lo que el texto no contiene es ninguna clausula de retirada de permisos ya concedidos ni de retorno forzado de residentes con estatuto legal estable. Los titulares de permiso B, permiso C, permiso G y sus familiares con permisos derivados no estan en el punto de mira de esta iniciativa. Afirmarlo sin base en el texto es simplemente incorrecto. El Consejo Federal y el Parlamento rechazan la iniciativa, pero por sus posibles efectos sobre los acuerdos bilaterales con la UE y sobre la economia suiza, no porque vaya a expulsar a residentes ya establecidos.</p>
+<p>La confusion tiene una logica comprensible: una iniciativa que habla de "controlar el numero de habitantes" genera ansiedad natural, especialmente entre quienes han vivido renovaciones de permiso o tramites migratorios complicados. Pero votar o comentar desde el miedo en lugar de desde el texto no ayuda a nadie. El texto completo esta disponible en admin.ch. Leerlo lleva diez minutos y vale mas que cien posts de WhatsApp.</p>
+<p>- admin.ch, pagina oficial de la iniciativa: https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, posicion del Consejo Federal: https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, analisis del texto: https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, ficha oficial de la iniciativa: https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
+</div>`
     }
 });
