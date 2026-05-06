@@ -197,6 +197,11 @@ class RoundedBtn(tk.Canvas):
         self._text = text
         self._paint(self._fill)
 
+    def set_fill(self, fill: str):
+        self._fill  = fill
+        self._hover = _darken(fill)
+        self._paint(fill)
+
     def set_enabled(self, enabled: bool):
         self._active = enabled
         self._paint(self._fill if enabled else C["dim"])
@@ -986,6 +991,16 @@ class PublisherApp:
         self._btn_launch.pack(side="right")
         self._btn_launch.set_fill(C["accent"])
 
+    def _reset_btn_safe(self):
+        """Fallback minimal — utilisé si _on_finish crash."""
+        try:
+            self._busy = False
+            self._prog.stop()
+            self._btn_stop.pack_forget()
+            self._btn_launch.pack(side="right")
+        except Exception:
+            pass
+
     # ── Thread ────────────────────────────────────────────────────────────────
 
     def _run_script(self, cmd: list):
@@ -1020,7 +1035,12 @@ class PublisherApp:
             while True:
                 item = self._q.get_nowait()
                 if item is None:
-                    self._on_finish()
+                    try:
+                        self._on_finish()
+                    except Exception as exc:
+                        import traceback
+                        self._log_write(f"\n[ERREUR _on_finish] {exc}\n{traceback.format_exc()}\n", "err")
+                        self._reset_btn_safe()
                     break
                 self._log_write(item[0], item[1])
         except queue.Empty:

@@ -1725,5 +1725,26 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Cette confusion obéit à une logique compréhensible : une initiative qui parle de « contrôler le nombre d'habitants » suscite une inquiétude naturelle, en particulier chez ceux qui ont déjà dû faire face à des renouvellements de permis ou à des démarches migratoires compliquées. Mais voter ou s'exprimer en se laissant guider par la peur plutôt que par le texte n'aide personne. Le texte complet est disponible sur admin.ch. Sa lecture prend dix minutes et vaut mieux que cent messages WhatsApp.</p>
 <p>- admin.ch, site officiel de l'initiative : https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, prise de position du Conseil fédéral : https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, analyse du texte : https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, fiche officielle de l'initiative : https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
 </div>`
+    },
+
+    "fb-daily-20260506-02-se-debarrasser-de-vieux-meubles-en-suisse-ce-qui-fonctionne-ce-qui-ne": {
+        title: "Se débarrasser de vieux meubles en Suisse : ce qui fonctionne, ce qui ne fonctionne pas et ce que cela peut coûter",
+        description: "En Suisse, se débarrasser d'un vieux canapé, d'un matelas ou de meubles suite à un déménagement ne se passe pas comme dans d'autres pays. Les laisser dans la…",
+        keywords: "débarrasser, vieux, meubles, suisse, fonctionne, cela, peut, coûter",
+        keywordsLocalized: true,
+        category: "Vivre en Suisse",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-05-06-2-se-debarrasser-de-vieux-meubles-en-suisse-ce-qui-fonctionne-ce-qui-ne",
+        readingTime: 2,
+        dateUpdated: "6 mai 2026",
+        summary: "En Suisse, se débarrasser d'un vieux canapé, d'un matelas ou de meubles suite à un déménagement ne se passe pas comme dans d'autres pays. Les laisser…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suisse, se débarrasser d'un vieux canapé, d'un matelas ou de meubles suite à un déménagement ne se passe pas comme dans d'autres pays. Les laisser dans la rue n'est pas une option : selon le canton et la commune, cela peut constituer une infraction passible d'une amende ou entraîner la facturation des frais de ramassage au résident. La poubelle ménagère n'est pas non plus prévue pour ce type d'objets. Les « objets encombrants » ont leur propre circuit de collecte.</p>
+<p>La solution principale est la déchetterie ou le point de recyclage cantonal. Chaque canton dispose d'un réseau de centres où l'on peut déposer des meubles, des appareils électroménagers, du bois et d'autres matériaux volumineux. La plupart sont gratuits pour les résidents de la commune ou du canton, mais certaines conditions s'appliquent : il faut s'y rendre pendant les heures d'ouverture, respecter le tri des matériaux et, dans certains cantons, présenter des justificatifs. À Genève, depuis le 1er février 2026, il est obligatoire de présenter un passe ESREC (carte de résident genevois) pour accéder aux points de recyclage cantonaux. Sans cette carte, l'accès est refusé.</p>
+<p>De nombreuses communes organisent également des collectes d'encombrants à domicile une ou deux fois par an. Le calendrier est généralement disponible sur le site web de la commune. Dans certains cas, il faut prendre rendez-vous à l'avance. En dehors de ces dates, il est possible de faire appel à des services de débarras, des entreprises privées qui viennent chercher les objets à domicile moyennant paiement. L'alternative gratuite consiste à les publier sur des plateformes de réutilisation telles que Ricardo, Tutti ou les groupes Facebook locaux : en Suisse, la culture consistant à donner une seconde vie aux objets avant de les jeter est assez bien ancrée et fonctionne bien pour les meubles en bon état.</p>
+<p>Ce qu'il faut retenir : déposer des encombrants dans la rue sans autorisation, dans les parties communes de l'immeuble ou dans les conteneurs à ordures ménagères peut entraîner une amende ou la facturation directe des frais de ramassage à la personne qui les a déposés. Chaque commune a ses propres règles, qui peuvent varier considérablement, même au sein d'un même canton. Avant d'agir, le plus sûr est de consulter le site web de la commune ou d'appeler le service municipal des déchets.</p>
+<p>- ge.ch, encombrants et ferraille à Genève : https://www.ge.ch/comment-trier-ses-dechets-geneve/encombrants-ferraille - geneve.ch, enlèvement d'objets encombrants : https://www.geneve.ch/themes/environnement-urbain-espaces-verts/recyclage-dechets-menagers/objets-encombrants - recyclage-express.ch, déchetteries en Suisse romande : https://recyclage-express.ch/en/tout-savoir-sur-les-dechetteries-en-suisse-romande/</p>
+</div>`
     }
 });
