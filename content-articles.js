@@ -3881,8 +3881,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-090-cliquer-pour-la-vid-o": {
-        title: "Cliquer pour la vidéo :",
-        description: "Cliquer pour la vidéo :",
+        title: "Vídeo de Facebook 090",
+        description: "Vídeo de Facebook 090",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -3932,8 +3932,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-093-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 093",
+        description: "Archivo de Facebook 093",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -3949,8 +3949,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-094-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 094",
+        description: "Archivo de Facebook 094",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -4595,8 +4595,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-132-cliquer-pour-la-vid-o": {
-        title: "Cliquer pour la vidéo :",
-        description: "Cliquer pour la vidéo :",
+        title: "Vídeo de Facebook 132",
+        description: "Vídeo de Facebook 132",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -5564,8 +5564,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-189-cliquer-pour-la-vid-o": {
-        title: "Cliquer pour la vidéo :",
-        description: "Cliquer pour la vidéo :",
+        title: "Vídeo de Facebook 189",
+        description: "Vídeo de Facebook 189",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -6397,8 +6397,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-238-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 238",
+        description: "Archivo de Facebook 238",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -6414,8 +6414,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-239-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 239",
+        description: "Archivo de Facebook 239",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -7179,8 +7179,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-284-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 284",
+        description: "Archivo de Facebook 284",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -7196,8 +7196,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-285-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 285",
+        description: "Archivo de Facebook 285",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -8862,8 +8862,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-383-solo-comparto-solo-comparto": {
-        title: "Solo comparto Solo comparto",
-        description: "Solo comparto Solo comparto",
+        title: "Publicación compartida de Facebook 383",
+        description: "Publicación compartida de Facebook 383",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -9270,8 +9270,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-407-solo-comparto-solo-comparto": {
-        title: "Solo comparto ! Solo comparto !",
-        description: "Solo comparto ! Solo comparto !",
+        title: "Publicación compartida de Facebook 407",
+        description: "Publicación compartida de Facebook 407",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -10205,8 +10205,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-462-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 462",
+        description: "Archivo de Facebook 462",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -10222,8 +10222,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-463-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 463",
+        description: "Archivo de Facebook 463",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -10596,8 +10596,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-485-solo-comparto": {
-        title: "Solo comparto !",
-        description: "Solo comparto !",
+        title: "Publicación compartida de Facebook 485",
+        description: "Publicación compartida de Facebook 485",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -10970,8 +10970,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-507-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 507",
+        description: "Archivo de Facebook 507",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -10987,8 +10987,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-508-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 508",
+        description: "Archivo de Facebook 508",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -11004,8 +11004,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-509-cliquer-pour-la-vid-o": {
-        title: "Cliquer pour la vidéo :",
-        description: "Cliquer pour la vidéo :",
+        title: "Vídeo de Facebook 509",
+        description: "Vídeo de Facebook 509",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -11021,8 +11021,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-510-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 510",
+        description: "Archivo de Facebook 510",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -11038,8 +11038,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-511-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 511",
+        description: "Archivo de Facebook 511",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -11055,8 +11055,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-512-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 512",
+        description: "Archivo de Facebook 512",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -11089,8 +11089,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-514-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 514",
+        description: "Archivo de Facebook 514",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -11446,8 +11446,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-535-solo-comparto": {
-        title: "Solo comparto !",
-        description: "Solo comparto !",
+        title: "Publicación compartida de Facebook 535",
+        description: "Publicación compartida de Facebook 535",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -11497,8 +11497,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-538-solo-comparto-solo-comparto": {
-        title: "Solo comparto !!! Solo comparto !!!",
-        description: "Solo comparto !!! Solo comparto !!!",
+        title: "Publicación compartida de Facebook 538",
+        description: "Publicación compartida de Facebook 538",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -11973,8 +11973,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-566-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 566",
+        description: "Archivo de Facebook 566",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
@@ -11990,8 +11990,8 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-567-sans-titre": {
-        title: "(sans titre)",
-        description: "(sans titre)",
+        title: "Archivo de Facebook 567",
+        description: "Archivo de Facebook 567",
         keywords: "vivir, suiza",
         category: "",
         hub: "",
