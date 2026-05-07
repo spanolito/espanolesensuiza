@@ -1746,5 +1746,65 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Ce qu'il faut retenir : déposer des encombrants dans la rue sans autorisation, dans les parties communes de l'immeuble ou dans les conteneurs à ordures ménagères peut entraîner une amende ou la facturation directe des frais de ramassage à la personne qui les a déposés. Chaque commune a ses propres règles, qui peuvent varier considérablement, même au sein d'un même canton. Avant d'agir, le plus sûr est de consulter le site web de la commune ou d'appeler le service municipal des déchets.</p>
 <p>- ge.ch, encombrants et ferraille à Genève : https://www.ge.ch/comment-trier-ses-dechets-geneve/encombrants-ferraille - geneve.ch, enlèvement d'objets encombrants : https://www.geneve.ch/themes/environnement-urbain-espaces-verts/recyclage-dechets-menagers/objets-encombrants - recyclage-express.ch, déchetteries en Suisse romande : https://recyclage-express.ch/en/tout-savoir-sur-les-dechetteries-en-suisse-romande/</p>
 </div>`
+    },
+
+    "fb-daily-20260507-01-en-suisse-le-13e-mois-nest-ni-automatique-ni-garanti-par-la-loi": {
+        title: "En Suisse, le 13e mois n'est ni automatique ni garanti par la loi",
+        description: "Quand on arrive en Suisse et qu’on entend parler du treizième salaire, beaucoup le considèrent comme acquis, comme s’il faisait partie intégrante du système,…",
+        keywords: "suisse, mois, automatique, garanti, quand, arrive, entend, parler",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-1-en-suisse-le-13e-mois-nest-ni-automatique-ni-garanti-par-la-loi",
+        readingTime: 2,
+        dateUpdated: "7 mai 2026",
+        summary: "Quand on arrive en Suisse et qu’on entend parler du treizième salaire, beaucoup le considèrent comme acquis, comme s’il faisait partie intégrante du…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Quand on arrive en Suisse et qu’on entend parler du treizième salaire, beaucoup le considèrent comme acquis, comme s’il faisait partie intégrante du système, au même titre que l’AVS ou l’assurance maladie. Ce n’est pas le cas. Le treizième salaire des salariés n’est pas imposé par le Code des obligations. S’il ne figure pas dans ton contrat individuel ou dans la convention collective de travail (CCT) qui régit ton secteur, tu n’as pas le droit de le réclamer. Point final.</p>
+<p>Cela dit, dans la pratique, cela concerne une grande majorité de salariés. On estime qu’environ 70 % des salariés en Suisse en bénéficient, car de nombreux secteurs l’ont intégré dans leurs conventions collectives : le bâtiment, l’hôtellerie, le commerce de détail, le secteur bancaire… Si vous travaillez dans l’un de ces secteurs, vous en bénéficiez probablement déjà sans l’avoir demandé. Sinon, il est conseillé de bien lire votre contrat avant de le signer.</p>
+<p>Lorsqu'il est prévu, le calcul est simple : il équivaut à un douzième du salaire brut annuel, soit un mois entier de salaire supplémentaire. Il est généralement versé en décembre, même si certains contrats le répartissent entre juin et décembre. Et si vous quittez votre emploi en cours d'année, vous avez droit à une partie proportionnelle de cette somme, quelle que soit la raison de votre départ. Attention toutefois, il faut en faire la demande : ce montant n'est pas toujours calculé automatiquement. En matière de fiscalité, il n'y a aucun avantage : il est imposé exactement comme n'importe quel autre mois de salaire, avec toutes les retenues habituelles.</p>
+<p>Il ne faut pas confondre : ce 13e mois pour les salariés n'a rien à voir avec la 13e rente AVS approuvée par référendum pour les retraités, qui est entrée en vigueur en 2025. Ce sont deux choses différentes, même si le chiffre est le même.</p>
+</div>`
+    },
+
+    "fb-daily-20260507-02-la-buanderie-de-limmeuble-en-suisse-la-piece-dont-personne-ne-vous-par": {
+        title: "La buanderie de l'immeuble en Suisse : la pièce dont personne ne vous parle quand vous signez le bail",
+        description: "L'un des premiers chocs culturels quand on loue un appartement en Suisse, ce n'est ni le prix, ni la caution, ni l'état des lieux de trois pages. C'est de…",
+        keywords: "buanderie, immeuble, suisse, pièce, dont, personne, vous, parle",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-2-la-buanderie-de-limmeuble-en-suisse-la-piece-dont-personne-ne-vous-par",
+        readingTime: 2,
+        dateUpdated: "7 mai 2026",
+        summary: "L'un des premiers chocs culturels quand on loue un appartement en Suisse, ce n'est ni le prix, ni la caution, ni l'état des lieux de trois pages.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>L'un des premiers chocs culturels quand on loue un appartement en Suisse, ce n'est ni le prix, ni la caution, ni l'état des lieux de trois pages. C'est de découvrir qu'on n'a pas de machine à laver. Ou plutôt, que la machine à laver se trouve au sous-sol et qu'on peut l'utiliser le mardi de 8 h à 12 h. Pas le mercredi. Pas le dimanche. Le mardi, de 8 h à 12 h. Et si on a raté son créneau, il faut attendre la semaine suivante.</p>
+<p>La buanderie commune est une institution dans les immeubles résidentiels suisses. Dans environ la moitié des cas, les horaires sont attribués : chaque locataire dispose d’un créneau fixe, généralement une demi-journée par semaine. Dans l’autre moitié, l’accès est libre pendant les heures autorisées, qui, dans la plupart des immeubles, vont du lundi au samedi, de 7 h à 21 h. L'accès est interdit les jours fériés, sauf si le règlement de l'immeuble en dispose autrement. Dans tous les cas, le droit minimum reconnu est de pouvoir faire une lessive au moins une fois tous les quinze jours.</p>
+<p>En ce qui concerne le coût, 80 % des locataires paient directement à chaque cycle, avec une moyenne de 1,55 franc par lavage à 40 degrés. Certains immeubles utilisent un système de jetons, d'autres un système de carte, d'autres encore incluent ces frais dans les charges à la fin de l'année. Ce que le propriétaire ne peut pas faire, c'est facturer deux fois la même chose : soit il l'inclut dans les charges, soit il le facture au compteur, mais pas les deux.</p>
+<p>En Espagne, ce modèle résidentiel est pratiquement inconnu. La machine à laver fait partie intégrante de l'appartement, du mobilier, de la vie quotidienne. Ici, ce n'est pas le cas : la buanderie est un espace commun soumis à ses propres règles, et c'est le propriétaire ou le syndic qui en fixe le règlement, et non la loi. En cas de conflit d'horaires avec un voisin, c'est ce règlement qui sert de point de départ, et non le Code civil. Ça vaut le coup de le lire avant que quelqu'un ne te laisse un mot dans la boîte aux lettres.</p>
+</div>`
+    },
+
+    "fb-daily-20260507-03-vivre-en-concubinage-en-suisse-ce-que-tu-perdrais-si-ton-partenaire-ve": {
+        title: "Vivre en concubinage en Suisse : ce que tu perdrais si ton partenaire venait à décéder demain",
+        description: "En Suisse, il n'existe ni PACS ni aucune autre figure juridique équivalente qui protège les couples non mariés de la même manière que le mariage. Le…",
+        keywords: "vivre, concubinage, suisse, perdrais, partenaire, venait, décéder, demain",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-3-vivre-en-concubinage-en-suisse-ce-que-tu-perdrais-si-ton-partenaire-ve",
+        readingTime: 2,
+        dateUpdated: "7 mai 2026",
+        summary: "En Suisse, il n'existe ni PACS ni aucune autre figure juridique équivalente qui protège les couples non mariés de la même manière que le mariage. Le…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suisse, il n'existe ni PACS ni aucune autre figure juridique équivalente qui protège les couples non mariés de la même manière que le mariage. Le concubinage, comme la loi appelle cette situation, ne confère aucun droit automatique aux deux partenaires. Ni droit à l'héritage, ni pension de veuvage, ni accès privilégié aux biens de l'autre. Si votre partenaire décède sans avoir rédigé de testament, vous êtes légalement un étranger aux fins de la succession.</p>
+<p>En matière d'AVS, paradoxalement, les couples vivant en concubinage sont avantagés tant que les deux partenaires sont en vie. Chacun a droit à 100 % de sa rente individuelle, avec un plafond de 2 520 francs par mois et par personne en 2026. Un couple marié est soumis à un plafond de rente combinée fixé à 150 % de la rente individuelle maximale, ce qui, dans la pratique, limite le montant perçu conjointement par le couple. La différence peut atteindre plusieurs centaines de francs par mois. Mais lorsque l’un des deux décède, c’est là que le problème commence : le survivant d’un couple en concubinage n’a pas droit à la rente de veuve ou de veuf du premier pilier. Celui qui s’en va emporte sa pension.</p>
+<p>Pour les deuxième et troisième piliers, la situation varie également. Dans le pilier 3a, les couples vivant en concubinage peuvent désigner l'autre comme bénéficiaire, mais la caisse ou l'assureur doit en être informé par écrit au préalable. Dans la LPP (deuxième pilier), le droit à la rente de survivant existe, mais à des conditions plus strictes que pour les personnes mariées. Quant au logement, si le contrat de location est uniquement au nom de l'un des deux, l'autre n'a aucun droit légal de rester si le titulaire décède.</p>
+<p>La solution ne réside pas nécessairement dans le mariage, mais plutôt dans la mise en place d'un cadre juridique : un testament, un contrat de concubinage, une assurance-vie, la désignation explicite de bénéficiaires dans les fonds de pension. En Suisse, de nombreux couples vivent ensemble depuis des années sans avoir pris aucune de ces dispositions, convaincus que le temps confère des droits. Or, dans ce pays, ce sont les documents officiels qui confèrent ces droits.</p>
+</div>`
     }
 });

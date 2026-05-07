@@ -710,5 +710,65 @@ Object.assign(window.siteContent.it.articles, {
 <p>La confusione ha una sua logica comprensibile: un’iniziativa che parla di «controllare il numero di abitanti» suscita una naturale apprensione, soprattutto tra chi ha dovuto affrontare il rinnovo dei permessi o complicate pratiche migratorie. Ma votare o commentare sulla base della paura anziché del testo non aiuta nessuno. Il testo completo è disponibile su admin.ch. Leggerlo richiede dieci minuti e vale più di cento post su WhatsApp.</p>
 <p>- admin.ch, sito ufficiale dell'iniziativa: https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, presa di posizione del Consiglio federale: https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, analisi del testo: https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, scheda ufficiale dell'iniziativa: https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
 </div>`
+    },
+
+    "fb-daily-20260507-01-in-svizzera-la-tredicesima-non-e-automatica-ne-garantita-per-legge": {
+        title: "In Svizzera, la tredicesima non è automatica né garantita per legge",
+        description: "Quando arrivi in Svizzera e senti parlare del «treizième salaire», molti lo danno per scontato come se fosse parte integrante del sistema, proprio come l’AVS o…",
+        keywords: "svizzera, tredicesima, automatica, garantita, legge, quando, arrivi, senti",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-1-in-svizzera-la-tredicesima-non-e-automatica-ne-garantita-per-legge",
+        readingTime: 1,
+        dateUpdated: "7 maggio 2026",
+        summary: "Quando arrivi in Svizzera e senti parlare del «treizième salaire», molti lo danno per scontato come se fosse parte integrante del sistema, proprio…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Quando arrivi in Svizzera e senti parlare del «treizième salaire», molti lo danno per scontato come se fosse parte integrante del sistema, proprio come l’AVS o l’assicurazione malattia. Ma non è così. Il tredicesimo stipendio per i lavoratori non è previsto dal Codice delle obbligazioni. Se non è menzionato nel tuo contratto individuale o nel Contratto collettivo di lavoro (CCL) che regola il tuo settore, non hai diritto a richiederlo. Punto.</p>
+<p>Detto questo, nella pratica riguarda la stragrande maggioranza dei lavoratori. Si stima che circa il 70% dei dipendenti in Svizzera ne benefici, poiché molti settori lo hanno inserito nei propri contratti collettivi di lavoro: edilizia, settore alberghiero, commercio al dettaglio, settore bancario... Se lavori in uno di questi settori, probabilmente lo stai già percependo senza averlo richiesto. In caso contrario, è bene leggere attentamente il contratto prima di firmarlo.</p>
+<p>Quando è prevista, il calcolo è semplice: equivale a un dodicesimo dello stipendio lordo annuale, ovvero a un mese intero di stipendio extra. Di solito viene corrisposto a dicembre, anche se alcuni contratti lo ripartiscono tra giugno e dicembre. E se lasci il lavoro a metà anno, hai diritto a una quota proporzionale, indipendentemente dal motivo per cui te ne sei andato. Attenzione però: bisogna richiederlo, perché non sempre viene calcolato automaticamente. Per quanto riguarda la fiscalità, non vi è alcun vantaggio: è soggetto a contribuzione esattamente come qualsiasi altro mese di stipendio, con tutte le consuete detrazioni.</p>
+<p>È importante non confondere le due cose: questa tredicesima mensilità per i dipendenti non ha nulla a che vedere con la tredicesima rendita AVS approvata tramite referendum per i pensionati, entrata in vigore nel 2025. Si tratta di due cose diverse, anche se il numero è lo stesso.</p>
+</div>`
+    },
+
+    "fb-daily-20260507-02-la-lavanderia-del-condominio-in-svizzera-quella-stanza-di-cui-nessuno": {
+        title: "La lavanderia del condominio in Svizzera: quella stanza di cui nessuno ti parla quando firmi il contratto",
+        description: "Uno dei primi shock culturali quando si affitta un appartamento in Svizzera non è il prezzo, né la cauzione, né l’inventario di tre pagine. È scoprire che non…",
+        keywords: "lavanderia, condominio, svizzera, quella, stanza, nessuno, parla, quando",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-2-la-lavanderia-del-condominio-in-svizzera-quella-stanza-di-cui-nessuno",
+        readingTime: 2,
+        dateUpdated: "7 maggio 2026",
+        summary: "Uno dei primi shock culturali quando si affitta un appartamento in Svizzera non è il prezzo, né la cauzione, né l’inventario di tre pagine. È…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Uno dei primi shock culturali quando si affitta un appartamento in Svizzera non è il prezzo, né la cauzione, né l’inventario di tre pagine. È scoprire che non hai una lavatrice. O meglio, che la lavatrice si trova in cantina e che puoi usarla il martedì dalle otto alle dodici. Non il mercoledì. Non la domenica. Il martedì, dalle otto alle dodici. E se hai perso il tuo turno, aspetta la settimana prossima.</p>
+<p>La lavanderia comune è una presenza fissa nei condomini svizzeri. In circa la metà dei casi, gli orari sono prestabiliti: ogni inquilino ha a disposizione una fascia oraria fissa, solitamente mezza giornata alla settimana. Nell’altra metà dei casi, l’accesso è libero entro gli orari consentiti, che nella maggior parte dei condomini vanno dal lunedì al sabato dalle 7 alle 21. I giorni festivi sono vietati, salvo diversa indicazione nel regolamento del condominio. In ogni caso, il diritto minimo riconosciuto è quello di poter fare il bucato almeno una volta ogni quindici giorni.</p>
+<p>Per quanto riguarda il costo, l’80% degli inquilini paga direttamente per ogni ciclo, con una media di 1,55 franchi a lavaggio a 40 gradi. Ci sono edifici con sistemi a gettoni, altri con tessere magnetiche, altri ancora che includono la spesa nelle spese accessorie a fine anno. Ciò che il proprietario non può fare è addebitare due volte la stessa cosa: o la fattura nelle spese accessorie, o la addebita sul contatore, ma non entrambe le cose.</p>
+<p>In Spagna questo modello abitativo è praticamente sconosciuto. La lavatrice fa parte dell’appartamento, dell’arredamento, della vita quotidiana. Qui no: la lavanderia è uno spazio comune con regole proprie, e il regolamento lo stabilisce il proprietario o l’amministratore, non la legge. Se sorgono conflitti di orario con un vicino, il punto di partenza è quel regolamento, non il Codice Civile. Vale la pena leggerlo prima che qualcuno ti lasci un biglietto nella cassetta delle lettere.</p>
+</div>`
+    },
+
+    "fb-daily-20260507-03-convivenza-senza-matrimonio-in-svizzera-cosa-perderesti-se-il-tuo-part": {
+        title: "Convivenza senza matrimonio in Svizzera: cosa perderesti se il tuo partner morisse domani",
+        description: "In Svizzera non esiste il PACS né alcuna figura giuridica equivalente che tuteli le coppie di fatto allo stesso modo del matrimonio. La convivenza, come viene…",
+        keywords: "convivenza, senza, matrimonio, svizzera, cosa, perderesti, partner, morisse",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-3-convivenza-senza-matrimonio-in-svizzera-cosa-perderesti-se-il-tuo-part",
+        readingTime: 2,
+        dateUpdated: "7 maggio 2026",
+        summary: "In Svizzera non esiste il PACS né alcuna figura giuridica equivalente che tuteli le coppie di fatto allo stesso modo del matrimonio. La convivenza,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Svizzera non esiste il PACS né alcuna figura giuridica equivalente che tuteli le coppie di fatto allo stesso modo del matrimonio. La convivenza, come viene definita dalla legge questa situazione, non comporta diritti automatici tra i due partner. Né diritti successori, né pensione di reversibilità, né accesso privilegiato ai beni dell’altro. Se il tuo partner muore senza aver redatto un testamento, dal punto di vista legale non hai alcun diritto all’eredità.</p>
+<p>Per quanto riguarda l'AVS, paradossalmente, le coppie conviventi ne traggono vantaggio finché entrambi i partner sono in vita. Ciascuno ha diritto al 100% della propria rendita individuale, con un massimo di 2520 franchi al mese a persona nel 2026. Per una coppia sposata, il reddito combinato non può superare il 150% del reddito individuale massimo, il che in pratica limita l'importo che la coppia riceve complessivamente. La differenza può arrivare a diverse centinaia di franchi al mese. Ma quando uno dei due muore, ecco che inizia il problema: il superstite di una coppia convivente non ha diritto alla rendita di vedova o di vedovo del primo pilastro. Chi se ne va si porta via la propria pensione.</p>
+<p>Anche per il secondo e il terzo pilastro la situazione varia. Nel pilastro 3a, le coppie conviventi possono designare l’altro come beneficiario, ma il fondo o l’assicuratore deve esserne informato per iscritto in anticipo. Nella LPP (secondo pilastro), il diritto alla rendita di reversibilità esiste, ma a condizioni più restrittive rispetto a quelle previste per i coniugi. Per quanto riguarda l'appartamento, se il contratto di locazione è intestato solo a uno dei due, l'altro non ha alcun diritto legale di rimanervi in caso di decesso del titolare.</p>
+<p>La soluzione non è necessariamente il matrimonio, ma piuttosto mettere ordine nella situazione: un testamento, un contratto di convivenza, una polizza vita, la designazione esplicita dei beneficiari nei fondi pensione. Molte coppie in Svizzera convivono da anni senza aver provveduto a nulla di tutto ciò, convinte che il tempo conferisca diritti. In questo Paese, però, i diritti derivano dai documenti.</p>
+</div>`
     }
 });

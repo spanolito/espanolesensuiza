@@ -1718,5 +1718,65 @@ Object.assign(window.siteContent.es.articles, {
 <p>La confusion tiene una logica comprensible: una iniciativa que habla de "controlar el numero de habitantes" genera ansiedad natural, especialmente entre quienes han vivido renovaciones de permiso o tramites migratorios complicados. Pero votar o comentar desde el miedo en lugar de desde el texto no ayuda a nadie. El texto completo esta disponible en admin.ch. Leerlo lleva diez minutos y vale mas que cien posts de WhatsApp.</p>
 <p>- admin.ch, pagina oficial de la iniciativa: https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, posicion del Consejo Federal: https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, analisis del texto: https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, ficha oficial de la iniciativa: https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
 </div>`
+    },
+
+    "fb-daily-20260507-01-el-13-salario-en-suiza-no-es-automatico-ni-esta-garantizado-por-ley": {
+        title: "El 13° salario en Suiza no es automático ni está garantizado por ley",
+        description: "Cuando llegas a Suiza y oyes hablar del treizième salaire, muchos lo dan por hecho como si fuera parte del sistema, igual que el AVS o el seguro médico. No lo…",
+        keywords: "salario, suiza, automático, está, garantizado, cuando, llegas, oyes",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-1-el-13-salario-en-suiza-no-es-automatico-ni-esta-garantizado-por-ley",
+        readingTime: 1,
+        dateUpdated: "7 mayo 2026",
+        summary: "Cuando llegas a Suiza y oyes hablar del treizième salaire, muchos lo dan por hecho como si fuera parte del sistema, igual que el AVS o el seguro…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Cuando llegas a Suiza y oyes hablar del treizième salaire, muchos lo dan por hecho como si fuera parte del sistema, igual que el AVS o el seguro médico. No lo es. El 13° salario para trabajadores no está impuesto por el Código de Obligaciones. Si no figura en tu contrato individual o en la Convención Colectiva de Trabajo (CCT) que regula tu sector, no tienes derecho a reclamarlo. Punto.</p>
+<p>Dicho esto, en la práctica afecta a una gran mayoría. Se calcula que alrededor del 70% de los empleados en Suiza lo cobran, porque muchos sectores lo han incluido en sus CCT: construcción, hostelería, comercio minorista, banca... Si trabajas en uno de estos sectores, probablemente ya lo estás cobrando sin haberlo pedido. Si no, conviene leer bien el contrato antes de firmar.</p>
+<p>Cuando existe, el cálculo es sencillo: equivale a un doceavo del salario bruto anual, es decir, un mes completo de sueldo extra. Lo habitual es cobrarlo en diciembre, aunque algunos contratos lo reparten entre junio y diciembre. Y si dejas el trabajo a mitad de año, tienes derecho al pro-rata, independientemente del motivo por el que hayas salido. Eso sí, hay que pedirlo: no siempre te lo calculan automáticamente. En cuanto a la fiscalidad, no hay ninguna ventaja: cotiza exactamente igual que cualquier otro mes de salario, con todas las deducciones habituales.</p>
+<p>Lo que conviene no confundir: este 13° salario para empleados no tiene nada que ver con la 13ª renta AVS aprobada en referéndum para los jubilados, que entró en vigor en 2025. Son dos cosas distintas, aunque el número sea el mismo.</p>
+</div>`
+    },
+
+    "fb-daily-20260507-02-la-buanderia-del-edificio-en-suiza-el-cuarto-que-nadie-te-explica-cuan": {
+        title: "La buandería del edificio en Suiza: el cuarto que nadie te explica cuando firmas el contrato",
+        description: "Uno de los primeros choques culturales al alquilar un piso en Suiza no es el precio, ni el depósito de garantía, ni el inventario de tres páginas. Es descubrir…",
+        keywords: "buandería, edificio, suiza, cuarto, nadie, explica, cuando, firmas",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-2-la-buanderia-del-edificio-en-suiza-el-cuarto-que-nadie-te-explica-cuan",
+        readingTime: 2,
+        dateUpdated: "7 mayo 2026",
+        summary: "Uno de los primeros choques culturales al alquilar un piso en Suiza no es el precio, ni el depósito de garantía, ni el inventario de tres páginas. Es…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Uno de los primeros choques culturales al alquilar un piso en Suiza no es el precio, ni el depósito de garantía, ni el inventario de tres páginas. Es descubrir que no tienes lavadora. O mejor dicho, que la lavadora está en el sótano, y que puedes usarla los martes de ocho a doce. No los miércoles. No los domingos. Los martes, de ocho a doce. Y si has perdido tu turno, espera a la semana que viene.</p>
+<p>La buanderie commune, o cuarto de lavado comunitario, es una institución en los edificios residenciales suizos. En aproximadamente la mitad de los casos, el horario está asignado: cada inquilino tiene una franja fija, generalmente media jornada a la semana. En la otra mitad, el acceso es libre dentro del horario permitido, que en la mayoría de edificios va de lunes a sábado entre las 7 y las 21 horas. Los festivos están prohibidos, excepto que el reglamento del edificio diga lo contrario. En todo caso, el derecho mínimo reconocido es poder lavar al menos una vez cada quince días.</p>
+<p>Sobre el coste, el 80% de los inquilinos paga directamente por cada ciclo, con una media de 1,55 francos por lavado a 40 grados. Hay edificios con sistemas de ficha, otros con tarjeta, otros que incluyen el gasto en los gastos accesorios al final del año. Lo que no puede hacer el propietario es cobrar dos veces por lo mismo: o lo facturas en las cargas, o lo cobras en el contador, pero no las dos cosas.</p>
+<p>En España esto es prácticamente desconocido como modelo residencial. La lavadora es parte del piso, del mobiliario, de la vida. Aquí no: el cuarto de lavado es un espacio compartido con reglas propias, y el reglamento lo pone el propietario o el administrador, no la ley. Si hay conflictos de horario con un vecino, el punto de partida es ese reglamento, no el Código Civil. Vale la pena leerlo antes de que alguien te deje una nota en el buzón.</p>
+</div>`
+    },
+
+    "fb-daily-20260507-03-vivir-juntos-sin-casarse-en-suiza-lo-que-perderias-si-tu-pareja-muere": {
+        title: "Vivir juntos sin casarse en Suiza: lo que perderías si tu pareja muere mañana",
+        description: "En Suiza no existe el PACS ni ninguna figura jurídica equivalente que proteja a las parejas de hecho de la misma manera que el matrimonio. El concubinage, que…",
+        keywords: "vivir, juntos, casarse, suiza, perderías, pareja, muere, mañana",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-3-vivir-juntos-sin-casarse-en-suiza-lo-que-perderias-si-tu-pareja-muere",
+        readingTime: 2,
+        dateUpdated: "7 mayo 2026",
+        summary: "En Suiza no existe el PACS ni ninguna figura jurídica equivalente que proteja a las parejas de hecho de la misma manera que el matrimonio. El…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suiza no existe el PACS ni ninguna figura jurídica equivalente que proteja a las parejas de hecho de la misma manera que el matrimonio. El concubinage, que es como llama la ley a esta situación, no genera derechos automáticos entre los dos. Ni herencia, ni pensión de viudedad, ni acceso privilegiado a los bienes del otro. Si tu pareja muere sin haber escrito un testamento, legalmente eres un desconocido para la herencia.</p>
+<p>En materia de AVS, paradójicamente, las parejas en concubinage salen ganando mientras los dos estén vivos. Cada uno tiene derecho al 100% de su renta individual, con un máximo de 2520 francos mensuales por persona en 2026. Un matrimonio tiene un techo de renta combinada del 150% de la renta máxima individual, lo que en la práctica limita lo que cobra la pareja conjuntamente. La diferencia puede llegar a varios cientos de francos al mes. Pero cuando uno de los dos muere, ahí empieza el problema: el sobreviviente de una pareja en concubinage no tiene derecho a la rente de veuve ou de veuf del primer pilar. El que se va se lleva su pensión.</p>
+<p>Para el segundo y tercer pilar la situación también varía. En el pilar 3a, las parejas en concubinage pueden designar al otro como beneficiario, pero el fondo o aseguradora debe saberlo por escrito con anterioridad. En la LPP (segundo pilar), el derecho a la pensión de supervivencia existe, pero con condiciones más estrictas que para los casados. Y en cuanto al piso, si el contrato de alquiler está solo a nombre de uno de los dos, el otro no tiene ningún derecho legal a quedarse si el titular muere.</p>
+<p>La solución no es necesariamente casarse, pero sí estructurar la situación: un testamento, un contrato de concubinage, una póliza de vida, designaciones explícitas de beneficiarios en los fondos de pensiones. Muchas parejas en Suiza llevan años viviendo juntas sin hacer nada de esto, convencidas de que el tiempo da derechos. En este país, los derechos los da el papel.</p>
+</div>`
     }
 });

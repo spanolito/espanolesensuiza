@@ -1745,5 +1745,65 @@ Object.assign(window.siteContent.en.articles, {
 <p>There is a certain logic to the confusion: an initiative that talks about “controlling the number of residents” naturally causes anxiety, especially among those who have had to deal with permit renewals or complicated immigration procedures. But voting or commenting out of fear rather than on the basis of the text itself helps no one. The full text is available at admin.ch. It takes ten minutes to read and is worth more than a hundred WhatsApp posts.</p>
 <p>- admin.ch, the initiative’s official website: https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, the Federal Council’s position: https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, analysis of the text: https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, official initiative details: https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
 </div>`
+    },
+
+    "fb-daily-20260507-01-in-switzerland-the-13th-months-salary-is-neither-automatic-nor-guarant": {
+        title: "In Switzerland, the 13th month’s salary is neither automatic nor guaranteed by law",
+        description: "When you arrive in Switzerland and hear people talking about the treizième salaire, many take it for granted as if it were part of the system, just like the…",
+        keywords: "switzerland, month, salary, neither, automatic, guaranteed, when, arrive",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-1-in-switzerland-the-13th-months-salary-is-neither-automatic-nor-guarant",
+        readingTime: 1,
+        dateUpdated: "May 7, 2026",
+        summary: "When you arrive in Switzerland and hear people talking about the treizième salaire, many take it for granted as if it were part of the system, just…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>When you arrive in Switzerland and hear people talking about the treizième salaire, many take it for granted as if it were part of the system, just like the AVS or health insurance. It isn’t. The 13th month’s salary for employees is not required by the Swiss Code of Obligations. If it isn’t specified in your individual contract or in the Collective Labour Agreement (CLA) governing your sector, you have no right to claim it. Full stop.</p>
+<p>That said, in practice it affects the vast majority. It is estimated that around 70% of employees in Switzerland receive it, as many sectors have included it in their collective agreements: construction, hospitality, retail, banking… If you work in one of these sectors, you are probably already receiving it without having asked for it. If not, it is worth reading your contract carefully before signing.</p>
+<p>When it is paid, the calculation is simple: it amounts to one twelfth of your gross annual salary, in other words, a full month’s extra pay. It is usually paid in December, although some contracts split it between June and December. And if you leave your job mid-year, you are entitled to a pro-rata payment, regardless of the reason for leaving. However, you do need to request it: it isn’t always calculated automatically. As for tax, there is no advantage: it is taxed exactly the same as any other month’s salary, with all the usual deductions.</p>
+<p>It is important not to confuse the two: this 13th month’s salary for employees has nothing to do with the 13th AVS pension approved by referendum for pensioners, which came into force in 2025. They are two different things, even though the number is the same.</p>
+</div>`
+    },
+
+    "fb-daily-20260507-02-the-buildings-laundry-room-in-switzerland-the-room-nobody-tells-you-ab": {
+        title: "The building's laundry room in Switzerland: the room nobody tells you about when you sign the tenancy agreement",
+        description: "One of the first culture shocks when renting a flat in Switzerland isn’t the rent, or the security deposit, or the three-page inventory. It’s discovering that…",
+        keywords: "building, laundry, room, switzerland, nobody, tells, about, when",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-2-the-buildings-laundry-room-in-switzerland-the-room-nobody-tells-you-ab",
+        readingTime: 2,
+        dateUpdated: "May 7, 2026",
+        summary: "One of the first culture shocks when renting a flat in Switzerland isn’t the rent, or the security deposit, or the three-page inventory. It’s…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>One of the first culture shocks when renting a flat in Switzerland isn’t the rent, or the security deposit, or the three-page inventory. It’s discovering that you don’t have a washing machine. Or rather, that the washing machine is in the basement, and you can use it on Tuesdays from 8am to 12pm. Not on Wednesdays. Not on Sundays. Tuesdays, from 8am to 12pm. And if you’ve missed your slot, you’ll have to wait until next week.</p>
+<p>The communal laundry room is a standard feature in Swiss residential buildings. In roughly half of cases, usage times are allocated: each tenant is assigned a fixed slot, usually half a day per week. In the other half, access is unrestricted within the permitted hours, which in most buildings are from Monday to Saturday between 7 am and 9 pm. Use on public holidays is prohibited, unless the building regulations state otherwise. In any case, the minimum right recognised is to be able to do laundry at least once every fortnight.</p>
+<p>As for the cost, 80% of tenants pay directly per wash, at an average of 1.55 francs per wash at 40 degrees. Some buildings use token systems, others use cards, and others include the cost in the service charges at the end of the year. What the landlord cannot do is charge twice for the same thing: either you include it in the service charges, or you charge it via the meter, but not both.</p>
+<p>In Spain, this is virtually unheard of as a housing model. The washing machine is part of the flat, part of the furnishings, part of life. Not here: the laundry room is a shared space with its own rules, and those rules are set by the landlord or the property manager, not by law. If there are scheduling conflicts with a neighbour, the starting point is those rules, not the Civil Code. It’s worth reading them before someone leaves you a note in your letterbox.</p>
+</div>`
+    },
+
+    "fb-daily-20260507-03-living-together-without-getting-married-in-switzerland-what-you-would": {
+        title: "Living together without getting married in Switzerland: what you would lose if your partner died tomorrow",
+        description: "In Switzerland, there is no civil partnership (PACS) or any equivalent legal framework that protects cohabiting couples in the same way as marriage.…",
+        keywords: "living, together, without, getting, married, switzerland, what, would",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-3-living-together-without-getting-married-in-switzerland-what-you-would",
+        readingTime: 2,
+        dateUpdated: "May 7, 2026",
+        summary: "In Switzerland, there is no civil partnership (PACS) or any equivalent legal framework that protects cohabiting couples in the same way as marriage.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Switzerland, there is no civil partnership (PACS) or any equivalent legal framework that protects cohabiting couples in the same way as marriage. Concubinage – as the law refers to this situation – does not automatically confer any rights on the couple. This includes no inheritance rights, no widow’s or widower’s pension, and no preferential access to the other partner’s assets. If your partner dies without having made a will, you are legally a stranger to the inheritance.</p>
+<p>When it comes to the AVS, paradoxically, cohabiting couples come out ahead as long as both partners are alive. Each is entitled to 100% of their individual pension, up to a maximum of 2,520 francs per person per month in 2026. A married couple has a combined pension cap of 150% of the maximum individual pension, which in practice limits what the couple receives jointly. The difference can amount to several hundred francs a month. But when one of the two dies, that is when the problem begins: the surviving partner in a cohabiting relationship is not entitled to the widow’s or widower’s pension under the first pillar. The one who passes away takes their pension with them.</p>
+<p>The situation also varies for the second and third pillars. Under pillar 3a, cohabiting couples can name each other as beneficiaries, but the fund or insurer must be notified in writing in advance. Under the LPP (second pillar), the right to a survivor’s pension exists, but with stricter conditions than for married couples. As for the flat, if the tenancy agreement is in the name of only one of the two, the other has no legal right to remain there if the tenant dies.</p>
+<p>The solution isn’t necessarily to get married, but rather to put the situation in order: a will, a cohabitation agreement, a life insurance policy, and explicit designation of beneficiaries in pension funds. Many couples in Switzerland have been living together for years without doing any of this, convinced that time alone confers rights. In this country, however, rights are conferred by a legal document.</p>
+</div>`
     }
 });

@@ -1725,5 +1725,65 @@ Object.assign(window.siteContent.de.articles, {
 <p>Die Verwirrung hat ihre eigene Logik: Eine Initiative, die von der „Kontrolle der Einwohnerzahl“ spricht, löst verständlicherweise Ängste aus, insbesondere bei jenen, die bereits Erfahrungen mit der Verlängerung von Aufenthaltsgenehmigungen oder komplizierten Einwanderungsverfahren gemacht haben. Aber aus Angst zu stimmen oder zu kommentieren, anstatt sich auf den Text selbst zu stützen, hilft niemandem. Der vollständige Text ist auf admin.ch verfügbar. Das Lesen dauert zehn Minuten und ist mehr wert als hundert WhatsApp-Beiträge.</p>
 <p>- admin.ch, offizielle Website der Initiative: https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, Stellungnahme des Bundesrats: https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, Textanalyse: https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, offizielles Datenblatt zur Initiative: https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
 </div>`
+    },
+
+    "fb-daily-20260507-01-das-13-monatsgehalt-ist-in-der-schweiz-weder-automatisch-fallig-noch-g": {
+        title: "Das 13. Monatsgehalt ist in der Schweiz weder automatisch fällig noch gesetzlich garantiert",
+        description: "Wenn man in die Schweiz kommt und vom „treizième salaire“ hört, nehmen viele das als selbstverständlich hin, als wäre es ein fester Bestandteil des Systems,…",
+        keywords: "monatsgehalt, schweiz, weder, automatisch, fällig, noch, gesetzlich, garantiert",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-1-das-13-monatsgehalt-ist-in-der-schweiz-weder-automatisch-fallig-noch-g",
+        readingTime: 1,
+        dateUpdated: "7 Mai 2026",
+        summary: "Wenn man in die Schweiz kommt und vom „treizième salaire“ hört, nehmen viele das als selbstverständlich hin, als wäre es ein fester Bestandteil des…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Wenn man in die Schweiz kommt und vom „treizième salaire“ hört, nehmen viele das als selbstverständlich hin, als wäre es ein fester Bestandteil des Systems, genau wie die AHV oder die Krankenversicherung. Das ist es aber nicht. Das 13. Monatsgehalt für Arbeitnehmer ist nicht im Obligationenrecht vorgeschrieben. Wenn es nicht in deinem Einzelvertrag oder im Gesamtarbeitsvertrag (GAV) für deine Branche vorgesehen ist, hast du keinen Anspruch darauf. Punkt.</p>
+<p>In der Praxis betrifft dies jedoch eine große Mehrheit. Schätzungen zufolge erhalten rund 70 % der Beschäftigten in der Schweiz diese Zulage, da viele Branchen sie in ihre Gesamtarbeitsverträge aufgenommen haben: Baugewerbe, Gastgewerbe, Einzelhandel, Bankwesen ... Wenn du in einer dieser Branchen arbeitest, erhältst du sie wahrscheinlich bereits, ohne sie beantragt zu haben. Andernfalls solltest du den Vertrag vor der Unterzeichnung sorgfältig durchlesen.</p>
+<p>Wenn es diese Zahlung gibt, ist die Berechnung einfach: Sie entspricht einem Zwölftel des Bruttojahresgehalts, also einem vollen Monatsgehalt zusätzlich. In der Regel wird sie im Dezember ausgezahlt, obwohl manche Verträge die Zahlung auf Juni und Dezember aufteilen. Und wenn du deinen Arbeitsplatz zur Jahresmitte verlässt, hast du Anspruch auf einen anteiligen Betrag, unabhängig vom Grund für dein Ausscheiden. Allerdings musst du diesen beantragen: Er wird nicht immer automatisch berechnet. Was die Besteuerung angeht, gibt es keinen Vorteil: Es wird genau wie jeder andere Monatslohn versteuert, mit allen üblichen Abzügen.</p>
+<p>Man sollte hier nicht verwechseln: Dieses 13. Monatsgehalt für Arbeitnehmer hat nichts mit der im Referendum beschlossenen 13. AHV-Rente für Rentner zu tun, die 2025 in Kraft getreten ist. Es handelt sich um zwei verschiedene Dinge, auch wenn die Zahl dieselbe ist.</p>
+</div>`
+    },
+
+    "fb-daily-20260507-02-der-waschraum-im-schweizer-wohnhaus-der-raum-den-dir-niemand-erklart-w": {
+        title: "Der Waschraum im Schweizer Wohnhaus: Der Raum, den dir niemand erklärt, wenn du den Mietvertrag unterschreibst",
+        description: "Einer der ersten Kulturschocks beim Mieten einer Wohnung in der Schweiz ist weder der Preis noch die Kaution noch das dreiseitige Inventar. Es ist die…",
+        keywords: "waschraum, schweizer, wohnhaus, raum, niemand, erklärt, wenn, mietvertrag",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-2-der-waschraum-im-schweizer-wohnhaus-der-raum-den-dir-niemand-erklart-w",
+        readingTime: 2,
+        dateUpdated: "7 Mai 2026",
+        summary: "Einer der ersten Kulturschocks beim Mieten einer Wohnung in der Schweiz ist weder der Preis noch die Kaution noch das dreiseitige Inventar. Es ist…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Einer der ersten Kulturschocks beim Mieten einer Wohnung in der Schweiz ist weder der Preis noch die Kaution noch das dreiseitige Inventar. Es ist die Erkenntnis, dass man keine Waschmaschine hat. Oder besser gesagt: dass die Waschmaschine im Keller steht und man sie dienstags von acht bis zwölf Uhr benutzen darf. Nicht mittwochs. Nicht sonntags. Dienstags, von acht bis zwölf Uhr. Und wenn man seinen Termin verpasst hat, muss man bis zur nächsten Woche warten.</p>
+<p>Die Gemeinschaftswaschküche ist in Schweizer Wohnanlagen eine feste Einrichtung. In etwa der Hälfte der Fälle sind die Nutzungszeiten fest zugewiesen: Jeder Mieter hat einen festen Zeitblock, in der Regel einen halben Tag pro Woche. In der anderen Hälfte ist der Zugang innerhalb der zulässigen Zeiten frei, die in den meisten Gebäuden von Montag bis Samstag zwischen 7 und 21 Uhr liegen. An Feiertagen ist die Nutzung verboten, sofern die Hausordnung nichts anderes vorsieht. In jedem Fall besteht ein Mindestanspruch darauf, mindestens einmal alle zwei Wochen waschen zu können.</p>
+<p>Was die Kosten angeht, so zahlen 80 % der Mieter direkt pro Waschgang, wobei der Durchschnittspreis bei 1,55 Franken pro Waschgang bei 40 Grad liegt. Es gibt Gebäude mit Münzsystemen, andere mit Kartensystemen, wieder andere, bei denen die Kosten am Jahresende in den Nebenkosten abgerechnet werden. Was der Vermieter jedoch nicht tun darf, ist, zweimal für dasselbe zu berechnen: Entweder rechnet er es über die Nebenkosten ab oder er berechnet es über den Zähler, aber nicht beides.</p>
+<p>In Spanien ist dieses Wohnmodell so gut wie unbekannt. Die Waschmaschine ist Teil der Wohnung, der Einrichtung, des Alltags. Hier nicht: Der Waschraum ist ein Gemeinschaftsraum mit eigenen Regeln, und diese werden vom Eigentümer oder Verwalter festgelegt, nicht vom Gesetz. Bei zeitlichen Konflikten mit einem Nachbarn ist diese Hausordnung der Ausgangspunkt, nicht das Bürgerliche Gesetzbuch. Es lohnt sich, sie zu lesen, bevor jemand eine Notiz in deinem Briefkasten hinterlässt.</p>
+</div>`
+    },
+
+    "fb-daily-20260507-03-in-der-schweiz-unverheiratet-zusammenleben-was-dir-entgehen-wurde-wenn": {
+        title: "In der Schweiz unverheiratet zusammenleben: Was dir entgehen würde, wenn dein Partner morgen verstirbt",
+        description: "In der Schweiz gibt es weder den PACS noch eine vergleichbare Rechtsform, die Lebensgemeinschaften in gleicher Weise schützt wie die Ehe. Das „Konkubinat“, wie…",
+        keywords: "schweiz, unverheiratet, zusammenleben, entgehen, würde, wenn, dein, partner",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-07-3-in-der-schweiz-unverheiratet-zusammenleben-was-dir-entgehen-wurde-wenn",
+        readingTime: 2,
+        dateUpdated: "7 Mai 2026",
+        summary: "In der Schweiz gibt es weder den PACS noch eine vergleichbare Rechtsform, die Lebensgemeinschaften in gleicher Weise schützt wie die Ehe. Das…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In der Schweiz gibt es weder den PACS noch eine vergleichbare Rechtsform, die Lebensgemeinschaften in gleicher Weise schützt wie die Ehe. Das „Konkubinat“, wie diese Situation gesetzlich bezeichnet wird, begründet keine automatischen Rechte zwischen den beiden Partnern. Weder Erbansprüche noch Witwenrente noch ein bevorzugter Anspruch auf das Vermögen des anderen. Stirbt dein Partner, ohne ein Testament hinterlassen zu haben, bist du rechtlich gesehen ein Fremder in Bezug auf die Erbschaft.</p>
+<p>Was die AHV betrifft, so profitieren nichtehelich zusammenlebende Paare paradoxerweise, solange beide Partner am Leben sind. Jeder hat Anspruch auf 100 % seiner individuellen Rente, wobei der Höchstbetrag im Jahr 2026 bei 2520 Franken pro Person und Monat liegt. Bei Ehepaaren gilt eine Obergrenze für die gemeinsame Rente von 150 % der maximalen Einzelrente, was in der Praxis den Gesamtbetrag begrenzt, den das Paar gemeinsam erhält. Die Differenz kann mehrere hundert Franken pro Monat betragen. Doch wenn einer der beiden stirbt, beginnt das Problem: Der Hinterbliebene eines unverheirateten Paares hat keinen Anspruch auf die Witwen- oder Witwerrente der ersten Säule. Der Verstorbene nimmt seine Rente mit ins Grab.</p>
+<p>Auch bei der zweiten und dritten Säule sieht die Situation unterschiedlich aus. In der Säule 3a können Lebenspartner den anderen als Begünstigten benennen, doch muss der Fonds oder der Versicherer zuvor schriftlich darüber informiert werden. Im BVG (zweite Säule) besteht zwar ein Anspruch auf Hinterbliebenenrente, jedoch unter strengeren Bedingungen als bei Verheirateten. Was die Wohnung betrifft: Liegt der Mietvertrag nur auf den Namen eines der beiden Partner, hat der andere keinen gesetzlichen Anspruch darauf, dort zu bleiben, wenn der Vertragsinhaber stirbt.</p>
+<p>Die Lösung besteht nicht unbedingt darin, zu heiraten, sondern darin, die Situation rechtlich zu regeln: ein Testament, ein Lebenspartnerschaftsvertrag, eine Lebensversicherung, ausdrückliche Begünstigtenbestimmungen in den Pensionskassen. Viele Paare in der Schweiz leben seit Jahren zusammen, ohne irgendetwas davon zu tun, in der Überzeugung, dass die Zeit Rechte begründet. In diesem Land werden Rechte jedoch durch schriftliche Urkunden begründet.</p>
+</div>`
     }
 });
