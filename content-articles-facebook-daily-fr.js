@@ -1512,5 +1512,65 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Pour les deuxième et troisième piliers, la situation varie également. Dans le pilier 3a, les couples vivant en concubinage peuvent désigner l'autre comme bénéficiaire, mais la caisse ou l'assureur doit en être informé par écrit au préalable. Dans la LPP (deuxième pilier), le droit à la rente de survivant existe, mais à des conditions plus strictes que pour les personnes mariées. Quant au logement, si le contrat de location est uniquement au nom de l'un des deux, l'autre n'a aucun droit légal de rester si le titulaire décède.</p>
 <p>La solution ne réside pas nécessairement dans le mariage, mais plutôt dans la mise en place d'un cadre juridique : un testament, un contrat de concubinage, une assurance-vie, la désignation explicite de bénéficiaires dans les fonds de pension. En Suisse, de nombreux couples vivent ensemble depuis des années sans avoir pris aucune de ces dispositions, convaincus que le temps confère des droits. Or, dans ce pays, ce sont les documents officiels qui confèrent ces droits.</p>
 </div>`
+    },
+
+    "fb-daily-20260508-01-divorcer-en-suisse-avec-un-permis-de-sejour-tout-depend-de-la-maniere": {
+        title: "Divorcer en Suisse avec un permis de séjour : tout dépend de la manière dont vous avez obtenu ce permis",
+        description: "Une séparation ou un divorce soulève de nombreuses questions concernant le permis de séjour, et les réponses données dans les groupes ne sont pas toujours…",
+        keywords: "divorcer, suisse, permis, séjour, tout, dépend, manière, dont",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-08-1-divorcer-en-suisse-avec-un-permis-de-sejour-tout-depend-de-la-maniere",
+        readingTime: 2,
+        dateUpdated: "8 mai 2026",
+        summary: "Une séparation ou un divorce soulève de nombreuses questions concernant le permis de séjour, et les réponses données dans les groupes ne sont pas…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Une séparation ou un divorce soulève de nombreuses questions concernant le permis de séjour, et les réponses données dans les groupes ne sont pas toujours d'une grande aide. La première chose à comprendre, c'est que la réponse dépend entièrement de la manière dont vous avez obtenu ce permis : si vous l'avez obtenu grâce à votre travail ou grâce à votre partenaire.</p>
+<p>Si tu es citoyen de l'UE et que tu possèdes un permis B parce que tu travailles en Suisse, le divorce n'a pas d'incidence directe. Ton droit de séjour est lié à ton activité professionnelle, et non à ton état civil. L'Accord sur la libre circulation des personnes (ALCP) te confère ce droit de manière autonome. Le fait de divorcer n'affecte pas ton permis tant que tu continues à travailler.</p>
+<p>La situation est différente si tu es arrivé en Suisse en tant que « membre de la famille » d’un travailleur européen, sans exercer toi-même d’activité professionnelle. Dans ce cas, le divorce peut compliquer le renouvellement de ton permis. Ce n’est pas pour autant que celui-ci te sera automatiquement retiré, mais le canton vérifiera si tu disposes de moyens de subsistance propres ou si tu exerces une activité professionnelle. Il en va de même pour les ressortissants de pays tiers : l'article 50 de la loi sur les étrangers (LEI) stipule que le droit découlant du regroupement familial est maintenu si l'union conjugale a duré au moins trois ans et qu'il y a une intégration suffisante, ou s'il existe des raisons personnelles graves qui le justifient.</p>
+<p>Concrètement, toute personne arrivée en Suisse avec un contrat de travail à son nom et cotisant depuis des années se trouve dans une situation solide. En revanche, toute personne arrivée sans activité professionnelle, sous le statut de conjoint, devrait consulter le service cantonal des migrations avant que le divorce ne soit prononcé, et non après.</p>
+</div>`
+    },
+
+    "fb-daily-20260508-02-la-caution-locative-en-suisse-trois-mois-bloques-qui-vous-appartiennen": {
+        title: "La caution locative en Suisse : trois mois bloqués qui vous appartiennent mais sur lesquels vous n'avez aucun contrôle",
+        description: "Lorsque vous signez un contrat de location en Suisse, il est courant que le bailleur vous demande une garantie équivalente à deux ou trois mois de loyer. Trois…",
+        keywords: "caution, locative, suisse, trois, mois, bloqués, vous, appartiennent",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-08-2-la-caution-locative-en-suisse-trois-mois-bloques-qui-vous-appartiennen",
+        readingTime: 1,
+        dateUpdated: "8 mai 2026",
+        summary: "Lorsque vous signez un contrat de location en Suisse, il est courant que le bailleur vous demande une garantie équivalente à deux ou trois mois de…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Lorsque vous signez un contrat de location en Suisse, il est courant que le bailleur vous demande une garantie équivalente à deux ou trois mois de loyer. Trois mois constituent le maximum légal autorisé par le Code des obligations, et il n'est pas possible d'exiger davantage, même si le contrat le prévoit. Si tel est le cas, cette clause est nulle.</p>
+<p>Ce que beaucoup de gens ignorent, c'est que cet argent ne peut pas être versé sur un compte du propriétaire : il doit être déposé sur un compte bancaire bloqué à votre nom. Ce compte est à votre nom et les intérêts qu'il génère vous reviennent. Le propriétaire ne peut réclamer cet argent que s'il existe une dette avérée à la fin du contrat, qu'il s'agisse d'un loyer impayé ou de dommages dépassant l'usure normale.</p>
+<p>Lorsque tu rends les clés, le délai raisonnable pour la restitution de la caution est d'un à trois mois, une fois qu'il a été confirmé qu'aucune réclamation n'est en cours. Si le bailleur ne donne pas suite, tu peux t'adresser directement à la banque avec l'accord du propriétaire ou, si tu ne l'obtiens pas, demander à l'autorité compétente (dans la plupart des cantons, le juge de paix ou la commission de conciliation) d'ordonner sa restitution. Vous n'avez pas besoin d'un avocat pour cette première étape.</p>
+<p>Une alternative de plus en plus répandue consiste à ne pas verser d'argent liquide, mais à souscrire une caution solidaire auprès d'entreprises spécialisées telles que SwissCaution ou Firstcaution. Vous payez une prime annuelle équivalant à un peu moins de 5 % du montant de la garantie et vos liquidités restent disponibles. Le bailleur accepte ces solutions dans la plupart des cantons, bien qu'il n'y soit pas légalement tenu.</p>
+</div>`
+    },
+
+    "fb-daily-20260508-03-la-retraite-espagnole-et-la-retraite-suisse-ne-sadditionnent-pas-comme": {
+        title: "La retraite espagnole et la retraite suisse ne s'additionnent pas comme tu le penses",
+        description: "Une idée circule beaucoup : si vous travaillez en Suisse après avoir cotisé en Espagne, vous toucherez une pension des deux pays, ce qui revient presque à…",
+        keywords: "retraite, espagnole, suisse, additionnent, comme, penses, idée, circule",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-08-3-la-retraite-espagnole-et-la-retraite-suisse-ne-sadditionnent-pas-comme",
+        readingTime: 2,
+        dateUpdated: "8 mai 2026",
+        summary: "Une idée circule beaucoup : si vous travaillez en Suisse après avoir cotisé en Espagne, vous toucherez une pension des deux pays, ce qui revient…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Une idée circule beaucoup : si vous travaillez en Suisse après avoir cotisé en Espagne, vous toucherez une pension des deux pays, ce qui revient presque à gagner deux fois plus. La réalité est bien plus sobre, et le comprendre à temps change la façon dont il convient de planifier.</p>
+<p>La convention bilatérale de sécurité sociale entre la Suisse et l'Espagne, complétée par les accords de coordination européens applicables en Suisse, prévoit ce qui suit : chaque pays paie sa part, et uniquement sa part. Si vous avez cotisé 8 ans en Espagne et 22 ans en Suisse, l'Espagne calcule une pension comme si vous aviez cotisé 30 ans, mais ne vous verse que 8/30 de ce montant. La Suisse fait de même avec vos 22 ans. Ce n'est pas un double versement : c'est proportionnel, et la somme peut être inférieure à ce que vous percevriez si toutes vos années de cotisation relevaient d'un seul système.</p>
+<p>C'est en matière d'éligibilité que l'accord s'avère utile. Si, en Espagne, il faut avoir cotisé pendant 15 ans pour avoir droit à une pension contributive et que vous n'en avez que 5, l'Espagne peut prendre en compte vos années de cotisation en Suisse pour vérifier que vous atteignez ce seuil minimum. Une fois l'éligibilité confirmée, le calcul se fait uniquement sur la base des années de cotisation effectives en Espagne.</p>
+<p>Ce qui a un impact concret : si vous envisagez de retourner en Espagne à l'approche de la retraite, les dernières années de cotisation en Espagne seront prises en compte dans le calcul de votre base de cotisation espagnole, ce qui peut améliorer considérablement votre pension espagnole. Travailler en Suisse jusqu'au dernier jour avant de prendre votre retraite n'est pas toujours la stratégie la plus avantageuse si vous avez l'intention de vivre en Espagne par la suite. Il vaut mieux faire le calcul à l'avance, et non pas lorsqu'il n'est plus possible de changer quoi que ce soit.</p>
+</div>`
     }
 });

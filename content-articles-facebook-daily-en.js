@@ -1511,5 +1511,65 @@ Object.assign(window.siteContent.en.articles, {
 <p>The situation also varies for the second and third pillars. Under pillar 3a, cohabiting couples can name each other as beneficiaries, but the fund or insurer must be notified in writing in advance. Under the LPP (second pillar), the right to a survivor’s pension exists, but with stricter conditions than for married couples. As for the flat, if the tenancy agreement is in the name of only one of the two, the other has no legal right to remain there if the tenant dies.</p>
 <p>The solution isn’t necessarily to get married, but rather to put the situation in order: a will, a cohabitation agreement, a life insurance policy, and explicit designation of beneficiaries in pension funds. Many couples in Switzerland have been living together for years without doing any of this, convinced that time alone confers rights. In this country, however, rights are conferred by a legal document.</p>
 </div>`
+    },
+
+    "fb-daily-20260508-01-getting-divorced-in-switzerland-whilst-holding-a-residence-permit-what": {
+        title: "Getting divorced in Switzerland whilst holding a residence permit: what depends on how you obtained that permit",
+        description: "Separation or divorce raises many questions about residence permits, and the answers in online groups don’t always help. The first thing to understand is that…",
+        keywords: "getting, divorced, switzerland, whilst, holding, residence, permit, what",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-08-1-getting-divorced-in-switzerland-whilst-holding-a-residence-permit-what",
+        readingTime: 1,
+        dateUpdated: "May 8, 2026",
+        summary: "Separation or divorce raises many questions about residence permits, and the answers in online groups don’t always help. The first thing to…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Separation or divorce raises many questions about residence permits, and the answers in online groups don’t always help. The first thing to understand is that the answer depends entirely on how you obtained your permit: whether you obtained it through work or through your partner.</p>
+<p>If you are an EU citizen and hold a B permit because you work in Switzerland, divorce does not directly affect your situation. Your right of residence is linked to your employment, not your marital status. The Agreement on the Free Movement of Persons (AFMP) grants you that right in its own right. Getting divorced does not affect your permit as long as you continue to work.</p>
+<p>The situation is different if you came to Switzerland as a "family member" of a European worker, without being in employment yourself. In that case, a divorce may complicate the renewal of your residence permit. It is not automatically withdrawn, but the canton will assess whether you have sufficient means of support or are in employment. The same applies to non-EU citizens: Article 50 of the Foreign Nationals Act (LEI) stipulates that the right to family reunification is maintained if the marriage lasted at least three years and there is sufficient integration, or if there are serious personal reasons justifying it.</p>
+<p>In practice, anyone who arrived in Switzerland with their own employment contract and has been paying social security contributions for years is in a strong position. Anyone who arrived without a job, under spousal status, should consult the cantonal migration office before the divorce is finalised, not afterwards.</p>
+</div>`
+    },
+
+    "fb-daily-20260508-02-rental-deposits-in-switzerland-three-months-rent-tied-up-its-your-mone": {
+        title: "Rental deposits in Switzerland: three months’ rent tied up – it’s your money, but you have no control over it",
+        description: "When you sign a tenancy agreement in Switzerland, the landlord will usually ask you for a deposit equivalent to two or three months’ rent. Three months is the…",
+        keywords: "rental, deposits, switzerland, three, months, rent, tied, your",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-08-2-rental-deposits-in-switzerland-three-months-rent-tied-up-its-your-mone",
+        readingTime: 1,
+        dateUpdated: "May 8, 2026",
+        summary: "When you sign a tenancy agreement in Switzerland, the landlord will usually ask you for a deposit equivalent to two or three months’ rent. Three…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>When you sign a tenancy agreement in Switzerland, the landlord will usually ask you for a deposit equivalent to two or three months’ rent. Three months is the legal maximum permitted under the Swiss Code of Obligations, and the landlord cannot ask for more, even if the agreement states otherwise. If it does, that clause is void.</p>
+<p>What many people don’t realise is that this money cannot be paid into the landlord’s account: it must be deposited into a blocked bank account in your name. The account is in your name and any interest it generates is yours. The landlord can only claim this money if there is a proven debt at the end of the tenancy, whether it be unpaid rent or damage that goes beyond normal wear and tear.</p>
+<p>When you return the keys, the standard timeframe for the release of the security deposit is one to three months, once it has been confirmed that there are no outstanding claims. If the landlord fails to act, you can contact the bank directly with the landlord’s consent or, if you cannot obtain this, apply to the relevant authority (in most cantons, the juge de paix or the commission de conciliation) to order its release. You do not need a solicitor for this first step.</p>
+<p>An alternative that is becoming increasingly popular is not to pay a cash deposit but to take out a joint surety bond through specialist companies such as SwissCaution or Firstcaution. You pay an annual premium equivalent to just under 5% of the guarantee amount, and your cash remains available. Landlords accept these solutions in most cantons, although they are not legally obliged to do so.</p>
+</div>`
+    },
+
+    "fb-daily-20260508-03-pensions-in-spain-and-switzerland-dont-add-up-the-way-you-think": {
+        title: "Pensions in Spain and Switzerland don’t add up the way you think",
+        description: "There’s a common misconception: if you work in Switzerland after having paid into the pension scheme in Spain, you’ll receive a pension from both countries,…",
+        keywords: "pensions, spain, switzerland, think, there, common, misconception, work",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-08-3-pensions-in-spain-and-switzerland-dont-add-up-the-way-you-think",
+        readingTime: 1,
+        dateUpdated: "May 8, 2026",
+        summary: "There’s a common misconception: if you work in Switzerland after having paid into the pension scheme in Spain, you’ll receive a pension from both…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>There’s a common misconception: if you work in Switzerland after having paid into the pension scheme in Spain, you’ll receive a pension from both countries, which is almost like earning double. The reality is rather more sobering, and understanding this in good time changes what you need to plan for.</p>
+<p>The bilateral social security agreement between Switzerland and Spain, supplemented by the European coordination agreements applied in Switzerland, stipulates the following: each country pays its share, and only its share. If you contributed for 8 years in Spain and 22 in Switzerland, Spain calculates a pension as if you had contributed for 30 years, but only pays you 8/30 of that amount. Switzerland does the same with your 22 years. It is not double: it is proportional, and the total may be less than what you would receive if all your years were in a single system.</p>
+<p>Where the agreement does help is with eligibility. If, in Spain, you need 15 years of contributions to be entitled to a contributory pension and you only have 5, Spain can count your Swiss contribution years towards meeting that minimum threshold. Once eligibility is confirmed, the calculation is based solely on the actual years of contributions in Spain.</p>
+<p>Here’s the practical implication: if you’re thinking of returning to Spain as you approach retirement, the contributions you make in Spain during your final working years will count towards your Spanish pension base, which could significantly boost your Spanish pension. Working in Switzerland right up until the day before you retire isn’t always the most cost-effective strategy if you plan to live in Spain afterwards. It’s worth doing the maths beforehand, not when there’s no longer any scope to change anything.</p>
+</div>`
     }
 });

@@ -1491,5 +1491,65 @@ Object.assign(window.siteContent.de.articles, {
 <p>Auch bei der zweiten und dritten Säule sieht die Situation unterschiedlich aus. In der Säule 3a können Lebenspartner den anderen als Begünstigten benennen, doch muss der Fonds oder der Versicherer zuvor schriftlich darüber informiert werden. Im BVG (zweite Säule) besteht zwar ein Anspruch auf Hinterbliebenenrente, jedoch unter strengeren Bedingungen als bei Verheirateten. Was die Wohnung betrifft: Liegt der Mietvertrag nur auf den Namen eines der beiden Partner, hat der andere keinen gesetzlichen Anspruch darauf, dort zu bleiben, wenn der Vertragsinhaber stirbt.</p>
 <p>Die Lösung besteht nicht unbedingt darin, zu heiraten, sondern darin, die Situation rechtlich zu regeln: ein Testament, ein Lebenspartnerschaftsvertrag, eine Lebensversicherung, ausdrückliche Begünstigtenbestimmungen in den Pensionskassen. Viele Paare in der Schweiz leben seit Jahren zusammen, ohne irgendetwas davon zu tun, in der Überzeugung, dass die Zeit Rechte begründet. In diesem Land werden Rechte jedoch durch schriftliche Urkunden begründet.</p>
 </div>`
+    },
+
+    "fb-daily-20260508-01-scheidung-in-der-schweiz-mit-aufenthaltsbewilligung-was-davon-abhangt": {
+        title: "Scheidung in der Schweiz mit Aufenthaltsbewilligung: Was davon abhängt, wie du diese Bewilligung erhalten hast",
+        description: "Eine Trennung oder Scheidung wirft viele Fragen bezüglich der Aufenthaltsgenehmigung auf, und die Antworten in den Gruppen sind nicht immer hilfreich. Zunächst…",
+        keywords: "scheidung, schweiz, aufenthaltsbewilligung, davon, abhängt, diese, bewilligung, erhalten",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-08-1-scheidung-in-der-schweiz-mit-aufenthaltsbewilligung-was-davon-abhangt",
+        readingTime: 1,
+        dateUpdated: "8 Mai 2026",
+        summary: "Eine Trennung oder Scheidung wirft viele Fragen bezüglich der Aufenthaltsgenehmigung auf, und die Antworten in den Gruppen sind nicht immer…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Eine Trennung oder Scheidung wirft viele Fragen bezüglich der Aufenthaltsgenehmigung auf, und die Antworten in den Gruppen sind nicht immer hilfreich. Zunächst muss man verstehen, dass die Antwort ganz davon abhängt, wie man diese Genehmigung erhalten hat: ob man sie durch Arbeit erworben hat oder dank des Partners.</p>
+<p>Wenn du EU-Bürger bist und deine Aufenthaltsbewilligung B aufgrund deiner Arbeit in der Schweiz besitzt, ändert sich durch die Scheidung zunächst nichts. Dein Aufenthaltsrecht ist an deine berufliche Tätigkeit gebunden, nicht an deinen Familienstand. Das Abkommen über die Personenfreizügigkeit (FZA) gewährt dir dieses Recht unabhängig davon. Eine Scheidung hat keine Auswirkungen auf deine Aufenthaltsbewilligung, solange du weiterhin arbeitest.</p>
+<p>Anders verhält es sich, wenn du als „Familienangehöriger“ eines europäischen Arbeitnehmers in die Schweiz gekommen bist, ohne selbst einer Erwerbstätigkeit nachzugehen. In diesem Fall kann eine Scheidung die Verlängerung deiner Aufenthaltsbewilligung erschweren. Die Bewilligung wird dir nicht automatisch entzogen, aber der Kanton prüft, ob du über eigene Existenzmittel verfügst oder einer beruflichen Tätigkeit nachgehst. Das Gleiche gilt für Nicht-EU-Bürger: Artikel 50 des Ausländergesetzes (LEI) legt fest, dass das Recht auf Familienzusammenführung bestehen bleibt, wenn die eheliche Gemeinschaft mindestens drei Jahre gedauert hat und eine ausreichende Integration vorliegt oder wenn schwerwiegende persönliche Gründe vorliegen, die dies rechtfertigen.</p>
+<p>In der Praxis ist jemand, der mit einem eigenen Arbeitsvertrag in die Schweiz gekommen ist und seit Jahren Sozialversicherungsbeiträge zahlt, in einer soliden Position. Wer ohne eigene Erwerbstätigkeit als Ehepartner eingereist ist, sollte sich vor der endgültigen Scheidung an die kantonale Migrationsbehörde wenden – nicht erst danach.</p>
+</div>`
+    },
+
+    "fb-daily-20260508-02-die-mietkaution-in-der-schweiz-drei-monate-die-dir-gehoren-uber-die-du": {
+        title: "Die Mietkaution in der Schweiz: Drei Monate, die dir gehören, über die du aber keine Kontrolle hast",
+        description: "Wenn du in der Schweiz einen Mietvertrag unterzeichnest, verlangt der Vermieter in der Regel eine Kaution in Höhe von zwei oder drei Monatsmieten. Drei…",
+        keywords: "mietkaution, schweiz, drei, monate, gehören, über, aber, keine",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-08-2-die-mietkaution-in-der-schweiz-drei-monate-die-dir-gehoren-uber-die-du",
+        readingTime: 1,
+        dateUpdated: "8 Mai 2026",
+        summary: "Wenn du in der Schweiz einen Mietvertrag unterzeichnest, verlangt der Vermieter in der Regel eine Kaution in Höhe von zwei oder drei Monatsmieten.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Wenn du in der Schweiz einen Mietvertrag unterzeichnest, verlangt der Vermieter in der Regel eine Kaution in Höhe von zwei oder drei Monatsmieten. Drei Monatsmieten sind das gesetzlich zulässige Maximum gemäß dem Obligationenrecht, und es darf nicht mehr verlangt werden, auch wenn dies im Vertrag steht. Sollte dies der Fall sein, ist diese Klausel nichtig.</p>
+<p>Was viele Menschen nicht wissen, ist, dass dieses Geld nicht auf ein Konto des Vermieters überwiesen werden darf: Es muss auf ein gesperrtes Bankkonto auf deinen Namen eingezahlt werden. Das Konto läuft auf deinen Namen, und die daran anfallenden Zinsen gehören dir. Der Vermieter kann dieses Geld nur einfordern, wenn am Ende des Mietvertrags eine nachgewiesene Schuld vorliegt, sei es in Form von ausstehenden Mieten oder Schäden, die über den normalen Verschleiß hinausgehen.</p>
+<p>Wenn du die Schlüssel zurückgibst, beträgt die angemessene Frist für die Freigabe der Kaution ein bis drei Monate, sobald bestätigt ist, dass keine offenen Forderungen bestehen. Wenn der Vermieter nicht handelt, kannst du dich mit Zustimmung des Eigentümers direkt an die Bank wenden oder, falls du diese nicht erhältst, bei der zuständigen Behörde (in den meisten Kantonen beim Friedensrichter oder bei der Schlichtungskommission) die Freigabe beantragen. Für diesen ersten Schritt benötigst du keinen Anwalt.</p>
+<p>Eine Alternative, die immer mehr Menschen nutzen, besteht darin, kein Bargeld zu hinterlegen, sondern eine Solidarbürgschaft über spezialisierte Unternehmen wie SwissCaution oder Firstcaution abzuschließen. Du zahlst eine Jahresprämie in Höhe von knapp 5 % der Bürgschaftssumme, und deine liquiden Mittel bleiben dir erhalten. In den meisten Kantonen akzeptieren Vermieter diese Lösungen, sind jedoch gesetzlich nicht dazu verpflichtet.</p>
+</div>`
+    },
+
+    "fb-daily-20260508-03-die-rente-in-spanien-und-die-in-der-schweiz-addieren-sich-nicht-so-wie": {
+        title: "Die Rente in Spanien und die in der Schweiz addieren sich nicht so, wie du denkst",
+        description: "Es gibt eine weit verbreitete Vorstellung: Wenn man in der Schweiz arbeitet, nachdem man in Spanien Beiträge gezahlt hat, erhält man eine Rente aus beiden…",
+        keywords: "rente, spanien, schweiz, addieren, sich, nicht, denkst, gibt",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-08-3-die-rente-in-spanien-und-die-in-der-schweiz-addieren-sich-nicht-so-wie",
+        readingTime: 1,
+        dateUpdated: "8 Mai 2026",
+        summary: "Es gibt eine weit verbreitete Vorstellung: Wenn man in der Schweiz arbeitet, nachdem man in Spanien Beiträge gezahlt hat, erhält man eine Rente aus…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Es gibt eine weit verbreitete Vorstellung: Wenn man in der Schweiz arbeitet, nachdem man in Spanien Beiträge gezahlt hat, erhält man eine Rente aus beiden Ländern, und das ist fast so, als würde man doppelt verdienen. Die Realität sieht jedoch deutlich nüchterner aus, und wenn man das rechtzeitig versteht, ändert sich die Art der Planung, die man vornehmen sollte.</p>
+<p>Das bilaterale Sozialversicherungsabkommen zwischen der Schweiz und Spanien, ergänzt durch die in der Schweiz geltenden europäischen Koordinierungsvereinbarungen, sieht Folgendes vor: Jedes Land zahlt seinen Anteil und nur seinen Anteil. Wenn du 8 Jahre in Spanien und 22 Jahre in der Schweiz Beiträge gezahlt hast, berechnet Spanien eine Rente, als hättest du 30 Jahre Beiträge gezahlt, zahlt dir aber nur 8/30 dieses Betrags aus. Die Schweiz verfährt mit deinen 22 Jahren genauso. Das ist keine Doppelzahlung: Es ist proportional, und die Summe kann geringer ausfallen, als du erhalten würdest, wenn alle deine Beitragsjahre in einem einzigen System angesammelt wären.</p>
+<p>Wo das Abkommen tatsächlich hilft, ist bei der Anspruchsberechtigung. Wenn du in Spanien 15 Beitragsjahre benötigst, um Anspruch auf eine beitragsabhängige Rente zu haben, und du nur 5 vorweisen kannst, kann Spanien deine Schweizer Beitragsjahre hinzurechnen, um zu prüfen, ob du diese Mindestgrenze erreichst. Sobald die Anspruchsberechtigung bestätigt ist, erfolgt die Berechnung ausschließlich auf der Grundlage der tatsächlichen Beitragsjahre in Spanien.</p>
+<p>Das hat praktische Auswirkungen: Wenn du vorhast, kurz vor dem Ruhestand nach Spanien zurückzukehren, fließen die letzten in Spanien geleisteten Beitragsjahre in die spanische Bemessungsgrundlage ein, was deine spanische Rente erheblich verbessern kann. Bis zum letzten Tag vor dem Ruhestand in der Schweiz zu arbeiten, ist nicht immer die rentabelste Strategie, wenn du danach in Spanien leben möchtest. Es lohnt sich, die Zahlen im Voraus durchzurechnen – und nicht erst dann, wenn es keinen Spielraum mehr gibt, etwas zu ändern.</p>
+</div>`
     }
 });

@@ -770,5 +770,65 @@ Object.assign(window.siteContent.it.articles, {
 <p>Anche per il secondo e il terzo pilastro la situazione varia. Nel pilastro 3a, le coppie conviventi possono designare l’altro come beneficiario, ma il fondo o l’assicuratore deve esserne informato per iscritto in anticipo. Nella LPP (secondo pilastro), il diritto alla rendita di reversibilità esiste, ma a condizioni più restrittive rispetto a quelle previste per i coniugi. Per quanto riguarda l'appartamento, se il contratto di locazione è intestato solo a uno dei due, l'altro non ha alcun diritto legale di rimanervi in caso di decesso del titolare.</p>
 <p>La soluzione non è necessariamente il matrimonio, ma piuttosto mettere ordine nella situazione: un testamento, un contratto di convivenza, una polizza vita, la designazione esplicita dei beneficiari nei fondi pensione. Molte coppie in Svizzera convivono da anni senza aver provveduto a nulla di tutto ciò, convinte che il tempo conferisca diritti. In questo Paese, però, i diritti derivano dai documenti.</p>
 </div>`
+    },
+
+    "fb-daily-20260508-01-divorziare-in-svizzera-con-un-permesso-di-soggiorno-dipende-da-come-ha": {
+        title: "Divorziare in Svizzera con un permesso di soggiorno: dipende da come hai ottenuto tale permesso",
+        description: "La separazione o il divorzio sollevano molti dubbi riguardo al permesso di soggiorno, e le risposte che si trovano nei gruppi non sempre sono d’aiuto. La prima…",
+        keywords: "divorziare, svizzera, permesso, soggiorno, dipende, come, ottenuto, tale",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-05-08-1-divorziare-in-svizzera-con-un-permesso-di-soggiorno-dipende-da-come-ha",
+        readingTime: 1,
+        dateUpdated: "8 maggio 2026",
+        summary: "La separazione o il divorzio sollevano molti dubbi riguardo al permesso di soggiorno, e le risposte che si trovano nei gruppi non sempre sono…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>La separazione o il divorzio sollevano molti dubbi riguardo al permesso di soggiorno, e le risposte che si trovano nei gruppi non sempre sono d’aiuto. La prima cosa da capire è che la risposta dipende interamente dal tipo di permesso che possiedi: se l’hai ottenuto grazie al tuo lavoro o se l’hai ottenuto grazie al tuo partner.</p>
+<p>Se sei cittadino dell'UE e possiedi un permesso B perché lavori in Svizzera, il divorzio non comporta alcun cambiamento diretto. Il tuo diritto di soggiorno è legato alla tua attività professionale, non al tuo stato civile. L'Accordo sulla libera circolazione delle persone (ALCP) ti garantisce tale diritto in modo autonomo. Il divorzio non influisce sul tuo permesso fintanto che continui a lavorare.</p>
+<p>La situazione cambia se sei arrivato in Svizzera come «familiare» di un lavoratore europeo, senza svolgere tu stesso un’attività lavorativa. In tal caso, il divorzio può complicare il rinnovo del tuo permesso. Non è detto che te lo revocino automaticamente, ma il cantone verificherà se disponi di mezzi di sussistenza propri o se svolgi un’attività professionale. Lo stesso vale per i cittadini extracomunitari: l'articolo 50 della Legge sugli stranieri (LEI) stabilisce che il diritto derivante dal ricongiungimento familiare si mantiene se l'unione coniugale è durata almeno tre anni e sussiste un'integrazione sufficiente, oppure se vi sono gravi motivi personali che lo giustificano.</p>
+<p>In pratica, chi è arrivato in Svizzera con un proprio contratto di lavoro e versa contributi da anni si trova in una posizione solida. Chi è arrivato senza un'attività lavorativa, in qualità di coniuge, dovrebbe rivolgersi all'ufficio cantonale dell'immigrazione prima che il divorzio diventi definitivo, non dopo.</p>
+</div>`
+    },
+
+    "fb-daily-20260508-02-la-cauzione-per-laffitto-in-svizzera-tre-mesi-di-importo-che-ti-appart": {
+        title: "La cauzione per l'affitto in Svizzera: tre mesi di importo che ti appartengono ma sui quali non hai alcun controllo",
+        description: "Quando si firma un contratto di locazione in Svizzera, è normale che il locatore richieda una cauzione pari a due o tre mesi di affitto. Tre mesi è il limite…",
+        keywords: "cauzione, affitto, svizzera, mesi, importo, appartengono, quali, alcun",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-08-2-la-cauzione-per-laffitto-in-svizzera-tre-mesi-di-importo-che-ti-appart",
+        readingTime: 1,
+        dateUpdated: "8 maggio 2026",
+        summary: "Quando si firma un contratto di locazione in Svizzera, è normale che il locatore richieda una cauzione pari a due o tre mesi di affitto. Tre mesi è…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Quando si firma un contratto di locazione in Svizzera, è normale che il locatore richieda una cauzione pari a due o tre mesi di affitto. Tre mesi è il limite massimo consentito dal Codice delle obbligazioni e non è possibile richiedere di più, anche se il contratto lo prevedesse. Se tale clausola è presente, essa è nulla.</p>
+<p>Ciò che molti non sanno è che quei soldi non possono essere versati su un conto del proprietario: devono essere depositati su un conto bancario vincolato a tuo nome. Il conto è a tuo nome e gli interessi che genera sono tuoi. Il locatore può rivendicare quei soldi solo se alla scadenza del contratto risulta un debito accertato, che si tratti di canoni di locazione non pagati o di danni che vanno oltre la normale usura.</p>
+<p>Una volta restituite le chiavi, il termine ragionevole per lo sblocco della cauzione è compreso tra uno e tre mesi, previa conferma dell'assenza di reclami in sospeso. Se il locatore non provvede, puoi rivolgerti direttamente alla banca con il consenso del proprietario oppure, in mancanza di tale consenso, richiedere all'autorità competente (nella maggior parte dei cantoni, il giudice di pace o la commissione di conciliazione) di disporne lo sblocco. Per questo primo passo non hai bisogno di un avvocato.</p>
+<p>Un'alternativa sempre più diffusa consiste nel non versare denaro contante, ma stipulare una fideiussione solidale tramite società specializzate come SwissCaution o Firstcaution. Si paga un premio annuale pari a poco meno del 5% dell'importo della cauzione e la propria liquidità rimane libera. Il locatore accetta queste soluzioni nella maggior parte dei cantoni, sebbene non sia obbligato per legge a farlo.</p>
+</div>`
+    },
+
+    "fb-daily-20260508-03-la-pensione-spagnola-e-quella-svizzera-non-si-sommano-come-pensi": {
+        title: "La pensione spagnola e quella svizzera non si sommano come pensi",
+        description: "C'è un'idea piuttosto diffusa: se si lavora in Svizzera dopo aver versato i contributi in Spagna, si riceverà la pensione da entrambi i paesi e questo equivale…",
+        keywords: "pensione, spagnola, quella, svizzera, sommano, come, pensi, idea",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-05-08-3-la-pensione-spagnola-e-quella-svizzera-non-si-sommano-come-pensi",
+        readingTime: 2,
+        dateUpdated: "8 maggio 2026",
+        summary: "C'è un'idea piuttosto diffusa: se si lavora in Svizzera dopo aver versato i contributi in Spagna, si riceverà la pensione da entrambi i paesi e…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>C'è un'idea piuttosto diffusa: se si lavora in Svizzera dopo aver versato i contributi in Spagna, si riceverà la pensione da entrambi i paesi e questo equivale quasi a guadagnare il doppio. La realtà è ben più austera, e comprenderla per tempo cambia ciò che è opportuno pianificare.</p>
+<p>L'accordo bilaterale in materia di sicurezza sociale tra la Svizzera e la Spagna, integrato dagli accordi di coordinamento europei applicati in Svizzera, stabilisce quanto segue: ogni paese paga la propria quota, e solo quella. Se hai versato contributi per 8 anni in Spagna e 22 in Svizzera, la Spagna calcola una pensione come se avessi versato contributi per 30 anni, ma ti paga solo 8/30 di tale importo. La Svizzera fa lo stesso con i tuoi 22 anni. Non si tratta di un doppio pagamento: è proporzionale, e la somma può essere inferiore a quella che percepiresti se tutti i tuoi anni fossero in un unico sistema.</p>
+<p>L'accordo è utile soprattutto per quanto riguarda l'ammissibilità. Se in Spagna occorrono 15 anni di contributi per avere diritto alla pensione contributiva e tu ne hai solo 5, la Spagna può sommare i tuoi anni di contribuzione in Svizzera per verificare che tu raggiunga tale soglia minima. Una volta confermata l'ammissibilità, il calcolo viene effettuato solo sulla base degli anni effettivi in Spagna.</p>
+<p>Ciò ha un impatto concreto: se stai pensando di tornare in Spagna poco prima del pensionamento, gli ultimi anni di contributi versati in Spagna andranno a far parte della base contributiva spagnola, il che può aumentare notevolmente la tua pensione spagnola. Lavorare in Svizzera fino all’ultimo giorno prima del pensionamento non è sempre la strategia più vantaggiosa se hai intenzione di vivere in Spagna in seguito. Vale la pena fare i conti in anticipo, non quando ormai non c’è più margine per cambiare nulla.</p>
+</div>`
     }
 });

@@ -1439,5 +1439,65 @@ Object.assign(window.siteContent.es.articles, {
 <p>Para el segundo y tercer pilar la situación también varía. En el pilar 3a, las parejas en concubinage pueden designar al otro como beneficiario, pero el fondo o aseguradora debe saberlo por escrito con anterioridad. En la LPP (segundo pilar), el derecho a la pensión de supervivencia existe, pero con condiciones más estrictas que para los casados. Y en cuanto al piso, si el contrato de alquiler está solo a nombre de uno de los dos, el otro no tiene ningún derecho legal a quedarse si el titular muere.</p>
 <p>La solución no es necesariamente casarse, pero sí estructurar la situación: un testamento, un contrato de concubinage, una póliza de vida, designaciones explícitas de beneficiarios en los fondos de pensiones. Muchas parejas en Suiza llevan años viviendo juntas sin hacer nada de esto, convencidas de que el tiempo da derechos. En este país, los derechos los da el papel.</p>
 </div>`
+    },
+
+    "fb-daily-20260508-01-divorciarse-en-suiza-con-permiso-de-residencia-lo-que-depende-de-como": {
+        title: "Divorciarse en Suiza con permiso de residencia: lo que depende de cómo conseguiste ese permiso",
+        description: "La separación o el divorcio genera muchas dudas sobre el permiso de residencia, y las respuestas en los grupos no siempre ayudan. Lo primero que hay que…",
+        keywords: "divorciarse, suiza, permiso, residencia, depende, cómo, conseguiste, separación",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-08-1-divorciarse-en-suiza-con-permiso-de-residencia-lo-que-depende-de-como",
+        readingTime: 1,
+        dateUpdated: "8 mayo 2026",
+        summary: "La separación o el divorcio genera muchas dudas sobre el permiso de residencia, y las respuestas en los grupos no siempre ayudan. Lo primero que hay…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>La separación o el divorcio genera muchas dudas sobre el permiso de residencia, y las respuestas en los grupos no siempre ayudan. Lo primero que hay que entender es que la respuesta depende completamente de cómo tienes ese permiso: si lo obtuviste trabajando o si lo obtuviste gracias a tu pareja.</p>
+<p>Si eres ciudadano de la UE y tu permiso B lo tienes porque trabajas en Suiza, el divorcio no cambia nada directamente. Tu derecho de residencia está ligado a tu actividad profesional, no a tu estado civil. El Acuerdo de Libre Circulación de Personas (ALCP) te da ese derecho de forma autónoma. Divorciarte no afecta tu permiso mientras sigas trabajando.</p>
+<p>La situación cambia si llegaste a Suiza como "miembro de la familia" de un trabajador europeo, sin tener tú mismo una actividad. En ese caso, el divorcio puede complicar la renovación de tu permiso. No es automático que te lo retiren, pero el cantón revisará si tienes medios propios de vida o si desarrollas una actividad profesional. Lo mismo ocurre con los ciudadanos no comunitarios: el artículo 50 de la Ley de Extranjería (LEI) establece que el derecho derivado de la reagrupación familiar se mantiene si la unión conyugal duró al menos tres años y existe integración suficiente, o si hay razones personales graves que lo justifiquen.</p>
+<p>En la práctica, quien llegó a Suiza con contrato de trabajo propio y lleva años cotizando está en una posición sólida. Quien llegó sin actividad, bajo el estatuto de cónyuge, debería consultar con el servicio cantonal de migración antes de que el divorcio sea definitivo, no después.</p>
+</div>`
+    },
+
+    "fb-daily-20260508-02-la-caucion-del-alquiler-en-suiza-tres-meses-bloqueados-que-son-tuyos-p": {
+        title: "La caución del alquiler en Suiza: tres meses bloqueados que son tuyos pero que no controlas",
+        description: "Cuando firmas un contrato de alquiler en Suiza, lo normal es que el arrendador te pida una garantía equivalente a dos o tres meses de alquiler. Tres meses es…",
+        keywords: "caución, alquiler, suiza, tres, meses, bloqueados, tuyos, controlas",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-08-2-la-caucion-del-alquiler-en-suiza-tres-meses-bloqueados-que-son-tuyos-p",
+        readingTime: 1,
+        dateUpdated: "8 mayo 2026",
+        summary: "Cuando firmas un contrato de alquiler en Suiza, lo normal es que el arrendador te pida una garantía equivalente a dos o tres meses de alquiler. Tres…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Cuando firmas un contrato de alquiler en Suiza, lo normal es que el arrendador te pida una garantía equivalente a dos o tres meses de alquiler. Tres meses es el máximo legal que permite el Código de Obligaciones, y no se puede pedir más, aunque el contrato lo indique. Si lo pone, esa cláusula es nula.</p>
+<p>Lo que mucha gente no sabe es que ese dinero no puede ir a una cuenta del propietario: debe depositarse en una cuenta bancaria bloqueada a tu nombre. La cuenta está a tu nombre y los intereses que genera son tuyos. El arrendador solo puede reclamar ese dinero si hay una deuda demostrada al final del contrato, ya sea alquiler impagado o daños que vayan más allá del desgaste normal.</p>
+<p>Cuando devuelves las llaves, el plazo razonable para liberar la caución es de uno a tres meses, una vez confirmado que no hay reclamación pendiente. Si el arrendador no actúa, puedes dirigirte al banco directamente con el acuerdo del propietario o, si no lo obtienes, solicitar a la autoridad competente (en la mayoría de cantones, el juge de paix o la commission de conciliation) que ordene su liberación. No necesitas abogado para ese primer paso.</p>
+<p>Una alternativa que cada vez usa más gente es no depositar dinero en efectivo sino contratar una caución solidaria a través de empresas especializadas como SwissCaution o Firstcaution. Pagas una prima anual equivalente a algo menos del 5% de la garantía y tu liquidez queda libre. El arrendador acepta estas soluciones en la mayoría de cantones, aunque no está obligado por ley a hacerlo.</p>
+</div>`
+    },
+
+    "fb-daily-20260508-03-la-pension-de-espana-y-la-de-suiza-no-se-suman-como-crees": {
+        title: "La pensión de España y la de Suiza no se suman como crees",
+        description: "Hay una idea que circula bastante: si trabajas en Suiza después de haber cotizado en España, cobrarás pensión de los dos países y eso es casi como ganar doble.…",
+        keywords: "pensión, españa, suiza, suman, crees, idea, circula, bastante",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-08-3-la-pension-de-espana-y-la-de-suiza-no-se-suman-como-crees",
+        readingTime: 1,
+        dateUpdated: "8 mayo 2026",
+        summary: "Hay una idea que circula bastante: si trabajas en Suiza después de haber cotizado en España, cobrarás pensión de los dos países y eso es casi como…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Hay una idea que circula bastante: si trabajas en Suiza después de haber cotizado en España, cobrarás pensión de los dos países y eso es casi como ganar doble. La realidad es bastante más austera, y entenderla a tiempo cambia lo que conviene planificar.</p>
+<p>El convenio bilateral de seguridad social entre Suiza y España, complementado por los acuerdos de coordinación europeos aplicados en Suiza, establece lo siguiente: cada país paga su parte, y solo su parte. Si cotizaste 8 años en España y 22 en Suiza, España calcula una pensión como si hubieras cotizado 30 años, pero solo te paga 8/30 de esa cifra. Suiza hace lo mismo con sus 22 años. No es doble: es proporcional, y la suma puede ser inferior a lo que percibirías si todos tus años estuvieran en un solo sistema.</p>
+<p>Donde sí ayuda el convenio es en el acceso. Si en España necesitas 15 años cotizados para tener derecho a pensión contributiva y tú solo tienes 5, España puede sumar tus años suizos para comprobar que alcanzas ese umbral mínimo. Una vez confirmado el acceso, el cálculo se hace solo con los años reales en España.</p>
+<p>Lo que tiene impacto práctico: si te planteas volver a España cerca de la jubilación, los últimos años cotizados en España van a la base reguladora española, lo que puede mejorar tu pensión española de forma notable. Trabajar en Suiza hasta el último día antes de jubilarte no siempre es la estrategia más rentable si tienes intención de vivir en España después. Vale la pena hacer los números antes, no cuando ya no hay margen para cambiar nada.</p>
+</div>`
     }
 });
