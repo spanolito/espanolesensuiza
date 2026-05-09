@@ -1818,6 +1818,7 @@ window.siteContent.es.articles = {
         readingTime: 10,
         dateUpdated: "Marzo 2026",
         summary: "Suiza no es un país convencional. Es una Confederación de 26 cantones autónomos, 4 lenguas oficiales, democracia directa y un federalismo que afecta tu vida diaria desde el primer día.",
+                featuredImage: "media/guides/introduccion-suiza-como-funciona.jpg",
         imageAlt: "Personas integrándose en la comunidad suiza frente a edificios públicos",
         content: `
             <div class="article-content">

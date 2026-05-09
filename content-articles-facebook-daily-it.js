@@ -82,6 +82,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-01-4-delinquir-en-suiza-hasta-que-se-acaba-la-paciencia",
         readingTime: 2,
         dateUpdated: "1 maggio 2026",
+        featuredImage: "media/guides/actualidad-delinquir-suiza-justicia.jpg",
+        imageAlt: "Sistema judicial suizo y consecuencias para extranjeros",
         summary: "Ho visto questa notizia dal Vallese e penso che meriti di essere letta al di là del facile titolo. Non si tratta di un caso isolato o \"sensazionale\". È abbastanza rappresentativo...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -107,6 +109,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-01-5-en-suiza-la-puntualidad-es-clave-si-pero-otra-cosa-distinta-es-regalar-tiempo",
         readingTime: 1,
         dateUpdated: "1 maggio 2026",
+        featuredImage: "media/guides/actualidad-puntualidad-cultura-suiza.jpg",
+        imageAlt: "Cultura de puntualidad en Suiza y horas de trabajo",
         summary: "Nella maggior parte delle strutture sanitarie (ospedali o EMS), il principio è abbastanza chiaro: l'orario di lavoro inizia quando sei a disposizione del datore di lavoro.…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -130,6 +134,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-01-6-desde-suiza-para-el-mundo",
         readingTime: 1,
         dateUpdated: "1 maggio 2026",
+        featuredImage: "media/guides/actualidad-desde-suiza-para-el-mundo.jpg",
+        imageAlt: "Comunidad española expatriada en Suiza con visión global",
         summary: "In questo giorno, 33 anni fa, il CERN ha reso di dominio pubblico il software World Wide Web. L'idea era stata proposta da Sir Tim Berners-Lee, iniziale...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -153,6 +159,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-02-4-si-manana-desaparecieran-los-inmigrantes-en-suiza-y-en-el-resto-de-europa",
         readingTime: 2,
         dateUpdated: "2 maggio 2026",
+        featuredImage: "media/guides/actualidad-inmigrantes-suiza-economia.jpg",
+        imageAlt: "Impacto económico de los inmigrantes en Suiza y Europa",
         summary: "Se domani gli immigrati sparissero in Svizzera... e nel resto d'Europa... Una riflessione che da tempo cerco di scrivere oggettivamente. Questo deve…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -177,6 +185,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-02-5-beber-en-la-calle-en-suiza-el-problema-no-es-la-cerveza-es-lo-que-dejas-detras",
         readingTime: 1,
         dateUpdated: "2 maggio 2026",
+        featuredImage: "media/guides/actualidad-alcohol-calle-suiza.jpg",
+        imageAlt: "Normas de convivencia sobre alcohol en espacios públicos en Suiza",
         summary: "Ciò nasce da un messaggio in uno dei nostri gruppi WhatsApp e penso che meriti una riflessione. Questa foto non fa eccezione, è quello che succede quando...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -197,6 +207,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-02-6-reclamacion-de-salario-en-suiza-plazos-claros-y-sin-vueltas",
         readingTime: 1,
         dateUpdated: "2 maggio 2026",
+        featuredImage: "media/guides/actualidad-reclamacion-salario-suiza.jpg",
+        imageAlt: "Plazos para reclamar salario impagado en Suiza",
         summary: "Se il tuo datore di lavoro non ti paga, non c'è bisogno di trascinare la situazione \"per vedere se si risolve\". Il salario è un obbligo legale secondo il Codice delle obbligazioni svizzero (CO...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -216,6 +228,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-03-4-el-sms-blaster-ya-esta-en-suiza-y-si-es-tan-simple-como-peligroso",
         readingTime: 1,
         dateUpdated: "3 maggio 2026",
+        featuredImage: "media/guides/actualidad-sms-blaster-fraude-suiza.jpg",
+        imageAlt: "Fraude SMS blaster y phishing en Suiza",
         summary: "Secondo RTS, questo nuovo metodo di truffa permette ai criminali di inviare SMS in massa direttamente ai cellulari vicini, senza passare attraverso operatori o liste...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -237,6 +251,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-03-5-el-queroseno-empieza-a-convertirse-en-un-problema-real-y-esta-vez-si-tiene-conse",
         readingTime: 1,
         dateUpdated: "3 maggio 2026",
+        featuredImage: "media/guides/actualidad-queroseno-contaminacion-suiza.jpg",
+        imageAlt: "Contaminación por queroseno de aviación en Suiza",
         summary: "La notizia non riguarda scene lontane. Se l'approvvigionamento di cherosene diventa complicato, l'impatto si fa sentire rapidamente nelle tasche e nei piani. Le compagnie aeree tra…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -256,6 +272,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-03-6-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-menos",
         readingTime: 2,
         dateUpdated: "3 maggio 2026",
+        featuredImage: "media/guides/actualidad-tiempo-parcial-suiza-derechos.jpg",
+        imageAlt: "Derechos del trabajador a tiempo parcial en Suiza",
         summary: "Quando qualcuno negozia un contratto al 60% o all'80% in Svizzera, di solito pensa a qualcosa di molto semplice: meno ore, meno stipendio, più tempo libero. Fino ad allora, tutto...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -277,6 +295,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-04-1-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab",
         readingTime: 1,
         dateUpdated: "4 maggio 2026",
+        featuredImage: "media/guides/actualidad-hijab-suiza-debate.jpg",
+        imageAlt: "Debate sobre el hijab en la sociedad suiza",
         summary: "Un post nel nostro gruppo WhatsApp ha fatto scattare i miei allarmi. Un conto è avvisare onestamente qualcuno che, in tanti settori, può trovare...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -298,6 +318,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-04-2-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio",
         readingTime: 1,
         dateUpdated: "4 maggio 2026",
+        featuredImage: "media/guides/actualidad-expectativas-realidad-suiza.jpg",
+        imageAlt: "Expectativas y realidad de vivir en Suiza como inmigrante",
         summary: "Vediamo, faccio una domanda perché ogni settimana se ne parla in privato: a quale \"bufala\" credevi prima di arrivare in Svizzera? Che \"qui funziona tutto perfettamente...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -319,6 +341,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-04-3-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad",
         readingTime: 2,
         dateUpdated: "4 maggio 2026",
+        featuredImage: "media/guides/actualidad-temu-suiza-aduanas.jpg",
+        imageAlt: "Temu bajo regulación en Suiza por aduanas e IVA",
         summary: "Temu spazza da mesi l'Europa con prezzi che, sia chiaro, non rientrano in nessuna normale logica di mercato. E in Svizzera la cosa ha già cominciato a sollevare le sopracciglia...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -341,6 +365,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-04-4-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo",
         readingTime: 1,
         dateUpdated: "4 maggio 2026",
+        featuredImage: "media/guides/actualidad-fresas-ginebra-recolecta.jpg",
+        imageAlt: "Autorecogida de fresas en Ginebra precio por kilo",
         summary: "Ogni primavera appare lo stesso video: campi verdi, fragole perfette, bambini felici e la sensazione di essere in una pubblicità di yogurt. E sì, esiste. Ma...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -364,6 +390,8 @@ Object.assign(window.siteContent.it.articles, {
         slug: "actualidad-2026-05-04-5-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca",
         readingTime: 1,
         dateUpdated: "4 maggio 2026",
+        featuredImage: "media/guides/actualidad-pasaporte-caducado-embarque.jpg",
+        imageAlt: "Denegación de embarque por pasaporte caducado y derechos del pasajero",
         summary: "Nell'ottobre 2018, a Lione, la compagnia EasyJet negò l'imbarco a una minorenne su un volo per Napoli perché il suo passaporto era scaduto da 18 giorni...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">

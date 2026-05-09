@@ -12745,6 +12745,8 @@ window.siteContent.en.articles = {
         slug: "la-13-pensi-n-avs-qu-es-cu-ndo-llega-y-a-qui-n-afecta",
         readingTime: 3,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/pension-avs-suiza.jpg",
+        imageAlt: "Persona mayor revisando su pension AVS en Suiza",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -12771,6 +12773,8 @@ If you are between 55 and 65 years old, now is the time to request your individu
         slug: "el-impuesto-a-la-fuente-en-suiza-lo-que-tu-n-mina-no-te-explica",
         readingTime: 3,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/declaracion-impuesto-fuente-suiza.jpg",
+        imageAlt: "Persona calculando su declaracion de impuestos a la fuente en Suiza",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -12797,6 +12801,8 @@ Cantonal differences on this point are relevant. The federal threshold of CHF 12
         slug: "a-os-cotizados-en-espa-a-cuentan-para-tu-jubilaci-n-en-suiza",
         readingTime: 3,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/cotizados-espana-jubilacion-suiza.jpg",
+        imageAlt: "Persona revisando sus anos cotizados en Espana para la jubilacion en Suiza",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -12823,6 +12829,8 @@ The practical recommendation, especially if you are over 55 years old, is clear:
         slug: "venir-a-trabajar-a-suiza-lo-que-necesitas-tener-resuelto-antes-de-llegar",
         readingTime: 2,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/venir-trabajar-suiza-preparacion.jpg",
+        imageAlt: "Persona preparando su mudanza para venir a trabajar en Suiza",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -12847,6 +12855,8 @@ For those who are already here or are planning the move, the message is simple: 
         slug: "el-14-de-junio-suiza-vota-si-limita-su-poblaci-n-a-10-millones",
         readingTime: 2,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/referendum-suiza-poblacion.jpg",
+        imageAlt: "Urna de votacion en un referendum suizo sobre la limitacion de poblacion",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -12871,6 +12881,8 @@ If you are a foreign resident in Switzerland, you cannot vote in this federal vo
         slug: "lpp-2026-las-pensiones-de-invalidez-y-supervivencia-por-fin-ajustadas-a-los-precios",
         readingTime: 2,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/lpp-2026-pensiones-invalidez-suiza.jpg",
+        imageAlt: "Persona mayor recibiendo informacion sobre su pension LPP de invalidez en Suiza",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -12895,6 +12907,8 @@ This exchange rate does not appear in any official letter with a catchy title. T
         slug: "tardoc-lo-que-ha-cambiado-en-tu-consulta-m-dica-desde-enero-de-2026",
         readingTime: 2,
         dateUpdated: "2026-04-17",
+        featuredImage: "media/guides/tardoc-consulta-medica-suiza.jpg",
+        imageAlt: "Medico atendiendo a un paciente en una consulta medica en Suiza",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -12917,6 +12931,8 @@ For the patient, the change should not translate into higher bills. The Federal 
         slug: "el-permiso-c-cinco-a-os-despu-s-hay-algo-que-pedir",
         readingTime: 2,
         dateUpdated: "2026-04-17",
+        featuredImage: "media/guides/permiso-c-suiza.jpg",
+        imageAlt: "Tarjeta de permiso de residencia C en Suiza para residentes de larga duracion",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -12939,6 +12955,8 @@ To request it, in addition to the five years of continuous residence, the author
         slug: "si-pierdes-el-trabajo-en-suiza-esto-es-lo-que-debes-saber-desde-el-primer-d-a",
         readingTime: 2,
         dateUpdated: "2026-04-17",
+        featuredImage: "media/guides/perder-trabajo-suiza-desempleo.jpg",
+        imageAlt: "Persona desempleada buscando trabajo en Suiza tras perder su empleo",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -12959,6 +12977,8 @@ A detail that very few people know: if you have worked and contributed in Spain 
         slug: "el-fin-de-la-penalizaci-n-fiscal-al-matrimonio-en-suiza-lo-que-cambia-y-cu-ndo",
         readingTime: 2,
         dateUpdated: "2026-04-18",
+        featuredImage: "media/guides/penalizacion-fiscal-matrimonio-suiza.jpg",
+        imageAlt: "Pareja revisando su declaracion fiscal conjunta en Suiza tras el fin de la penalizacion al matrimonio",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -12981,6 +13001,8 @@ What should not be lost sight of is the argument behind the reform: the previous
         slug: "el-taux-de-r-f-rence-se-mantiene-en-1-25-ni-bajas-de-alquiler-ni-subidas-para-los-inquilinos-suizos",
         readingTime: 2,
         dateUpdated: "2026-04-18",
+        featuredImage: "media/guides/taux-reference-alquiler-suiza.jpg",
+        imageAlt: "Apartamento en alquiler en Suiza con el taux de reference estable al 1,25 por ciento",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -13003,6 +13025,8 @@ From a practical point of view, if in recent years your landlord raised the rent
         slug: "las-subvenciones-a-las-primas-del-seguro-m-dico-un-dinero-al-que-muchos-tienen-derecho-y-no-piden",
         readingTime: 2,
         dateUpdated: "2026-04-18",
+        featuredImage: "media/guides/subvenciones-primas-seguro-medico-suiza.jpg",
+        imageAlt: "Formulario de solicitud de subvencion para las primas del seguro medico en Suiza",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -13023,6 +13047,8 @@ The first and easiest step is to consult the portal of the canton of residence o
         slug: "la-regla-de-los-90-d-as-en-suiza-lo-que-confunde-a-muchos-espa-oles",
         readingTime: 2,
         dateUpdated: "2026-04-19",
+        featuredImage: "media/guides/regla-90-dias-suiza.jpg",
+        imageAlt: "Pasaporte con sello de entrada en la frontera suiza y la regla de los 90 dias Schengen",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -13047,6 +13073,8 @@ There is an additional element that is beginning to circulate and that is worth 
         slug: "encontrar-piso-en-suiza-en-2026-bienvenido-al-deporte-m-s-frustrante-del-pa-s",
         readingTime: 2,
         dateUpdated: "2026-04-19",
+        featuredImage: "media/guides/encontrar-piso-suiza-2026.jpg",
+        imageAlt: "Persona buscando piso en Suiza en 2026 en un mercado inmobiliario muy competitivo",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 
@@ -13069,6 +13097,8 @@ What many newcomers do not calculate is time. Finding a suitable apartment can t
         slug: "suiza-no-tiene-salario-m-nimo-nacional-pero-eso-no-significa-que-no-haya-suelo-salarial",
         readingTime: 2,
         dateUpdated: "2026-04-19",
+        featuredImage: "media/guides/salario-minimo-suiza-cantones.jpg",
+        imageAlt: "Trabajador en Suiza consultando el convenio colectivo sobre el salario minimo por canton",
         summary: "Community guide based on recent and verified experiences.",
         imageAlt: "",
         content: `<div class="article-content"> 

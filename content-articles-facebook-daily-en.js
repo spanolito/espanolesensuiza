@@ -19,6 +19,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-20-1-la-campana-de-la-renta-espanola-2025-afecta-a-mas-residentes-en-suiza-de-lo-que-",
         readingTime: 2,
         dateUpdated: "20 April 2026",
+        featuredImage: "media/guides/actualidad-renta-espanola-suiza.jpg",
+        imageAlt: "Formulario de declaración de la renta española para residentes en Suiza",
         summary: "La campaña del IRPF 2025 arrancó en España el 8 de abril y cierra el 30 de junio de 2026. Si vives en Suiza y tienes la residencia fiscal aquí, en principio no…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -39,6 +41,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-20-2-suiza-negocio-con-trump-y-bajo-los-aranceles-al-15-pero-el-dano-ya-estaba-hecho",
         readingTime: 2,
         dateUpdated: "20 April 2026",
+        featuredImage: "media/guides/actualidad-suiza-trump-aranceles.jpg",
+        imageAlt: "Negociación comercial entre Suiza y Estados Unidos sobre aranceles",
         summary: "A principios de 2025, la administración Trump impuso aranceles del 39% sobre las exportaciones suizas a Estados Unidos, uno de los porcentajes más altos de tod…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -59,6 +63,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-20-3-la-declaracion-de-impuestos-en-suiza-quien-esta-obligado-cuando-y-como-pedir-mas",
         readingTime: 2,
         dateUpdated: "20 April 2026",
+        featuredImage: "media/guides/actualidad-declaracion-impuestos-suiza.jpg",
+        imageAlt: "Formulario de declaración de impuestos en Suiza",
         summary: "Primavera en Suiza es también temporada de declaración fiscal. La mayoría de cantones tienen el plazo ordinario entre finales de marzo y finales de abril, aunq…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -79,6 +85,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-22-1-el-referendum-del-14-de-junio-lo-que-dicen-las-encuestas-y-lo-que-deberias-hacer",
         readingTime: 2,
         dateUpdated: "22 April 2026",
+        featuredImage: "media/guides/actualidad-referendum-junio-suiza.jpg",
+        imageAlt: "Urna de votación en referéndum suizo",
         summary: "El 14 de junio, Suiza vota si se fija un techo constitucional de 10 millones de habitantes. La iniciativa, impulsada por la UDC, obliga al gobierno federal a r…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -99,6 +107,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-22-2-la-nacionalidad-suiza-lo-que-hay-que-saber-antes-de-pedirla-y-la-trampa-que-nadi",
         readingTime: 2,
         dateUpdated: "22 April 2026",
+        featuredImage: "media/guides/actualidad-nacionalidad-suiza-naturalizacion.jpg",
+        imageAlt: "Pasaporte suizo y proceso de naturalización",
         summary: "Hay miles de españoles en Suiza que llevan 10, 15, 20 años aquí y nunca se han planteado seriamente la naturalización. Algunos porque no saben que pueden pedir…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -119,6 +129,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-22-3-suiza-cambia-las-normas-cuando-el-titular-de-la-prensa-espanola-da-mas-miedo-que",
         readingTime: 2,
         dateUpdated: "22 April 2026",
+        featuredImage: "media/guides/actualidad-prensa-espanola-suiza-normas.jpg",
+        imageAlt: "Portada de prensa española sobre cambios normativos en Suiza",
         summary: "Desde hace semanas, varios medios españoles llevan publicando artículos con títulos como \"Suiza endurece las normas para los españoles\" o \"Suiza exige contrato…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -139,6 +151,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-23-1-la-franquicia-del-seguro-medico-va-a-subir-lo-que-cambia-y-lo-que-no",
         readingTime: 2,
         dateUpdated: "23 April 2026",
+        featuredImage: "media/guides/actualidad-franquicia-seguro-medico-suiza.jpg",
+        imageAlt: "Franquicia del seguro médico básico en Suiza LAMal",
         summary: "El Consejo Federal ha puesto en consulta una modificación de la LAMal que propone subir la franquicia mínima del seguro de enfermedad de 300 a 400 francos. No…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -158,6 +172,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-23-2-el-carnet-de-conducir-espanol-en-suiza-valido-al-llegar-pero-con-fecha-de-caduci",
         readingTime: 1,
         dateUpdated: "23 April 2026",
+        featuredImage: "media/guides/actualidad-carnet-conducir-espanol-suiza.jpg",
+        imageAlt: "Carnet de conducir español y permiso suizo",
         summary: "La mayoría de los españoles que llegan a Suiza saben que pueden conducir con su carnet español. Lo que no siempre saben es que ese derecho tiene un límite de t…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -177,6 +193,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-23-3-hacerse-autonomo-en-suiza-siendo-extranjero-mas-pasos-de-los-que-parece",
         readingTime: 2,
         dateUpdated: "23 April 2026",
+        featuredImage: "media/guides/actualidad-autonomo-suiza-extranjero.jpg",
+        imageAlt: "Persona autónoma registrando su empresa en Suiza",
         summary: "Trabajar por cuenta propia en Suiza es perfectamente posible para un español residente. Pero tiene unas cuantas particularidades que conviene conocer antes de…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -196,6 +214,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-24-1-el-kurzarbeit-cuando-la-economia-frena-el-seguro-cubre-parte-de-tu-sueldo",
         readingTime: 2,
         dateUpdated: "24 April 2026",
+        featuredImage: "media/guides/actualidad-kurzarbeit-suiza.jpg",
+        imageAlt: "Trabajador en reducción de jornada por Kurzarbeit en Suiza",
         summary: "En las últimas semanas, la patronal de la industria mecánica y electrónica suiza (Swissmem) ha pedido al gobierno que autorice el recurso al Kurzarbeit, el mec…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -215,6 +235,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-24-2-la-cuenta-bancaria-en-suiza-lo-que-nadie-te-explica-bien-cuando-llegas",
         readingTime: 2,
         dateUpdated: "24 April 2026",
+        featuredImage: "media/guides/actualidad-cuenta-bancaria-suiza.jpg",
+        imageAlt: "Apertura de cuenta bancaria en Suiza para extranjeros",
         summary: "Una de las primeras dificultades prácticas al llegar a Suiza es abrir una cuenta bancaria. Parece un trámite simple, pero hay algunos aspectos que conviene con…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -234,6 +256,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-24-3-los-festivos-en-suiza-dependen-del-canton-donde-trabajas-no-de-donde-vives",
         readingTime: 2,
         dateUpdated: "24 April 2026",
+        featuredImage: "media/guides/actualidad-festivos-cantones-suiza.jpg",
+        imageAlt: "Calendario de festivos por cantón en Suiza",
         summary: "Suiza tiene un solo día festivo nacional oficial: el 1 de agosto, la Fête nationale. Todo lo demás son festivos cantonales, y la diferencia entre un cantón y o…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -253,6 +277,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-25-1-la-nueva-asignacion-de-guarderia-en-suiza-lo-que-cambia-para-familias-trabajador",
         readingTime: 2,
         dateUpdated: "25 April 2026",
+        featuredImage: "media/guides/actualidad-guarderia-asignacion-suiza.jpg",
+        imageAlt: "Familia con niño en guardería subvencionada en Suiza",
         summary: "El Parlamento suizo aprobó en 2026 una nueva asignación para familias con hijos en guarderías, llamada allocation de garde, que entrará en vigor cuando expire…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -273,6 +299,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-25-2-el-mercado-laboral-suizo-en-2026-que-sectores-contratan-y-cuales-estan-ajustando",
         readingTime: 2,
         dateUpdated: "25 April 2026",
+        featuredImage: "media/guides/actualidad-mercado-laboral-suiza-2026.jpg",
+        imageAlt: "Mercado laboral suizo en 2026, sectores con empleo",
         summary: "El mercado laboral suizo ha dejado de ser el refugio casi sin nubes que era hace tres o cuatro años. La Secretaría de Estado de Economía prevé un crecimiento d…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -293,6 +321,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-25-3-el-convenio-de-doble-imposicion-espana-suiza-por-que-importa-y-cuando-te-afecta",
         readingTime: 2,
         dateUpdated: "25 April 2026",
+        featuredImage: "media/guides/actualidad-doble-imposicion-espana-suiza.jpg",
+        imageAlt: "Convenio de doble imposición entre España y Suiza",
         summary: "Uno de los malentendidos más frecuentes entre españoles que viven en Suiza es creer que, por residir y tributar aquí, están automáticamente exentos de cualquie…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -313,6 +343,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-26-1-la-e-id-suiza-el-dni-digital-que-tambien-pueden-pedir-los-que-vivimos-aqui-con-p",
         readingTime: 1,
         dateUpdated: "26 April 2026",
+        featuredImage: "media/guides/actualidad-eid-identidad-digital-suiza.jpg",
+        imageAlt: "Identidad digital E-ID suiza para residentes con permiso",
         summary: "En algún momento del tercer trimestre de 2026, Suiza pondrá en marcha de manera oficial su sistema de identidad digital nacional. La aplicación se llama Swiyu,…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -333,6 +365,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-26-2-el-ees-ya-funciona-en-toda-europa-lo-que-implica-si-tienes-familia-que-viene-de-",
         readingTime: 2,
         dateUpdated: "26 April 2026",
+        featuredImage: "media/guides/actualidad-ees-sistema-entrada-europa.jpg",
+        imageAlt: "Sistema EES de entrada y salida en fronteras europeas Schengen",
         summary: "Desde el 10 de abril de 2026, el Sistema de Entradas y Salidas de la Unión Europea está plenamente operativo en toda la zona Schengen, incluida Suiza. Conviene…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -353,6 +387,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-26-3-comprar-piso-en-suiza-siendo-espanol-lo-que-depende-de-tu-permiso-y-lo-que-no",
         readingTime: 2,
         dateUpdated: "26 April 2026",
+        featuredImage: "media/guides/actualidad-comprar-piso-suiza-espanol.jpg",
+        imageAlt: "Compra de piso en Suiza por ciudadano español con permiso",
         summary: "La semana pasada el Gobierno suizo anunció que va a endurecer las condiciones para que ciudadanos extranjeros no comunitarios compren vivienda en el país. El t…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -373,6 +409,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-26-4-empadronarse-en-suiza-el-primer-tramite-que-muchos-dejan-para-despues",
         readingTime: 1,
         dateUpdated: "26 April 2026",
+        featuredImage: "media/guides/actualidad-empadronamiento-suiza.jpg",
+        imageAlt: "Registro municipal Anmeldung en Suiza",
         summary: "Llegar a Suiza, instalarse, empezar el trabajo, buscar guardería para los niños... Y el registro en la oficina municipal de habitantes queda pendiente para \"cu…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -393,6 +431,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-26-5-el-salario-minimo-en-suiza-que-cantones-lo-fijan-y-que-pasa-en-los-que-no",
         readingTime: 2,
         dateUpdated: "26 April 2026",
+        featuredImage: "media/guides/actualidad-salario-minimo-canton-suiza.jpg",
+        imageAlt: "Salario mínimo por cantón en Suiza",
         summary: "Suiza no tiene salario mínimo federal. Esto sorprende a bastante gente que llega al país con la idea de que existe un suelo salarial único y aplicable en todo…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -413,6 +453,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-26-6-rc-y-seguro-del-hogar-en-suiza-dos-seguros-distintos-que-van-juntos-pero-no-son-",
         readingTime: 2,
         dateUpdated: "26 April 2026",
+        featuredImage: "media/guides/actualidad-seguro-rc-hogar-suiza.jpg",
+        imageAlt: "Seguro de responsabilidad civil y hogar en Suiza",
         summary: "Cuando alguien llega a Suiza y firma su primer contrato de alquiler, casi siempre le piden un seguro. Lo que piden exactamente, y por qué, no siempre queda cla…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -433,6 +475,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-26-7-el-teletrabajo-desde-espana-siendo-residente-en-suiza-las-reglas-que-ya-son-defi",
         readingTime: 2,
         dateUpdated: "26 April 2026",
+        featuredImage: "media/guides/actualidad-teletrabajo-espana-suiza.jpg",
+        imageAlt: "Teletrabajo desde España para residente en Suiza",
         summary: "Desde el 1 de enero de 2026, el marco que regula el teletrabajo transfronterizo entre Suiza y los países europeos signatarios tiene carácter permanente. Durant…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -453,6 +497,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-26-8-la-jubilacion-de-las-mujeres-en-suiza-lo-que-cambia-en-2026-con-la-reforma-avs-2",
         readingTime: 2,
         dateUpdated: "26 April 2026",
+        featuredImage: "media/guides/actualidad-jubilacion-mujeres-suiza-avs.jpg",
+        imageAlt: "Jubilación de mujeres en Suiza con reforma AVS 21",
         summary: "La reforma de la AVS conocida como \"AVS 21\" fue aprobada en referéndum en septiembre de 2022 y se está aplicando de forma gradual desde 2025. Su efecto más con…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -473,6 +519,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-26-9-las-multas-en-suiza-el-sistema-por-el-que-una-infraccion-de-trafico-puede-costar",
         readingTime: 2,
         dateUpdated: "26 April 2026",
+        featuredImage: "media/guides/actualidad-multas-trafico-suiza.jpg",
+        imageAlt: "Sistema de multas de tráfico en Suiza",
         summary: "Una de las cosas que descubres relativamente pronto al vivir en Suiza es que las multas no funcionan igual que en España. No solo son frecuentes y se cobran co…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -493,6 +541,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-27-1-el-acuerdo-pnr-suiza-ue-tus-datos-de-vuelo-ya-no-son-solo-tuyos",
         readingTime: 1,
         dateUpdated: "27 April 2026",
+        featuredImage: "media/guides/actualidad-acuerdo-pnr-suiza-ue.jpg",
+        imageAlt: "Acuerdo PNR datos de vuelo Suiza Unión Europea",
         summary: "El 5 de marzo de 2026, Suiza y la Unión Europea firmaron un acuerdo para intercambiar los datos de registro de nombres de pasajeros (PNR) de todos los vuelos c…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -512,6 +562,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-27-2-alquilar-en-suiza-en-2026-cuando-el-mercado-decide-que-no-eres-prioridad",
         readingTime: 2,
         dateUpdated: "27 April 2026",
+        featuredImage: "media/guides/actualidad-alquiler-suiza-2026.jpg",
+        imageAlt: "Mercado de alquiler en Suiza en 2026",
         summary: "El mercado del alquiler en Suiza sigue siendo uno de los más tensionados de Europa, y 2026 no ha traído ningún alivio visible. En Zúrich, un piso de 40 a 50 me…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -531,6 +583,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-27-3-el-seguro-de-accidentes-en-suiza-el-que-tienes-sin-saberlo-y-que-no-es-el-seguro",
         readingTime: 2,
         dateUpdated: "27 April 2026",
+        featuredImage: "media/guides/actualidad-seguro-accidentes-suiza-laa.jpg",
+        imageAlt: "Seguro de accidentes obligatorio LAA en Suiza",
         summary: "Mucha gente confunde el seguro médico obligatorio (LAMal) con el seguro de accidentes (LAA). Son dos cosas completamente distintas, cubiertas por sistemas dist…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -550,6 +604,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-28-1-la-obligacion-del-empleador-que-pocos-conocen-el-stellenmeldepflicht-en-2026",
         readingTime: 1,
         dateUpdated: "28 April 2026",
+        featuredImage: "media/guides/actualidad-stellenmeldepflicht-suiza.jpg",
+        imageAlt: "Obligación del empleador Stellenmeldepflicht en Suiza",
         summary: "Desde 2020, los empleadores suizos están obligados por ley a notificar determinadas vacantes al RAV (Oficina Regional de Colocación) antes de poder publicarlas…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -569,6 +625,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-28-2-el-1-de-mayo-en-suiza-festivo-en-algunos-cantones-dia-de-mudanzas-en-casi-todos",
         readingTime: 2,
         dateUpdated: "28 April 2026",
+        featuredImage: "media/guides/actualidad-primero-mayo-suiza.jpg",
+        imageAlt: "Primero de mayo en Suiza festivo y día de mudanzas",
         summary: "El viernes que viene es 1 de mayo, y si eres español llevas toda la vida asociando esa fecha al Día del Trabajo, festivo nacional sin excepción. En Suiza la co…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -588,6 +646,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-28-3-teletrabajo-desde-francia-para-empresa-suiza-las-nuevas-reglas-que-entraron-en-v",
         readingTime: 1,
         dateUpdated: "28 April 2026",
+        featuredImage: "media/guides/actualidad-teletrabajo-francia-suiza.jpg",
+        imageAlt: "Teletrabajo desde Francia para empresa suiza nuevas reglas",
         summary: "Muchos españoles que trabajan en Suiza viven en la zona fronteriza francesa, especialmente en la región de Ginebra, Basilea o el arco del Jura. Para todos ello…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -607,6 +667,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-29-1-la-lex-koller-endurecida-lo-que-propone-el-gobierno-suizo-y-por-que-los-espanole",
         readingTime: 1,
         dateUpdated: "29 April 2026",
+        featuredImage: "media/guides/actualidad-lex-koller-suiza.jpg",
+        imageAlt: "Lex Koller restricciones inmuebles extranjeros en Suiza",
         summary: "El Consejo Federal lanzó el 15 de abril una consulta sobre una reforma significativa de la Lex Koller, la ley que regula la compra de inmuebles por parte de ex…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -626,6 +688,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-29-2-el-impuesto-a-la-fuente-la-correccion-que-muy-pocos-solicitan-y-que-puede-devolv",
         readingTime: 2,
         dateUpdated: "29 April 2026",
+        featuredImage: "media/guides/actualidad-impuesto-fuente-correccion.jpg",
+        imageAlt: "Corrección del impuesto a la fuente Quellensteuer en Suiza",
         summary: "La mayoría de los españoles que llegaron a Suiza sin permiso C ni cónyuge suizo tributan mediante retención en la fuente, lo que en alemán se llama Quellensteu…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -645,6 +709,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-29-3-el-psicologo-cubierto-por-el-seguro-medico-basico-como-funciona-y-por-que-tanta-",
         readingTime: 1,
         dateUpdated: "29 April 2026",
+        featuredImage: "media/guides/actualidad-psicologo-seguro-basico-suiza.jpg",
+        imageAlt: "Psicólogo cubierto por seguro médico básico LAMal en Suiza",
         summary: "Desde julio de 2022 existe en Suiza un cambio que muchos residentes, incluidos muchos españoles, desconocen todavía: los psicólogos autorizados pueden facturar…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -664,6 +730,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-30-1-la-nueva-ley-del-ruido-entra-en-vigor-y-cambia-las-reglas-para-construir-viviend",
         readingTime: 2,
         dateUpdated: "30 April 2026",
+        featuredImage: "media/guides/actualidad-ley-ruido-vivienda-suiza.jpg",
+        imageAlt: "Nueva ley del ruido para construcción de vivienda en Suiza",
         summary: "Desde el 1 de abril de 2026 está en vigor la revisión parcial de la Ley federal sobre la protección del medio ambiente (LPE) y de la Ordenanza sobre protección…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -684,6 +752,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-30-2-defectos-de-construccion-ahora-tienes-60-dias-para-reclamar-y-eso-cambia-muchas-",
         readingTime: 2,
         dateUpdated: "30 April 2026",
+        featuredImage: "media/guides/actualidad-defectos-construccion-suiza.jpg",
+        imageAlt: "Plazo de 60 días para reclamar defectos de construcción en Suiza",
         summary: "Desde el 1 de enero de 2026 está en vigor la revisión del derecho de garantía por defectos en el Código de Obligaciones. La novedad principal es un plazo legal…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -704,6 +774,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-04-30-3-la-electricidad-baja-en-2026-pero-solo-si-vives-en-el-canton-correcto",
         readingTime: 2,
         dateUpdated: "30 April 2026",
+        featuredImage: "media/guides/actualidad-electricidad-canton-suiza.jpg",
+        imageAlt: "Precio de la electricidad por cantón en Suiza 2026",
         summary: "La Comisión federal de la electricidad (ElCom) confirmó que las tarifas del aprovisionamiento de base bajan en 2026 una media del 4% para los hogares. La tarif…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -724,6 +796,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-01-1-el-referendum-del-14-de-junio-lo-que-realmente-esta-en-juego-para-los-espanoles-",
         readingTime: 1,
         dateUpdated: "1 May 2026",
+        featuredImage: "media/guides/actualidad-referendum-junio-espanoles.jpg",
+        imageAlt: "Referéndum del 14 de junio y su impacto en españoles en Suiza",
         summary: "El 14 de junio los ciudadanos suizos votarán sobre una iniciativa del SVP que propone limitar la población residente en Suiza a un máximo de 10 millones de per…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -743,6 +817,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-01-2-el-acoso-es-ahora-delito-independiente-en-suiza-lo-que-cambia-con-el-nuevo-artic",
         readingTime: 1,
         dateUpdated: "1 May 2026",
+        featuredImage: "media/guides/actualidad-acoso-delito-codigo-penal-suiza.jpg",
+        imageAlt: "Acoso como delito independiente en el Código Penal suizo",
         summary: "Desde el 1 de enero de 2026, el stalking, el acoso persistente hacia una persona, es un delito autónomo en el Código Penal suizo. Antes, estas conductas se per…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -762,6 +838,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-01-3-las-deducciones-fiscales-del-pilar-3a-en-2026-el-limite-sube-y-todavia-hay-tiemp",
         readingTime: 1,
         dateUpdated: "1 May 2026",
+        featuredImage: "media/guides/actualidad-pilar-3a-deduccion-fiscal.jpg",
+        imageAlt: "Deducción fiscal del pilar 3a en Suiza 2026",
         summary: "En 2026, el límite máximo de deducción fiscal para el pilar 3a ha vuelto a subir. Los empleados que cotizan al segundo pilar pueden deducir hasta 7.258 francos…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -845,6 +923,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-01-4-delinquir-en-suiza-hasta-que-se-acaba-la-paciencia",
         readingTime: 2,
         dateUpdated: "1 May 2026",
+        featuredImage: "media/guides/actualidad-delinquir-suiza-justicia.jpg",
+        imageAlt: "Sistema judicial suizo y consecuencias para extranjeros",
         summary: "I have seen this news from Valais and I think it deserves reading beyond the easy headline. It is not an isolated or \"sensational\" case. It is quite representative…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -870,6 +950,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-01-5-en-suiza-la-puntualidad-es-clave-si-pero-otra-cosa-distinta-es-regalar-tiempo",
         readingTime: 1,
         dateUpdated: "1 May 2026",
+        featuredImage: "media/guides/actualidad-puntualidad-cultura-suiza.jpg",
+        imageAlt: "Cultura de puntualidad en Suiza y horas de trabajo",
         summary: "In most healthcare facilities (hospitals or EMS), the principle is quite clear: working time begins when you are at the employer's disposal.…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -893,6 +975,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-01-6-desde-suiza-para-el-mundo",
         readingTime: 1,
         dateUpdated: "1 May 2026",
+        featuredImage: "media/guides/actualidad-desde-suiza-para-el-mundo.jpg",
+        imageAlt: "Comunidad española expatriada en Suiza con visión global",
         summary: "On this day, 33 years ago, CERN put the World Wide Web software into the public domain. The idea had been proposed by Sir Tim Berners-Lee, initial…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -916,6 +1000,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-02-4-si-manana-desaparecieran-los-inmigrantes-en-suiza-y-en-el-resto-de-europa",
         readingTime: 2,
         dateUpdated: "2 May 2026",
+        featuredImage: "media/guides/actualidad-inmigrantes-suiza-economia.jpg",
+        imageAlt: "Impacto económico de los inmigrantes en Suiza y Europa",
         summary: "If tomorrow immigrants disappeared in Switzerland... and in the rest of Europe... A reflection that I have been trying to write objectively for some time. This must…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -940,6 +1026,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-02-5-beber-en-la-calle-en-suiza-el-problema-no-es-la-cerveza-es-lo-que-dejas-detras",
         readingTime: 1,
         dateUpdated: "2 May 2026",
+        featuredImage: "media/guides/actualidad-alcohol-calle-suiza.jpg",
+        imageAlt: "Normas de convivencia sobre alcohol en espacios públicos en Suiza",
         summary: "This comes as a result of a message in one of our WhatsApp groups, and I think it deserves reflection. This photo is no exception, it is what happens when you…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -960,6 +1048,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-02-6-reclamacion-de-salario-en-suiza-plazos-claros-y-sin-vueltas",
         readingTime: 1,
         dateUpdated: "2 May 2026",
+        featuredImage: "media/guides/actualidad-reclamacion-salario-suiza.jpg",
+        imageAlt: "Plazos para reclamar salario impagado en Suiza",
         summary: "If your employer does not pay you, there is no need to drag out the situation \"to see if it gets fixed.\" Salary is a legal obligation according to the Swiss Code of Obligations (CO…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -979,6 +1069,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-03-4-el-sms-blaster-ya-esta-en-suiza-y-si-es-tan-simple-como-peligroso",
         readingTime: 1,
         dateUpdated: "3 May 2026",
+        featuredImage: "media/guides/actualidad-sms-blaster-fraude-suiza.jpg",
+        imageAlt: "Fraude SMS blaster y phishing en Suiza",
         summary: "According to RTS, this new scam method allows criminals to send mass SMS messages directly to nearby mobile phones, without going through operators or lists…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -1000,6 +1092,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-03-5-el-queroseno-empieza-a-convertirse-en-un-problema-real-y-esta-vez-si-tiene-conse",
         readingTime: 1,
         dateUpdated: "3 May 2026",
+        featuredImage: "media/guides/actualidad-queroseno-contaminacion-suiza.jpg",
+        imageAlt: "Contaminación por queroseno de aviación en Suiza",
         summary: "The news is not about distant scenes. If the supply of kerosene becomes complicated, the impact is quickly felt in the pocket and in the plans. Airlines tra…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -1019,6 +1113,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-03-6-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-menos",
         readingTime: 2,
         dateUpdated: "3 May 2026",
+        featuredImage: "media/guides/actualidad-tiempo-parcial-suiza-derechos.jpg",
+        imageAlt: "Derechos del trabajador a tiempo parcial en Suiza",
         summary: "When someone negotiates a 60% or 80% contract in Switzerland, they usually think of something quite simple: fewer hours, less salary, more free time. Until then, everything...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -1040,6 +1136,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-04-1-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab",
         readingTime: 1,
         dateUpdated: "4 May 2026",
+        featuredImage: "media/guides/actualidad-hijab-suiza-debate.jpg",
+        imageAlt: "Debate sobre el hijab en la sociedad suiza",
         summary: "A post in our WhatsApp group set off my alarms. It's one thing to honestly warn someone that, in many sectors, they can find...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -1061,6 +1159,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-04-2-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio",
         readingTime: 1,
         dateUpdated: "4 May 2026",
+        featuredImage: "media/guides/actualidad-expectativas-realidad-suiza.jpg",
+        imageAlt: "Expectativas y realidad de vivir en Suiza como inmigrante",
         summary: "Let's see, I'm going to ask the question because this comes up privately every week: what \"hoax\" did you believe before arriving in Switzerland? That \"everything works perfectly here...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -1082,6 +1182,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-04-3-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad",
         readingTime: 2,
         dateUpdated: "4 May 2026",
+        featuredImage: "media/guides/actualidad-temu-suiza-aduanas.jpg",
+        imageAlt: "Temu bajo regulación en Suiza por aduanas e IVA",
         summary: "Temu has been sweeping Europe for months with prices that, to be clear, do not fit with any normal market logic. And in Switzerland it has already begun to raise eyebrows...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -1104,6 +1206,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-04-4-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo",
         readingTime: 1,
         dateUpdated: "4 May 2026",
+        featuredImage: "media/guides/actualidad-fresas-ginebra-recolecta.jpg",
+        imageAlt: "Autorecogida de fresas en Ginebra precio por kilo",
         summary: "Every spring the same video appears: green fields, perfect strawberries, happy children and the feeling that you are in a yogurt commercial. And yes, it exists. But…",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
@@ -1127,6 +1231,8 @@ Object.assign(window.siteContent.en.articles, {
         slug: "actualidad-2026-05-04-5-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca",
         readingTime: 1,
         dateUpdated: "4 May 2026",
+        featuredImage: "media/guides/actualidad-pasaporte-caducado-embarque.jpg",
+        imageAlt: "Denegación de embarque por pasaporte caducado y derechos del pasajero",
         summary: "In October 2018, in Lyon, the EasyJet company denied boarding to a minor on a flight to Naples because her passport had expired for 18 days...",
         relatedSlugs: [],
         content: `<div class=\"article-content\">
