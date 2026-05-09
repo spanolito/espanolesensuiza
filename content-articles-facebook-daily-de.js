@@ -1653,5 +1653,74 @@ Object.assign(window.siteContent.de.articles, {
 <p>Das hat praktische Auswirkungen: Wenn du vorhast, kurz vor dem Ruhestand nach Spanien zurückzukehren, fließen die letzten in Spanien geleisteten Beitragsjahre in die spanische Bemessungsgrundlage ein, was deine spanische Rente erheblich verbessern kann. Bis zum letzten Tag vor dem Ruhestand in der Schweiz zu arbeiten, ist nicht immer die rentabelste Strategie, wenn du danach in Spanien leben möchtest. Es lohnt sich, die Zahlen im Voraus durchzurechnen – und nicht erst dann, wenn es keinen Spielraum mehr gibt, etwas zu ändern.</p>
 </div>`
     },
+,
 
+    "fb-daily-20260509-01-die-avs-nummer-die-kennung-die-alles-uber-dich-weiss-ohne-deine-daten": {
+        title: "Die AVS-Nummer: Die Kennung, die alles über dich weiß, ohne deine Daten zu enthalten",
+        featuredImage: "media/guides/actualidad-el-numero-avs-el-identificador-que-lo-sabe-to.jpg",
+        imageAlt: "Die AVS-Nummer: Die Kennung, die alles über dich weiß, ohne deine Daten zu enthalten",
+        description: "Die AVS-Nummer besteht aus den 13 Ziffern, die auf deiner Krankenversicherungskarte stehen und bei denen viele erst nach Wochen verstehen, wozu sie genau…",
+        keywords: "nummer, kennung, alles, über, dich, ohne, deine, daten",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-09-1-die-avs-nummer-die-kennung-die-alles-uber-dich-weiss-ohne-deine-daten",
+        readingTime: 1,
+        dateUpdated: "9 Mai 2026",
+        summary: "Die AVS-Nummer besteht aus den 13 Ziffern, die auf deiner Krankenversicherungskarte stehen und bei denen viele erst nach Wochen verstehen, wozu sie…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Die AVS-Nummer besteht aus den 13 Ziffern, die auf deiner Krankenversicherungskarte stehen und bei denen viele erst nach Wochen verstehen, wozu sie genau dienen. Wenn du bereits in der Schweiz lebst oder arbeitest, hast du bereits eine solche Nummer, auch wenn du sie nicht beantragt hast.</p>
+<p>Sie heißt NAVS13 und ersetzt seit 2008 die alte 11-stellige Nummer. Im Gegensatz zur NIE oder der spanischen Sozialversicherungsnummer enthält sie keine personenbezogenen Daten: Sie ist vollkommen anonym. Wenn du heiratest, dich scheiden lässt oder deinen Namen änderst, bleibt die Nummer unverändert. Sie ist dauerhaft und begleitet dich dein ganzes Leben lang.</p>
+<p>Wenn du mit einer Aufenthaltsbewilligung eingereist bist oder eine Arbeit in der Schweiz aufgenommen hast, wurde dir diese Nummer automatisch zugewiesen. Die Zentrale Ausgleichsstelle in Bern generiert sie und teilt sie deinem Arbeitgeber, der Ausgleichskasse und der Versicherung mit. Du musst sie nicht beantragen und auch kein Formular ausfüllen. Die meisten sehen sie zum ersten Mal auf ihrer Krankenversicherungskarte im Feld „Versicherungsnummer“.</p>
+<p>Wozu dient sie eigentlich: Berechnung der AHV- und IV-Beiträge, Familienzulagen, Steuererklärung, Registrierung in der zweiten Säule, Abwicklung von Angelegenheiten beim RAV bei Arbeitslosigkeit, Formalitäten bei den kantonalen Ausgleichskassen. Sie erscheint aber auch in kantonalen Verwaltungsregistern, im Betreibungsregister und auf amtlichen Bescheinigungen. In der Schweiz entspricht sie funktional der Kombination aus Personalausweis und Sozialversicherungsnummer, zusammengefasst in einer einzigen, unveränderlichen Nummer.</p>
+<p>Wenn du nicht weißt, bei welcher Krankenkasse du versichert bist, schau auf deine Krankenversicherungskarte. Falls du noch keine hast, wende dich an die kantonale Ausgleichskasse oder frag deinen Arbeitgeber. Es gibt keinen speziellen Schalter und keine vorherige Formalität: Die Versicherung besteht einfach schon seit deiner Ankunft.</p>
+</div>`
+    },
+
+    "fb-daily-20260509-02-ein-gebrauchtwagen-in-der-schweiz-kaufen-das-kennzeichen-gehort-dem-be": {
+        title: "Ein Gebrauchtwagen in der Schweiz kaufen: Das Kennzeichen gehört dem Besitzer, nicht dem Auto",
+        featuredImage: "media/guides/actualidad-comprar-un-coche-de-segunda-mano-en-suiza-la.jpg",
+        imageAlt: "Ein Gebrauchtwagen in der Schweiz kaufen: Das Kennzeichen gehört dem Besitzer, nicht dem Auto",
+        description: "Wenn man in der Schweiz einen Gebrauchtwagen kauft, nimmt der Verkäufer die Nummernschilder mit. Im wahrsten Sinne des Wortes. Hier gehören die Nummernschilder…",
+        keywords: "gebrauchtwagen, schweiz, kaufen, kennzeichen, gehört, besitzer, nicht, auto",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-09-2-ein-gebrauchtwagen-in-der-schweiz-kaufen-das-kennzeichen-gehort-dem-be",
+        readingTime: 1,
+        dateUpdated: "9 Mai 2026",
+        summary: "Wenn man in der Schweiz einen Gebrauchtwagen kauft, nimmt der Verkäufer die Nummernschilder mit. Im wahrsten Sinne des Wortes. Hier gehören die…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Wenn man in der Schweiz einen Gebrauchtwagen kauft, nimmt der Verkäufer die Nummernschilder mit. Im wahrsten Sinne des Wortes. Hier gehören die Nummernschilder dem Besitzer, nicht dem Fahrzeug. Wenn dir jemand mit Genfer Kennzeichen sein Auto verkauft, verlässt er den Parkplatz mit seinen Nummernschildern in der Hand, und du musst deine eigenen bei der kantonalen Kraftfahrzeugbehörde beantragen.</p>
+<p>Bevor du das Fahrzeug auf deinen Namen zulassen kannst, musst du über eine gültige Haftpflichtversicherung verfügen. Ohne Haftpflichtversicherung gibt es keine Zulassung: Das ist der erste Schritt, nicht der zweite. Ohne diesen Versicherungsnachweis bearbeitet die kantonale Behörde nichts.</p>
+<p>Das Zweite, womit viele nicht rechnen, ist die MFK, die technische Überprüfung. Die erste MFK findet 5 Jahre nach der Erstzulassung statt, danach alle 3 Jahre und anschließend alle 2 Jahre. Wenn du ein Auto kaufst, das älter als 10 Jahre ist und dessen letzte Überprüfung mehr als ein Jahr zurückliegt, musst du die MFK bestehen, bevor du damit fahren darfst. Diese Formalität erledigst du beim kantonalen Strassenverkehrsamt, nicht bei einer beliebigen Werkstatt.</p>
+<p>Sobald du die Haftpflichtversicherung (RC) und die Kfz-Versicherung (MFK) in Ordnung gebracht hast, gehst du mit dem Original-Fahrzeugausweis und der Versicherungsbescheinigung zur kantonalen Zulassungsstelle. Du hast ab dem Kauf 14 Tage Zeit, um diesen Vorgang zu erledigen. Die Kennzeichen und der Fahrzeugausweis kosten je nach Kanton in der Regel zwischen 50 und 100 Franken.</p>
+<p>Was Sie vor dem Abschluss des Kaufvertrags überprüfen sollten: das Datum der letzten Fahrzeugprüfung (MFK), ob der Fahrzeugausweis in Ordnung ist und ob gegen den Vorbesitzer keine Betreibungen anhängig sind. Ein Kauf ohne Überprüfung dieser drei Punkte kann ein gutes Angebot in einen wochenlangen Ärger mit den kantonalen Behörden verwandeln.</p>
+</div>`
+    },
+
+    "fb-daily-20260509-03-in-der-schweiz-darf-man-streiken-aber-es-richtig-zu-machen-ist-wesentl": {
+        title: "In der Schweiz darf man streiken. Aber es richtig zu machen, ist wesentlich komplizierter, als es scheint.",
+        featuredImage: "media/guides/actualidad-en-suiza-se-puede-hacer-huelga-pero-hacerla-b.jpg",
+        imageAlt: "In der Schweiz darf man streiken. Aber es richtig zu machen, ist wesentlich komplizierter, als es scheint.",
+        description: "Die Schweizer Verfassung garantiert in Artikel 28 das Streikrecht, und die Europäische Menschenrechtskonvention bestätigt dies. Das Problem ist, dass für eine…",
+        keywords: "schweiz, darf, streiken, aber, richtig, machen, wesentlich, komplizierter",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-09-3-in-der-schweiz-darf-man-streiken-aber-es-richtig-zu-machen-ist-wesentl",
+        readingTime: 1,
+        dateUpdated: "9 Mai 2026",
+        summary: "Die Schweizer Verfassung garantiert in Artikel 28 das Streikrecht, und die Europäische Menschenrechtskonvention bestätigt dies. Das Problem ist, dass…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Die Schweizer Verfassung garantiert in Artikel 28 das Streikrecht, und die Europäische Menschenrechtskonvention bestätigt dies. Das Problem ist, dass für eine rechtmäßige Ausübung dieses Rechts vier Bedingungen gleichzeitig erfüllt sein müssen, wobei die strengste davon fast alles blockiert.</p>
+<p>Damit ein Streik in der Schweiz rechtmäßig ist, muss er von einer Organisation ausgerufen werden, die zur Aushandlung eines Gesamtarbeitsvertrags befugt ist; seine Ziele müssen durch diesen Vertrag geregelt werden können; er darf nicht gegen die Verpflichtung zur „paix du travail“ verstoßen und muss verhältnismäßig sein. Ist eine dieser vier Bedingungen nicht erfüllt, ist der Streik unrechtmäßig, und der Arbeitgeber kann die Arbeitnehmer auf Ersatz des entstandenen Schadens verklagen. Das ist keine theoretische Drohung.</p>
+<p>Die „Paix du travail“ hat ein genaues Entstehungsdatum: den 19. Juli 1937, als die Schweizer Metallgewerkschaften und die Arbeitgeber eine historische Vereinbarung unterzeichneten. Die Gewerkschaften verzichteten auf Streiks in Angelegenheiten, die bereits im Gesamtarbeitsvertrag geregelt waren; die Arbeitgeber verzichteten auf Aussperrungen. Dieses Modell breitete sich branchenweise aus, bis es zur Norm der Schweizer Arbeitsbeziehungen wurde.</p>
+<p>Die Zahlen sprechen für sich. In den 1980er Jahren verlor die Schweiz pro Jahr 1,4 Arbeitstage durch Streiks pro 1.000 Arbeitnehmer. Deutschland verlor 666. Italien 1.123. Das liegt nicht daran, dass die Schweizer Arbeitnehmer mit ihren Arbeitsbedingungen zufriedener sind. Vielmehr ist das System so ausgelegt, dass Konflikte in Verhandlungen kanalisiert werden, bevor sie auf die Straße getragen werden.</p>
+<p>Was viele Spanier, die hierherkommen, nicht wissen: Wenn in deiner Branche ein Tarifvertrag gilt und du an einem Streik teilnimmst, der sich auf einen Punkt bezieht, der bereits in diesem Vertrag geregelt ist, kann dein Arbeitgeber dich vor Gericht bringen. Wenn die Schweizer Presse daher von einem „Streik“ spricht, handelt es sich technisch gesehen oft um einen Aktionstag oder eine Demonstration, nicht um einen Arbeitsniederlegung im engeren Sinne. Der rechtliche Unterschied ist von Bedeutung.</p>
+</div>`
+    }
 });

@@ -1653,5 +1653,74 @@ Object.assign(window.siteContent.en.articles, {
 <p>Here’s the practical implication: if you’re thinking of returning to Spain as you approach retirement, the contributions you make in Spain during your final working years will count towards your Spanish pension base, which could significantly boost your Spanish pension. Working in Switzerland right up until the day before you retire isn’t always the most cost-effective strategy if you plan to live in Spain afterwards. It’s worth doing the maths beforehand, not when there’s no longer any scope to change anything.</p>
 </div>`
     },
+,
 
+    "fb-daily-20260509-01-the-avs-number-the-identifier-that-knows-everything-about-you-without": {
+        title: "The AVS number: the identifier that knows everything about you without containing any of your personal data",
+        featuredImage: "media/guides/actualidad-el-numero-avs-el-identificador-que-lo-sabe-to.jpg",
+        imageAlt: "The AVS number: the identifier that knows everything about you without containing any of your personal data",
+        description: "Your AVS number is the 13-digit code that appears on your health insurance card, and it often takes people weeks to understand exactly what it’s for. If you…",
+        keywords: "number, identifier, knows, everything, about, without, containing, your",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-09-1-the-avs-number-the-identifier-that-knows-everything-about-you-without",
+        readingTime: 1,
+        dateUpdated: "May 9, 2026",
+        summary: "Your AVS number is the 13-digit code that appears on your health insurance card, and it often takes people weeks to understand exactly what it’s for.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Your AVS number is the 13-digit code that appears on your health insurance card, and it often takes people weeks to understand exactly what it’s for. If you already live or work in Switzerland, you already have one, even if you haven’t applied for it.</p>
+<p>It is called NAVS13 and has replaced the old 11-digit number since 2008. Unlike the NIE or the Spanish social security number, it does not contain any personal details: it is completely anonymous. If you get married, divorced or change your name, the number remains the same. It is permanent and stays with you for life.</p>
+<p>If you arrived with a residence permit or started working in Switzerland, that number was assigned to you automatically. The Central Compensation Office in Bern generates it and sends it to your employer, the compensation fund and your insurer. You do not need to apply for it or fill in any forms. For most people, the first time they see it is on their health insurance card, in the ‘Insurance number’ field.</p>
+<p>What it’s actually used for: calculating AVS and AI contributions, family allowances, tax returns, second-pillar pension registration, dealing with the RAV if you become unemployed, and administrative procedures with the cantonal compensation funds. It also appears in cantonal administrative registers, the debt collection register and on official certificates. In Switzerland, it is the functional equivalent of an ID card and a social security number combined, condensed into a single number that never changes.</p>
+<p>If you don’t know which one applies to you, check your health insurance card. If you don’t have one yet, contact your cantonal compensation fund or ask your employer. There’s no need to visit a specific office or complete any preliminary paperwork: it’s been in place since you arrived.</p>
+</div>`
+    },
+
+    "fb-daily-20260509-02-buying-a-second-hand-car-in-switzerland-the-number-plate-belongs-to-th": {
+        title: "Buying a second-hand car in Switzerland: the number plate belongs to the owner, not the car",
+        featuredImage: "media/guides/actualidad-comprar-un-coche-de-segunda-mano-en-suiza-la.jpg",
+        imageAlt: "Buying a second-hand car in Switzerland: the number plate belongs to the owner, not the car",
+        description: "In Switzerland, when you buy a second-hand car, the seller takes the number plates with them. Literally. Here, the number plate belongs to the owner, not the…",
+        keywords: "buying, second, hand, switzerland, number, plate, belongs, owner",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-09-2-buying-a-second-hand-car-in-switzerland-the-number-plate-belongs-to-th",
+        readingTime: 2,
+        dateUpdated: "May 9, 2026",
+        summary: "In Switzerland, when you buy a second-hand car, the seller takes the number plates with them. Literally. Here, the number plate belongs to the owner,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Switzerland, when you buy a second-hand car, the seller takes the number plates with them. Literally. Here, the number plate belongs to the owner, not the vehicle. If someone with a Geneva number plate sells you their car, they leave the car park with their number plates in hand, and you have to apply for your own at the cantonal motor vehicle office.</p>
+<p>Before you can register the vehicle in your name, you need to have valid third-party liability insurance. You cannot register the vehicle without third-party liability insurance: this is the first step, not the second. Without that insurance certificate, the local authority will not process your application.</p>
+<p>The second thing that many people don’t expect is the MFK, the roadworthiness test. The first MFK is carried out five years after the car’s initial registration, then every three years, and subsequently every two years. If you buy a car that is more than 10 years old and the last test was carried out more than a year ago, you will have to pass the MFK before you can drive it. You arrange this with the cantonal motor vehicle authority, not with just any garage.</p>
+<p>Once you have your RC and MFK in order, you need to go to the cantonal office with the vehicle’s original registration certificate and your insurance certificate. You have 14 days from the date of purchase to complete this procedure. Number plates and the registration certificate usually cost between 50 and 100 francs, depending on the canton.</p>
+<p>Things to check before finalising the deal: the date of the last MOT, that the vehicle registration document is in order, and that there are no outstanding debt collection proceedings against the previous owner. Buying without checking these three points can turn a good deal into a headache with the local authorities that lasts for weeks.</p>
+</div>`
+    },
+
+    "fb-daily-20260509-03-in-switzerland-it-is-possible-to-go-on-strike-but-doing-it-properly-is": {
+        title: "In Switzerland, it is possible to go on strike. But doing it properly is far more complicated than it seems.",
+        featuredImage: "media/guides/actualidad-en-suiza-se-puede-hacer-huelga-pero-hacerla-b.jpg",
+        imageAlt: "In Switzerland, it is possible to go on strike. But doing it properly is far more complicated than it seems.",
+        description: "The Swiss Constitution guarantees the right to strike in Article 28, and the European Convention on Human Rights confirms this. The problem is that exercising…",
+        keywords: "switzerland, possible, strike, doing, properly, more, complicated, than",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-09-3-in-switzerland-it-is-possible-to-go-on-strike-but-doing-it-properly-is",
+        readingTime: 2,
+        dateUpdated: "May 9, 2026",
+        summary: "The Swiss Constitution guarantees the right to strike in Article 28, and the European Convention on Human Rights confirms this. The problem is that…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>The Swiss Constitution guarantees the right to strike in Article 28, and the European Convention on Human Rights confirms this. The problem is that exercising this right legally requires four conditions to be met simultaneously, and the most onerous of these is the one that effectively blocks almost everything.</p>
+<p>For a strike to be lawful in Switzerland, it must be called by an organisation authorised to negotiate a collective agreement; its objectives must be covered by that agreement; it must not breach the obligation of ‘paix du travail’; and it must be proportionate. If any of these four conditions is not met, the strike is unlawful and the employer may sue the workers for damages. This is not a theoretical threat.</p>
+<p>The "paix du travail" has a precise date of origin: 19 July 1937, when the Swiss metalworkers’ unions and employers signed a historic agreement. The unions agreed not to strike over matters already covered by the collective agreement; the employers, in turn, agreed not to lock out workers. This model gradually spread across sectors until it became the norm in Swiss industrial relations.</p>
+<p>The figures speak for themselves. In the 1980s, Switzerland lost 1.4 working days per year to strikes for every 1,000 employees. Germany lost 666. Italy, 1,123. It is not that Swiss workers are more satisfied with their conditions. It is simply that the system is designed to channel disputes into negotiation before they reach the streets.</p>
+<p>What many Spaniards who come here don’t realise is that if your sector has a collective agreement and you take part in a strike over an issue already covered by that agreement, your employer can take you to court. That is why, when the Swiss press refers to a “greve”, it is often technically a day of action or a demonstration, not a work stoppage in the strict sense. The legal distinction matters.</p>
+</div>`
+    }
 });

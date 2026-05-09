@@ -1653,5 +1653,74 @@ Object.assign(window.siteContent.it.articles, {
 <p>Ciò ha un impatto concreto: se stai pensando di tornare in Spagna poco prima del pensionamento, gli ultimi anni di contributi versati in Spagna andranno a far parte della base contributiva spagnola, il che può aumentare notevolmente la tua pensione spagnola. Lavorare in Svizzera fino all’ultimo giorno prima del pensionamento non è sempre la strategia più vantaggiosa se hai intenzione di vivere in Spagna in seguito. Vale la pena fare i conti in anticipo, non quando ormai non c’è più margine per cambiare nulla.</p>
 </div>`
     },
+,
 
+    "fb-daily-20260509-01-il-numero-avs-lidentificativo-che-sa-tutto-di-te-senza-contenere-alcun": {
+        title: "Il numero AVS: l'identificativo che sa tutto di te senza contenere alcun tuo dato",
+        featuredImage: "media/guides/actualidad-el-numero-avs-el-identificador-que-lo-sabe-to.jpg",
+        imageAlt: "Il numero AVS: l'identificativo che sa tutto di te senza contenere alcun tuo dato",
+        description: "Il numero AVS è quella sequenza di 13 cifre che compare sulla tua tessera sanitaria e di cui molti impiegano settimane a capire a cosa serva esattamente. Se…",
+        keywords: "numero, identificativo, tutto, senza, contenere, alcun, dato, quella",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-05-09-1-il-numero-avs-lidentificativo-che-sa-tutto-di-te-senza-contenere-alcun",
+        readingTime: 1,
+        dateUpdated: "9 maggio 2026",
+        summary: "Il numero AVS è quella sequenza di 13 cifre che compare sulla tua tessera sanitaria e di cui molti impiegano settimane a capire a cosa serva…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Il numero AVS è quella sequenza di 13 cifre che compare sulla tua tessera sanitaria e di cui molti impiegano settimane a capire a cosa serva esattamente. Se vivi o lavori già in Svizzera, ne possiedi già uno, anche se non l'hai richiesto.</p>
+<p>Si chiama NAVS13 e dal 2008 sostituisce il vecchio numero di 11 cifre. A differenza del NIE o del numero della previdenza sociale spagnola, non contiene dati personali: è completamente anonimo. Se ti sposi, divorzierai o cambierai nome, il numero non cambierà. È permanente e ti accompagnerà per tutta la vita.</p>
+<p>Se sei arrivato con un permesso di soggiorno o hai iniziato a lavorare in Svizzera, quel numero ti è stato assegnato automaticamente. La Centrale di compensazione di Berna lo genera e lo comunica al tuo datore di lavoro, alla cassa di compensazione e alla compagnia assicurativa. Non è necessario richiederlo né compilare alcun modulo. La prima volta che la maggior parte delle persone lo vede è sulla tessera sanitaria, nel campo «Numero d'assure».</p>
+<p>A cosa serve realmente: calcolo dei contributi AVS e AI, assegni familiari, dichiarazione dei redditi, registrazione nel secondo pilastro, pratiche presso l’ufficio di collocamento (RAV) in caso di disoccupazione, pratiche presso le casse di compensazione cantonali. Ma compare anche nei registri amministrativi cantonali, nel registro delle esecuzioni e nei certificati ufficiali. In Svizzera, è l'equivalente funzionale della carta d'identità e del numero di previdenza sociale messi insieme, condensati in un unico numero che non cambia mai.</p>
+<p>Se non sai qual è il tuo, controlla la tua tessera sanitaria. Se non ce l'hai ancora, contatta la cassa di compensazione cantonale o chiedi al tuo datore di lavoro. Non occorre rivolgersi a uno sportello specifico né espletare alcuna procedura preliminare: ti spetta di diritto dal momento del tuo arrivo.</p>
+</div>`
+    },
+
+    "fb-daily-20260509-02-acquistare-unauto-usata-in-svizzera-la-targa-appartiene-al-proprietari": {
+        title: "Acquistare un'auto usata in Svizzera: la targa appartiene al proprietario, non all'auto",
+        featuredImage: "media/guides/actualidad-comprar-un-coche-de-segunda-mano-en-suiza-la.jpg",
+        imageAlt: "Acquistare un'auto usata in Svizzera: la targa appartiene al proprietario, non all'auto",
+        description: "In Svizzera, quando si acquista un'auto di seconda mano, il venditore si porta via le targhe. Letteralmente. Qui, la targa appartiene al proprietario, non al…",
+        keywords: "acquistare, auto, usata, svizzera, targa, appartiene, proprietario, quando",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-05-09-2-acquistare-unauto-usata-in-svizzera-la-targa-appartiene-al-proprietari",
+        readingTime: 1,
+        dateUpdated: "9 maggio 2026",
+        summary: "In Svizzera, quando si acquista un'auto di seconda mano, il venditore si porta via le targhe. Letteralmente. Qui, la targa appartiene al…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Svizzera, quando si acquista un'auto di seconda mano, il venditore si porta via le targhe. Letteralmente. Qui, la targa appartiene al proprietario, non al veicolo. Se qualcuno con targa ginevrina ti vende la sua auto, esce dal parcheggio con le targhe in mano e tu devi richiedere le tue presso l'ufficio cantonale della motorizzazione.</p>
+<p>Prima di poter immatricolare il veicolo a tuo nome, devi disporre di un'assicurazione di responsabilità civile (RC) in corso di validità. Non è possibile effettuare l'immatricolazione senza RC: è il primo passo, non il secondo. Senza quel certificato di assicurazione, l'ufficio cantonale non evade alcuna pratica.</p>
+<p>La seconda cosa che molti non si aspettano è l'MFK, ovvero il controllo tecnico. Il primo MFK va effettuato 5 anni dopo la prima immatricolazione, poi ogni 3 anni e successivamente ogni 2 anni. Se acquisti un'auto di oltre 10 anni e l'ultimo controllo risale a più di un anno fa, dovrai superare l'MFK prima di poter circolare. Questa procedura va gestita presso l'ufficio cantonale della motorizzazione, non presso un'officina qualsiasi.</p>
+<p>Una volta che il certificato di immatricolazione (RC) e il certificato di assicurazione (MFK) sono in regola, devi recarti all'ufficio cantonale con il libretto di circolazione originale del veicolo e il certificato di assicurazione. Hai 14 giorni di tempo dall'acquisto per espletare questa procedura. Le targhe e il libretto di circolazione costano solitamente tra i 50 e i 100 franchi, a seconda del cantone.</p>
+<p>Cosa è bene verificare prima di concludere l'affare: la data dell'ultimo controllo tecnico (MFK), che il permesso di circolazione sia in regola e che non vi siano procedimenti esecutivi pendenti a carico del precedente proprietario. Acquistare senza verificare questi tre punti può trasformare una buona offerta in un grattacapo burocratico che si protrae per settimane.</p>
+</div>`
+    },
+
+    "fb-daily-20260509-03-in-svizzera-e-possibile-scioperare-ma-farlo-nel-modo-giusto-e-molto-pi": {
+        title: "In Svizzera è possibile scioperare. Ma farlo nel modo giusto è molto più complicato di quanto sembri.",
+        featuredImage: "media/guides/actualidad-en-suiza-se-puede-hacer-huelga-pero-hacerla-b.jpg",
+        imageAlt: "In Svizzera è possibile scioperare. Ma farlo nel modo giusto è molto più complicato di quanto sembri.",
+        description: "La Costituzione svizzera garantisce il diritto di sciopero all'articolo 28, e la Convenzione europea dei diritti dell'uomo lo conferma. Il problema è che per…",
+        keywords: "svizzera, possibile, scioperare, farlo, modo, giusto, molto, complicato",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-09-3-in-svizzera-e-possibile-scioperare-ma-farlo-nel-modo-giusto-e-molto-pi",
+        readingTime: 2,
+        dateUpdated: "9 maggio 2026",
+        summary: "La Costituzione svizzera garantisce il diritto di sciopero all'articolo 28, e la Convenzione europea dei diritti dell'uomo lo conferma. Il problema è…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>La Costituzione svizzera garantisce il diritto di sciopero all'articolo 28, e la Convenzione europea dei diritti dell'uomo lo conferma. Il problema è che per esercitarlo in modo legale occorre soddisfare contemporaneamente quattro condizioni, e la più restrittiva di tutte è quella che di fatto impedisce quasi tutto.</p>
+<p>Affinché uno sciopero sia lecito in Svizzera, deve essere indetto da un'organizzazione abilitata a negoziare un contratto collettivo, i suoi obiettivi devono poter essere disciplinati da tale contratto, non deve violare l'obbligo di «paix du travail» e deve essere proporzionato. Se una qualsiasi di queste quattro condizioni non è soddisfatta, lo sciopero è illecito e il datore di lavoro può citare in giudizio i lavoratori per i danni causati. Non si tratta di una minaccia teorica.</p>
+<p>La «paix du travail» ha una data di nascita precisa: il 19 luglio 1937, quando i sindacati della metallurgia svizzera e i datori di lavoro firmarono un accordo storico. I sindacati rinunciavano allo sciopero su questioni già disciplinate dal contratto collettivo; i datori di lavoro, alla serrata. Questo modello si è poi esteso a tutti i settori fino a diventare la norma nei rapporti di lavoro in Svizzera.</p>
+<p>I dati parlano da soli. Negli anni '80, la Svizzera perdeva 1,4 giorni lavorativi all'anno per sciopero ogni 1.000 lavoratori. La Germania ne perdeva 666. L'Italia, 1.123. Non è che i lavoratori svizzeri siano più soddisfatti delle loro condizioni. È che il sistema è progettato per incanalare i conflitti verso la negoziazione prima che arrivino in piazza.</p>
+<p>Ciò che molti spagnoli che arrivano qui non sanno è che, se nel proprio settore vige un contratto collettivo e si partecipa a uno sciopero su una questione già disciplinata da tale contratto, il datore di lavoro può citare in giudizio il lavoratore. Ecco perché, quando la stampa svizzera parla di «sciopero», spesso si tratta tecnicamente di una giornata di mobilitazione o di una manifestazione, non di un'astensione dal lavoro in senso stretto. La differenza giuridica è importante.</p>
+</div>`
+    }
 });

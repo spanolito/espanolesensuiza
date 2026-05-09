@@ -1653,5 +1653,74 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Ce qui a un impact concret : si vous envisagez de retourner en Espagne à l'approche de la retraite, les dernières années de cotisation en Espagne seront prises en compte dans le calcul de votre base de cotisation espagnole, ce qui peut améliorer considérablement votre pension espagnole. Travailler en Suisse jusqu'au dernier jour avant de prendre votre retraite n'est pas toujours la stratégie la plus avantageuse si vous avez l'intention de vivre en Espagne par la suite. Il vaut mieux faire le calcul à l'avance, et non pas lorsqu'il n'est plus possible de changer quoi que ce soit.</p>
 </div>`
     },
+,
 
+    "fb-daily-20260509-01-le-numero-avs-lidentifiant-qui-sait-tout-de-vous-sans-contenir-aucune": {
+        title: "Le numéro AVS : l'identifiant qui sait tout de vous sans contenir aucune de vos données personnelles",
+        featuredImage: "media/guides/actualidad-el-numero-avs-el-identificador-que-lo-sabe-to.jpg",
+        imageAlt: "Le numéro AVS : l'identifiant qui sait tout de vous sans contenir aucune de vos données personnelles",
+        description: "Le numéro AVS, ce sont ces 13 chiffres qui figurent sur ta carte d'assurance maladie et dont beaucoup mettent des semaines à comprendre à quoi ils servent…",
+        keywords: "numéro, identifiant, sait, tout, vous, sans, contenir, aucune",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-09-1-le-numero-avs-lidentifiant-qui-sait-tout-de-vous-sans-contenir-aucune",
+        readingTime: 2,
+        dateUpdated: "9 mai 2026",
+        summary: "Le numéro AVS, ce sont ces 13 chiffres qui figurent sur ta carte d'assurance maladie et dont beaucoup mettent des semaines à comprendre à quoi ils…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Le numéro AVS, ce sont ces 13 chiffres qui figurent sur ta carte d'assurance maladie et dont beaucoup mettent des semaines à comprendre à quoi ils servent exactement. Si tu vis ou travailles déjà en Suisse, tu en as déjà un, même si tu ne l'as pas demandé.</p>
+<p>Il s'appelle NAVS13 et remplace l'ancien numéro à 11 chiffres depuis 2008. Contrairement au NIE ou au numéro de sécurité sociale espagnol, il ne contient aucune donnée personnelle : il est totalement anonyme. Que vous vous mariiez, divorciez ou changiez de nom, ce numéro reste le même. Il est permanent et vous accompagne toute votre vie.</p>
+<p>Si vous êtes arrivé avec un permis de séjour ou si vous avez commencé à travailler en Suisse, ce numéro vous a été attribué automatiquement. La Centrale de compensation à Berne le génère et le communique à votre employeur, à la caisse de compensation et à votre assureur. Il n'est pas nécessaire d'en faire la demande ni de remplir un formulaire. La plupart des gens le voient pour la première fois sur leur carte d'assurance maladie, dans le champ « Numéro d'assuré ».</p>
+<p>À quoi sert-il réellement : calcul des cotisations AVS et AI, allocations familiales, déclaration d'impôts, enregistrement dans le deuxième pilier, démarches auprès du RAV en cas de chômage, formalités auprès des caisses de compensation cantonales. Mais il figure également dans les registres administratifs cantonaux, au registre des poursuites et sur les certificats officiels. En Suisse, c'est l'équivalent fonctionnel de la carte d'identité et du numéro de sécurité sociale réunis, condensés en un seul numéro qui ne change jamais.</p>
+<p>Si tu ne sais pas quel est le tien, consulte ta carte d'assurance maladie. Si tu ne l'as pas encore, contacte la caisse cantonale d'indemnisation ou renseigne-toi auprès de ton employeur. Il n'y a pas de guichet spécifique ni de démarche préalable : elle existe tout simplement depuis ton arrivée.</p>
+</div>`
+    },
+
+    "fb-daily-20260509-02-acheter-une-voiture-doccasion-en-suisse-la-plaque-dimmatriculation-app": {
+        title: "Acheter une voiture d'occasion en Suisse : la plaque d'immatriculation appartient au propriétaire, pas à la voiture",
+        featuredImage: "media/guides/actualidad-comprar-un-coche-de-segunda-mano-en-suiza-la.jpg",
+        imageAlt: "Acheter une voiture d'occasion en Suisse : la plaque d'immatriculation appartient au propriétaire, pas à la voiture",
+        description: "En Suisse, lorsque vous achetez une voiture d'occasion, le vendeur emporte les plaques d'immatriculation. Littéralement. Ici, la plaque appartient au…",
+        keywords: "acheter, voiture, occasion, suisse, plaque, immatriculation, appartient, propriétaire",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-09-2-acheter-une-voiture-doccasion-en-suisse-la-plaque-dimmatriculation-app",
+        readingTime: 2,
+        dateUpdated: "9 mai 2026",
+        summary: "En Suisse, lorsque vous achetez une voiture d'occasion, le vendeur emporte les plaques d'immatriculation. Littéralement. Ici, la plaque appartient au…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suisse, lorsque vous achetez une voiture d'occasion, le vendeur emporte les plaques d'immatriculation. Littéralement. Ici, la plaque appartient au propriétaire, et non au véhicule. Si quelqu'un avec une immatriculation genevoise vous vend sa voiture, il quitte le parking avec ses plaques à la main et vous devez faire enregistrer les vôtres auprès du service cantonal des automobiles.</p>
+<p>Avant de pouvoir immatriculer le véhicule à ton nom, tu dois disposer d'une assurance responsabilité civile (RC) en cours de validité. Pas d'immatriculation sans RC : c'est la première étape, pas la deuxième. Sans ce certificat d'assurance, le service cantonal ne traitera aucune demande.</p>
+<p>La deuxième chose à laquelle beaucoup ne s'attendent pas, c'est le MFK, le contrôle technique. Le premier MFK a lieu 5 ans après la première immatriculation, puis tous les 3 ans, et ensuite tous les 2 ans. Si vous achetez une voiture de plus de 10 ans et que le dernier contrôle remonte à plus d'un an, vous devrez passer le MFK avant de pouvoir circuler. Cette démarche s'effectue auprès du service cantonal des automobiles, et non dans n'importe quel garage.</p>
+<p>Une fois que le certificat d'immatriculation (RC) et le certificat d'assurance (MFK) sont en règle, tu te rends au service cantonal muni du permis de circulation original du véhicule et du certificat d'assurance. Tu disposes de 14 jours à compter de la date d'achat pour effectuer cette démarche. Les plaques d'immatriculation et le permis de circulation coûtent généralement entre 50 et 100 francs, selon le canton.</p>
+<p>Ce qu'il faut vérifier avant de conclure la vente : la date du dernier contrôle technique, que le permis de circulation soit en règle et qu'il n'y ait aucune procédure de recouvrement en cours à l'encontre de l'ancien propriétaire. Acheter sans vérifier ces trois points peut transformer une bonne affaire en un véritable casse-tête administratif qui peut durer des semaines.</p>
+</div>`
+    },
+
+    "fb-daily-20260509-03-en-suisse-on-a-le-droit-de-faire-greve-mais-bien-mener-une-greve-est-b": {
+        title: "En Suisse, on a le droit de faire grève. Mais bien mener une grève est bien plus compliqué qu'il n'y paraît.",
+        featuredImage: "media/guides/actualidad-en-suiza-se-puede-hacer-huelga-pero-hacerla-b.jpg",
+        imageAlt: "En Suisse, on a le droit de faire grève. Mais bien mener une grève est bien plus compliqué qu'il n'y paraît.",
+        description: "La Constitution suisse garantit le droit de grève dans son article 28, et la Convention européenne des droits de l'homme le confirme. Le problème est que pour…",
+        keywords: "suisse, droit, faire, grève, mais, bien, mener, plus",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-09-3-en-suisse-on-a-le-droit-de-faire-greve-mais-bien-mener-une-greve-est-b",
+        readingTime: 2,
+        dateUpdated: "9 mai 2026",
+        summary: "La Constitution suisse garantit le droit de grève dans son article 28, et la Convention européenne des droits de l'homme le confirme. Le problème est…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>La Constitution suisse garantit le droit de grève dans son article 28, et la Convention européenne des droits de l'homme le confirme. Le problème est que pour l'exercer légalement, il faut remplir quatre conditions simultanément, et la plus exigeante d'entre elles est celle qui bloque presque tout.</p>
+<p>Pour qu'une grève soit licite en Suisse, elle doit être convoquée par une organisation habilitée à négocier une convention collective, ses objectifs doivent pouvoir être régis par cette convention, elle ne doit pas enfreindre l'obligation de « paix du travail » et elle doit être proportionnée. Si l'une de ces quatre conditions n'est pas remplie, la grève est illicite et l'employeur peut poursuivre les travailleurs en justice pour les dommages causés. Il ne s'agit pas d'une menace théorique.</p>
+<p>La « paix du travail » a une date de naissance précise : le 19 juillet 1937, lorsque les syndicats de la métallurgie suisse et les employeurs ont signé un accord historique. Les syndicats renonçaient à la grève sur les questions déjà régies par la convention collective ; les employeurs, au lock-out. Ce modèle s'est étendu à d'autres secteurs jusqu'à devenir la norme dans les relations de travail en Suisse.</p>
+<p>Les chiffres parlent d'eux-mêmes. Dans les années 80, la Suisse perdait 1,4 jour de travail par an en raison des grèves pour 1 000 salariés. L'Allemagne en perdait 666. L'Italie, 1 123. Ce n'est pas que les travailleurs suisses soient plus satisfaits de leurs conditions de travail. C'est simplement que le système est conçu pour canaliser les conflits vers la négociation avant qu'ils n'atteignent la rue.</p>
+<p>Ce que beaucoup d'Espagnols qui arrivent ici ne savent pas : si votre secteur est couvert par une convention collective et que vous participez à une grève portant sur un sujet déjà réglementé par cette convention, votre employeur peut vous poursuivre en justice. C'est pourquoi, lorsque la presse suisse parle d'une « grève », il s'agit souvent, d'un point de vue technique, d'une journée d'action ou d'une manifestation, et non d'un arrêt de travail au sens strict. Cette distinction juridique a son importance.</p>
+</div>`
+    }
 });

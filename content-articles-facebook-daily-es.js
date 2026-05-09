@@ -1647,5 +1647,74 @@ Object.assign(window.siteContent.es.articles, {
 <p>Donde sí ayuda el convenio es en el acceso. Si en España necesitas 15 años cotizados para tener derecho a pensión contributiva y tú solo tienes 5, España puede sumar tus años suizos para comprobar que alcanzas ese umbral mínimo. Una vez confirmado el acceso, el cálculo se hace solo con los años reales en España.</p>
 <p>Lo que tiene impacto práctico: si te planteas volver a España cerca de la jubilación, los últimos años cotizados en España van a la base reguladora española, lo que puede mejorar tu pensión española de forma notable. Trabajar en Suiza hasta el último día antes de jubilarte no siempre es la estrategia más rentable si tienes intención de vivir en España después. Vale la pena hacer los números antes, no cuando ya no hay margen para cambiar nada.</p>
 </div>`
+    },
+
+    "fb-daily-20260509-01-el-numero-avs-el-identificador-que-lo-sabe-todo-de-ti-sin-contener-nin": {
+        title: "El numero AVS: el identificador que lo sabe todo de ti sin contener ningun dato tuyo",
+        featuredImage: "media/guides/actualidad-el-numero-avs-el-identificador-que-lo-sabe-to.jpg",
+        imageAlt: "El numero AVS: el identificador que lo sabe todo de ti sin contener ningun dato tuyo",
+        description: "El numero AVS son esos 13 digitos que aparecen en tu tarjeta del seguro medico y que muchos tardan semanas en entender para que sirven exactamente. Si ya vives…",
+        keywords: "numero, identificador, sabe, todo, contener, ningun, dato, tuyo",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-09-1-el-numero-avs-el-identificador-que-lo-sabe-todo-de-ti-sin-contener-nin",
+        readingTime: 1,
+        dateUpdated: "9 mayo 2026",
+        summary: "El numero AVS son esos 13 digitos que aparecen en tu tarjeta del seguro medico y que muchos tardan semanas en entender para que sirven exactamente.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>El numero AVS son esos 13 digitos que aparecen en tu tarjeta del seguro medico y que muchos tardan semanas en entender para que sirven exactamente. Si ya vives o trabajas en Suiza, ya tienes uno, aunque no lo hayas pedido.</p>
+<p>Se llama NAVS13 y sustituye al antiguo numero de 11 digitos desde 2008. A diferencia del NIE o el numero de la seguridad social espanola, no codifica datos personales: es completamente anonimo. Si te casas, te divorcias o cambias de nombre, el numero no cambia. Es permanente y te sigue toda la vida.</p>
+<p>Si llegaste con un permiso de residencia o empezaste a trabajar en Suiza, ese numero te fue asignado automaticamente. La Centrale de compensation en Berna lo genera y lo comunica a tu empleador, a la caja de compensacion y a la aseguradora. No hay que solicitarlo ni rellenar ningun formulario. La primera vez que la mayoria lo ve es en la tarjeta del seguro medico, en el campo "Numero d'assure".</p>
+<p>Para que sirve realmente: calculo de cotizaciones AVS y AI, prestaciones familiares, declaracion de impuestos, registro del segundo pilar, gestiones con el RAV si te quedas en paro, tramites con las cajas de compensacion cantonales. Pero tambien aparece en registros administrativos cantonales, en el registro de poursuites y en los certificados oficiales. En Suiza, es el equivalente funcional del DNI y el numero de seguridad social juntos, condensados en un solo numero que nunca cambia.</p>
+<p>Si no sabes cual es el tuyo, mira tu tarjeta del seguro medico. Si todavia no la tienes, contacta con la caja de compensacion cantonal o pregunta a tu empleador. No hay ventanilla especial ni tramite previo: simplemente existe desde que llegaste.</p>
+</div>`
+    },
+
+    "fb-daily-20260509-02-comprar-un-coche-de-segunda-mano-en-suiza-la-placa-es-del-dueno-no-del": {
+        title: "Comprar un coche de segunda mano en Suiza: la placa es del dueno, no del coche",
+        featuredImage: "media/guides/actualidad-comprar-un-coche-de-segunda-mano-en-suiza-la.jpg",
+        imageAlt: "Comprar un coche de segunda mano en Suiza: la placa es del dueno, no del coche",
+        description: "En Suiza, cuando compras un coche de segunda mano, el vendedor se lleva las matriculas. Literalmente. Aqui, la placa pertenece al dueno, no al vehiculo. Si…",
+        keywords: "comprar, coche, segunda, mano, suiza, placa, dueno, cuando",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-09-2-comprar-un-coche-de-segunda-mano-en-suiza-la-placa-es-del-dueno-no-del",
+        readingTime: 1,
+        dateUpdated: "9 mayo 2026",
+        summary: "En Suiza, cuando compras un coche de segunda mano, el vendedor se lleva las matriculas. Literalmente. Aqui, la placa pertenece al dueno, no al…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suiza, cuando compras un coche de segunda mano, el vendedor se lleva las matriculas. Literalmente. Aqui, la placa pertenece al dueno, no al vehiculo. Si alguien con matricula ginebrense te vende su coche, sale del aparcamiento con sus placas en la mano y tu tienes que tramitar las tuyas en el servicio cantonal de automoviles.</p>
+<p>Antes de poder registrar el vehiculo a tu nombre, necesitas tener en vigor un seguro de responsabilidad civil (RC). No hay registro sin RC: es el primer paso, no el segundo. Sin ese certificado de seguro, el servicio cantonal no tramita nada.</p>
+<p>La segunda cosa que muchos no se esperan es el MFK, el control tecnico. El primer MFK se hace a los 5 anos de la primera matriculacion, luego a los 3 anos y despues cada 2 anos. Si compras un coche de mas de 10 anos y el ultimo control data de mas de un ano, tendras que pasar el MFK antes de poder circular. Ese tramite lo gestionas con el servicio cantonal de automoviles, no con cualquier taller.</p>
+<p>Una vez tienes el RC y el MFK en regla, vas al servicio cantonal con el permis de circulation original del vehiculo y el certificado del seguro. Tienes 14 dias desde la compra para hacer ese tramite. Las matriculas y el permiso de circulacion cuestan habitualmente entre 50 y 100 francos, segun el canton.</p>
+<p>Lo que conviene revisar antes de cerrar el trato: la fecha del ultimo MFK, que el permis de circulation este en regla y que no haya ninguna Betreibung pendiente sobre el propietario anterior. Comprar sin verificar esos tres puntos puede convertir una buena oferta en un dolor de cabeza cantonal que dura semanas.</p>
+</div>`
+    },
+
+    "fb-daily-20260509-03-en-suiza-se-puede-hacer-huelga-pero-hacerla-bien-es-bastante-mas-compl": {
+        title: "En Suiza se puede hacer huelga. Pero hacerla bien es bastante mas complicado de lo que parece.",
+        featuredImage: "media/guides/actualidad-en-suiza-se-puede-hacer-huelga-pero-hacerla-b.jpg",
+        imageAlt: "En Suiza se puede hacer huelga. Pero hacerla bien es bastante mas complicado de lo que parece.",
+        description: "La Constitucion suiza garantiza el derecho de huelga en su articulo 28, y el Convenio europeo de derechos humanos lo confirma. El problema es que ejercerlo de…",
+        keywords: "suiza, puede, hacer, huelga, hacerla, bien, bastante, complicado",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-09-3-en-suiza-se-puede-hacer-huelga-pero-hacerla-bien-es-bastante-mas-compl",
+        readingTime: 2,
+        dateUpdated: "9 mayo 2026",
+        summary: "La Constitucion suiza garantiza el derecho de huelga en su articulo 28, y el Convenio europeo de derechos humanos lo confirma. El problema es que…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>La Constitucion suiza garantiza el derecho de huelga en su articulo 28, y el Convenio europeo de derechos humanos lo confirma. El problema es que ejercerlo de manera legal requiere cumplir cuatro condiciones al mismo tiempo, y la mas exigente de todas es la que bloquea casi todo.</p>
+<p>Para que una huelga sea licita en Suiza, debe ser convocada por una organizacion con capacidad de negociar un convenio colectivo, sus objetivos deben poder regularse por ese convenio, no debe violar la obligacion de "paix du travail" y tiene que ser proporcionada. Si falla cualquiera de esas cuatro condiciones, la huelga es ilicita y el empleador puede demandar a los trabajadores por los danos causados. No es una amenaza teorica.</p>
+<p>La "paix du travail" tiene fecha de nacimiento precisa: el 19 de julio de 1937, cuando los sindicatos de la metalurgia suiza y los patronos firmaron un acuerdo historico. Los sindicatos renunciaban a la huelga sobre materias ya reguladas por el convenio colectivo; los empleadores, al lock-out. Ese modelo se fue extendiendo por sectores hasta convertirse en la norma de las relaciones laborales suizas.</p>
+<p>El resultado en cifras lo dice todo. En los anos 80, Suiza perdia 1,4 dias de trabajo por huelga al ano por cada 1.000 asalariados. Alemania perdia 666. Italia, 1.123. No es que los trabajadores suizos esten mas satisfechos con sus condiciones. Es que el sistema esta disenado para canalizar los conflictos hacia la negociacion antes de que lleguen a la calle.</p>
+<p>Lo que muchos espanoles que llegan aqui no anticipan: si tu sector tiene un convenio colectivo y participas en una huelga sobre algo que ese convenio ya regula, tu empleador puede llevarte a juicio. Por eso cuando la prensa suiza habla de una "greve", a menudo se trata tecnicamente de una jornada de accion o de una manifestacion, no de un paro productivo en sentido estricto. La diferencia juridica importa.</p>
+</div>`
     }
 });
