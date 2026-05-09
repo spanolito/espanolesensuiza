@@ -75,6 +75,15 @@ echo ""
     ${ICON_FLAG} \
     --noconfirm \
     --clean \
+    --collect-all Pillow \
+    --hidden-import PIL \
+    --hidden-import PIL.Image \
+    --hidden-import PIL.ImageGrab \
+    --hidden-import PIL.ImageTk \
+    --hidden-import PIL._imaging \
+    --hidden-import PIL.IcoImagePlugin \
+    --hidden-import PIL.JpegImagePlugin \
+    --hidden-import PIL.PngImagePlugin \
     "$ENTRY_POINT"
 
 # ── 6. Vérification ─────────────────────────────────────────────────────────
@@ -141,11 +150,21 @@ done < <(find "$APP_DEST" \( -name "*.so" -o -name "*.dylib" \) -print0 | sort -
 
 echo "  [OK] $SIGNED bibliothèques signées ($FAILED échecs ignorés)"
 
-# 8c. Signer le framework Python s'il est présent
+# 8c. Signer le framework Python avec les entitlements (nécessaire pour dlopen des .so)
 PYTHON_FW="$APP_DEST/Contents/Frameworks/Python.framework"
 if [ -d "$PYTHON_FW" ]; then
-    codesign --force --sign - --timestamp=none "$PYTHON_FW" 2>/dev/null \
-        && echo "  [OK] Python.framework signé" \
+    # Signer d'abord le binaire Python lui-même avec les entitlements
+    PYTHON_BIN=$(find "$PYTHON_FW" -name "Python" -type f | head -1)
+    if [ -n "$PYTHON_BIN" ]; then
+        codesign --force --sign - --timestamp=none \
+            --entitlements "$ENTITLEMENTS" "$PYTHON_BIN" 2>/dev/null \
+            && echo "  [OK] Python binaire signé avec entitlements" \
+            || echo "  [AVERTISSEMENT] Python binaire non signé"
+    fi
+    # Puis signer le framework entier
+    codesign --force --sign - --timestamp=none \
+        --entitlements "$ENTITLEMENTS" "$PYTHON_FW" 2>/dev/null \
+        && echo "  [OK] Python.framework signé avec entitlements" \
         || echo "  [AVERTISSEMENT] Python.framework non signé"
 fi
 

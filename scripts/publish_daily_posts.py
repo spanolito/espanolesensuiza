@@ -278,10 +278,11 @@ def translate_post(post: dict, lang: str) -> dict:
     if lang == "es":
         return post
     return {
-        "num": post["num"],
-        "title": translate_text(post["title"], lang),
+        "num":        post["num"],
+        "title":      translate_text(post["title"], lang),
         "paragraphs": [translate_text(p, lang) for p in post["paragraphs"]],
-        "hub": post["hub"],
+        "hub":        post["hub"],
+        "image_slug": post.get("image_slug", ""),  # slug ES conservé après traduction
     }
 
 # ── Parsing Markdown ──────────────────────────────────────────────────────────
@@ -316,7 +317,13 @@ def parse_posts(md_content: str) -> list:
             paragraphs.append(" ".join(current))
         if title and paragraphs:
             full = " ".join(paragraphs)
-            posts.append({"num": num, "title": title, "paragraphs": paragraphs, "hub": infer_hub(title, full)})
+            posts.append({
+                "num": num,
+                "title": title,
+                "paragraphs": paragraphs,
+                "hub": infer_hub(title, full),
+                "image_slug": slugify(title, max_len=45),  # slug ES, partagé toutes langues
+            })
     return posts
 
 # ── Génération JS ─────────────────────────────────────────────────────────────
@@ -340,9 +347,14 @@ def build_js_entry(post: dict, day: date, order: int, lang: str) -> tuple:
     date_label = format_date(day, lang)
     html_content = text_to_html(paragraphs)
     html_escaped = js_template(html_content)
+    # Image — slug ES conservé pour toutes les langues (même image)
+    image_slug = post.get("image_slug") or slugify(post["title"], max_len=45)
+    featured_image = f"media/guides/actualidad-{image_slug}.jpg"
     block = f'''
     {js_string(key)}: {{
         title: {js_string(title)},
+        featuredImage: {js_string(featured_image)},
+        imageAlt: {js_string(title)},
         description: {js_string(description)},
         keywords: {js_string(keywords)},
         keywordsLocalized: true,
@@ -428,6 +440,7 @@ def main() -> None:
     parser.add_argument("--date", help="Date YYYY-MM-DD. Défaut : aujourd'hui")
     parser.add_argument("--dry-run", action="store_true", help="Affiche sans écrire ni pusher")
     parser.add_argument("--no-push", action="store_true", help="Commit local uniquement, sans git push")
+    parser.add_argument("--exclude", help="Numéros d'articles à exclure, séparés par virgule. Ex : 2,3")
     args = parser.parse_args()
 
     global DEEPL_API_KEY
@@ -460,6 +473,18 @@ def main() -> None:
     if not posts:
         print("\n  [STOP] Aucun post trouvé.")
         sys.exit(0)
+
+    # Filtrage des articles exclus par l'utilisateur
+    if args.exclude:
+        try:
+            excluded_nums = {int(x.strip()) for x in args.exclude.split(",") if x.strip()}
+        except ValueError:
+            print(f"  [ERREUR] --exclude : valeurs invalides ({args.exclude}). Format attendu : 1,2,3")
+            sys.exit(1)
+        if excluded_nums:
+            before = len(posts)
+            posts = [p for p in posts if p["num"] not in excluded_nums]
+            print(f"  Articles exclus : {sorted(excluded_nums)} ({before - len(posts)} retiré(s))")
 
     print(f"\n  Posts trouvés : {len(posts)}")
     for i, post in enumerate(posts, start=1):

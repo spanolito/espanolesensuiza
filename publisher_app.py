@@ -5,6 +5,7 @@ espanolesensuiza.ch Publisher
 """
 
 import calendar
+import io
 import json
 import os
 import queue
@@ -14,8 +15,15 @@ import threading
 from datetime import date, datetime, timedelta
 from pathlib import Path
 import tkinter as tk
-from tkinter import ttk, messagebox
+from tkinter import ttk, messagebox, filedialog
 from tkinter import font as tkfont
+
+# PIL optionnel — clipboard + redimensionnement thumbnails
+try:
+    from PIL import Image as _PILImage, ImageGrab as _ImageGrab, ImageTk as _ImageTk
+    _HAVE_PIL = True
+except ImportError:
+    _HAVE_PIL = False
 
 # ── Configuration ──────────────────────────────────────────────────────────────
 
@@ -52,6 +60,81 @@ C = {
 }
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
+
+POSTS_DIR = "/Users/oscarandujar/Projets/Publications/posts"
+MEDIA_DIR = os.path.join(SITE_DIR, "media", "guides")
+THUMB_W, THUMB_H = 80, 52   # dimensions thumbnail dans l'UI
+
+
+def _img_slugify(text: str, max_len: int = 45) -> str:
+    """Slugify identique à publish_daily_posts.py — même convention de nommage."""
+    replacements = {
+        "á":"a","é":"e","í":"i","ó":"o","ú":"u","ü":"u","ñ":"n",
+        "à":"a","è":"e","ì":"i","ò":"o","ù":"u",
+        "â":"a","ê":"e","î":"i","ô":"o","û":"u",
+        "ä":"a","ë":"e","ï":"i","ö":"o","ÿ":"y",
+        "ç":"c","ß":"ss",
+        "Á":"a","É":"e","Í":"i","Ó":"o","Ú":"u","Ü":"u","Ñ":"n",
+        "À":"a","È":"e","Ì":"i","Ò":"o","Ù":"u",
+        "Â":"a","Ê":"e","Î":"i","Ô":"o","Û":"u",
+        "Ä":"a","Ë":"e","Ï":"i","Ö":"o","Ÿ":"y",
+        "Ç":"c","ª":"a","º":"o",
+    }
+    t = text.lower()
+    for k, v in replacements.items():
+        t = t.replace(k, v)
+    t = re.sub(r"[^a-z0-9\s-]", "", t)
+    t = re.sub(r"[\s]+", "-", t.strip())
+    t = re.sub(r"-+", "-", t)
+    return t[:max_len].rstrip("-") or "article"
+
+
+def _img_filename(es_title: str) -> str:
+    """Retourne le nom de fichier attendu pour l'image d'un article."""
+    return f"actualidad-{_img_slugify(es_title)}.jpg"
+
+
+def _img_path(es_title: str) -> Path:
+    return Path(MEDIA_DIR) / _img_filename(es_title)
+
+
+def _parse_post_titles(date_str: str) -> list[dict]:
+    """
+    Lit posts_{date_str}.md et retourne la liste des articles :
+    [{"num": 1, "title": "...", "filename": "actualidad-xxx.jpg", "path": Path(...)}]
+    """
+    posts_file = Path(POSTS_DIR) / f"posts_{date_str}.md"
+    if not posts_file.exists():
+        return []
+    try:
+        content = posts_file.read_text(encoding="utf-8")
+    except Exception:
+        return []
+    # Extraire les titres : ligne **Titre** après ## POST N
+    title_re = re.compile(
+        r"^##\s+POST\s+(\d+)[^\n]*\n+\*\*(.+?)\*\*", re.MULTILINE
+    )
+    results = []
+    for m in title_re.finditer(content):
+        num   = int(m.group(1))
+        title = m.group(2).strip()
+        fname = _img_filename(title)
+        fpath = Path(MEDIA_DIR) / fname
+        results.append({"num": num, "title": title, "filename": fname, "path": fpath})
+    return results
+
+
+def _save_pil_to_guides(pil_img, dest_path: Path) -> bool:
+    """Convertit et enregistre une image PIL en JPEG dans media/guides/."""
+    try:
+        dest_path.parent.mkdir(parents=True, exist_ok=True)
+        rgb = pil_img.convert("RGB")
+        rgb.save(str(dest_path), "JPEG", quality=88, optimize=True)
+        return True
+    except Exception as exc:
+        messagebox.showerror("Erreur sauvegarde image", str(exc))
+        return False
+
 
 def _darken(hex_color: str, f: float = 0.78) -> str:
     r, g, b = int(hex_color[1:3], 16), int(hex_color[3:5], 16), int(hex_color[5:7], 16)
@@ -544,6 +627,8 @@ class PublisherApp:
         self._hsep()
         self._build_controls()
         self._hsep()
+        self._build_image_section()   # ← nouvelle section images
+        self._hsep()
         self._build_log()
         self._hsep()
         self._build_statusbar()
@@ -601,6 +686,7 @@ class PublisherApp:
 
         # Champ date
         self._date_var   = tk.StringVar()
+        self._date_var.trace_add("write", self._on_date_var_change)
         date_wrap = tk.Frame(left, bg=C["input"], padx=1, pady=1)
         date_wrap.pack(side="left")
         self._date_entry = tk.Entry(
@@ -664,6 +750,284 @@ class PublisherApp:
                                       font_spec=self.f_btn)
         self._btn_launch.pack(side="right")
         Tooltip(self._btn_launch, "Lancer publish_daily_posts.py --no-push  (⌘R)")
+
+    # ── Images des articles ───────────────────────────────────────────────────
+
+    def _build_image_section(self):
+        """Panneau images : dropdown article + slot unique + cases inclusion."""
+        self._img_posts        = []   # list[dict] articles de la date
+        self._img_include_vars = {}   # {num: BooleanVar}
+        self._img_thumbs       = []   # PhotoImage refs (évite le GC)
+        self._img_current      = None # post dict affiché
+
+        # ── En-tête ──
+        hdr = tk.Frame(self.root, bg=C["surface"], padx=18, pady=8)
+        hdr.pack(fill="x")
+        tk.Label(hdr, text="Images des articles",
+                 font=self.f_sm, bg=C["surface"], fg=C["text3"]).pack(side="left")
+        self._img_hint = tk.Label(hdr, text="", font=self.f_sm,
+                                  bg=C["surface"], fg=C["text3"])
+        self._img_hint.pack(side="right")
+
+        # ── Corps ──
+        body = tk.Frame(self.root, bg=C["surface2"], padx=18, pady=10)
+        body.pack(fill="x")
+        self._img_body = body
+
+        # Ligne 1 : sélecteur d'article
+        row_sel = tk.Frame(body, bg=C["surface2"])
+        row_sel.pack(fill="x", pady=(0, 8))
+        tk.Label(row_sel, text="Article :", font=self.f_sm,
+                 bg=C["surface2"], fg=C["text2"]).pack(side="left")
+        self._img_combo_var = tk.StringVar()
+        self._img_combo = ttk.Combobox(row_sel, textvariable=self._img_combo_var,
+                                        state="readonly", width=62,
+                                        font=self.f_sm)
+        self._img_combo.pack(side="left", padx=(8, 0))
+        self._img_combo.bind("<<ComboboxSelected>>", self._on_img_article_selected)
+
+        # Ligne 2 : slot image (contenu dynamique)
+        self._img_slot_frame = tk.Frame(body, bg=C["surface2"])
+        self._img_slot_frame.pack(fill="x", pady=(0, 8))
+
+        # Ligne 3 : cases inclusion
+        self._img_check_frame = tk.Frame(body, bg=C["surface2"])
+        self._img_check_frame.pack(fill="x")
+
+    def _refresh_images(self, date_str: str):
+        """Recharge la section images pour la date donnée."""
+        self._img_posts.clear()
+        self._img_include_vars.clear()
+        self._img_thumbs.clear()
+        self._img_current = None
+
+        # Vider slot + cases
+        for w in self._img_slot_frame.winfo_children():
+            w.destroy()
+        for w in self._img_check_frame.winfo_children():
+            w.destroy()
+
+        posts = _parse_post_titles(date_str)
+        if not posts:
+            self._img_combo["values"] = []
+            self._img_combo_var.set("")
+            self._img_hint.config(text=f"Aucun fichier posts_{date_str}.md", fg=C["text3"])
+            tk.Label(self._img_slot_frame, text="",
+                     bg=C["surface2"]).pack()
+            return
+
+        self._img_posts = posts
+
+        # ── Dropdown ──
+        labels = [f"Article {p['num']}  —  {p['title'][:60]}{'…' if len(p['title']) > 60 else ''}"
+                  for p in posts]
+        self._img_combo["values"] = labels
+        self._img_combo.current(0)
+
+        # ── Cases inclusion ──
+        tk.Label(self._img_check_frame, text="Inclure dans le commit :",
+                 font=self.f_sm, bg=C["surface2"], fg=C["text2"]).pack(side="left")
+        for p in posts:
+            var = tk.BooleanVar(value=True)
+            self._img_include_vars[p["num"]] = var
+            cb = tk.Checkbutton(
+                self._img_check_frame,
+                text=f"Art. {p['num']}",
+                variable=var,
+                font=self.f_sm,
+                bg=C["surface2"], fg=C["text2"],
+                selectcolor=C["input"],
+                activebackground=C["surface2"],
+                activeforeground=C["text"],
+                command=self._on_img_inclusion_changed,
+            )
+            cb.pack(side="left", padx=(10, 0))
+
+        # ── Afficher le premier article ──
+        self._show_img_slot(0)
+        self._update_img_hint()
+
+    def _show_img_slot(self, idx: int):
+        """Affiche le slot image pour l'article à l'index idx."""
+        for w in self._img_slot_frame.winfo_children():
+            w.destroy()
+        self._img_thumbs.clear()
+
+        if not self._img_posts or idx >= len(self._img_posts):
+            return
+
+        post = self._img_posts[idx]
+        self._img_current = post
+        exists = post["path"].exists()
+
+        sf = C["surface2"]
+        row = tk.Frame(self._img_slot_frame, bg=sf, pady=4)
+        row.pack(fill="x")
+
+        # Thumbnail
+        canvas = tk.Canvas(row, width=THUMB_W, height=THUMB_H,
+                           bg=C["input"], highlightthickness=1,
+                           highlightbackground=C["sep"])
+        canvas.pack(side="left", padx=(0, 14))
+        self._img_canvas = canvas
+
+        # Infos centre
+        info = tk.Frame(row, bg=sf)
+        info.pack(side="left", fill="x", expand=True)
+
+        dot_color = C["success"] if exists else C["warn"]
+        status_txt = "Image présente" if exists else "Image manquante"
+        tk.Label(info, text=f"● {status_txt}", font=self.f_sm,
+                 bg=sf, fg=dot_color).pack(anchor="w")
+        fname_lbl = tk.Label(info, text=post["filename"],
+                             font=("Menlo", 11), bg=sf, fg=C["text3"])
+        fname_lbl.pack(anchor="w", pady=(2, 0))
+        Tooltip(fname_lbl, str(post["path"]))
+
+        # Boutons à droite
+        btns = tk.Frame(row, bg=sf)
+        btns.pack(side="right")
+
+        RoundedBtn(btns, "Coller  ⌘V",
+                   command=lambda p=post: self._paste_image(p),
+                   w=120, h=34, r=10,
+                   fill=C["accent"], fg="white",
+                   font_spec=("Helvetica Neue", 12, "bold")).pack(pady=(0, 6))
+        RoundedBtn(btns, "Parcourir…",
+                   command=lambda p=post: self._browse_image(p),
+                   w=120, h=34, r=10,
+                   fill=C["input"], fg=C["text2"],
+                   font_spec=("Helvetica Neue", 12)).pack()
+
+        # Thumbnail
+        if exists:
+            self._draw_thumb(canvas, post["path"])
+        else:
+            canvas.create_text(THUMB_W // 2, THUMB_H // 2,
+                               text="vide", fill=C["text3"],
+                               font=("Helvetica Neue", 10))
+
+    def _draw_thumb(self, canvas: tk.Canvas, path: Path):
+        """Dessine le thumbnail dans le canvas donné."""
+        canvas.delete("all")
+        if not path.exists():
+            canvas.create_text(THUMB_W // 2, THUMB_H // 2,
+                               text="vide", fill=C["text3"],
+                               font=("Helvetica Neue", 10))
+            return
+        if _HAVE_PIL:
+            try:
+                img = _PILImage.open(str(path))
+                img.thumbnail((THUMB_W, THUMB_H), _PILImage.LANCZOS)
+                photo = _ImageTk.PhotoImage(img)
+                self._img_thumbs.append(photo)
+                canvas.create_image(THUMB_W // 2, THUMB_H // 2,
+                                    anchor="center", image=photo)
+                return
+            except Exception:
+                pass
+        # Fallback sans PIL
+        canvas.create_rectangle(2, 2, THUMB_W - 2, THUMB_H - 2,
+                                 fill=C["success"], outline="")
+        canvas.create_text(THUMB_W // 2, THUMB_H // 2,
+                           text="✓", fill="white",
+                           font=("Helvetica Neue", 18, "bold"))
+
+    def _update_img_hint(self):
+        """Recalcule l'indicateur images/inclus dans l'en-tête."""
+        posts = self._img_posts
+        if not posts:
+            self._img_hint.config(text="", fg=C["text3"])
+            return
+        n_img  = sum(1 for p in posts if p["path"].exists())
+        n_inc  = sum(1 for p in posts
+                     if self._img_include_vars.get(p["num"],
+                        tk.BooleanVar(value=True)).get())
+        n_tot  = len(posts)
+        all_ok = n_img == n_tot and n_inc == n_tot
+        self._img_hint.config(
+            text=f"{n_img}/{n_tot} images · {n_inc}/{n_tot} inclus",
+            fg=C["success"] if all_ok else C["warn"]
+        )
+
+    def _on_img_article_selected(self, _=None):
+        idx = self._img_combo.current()
+        self._show_img_slot(idx)
+
+    def _on_img_inclusion_changed(self):
+        self._update_img_hint()
+
+    def get_excluded_articles(self) -> list[int]:
+        """Retourne la liste des numéros d'articles exclus du commit."""
+        return [num for num, var in self._img_include_vars.items()
+                if not var.get()]
+
+    def _paste_image(self, post: dict):
+        """Colle l'image du presse-papiers et la sauvegarde."""
+        if not _HAVE_PIL:
+            messagebox.showwarning("PIL manquant",
+                "Pillow n'est pas installé.\n"
+                "pip install Pillow --break-system-packages")
+            return
+        try:
+            img = _ImageGrab.grabclipboard()
+        except Exception as exc:
+            messagebox.showerror("Erreur presse-papiers", str(exc))
+            return
+        if img is None:
+            messagebox.showinfo("Presse-papiers vide",
+                "Aucune image trouvée dans le presse-papiers.\n"
+                "Copiez d'abord une image (Cmd+C depuis Preview, Finder, Safari…)")
+            return
+        if _save_pil_to_guides(img, post["path"]):
+            self._after_img_save(post)
+
+    def _browse_image(self, post: dict):
+        """Ouvre le sélecteur de fichier et sauvegarde l'image choisie."""
+        src = filedialog.askopenfilename(
+            title=f"Image — {post['title'][:55]}",
+            filetypes=[
+                ("Images", "*.jpg *.jpeg *.png *.webp *.tiff *.bmp *.gif"),
+                ("Tous les fichiers", "*.*"),
+            ],
+        )
+        if not src:
+            return
+        if not _HAVE_PIL:
+            import shutil
+            try:
+                shutil.copy2(src, str(post["path"]))
+                self._after_img_save(post)
+            except Exception as exc:
+                messagebox.showerror("Erreur copie", str(exc))
+            return
+        try:
+            img = _PILImage.open(src)
+        except Exception as exc:
+            messagebox.showerror("Erreur lecture image", str(exc))
+            return
+        if _save_pil_to_guides(img, post["path"]):
+            self._after_img_save(post)
+
+    def _after_img_save(self, post: dict):
+        """Rafraîchit l'UI après qu'une image a été sauvegardée."""
+        # Mettre à jour la date dans _img_posts (le path peut maintenant exister)
+        for p in self._img_posts:
+            if p["num"] == post["num"]:
+                break
+        # Redessiner le slot si c'est l'article affiché
+        if self._img_current and self._img_current["num"] == post["num"]:
+            self._draw_thumb(self._img_canvas, post["path"])
+            # Mettre à jour le label statut
+            for w in self._img_slot_frame.winfo_children():
+                if isinstance(w, tk.Frame):
+                    for child in w.winfo_children():
+                        if isinstance(child, tk.Frame):
+                            for lbl in child.winfo_children():
+                                if isinstance(lbl, tk.Label) and "manquante" in (lbl.cget("text") or ""):
+                                    lbl.config(text="● Image présente", fg=C["success"])
+                                    break
+        self._update_img_hint()
 
     # ── Journal ───────────────────────────────────────────────────────────────
 
@@ -871,6 +1235,17 @@ class PublisherApp:
         self._date_entry.config(fg=C["text"])
         self._date_var.set((date.today() - timedelta(days=1)).strftime("%Y-%m-%d"))
 
+    def _on_date_var_change(self, *_):
+        """Rafraîchit les slots images dès que la date est valide."""
+        val = self._date_var.get().strip()
+        if re.match(r"^\d{4}-\d{2}-\d{2}$", val):
+            # Petit délai pour ne pas rafraîchir à chaque frappe intermédiaire
+            if hasattr(self, "_img_refresh_job"):
+                self.root.after_cancel(self._img_refresh_job)
+            self._img_refresh_job = self.root.after(
+                400, lambda: self._refresh_images(val)
+            )
+
     # ── Calendrier ────────────────────────────────────────────────────────────
 
     def _toggle_cal(self):
@@ -921,6 +1296,10 @@ class PublisherApp:
         else:
             self._set_status("Prêt", C["text3"], ts=False)
 
+        # Charger les images pour la date du jour par défaut
+        today = date.today().strftime("%Y-%m-%d")
+        self._date_var.set(today)   # déclenche le trace → _refresh_images
+
     # ── Lancement ─────────────────────────────────────────────────────────────
 
     def _launch(self, _=None):
@@ -936,6 +1315,10 @@ class PublisherApp:
         cmd = [PYTHON_PATH, "-u", SCRIPT_PATH, "--no-push"]
         if date_val:
             cmd += ["--date", date_val]
+
+        excluded = self.get_excluded_articles()
+        if excluded:
+            cmd += ["--exclude", ",".join(str(n) for n in sorted(excluded))]
 
         self._log_clear()
         self._hide_cal()
