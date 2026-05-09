@@ -12219,6 +12219,8 @@ window.siteContent.es.articles = {
         slug: "la-13-pensi-n-avs-qu-es-cu-ndo-llega-y-a-qui-n-afecta",
         readingTime: 3,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/pension-avs-suiza.jpg",
+        imageAlt: "Persona mayor revisando su pension AVS en Suiza",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>La iniciativa popular "por una mejor vida en la jubilación" fue aceptada el 3 de marzo de 2024 por el pueblo suizo con el 58,2% de los votos. La consecuencia directa: a partir de diciembre de 2026, todos los pensionistas con una renta AVS recibirán por primera vez una decimotercera mensualidad, equivalente a un pago mensual completo. El importe oscila entre los 1.225 CHF mínimos y los 2.520 CHF máximos, según los años de cotización acumulados. Para quien cobra la renta máxima, hablamos de 2.520 CHF extra en un solo pago.
@@ -12243,6 +12245,8 @@ Si tienes entre 55 y 65 años, este es el momento de solicitar tu extracto de cu
         slug: "el-impuesto-a-la-fuente-en-suiza-lo-que-tu-n-mina-no-te-explica",
         readingTime: 3,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/declaracion-impuesto-fuente-suiza.jpg",
+        imageAlt: "Persona calculando su declaracion de impuestos a la fuente en Suiza",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>Si tienes permiso B o L y trabajas en Suiza, es probable que nunca hayas hecho una declaración de impuestos. No es que estés exento: es que tu empleador retiene el impuesto directamente de tu salario cada mes. A eso se le llama impuesto a la fuente, Quellensteuer en alemán, impôt à la source en francés. El sistema es aparentemente cómodo, pero esconde matices que pueden costarte cientos o incluso miles de francos si no conoces los derechos que te asisten.
@@ -12267,6 +12271,8 @@ Las diferencias cantonales en este punto son relevantes. El umbral federal de 12
         slug: "a-os-cotizados-en-espa-a-cuentan-para-tu-jubilaci-n-en-suiza",
         readingTime: 3,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/cotizados-espana-jubilacion-suiza.jpg",
+        imageAlt: "Persona revisando sus anos cotizados en Espana para la jubilacion en Suiza",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>Hay una pregunta que surge con regularidad entre los españoles que llegaron a Suiza siendo adultos y que trabajaron varios años en España antes de emigrar: ¿esos años de cotización sirven para algo aquí? La respuesta es sí, pero con un matiz crucial que muy pocos explican con precisión, y que marca la diferencia entre entender bien tu situación de jubilación o planificarla sobre una base equivocada.
@@ -12291,6 +12297,8 @@ La recomendación práctica, especialmente si tienes más de 55 años, es clara:
         slug: "venir-a-trabajar-a-suiza-lo-que-necesitas-tener-resuelto-antes-de-llegar",
         readingTime: 2,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/venir-trabajar-suiza-preparacion.jpg",
+        imageAlt: "Persona preparando su mudanza para venir a trabajar en Suiza",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>Hay una confusión que se repite constantemente en los grupos de españoles en Suiza: la idea de que, como ciudadano de la UE, puedes venir a Suiza, instalarte y ya buscarás trabajo y piso cuando estés aquí. La libre circulación existe, sí, pero tiene condiciones que los servicios de migración cantonales aplican con más rigor que antes. Venir sin contrato de trabajo y sin domicilio confirmado es, en la práctica, empezar con el pie izquierdo.
@@ -12313,6 +12321,8 @@ Para los que ya están aquí o están planificando el traslado, el mensaje es se
         slug: "el-14-de-junio-suiza-vota-si-limita-su-poblaci-n-a-10-millones",
         readingTime: 2,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/referendum-suiza-poblacion.jpg",
+        imageAlt: "Urna de votacion en un referendum suizo sobre la limitacion de poblacion",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>El 14 de junio de 2026, los ciudadanos suizos irán a las urnas para pronunciarse sobre una de las iniciativas populares más directamente relevantes para los residentes extranjeros en décadas. La iniciativa, impulsada por la UDC (Unión Democrática de Centro), propone inscribir en la Constitución federal la obligación de mantener la población total de Suiza por debajo de los 10 millones de personas antes de 2050. El país tiene actualmente unos 9,1 millones de habitantes, de los cuales el 27% son extranjeros.
@@ -12335,6 +12345,8 @@ Si eres residente extranjero en Suiza, no puedes votar en esta votación federal
         slug: "lpp-2026-las-pensiones-de-invalidez-y-supervivencia-por-fin-ajustadas-a-los-precios",
         readingTime: 2,
         dateUpdated: "2026-04-16",
+        featuredImage: "media/guides/lpp-2026-pensiones-invalidez-suiza.jpg",
+        imageAlt: "Persona mayor recibiendo informacion sobre su pension LPP de invalidez en Suiza",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>Hay un cambio que entró en vigor el 1 de enero de 2026 y que ha pasado bastante desapercibido en los grupos de españoles en Suiza, pero que afecta a una parte muy concreta de la comunidad: las personas que cobran una pensión de invalidez del segundo pilar (LPP) o una pensión de supervivencia como viuda, viudo o huérfano, también derivada del LPP obligatorio. Por primera vez desde que existe este seguro, esas pensiones se han ajustado a la evolución del coste de la vida.
@@ -12357,6 +12369,8 @@ Este tipo de cambio no aparece en ninguna carta oficial con título llamativo. L
         slug: "tardoc-lo-que-ha-cambiado-en-tu-consulta-m-dica-desde-enero-de-2026",
         readingTime: 2,
         dateUpdated: "2026-04-17",
+        featuredImage: "media/guides/tardoc-consulta-medica-suiza.jpg",
+        imageAlt: "Medico atendiendo a un paciente en una consulta medica en Suiza",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>Desde el 1 de enero de 2026, cada vez que vas al médico en Suiza, la factura que llega a tu aseguradora ya no se calcula con el viejo sistema Tarmed. Lo que ha entrado en vigor se llama Tardoc, junto con una serie de tarifas planas para determinadas prestaciones ambulatorias. El cambio puede parecer técnico, pero afecta a todo el mundo.
@@ -12377,6 +12391,8 @@ Para el paciente, el cambio no debería traducirse en facturas más altas. El Co
         slug: "el-permiso-c-cinco-a-os-despu-s-hay-algo-que-pedir",
         readingTime: 2,
         dateUpdated: "2026-04-17",
+        featuredImage: "media/guides/permiso-c-suiza.jpg",
+        imageAlt: "Tarjeta de permiso de residencia C en Suiza para residentes de larga duracion",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>Hay una pregunta que aparece con regularidad en los grupos: "¿Cuántos años tengo que llevar aquí para tener el permiso C?" La respuesta corta es cinco años si eres ciudadano de la UE, como lo son los españoles. Pero la respuesta útil es algo más larga.
@@ -12397,6 +12413,8 @@ Para solicitarlo, además de los cinco años de residencia continuada, las autor
         slug: "si-pierdes-el-trabajo-en-suiza-esto-es-lo-que-debes-saber-desde-el-primer-d-a",
         readingTime: 2,
         dateUpdated: "2026-04-17",
+        featuredImage: "media/guides/perder-trabajo-suiza-desempleo.jpg",
+        imageAlt: "Persona desempleada buscando trabajo en Suiza tras perder su empleo",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>El desempleo en Suiza ha estado creciendo desde mediados de 2024. En diciembre de 2025 alcanzó el 3,1%, y la SECO prevé que siga subiendo moderadamente en 2026. No es una crisis, pero tampoco es el mercado laboral invulnerable de hace unos años. Los extranjeros, incluidos los españoles, son estadísticamente más afectados que los ciudadanos suizos.
@@ -12415,6 +12433,8 @@ Un detalle que muy poca gente conoce: si has trabajado y cotizado en España ant
         slug: "el-fin-de-la-penalizaci-n-fiscal-al-matrimonio-en-suiza-lo-que-cambia-y-cu-ndo",
         readingTime: 2,
         dateUpdated: "2026-04-18",
+        featuredImage: "media/guides/penalizacion-fiscal-matrimonio-suiza.jpg",
+        imageAlt: "Pareja revisando su declaracion fiscal conjunta en Suiza tras el fin de la penalizacion al matrimonio",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>El 8 de marzo de 2026, los suizos aprobaron por el 54,26% la ley federal sobre la tributación individual. En la práctica, significa el fin de décadas de un sistema que penalizaba fiscalmente a las parejas casadas respecto a quienes convivían sin casarse. A partir de ahora, cada cónyuge declarará y tributará por sus propios ingresos y patrimonio, exactamente como si fuera soltero. La reforma no entra en vigor mañana, sino como máximo en 2032, lo que deja tiempo a la administración para adaptarse a 1,7 millones de declaraciones adicionales.
@@ -12435,6 +12455,8 @@ Lo que no debe perderse de vista es el argumento detrás de la reforma: el siste
         slug: "el-taux-de-r-f-rence-se-mantiene-en-1-25-ni-bajas-de-alquiler-ni-subidas-para-los-inquilinos-suizos",
         readingTime: 2,
         dateUpdated: "2026-04-18",
+        featuredImage: "media/guides/taux-reference-alquiler-suiza.jpg",
+        imageAlt: "Apartamento en alquiler en Suiza con el taux de reference estable al 1,25 por ciento",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>En marzo de 2026, el Bundesamt für Wohnungswesen (BWO) confirmó que el taux hypothécaire de référence, el indicador que en Suiza regula la posibilidad de modificar los alquileres, se mantiene en el 1,25%. La noticia tiene una lectura doble. Por un lado, los propietarios no pueden exigir subidas de alquiler basándose en este índice. Por el otro, y aunque parezca una buena noticia para los inquilinos, tampoco tienen derecho a reclamar una bajada.
@@ -12455,6 +12477,8 @@ Desde el punto de vista práctico, si en los últimos años tu propietario subi�
         slug: "las-subvenciones-a-las-primas-del-seguro-m-dico-un-dinero-al-que-muchos-tienen-derecho-y-no-piden",
         readingTime: 2,
         dateUpdated: "2026-04-18",
+        featuredImage: "media/guides/subvenciones-primas-seguro-medico-suiza.jpg",
+        imageAlt: "Formulario de solicitud de subvencion para las primas del seguro medico en Suiza",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>Las primas del seguro de enfermedad en Suiza subieron entre un 4% y un 15% según el cantón en 2026, con casos llamativos como Nidwald (+15%) o Zug (+11%). Lo que mucha gente no sabe es que existe un sistema de ayudas cantonales para reducir el coste, las llamadas "Prämienverbilligung" (IPT, en francés), y que una parte significativa de los residentes que tendrían derecho a ellas simplemente no las solicitan, ya sea por desconocimiento o por creer que son solo para personas en situación de precariedad.
@@ -12473,6 +12497,8 @@ El primer paso, y el más sencillo, es consultar el portal del cantón de reside
         slug: "la-regla-de-los-90-d-as-en-suiza-lo-que-confunde-a-muchos-espa-oles",
         readingTime: 2,
         dateUpdated: "2026-04-19",
+        featuredImage: "media/guides/regla-90-dias-suiza.jpg",
+        imageAlt: "Pasaporte con sello de entrada en la frontera suiza y la regla de los 90 dias Schengen",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>Hay un malentendido que reaparece constantemente en el grupo y que vale la pena aclarar de una vez. Los ciudadanos españoles pueden entrar en Suiza sin visado y sin ningún permiso previo. Hasta ahí, todo correcto. Pero eso no significa que puedan instalarse o ponerse a trabajar sin más trámite simplemente porque tengan pasaporte europeo.
@@ -12495,6 +12521,8 @@ Hay un elemento adicional que empieza a circular y que conviene conocer: el ETIA
         slug: "encontrar-piso-en-suiza-en-2026-bienvenido-al-deporte-m-s-frustrante-del-pa-s",
         readingTime: 2,
         dateUpdated: "2026-04-19",
+        featuredImage: "media/guides/encontrar-piso-suiza-2026.jpg",
+        imageAlt: "Persona buscando piso en Suiza en 2026 en un mercado inmobiliario muy competitivo",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>Si algo une a casi todos los que llevamos tiempo en Suiza es la experiencia de buscar piso. Da igual que hables cuatro idiomas, tengas un salario decente y referencias impecables: el mercado de alquiler sigue siendo uno de los más tensos de Europa y en 2026 no ha mejorado. La tasa de vacancia de viviendas, es decir el porcentaje de pisos disponibles sobre el total, se sitúa en niveles históricamente bajos, especialmente en las grandes ciudades. En Zúrich y Ginebra encontrar un piso de alquiler en condiciones razonables es una prueba de resistencia psicológica más que un proceso racional.
@@ -12515,6 +12543,8 @@ Lo que muchos recién llegados no calculan es el tiempo. Encontrar un piso en co
         slug: "suiza-no-tiene-salario-m-nimo-nacional-pero-eso-no-significa-que-no-haya-suelo-salarial",
         readingTime: 2,
         dateUpdated: "2026-04-19",
+        featuredImage: "media/guides/salario-minimo-suiza-cantones.jpg",
+        imageAlt: "Trabajador en Suiza consultando el convenio colectivo sobre el salario minimo por canton",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>Es uno de esos temas que genera confusión desde el primer día. Técnicamente, Suiza no tiene un salario mínimo fijado a nivel federal. Pero decir que "en Suiza no hay salario mínimo" es simplificar hasta el punto de desinformar, porque en la práctica sí existen suelos salariales bien definidos, solo que funcionan de manera diferente a lo que conocemos en España.
