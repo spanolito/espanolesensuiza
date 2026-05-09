@@ -12829,10 +12829,9 @@ The practical recommendation, especially if you are over 55 years old, is clear:
         slug: "venir-a-trabajar-a-suiza-lo-que-necesitas-tener-resuelto-antes-de-llegar",
         readingTime: 2,
         dateUpdated: "2026-04-16",
-        featuredImage: "media/guides/venir-trabajar-suiza-preparacion.jpg",
-        imageAlt: "Person preparing to move to work in Switzerland",
+        featuredImage: "media/guides/actualidad-inmigracion-suiza.png",
+        imageAlt: "Immigration to Switzerland: sign on the road with Swiss flag",
         summary: "Community guide based on recent and verified experiences.",
-        imageAlt: "",
         content: `<div class="article-content"> 
 <p>There is a confusion that is constantly repeated in groups of Spaniards in Switzerland: the idea that, as an EU citizen, you can come to Switzerland, settle and you will look for work and an apartment when you are here. Free movement exists, yes, but it has conditions that the cantonal migration services apply more rigorously than before. Coming without an employment contract and without a confirmed address is, in practice, starting off on the wrong foot. 
 

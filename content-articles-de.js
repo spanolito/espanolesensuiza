@@ -12843,10 +12843,9 @@ Die praktische Empfehlung, insbesondere wenn Sie über 55 Jahre alt sind, ist kl
         slug: "venir-a-trabajar-a-suiza-lo-que-necesitas-tener-resuelto-antes-de-llegar",
         readingTime: 2,
         dateUpdated: "2026-04-16",
-        featuredImage: "media/guides/venir-trabajar-suiza-preparacion.jpg",
-        imageAlt: "Person, die sich auf einen Umzug zur Arbeit in die Schweiz vorbereitet",
+        featuredImage: "media/guides/actualidad-inmigracion-suiza.png",
+        imageAlt: "Einwanderung in die Schweiz: Schild auf der Straße mit Schweizer Flagge",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
-        imageAlt: "",
         content: `<div class="article-content">
 <p>Es gibt eine Verwirrung, die sich in Gruppen von Spaniern in der Schweiz immer wieder wiederholt: Die Vorstellung, dass man als EU-Bürger in die Schweiz kommen, sich niederlassen kann und sich dann, wenn man hier ist, nach Arbeit und einer Wohnung umsieht. Freizügigkeit gibt es zwar, aber sie ist an Bedingungen geknüpft, die die kantonalen Migrationsdienste strenger als bisher anwenden. Ohne Arbeitsvertrag und ohne bestätigte Adresse zu kommen, ist in der Praxis ein Fehlstart. 
 

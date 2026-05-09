@@ -12839,10 +12839,9 @@ La raccomandazione pratica, soprattutto se hai più di 55 anni, è chiara: richi
         slug: "venir-a-trabajar-a-suiza-lo-que-necesitas-tener-resuelto-antes-de-llegar",
         readingTime: 2,
         dateUpdated: "2026-04-16",
-        featuredImage: "media/guides/venir-trabajar-suiza-preparacion.jpg",
-        imageAlt: "Persona che si prepara a trasferirsi per lavorare in Svizzera",
-        summary: "C'è una confusione che si ripete costantemente nei gruppi di spagnoli in Svizzera: l'idea che, come cittadino dell'UE, puoi venire in Svizzera,…",
-        imageAlt: "",
+        featuredImage: "media/guides/actualidad-inmigracion-suiza.png",
+        imageAlt: "Immigrazione in Svizzera: cartello stradale con bandiera svizzera",
+        summary: "Guida della comunità basata su esperienze recenti e verificate.",
         content: `<div class="article-content">
 <p>C'è una confusione che si ripete costantemente nei gruppi di spagnoli in Svizzera: l'idea che, come cittadino dell'UE, puoi venire in Svizzera, stabilirti e cercare lavoro e un appartamento quando sei qui. La libera circolazione esiste sì, ma prevede condizioni che i servizi cantonali della migrazione applicano in modo più rigoroso rispetto a prima. Arrivare senza contratto di lavoro e senza domicilio confermato significa, in pratica, partire con il piede sbagliato. 
 

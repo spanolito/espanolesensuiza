@@ -12298,8 +12298,8 @@ La recomendación práctica, especialmente si tienes más de 55 años, es clara:
         slug: "venir-a-trabajar-a-suiza-lo-que-necesitas-tener-resuelto-antes-de-llegar",
         readingTime: 2,
         dateUpdated: "2026-04-16",
-        featuredImage: "media/guides/venir-trabajar-suiza-preparacion.jpg",
-        imageAlt: "Persona preparando su mudanza para venir a trabajar en Suiza",
+        featuredImage: "media/guides/actualidad-inmigracion-suiza.png",
+        imageAlt: "Inmigración a Suiza: cartel en la carretera con bandera suiza",
         summary: "Guía de la comunidad basada en experiencias recientes y verificadas.",
         content: `<div class="article-content">
 <p>Hay una confusión que se repite constantemente en los grupos de españoles en Suiza: la idea de que, como ciudadano de la UE, puedes venir a Suiza, instalarte y ya buscarás trabajo y piso cuando estés aquí. La libre circulación existe, sí, pero tiene condiciones que los servicios de migración cantonales aplican con más rigor que antes. Venir sin contrato de trabajo y sin domicilio confirmado es, en la práctica, empezar con el pie izquierdo.
