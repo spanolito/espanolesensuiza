@@ -12756,7 +12756,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         readingTime: 3,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/pension-avs-suiza.jpg",
-        imageAlt: "Persona mayor revisando su pension AVS en Suiza",
+        imageAlt: "Anziano che controlla la sua rendita AVS in Svizzera",
         summary: "L'iniziativa popolare \"Per una vita migliore in pensione\" è stata accettata il 3 marzo 2024 dal popolo svizzero con il 58,2% dei voti. La conseguenza…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12784,7 +12784,7 @@ Se avete tra i 55 e i 65 anni è il momento di richiedere il vostro estratto con
         readingTime: 3,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/declaracion-impuesto-fuente-suiza.jpg",
-        imageAlt: "Persona calculando su declaracion de impuestos a la fuente en Suiza",
+        imageAlt: "Persona che calcola la dichiarazione dei redditi alla fonte in Svizzera",
         summary: "Se hai un permesso B o L e lavori in Svizzera, probabilmente non hai mai presentato la dichiarazione dei redditi. Non è che sei esente: è che il tuo…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12812,7 +12812,7 @@ Le differenze cantonali su questo punto sono rilevanti. La soglia federale di 12
         readingTime: 3,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/cotizados-espana-jubilacion-suiza.jpg",
-        imageAlt: "Persona revisando sus anos cotizados en Espana para la jubilacion en Suiza",
+        imageAlt: "Persona che rivede i propri anni di contributi in Spagna per la pensione in Svizzera",
         summary: "C'è una domanda che si pone regolarmente tra gli spagnoli arrivati in Svizzera da adulti e che hanno lavorato per diversi anni in Spagna prima di…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12840,7 +12840,7 @@ La raccomandazione pratica, soprattutto se hai più di 55 anni, è chiara: richi
         readingTime: 2,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/venir-trabajar-suiza-preparacion.jpg",
-        imageAlt: "Persona preparando su mudanza para venir a trabajar en Suiza",
+        imageAlt: "Persona che si prepara a trasferirsi per lavorare in Svizzera",
         summary: "C'è una confusione che si ripete costantemente nei gruppi di spagnoli in Svizzera: l'idea che, come cittadino dell'UE, puoi venire in Svizzera,…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12866,7 +12866,7 @@ Per chi è già qui o sta progettando il trasloco, il messaggio è semplice: pri
         readingTime: 2,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/referendum-suiza-poblacion.jpg",
-        imageAlt: "Urna de votacion en un referendum suizo sobre la limitacion de poblacion",
+        imageAlt: "Urne elettorali in un referendum svizzero sulla limitazione della popolazione",
         summary: "Il 14 giugno 2026 i cittadini svizzeri si recheranno alle urne per votare su una delle iniziative popolari di più diretta rilevanza per gli stranieri…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12892,7 +12892,7 @@ Se risiedi straniero in Svizzera, non puoi votare in questa votazione federale, 
         readingTime: 2,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/lpp-2026-pensiones-invalidez-suiza.jpg",
-        imageAlt: "Persona mayor recibiendo informacion sobre su pension LPP de invalidez en Suiza",
+        imageAlt: "Persona anziana che riceve informazioni sulla sua rendita d'invalidità LPP in Svizzera",
         summary: "C'è un cambiamento entrato in vigore il 1° gennaio 2026 e che è passato in gran parte inosservato tra i gruppi di spagnoli in Svizzera, ma che…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12918,7 +12918,7 @@ Questo tasso di cambio non compare in nessuna lettera ufficiale dal titolo accat
         readingTime: 2,
         dateUpdated: "2026-04-17",
         featuredImage: "media/guides/tardoc-consulta-medica-suiza.jpg",
-        imageAlt: "Medico atendiendo a un paciente en una consulta medica en Suiza",
+        imageAlt: "Medico che assiste un paziente durante una visita medica in Svizzera",
         summary: "Dal 1° gennaio 2026, ogni volta che vai dal medico in Svizzera, la fattura che arriva al tuo assicuratore non viene più calcolata con il vecchio…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12942,7 +12942,7 @@ Per il paziente, il cambiamento non dovrebbe tradursi in fatture più alte. Il C
         readingTime: 2,
         dateUpdated: "2026-04-17",
         featuredImage: "media/guides/permiso-c-suiza.jpg",
-        imageAlt: "Tarjeta de permiso de residencia C en Suiza para residentes de larga duracion",
+        imageAlt: "Carta del permesso di soggiorno C in Svizzera per soggiornanti di lungo periodo",
         summary: "C'è una domanda che ricorre regolarmente nei gruppi: \"Quanti anni devo essere qui per avere il permesso C?\" La risposta breve è cinque anni se sei…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12966,7 +12966,7 @@ Per richiederlo, oltre ai cinque anni di residenza continuativa, le autorità ve
         readingTime: 2,
         dateUpdated: "2026-04-17",
         featuredImage: "media/guides/perder-trabajo-suiza-desempleo.jpg",
-        imageAlt: "Persona desempleada buscando trabajo en Suiza tras perder su empleo",
+        imageAlt: "Disoccupato che cerca lavoro in Svizzera dopo aver perso il lavoro",
         summary: "La disoccupazione in Svizzera è in aumento dalla metà del 2024. Nel dicembre 2025 ha raggiunto il 3,1% e la SECO prevede che continuerà a crescere…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12988,7 +12988,7 @@ Un dettaglio che pochissimi sanno: se hai lavorato e contribuito in Spagna prima
         readingTime: 2,
         dateUpdated: "2026-04-18",
         featuredImage: "media/guides/penalizacion-fiscal-matrimonio-suiza.jpg",
-        imageAlt: "Pareja revisando su declaracion fiscal conjunta en Suiza tras el fin de la penalizacion al matrimonio",
+        imageAlt: "Coppia rivede la dichiarazione dei redditi congiunta in Svizzera dopo la fine della pena matrimoniale",
         summary: "L'8 marzo 2026 la Svizzera ha approvato con il 54,26% della legge federale sulla tassazione individuale. In pratica significa la fine di decenni di…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -13012,7 +13012,7 @@ Ciò che non va perso di vista è l’argomento alla base della riforma: il sist
         readingTime: 2,
         dateUpdated: "2026-04-18",
         featuredImage: "media/guides/taux-reference-alquiler-suiza.jpg",
-        imageAlt: "Apartamento en alquiler en Suiza con el taux de reference estable al 1,25 por ciento",
+        imageAlt: "Appartamento in affitto in Svizzera con tassa di riferimento stabile all'1,25%.",
         summary: "Nel marzo 2026, il Bundesamt für Wohnungswesen (BWO) ha confermato che il taux Hypothécaire de référence, l'indicatore che in Svizzera regola la…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -13036,7 +13036,7 @@ Da un punto di vista pratico, se negli ultimi anni il tuo padrone di casa ha aum
         readingTime: 2,
         dateUpdated: "2026-04-18",
         featuredImage: "media/guides/subvenciones-primas-seguro-medico-suiza.jpg",
-        imageAlt: "Formulario de solicitud de subvencion para las primas del seguro medico en Suiza",
+        imageAlt: "Modulo per la richiesta di sussidio per i premi dell'assicurazione sanitaria in Svizzera",
         summary: "Nel 2026 i premi della cassa malati in Svizzera sono aumentati tra il 4% e il 15% a seconda del cantone, con casi eclatanti come Nidvaldo (+15%) o…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -13058,7 +13058,7 @@ Il primo e più semplice passo è consultare il portale del cantone di residenza
         readingTime: 2,
         dateUpdated: "2026-04-19",
         featuredImage: "media/guides/regla-90-dias-suiza.jpg",
-        imageAlt: "Pasaporte con sello de entrada en la frontera suiza y la regla de los 90 dias Schengen",
+        imageAlt: "Passaporto con timbro d'ingresso alla frontiera svizzera e regola Schengen di 90 giorni",
         summary: "C'è un malinteso che si ripresenta costantemente nel gruppo e che vale la pena chiarire una volta per tutte. I cittadini spagnoli possono entrare in…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -13084,7 +13084,7 @@ C’è un ulteriore elemento che comincia a circolare e che vale la pena conosce
         readingTime: 2,
         dateUpdated: "2026-04-19",
         featuredImage: "media/guides/encontrar-piso-suiza-2026.jpg",
-        imageAlt: "Persona buscando piso en Suiza en 2026 en un mercado inmobiliario muy competitivo",
+        imageAlt: "Persona che cerca un appartamento in Svizzera nel 2026 in un mercato immobiliare molto competitivo",
         summary: "Se qualcosa accomuna quasi tutti noi che siamo in Svizzera da un po', è l'esperienza di cercare un appartamento. Non importa se parli quattro lingue,…",
         imageAlt: "",
         content: `<div class="article-content">
@@ -13108,7 +13108,7 @@ Ciò che molti nuovi arrivati ​​non calcolano è il tempo. Trovare un appart
         readingTime: 2,
         dateUpdated: "2026-04-19",
         featuredImage: "media/guides/salario-minimo-suiza-cantones.jpg",
-        imageAlt: "Trabajador en Suiza consultando el convenio colectivo sobre el salario minimo por canton",
+        imageAlt: "Lavoratore in Svizzera consulta il contratto collettivo sul salario minimo cantonale",
         summary: "È uno di quegli argomenti che genera confusione fin dal primo giorno. Tecnicamente, la Svizzera non ha un salario minimo fissato a livello federale.…",
         imageAlt: "",
         content: `<div class="article-content">

@@ -1,6 +1,6 @@
 /**
  * content-articles-facebook-daily-fr.js
- * Auto-generated from daily Markdown posts.
+ * Auto-generated from Spanish source of truth.
  */
 
 window.siteContent = window.siteContent || {};
@@ -20,10 +20,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "20 avril 2026",
         featuredImage: "media/guides/actualidad-renta-espanola-suiza.jpg",
-        imageAlt: "Formulario de declaración de la renta española para residentes en Suiza",
+        imageAlt: "Formulaire espagnol de déclaration d'impôt sur le revenu pour les résidents en Suisse",
         summary: "La campagne Impôt sur le revenu des personnes physiques 2025 a débuté en Espagne le 8 avril et se terminera le 30 juin 2026. Si vous habitez en Suisse et y avez votre domicile fiscal, en principe pas...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>La campagne Impôt sur le revenu des personnes physiques 2025 a débuté en Espagne le 8 avril et se terminera le 30 juin 2026. Si vous résidez en Suisse et y avez votre résidence fiscale, vous n'êtes en principe pas résident fiscal en Espagne et vous n'y payez pas d'impôts sur vos revenus mondiaux. En attendant, tout est clair. Le problème est que « en principe » ne signifie pas « en aucun cas », et il existe des situations spécifiques qui nous obligent à continuer de surveiller le fisc espagnol.</p>
 <p>Si vous avez un appartement loué en Espagne, des revenus du capital espagnol, une pension de la Sécurité sociale espagnole ou si vous avez vendu un bien immobilier en 2025, vous avez toujours des obligations envers le Trésor espagnol. Dans certains cas, vous êtes imposé directement en Espagne via l'impôt sur le revenu des non-résidents (formulaire 210), et dans d'autres, la convention de double imposition entre la Suisse et l'Espagne détermine où l'impôt est payé et s'il existe un droit à une exonération ou à un crédit d'impôt dans l'autre pays. Cet accord, signé en 1977 et révisé, est le cadre qui réglemente ces cas, et il convient de le lire attentivement avant de supposer que « cela ne vous concerne plus ».</p>
 <p>Si vous êtes arrivé en Suisse courant 2025, l’année fiscale peut être partagée entre deux pays. Pendant les mois où vous résidiez en Espagne, vous étiez résident espagnol, ce qui génère des obligations de déclaration pour les revenus de cette période. Et si vous possédez en dehors de l'Espagne des actifs dépassant 50 000 euros (comptes bancaires, immobilier, fonds d'investissement), le modèle 720 continue d'exister même si les sanctions disproportionnées ont été déclarées contraires au droit européen.</p>
@@ -42,10 +42,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "20 avril 2026",
         featuredImage: "media/guides/actualidad-suiza-trump-aranceles.jpg",
-        imageAlt: "Negociación comercial entre Suiza y Estados Unidos sobre aranceles",
+        imageAlt: "Négociation commerciale entre la Suisse et les Etats-Unis sur les tarifs douaniers",
         summary: "Début 2025, l’administration Trump a imposé des droits de douane de 39% sur les exportations suisses vers les États-Unis, l’un des pourcentages les plus élevés de tous les pays.",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Début 2025, l’administration Trump a imposé des droits de douane de 39 % sur les exportations suisses vers les États-Unis, un des pourcentages les plus élevés de toute l’Europe. Pour un pays dont l’économie dépend largement des exportations de produits pharmaceutiques, de montres, de machines de précision et d’instruments médicaux, le coup a été considérable. Il y a une certaine ironie dans le fait que la Suisse, un pays neutre qui n’a été impliqué dans aucune guerre depuis des siècles, est soudainement devenue l’un des « ennemis commerciaux » préférés de Washington.</p>
 <p>Le gouvernement suisse a négocié et obtenu une réduction à 15%, la plaçant au même niveau que l'Union européenne. L'accord est un soulagement relatif : les secteurs les plus exposés, notamment le secteur pharmaceutique avec Roche et Novartis aux commandes, peuvent respirer un peu mieux, mais les contrats suspendus, les investissements paralysés et les projets reportés pendant les mois d'incertitude ne sont pas récupérés par une annonce. Le KOF (Institut économique EPF) prévoit une croissance de 0,9% d'ici 2026, avec la possibilité de dépasser 1% grâce à la réduction tarifaire. Ce n’est pas une catastrophe, mais ce n’est pas non plus la Suisse invulnérable que beaucoup imaginent.</p>
 <p>Pour ceux qui travaillent dans les secteurs concernés, cela se traduit par quelque chose de très concret : moins d'embauches, une plus grande pression sur la productivité et, dans certains cas, des restructurations déjà en cours. L'industrie pharmaceutique des cantons de Bâle et de Zurich emploie un nombre important d'Espagnols. La boutique d'horlogerie de l'Arche du Jura aussi. Si votre secteur exporte vers les États-Unis, ce qui se passe à Washington vous affecte plus qu'il n'y paraît depuis le comptoir de votre entreprise.</p>
@@ -64,13 +64,13 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "20 avril 2026",
         featuredImage: "media/guides/actualidad-declaracion-impuestos-suiza.jpg",
-        imageAlt: "Formulario de declaración de impuestos en Suiza",
+        imageAlt: "Formulaire de déclaration d'impôt suisse",
         summary: "En Suisse, le printemps est aussi la saison des déclarations d’impôts. La plupart des cantons fixent le délai ordinaire entre fin mars et fin avril, même si…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>En Suisse, le printemps est aussi la saison des déclarations d’impôts. La plupart des cantons fixent le délai ordinaire entre fin mars et fin avril, même si la date exacte varie : Zurich fixe le 31 mars, Vaud et Berne le 31 mars, Genève le 31 mai. Ce que presque tous les cantons autorisent, c'est de demander une prolongation, généralement gratuitement en ligne. Certains facturent une somme modique si la prolongation est longue. Si vous n'avez pas déposé la déclaration et que le délai est déjà dépassé, il est conseillé d'en faire la demande au plus vite : les rappels et les amendes pour arrivée tardive ne tardent pas à arriver.</p>
 <p>Quant à savoir qui doit déclarer, il existe une confusion fréquente parmi les résidents étrangers. Les titulaires du permis C sont dans la même situation que les citoyens suisses : ils déclarent comme tout résident, avec accès à toutes les déductions possibles (frais de transport, formation, pension alimentaire, etc.). Pour les titulaires d'un permis B, les choses sont différentes : ils sont en principe imposés via l'impôt à la source (Quellensteuer), que l'employeur prélève directement sur le salaire. Il existe cependant deux situations dans lesquelles vous êtes également tenu de déposer la déclaration ordinaire : si vos revenus bruts annuels dépassent CHF 120'000, et si vous disposez de revenus complémentaires non couverts par le prélèvement (locations, placements, activité indépendante).</p>
-<p>Même si vous n'y êtes pas obligé, vous pouvez toujours être intéressé à présenter une déclaration complémentaire (\"Antrag auf nachträgliche Ordentliche Veranlagung\" ou son équivalent cantonal) si vous disposez de retenues importantes que la retenue à la source n'inclut pas. Les dépenses de formation, la pension alimentaire, les cotisations au pilier 3a ou encore l'hypothèque sur un bien immobilier à l'étranger peuvent générer des rendements importants. Ce n’est pas automatique, il faut le demander activement.</p>
+<p>Même si vous n'y êtes pas obligé, vous pouvez toujours être intéressé à présenter une déclaration complémentaire ("Antrag auf nachträgliche Ordentliche Veranlagung" ou son équivalent cantonal) si vous disposez de retenues importantes que la retenue à la source n'inclut pas. Les dépenses de formation, la pension alimentaire, les cotisations au pilier 3a ou encore l'hypothèque sur un bien immobilier à l'étranger peuvent générer des rendements importants. Ce n’est pas automatique, il faut le demander activement.</p>
 <p>Les plateformes en ligne de chaque canton sont l'outil habituel : VaudTax, TaxMe Online pour Genève, PrivateTax pour Zurich. La plupart vous permettent d'importer des données de l'année précédente et sont tout à fait gérables une fois que vous comprenez la logique du système. Si c'est votre première fois ou si vous rencontrez une situation complexe, une fiduciaire locale coûte de l'argent mais peut vous faire économiser beaucoup plus en erreurs ou en déductions non réclamées.</p>
 </div>`
     },
@@ -89,7 +89,7 @@ Object.assign(window.siteContent.fr.articles, {
         imageAlt: "Urna de votación en referéndum suizo",
         summary: "Le 14 juin, la Suisse vote sur l'opportunité de fixer un plafond constitutionnel à 10 millions d'habitants. L’initiative, promue par l’UDC, oblige le gouvernement fédéral à…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Le 14 juin, la Suisse vote sur l'opportunité de fixer un plafond constitutionnel à 10 millions d'habitants. L'initiative soutenue par l'UDC oblige le gouvernement fédéral à rompre l'accord de libre circulation avec l'UE si ce seuil est dépassé avant 2050. La Suisse en compte actuellement environ 9,1 millions. La distance est moindre qu'il n'y paraît.</p>
 <p>Ce qui est inquiétant n’est pas le nombre lui-même, mais le mécanisme : si l’initiative est approuvée, tout dépassement du seuil entraînerait la suspension des traités qui permettent aux citoyens européens, y compris aux citoyens espagnols, de s’établir et de travailler en Suisse avec une bureaucratie relativement simple. Le dernier sondage publié donne 48% pour et 41% contre, avec une répartition géographique claire : les zones rurales et la Suisse allemande sont plus favorables ; les villes et la Suisse romaine, plus sceptiques.</p>
 <p>Ceci étant dit, il est conseillé de garder la tête froide. Les Suisses ont déjà rejeté plusieurs initiatives similaires de l’UDC, dont celle de 2020 qui tentait de dénoncer directement la libre circulation. La machine du « non » s’active généralement tardivement mais avec force, et le monde des affaires suisse, qui dépend massivement des travailleurs européens, mène activement campagne contre cette initiative depuis des mois. En outre, si l’initiative gagnait, les effets ne seraient pas immédiats : il y aurait des années de négociations et de transition.</p>
@@ -111,7 +111,7 @@ Object.assign(window.siteContent.fr.articles, {
         imageAlt: "Pasaporte suizo y proceso de naturalización",
         summary: "Il y a des milliers d'Espagnols en Suisse qui sont ici depuis 10, 15, 20 ans et n'ont jamais sérieusement envisagé la naturalisation. Certains parce qu'ils ne savent pas ce qu'ils peuvent demander...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Il y a des milliers d'Espagnols en Suisse qui sont ici depuis 10, 15, 20 ans et n'ont jamais sérieusement envisagé la naturalisation. Certains parce qu'ils ne savent pas qu'ils peuvent le demander, d'autres parce qu'ils supposent qu'ils perdront l'espagnol. Aucun des deux arguments ne tient si on l’examine en détail.</p>
 <p>La condition de base est claire: dix ans de résidence effective en Suisse et possession d'un permis C. Le processus commence par la commune de résidence, traverse le canton et se termine par la Confédération. Chaque canton fixe également ses propres critères de permanence minimale sur son territoire, généralement entre deux et cinq ans. Certaines, comme Genève ou Zurich, sont coûteuses en frais et lentes en termes. D'autres, dans des cantons plus petits, peuvent être résolus plus rapidement si les critères d'intégration sont bien remplis. Le niveau de langue requis est B1 à l'oral et A2 à l'écrit dans la langue locale du canton : français, allemand ou italien. Rien d'extraordinaire pour quelqu'un qui vit et travaille ici depuis des années.</p>
 <p>À propos de la nationalité espagnole : L'Espagne autorise la double nationalité, vous n'avez donc rien à renoncer. Mais il existe un piège que très peu de gens connaissent. Le Code civil espagnol établit que si un citoyen espagnol majeur résidant à l'étranger acquiert une autre nationalité, il perd automatiquement sa nationalité espagnole à moins que, dans un délai maximum de trois ans à compter de l'acquisition, il ne fasse une déclaration expresse de conservation devant le Consulat. Ce n'est pas compliqué : il s'agit de signer un acte en personne au consulat d'Espagne à Berne ou au consulat général à Genève. Mais si ce n’est pas fait, c’est perdu. Et il y a des gens qui ont un passeport suisse depuis des années et qui ont perdu leur espagnol sans le savoir.</p>
@@ -130,11 +130,11 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "22 avril 2026",
         featuredImage: "media/guides/actualidad-prensa-espanola-suiza-normas.jpg",
-        imageAlt: "Portada de prensa española sobre cambios normativos en Suiza",
+        imageAlt: "Couverture de la presse espagnole sur les changements réglementaires en Suisse",
         summary: "Depuis des semaines, plusieurs médias espagnols publient des articles avec des titres tels que \"La Suisse durcit les règles pour les Espagnols\" ou \"La Suisse exige un contrat...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>Depuis des semaines, plusieurs médias espagnols publient des articles avec des titres tels que \"La Suisse durcit les règles pour les Espagnols\" ou \"La Suisse exige un contrat de travail et une adresse pour résider dans le pays\". Certains de ces articles ont largement circulé dans des groupes espagnols en Suisse, soulevant des questions, voire dans certains cas de réelles inquiétudes.</p>
+        content: `<div class="article-content">
+<p>Depuis des semaines, plusieurs médias espagnols publient des articles avec des titres tels que "La Suisse durcit les règles pour les Espagnols" ou "La Suisse exige un contrat de travail et une adresse pour résider dans le pays". Certains de ces articles ont largement circulé dans des groupes espagnols en Suisse, soulevant des questions, voire dans certains cas de réelles inquiétudes.</p>
 <p>Le problème est que ce qu’ils décrivent n’est pas nouveau. Le système suisse des permis de séjour fonctionne exactement ainsi depuis des décennies : pour obtenir un permis B (séjour de cinq ans), il faut un contrat de travail d'un an ou plus. Pour un permis L (court séjour), un CDD inférieur à un an. Pour chercher un emploi sans travailler, vous pouvez passer jusqu'à trois mois sans autorisation, et dans certaines circonstances jusqu'à six. C’est exactement ce que disent les articles, présentés comme s’il s’agissait d’une nouveauté législative de 2026. Ce n’est pas le cas.</p>
 <p>Ce qui se passe, c'est qu'il y a une dynamique récurrente dans une partie de la presse espagnole : ils prennent la réglementation actuelle de sem.admin.ch, la reformulent comme s'il s'agissait d'un changement récent, ajoutent un titre alarmiste et génèrent des clics. Ce n'est pas par malveillance, ou pas toujours : c'est que la Suisse génère du trafic parmi les lecteurs qui envisagent d'émigrer, et toute variation du titre se vend bien. Le résultat est que des canulars déguisés en informations officielles circulent dans les groupes, et il y a des gens qui appellent le consulat ou reportent un projet à cause de quelque chose qui n'a pas changé.</p>
 <p>Le seul moyen efficace de contrer cela est de se rendre à la source : sem.admin.ch pour les autorisations, admin.ch pour le règlement général, ch.ch pour les résumés accessibles. Si un article d'un média espagnol vous alarme par quelque chose qui aurait changé en Suisse, vérifiez toujours avant de le transmettre. Les vrais changements, lorsqu’ils surviennent, s’accompagnent généralement d’un bruit plus institutionnel que journalistique.</p>
@@ -152,11 +152,11 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "23 avril 2026",
         featuredImage: "media/guides/actualidad-franquicia-seguro-medico-suiza.jpg",
-        imageAlt: "Franquicia del seguro médico básico en Suiza LAMal",
+        imageAlt: "Franchise assurance maladie de base en Suisse LAMal",
         summary: "Le Conseil fédéral a mis en consultation un amendement à la LAMal qui propose de relever la franchise minimale de l'assurance maladie de 300 à 400 francs. Pas…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>Le Conseil fédéral a mis en consultation un amendement à la LAMal qui propose de relever la franchise minimale de l'assurance maladie de 300 à 400 francs. Cela n'a pas changé depuis 2004, ce qui en dit long sur le rythme auquel ces choses se modernisent en Suisse. L'objectif affiché est d'inciter les assurés à \"être plus sélectifs\" dans le recours aux services médicaux, ce qui signifie en pratique que celui qui aura besoin d'aller chez le médecin devra payer un peu plus de sa poche avant que le fonds n'entre en jeu.</p>
+        content: `<div class="article-content">
+<p>Le Conseil fédéral a mis en consultation un amendement à la LAMal qui propose de relever la franchise minimale de l'assurance maladie de 300 à 400 francs. Cela n'a pas changé depuis 2004, ce qui en dit long sur le rythme auquel ces choses se modernisent en Suisse. L'objectif affiché est d'inciter les assurés à "être plus sélectifs" dans le recours aux services médicaux, ce qui signifie en pratique que celui qui aura besoin d'aller chez le médecin devra payer un peu plus de sa poche avant que le fonds n'entre en jeu.</p>
 <p>Le mécanisme proposé n'est pas une augmentation ponctuelle, mais plutôt un système d'ajustement automatique lié aux coûts de santé. Lorsque la participation aux dépenses de l'assuré devient inférieure à un seuil fixé à 13,5% des prestations brutes, la franchise augmenterait automatiquement. Les enfants sont exclus de cette mesure. La compensation théorique consiste en une légère réduction des primes mensuelles, bien que toute économie de prime soit largement absorbée par l'augmentation du coût direct si vous utilisez le système.</p>
 <p>Ce projet répond à une motion du Parlement approuvée en mars 2025. Le processus est en consultation, ce qui signifie qu'il n'est pas encore une loi, mais la direction des progrès est assez claire. Pour ceux qui choisissent aujourd’hui une franchise de 300 francs parce qu’ils ne peuvent pas se permettre une franchise plus élevée, ce changement aura un réel impact. Et pour ceux qui avaient déjà une franchise élevée, peu de changements dans l’immédiat. Comme toujours en Suisse, les détails de l'impact final dépendront également du fonds et du modèle d'assurance que vous aurez souscrit.</p>
 </div>`
@@ -176,7 +176,7 @@ Object.assign(window.siteContent.fr.articles, {
         imageAlt: "Carnet de conducir español y permiso suizo",
         summary: "La plupart des Espagnols qui arrivent en Suisse savent qu'ils peuvent conduire avec leur permis espagnol. Ce qu'ils ne savent pas toujours, c'est que ce droit a une limite de...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>La plupart des Espagnols qui arrivent en Suisse savent qu'ils peuvent conduire avec leur permis espagnol. Ce qu’ils ne savent pas toujours, c’est que ce droit est limité dans le temps. Une fois la résidence établie en Suisse, le permis de conduire européen est valable 12 mois. Passé ce délai, conduire avec un permis espagnol sans l'avoir échangé équivaut à conduire sans permis valide, avec les conséquences que cela peut avoir en cas de contrôle ou d'accident.</p>
 <p>L'échange a lieu au bureau cantonal de la circulation (Strassenverkehrsamt dans les cantons allemands, service des automobiles dans les cantons romands). Pour les citoyens de l’UE ou de l’EEE, la démarche est administrative : il n’y a pas d’examen de conduite à passer. Le permis étranger est présenté, le domicile est prouvé, des frais qui varient selon les cantons sont payés (généralement entre 70 et 120 francs) et le permis suisse est reçu. Le permis original est renvoyé au pays de délivrance, vous ne le conservez donc pas.</p>
 <p>Il doit être clair que le délai de 12 mois compte à partir de l'enregistrement officiel dans la commune et non à partir du moment où vous franchissez la frontière. S’il vous a fallu des semaines pour vous inscrire, c’est le temps de référence. La procédure peut varier légèrement d'un canton à l'autre et certains peuvent exiger des documents supplémentaires, comme par exemple un rapport médical dans des cas spécifiques. Il vaut la peine de se renseigner directement auprès du Strassenverkehrsamt du canton où vous habitez avant de laisser passer le temps.</p>
@@ -194,10 +194,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "23 avril 2026",
         featuredImage: "media/guides/actualidad-autonomo-suiza-extranjero.jpg",
-        imageAlt: "Persona autónoma registrando su empresa en Suiza",
+        imageAlt: "Indépendant déclarant son entreprise en Suisse",
         summary: "Travailler comme indépendant en Suisse est parfaitement possible pour un résident espagnol. Mais il présente quelques particularités qu’il convient de connaître auparavant…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Travailler comme indépendant en Suisse est parfaitement possible pour un résident espagnol. Mais il présente quelques particularités qu'il convient de connaître avant de s'inscrire quelque part, surtout si vous venez d'Espagne où le régime des indépendants est beaucoup plus direct. En Suisse, l'activité indépendante n'est pas liée uniquement au fisc : elle implique des autorisations, des fonds de compensation et un modèle de cotisation qui fonctionne différemment.</p>
 <p>Le premier point est le titre de séjour. Un permis standard B ne vous donne pas automatiquement le droit d’exercer une activité lucrative indépendante. L'autorisation d'exercer une activité indépendante doit être expressément demandée auprès de l'Office cantonal des migrations, qui peut exiger un plan d'entreprise et une preuve de viabilité économique. Une fois autorisé, l’étape suivante consiste à adhérer à l’AVS en tant que travailleur indépendant. Voici la différence fondamentale par rapport au régime salarié : l'indépendant paie les deux parties de la cotisation, celle du salarié et celle de l'employeur, qui représente environ 9,65% du revenu net. Aucun employeur n’en assume la moitié.</p>
 <p>Ce que perd le travailleur indépendant par rapport au salarié, c’est l’accès à l’assurance chômage. Au cas où les affaires tourneraient mal, il n’existe pas de fonds de chômage sur lequel s’appuyer. C'est quelque chose que beaucoup découvrent trop tard. L'assurance maladie reste obligatoire et individuelle, quelle que soit l'activité professionnelle. Et si la fiscalité peut être avantageuse si les prélèvements professionnels sont bien gérés, les premières années peuvent être serrées si la pression fiscale n'a pas été planifiée avec une marge suffisante. Consulter un fiduciaire avant de se lancer n’est pas un luxe : dans ce contexte, c’est carrément prudent.</p>
@@ -215,10 +215,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "24 avril 2026",
         featuredImage: "media/guides/actualidad-kurzarbeit-suiza.jpg",
-        imageAlt: "Trabajador en reducción de jornada por Kurzarbeit en Suiza",
+        imageAlt: "Travailleur aux horaires réduits en raison du Kurzarbeit en Suisse",
         summary: "Ces dernières semaines, l'Association patronale de l'industrie suisse de la mécanique et de l'électronique (Swissmem) a demandé au gouvernement d'autoriser le recours au Kurzarbeit, le mécanisme...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Ces dernières semaines, l'Association patronale de l'industrie mécanique et électronique suisse (Swissmem) a demandé au gouvernement d'autoriser le recours au Kurzarbeit, le mécanisme de réduction du temps de travail subventionné par l'assurance chômage. La raison directe en est les droits de douane américains qui, bien qu'ils aient été réduits de 39% à 15% après des semaines de tension, continuent d'affecter les exportations suisses vers les États-Unis, notamment dans des secteurs tels que les produits pharmaceutiques, les machines et les montres. Pour les travailleurs, l’important est de comprendre ce que cela signifie concrètement.</p>
 <p>Kurzarbeit (RHT dans les cantons romands, Kurzarbeit dans les cantons germaniques) permet à une entreprise de réduire les heures travaillées sans avoir à licencier personne. La différence entre les heures habituelles et les heures travaillées est largement couverte par l'assurance chômage : jusqu'à 80 % du salaire pour les heures non effectuées. Ce n'est pas un cadeau de l'entreprise, c'est une prestation du système de sécurité sociale qui est activée lorsque le motif de la réduction est économique, technique ou structurel, et non imputable au travailleur. L'entreprise en fait la demande auprès de l'agence cantonale pour l'emploi et le travailleur doit l'accepter par écrit, soit dans le contrat, soit par une convention expresse.</p>
 <p>Si vous travaillez dans une entreprise du secteur industriel ou de l'exportation et qu'on vous parle de Kurzarbeit dans les mois à venir, la première chose est de vérifier que l'entreprise a correctement demandé l'autorisation cantonale. La deuxième chose est de savoir que pendant cette période vous continuez à cotiser, vous avez toujours droit aux vacances habituelles, et la période du Kurzarbeit compte pour l'ancienneté. Ce que vous ne pouvez pas faire, c'est facturer des heures supplémentaires alors même que les heures sont réduites à cause du Kurzarbeit : cela est contrôlé. Le mécanisme existe justement pour éviter des licenciements massifs en période de crise passagère, et la Suisse y a eu massivement recours en 2020 pendant la pandémie. Cette année, le contexte est différent, mais la logique est la même.</p>
@@ -236,10 +236,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "24 avril 2026",
         featuredImage: "media/guides/actualidad-cuenta-bancaria-suiza.jpg",
-        imageAlt: "Apertura de cuenta bancaria en Suiza para extranjeros",
+        imageAlt: "Ouvrir un compte bancaire en Suisse pour les étrangers",
         summary: "L'une des premières difficultés pratiques lorsqu'on arrive en Suisse est d'ouvrir un compte bancaire. Cela semble être une procédure simple, mais certains aspects conviennent…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>L'une des premières difficultés pratiques lorsqu'on arrive en Suisse est d'ouvrir un compte bancaire. Cela semble être une procédure simple, mais certains aspects doivent être connus au préalable pour ne pas perdre des semaines à se poser des questions. Tout d'abord, vous aurez besoin presque immédiatement d'un IBAN suisse (qui commence par CH), car votre employeur l'exigera pour votre premier versement de salaire et de nombreux propriétaires en exigent un pour le dépôt de garantie de l'appartement. Arriver avec un simple compte espagnol ou un numéro Revolut avec un IBAN européen ne suffit pas pour fonctionner pleinement en Suisse.</p>
 <p>Les banques traditionnelles (UBS, banques cantonales, Raiffeisen) ouvrent sans trop de problèmes des comptes aux résidents titulaires d'un permis B, mais les démarches peuvent être lentes : rendez-vous, formulaires, et parfois jusqu'à deux semaines pour recevoir la carte. PostFinance, l'entité de la Poste suisse, est historiquement la plus accessible aux nouveaux arrivants : elle accepte le document d'autorisation provisoire (l'attestation de la commune), elle est présente dans toute la Suisse et ses commissions sont raisonnables. Si vous préférez quelque chose de plus rapide, Yuh (la fintech de PostFinance et Swissquote) et Neon vous permettent d'ouvrir un compte depuis votre mobile en quelques heures et d'émettre un véritable IBAN suisse, ce qui résout le problème immédiat.</p>
 <p>Ce que vous devez savoir clairement, c'est la différence entre un IBAN suisse et un compte étranger ou un compte en monnaie électronique sans véritable support bancaire. Revolut possède un IBAN avec un préfixe lituanien ou belge : cela peut fonctionner pour certains transferts, mais tous les employeurs ni toutes les administrations suisses ne l'acceptent pas, et pour le compte du troisième pilier (3a), qui est un élément central du système de retraite suisse, vous aurez forcément besoin d'une banque ou d'une compagnie d'assurance avec une réelle présence dans le pays. Le conseil pratique est de commencer dès le premier jour par PostFinance ou une néobanque suisse, et sereinement, lorsque vous êtes déjà installé, de comparer les options et d'ouvrir le compte dont vous avez réellement besoin.</p>
@@ -257,11 +257,11 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "24 avril 2026",
         featuredImage: "media/guides/actualidad-festivos-cantones-suiza.jpg",
-        imageAlt: "Calendario de festivos por cantón en Suiza",
+        imageAlt: "Calendrier des jours fériés par canton en Suisse",
         summary: "La Suisse n'a qu'une seule fête nationale officielle : le 1er août, la Fête nationale. Tout le reste, ce sont des jours fériés cantonaux, et la différence entre un canton et ou...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>La Suisse n'a qu'une seule fête nationale officielle : le 1er août, la Fête nationale. Tout le reste est constitué de jours fériés cantonaux, et la différence entre un canton et un autre peut atteindre plusieurs jours par an. Genève compte par exemple 9 jours fériés payés, dont le jeudi de l'Ascension, la Restauration de la République le 31 décembre, ou encore le \"Jeûne genevois\" en septembre. Le canton de Vaud possède une liste différente. Berne, Zurich, Bâle, chacune a ses propres dates, dont beaucoup sont d'origine religieuse ou historique locale. Pour quelqu'un arrivant d'Espagne, où les jours fériés nationaux sont assez standardisés avec des variantes régionales, cela peut être déroutant au début.</p>
+        content: `<div class="article-content">
+<p>La Suisse n'a qu'une seule fête nationale officielle : le 1er août, la Fête nationale. Tout le reste est constitué de jours fériés cantonaux, et la différence entre un canton et un autre peut atteindre plusieurs jours par an. Genève compte par exemple 9 jours fériés payés, dont le jeudi de l'Ascension, la Restauration de la République le 31 décembre, ou encore le "Jeûne genevois" en septembre. Le canton de Vaud possède une liste différente. Berne, Zurich, Bâle, chacune a ses propres dates, dont beaucoup sont d'origine religieuse ou historique locale. Pour quelqu'un arrivant d'Espagne, où les jours fériés nationaux sont assez standardisés avec des variantes régionales, cela peut être déroutant au début.</p>
 <p>Le plus important du point de vue du travail est que les congés qui s'appliquent à vous dépendent de l'endroit où se trouve votre lieu de travail et non de celui où vous habitez. Si vous habitez dans le canton de Vaud mais travaillez à Genève, vous avez droit aux congés genevois. Si vous travaillez comme passage frontalier de la France vers le canton de Genève, de même : les jours fériés applicables sont les jours fériés suisses du canton où vous travaillez, et non les jours fériés français du côté de la frontière. Ceci n’est pas toujours bien connu et peut être source de malentendus avec les employeurs, notamment dans les entreprises dont les travailleurs sont répartis sur plusieurs cantons.</p>
 <p>Le moyen le plus fiable de savoir exactement quels congés s'appliquent à vous est de consulter le site Internet du canton dans lequel vous travaillez ou de vous adresser directement au service des ressources humaines. De nombreuses conventions collectives (CCT) en Suisse ajoutent des jours fériés au-dessus du minimum légal, ou précisent comment sont traités les jours fériés tombant le samedi ou le dimanche. Il peut également y avoir des différences entre les communes d'un même canton, notamment dans les localités à forte tradition religieuse. Ne pas supposer que les vacances en Suisse sont les mêmes qu'en Espagne, ni même qu'elles sont les mêmes dans le canton voisin, est la première étape pour éviter une mauvaise surprise lorsqu'on vous annonce que le lundi que vous pensiez libre était un jour de travail normal.</p>
 </div>`
@@ -278,10 +278,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "25 avril 2026",
         featuredImage: "media/guides/actualidad-guarderia-asignacion-suiza.jpg",
-        imageAlt: "Familia con niño en guardería subvencionada en Suiza",
+        imageAlt: "Famille avec enfant dans une garderie subventionnée en Suisse",
         summary: "En 2026, le Parlement suisse a approuvé une nouvelle allocation pour les familles avec enfants en garderie, appelée allocation de garde, qui entrera en vigueur à son expiration…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>En 2026, le Parlement suisse a approuvé une nouvelle allocation pour les familles avec enfants en garderie, appelée allocation de garde, qui entrera en vigueur à l'expiration de l'actuel programme fédéral de soutien à l'accueil extra-familial, prévue pour fin 2026. Le changement a une réelle portée : au lieu de subventionner directement les structures d'accueil, le système financera directement les familles en fonction du temps passé par leurs enfants dans une garderie reconnue.</p>
 <p>Le montant minimum est de 100 francs par mois pour une journée de garde par semaine, avec une majoration de 50 francs pour chaque demi-journée supplémentaire. Pour les enfants handicapés, le montant est multiplié entre 1,5 et 2 fois si les frais réels de placement en famille d'accueil sont proportionnellement plus élevés. Le système s'appliquera jusqu'à la fin du mois au cours duquel l'enfant atteint ses huit ans, date à laquelle commence habituellement la scolarité ordinaire dans la plupart des cantons.</p>
 <p>La condition essentielle est que les deux parents exercent une activité rémunérée ou suivent une formation. Ceci est pertinent pour les familles espagnoles dans lesquelles l'un des deux envisage de retourner au travail : l'allocation n'est pas destinée à celles qui ont un enfant en garderie pour des raisons de commodité, mais à celles qui travaillent ou suivent une formation. Le calcul et la répartition finale dépendront de chaque canton, qui fixera ses propres règles au-dessus du minimum fédéral, comme c'est déjà le cas pour les allocations familiales classiques.</p>
@@ -300,10 +300,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "25 avril 2026",
         featuredImage: "media/guides/actualidad-mercado-laboral-suiza-2026.jpg",
-        imageAlt: "Mercado laboral suizo en 2026, sectores con empleo",
+        imageAlt: "Marché du travail suisse en 2026, secteurs avec emploi",
         summary: "Le marché du travail suisse n’est plus le paradis presque sans nuages ​​qu’il était il y a trois ou quatre ans. Le secrétaire d’État à l’Économie prévoit une croissance de…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Le marché du travail suisse n’est plus le paradis presque sans nuages ​​qu’il était il y a trois ou quatre ans. Le secrétaire d'État à l'Économie prévoit une croissance du PIB de 1,1 % en 2026, et le chômage augmente depuis des mois à un rythme plus élevé que dans le reste de l'Europe, ce qui n'est pas courant dans un pays habitué à des taux inférieurs à 3 %. Le nombre de postes vacants, qui dépassait les 130 000 en 2022, est tombé en dessous de 90 000. Ce n’est pas une crise, mais c’est un refroidissement visible.</p>
 <p>Les secteurs les plus touchés par les coupes budgétaires sont l'industrie pharmaceutique, qui a représenté près de 30% des licenciements enregistrés en 2025, et les services financiers, encore ébranlés par l'intégration du Crédit Suisse au sein de l'UBS. Deux secteurs qui étaient autrefois synonymes d'emplois stables et bien rémunérés, et qui connaissent aujourd'hui une restructuration qui n'est pas terminée. Pour quelqu'un arrivant en Suisse avec un profil technique ou administratif et cherchant du travail dans ces domaines, il convient d'être réaliste quant aux délais et à la concurrence.</p>
 <p>Dans le même temps, la pénurie de main-d’œuvre n’a pas disparu : elle s’est simplement déplacée. La santé, la construction et la restauration sont toujours à la recherche de travailleurs et, compte tenu de la démographie suisse, cette tendance va s'accentuer dans les années à venir. Ce sont des secteurs avec des exigences linguistiques importantes, mais aussi avec des salaires minimum cantonaux protégés qui font la différence par rapport à ce qui est pratiqué en Espagne.</p>
@@ -322,13 +322,13 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "25 avril 2026",
         featuredImage: "media/guides/actualidad-doble-imposicion-espana-suiza.jpg",
-        imageAlt: "Convenio de doble imposición entre España y Suiza",
+        imageAlt: "Convention de double imposition entre l'Espagne et la Suisse",
         summary: "L'un des malentendus les plus fréquents parmi les Espagnols qui vivent en Suisse est de croire qu'en résidant et en payant des impôts ici, ils sont automatiquement exonérés de tout...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>L'un des malentendus les plus fréquents parmi les Espagnols qui vivent en Suisse est de croire qu'en résidant et en payant des impôts ici, ils sont automatiquement exonérés de toute obligation fiscale en Espagne. La réalité est plus nuancée et l’accord de double imposition signé entre les deux pays, en vigueur depuis 1966 et mis à jour en 2013, constitue le cadre qui détermine qui a le droit de taxer quoi et dans quelles conditions. L’ignorer peut coûter cher.</p>
 <p>L'accord prévoit qu'en principe, les revenus du travail sont imposés dans le pays où l'activité est exercée. Si vous travaillez en Suisse, vous payez ici. Mais il y a des exceptions. Les pensions espagnoles d'origine publique peuvent continuer à être imposées en Espagne même si elles sont perçues depuis la Suisse. Les locations d'une propriété en Espagne sont imposées en Espagne. Les dividendes ou intérêts des comptes ou investissements espagnols peuvent donner lieu à des retenues à la source. Si vous avez des biens ou des revenus en Espagne et que vous êtes également résident fiscal en Suisse, il est important de savoir quoi déclarer où pour ne pas payer deux fois, mais aussi pour ne pas omettre de déclarer quelque chose que vous devez.</p>
-<p>La notion clé est celle de « résidence fiscale ». Pour la Suisse, il suffit de vivre et de travailler ici avec autorisation pour être considéré comme résident fiscal. Pour l'Espagne, si vous passez plus de 183 jours par an hors du pays, vous cessez en principe d'être résident fiscal espagnol, même si le Trésor peut s'y opposer s'il considère que vous avez votre \"centre d'intérêts vitaux\" en Espagne. Cela se produit plus qu'il n'y paraît dans les familles dont l'un des conjoints est encore en Espagne.</p>
+<p>La notion clé est celle de « résidence fiscale ». Pour la Suisse, il suffit de vivre et de travailler ici avec autorisation pour être considéré comme résident fiscal. Pour l'Espagne, si vous passez plus de 183 jours par an hors du pays, vous cessez en principe d'être résident fiscal espagnol, même si le Trésor peut s'y opposer s'il considère que vous avez votre "centre d'intérêts vitaux" en Espagne. Cela se produit plus qu'il n'y paraît dans les familles dont l'un des conjoints est encore en Espagne.</p>
 <p>Le moyen le plus sûr d’éviter les surprises est de consulter un conseiller fiscal qui connaît les deux systèmes. Ce n’est pas cher et peut éviter des réclamations rétroactives. L’alliance existe pour vous protéger, mais seulement si vous savez qu’elle existe et comprenez comment elle fonctionne.</p>
 </div>`
     },
@@ -344,10 +344,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "26 avril 2026",
         featuredImage: "media/guides/actualidad-eid-identidad-digital-suiza.jpg",
-        imageAlt: "Identidad digital E-ID suiza para residentes con permiso",
+        imageAlt: "Identité numérique suisse E-ID pour les résidents avec permis",
         summary: "Au cours du troisième trimestre 2026, la Suisse lancera officiellement son système national d’identité numérique. L'application s'appelle Swiyu,…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Au cours du troisième trimestre 2026, la Suisse lancera officiellement son système national d’identité numérique. L'application s'appelle Swiyu, elle existe déjà en version bêta, et ce que beaucoup ignorent, c'est qu'elle n'est pas réservée uniquement aux citoyens suisses. Toute personne disposant d'un permis de séjour valide délivré en Suisse, qu'il s'agisse d'un permis B ou C, peut demander son identité numérique exactement de la même manière qu'un titulaire d'un passeport suisse.</p>
 <p>La démarche prévue est simple : téléchargez l'application sur votre mobile, scannez le document d'identité délivré en Suisse et ajoutez une photo. L'identité numérique sera stockée exclusivement sur l'appareil de l'utilisateur, sans base de données centrale. Ce sera entièrement volontaire et gratuit, un point sur lequel il convient de souligner avant qu'un canular sur des frais ou des procédures compliquées ne commence à circuler.</p>
 <p>L'utilité pratique dépendra du nombre de services publics et privés qui l'accepteront comme document d'identification valide. Dans les premiers mois, il sera utile notamment pour les démarches administratives en ligne et pour accéder aux plateformes qui nécessitent déjà une vérification d'identité. Pour les voyages internationaux, un passeport ou une pièce d’identité physique sera toujours requis.</p>
@@ -369,7 +369,7 @@ Object.assign(window.siteContent.fr.articles, {
         imageAlt: "Sistema EES de entrada y salida en fronteras europeas Schengen",
         summary: "Depuis le 10 avril 2026, le système d'entrée et de sortie de l'Union européenne est pleinement opérationnel dans tout l'espace Schengen, y compris la Suisse. C’est pratique…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Depuis le 10 avril 2026, le système d'entrée et de sortie de l'Union européenne est pleinement opérationnel dans tout l'espace Schengen, y compris la Suisse. Il convient d’emblée de le préciser : ce système ne concerne ni les citoyens de l’Union européenne ni les résidents suisses titulaires d’un permis de séjour. Si vous êtes espagnol et vivez ici, vos passages frontaliers restent exactement les mêmes qu’avant.</p>
 <p>Là où il y a un réel changement, c’est pour toute personne arrivant de l’extérieur de l’espace Schengen avec un passeport non européen. L'EES enregistre automatiquement les entrées et les sorties, prend une photo et collecte les empreintes digitales. Il s’agit d’un système biométrique qui remplace le simple tamponnage du passeport. L'objectif affiché est de contrôler les temps de séjour et de détecter ceux qui séjournent au-delà des 90 jours autorisés.</p>
 <p>Pour ceux d’entre nous qui vivent ici, l’impact le plus direct se produit lorsque des membres de la famille ou des amis qui ne sont pas citoyens européens viennent nous rendre visite. Si votre mère vient de Colombie, si un ami vient du Maroc ou si vous avez un partenaire originaire d'un pays n'appartenant pas à l'UE ou à l'AELE, ils entrent dans le système EES. La première fois qu’ils franchiront la frontière, cela prendra plus de temps que d’habitude, car leurs données biométriques doivent être enregistrées. Il est conseillé de les prévenir à l'avance afin qu'ils n'aient pas peur à l'aéroport.</p>
@@ -388,10 +388,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "26 avril 2026",
         featuredImage: "media/guides/actualidad-comprar-piso-suiza-espanol.jpg",
-        imageAlt: "Compra de piso en Suiza por ciudadano español con permiso",
+        imageAlt: "Achat d'un appartement en Suisse par un citoyen espagnol avec autorisation",
         summary: "La semaine dernière, le gouvernement suisse a annoncé qu'il allait durcir les conditions permettant aux citoyens étrangers non européens d'acheter un logement dans le pays. Le…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>La semaine dernière, le gouvernement suisse a annoncé qu'il allait durcir les conditions permettant aux citoyens étrangers non européens d'acheter un logement dans le pays. Le titre a fait la une de plusieurs médias espagnols avec plus de drame que nécessaire. La réalité pour un Espagnol titulaire d’un permis de séjour en Suisse est bien différente de ce que suggère ce type d’actualité.</p>
 <p>La réglementation suisse qui contrôle l'achat de biens immobiliers par des étrangers s'appelle Lex Koller et existe depuis des décennies. Ce qu'il établit, c'est une distinction claire selon le type de permis. Si vous disposez d'un permis C, vous avez exactement les mêmes droits qu'un citoyen suisse : vous pouvez librement acheter une résidence principale, un immeuble de rapport ou tout bien immobilier, sans avoir besoin d'une autorisation particulière. Si vous disposez d'un permis B, la situation est plus restreinte : vous pouvez acheter une habitation principale pour votre propre usage, mais vous avez besoin d'une autorisation du canton où se situe le bien, et le bien ne peut pas être utilisé à des fins d'investissement ni mis en location.</p>
 <p>Les nouvelles mesures annoncées ciblent spécifiquement les citoyens de pays qui ne font ni partie de l'UE ni de l'AELE. Ils seraient les seuls obligés de demander une autorisation préalable et de revendre le bien dans un délai de deux ans s'ils quittent le pays. Pour un Espagnol, citoyen de l’UE bénéficiant de la libre circulation garantie par des accords bilatéraux, ces restrictions ne s’appliquent pas.</p>
@@ -410,11 +410,11 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "26 avril 2026",
         featuredImage: "media/guides/actualidad-empadronamiento-suiza.jpg",
-        imageAlt: "Registro municipal Anmeldung en Suiza",
+        imageAlt: "Registre municipal d'inscription en Suisse",
         summary: "Arriver en Suisse, s'installer, commencer à travailler, chercher une garderie pour les enfants... Et l'inscription au bureau communal de la population est en attente pour \"quand…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>Arriver en Suisse, s'installer, commencer à travailler, chercher une garderie pour les enfants... Et l'inscription au bureau communal des habitants est en attente \"quand on en aura le temps\". Le problème est que cette procédure a un délai légal: dans la plupart des cantons, 14 jours à compter de l'arrivée. A Genève, 8 jours. Il ne s’agit pas d’une recommandation, c’est d’une obligation, dont le non-respect peut entraîner une amende.</p>
+        content: `<div class="article-content">
+<p>Arriver en Suisse, s'installer, commencer à travailler, chercher une garderie pour les enfants... Et l'inscription au bureau communal des habitants est en attente "quand on en aura le temps". Le problème est que cette procédure a un délai légal: dans la plupart des cantons, 14 jours à compter de l'arrivée. A Genève, 8 jours. Il ne s’agit pas d’une recommandation, c’est d’une obligation, dont le non-respect peut entraîner une amende.</p>
 <p>Le bureau s'appelle selon la région linguistique : Contrôle des habitants en Suisse romande, Einwohnerkontrolle en Suisse alémanique, Controllo degli abitanti au Tessin. La procédure se déroule en personne et nécessite un passeport ou une pièce d'identité, un contrat de travail ou de location signé et une photographie récente. Dans de nombreuses communes, vous pouvez prendre rendez-vous en ligne. C'est là que la commune informe l'office cantonal des migrations, qui est celui qui traite le permis de séjour. Sans enregistrement municipal, le permis n'existe pas.</p>
 <p>Ce que beaucoup de gens confondent, c'est l'ordre du processus : d'abord, vous vous inscrivez auprès de la municipalité, et le permis arrive plus tard, généralement par courrier sous forme de carte. Il ne s’agit pas d’une procédure distincte que vous devez suivre vous-même. C'est le même acte administratif. Dans certains cantons, le permis est délivré immédiatement, dans d'autres, le délai peut être de plusieurs semaines.</p>
 <p>L'inscription auprès de la commune est aussi le point de départ de pratiquement tout le reste : ouvrir un compte bancaire, scolariser les enfants, accéder à certains services publics. Sans ce nombre d’habitants officiellement reconnu, de nombreuses portes restent bloquées. Cela vaut la peine de le faire correctement et à temps.</p>
@@ -432,10 +432,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "26 avril 2026",
         featuredImage: "media/guides/actualidad-salario-minimo-canton-suiza.jpg",
-        imageAlt: "Salario mínimo por cantón en Suiza",
+        imageAlt: "Salaire minimum par canton en Suisse",
         summary: "La Suisse n'a pas de salaire minimum fédéral. Cela surprend beaucoup de gens qui arrivent dans le pays avec l'idée qu'il existe un salaire plancher unique applicable à tout...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>La Suisse n'a pas de salaire minimum fédéral. Cela surprend beaucoup de personnes qui arrivent dans le pays à l’idée qu’il existe un salaire plancher unique applicable sur tout le territoire. Ce n'est pas comme ça. La Confédération a laissé cette décision entre les mains des cantons et des conventions collectives de travail, et le résultat est une carte qu'il convient de connaître avant de signer un contrat.</p>
 <p>Seuls cinq cantons ont fixé un salaire minimum légal : Genève, Neuchâtel, Jura, Bâle-Ville et le Tessin. Genève arrive en tête avec 24,59 CHF de l'heure en 2026, ce qui équivaut à un peu plus de 4'400 CHF bruts par mois pour une journée complète, et est officiellement le salaire minimum le plus élevé au monde. Dans les quatre autres cantons, les chiffres sont un peu plus faibles, mais tout aussi significatifs. Dans tous les autres cantons suisses, le plancher salarial ne vient pas de la loi mais de conventions collectives sectorielles.</p>
 <p>Les conventions collectives, appelées CCT en français ou GAV en allemand, couvrent des secteurs entiers : construction, hôtellerie, nettoyage, commerce, services domestiques, entre autres. Lorsqu'il existe un CCT déclaré généralement obligatoire, l'employeur est légalement tenu d'appliquer le salaire minimum qu'il fixe, qu'il soit ou non affilié à une association patronale. Le problème est que tous les secteurs ne disposent pas d’un CCT et que tous les accords ne sont pas généralement contraignants. Si vous travaillez dans un secteur sans couverture et dans un canton sans salaire minimum légal, il n’y a pas de plancher formel.</p>
@@ -454,10 +454,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "26 avril 2026",
         featuredImage: "media/guides/actualidad-seguro-rc-hogar-suiza.jpg",
-        imageAlt: "Seguro de responsabilidad civil y hogar en Suiza",
+        imageAlt: "Assurance responsabilité civile et habitation en Suisse",
         summary: "Lorsqu'une personne arrive en Suisse et signe son premier contrat de location, elle demande presque toujours une assurance. Ce qu’ils demandent exactement et pourquoi n’est pas toujours clair…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Lorsqu'une personne arrive en Suisse et signe son premier contrat de location, elle demande presque toujours une assurance. Ce qu’ils demandent exactement et pourquoi n’est pas toujours clair. Il existe deux assurances qui sont généralement souscrites ensemble et que beaucoup de gens confondent car elles font partie du même contrat : l'assurance responsabilité civile privée et l'assurance ménage. Ce ne sont pas les mêmes, même si le prix combiné est raisonnable.</p>
 <p>La responsabilité civile couvre les dommages que vous pouvez causer accidentellement à des tiers : une fuite qui abîme le sol en dessous, un pot de fleur qui tombe sur la terrasse, une tache qui abîme les vêtements de quelqu'un. Sans cela, vous payez ces dommages de votre poche. Elle n'est pas définie par la loi comme obligatoire en Suisse, mais dans la pratique la grande majorité des propriétaires l'exigent comme condition à la signature du contrat de location. Le coût est faible : entre 100 et 180 CHF par an pour une personne seule. L’assurance des biens ménagers, quant à elle, couvre vos biens personnels contre le vol, l’incendie, les dégâts des eaux ou les catastrophes naturelles. Il n'est légalement obligatoire que dans quatre cantons : Vaud, Fribourg, Jura et Nidwald, pour le volet incendie et phénomènes naturels. Pour le reste, c'est facultatif.</p>
 <p>La confusion la plus courante est de croire que la CR couvre déjà les objets eux-mêmes. Ce n'est pas le cas. Si votre ordinateur est volé, si une fuite d'eau détruit votre canapé ou si un incendie détruit vos biens, RC ne paie rien. C'est à cela que sert l'assurance habitation. Louer uniquement la RC et non les articles ménagers est une erreur que beaucoup de gens découvrent au mauvais moment, alors que l'accident est déjà survenu.</p>
@@ -476,10 +476,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "26 avril 2026",
         featuredImage: "media/guides/actualidad-teletrabajo-espana-suiza.jpg",
-        imageAlt: "Teletrabajo desde España para residente en Suiza",
+        imageAlt: "Télétravail depuis l'Espagne pour les résidents de Suisse",
         summary: "Depuis le 1er janvier 2026, le cadre régissant le télétravail transfrontalier entre la Suisse et les pays européens signataires est devenu permanent. Pendant...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Depuis le 1er janvier 2026, le cadre régissant le télétravail transfrontalier entre la Suisse et les pays européens signataires est devenu permanent. Au cours des années précédentes, il fonctionnait comme un régime provisoire. C'est désormais une norme stable et l'Espagne fait partie du groupe de pays signataires de l'accord, ce qui a des conséquences directes pour tout Espagnol qui vit en Suisse et travaille pour un employeur établi ici.</p>
 <p>La règle fondamentale est le seuil de 49,9% : tant que la durée du travail à distance effectué depuis le pays de résidence n'excède pas cette proportion par rapport au total des heures travaillées sur une base annuelle, le travailleur peut maintenir son affiliation au système de sécurité sociale suisse. En pratique, cela signifie que si votre entreprise est en Suisse et que vous souhaitez travailler plusieurs semaines par an depuis l'Espagne, c'est légal et compatible avec votre situation suisse, à condition de ne pas franchir ce seuil. En d'autres termes : jusqu'à près de la moitié de l'année, vous pouvez télétravailler depuis l'Espagne sans perdre la couverture suisse AVS, LPP ou accident.</p>
 <p>Ce qui ne fonctionne pas automatiquement, c'est le processus administratif. Tant le travailleur que l'employeur doivent notifier la situation à la caisse de compensation compétente (Ausgleichskasse en allemand, caisse de compensation en français) et obtenir le certificat A1, qui est le document qui certifie quelle législation de sécurité sociale s'applique. Sans ce certificat, travailler depuis l'Espagne peut poser des problèmes en cas d'inspection ou d'accident du travail, aussi légitime que soit la situation réelle.</p>
@@ -498,11 +498,11 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "26 avril 2026",
         featuredImage: "media/guides/actualidad-jubilacion-mujeres-suiza-avs.jpg",
-        imageAlt: "Jubilación de mujeres en Suiza con reforma AVS 21",
+        imageAlt: "La retraite des femmes en Suisse avec la réforme AVS 21",
         summary: "La réforme AVS dite « AVS 21 » a été approuvée par référendum en septembre 2022 et est appliquée progressivement depuis 2025. Son effet le plus significatif…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>La réforme AVS dite \"AVS 21\" a été approuvée par référendum en septembre 2022 et est appliquée progressivement à partir de 2025. Son effet le plus concret pour les femmes vivant et travaillant en Suisse est un relèvement progressif de l'âge de la retraite: de 64 à 65 ans, échelonné entre 2025 et 2028. pas aussi simple que « à 64 ans ».</p>
+        content: `<div class="article-content">
+<p>La réforme AVS dite "AVS 21" a été approuvée par référendum en septembre 2022 et est appliquée progressivement à partir de 2025. Son effet le plus concret pour les femmes vivant et travaillant en Suisse est un relèvement progressif de l'âge de la retraite: de 64 à 65 ans, échelonné entre 2025 et 2028. pas aussi simple que « à 64 ans ».</p>
 <p>Le timing exact de la transition est le suivant : les femmes nées en 1961 ont atteint l'âge de référence en 2025, à 64 ans et trois mois. Ceux nés en 1962 atteignent cet âge en 2026, à 64 ans et six mois. Ceux nés en 1963 le feront en 2027, à 64 ans et neuf mois. Pour les personnes nées en 1964, l'âge de référence est désormais de 65 ans, comme pour les hommes. Il ne s’agit pas d’une date de retraite obligatoire, c’est l’âge à partir duquel la rente AVS à taux plein commence à être perçue sans pénalité.</p>
 <p>Les femmes de ces générations de transition bénéficient d'une compensation prévue dans le deuxième pilier, la LPP, pour atténuer l'impact de cette année de travail supplémentaire. Mais ces compensations ne sont pas automatiques dans tous les cas, mais dépendent de la convention collective applicable et de la catégorie professionnelle. Dans de nombreuses entreprises, les services des ressources humaines n’ont pas encore mis à jour leurs calculs internes. Si votre employeur vous a informé d'une date de départ à la retraite sans tenir compte de cette réforme, il convient de le vérifier directement auprès de votre caisse de pension.</p>
 <p>Considération supplémentaire pour les Espagnoles qui ont cotisé pendant des années en Espagne avant d'arriver en Suisse : les périodes travaillées dans les deux pays peuvent être cumulées pour répondre aux exigences minimales de cotisation, mais l'âge de référence applicable dans chaque système est indépendant. Vous pouvez demander la pension espagnole à un âge différent de celui de la Suisse. Cela peut affecter la stratégie de sortie d’emploi si elle est planifiée à l’avance.</p>
@@ -520,12 +520,12 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "26 avril 2026",
         featuredImage: "media/guides/actualidad-multas-trafico-suiza.jpg",
-        imageAlt: "Sistema de multas de tráfico en Suiza",
+        imageAlt: "Système d’amendes routières en Suisse",
         summary: "Une des choses que l’on découvre assez rapidement lorsqu’on vit en Suisse, c’est que les amendes ne fonctionnent pas de la même manière qu’en Espagne. Non seulement ils sont fréquents et payants…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Une des choses que l’on découvre assez rapidement lorsqu’on vit en Suisse, c’est que les amendes ne fonctionnent pas de la même manière qu’en Espagne. Non seulement ils sont fréquents et facturés avec une efficacité quasi suisse, mais dans certains cas, leur montant est calculé en fonction des revenus du contrevenant. Le résultat est des chiffres qui semblent exagérés jusqu’à ce que vous compreniez la logique qui les sous-tend.</p>
-<p>Le système s'appelle \"Tagessatz\" en allemand, ou \"taux journalier\" en français, et s'applique au domaine du droit pénal suisse, et non aux infractions administratives mineures. Lorsqu’une infraction au code de la route dépasse certains seuils de gravité, elle cesse d’être une amende administrative et devient une sanction pénale. À ce stade, le tribunal ou le procureur calcule le montant en multipliant le nombre de « jours d'amende » (reflétant la gravité du comportement) par le revenu net quotidien de la personne condamnée. Si vous gagnez 9'000 francs par mois, votre revenu journalier est d'environ 300 francs. Trente jours d'amende font alors 9 000 francs. C'est pourquoi la nouvelle selon laquelle le cadre aurait été condamné à une amende de 300 000 francs pour excès de vitesse n'était pas une supercherie : c'était le système qui fonctionnait exactement comme prévu.</p>
+<p>Le système s'appelle "Tagessatz" en allemand, ou "taux journalier" en français, et s'applique au domaine du droit pénal suisse, et non aux infractions administratives mineures. Lorsqu’une infraction au code de la route dépasse certains seuils de gravité, elle cesse d’être une amende administrative et devient une sanction pénale. À ce stade, le tribunal ou le procureur calcule le montant en multipliant le nombre de « jours d'amende » (reflétant la gravité du comportement) par le revenu net quotidien de la personne condamnée. Si vous gagnez 9'000 francs par mois, votre revenu journalier est d'environ 300 francs. Trente jours d'amende font alors 9 000 francs. C'est pourquoi la nouvelle selon laquelle le cadre aurait été condamné à une amende de 300 000 francs pour excès de vitesse n'était pas une supercherie : c'était le système qui fonctionnait exactement comme prévu.</p>
 <p>La question pratique est de savoir quand est franchie la frontière entre infraction administrative et infraction pénale. Pour les excès de vitesse, les seuils sont fixés dans le code de la voie publique : dépasser la limite de plus de 30 km/h dans les zones de 30 ou 50, de plus de 40 km/h sur les routes de 80, ou de plus de 50 km/h sur une autoroute transforme l'infraction en un délit, qualifié de « délit » et poursuivi pénalement. A partir de là, le Tagessatz entre en scène. En dessous de ces seuils, l'amende est forfaitaire et ne dépend pas des revenus.</p>
 <p>Ce qu'il faut savoir, c'est que les radars suisses sont fixes, mobiles et de plus en plus nombreux, et que les délais de traitement et d'encaissement des amendes sont stricts. Si vous recevez une notification par courrier, l'ignorer ne la fait pas disparaître: le système de poursuite pour dettes en Suisse est efficace et a des conséquences sur votre relevé de crédit et de dettes, que de nombreux propriétaires et employeurs consultent avant de signer quoi que ce soit avec vous.</p>
 </div>`
@@ -545,7 +545,7 @@ Object.assign(window.siteContent.fr.articles, {
         imageAlt: "Acuerdo PNR datos de vuelo Suiza Unión Europea",
         summary: "Le 5 mars 2026, la Suisse et l’Union européenne ont signé un accord visant à échanger les données des dossiers passagers (PNR) pour tous les vols avec…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Le 5 mars 2026, la Suisse et l’Union européenne ont signé un accord visant à échanger les données des dossiers passagers (PNR) pour tous les vols commerciaux entre les deux territoires. Concrètement : lorsque vous réservez un vol de Genève à Madrid, la compagnie aérienne fournit aux autorités suisses et européennes des informations telles que votre nom, votre mode de paiement, votre numéro de siège ou encore la personne avec laquelle vous voyagez. Ce n’est pas une nouveauté en Europe en tant que telle : ce système existe déjà depuis des années entre l’UE et des pays comme les États-Unis, l’Australie ou le Canada. Ce qui change maintenant, c’est que la Suisse commence à s’y intégrer de manière bidirectionnelle, ce qui n’était pas le cas jusqu’à présent.</p>
 <p>L'objectif déclaré est la lutte contre le terrorisme, le crime organisé et le trafic de drogue. Les autorités affirment que le croisement de ces données avec des bases de données de sécurité permet de détecter des modèles avant que quelque chose ne se produise. Quiconque prend l'avion pour rendre visite à sa famille à Valence n'a aucune raison de s'inquiéter d'un point de vue pratique. Mais il faut savoir que l'espace d'anonymat dans les voyages aériens entre la Suisse et l'UE a continué à se réduire et que ce processus dispose désormais d'une base juridique signée.</p>
 <p>L'accord est signé mais en attente de ratification formelle, tant par le Parlement européen que par les mécanismes suisses. Tant que ce processus n’est pas terminé, le système ne devient pas pleinement opérationnel. Comme c’est souvent le cas en Suisse, la procédure institutionnelle passe par son époque. Mais la direction est déjà fixée.</p>
@@ -563,10 +563,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "27 avril 2026",
         featuredImage: "media/guides/actualidad-alquiler-suiza-2026.jpg",
-        imageAlt: "Mercado de alquiler en Suiza en 2026",
+        imageAlt: "Marché locatif en Suisse en 2026",
         summary: "Le marché locatif suisse reste l’un des plus tendus d’Europe et 2026 n’apporte aucun soulagement visible. A Zurich, un appartement de 40 à 50 m…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Le marché locatif suisse reste l’un des plus tendus d’Europe et 2026 n’apporte aucun soulagement visible. A Zurich, un appartement de 40 à 50 mètres carrés en centre-ville coûte environ 2'500 francs par mois. A Genève les prix sont équivalents, avec une fourchette qui va de 2'000 à 2'800 francs pour des surfaces similaires. Ce qui complique encore la situation, c'est l'effet de relance sur le marché : lorsqu'un appartement change de locataire à Genève, le prix augmente en moyenne de 13,5%. À Neuchâtel, la hausse est d'environ 12% et à Zurich de 6%. En d’autres termes, ce n’est pas seulement que les appartements sont chers, mais que chaque fois qu’un appartement devient libre, le chiffre d’affaires fait monter le prix encore plus.</p>
 <p>La conséquence directe est que de plus en plus de personnes travaillant dans les grandes villes vivent en dehors de celles-ci. Le rayon de recherche raisonnable pour Zurich comprend déjà des cantons entiers. Pour Genève, beaucoup sont passés directement en France, assumant le coût de la vie dans un autre pays en échange d'un salaire moins élevé. Cette tendance porte un nom en Suisse : la périurbanisation forcée. Et cela ne concerne pas seulement les nouveaux arrivants ; Il y a des gens qui vivent dans le même appartement depuis des années et qui ont peur de déménager car ils savent qu'ils ne trouveront rien d'équivalent à ce prix-là.</p>
 <p>Si vous recherchez un appartement en ce moment, sachez que les cantons les moins stressés sont ceux de l'intérieur et ceux de la région alpine : Uri, Glaris ou Appenzell ont des marchés plus souples, même s'ils impliquent des trajets plus longs. Vivre dans un canton et travailler dans un autre est une pratique courante en Suisse, et les transports publics facilitent la tâche par rapport à d'autres pays. Ce n'est pas la solution idéale, mais dans un marché comme celui-ci, connaître les véritables alternatives vaut plus que de continuer à chercher des appartements dans le même code postal.</p>
@@ -584,10 +584,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "27 avril 2026",
         featuredImage: "media/guides/actualidad-seguro-accidentes-suiza-laa.jpg",
-        imageAlt: "Seguro de accidentes obligatorio LAA en Suiza",
+        imageAlt: "Assurance accident obligatoire LAA en Suisse",
         summary: "Beaucoup de gens confondent l’assurance maladie obligatoire (LAMal) avec l’assurance accidents (LAA). Ce sont deux choses complètement différentes, couvertes par des systèmes différents…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Beaucoup de gens confondent l’assurance maladie obligatoire (LAMal) avec l’assurance accidents (LAA). Ce sont deux choses complètement différentes, couvertes par des systèmes différents, et comprendre la différence n'est pas optionnel si vous travaillez en Suisse. Le LAA, connu en allemand sous le nom d'UVG, est obligatoire pour tous les travailleurs salariés. L’employeur prend entièrement en charge les accidents du travail et de trajet. Pour les accidents non professionnels, une couverture existe également si vous travaillez plus de huit heures par semaine pour le même employeur. Si vous travaillez en dessous de ce seuil, cette protection n'est pas automatiquement activée et vous devez en faire la demande expresse auprès de votre mutuelle.</p>
 <p>Ce que couvre la LAA a des conséquences pratiques bien précises : en cas d'accident, l'assurance prend en charge 80 % du salaire assuré à partir du troisième jour d'invalidité, les frais médicaux sans franchise ni participation et, dans les cas graves, des rentes d'invalidité ou de survie pour les bénéficiaires. Si vous avez un accident du travail ou sur le chemin du travail, les actes d'assurance accident et l'assurance médicale sont hors de question pour ces dépenses. Vous ne payez pas la franchise LAMal. Vous ne recevez pas la facture de l'hôpital. Le système l’absorbe directement.</p>
 <p>L'entité la plus connue qui gère la LAA est la SUVA, qui couvre automatiquement les travailleurs de secteurs tels que la construction, l'industrie ou l'hôtellerie. Dans d'autres secteurs, l'employeur peut contracter une assurance auprès de compagnies privées : Allianz, AXA ou Helvetia sont les plus courantes. Si vous ne savez pas quelle entité vous couvre, cela figure sur votre paie ou dans votre contrat de travail. Il vaut la peine de le savoir avant que quelque chose n'arrive, pas après, car au moment de l'accident, on n'a plus le temps de se poser les bonnes questions.</p>
@@ -605,13 +605,13 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "28 avril 2026",
         featuredImage: "media/guides/actualidad-stellenmeldepflicht-suiza.jpg",
-        imageAlt: "Obligación del empleador Stellenmeldepflicht en Suiza",
+        imageAlt: "Obligation de l'employeur Stellenmeldepflicht en Suisse",
         summary: "Depuis 2020, les employeurs suisses sont tenus par la loi de notifier certaines offres d'emploi au RAV (Office régional de placement) avant qu'elles puissent être publiées…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Depuis 2020, les employeurs suisses sont tenus par la loi de notifier certaines offres d'emploi au RAV (Office régional de placement) avant qu'elles puissent être publiées publiquement. Pendant cinq jours ouvrés, ces offres ne sont visibles que pour les personnes inscrites au RAV. À partir de 2026, cette obligation est considérablement élargie : si en 2025 elle touchait 6,5 % des salariés du pays, elle couvre désormais 10,8 % des effectifs.</p>
 <p>Les nouveaux secteurs entrant en 2026 comprennent le personnel et assistants de nettoyage dans les bureaux, les hôtels et établissements similaires, les cuisiniers, les graphistes et multimédias, les organisateurs d'événements et certains profils de centres d'appels. En pratique, si vous êtes au chômage et inscrit au RAV, vous avez un accès prioritaire à ces offres avant les autres. Personne ne vous le dit à la fenêtre, mais c'est un droit concret.</p>
-<p>La liste des professions soumises à déclaration obligatoire est mise à jour chaque année en fonction du taux de chômage par secteur. Pour savoir si votre profil professionnel figure dans la liste, vous pouvez le consulter directement sur le site arbeit.swiss (outil \"Check-Up 2026\"). Si votre profession est inscrite et que vous recherchez du travail, être inscrit au RAV n'est plus qu'une démarche : c'est un réel avantage par rapport à ceux qui ne le sont pas.</p>
+<p>La liste des professions soumises à déclaration obligatoire est mise à jour chaque année en fonction du taux de chômage par secteur. Pour savoir si votre profil professionnel figure dans la liste, vous pouvez le consulter directement sur le site arbeit.swiss (outil "Check-Up 2026"). Si votre profession est inscrite et que vous recherchez du travail, être inscrit au RAV n'est plus qu'une démarche : c'est un réel avantage par rapport à ceux qui ne le sont pas.</p>
 </div>`
     },
 
@@ -626,10 +626,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "28 avril 2026",
         featuredImage: "media/guides/actualidad-primero-mayo-suiza.jpg",
-        imageAlt: "Primero de mayo en Suiza festivo y día de mudanzas",
+        imageAlt: "Fête du 1er mai en Suisse et jour du déménagement",
         summary: "Vendredi prochain est le 1er mai, et si vous êtes espagnol, vous avez toute votre vie associé cette date à la Fête du Travail, fête nationale sans exception. En Suisse, le…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Vendredi prochain est le 1er mai, et si vous êtes espagnol, vous avez toute votre vie associé cette date à la Fête du Travail, fête nationale sans exception. En Suisse, les choses sont différentes, et il vaut la peine de le comprendre avant de supposer que vous avez un jour de congé. Le 1er mai est un jour férié uniquement dans certains cantons : Bâle-Ville, Bâle-Campagne, Zurich, Lucerne, Schaffhouse, Soleure, Thurgovie, Tessin, Neuchâtel et Jura. Sinon, c'est un jour ouvrable normal. Genève, Vaud, le Valais, Fribourg ou Berne, par exemple, ne le reconnaissent pas comme jour férié.</p>
 <p>Mais il y a un autre aspect du 1er mai en Suisse qui surprend encore plus ceux qui ne sont ici que depuis peu de temps : c'est le jour du déménagement. Avec le 1er octobre, elle marque le traditionnel changement des contrats de location. Une partie importante des baux commencent et se terminent à ces dates, transformant cette journée en un festival national de fourgons, de box et d'ascenseurs bloqués. Si votre contrat de location a commencé ou se termine maintenant, ce n'est pas un hasard, c'est la coutume suisse.</p>
 <p>La combinaison peut être pittoresque : dans les cantons où c'est un jour férié, les gens se déplacent avec la ville fermée. Dans ceux qui ne le sont pas, vous allez travailler et revenez pour trouver le palier plein de meubles. La conclusion pratique est claire : si vous voulez savoir si vous avez un jour de congé le 1er mai, ce qui compte n'est pas le calendrier espagnol mais le canton où est située votre entreprise. Et si vous êtes sur le point de signer ou de rompre un bail, il y a de fortes chances que votre date de début ou de fin soit le 1er mai ou le 1er octobre, car c'est ainsi que cela fonctionne ici depuis des décennies.</p>
@@ -647,10 +647,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "28 avril 2026",
         featuredImage: "media/guides/actualidad-teletrabajo-francia-suiza.jpg",
-        imageAlt: "Teletrabajo desde Francia para empresa suiza nuevas reglas",
+        imageAlt: "Télétravail depuis la France pour les nouvelles règles d'une entreprise suisse",
         summary: "De nombreux Espagnols qui travaillent en Suisse vivent dans la zone frontalière française, notamment dans la région de Genève, de Bâle ou de l'arc jurassien. Pour tout cela...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>De nombreux Espagnols qui travaillent en Suisse vivent dans la zone frontalière française, notamment dans la région de Genève, de Bâle ou de l'arc jurassien. Pour tous, le télétravail constituait jusqu’à présent une zone grise fiscale et administrative. Depuis le 1er janvier 2026, cette zone grise est dotée de règles écrites et bien définies, qui remplacent définitivement les dispositions transitoires permises pendant la pandémie et qui avaient été prolongées.</p>
 <p>L'accord révisé entre la France et la Suisse prévoit qu'un frontalier résidant en France peut télétravailler à domicile jusqu'à 40% de ses journées de travail annuelles sans perdre en fiscalité en Suisse. Cela comprend également un bagage de 10 jours supplémentaires pour les activités professionnelles exercées dans d’autres pays. La condition essentielle est que l'employeur suisse respecte les obligations déclaratives: il doit soumettre des déclarations mensuelles de télétravail et obtenir les attestations de sécurité sociale A1 correspondantes. Ce n'est pas une procédure facultative.</p>
 <p>Ce qui change dans la pratique, c'est qu'il n'y a plus d'ambiguïté : toute personne dépassant le seuil de 40 % peut être reclassée fiscalement par les autorités françaises. Les cantons concernés par des accords transfrontaliers particuliers, dont Genève, Vaud, Bâle-Ville et Neuchâtel, sont également obligés d'échanger des données salariales avec l'administration fiscale française à partir de 2027. Quiconque gère sa situation sans en tenir compte peut avoir une mauvaise surprise dans la déclaration. Si vous travaillez pour une entreprise suisse et résidez de l'autre côté de la frontière, il est temps de vérifier combien de jours vous travaillez à distance et si votre employeur a mis à jour son système de notification.</p>
@@ -668,10 +668,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "29 avril 2026",
         featuredImage: "media/guides/actualidad-lex-koller-suiza.jpg",
-        imageAlt: "Lex Koller restricciones inmuebles extranjeros en Suiza",
+        imageAlt: "Restrictions de la loi Koller sur les biens immobiliers étrangers en Suisse",
         summary: "Le 15 avril, le Conseil fédéral a lancé une consultation sur une réforme significative de la Lex Koller, la loi qui encadre l'achat de biens immobiliers par des ex…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Le 15 avril, le Conseil fédéral a lancé une consultation sur une réforme significative de la Lex Koller, la loi qui réglemente l'achat de biens immobiliers par des étrangers en Suisse. Le projet, qui sera ouvert aux commentaires jusqu'au 15 juillet, propose des restrictions considérablement plus strictes pour les citoyens des pays hors UE et AELE: ils devraient demander un permis individuel avant d'acheter une première résidence et s'ils quittent la Suisse, ils seraient obligés de vendre la propriété dans un délai de deux ans. Par ailleurs, la possibilité d’acquérir un bien immobilier commercial dans le seul but de le louer disparaîtrait.</p>
 <p>Pour les Espagnols, la réponse directe est que cette réforme ne vous concerne pas : en tant que citoyens de l’UE, vous continuez à être exemptés des restrictions de la Lex Koller pour l’achat d’une résidence principale. Mais le contexte compte. Le gouvernement suisse justifie ces changements comme une réponse à la pression sur le marché immobilier, où les prix d'achat ont augmenté de plus de 20% depuis début 2024. Si le marché d'achat pour les non-européens devient encore plus compliqué, la demande de location continuera de croître, et cela concerne tous ceux qui vivent ici.</p>
 <p>Ce qu’il convient de surveiller, c’est l’effet indirect : les sociétés multinationales qui achetaient des appartements pour loger des dirigeants étrangers originaires de pays tiers ne pouvaient plus le faire dans les mêmes conditions. Cela entraîne une demande accrue vers la location privée dans des régions déjà assez difficiles comme Zurich, Genève ou Bâle. Ce n’est pas de l’alarmisme, c’est de l’arithmétique de marché.</p>
@@ -689,10 +689,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "29 avril 2026",
         featuredImage: "media/guides/actualidad-impuesto-fuente-correccion.jpg",
-        imageAlt: "Corrección del impuesto a la fuente Quellensteuer en Suiza",
+        imageAlt: "Correction de l'impôt à la source Quellensteuer en Suisse",
         summary: "La majorité des Espagnols arrivés en Suisse sans permis C ni conjoint suisse paient des impôts via la retenue à la source, appelée en allemand Quellensteu…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>La majorité des Espagnols arrivés en Suisse sans permis C ni conjoint suisse paient des impôts par retenue à la source, appelée en allemand Quellensteuer et en français impôt à la source. Votre employeur prélève chaque mois un pourcentage de votre salaire et le transfère directement au canton. Cela semble simple : vous n’avez rien à faire. Le problème est que ce pourcentage est calculé en fonction de paramètres de base, de l'état civil et des enfants, sans rien prendre en compte d'autre. Et cela signifie que si vous avez des dépenses déductibles, vous payez presque certainement trop cher.</p>
 <p>Depuis la réforme de 2021, pleinement en vigueur dans la plupart des cantons, toute personne soumise au prélèvement à la source peut demander une «rectification ordinaire» si elle a des dépenses justifiant une déduction supplémentaire: troisième pilier (3a), primes d'assurance maladie dépassant la déduction forfaitaire, frais de formation professionnelle, transport jusqu'au lieu de travail avec frais réels ou frais médicaux non couverts dépassant le seuil déductible. Ce n’est pas une procédure complexe, mais il faut la démarrer. Dans la plupart des cantons, le délai ordinaire était le 31 mars, mais une prolongation peut être demandée et, dans de nombreux cantons, elle est accordée automatiquement ou sur un simple formulaire.</p>
 <p>Il existe un autre cas auquel il faut prêter attention : si en 2025 vos revenus bruts dépassaient 120'000 francs par an dans un seul canton, la loi vous oblige à présenter une déclaration ordinaire complète, que vous ayez ou non des dépenses déductibles. Ce n’est pas facultatif. Si vous n'êtes pas sûr de votre situation, cela vaut la peine de vous renseigner auprès du service cantonal des impôts avant la fin du premier semestre. Chaque canton gère cela légèrement différemment, et les délais et seuils peuvent varier.</p>
@@ -710,10 +710,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "29 avril 2026",
         featuredImage: "media/guides/actualidad-psicologo-seguro-basico-suiza.jpg",
-        imageAlt: "Psicólogo cubierto por seguro médico básico LAMal en Suiza",
+        imageAlt: "Psychologue couvert par l'assurance maladie de base LAMal en Suisse",
         summary: "Depuis juillet 2022, il y a un changement en Suisse que de nombreux résidents, dont de nombreux Espagnols, ignorent encore : les psychologues agréés peuvent facturer...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Depuis juillet 2022, il y a un changement en Suisse que de nombreux résidents, dont de nombreux Espagnols, ignorent encore : les psychologues agréés peuvent facturer directement à l'assurance maladie obligatoire (LAMal/LAMal) sans avoir besoin d'un psychiatre pour prodiguer le traitement. Il n’y a qu’une seule condition : le médecin de famille doit délivrer une ordonnance indiquant la nécessité d’un suivi psychologique. De là, le patient peut s'adresser à un psychologue accrédité dans le cadre de ce système, et les séances entrent dans la couverture de base.</p>
 <p>Avant cette réforme, le trajet habituel était plus long et plus coûteux. Soit il s'est adressé à un psychiatre, dont les rendez-vous ont des listes d'attente considérables, soit il a payé de sa poche. Désormais, une visite chez le médecin de famille suffit pour obtenir l'ordonnance, ce qui ouvre en pratique l'accès à des soins qui étaient auparavant hors de portée financière pour de nombreuses personnes. Le ticket modérateur standard de l'assurance continue de s'appliquer : on consomme d'abord la franchise, puis la participation de 10% jusqu'au plafond annuel de 700 francs pour les adultes.</p>
 <p>Ce qu’il est important de savoir avant de commencer, c’est que tous les psychologues ne sont pas autorisés à facturer dans le cadre de ce régime. Il est nécessaire de vérifier que le professionnel dispose de l'autorisation correspondante et est inscrit au Registre des Professions de Santé (RPS). Si vous habitez dans un canton romand, la plateforme psyfinder.ch peut vous aider à trouver des psychologues disponibles avec ce système. Dans les cantons allemands, chaque assureur dispose généralement de son propre moteur de recherche. Et oui, cela fonctionne également avec des séances en espagnol si vous trouvez un psychologue hispanophone agréé.</p>
@@ -731,14 +731,14 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "30 avril 2026",
         featuredImage: "media/guides/actualidad-ley-ruido-vivienda-suiza.jpg",
-        imageAlt: "Nueva ley del ruido para construcción de vivienda en Suiza",
+        imageAlt: "Nouvelle loi sur le bruit pour la construction de logements en Suisse",
         summary: "Depuis le 1er avril 2026, la révision partielle de la loi fédérale sur la protection de l'environnement (LPE) et de l'ordonnance sur la protection de l'environnement est en vigueur.",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>La révision partielle de la loi fédérale sur la protection de l'environnement (LPE) et de l'ordonnance sur la protection contre le bruit (OPB) est en vigueur depuis le 1er avril 2026. En pratique, les autorités cantonales et communales peuvent désormais autoriser la construction de logements dans des zones bruyantes même si les valeurs limites d'immission sont légèrement dépassées devant les fenêtres. Jusqu'à présent, ces limites bloquaient des milliers de projets à proximité des routes, des voies ferrées ou des lignes de tramway, notamment à Genève, Vaud et Zurich, où le manque d'appartements est depuis des années le sujet favori de toute conversation entre voisins.</p>
-<p>La nouvelle règle n’est pas un chèque en blanc. Lorsque les valeurs limites ne peuvent être respectées avec des efforts raisonnables, le permis de construire n'est accordé que si des mesures compensatoires appropriées sont installées dans les pièces, comme une ventilation contrôlée pour éviter de devoir ouvrir la fenêtre, ou des protections spécifiques sur les façades. L'idée affichée du Conseil fédéral est de mieux coordonner la lutte contre le bruit avec l'aménagement urbain vers l'intérieur, ce qui est la ligne officielle depuis la révision du LAT.</p>
-<p>Pour ceux qui recherchent un appartement, cela change peu à court terme, mais il faut savoir qu'un nouveau bâtiment parfaitement légal peut se trouver dans une zone où l'autorisation n'aurait même pas été donnée auparavant. Si l'annonce indique \"lumineux et calme\" mais que la propriété fait face à une route très fréquentée, la ventilation mécanique et le verre renforcé sont désormais la norme et non un luxe. Avant de signer, il convient de demander au propriétaire le rapport acoustique du projet, d'ouvrir la fenêtre aux heures de pointe et de demander de quel système de ventilation la maison est équipée.</p>
-<p>Pour ceux qui envisagent d’acheter ou d’investir dans un nouveau projet, la réforme ouvre la porte à davantage d’offres dans des quartiers bien connectés qui étaient jusqu’ici gelées. La Confédération parle de quelques dizaines de milliers de logements potentiels dans toute la Suisse. La mesure mettra du temps à être remarquée sur le marché, car entre planification, oppositions et construction, dans ce pays personne ne construit un immeuble en six mois, sauf dans les discours électoraux.</p>
+        content: `<div class="article-content">
+<p>Depuis le 1er avril 2026, la révision partielle de la loi fédérale sur la protection de l'environnement (LPE) et de l'ordonnance sur la protection contre le bruit (OPB) est en vigueur. En pratique, les autorités cantonales et communales peuvent désormais autoriser la construction de logements dans des zones bruyantes même si les valeurs limites d'immission sont légèrement dépassées devant les fenêtres. Jusqu'à présent, ces limites bloquaient des milliers de projets à proximité des routes, des voies ferrées ou des lignes de tramway, notamment à Genève, Vaud et Zurich, où le manque d'appartements est depuis des années le sujet favori de toute conversation entre voisins.</p>
+<p>La nouvelle règle n'est pas un chèque en blanc. Lorsque les valeurs limites ne peuvent être respectées avec des efforts raisonnables, le permis de construire n'est accordé que si des mesures compensatoires appropriées sont installées dans les pièces, comme une ventilation contrôlée pour éviter de devoir ouvrir la fenêtre, ou des protections spécifiques sur les façades. L'idée affichée du Conseil fédéral est de mieux coordonner la lutte contre le bruit avec le développement urbain vers l'intérieur, ce qui est la ligne officielle depuis la révision du LAT.</p>
+<p>Pour ceux qui recherchent un appartement, cela change peu à court terme, mais il faut savoir qu'un nouveau bâtiment parfaitement légal peut se trouver dans une zone où l'autorisation n'aurait même pas été donnée auparavant. Si l'annonce indique "lumineux et calme" mais que la propriété fait face à une route très fréquentée, la ventilation mécanique et le verre renforcé sont désormais la norme et non un luxe. Avant de signer, il convient de demander au propriétaire le rapport acoustique du projet, d'ouvrir la fenêtre aux heures de pointe et de demander de quel système de ventilation la maison est équipée.</p>
+<p>Pour ceux qui envisagent d'acheter ou d'investir dans un nouveau projet, la réforme ouvre la porte à davantage d'offres dans des quartiers bien connectés qui étaient jusqu'à présent gelées. La Confédération parle de quelques dizaines de milliers de logements potentiels dans toute la Suisse. La mesure mettra du temps à être remarquée sur le marché, car entre planification, oppositions et construction, dans ce pays personne ne construit un immeuble en six mois, sauf dans les discours électoraux.</p>
 </div>`
     },
 
@@ -753,14 +753,14 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "30 avril 2026",
         featuredImage: "media/guides/actualidad-defectos-construccion-suiza.jpg",
-        imageAlt: "Plazo de 60 días para reclamar defectos de construcción en Suiza",
+        imageAlt: "Délai de 60 jours pour réclamer des vices de construction en Suisse",
         summary: "Depuis le 1er janvier 2026, la révision du droit à la garantie des défauts dans le Code des Obligations est en vigueur. La principale nouveauté est un délai légal…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>Depuis le 1er janvier 2026, la révision du droit à la garantie des défauts dans le Code des Obligations est en vigueur. La principale nouveauté est un délai légal unique de 60 jours pour notifier au constructeur ou au vendeur tout vice, qu'il soit visible à la réception des travaux ou découvert ultérieurement. Auparavant, la loi exigeait la notification du défaut « immédiatement », expression élastique qui, en pratique, était généralement interprétée comme trois à dix jours, le locataire ou l'acheteur s'exposant éternellement à perdre ses droits pour un léger retard.</p>
-<p>Le changement est important car l’échéance est désormais impérative. Toute clause d'un contrat signé à compter du 1er janvier 2026 qui réduit ces 60 jours au détriment de l'acheteur ou du propriétaire est nulle. Il en va de même pour le délai de prescription de cinq ans en matière de construction immobilière, qui ne peut pas non plus être raccourci contractuellement. Et les personnes qui achètent une maison neuve ou un immeuble de moins de deux ans après la livraison ont désormais un droit légal à une réparation gratuite, avec des conditions que le vendeur ne peut plus éviter avec une clause standard.</p>
-<p>Pour les Espagnols qui achètent un appartement ici, c'est une bonne nouvelle. De nombreux contrats suisses comportaient des clauses qui limitaient la responsabilité du vendeur à un point tel que faire valoir un défaut grave relevait presque d'un miracle juridique. Ces clauses restent légales pour le reste du régime de garantie, mais plus pour les points protégés par la nouvelle loi. Si vous avez signé un contrat avant 2026, le régime précédent s’applique toujours, il vaut donc la peine de vérifier la date exacte avant de se battre avec le promoteur.</p>
-<p>Concrètement, il convient de documenter tout ce qui est vu depuis la remise des clés : photos, vidéos, une visite technique avec un expert si l'opération est importante. Et formulez toute réclamation par écrit, idéalement par lettre certifiée, afin que les 60 jours ne deviennent pas une affaire de parole contre parole. La Suisse ne pardonne pas les délais, mais au moins, vous savez désormais de quoi il s'agit.</p>
+        content: `<div class="article-content">
+<p>A partir du 1er janvier 2026, la révision du droit à la garantie des défauts dans le Code des Obligations est en vigueur. La principale nouveauté est un délai légal unique de 60 jours pour notifier au constructeur ou au vendeur tout vice, qu'il soit visible à la réception des travaux ou découvert ultérieurement. Auparavant, la loi exigeait la notification du défaut "immédiatement", expression élastique qui, en pratique, était généralement interprétée comme trois à dix jours, le locataire ou l'acheteur s'exposant éternellement à perdre ses droits pour un léger retard.</p>
+<p>Le changement est important car le délai est désormais impératif. Toute clause d'un contrat signé à compter du 1er janvier 2026 qui réduit ces 60 jours au détriment de l'acheteur ou du propriétaire est nulle. Il en va de même pour le délai de prescription de cinq ans en matière de construction immobilière, qui ne peut pas non plus être raccourci contractuellement. Et les personnes qui achètent une maison neuve ou un immeuble de moins de deux ans à compter de la livraison ont désormais un droit légal à une réparation gratuite, avec des conditions que le vendeur ne peut plus éviter avec une clause standard.</p>
+<p>Pour les Espagnols qui achètent un appartement ici, c'est une bonne nouvelle. De nombreux contrats suisses comportaient des clauses qui limitaient la responsabilité du vendeur à un point tel que faire valoir un défaut grave relevait presque d'un miracle juridique. Ces clauses restent légales pour le reste du régime de garantie, mais plus pour les points protégés par la nouvelle loi. Si vous avez signé un contrat avant 2026, le régime précédent s'applique toujours, il vaut donc la peine de vérifier la date exacte avant de vous battre avec le promoteur.</p>
+<p> Concrètement, il convient de documenter tout ce qui se voit dès la remise des clés : des photos, des vidéos, une visite technique avec un expert si l'opération est importante. Et formulez toute réclamation par écrit, idéalement par lettre certifiée, afin que les 60 jours ne deviennent pas une affaire de parole contre parole. La Suisse ne pardonne pas les délais, mais au moins maintenant vous savez de quoi il s'agit.</p>
 </div>`
     },
 
@@ -775,14 +775,14 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "30 avril 2026",
         featuredImage: "media/guides/actualidad-electricidad-canton-suiza.jpg",
-        imageAlt: "Precio de la electricidad por cantón en Suiza 2026",
+        imageAlt: "Prix ​​de l'électricité par canton en Suisse 2026",
         summary: "La Commission fédérale de l'électricité (ElCom) a confirmé que les tarifs de base diminueront en moyenne de 4% pour les ménages en 2026. Le tarif…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>La Commission fédérale de l'électricité (ElCom) a confirmé que les tarifs de base diminueront en moyenne de 4% pour les ménages en 2026. Le tarif moyen global s'élève à 27,7 cts/kWh, contre 29 l'année dernière, ce qui représente une économie moyenne de 58 francs par an pour un ménage type. La raison est simple : les contrats de fourniture signés en 2022 et 2023 à des prix exorbitants arrivent à expiration et les nouveaux sont conclus à des prix plus raisonnables sur le marché européen.</p>
-<p>Le détail qui dérange, c’est que la moyenne nationale cache d’énormes différences selon le lieu de résidence. La Chaux-de-Fonds chute de 15%, Lausanne de 12%, tandis que Zermatt augmente de 18%. Il existe des communes voisines avec des tarifs qui diffèrent de plus de 30%, tout simplement parce que le fournisseur local dépend de contrats différents, de son mix de production et des investissements de réseau prévus. En Suisse, le code postal ne détermine pas seulement le montant des impôts que vous payez, mais également le montant qu'il vous en coûte pour allumer la lumière.</p>
-<p>Autre nouveauté pratique : les frais de mesure, qui jusqu'à présent étaient inclus dans la facture, sont désormais facturés séparément. Pour une habitation normale c'est 74,40 francs par an, soit 1,65 ct./kWh supplémentaire selon le type de profil. Ce n'est pas une augmentation déguisée, les montants étaient déjà là avant, mais la répartition en surprendra plus d'un lorsque la facture annuelle arrivera avec deux nouvelles lignes au lieu d'une.</p>
-<p>Pour ceux qui peuvent choisir un fournisseur, il convient de comparer avant juin, date à laquelle de nombreux contrats libéralisés sont renégociés pour l'hiver. Pour le reste, lié au fournisseur de base de la communauté, la seule action utile est de continuer à réduire la consommation : l'électronique en veille, les radiateurs électriques et le chauffe-eau continuent d'être les grands coupables silencieux. Les tarifs baissent, mais nous payons toujours 30 % de plus qu’en 2022, donc la fête n’a rien d’extraordinaire.</p>
+        content: `<div class="article-content">
+<p>La Commission fédérale de l'électricité (ElCom) a confirmé que les tarifs de base diminueront en moyenne de 4% pour les ménages en 2026. Le tarif moyen global est de 27,7 cts/kWh, contre 29 l'année dernière, ce qui correspond à une économie moyenne de 58 francs par an pour un ménage type. La raison est simple : les contrats de fourniture signés en 2022 et 2023 à des prix exorbitants expirent et les nouveaux sont conclus à des prix plus raisonnables sur le marché européen.</p>
+<p>Le détail qui dérange, c'est que la moyenne nationale cache d'énormes différences selon l'endroit où l'on habite. La Chaux-de-Fonds chute de 15%, Lausanne de 12%, tandis que Zermatt augmente de 18%. Il existe des communes voisines avec des tarifs qui diffèrent de plus de 30%, tout simplement parce que le fournisseur local dépend de contrats différents, de son mix de production et des investissements de réseau prévus. En Suisse, le code postal ne décide pas seulement du montant des impôts que vous payez, il décide également du coût d'allumage de la lumière.</p>
+<p>Autre nouveauté pratique : les frais de mesures, qui jusqu'à présent étaient inclus dans la facture, sont désormais facturés séparément. Pour une habitation normale c'est 74,40 francs par an, soit 1,65 ct./kWh supplémentaire selon le type de profil. Ce n'est pas une augmentation déguisée, les montants étaient déjà là avant, mais la répartition en surprendra plus d'un lorsque la facture annuelle arrivera avec deux nouvelles lignes au lieu d'une.</p>
+<p>Pour ceux qui peuvent choisir un fournisseur, il est conseillé de comparer avant juin, date à laquelle de nombreux contrats libéralisés sont renégociés pour l'hiver. Pour le reste, lié au fournisseur de base de la communauté, la seule action utile est de continuer à réduire la consommation : l'électronique en veille, les radiateurs électriques et le chauffe-eau continuent d'être les grands coupables silencieux. Les tarifs baissent, mais nous payons toujours 30 % de plus qu'en 2022, donc la fête n'a rien d'extraordinaire.</p>
 </div>`
     },
 
@@ -797,10 +797,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "1 mai 2026",
         featuredImage: "media/guides/actualidad-referendum-junio-espanoles.jpg",
-        imageAlt: "Referéndum del 14 de junio y su impacto en españoles en Suiza",
+        imageAlt: "Le référendum du 14 juin et son impact sur les Espagnols en Suisse",
         summary: "Le 14 juin, les citoyens suisses voteront sur une initiative de l'UDC proposant de limiter la population résidant en Suisse à un maximum de 10 millions de personnes…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Le 14 juin, les citoyens suisses voteront sur une initiative de l'UDC proposant de limiter la population résidant en Suisse à un maximum de 10 millions de personnes. Actuellement, il y en a un peu plus de 9,1 millions, la marge n’est donc pas aussi large qu’il y paraît. Ce qui rend cette question sérieuse pour nous, c'est ce qui vient après la limite : si l'initiative est approuvée, le gouvernement serait obligé de mettre fin à l'accord de libre circulation des personnes avec l'Union européenne une fois que les 9,5 millions de personnes seront atteints.</p>
 <p>Pour les citoyens européens qui résident ici avec un permis B ou C, cet accord bilatéral constitue la base juridique de notre statut. C'est ce qui permet à un Espagnol d'arriver en Suisse avec un contrat de travail et d'obtenir un permis de séjour sans passer par les quotas réservés aux pays tiers. Si cet accord échoue, nous ne disparaîtrons pas du jour au lendemain, les permis déjà accordés sont valables, mais le cadre juridique qui les soutient change structurellement et les futurs renouvellements pourraient devenir compliqués.</p>
 <p>Le gouvernement fédéral et la majorité du Conseil fédéral s'opposent à cette initiative. Les sondages actuels lui donnent de réelles chances d'être rejeté, mais en Suisse, les référendums ont la mauvaise habitude de surprendre. Le sensé est de suivre le débat, de comprendre exactement ce que propose le texte et, si vous avez le droit de voter parce que vous avez déjà la nationalité suisse, de l'utiliser. Et si vous ne l’avez pas, sachez au moins quels sont les enjeux pour ne pas le savoir le 15 juin.</p>
@@ -818,10 +818,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "1 mai 2026",
         featuredImage: "media/guides/actualidad-acoso-delito-codigo-penal-suiza.jpg",
-        imageAlt: "Acoso como delito independiente en el Código Penal suizo",
+        imageAlt: "Le harcèlement comme crime indépendant dans le Code pénal suisse",
         summary: "Depuis le 1er janvier 2026, le harcèlement criminel, le harcèlement persistant d'une personne, constitue un crime autonome dans le Code pénal suisse. Avant, ces comportements étaient per…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Depuis le 1er janvier 2026, le harcèlement criminel, le harcèlement persistant d'une personne, constitue un crime autonome dans le Code pénal suisse. Auparavant, ces comportements étaient poursuivis de manière dispersée au titre d'autres délits, ce qui compliquait grandement l'action policière et judiciaire. Il existe désormais un article spécifique qui permet d'agir sans avoir besoin de démontrer d'autres éléments criminels collatéraux, et les peines peuvent aller jusqu'à trois ans de prison.</p>
 <p>En pratique, cela signifie que si quelqu'un vous suit, vous appelle de manière obsessionnelle, se présente à plusieurs reprises à votre travail ou à votre domicile ou vous harcèle systématiquement sur les réseaux sociaux, il existe déjà une base légale directe pour le signaler. Le seuil de « persistance » compte, ce n’est pas un appel gênant, c’est un comportement répété qui perturbe votre quotidien. Mais le fait qu'il s'agisse désormais d'un délit classé change l'attitude de la police lorsqu'on porte plainte.</p>
 <p>Pour la communauté espagnole, qui navigue fréquemment dans les groupes d’expatriés et les réseaux sociaux avec des personnes qu’elle ne connaît pas bien, cela est également pertinent au niveau numérique. La cyberintimidation soutenue entre dans la catégorie criminelle. Si vous vous trouvez dans cette situation, le signalement à la police cantonale est la première étape et a désormais plus de poids juridique qu'auparavant.</p>
@@ -839,26 +839,28 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "1 mai 2026",
         featuredImage: "media/guides/actualidad-pilar-3a-deduccion-fiscal.jpg",
-        imageAlt: "Deducción fiscal del pilar 3a en Suiza 2026",
+        imageAlt: "Déduction fiscale du pilier 3a en Suisse 2026",
         summary: "En 2026, le plafond de déduction fiscale pour le pilier 3a a de nouveau augmenté. Les salariés qui cotisent au deuxième pilier peuvent déduire jusqu’à 7’258 francs…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>En 2026, le plafond de déduction fiscale pour le pilier 3a a de nouveau augmenté. Les salariés qui cotisent au deuxième pilier peuvent déduire jusqu'à 7'258 francs de leur assiette fiscale, tandis que les indépendants sans deuxième pilier peuvent déduire jusqu'à 36'288 francs. Ces chiffres sont mis à jour périodiquement en fonction du salaire moyen assuré, et 2026 apporte une augmentation par rapport à l’année précédente.</p>
 <p>Le pilier 3a est l'épargne privée liée à la retraite que l'État suisse accorde par des incitations fiscales. Vous ouvrez un compte dans une banque ou une compagnie d'assurance, indiquez le montant souhaité dans la limite légale et ce montant est soustrait directement de votre revenu imposable dans la déclaration. Selon le canton et votre niveau de salaire, les économies d'impôts réelles peuvent être considérables, parfaitement entre 1'500 et 3'000 francs d'impôts en moins par an pour quelqu'un avec un salaire moyen.</p>
 <p>Ce que beaucoup de gens ne savent pas, surtout ceux qui ne sont en Suisse que depuis quelques années, c'est qu'on peut ouvrir plusieurs comptes 3a dans différentes institutions, et qu'une fois arrivé à la retraite, on peut les racheter à différentes années pour réduire l'impact fiscal du sauvetage. La date limite de cotisation pour l’exercice 2026 est le 31 décembre, mais il convient de ne pas s’y attendre à la dernière minute si l’on souhaite comparer les conditions entre banques et fonds d’investissement. Certains offrent des rendements nettement meilleurs que d’autres.</p>
 </div>`
     },
 
-    "fb-daily-20260503-01-changer-de-canton-en-suisse-ne-se-resume-pas-a-changer-dadresse": {
+    "fb-daily-20260503-01-cambiar-de-canton-en-suiza-no-es-solo-cambiar-de-direccion": {
         title: "Changer de canton en Suisse ne se résume pas à changer d'adresse",
         description: "Si vous êtes ici depuis un certain temps, vous savez probablement déjà que la Suisse ne fonctionne pas comme un pays centralisé. Chaque canton a sa propre…",
         keywords: "changer, canton, suisse, résume, adresse, vous, êtes, depuis",
         keywordsLocalized: true,
         category: "Vivre en Suisse",
-        hub: "vivir-en-suiza",
-        slug: "actualidad-2026-05-03-1-changer-de-canton-en-suisse-ne-se-resume-pas-a-changer-dadresse",
+        hub: "tramites",
+        slug: "actualidad-2026-05-03-1-cambiar-de-canton-en-suiza-no-es-solo-cambiar-de-direccion",
         readingTime: 2,
         dateUpdated: "3 mai 2026",
+        featuredImage: "media/guides/actualidad-cambio-canton-suiza.jpg",
+        imageAlt: undefined,
         summary: "Si vous êtes ici depuis un certain temps, vous savez probablement déjà que la Suisse ne fonctionne pas comme un pays centralisé. Chaque canton a sa…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -871,16 +873,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260503-02-si-vous-tombez-malade-en-suisse-voici-ce-que-vous-devez-faire-et-ce-qu": {
+    "fb-daily-20260503-02-si-te-pones-enfermo-en-suiza-esto-es-lo-que-debes-hacer-y-lo-que-te-cu": {
         title: "Si vous tombez malade en Suisse, voici ce que vous devez faire et ce qui vous couvre",
         description: "L'arrêt de travail en Suisse fonctionne de manière assez différente du système espagnol, et le comprendre avant d'en avoir besoin évite des surprises…",
         keywords: "vous, tombez, malade, suisse, voici, devez, faire, couvre",
         keywordsLocalized: true,
         category: "Démarches et permis",
-        hub: "tramites",
-        slug: "actualidad-2026-05-03-2-si-vous-tombez-malade-en-suisse-voici-ce-que-vous-devez-faire-et-ce-qu",
+        hub: "salud",
+        slug: "actualidad-2026-05-03-2-si-te-pones-enfermo-en-suiza-esto-es-lo-que-debes-hacer-y-lo-que-te-cu",
         readingTime: 1,
         dateUpdated: "3 mai 2026",
+        featuredImage: "media/guides/actualidad-baja-enfermedad-suiza.jpg",
+        imageAlt: undefined,
         summary: "L'arrêt de travail en Suisse fonctionne de manière assez différente du système espagnol, et le comprendre avant d'en avoir besoin évite des surprises…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -892,16 +896,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260503-03-le-dentiste-en-suisse-nest-pas-couvert-par-lassurance-de-base-et-beauc": {
+    "fb-daily-20260503-03-el-dentista-en-suiza-no-lo-cubre-el-seguro-basico-y-muchos-lo-descubre": {
         title: "Le dentiste en Suisse n'est pas couvert par l'assurance de base, et beaucoup le découvrent à leurs dépens",
         description: "En Espagne, la sécurité sociale couvre quelques prestations dentaires de base. Ce n'est pas grand-chose, mais il y a quelque chose. En Suisse, l'assurance…",
         keywords: "dentiste, suisse, couvert, assurance, base, beaucoup, découvrent, leurs",
         keywordsLocalized: true,
         category: "Santé et LAMal",
         hub: "salud",
-        slug: "actualidad-2026-05-03-3-le-dentiste-en-suisse-nest-pas-couvert-par-lassurance-de-base-et-beauc",
+        slug: "actualidad-2026-05-03-3-el-dentista-en-suiza-no-lo-cubre-el-seguro-basico-y-muchos-lo-descubre",
         readingTime: 1,
         dateUpdated: "3 mai 2026",
+        featuredImage: "media/guides/actualidad-dentista-suiza-seguro.jpg",
+        imageAlt: undefined,
         summary: "En Espagne, la sécurité sociale couvre quelques prestations dentaires de base. Ce n'est pas grand-chose, mais il y a quelque chose. En Suisse,…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -910,6 +916,72 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Les prix sont conformes à ceux du pays. Un détartrage de base coûte environ 150-200 francs. Une extraction peut coûter entre 200 et 500. Un implant complet entre 3'000 et 5'000 francs par pièce. Une orthodontie pour adultes peut dépasser les 10'000.</p>
 <p>Il est possible de souscrire une Zusatzversicherung dentaire (assurance complémentaire dentaire), mais elle a ses propres règles : presque toutes les assurances exigent une période d'attente de plusieurs mois avant de commencer à couvrir, elles ont un plafond annuel (généralement entre 50 et 75 % des frais, jusqu'à un maximum de 1'000 à 3'000 francs par an) et ne couvrent pas les traitements déjà en cours au moment de la souscription.</p>
 <p>Le conseil pratique : souscrivez-la à votre arrivée, avant qu'il n'y ait le moindre problème. Et consultez régulièrement le dentiste ; ici, la prévention coûte beaucoup moins cher que l'intervention.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-01-el-seguro-de-accidentes-en-suiza-no-cubre-todo-lo-que-te-pasa-en-el-tr": {
+        title: "L'assurance accidents en Suisse ne couvre pas tout ce qui vous arrive au travail",
+        description: "De nombreux Espagnols qui viennent travailler ici supposent que « l'assurance accident » couvre tous les problèmes de santé liés au travail. Cette confusion...",
+        keywords: "assurance, accidents, suisse, couvertures, tout, arrive, travail, beaucoup",
+        keywordsLocalized: true,
+        category: "Santé et LAMal",
+        hub: "salud",
+        slug: "actualidad-2026-05-02-1-el-seguro-de-accidentes-en-suiza-no-cubre-todo-lo-que-te-pasa-en-el-tr",
+        readingTime: 2,
+        dateUpdated: "2 mai 2026",
+        featuredImage: "media/guides/actualidad-seguro-accidentes-trabajo-suiza.jpg",
+        imageAlt: "Limites de l'assurance accidents du travail en Suisse",
+        summary: "De nombreux Espagnols qui viennent travailler ici supposent que « l'assurance accident » couvre tous les problèmes de santé liés au travail. Que…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>De nombreux Espagnols qui viennent travailler ici supposent que « l'assurance accident » couvre tout problème de santé lié au travail. Cette confusion peut coûter cher. La loi fédérale sur l'assurance-accidents (LAA) distingue deux catégories bien distinctes : l'accident, qui est un événement soudain, externe et involontaire, et la maladie professionnelle, qui est une pathologie provoquée principalement par l'activité professionnelle. La différence n'est pas sémantique : elle dépend de qui paie, combien et pour combien de temps.</p>
+<p>Pour que la SUVA reconnaisse une maladie comme professionnelle, elle doit être causée par le travail à plus de 50% pour les maladies inscrites sur la liste officielle, et à plus de 75% pour celles qui ne le sont pas. Les affections liées au bruit continu, certaines allergies cutanées, les pathologies respiratoires dues à l'exposition à des substances toxiques ou les maladies musculo-squelettiques liées aux postures de travail peuvent entrer dans cette catégorie, mais la reconnaissance n'est pas automatique et le processus peut durer des mois. Pendant ce temps, de nombreux travailleurs se retrouvent dans une zone grise que personne ne leur avait expliquée.</p>
+<p>Le vrai problème apparaît lorsque la SUVA détermine que la cause du travail n'atteint pas le seuil requis. Dans ce cas, la maladie devient à la charge de l'assurance maladie (LAMal), qui prend en charge les frais médicaux mais ne garantit aucun remplacement de salaire. L'indemnisation financière pendant l'arrêt maladie dépend alors du contrat individuel et de la souscription ou non par l'employeur d'une assurance indemnité journalière (LCA), qui n'est pas obligatoire en Suisse.</p>
+<p>Le plus important à savoir : si vous soupçonnez qu'un problème de santé trouve son origine dans votre travail, informez-en au plus vite votre employeur et exigez qu'il le déclare à la SUVA comme une éventuelle maladie professionnelle. Des délais de prescription existent, et une fois passés, le recouvrement de ces droits devient pratiquement impossible. L'employeur a l'obligation de faire la déclaration, mais vous pouvez également la demander directement.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-02-tener-un-perro-en-suiza-cuesta-mas-de-lo-que-parece": {
+        title: "Avoir un chien en Suisse coûte plus cher qu'il n'y paraît",
+        description: "En Espagne, avoir un chien implique certaines dépenses connues : vétérinaire, nourriture, puce. En Suisse, il faut ajouter une procédure fiscale qui surprend presque tout le monde...",
+        keywords: "avoir, chien, suisse, coûts, semble, espagne, implique, certains",
+        keywordsLocalized: true,
+        category: "Procédures et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-02-2-tener-un-perro-en-suiza-cuesta-mas-de-lo-que-parece",
+        readingTime: 2,
+        dateUpdated: "2 mai 2026",
+        featuredImage: "media/guides/actualidad-perro-suiza-coste.jpg",
+        imageAlt: "Coût de possession d'un chien en Suisse, taxes et enregistrement",
+        summary: "En Espagne, avoir un chien implique certaines dépenses connues : vétérinaire, nourriture, puce. En Suisse il faut ajouter une procédure fiscale qui surprend presque...",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Espagne, avoir un chien implique certaines dépenses connues : vétérinaire, nourriture, puce. En Suisse, il faut ajouter une procédure fiscale qui surprend presque tous les nouveaux arrivants : la taxe sur les chiens. Ce n'est pas une blague ou une légende urbaine. Il s'agit d'un véritable impôt, géré au niveau cantonal ou communal selon les cantons, qui est payé annuellement tant que vous possédez l'animal.</p>
+<p>Les montants varient considérablement selon l'endroit où vous habitez. Dans le canton de Vaud, la taxe cantonale est de 100 francs par an et par chien, enregistrement compris. A Genève, le calcul combine un impôt cantonal, des centeaux additionnels communaux et un taux fixe, ce qui peut conduire à des chiffres similaires ou supérieurs. Certains cantons du centre du pays comme Zoug ou Schwytz ont choisi de ne pas l'appliquer, mais ils font exception. La première étape est toujours la même dans tous les cantons : enregistrer l'animal dans la base de données nationale AMICUS, obligatoire sur tout le territoire. Une fois inscrit, l'administration vous enverra la facture annuelle.</p>
+<p>Au-delà de l'aspect fiscal, il existe des règles de circulation qui sont en pratique beaucoup plus strictes qu'en Espagne. Dans de nombreux espaces publics, parcs, plages de lacs, transports en commun, le chien doit être tenu en laisse. À Zurich, il existe des zones autorisées à circuler librement, mais dans la plupart des cantons, les restrictions sont rigoureuses et les amendes en cas de non-respect sont réelles. Les règles de construction (Hausordnung ou règlement intérieur) réglementent également généralement les heures pendant lesquelles l'animal peut faire du bruit, et les voisins suisses ne sont généralement pas du genre à détourner le regard.</p>
+<p>Pour ceux qui amènent le chien d'Espagne, les exigences vétérinaires sont celles habituelles de l'espace Schengen : passeport européen pour animaux de compagnie en cours de validité, puce électronique d'identification et vaccin antirabique valide. Une fois en Suisse, vous devez trouver un vétérinaire local, compléter l'inscription auprès d'AMICUS et rattraper la taxe communale. C'est de la bureaucratie, pas une complication, mais cela prend du temps et a ses dates.</p>
+</div>`
+    },
+
+    "fb-daily-20260502-03-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-la-mitad": {
+        title: "Travailler à temps partiel en Suisse, ce n'est pas seulement gagner la moitié",
+        description: "Lorsqu'on négocie un contrat à 60 ou 80 % en Suisse, on pense généralement en termes simples : moins d'heures, moins de salaire, plus de temps libre. Quoi presque personne...",
+        keywords: "travail, temps, temps partiel, Suisse, seul, être payé, moitié, quand",
+        keywordsLocalized: true,
+        category: "Santé et LAMal",
+        hub: "salud",
+        slug: "actualidad-2026-05-02-3-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-la-mitad",
+        readingTime: 2,
+        dateUpdated: "2 mai 2026",
+        featuredImage: "media/guides/actualidad-tiempo-parcial-suiza.jpg",
+        imageAlt: "Travail à temps partiel en Suisse et droits sociaux",
+        summary: "Lorsqu'on négocie un contrat à 60 ou 80 % en Suisse, on pense généralement en termes simples : moins d'heures, moins de salaire, plus de temps libre. Lequel…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Quand quelqu'un négocie un contrat à 60 ou 80 % en Suisse, il pense généralement en termes simples : moins d'heures, moins de salaire, plus de temps libre. Ce que presque personne ne vous explique, c'est que ce pourcentage de pension a des conséquences directes sur la pension, l'assurance accident et la couverture en cas de chômage, et que certaines de ces conséquences sont permanentes.</p>
+<p>Le deuxième pilier, la caisse de pension (LPP), a un seuil d'accès obligatoire. En 2026, seuls ceux qui gagnent plus de 22'680 francs par an auprès du même employeur sont obligatoirement assurés. Un contrat à 30 ou 40 % dans un secteur de salaire moyen peut facilement tomber en dessous de ce seuil, ce qui signifie que ces années de travail ne cumulent rien dans le deuxième pilier. La réforme LPP qui aurait abaissé ce seuil a été rejetée lors d’un référendum en septembre 2024, la situation n’a donc pas changé. Cette situation touche de manière disproportionnée les femmes, qui travaillent le plus souvent à temps partiel en Suisse.</p>
+<p>L'assurance accidents non professionnels est un autre point qui passe inaperçu. Si vous travaillez moins de huit heures par semaine pour le même employeur, celui-ci n'est pas tenu de couvrir vos accidents extérieurs au travail. En cas de fracture sur une piste de ski ou à vélo un week-end, la LAMal prend en charge les frais médicaux, mais la SUVA n'intervient pas. Ceux qui travaillent à un très faible pourcentage ou cumulent plusieurs mini-jobs peuvent se retrouver sans cette couverture pour chacun d'eux.</p>
+<p>En matière de chômage, l'indemnisation est calculée au prorata du salaire perçu. Si vous avez perdu un emploi à 50 %, le chômage est basé sur ces 50 %. Si vous avez plusieurs emplois à temps partiel et que vous en perdez un, seule cette partie est prise en compte. Rien de tout cela n'est une raison pour rejeter un contrat partiel, mais c'est une information qu'il est conseillé d'avoir avant de signer, et non après avoir perdu votre emploi.</p>
 </div>`
     },
 
@@ -924,15 +996,15 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "1 mai 2026",
         featuredImage: "media/guides/actualidad-delinquir-suiza-justicia.jpg",
-        imageAlt: "Sistema judicial suizo y consecuencias para extranjeros",
+        imageAlt: "Système judiciaire suisse et conséquences pour les étrangers",
         summary: "J'ai vu cette nouvelle du Valais et je pense qu'elle mérite d'être lue au-delà du simple gros titre. Il ne s'agit pas d'un cas isolé ou \" sensationnel \". C'est assez représentatif…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>J'ai vu cette nouvelle du Valais et je pense qu'elle mérite d'être lue au-delà du simple gros titre. Il ne s'agit pas d'un cas isolé ou " sensationnel ". C'est assez représentatif de la façon dont fonctionne réellement le système suisse lorsque quelqu'un enchaîne les crimes.</p>
 <p>Nous parlons d'une personne qui a commis des dizaines d'infractions : vols, dégradations, entrées illégales... ce n'est pas une erreur spécifique ou une mauvaise nuit. C'est une dynamique. Et la réponse finale a été celle qui arrive tôt ou tard ici : une condamnation pénale et l'expulsion du pays.</p>
 <p>Et voici la chose intéressante. Car beaucoup continuent avec deux idées assez répandues et qui ne correspondent pas à la réalité suisse.</p>
-<p>La première: \"en Suisse, on fait ce qu'on veut\". Non. Ce qui se passe, c'est que le système est une garantie. Ils ne vous expulsent pas du premier coup. Il existe un principe de proportionnalité qui s'applique dans chaque cas, et qui implique que les tribunaux analysent la situation avant de prendre une mesure aussi forte qu'une expulsion. Ce n'est pas de l'improvisation, c'est la base du droit suisse et de l'application du droit de l'immigration par le Secrétariat d'État aux migrations (SEM).</p>
-<p>La seconde : \"ils vous expulsent pour n'importe quoi\". Ni l'un ni l'autre. Pour arriver à ce point, vous avez besoin de gravité ou d'accumulation. Et dans ce cas-ci, cette limite a clairement été franchie.</p>
+<p>La première: "en Suisse, on fait ce qu'on veut". Non. Ce qui se passe, c'est que le système est une garantie. Ils ne vous expulsent pas du premier coup. Il existe un principe de proportionnalité qui s'applique dans chaque cas, et qui implique que les tribunaux analysent la situation avant de prendre une mesure aussi forte qu'une expulsion. Ce n'est pas de l'improvisation, c'est la base du droit suisse et de l'application du droit de l'immigration par le Secrétariat d'État aux migrations (SEM).</p>
+<p>La seconde : "ils vous expulsent pour n'importe quoi". Ni l'un ni l'autre. Pour arriver à ce point, vous avez besoin de gravité ou d'accumulation. Et dans ce cas-ci, cette limite a clairement été franchie.</p>
 <p>Depuis la réforme sur l'expulsion des étrangers après des délits, il existe des situations où les juges n'ont pratiquement aucune marge : si certains critères sont remplis, l'expulsion est appliquée. Et cela peut aussi s'accompagner d'une interdiction d'entrée pendant des années.</p>
 <p>Au final, la logique suisse est assez claire, même s'il est parfois difficile de la voir de l'extérieur : tolérance initiale, mais patience zéro face à la récidive.</p>
 <p>Traduction pratique pour nous : venir travailler, vivre sa vie et respecter les règles ne pose aucun problème. Mais entrer dans une spirale de criminalité en Suisse n'est pas une bonne idée. Il peut sembler que rien ne se passe... jusqu'à ce que tout se produise soudainement.</p>
@@ -951,10 +1023,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "1 mai 2026",
         featuredImage: "media/guides/actualidad-puntualidad-cultura-suiza.jpg",
-        imageAlt: "Cultura de puntualidad en Suiza y horas de trabajo",
+        imageAlt: "Culture de la ponctualité en Suisse et horaires de travail",
         summary: "Dans la plupart des établissements de santé (hôpitaux ou EMS), le principe est assez clair : le temps de travail commence lorsque l'on est à la disposition de l'employeur.…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Dans la plupart des établissements de santé (hôpitaux ou EMS), le principe est assez clair : le temps de travail commence lorsque l'on est à la disposition de l'employeur. Et cela inclut d'être déjà changé si l'uniforme est obligatoire et que vous ne pouvez pas le porter depuis chez vous. Ce n'est pas un détail mineur, cela vient du droit du travail suisse et des pratiques courantes dans les accords et règlements internes.</p>
 <p>En termes simples : - Si votre quart de travail commence à 07h00, vous devez être opérationnel à 07h00. - Mais le temps nécessaire au changement, s'il est obligatoire au centre, doit être inclus dans le temps de travail.</p>
 <p>Une autre chose est la réalité de la vie quotidienne, où de nombreuses équipes fonctionnent avec cette " pression culturelle " pour arriver tôt, changer rapidement et être en relation à 7h00 comme si c'était normal. Cela arrive, oui. Mais cela ne rend pas la pratique correcte.</p>
@@ -976,10 +1048,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "1 mai 2026",
         featuredImage: "media/guides/actualidad-desde-suiza-para-el-mundo.jpg",
-        imageAlt: "Comunidad española expatriada en Suiza con visión global",
+        imageAlt: "Communauté d'expatriés espagnols en Suisse avec une vision globale",
         summary: "Il y a 33 ans aujourd'hui, le CERN plaçait le logiciel du World Wide Web dans le domaine public. L'idée avait été proposée par Sir Tim Berners-Lee, initial…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Il y a 33 ans aujourd'hui, le CERN plaçait le logiciel du World Wide Web dans le domaine public.</p>
 <p>L'idée avait été proposée par Sir Tim Berners-Lee, initialement pour que les scientifiques et les instituts travaillant avec les données du CERN puissent partager des informations rapidement et précisément dans le monde entier.</p>
 <p>Plus tard, le CERN a également publié une version sous licence ouverte pour faciliter davantage sa diffusion.</p>
@@ -1001,12 +1073,12 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "2 mai 2026",
         featuredImage: "media/guides/actualidad-inmigrantes-suiza-economia.jpg",
-        imageAlt: "Impacto económico de los inmigrantes en Suiza y Europa",
+        imageAlt: "Impact économique des immigrés en Suisse et en Europe",
         summary: "Si demain les immigrés disparaissaient en Suisse... et dans le reste de l'Europe... Une réflexion que j'essaie d'écrire objectivement depuis quelques temps. Cela doit…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Si demain les immigrés disparaissaient en Suisse... et dans le reste de l'Europe... Une réflexion que j'essaie d'écrire objectivement depuis quelques temps.</p>
-<p>Ce débat est souvent présenté comme s'il s'agissait d'un débat \"typique de la Suisse\". Ce n'est pas. La Suisse n'est qu'un exemple très visible de ce qui se passe dans presque toute l'Europe.</p>
+<p>Ce débat est souvent présenté comme s'il s'agissait d'un débat "typique de la Suisse". Ce n'est pas. La Suisse n'est qu'un exemple très visible de ce qui se passe dans presque toute l'Europe.</p>
 <p>Ici l'impact serait immédiat : manque de personnel dans la santé, le bâtiment, l'hôtellerie, l'industrie... et pression directe sur l'AVS car une partie importante des cotisants disparaît. Mais si vous regardez l'Allemagne, elle affirme ouvertement depuis des années qu'elle a besoin de centaines de milliers de travailleurs étrangers pour soutenir son économie. En Italie, le problème est encore plus évident : la population vieillit et les régions se vident. Et en Espagne, la sécurité sociale dépend de plus en plus de la contribution des travailleurs étrangers pour équilibrer le système.</p>
 <p>La différence n'est pas dans le fond, mais dans la forme. La Suisse s'en rend vite compte car son marché du travail est petit et très spécialisé, et il dépend aussi beaucoup des travailleurs frontaliers. D'autres pays ont une plus grande marge en raison de leur taille, mais le problème est exactement le même : moins de naissances, plus de retraités et moins de personnes en âge de travailler.</p>
 <p>En clair : si vous supprimez aujourd'hui l'immigration en Europe, vous ne " commandez " rien. Vous supprimez une pièce qui fait déjà partie de la balance.</p>
@@ -1027,10 +1099,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "2 mai 2026",
         featuredImage: "media/guides/actualidad-alcohol-calle-suiza.jpg",
-        imageAlt: "Normas de convivencia sobre alcohol en espacios públicos en Suiza",
+        imageAlt: "Règles de cohabitation sur l'alcool dans l'espace public en Suisse",
         summary: "Cela fait suite à un message dans l'un de nos groupes WhatsApp, et je pense que cela mérite réflexion. Cette photo ne fait pas exception, c'est ce qui arrive lorsque vous…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Cela fait suite à un message dans l'un de nos groupes WhatsApp, et je pense que cela mérite réflexion.</p>
 <p>Cette photo ne fait pas exception, c'est ce qui arrive lorsque l'on confond " autorisé " avec " tout est permis ". En Suisse, on peut boire dans de nombreux espaces publics, oui. Mais cela n'implique pas de transformer un lac en poubelle à ciel ouvert. Et c'est là que survient le choc culturel que beaucoup ne veulent pas voir.</p>
 <p>Parce que la règle non écrite fonctionne mieux que la loi. Personne ne vous dira rien pour boire un verre entre amis au bord du lac. Mais vous êtes censé quitter le site tel ou meilleur que vous l'avez trouvé. Ce n'est pas une civilité de " carte postale " ; c'est le minimum pour que ce modèle fonctionne sans interdictions massives. Quand cela échoue, des restrictions arrivent, des amendes... et puis les plaintes habituelles.</p>
@@ -1049,10 +1121,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "2 mai 2026",
         featuredImage: "media/guides/actualidad-reclamacion-salario-suiza.jpg",
-        imageAlt: "Plazos para reclamar salario impagado en Suiza",
+        imageAlt: "Délais pour réclamer les salaires impayés en Suisse",
         summary: "Si votre employeur ne vous paie pas, inutile de traîner la situation \" pour voir si elle s'arrange \". Le salaire est une obligation légale selon le Code suisse des obligations (CO…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Si votre employeur ne vous paie pas, inutile de traîner la situation " pour voir si elle s'arrange ". Le salaire est une obligation légale selon le Code des obligations suisse (CO), et ce qui fonctionne ici, c'est de le faire par écrit et dans des délais. Première étape : envoyer une mise en demeure (courrier ou lettre) indiquant le montant dû et la période travaillée, dans un délai de 5 à 10 jours. S'il n'y a pas de réaction, une deuxième demande (Mahnung) plus ferme est envoyée, donnant un délai de 7 jours, maximum 10, précisant que vous agirez s'ils ne paient pas.</p>
 <p>Si après ce deuxième délai il n'y a pas de paiement, vous ne continuez pas à attendre ou à négocier indéfiniment. Vous vous adressez directement à la procédure de recouvrement auprès de l'Office des poursuites pour dettes (Betreibungsamt). Vous n'avez pas besoin d'un avocat pour vous lancer et c'est le canal standard en Suisse. Si l'employeur s'y oppose, la procédure devant le tribunal du travail est déjà engagée pour soulever cette opposition.</p>
 <p>Fait marquant que beaucoup découvrent tardivement : le droit au salaire expire au bout de 5 ans (art. 128 CO). Mais ce n'est pas une invitation à attendre, bien au contraire. Plus tôt vous agirez, plus vous aurez d'options réelles à collecter. L'approche ici est simple : écriture, court terme et action. S'ils ne paient pas, ce n'est généralement pas par inattention.</p>
@@ -1070,13 +1142,13 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "3 mai 2026",
         featuredImage: "media/guides/actualidad-sms-blaster-fraude-suiza.jpg",
-        imageAlt: "Fraude SMS blaster y phishing en Suiza",
+        imageAlt: "Fraude au SMS Blaster et phishing en Suisse",
         summary: "Selon la RTS, cette nouvelle méthode d'arnaque permet aux criminels d'envoyer des SMS en masse directement sur des téléphones portables à proximité, sans passer par des opérateurs ou des listes…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Selon la RTS, cette nouvelle méthode d'arnaque permet aux criminels d'envoyer des SMS en masse directement sur des téléphones mobiles à proximité, sans passer par des opérateurs ou des listes de contacts. Autrement dit, ils n'ont pas besoin de votre numéro. Il suffit qu'ils soient physiquement proches, par exemple dans une gare, un aéroport ou encore dans un centre commercial.</p>
 <p>L'astuce est assez basique, mais elle fonctionne : vous recevez un SMS qui a l'air officiel - banque, poste, douane, voire autorités - avec un lien. Et c'est là que le problème commence. Le message ne transitant pas par les réseaux traditionnels, il évite de nombreux filtres de sécurité. Résultat : plus de crédibilité, plus de clics… et plus de victimes.</p>
-<p>Cela change une chose importante : jusqu'à présent, on pouvait penser \"si je ne donne pas mon numéro, tout va bien\". Pas plus. Ici, l'attaque se fait par proximité, comme si quelqu'un lançait un réseau invisible vers tous les téléphones portables alentour. Et dans des régions très fréquentées comme Genève, le terrain est parfait.</p>
+<p>Cela change une chose importante : jusqu'à présent, on pouvait penser "si je ne donne pas mon numéro, tout va bien". Pas plus. Ici, l'attaque se fait par proximité, comme si quelqu'un lançait un réseau invisible vers tous les téléphones portables alentour. Et dans des régions très fréquentées comme Genève, le terrain est parfait.</p>
 <p>Des conseils pratiques, sans dramatisation mais sans naïveté : 1. Ne cliquez pas sur les liens SMS, même s'ils semblent officiels 2. Vérifiez toujours via les canaux officiels (application bancaire, site Web direct) 3. Méfiez-vous particulièrement des messages urgents ou sous pression</p>
 <p>En Suisse, tout fonctionne bien... jusqu'à ce que ce ne soit plus le cas. Et lorsqu'il s'agit de fraude, ils ont toujours une longueur d'avance.</p>
 </div>`
@@ -1093,10 +1165,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 1,
         dateUpdated: "3 mai 2026",
         featuredImage: "media/guides/actualidad-queroseno-contaminacion-suiza.jpg",
-        imageAlt: "Contaminación por queroseno de aviación en Suiza",
+        imageAlt: "Pollution au kérosène aérien en Suisse",
         summary: "L'actualité ne concerne pas des scènes lointaines. Si l'approvisionnement en kérosène devient compliqué, l'impact se fait vite sentir dans la poche et dans les plans. Trafic aérien…",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>L'actualité ne concerne pas des scènes lointaines. Si l'approvisionnement en kérosène devient compliqué, l'impact se fait vite sentir dans la poche et dans les plans. Les compagnies aériennes travaillent avec des marges très serrées et le carburant constitue l'un de leurs principaux coûts. S'il augmente ou se raréfie, ils le transfèrent directement sur les billets. Il n'y a pas de magie ici.</p>
 <p>Pour ceux qui envisagent de se rendre en Espagne cet été, les choses peuvent se traduire par trois choses très spécifiques : des prix plus élevés, moins de vols disponibles et plus de risques de modifications ou d'annulations. Moins de carburant signifie donner la priorité aux itinéraires rentables et réduire les fréquences. Et lorsqu'il y a moins d'offre et que la demande reste la même, le résultat est toujours le même : payer plus pour la même chose… ou pour moins.</p>
 <p>Pas de panique, mais d'être réaliste. Si vous avez des dates claires, attendre la dernière minute ne semble pas être la meilleure stratégie cette année. Car il ne s'agit pas ici d'une alimentation spécifique qui s'échappe, mais d'un facteur structurel : en cas de panne de kérosène, tout le système d'air s'ajuste. Et normalement, cet ajustement finit par être payé par le passager.</p>
@@ -1114,10 +1186,10 @@ Object.assign(window.siteContent.fr.articles, {
         readingTime: 2,
         dateUpdated: "3 mai 2026",
         featuredImage: "media/guides/actualidad-tiempo-parcial-suiza-derechos.jpg",
-        imageAlt: "Derechos del trabajador a tiempo parcial en Suiza",
+        imageAlt: "Droits des travailleurs à temps partiel en Suisse",
         summary: "Lorsqu'on négocie un contrat à 60 ou 80 % en Suisse, on pense généralement à quelque chose d'assez simple : moins d'heures, moins de salaire, plus de temps libre. En attendant, tout...",
         relatedSlugs: [],
-        content: `<div class=\"article-content\">
+        content: `<div class="article-content">
 <p>Lorsqu'on négocie un contrat à 60 ou 80 % en Suisse, on pense généralement à quelque chose d'assez simple : moins d'heures, moins de salaire, plus de temps libre. Jusque-là, tout est correct. Le problème est que le pourcentage de pension ne reste pas dans la masse salariale. Elle a un impact direct sur trois piliers clés du système suisse : la retraite, l'assurance-accidents et le chômage. Et certaines de ces conséquences ne sont pas récupérées plus tard.</p>
 <p>Le deuxième pilier, la caisse de pension selon la loi fédérale sur la retraite professionnelle (LPP), a un seuil d'accès minimum. En 2026, seuls ceux qui gagnent plus de CHF 22'680 par an auprès du même employeur cotisent obligatoirement. Que se passe-t-il en pratique ? Qu'un contrat à 30%, voire 40% dans de nombreux secteurs, ne suffit pas. Résultat : vous travaillez, mais vous n'accumulez rien dans le 2e pilier. À long terme, cela se traduit par de véritables écarts de retraite. Et non, ce n'est pas un détail mineur. La réforme qui visait à corriger cela a été rejetée lors du référendum sur la réforme de la LPP en septembre 2024, le système reste donc le même. Comme toujours, les conséquences pèsent le plus sur ceux qui travaillent le plus à temps partiel, en particulier les femmes.</p>
 <p>Autre point que beaucoup découvrent tardivement : l'assurance accident. Selon la loi fédérale sur l'assurance-accidents (LAA), si vous travaillez moins de 8 heures par semaine pour le même employeur, vous n'êtes pas couvert pour les accidents non professionnels. Autrement dit, vous vous cassez la jambe à ski ou à vélo le week-end et la compagnie d'assurance-accidents n'intervient pas. Seule votre assurance maladie (LAMal) entre en jeu, avec franchise et ticket modérateur. Si vous cumulez plusieurs mini-jobs, attention : le calcul se fait par employeur et non par somme totale. C'est là que plus d'une personne est surprise.</p>
@@ -1127,253 +1199,17 @@ Object.assign(window.siteContent.fr.articles, {
     },
 
     "fb-daily-20260504-01-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab": {
-        title: "Suite à une publication, je reviens sur un sujet inconfortable... Le Hidjab",
-        description: "Une publication dans notre groupe WhatsApp a déclenché mes alarmes. C'est une chose d'avertir honnêtement quelqu'un que, dans de nombreux secteurs, il risque de se heurter à davantage d'obstacles. C'est…",
-        keywords: "racine, publication, retour, sujet, inconfortable, hijab, notre, groupe",
-        keywordsLocalized: true,
-        category: "Logement",
-        hub: "vivienda",
-        slug: "actualidad-2026-05-04-1-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab",
-        readingTime: 1,
-        dateUpdated: "4 mai 2026",
-        featuredImage: "media/guides/actualidad-hijab-suiza-debate.jpg",
-        imageAlt: "Debate sobre el hijab en la sociedad suiza",
-        summary: "Une publication dans notre groupe WhatsApp a déclenché mes alarmes. C'est une chose d'avertir honnêtement quelqu'un que, dans de nombreux secteurs, il peut trouver...",
-        relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>Une publication dans notre groupe WhatsApp a déclenché mes alarmes. C'est une chose d'avertir honnêtement quelqu'un que, dans de nombreux secteurs, il risque de se heurter à davantage d'obstacles. Cela existe. Le nier serait vous vendre un film. En Suisse, de nombreux employeurs sont plus réticents que dans d'autres pays européens à l'égard des symboles religieux visibles, notamment dans les postes destinés au public. Ce n'est pas joli, mais c'est la réalité.</p>
-<p>C'en est une autre de transformer cette réalité en open bar pour humilier, insulter ou réduire une personne à un mouchoir. Une fille demande si elle a des opportunités d'emploi, et au lieu de parler de CV, de langue, d'expérience, de permis ou de secteurs dans lesquels elle peut s'intégrer, certaines évoquent toute la liste des préjugés. Quelle surprise, alors ils se plaignent que " les gens ne veulent pas travailler ".</p>
-<p>Vous pouvez dire : " ce sera plus difficile pour vous ". Vous pouvez dire : \"dans les postes de nettoyage, de production, de logistique ou en interne, vous pouvez avoir certaines options\". Il peut être judicieux d'adapter son CV, d'améliorer son français, de cibler de grandes entreprises ou des structures plus diverses.</p>
-<p>Ce qui n'est pas nécessaire, c'est de faire des propos racistes, des moqueries ou des leçons d'intégration d'interdiction de la route.</p>
-<p>Aider, c'est aussi dire la vérité. Mais la vérité n'a pas besoin d'être enveloppée de mépris.</p>
-</div>`
-    },
-
-    "fb-daily-20260504-02-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio": {
-        title: "Vous êtes venu avec une idée... et la réalité vous a remis à votre place. ",
-        description: "Voyons, je vais poser la question car cela revient chaque semaine en privé : à quelle \"canular\" aviez-vous cru avant d'arriver en Suisse ? Celle qui \" tout fonctionne parfaitement ici \", celle qui \" avec n'importe quel…",
-        keywords: "tu es venu, idée, réalité, mise, lieu, lancement, question, parce que",
-        keywordsLocalized: true,
-        category: "",
-        hub: "",
-        slug: "actualidad-2026-05-04-2-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio",
-        readingTime: 1,
-        dateUpdated: "4 mai 2026",
-        featuredImage: "media/guides/actualidad-expectativas-realidad-suiza.jpg",
-        imageAlt: "Expectativas y realidad de vivir en Suiza como inmigrante",
-        summary: "Voyons, je vais poser la question car cela revient chaque semaine en privé : à quelle \"canular\" aviez-vous cru avant d'arriver en Suisse ? Que \" tout fonctionne parfaitement ici...",
-        relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>Voyons, je vais poser la question car cela revient chaque semaine en privé : à quelle \"canular\" aviez-vous cru avant d'arriver en Suisse ?</p>
-<p>Celui de \"tout fonctionne parfaitement ici\", celui de \"avec n'importe quel travail tu vis bien\", celui de \"tu épargnes quoi qu'il arrive\"... ou encore le classique de \"dans deux mois je serai intégré\".</p>
-<p>Spoiler : pas toujours.</p>
-<p>Je crois qu'il y a quelques fantasmes qui se répètent beaucoup, et puis arrive la réalité : l'assurance, le loyer, la langue, le marché du travail... et ça démonte l'histoire assez vite.</p>
-<p>Dis-moi le tien !! Sûrement plus d'un se reconnaissent dans les commentaires.</p>
-</div>`
-    },
-
-    "fb-daily-20260504-03-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad": {
-        title: "Temu à l'honneur en Suisse... et ce n'est pas un hasard",
-        description: "Temu balaye l'Europe depuis des mois avec des prix qui, pour être clair, ne correspondent à aucune logique normale de marché. Et en Suisse, cela commence déjà à faire sourciller au niveau politique.…",
-        keywords: "temu, point, regarde, Suisse, chance, prend, mois, balayage",
-        keywordsLocalized: true,
-        category: "Impôts",
-        hub: "impuestos",
-        slug: "actualidad-2026-05-04-3-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad",
-        readingTime: 2,
-        dateUpdated: "4 mai 2026",
-        featuredImage: "media/guides/actualidad-temu-suiza-aduanas.jpg",
-        imageAlt: "Temu bajo regulación en Suiza por aduanas e IVA",
-        summary: "Temu balaye l'Europe depuis des mois avec des prix qui, pour être clair, ne correspondent à aucune logique normale de marché. Et en Suisse, cela commence déjà à faire sourciller...",
-        relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>Temu balaye l'Europe depuis des mois avec des prix qui, pour être clair, ne correspondent à aucune logique normale de marché. Et en Suisse, cela commence déjà à faire sourciller au niveau politique.</p>
-<p>Le Parlement suisse remet en question plusieurs points assez sérieux. D'un côté, la transparence des prix et des pratiques commerciales : des remises constantes, une urgence artificielle du type \"il ne reste que 3 unités\", et une stratégie très agressive pour pousser la consommation. Rien de nouveau pour quiconque a ouvert l'application, mais quand on parle de protection des consommateurs, ce n'est plus une simple nuisance.</p>
-<p>De l'autre, il y a la question la plus délicate : les conditions de production et la concurrence déloyale. Les entreprises suisses et européennes dénoncent depuis un certain temps que des plateformes comme Temu peuvent vendre à des prix impossibles parce qu'elles fonctionnent avec des normes qui ne passeraient aucun filtre ici. Traduction simple : si vous rivalisez avec des règles différentes, vous ne rivalisez pas, vous détruisez.</p>
-<p>Et puis il y a le classique suisse : la fiscalité et le contrôle. Beaucoup de ces produits sont présentés en petits emballages, souvent inférieurs à certains seuils, ce qui complique le contrôle douanier et la collecte de la TVA. Résultat : un avantage concurrentiel par rapport aux entreprises locales qui livrent tout au centime près.</p>
-<p>Cela ne veut pas dire qu'ils interdiront Temu demain. Mais nous sommes dans la phase où la Suisse commence à faire ce qu'elle fait le mieux : réglementer lorsque quelque chose devient incontrôlable. Et normalement, lorsque le Parlement suisse commence à examiner quelque chose de près, c'est parce que le sujet est déjà suffisamment développé pour ne pas l'ignorer.</p>
-<p>Moralité : les prix très bas ont toujours un coût. Parfois, l'acheteur ne paie pas... mais quelqu'un le paie.</p>
-</div>`
-    },
-
-    "fb-daily-20260504-04-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo": {
-        title: "Cueillette de fraises à Genève : un joli plan... en attendant de voir le prix au kilo",
-        description: "Chaque printemps, la même vidéo apparaît : des champs verts, des fraises parfaites, des enfants heureux et le sentiment d'être dans une publicité de yaourt. Et oui, ça existe. Mais comme partout en Suisse,…",
-        keywords: "choisir, des fraises, gin, plan, sympa, en haut, prix, kilo",
-        keywordsLocalized: true,
-        category: "Impôts",
-        hub: "impuestos",
-        slug: "actualidad-2026-05-04-4-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo",
-        readingTime: 1,
-        dateUpdated: "4 mai 2026",
-        featuredImage: "media/guides/actualidad-fresas-ginebra-recolecta.jpg",
-        imageAlt: "Autorecogida de fresas en Ginebra precio por kilo",
-        summary: "Chaque printemps, la même vidéo apparaît : des champs verts, des fraises parfaites, des enfants heureux et le sentiment d'être dans une publicité de yaourt. Et oui, ça existe. Mais...",
-        relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>Chaque printemps, la même vidéo apparaît : des champs verts, des fraises parfaites, des enfants heureux et le sentiment d'être dans une publicité de yaourt. Et oui, ça existe. Mais comme partout en Suisse, c'est une bonne idée de comprendre comment ça marche avant de se lancer.</p>
-<p>Vous n'allez pas " cueillir des fraises gratuites dans les champs " ici. C'est le système d'auto-récolte. Vous partez, vous récupérez vous-même... et vous payez à votre départ en fonction du poids. La grâce est dans l'expérience, pas dans les économies. En fait, un kilo coûte souvent le même prix, voire plus cher, qu'au supermarché, surtout si vous avez hâte de remplir des cartons.</p>
-<p>Dans la région de Genève vous disposez de plusieurs lieux connus : - La Fraisière à Meyrin - La Flânerie à Troinex</p>
-<p>Leur fonctionnement est similaire : vous entrez, prenez un conteneur, récupérez et passez à la caisse. Simple. Bien entendu, soyez attentif aux horaires et à la saison. S'il a plu ou si plusieurs jours de récolte se sont écoulés, vous trouverez peut-être plus de feuilles que de fraises.</p>
-<p>Conseil pratique : apportez de l'argent liquide ou vérifiez comment vous payez, contrôlez le poids (ces cartons se remplissent vite) et ne partez pas avec l'idée que vous allez économiser. Vous suivez le plan, pour le moment et parce que les fraises fraîchement cueillies ont un goût différent.</p>
-<p>Et autre détail très suisse : respecter les règles. Pas de consommation de fraises " test " lors de la cueillette. Oui, nous le pensons tous... mais ici, vous payez aussi pour cela.</p>
-<p>Plan recommandé, surtout avec des enfants ou pour une matinée différente. Mais ce n'est pas une bonne affaire, c'est une expérience. Et en Suisse, les expériences se font aussi en espèces.</p>
-</div>`
-    },
-
-    "fb-daily-20260504-05-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca": {
-        title: "Passeport expiré et refus d'embarquement : quand la compagnie aérienne se trompe",
-        description: "En octobre 2018, à Lyon, la compagnie EasyJet avait refusé l'embarquement à une mineure sur un vol à destination de Naples car son passeport était expiré depuis 18 jours. La famille s'est retrouvée…",
-        keywords: "passeport, expiré, refus, embarquement, compagnie aérienne, faux, octobre 2018",
-        keywordsLocalized: true,
-        category: "Démarches et permis",
-        hub: "tramites",
-        slug: "actualidad-2026-05-04-5-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca",
-        readingTime: 1,
-        dateUpdated: "4 mai 2026",
-        featuredImage: "media/guides/actualidad-pasaporte-caducado-embarque.jpg",
-        imageAlt: "Denegación de embarque por pasaporte caducado y derechos del pasajero",
-        summary: "En octobre 2018, à Lyon, la compagnie EasyJet refuse l'embarquement à une mineure sur un vol à destination de Naples car son passeport était expiré depuis 18 jours...",
-        relatedSlugs: [],
-        content: `<div class=\"article-content\">
-<p>En octobre 2018, à Lyon, la compagnie EasyJet avait refusé l'embarquement à une mineure sur un vol à destination de Naples car son passeport était expiré depuis 18 jours. La famille a fini par voyager en bus et a raté une nuit d'hôtel. Des années plus tard, le Tribunal Judiciaire de Lyon leur donne raison (arrêt du 26 février 2026) : 871,70 € pour préjudice matériel et 2 000 € pour préjudice moral. Traduit : tout ce que dit le comptoir d'embarquement n'est pas une loi.</p>
-<p>La clé juridique ne se trouve pas dans la réglementation européenne classique, mais dans l'Accord européen sur la circulation des personnes de 1957. Cet accord, toujours en vigueur, permet aux citoyens espagnols de voyager vers certains pays avec un passeport expiré depuis moins de cinq ans, à condition qu'il s'agisse de courts séjours (maximum 90 jours) et sans activité professionnelle. La Cour de cassation elle-même l'avait déjà confirmé en 2020, également contre EasyJet. Ce n'est pas nouveau, mais il semble que certains compteurs n'aient pas encore fait leur chemin.</p>
-<p>Où est-ce que cela s'applique ? Dans les pays signataires de l'accord : Allemagne, France, Italie, Espagne, Portugal, Belgique, Pays-Bas, Luxembourg, Autriche, Grèce, Hongrie, Slovénie, Malte, Chypre, Turquie et Suisse, entre autres. Autrement dit, ce n'est pas quelque chose de marginal.</p>
-<p>Si vous êtes espagnol et qu'on vous refuse l'embarquement dans ces conditions, il existe une base légale pour vous plaindre. Une autre chose est de savoir ce dont vous avez envie de discuter à la porte d'embarquement à 6 heures du matin avec quelqu'un qui ne suit qu'une procédure interne. Avoir raison, c'est bien. Qu'ils vous laissent monter dans l'avion, mieux c'est.</p>
-</div>`
-    },
-
-    "fb-daily-20260505-01-ce-que-personne-ne-vous-dit-sur-les-successions-en-suisse": {
-        title: "Ce que personne ne vous dit sur les successions en Suisse",
-        description: "En Suisse, il n'existe pas d'impôt fédéral sur les successions. Il s'agit d'impôts cantonaux, et chaque canton applique ses propres règles. Cela signifie que…",
-        keywords: "personne, vous, successions, suisse, existe, impôt, fédéral, agit",
-        keywordsLocalized: true,
-        category: "Démarches et permis",
-        hub: "tramites",
-        slug: "actualidad-2026-05-05-1-ce-que-personne-ne-vous-dit-sur-les-successions-en-suisse",
-        readingTime: 1,
-        dateUpdated: "5 mai 2026",
-        summary: "En Suisse, il n'existe pas d'impôt fédéral sur les successions. Il s'agit d'impôts cantonaux, et chaque canton applique ses propres règles. Cela…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>En Suisse, il n'existe pas d'impôt fédéral sur les successions. Il s'agit d'impôts cantonaux, et chaque canton applique ses propres règles. Cela signifie que si vous avez la chance d'hériter d'un bien ici, la première chose à savoir n'est pas le taux d'imposition, mais dans quel canton résidait le défunt.</p>
-<p>La bonne nouvelle pour la plupart des gens : tous les cantons exonèrent les descendants directs (enfants, petits-enfants) ainsi que les conjoints ou les partenaires enregistrés. En pratique, si vous êtes l'enfant d'une personne décédée en Suisse, vous ne payez dans la plupart des cas aucun droit de succession suisse. Les cantons de Schwyz et d'Obwald vont encore plus loin : ils n'appliquent aucun droit de succession, quel que soit le degré de parenté.</p>
-<p>La situation est différente si vous êtes un frère, un neveu, un concubin non enregistré ou simplement un tiers. Les taux varient considérablement selon le canton et le degré de parenté, et peuvent atteindre jusqu'à 50 % dans les cas extrêmes. Les écarts entre les cantons pour un même type d'héritage peuvent être considérables.</p>
-<p>Un détail que beaucoup de personnes vivant en Suisse ont tendance à oublier : si vous héritez de biens en Espagne, ceux-ci sont soumis à l'impôt sur les successions espagnol, et non au suisse. Et si vous résidiez hors d'Espagne au moment de l'ouverture de la succession, depuis 2018, vous disposez exactement des mêmes droits que les résidents de la communauté autonome où se trouvent les biens. Il vaut la peine de vérifier cela auprès d'un conseiller fiscal, car les différences entre les communautés autonomes peuvent être très importantes.</p>
-</div>`
-    },
-
-    "fb-daily-20260505-02-les-conges-en-suisse-ce-que-dit-la-loi-et-ce-qui-depend-de-ton-contrat": {
-        title: "Les congés en Suisse : ce que dit la loi et ce qui dépend de ton contrat",
-        description: "En Espagne, ce sont 22 jours ouvrables, ce qui correspond à environ 30 jours civils. En Suisse, le minimum légal est de 4 semaines par an pour les travailleurs…",
-        keywords: "congés, suisse, dépend, contrat, espagne, sont, jours, ouvrables",
-        keywordsLocalized: true,
-        category: "",
-        hub: "",
-        slug: "actualidad-2026-05-05-2-les-conges-en-suisse-ce-que-dit-la-loi-et-ce-qui-depend-de-ton-contrat",
-        readingTime: 1,
-        dateUpdated: "5 mai 2026",
-        summary: "En Espagne, ce sont 22 jours ouvrables, ce qui correspond à environ 30 jours civils. En Suisse, le minimum légal est de 4 semaines par an pour les…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>En Espagne, ce sont 22 jours ouvrables, ce qui correspond à environ 30 jours civils. En Suisse, le minimum légal est de 4 semaines par an pour les travailleurs adultes, conformément à l'article 329a du Code des obligations (CO). Pour les travailleurs de moins de 20 ans, le minimum est de 5 semaines. Il ne s'agit ni de jours civils ni de jours ouvrables : ce sont des semaines de travail, ce qui, dans la pratique, avec une semaine de 5 jours, équivaut à 20 jours ouvrables pour un adulte.</p>
-<p>La loi prévoit en outre qu'au moins deux semaines doivent être prises d'affilée et que les congés doivent être pris dans l'année en cours dans la mesure du possible. L'employeur fixe les dates en tenant compte des souhaits du salarié, mais il a le dernier mot s'il existe des raisons objectives liées à l'organisation. Ce que la loi interdit clairement, c'est de remplacer les jours de congé par une compensation financière pendant la durée du contrat : les congés ne se paient pas, ils se prennent.</p>
-<p>De nombreuses conventions collectives (CCT) et contrats individuels améliorent ce minimum légal. Il est courant de bénéficier de 5 semaines dans les moyennes et grandes entreprises, et ce en fonction de l'ancienneté. Il vaut la peine de vérifier son contrat et, le cas échéant, la CCT du secteur, car les différences peuvent être importantes.</p>
-<p>Un point que beaucoup ignorent : si vous tombez malade pendant vos vacances et que vous le justifiez par un certificat médical, ces jours d'arrêt ne sont pas décomptés de vos vacances. Vous avez le droit de les récupérer. Il s'agit d'une jurisprudence établie en Suisse, même si, dans la pratique, il est conseillé d'en informer votre employeur sans tarder et de lui fournir les documents nécessaires.</p>
-</div>`
-    },
-
-    "fb-daily-20260505-03-le-secret-bancaire-suisse-et-lespagne-ce-quil-faut-savoir-pour-eviter": {
-        title: "Le secret bancaire suisse et l'Espagne : ce qu'il faut savoir pour éviter les mauvaises surprises",
-        description: "Si quelqu'un vous a dit qu'avoir un compte dans une banque suisse signifiait que le fisc espagnol n'en savait rien, cette information est obsolète depuis…",
-        keywords: "secret, bancaire, suisse, espagne, faut, savoir, éviter, mauvaises",
-        keywordsLocalized: true,
-        category: "",
-        hub: "",
-        slug: "actualidad-2026-05-05-3-le-secret-bancaire-suisse-et-lespagne-ce-quil-faut-savoir-pour-eviter",
-        readingTime: 1,
-        dateUpdated: "5 mai 2026",
-        summary: "Si quelqu'un vous a dit qu'avoir un compte dans une banque suisse signifiait que le fisc espagnol n'en savait rien, cette information est obsolète…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>Si quelqu'un vous a dit qu'avoir un compte dans une banque suisse signifiait que le fisc espagnol n'en savait rien, cette information est obsolète depuis plusieurs années. Depuis 2017, la Suisse échange automatiquement des données fiscales avec tous les États membres de l'UE, y compris l'Espagne. Cet accord repose sur la norme de l'OCDE relative à l'échange automatique d'informations (AEOI/EAR) et est pleinement contraignant.</p>
-<p>Voici les informations que les banques suisses transmettent chaque année à l'Administration fédérale des contributions (AFC/ESTV), qui les transmet à son tour à l'administration fiscale espagnole : nom complet, adresse, pays de résidence fiscale, numéro d'identification fiscale, solde des comptes et revenus générés (intérêts, dividendes, plus-values). Aucune enquête judiciaire ni demande préalable n'est nécessaire. Ce processus est automatique, annuel et systématique. En 2026, des données concernant plus de 3,4 millions de comptes financiers ont déjà été échangées avec 101 pays.</p>
-<p>En 2026, cette mesure sera étendue. La Suisse est en train d'intégrer les crypto-actifs dans ce système d'échange, dont la mise en œuvre est prévue pour 2027. La liste des pays concernés comprend tous les États membres de l'UE. Ainsi, si vous détenez des bitcoins ou des équivalents sur une plateforme suisse enregistrée, ces actifs seront eux aussi bientôt pris en compte par les autorités fiscales.</p>
-<p>La conséquence pratique est claire : si vous êtes résident fiscal en Espagne, vous êtes tenu de déclarer vos comptes et vos actifs à l'étranger au moyen du formulaire 720 dès lors qu'ils dépassent certains seuils. Un solde non déclaré en Suisse n'est pas caché. Le secret bancaire suisse vis-à-vis des autorités fiscales étrangères a cessé d'exister il y a près d'une décennie, et ceux qui ne se sont pas adaptés à cette réalité se retrouvent face à un problème qui risque de se compliquer avec le temps.</p>
-</div>`
-    },
-
-    "fb-daily-20260430-01-la-nuit-des-musees-a-geneve": {
-        title: "La Nuit des musées à Genève",
-        description: "Le samedi 30 mai 2026, à partir de 18 h, la Nuit des musées fait son retour à Genève. Et il ne s'agit pas d'une simple visite tranquille... mais plutôt d'un…",
-        keywords: "nuit, musées, genève, samedi, partir, fait, retour, agit",
-        keywordsLocalized: true,
-        category: "",
-        hub: "",
-        slug: "actualidad-2026-04-30-1-la-nuit-des-musees-a-geneve",
-        readingTime: 1,
-        dateUpdated: "30 avril 2026",
-        summary: "Le samedi 30 mai 2026, à partir de 18 h, la Nuit des musées fait son retour à Genève. Et il ne s'agit pas d'une simple visite tranquille... mais…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>Le samedi 30 mai 2026, à partir de 18 h, la Nuit des musées fait son retour à Genève. Et il ne s'agit pas d'une simple visite tranquille... mais plutôt d'un marathon culturel.</p>
-<p>150 activités réparties sur 29 espaces. Expositions, ateliers, escape games, performances, jeux de piste… et bien plus encore.</p>
-<p>Cette année, deux nouveaux lieux viennent s'ajouter à la liste : la Bibliothèque Braille Romande et livre parlé et le Geneva Skateboard Museum. Deux lieux assez différents, mais qui... Voir plus</p>
-<p>www.espanolesensuiza.ch</p>
-</div>`
-    },
-
-    "fb-daily-20260430-02-les-costumes-traditionnels-suisses-ni-deguisement-ni-folklore-de-pacot": {
-        title: "Les costumes traditionnels suisses : ni déguisement, ni folklore de pacotille",
-        description: "J'ai lu un article de SwissCommunity sur les costumes traditionnels en Suisse, et je pense qu'il est utile d'apporter quelques précisions, car vu de…",
-        keywords: "costumes, traditionnels, suisses, déguisement, folklore, pacotille, article, swisscommunity",
-        keywordsLocalized: true,
-        category: "Démarches et permis",
-        hub: "tramites",
-        slug: "actualidad-2026-04-30-2-les-costumes-traditionnels-suisses-ni-deguisement-ni-folklore-de-pacot",
-        readingTime: 1,
-        dateUpdated: "30 avril 2026",
-        summary: "J'ai lu un article de SwissCommunity sur les costumes traditionnels en Suisse, et je pense qu'il est utile d'apporter quelques précisions, car vu de…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>J'ai lu un article de SwissCommunity sur les costumes traditionnels en Suisse, et je pense qu'il est utile d'apporter quelques précisions, car vu de l'extérieur, c'est assez difficile à comprendre.</p>
-<p>Tout d'abord, il n'existe pas « le costume suisse ». Il y en a des centaines. Littéralement. Chaque canton, chaque région, parfois chaque village, a le sien. Et ce n'est pas un hasard : les couleurs, les broderies ou les accessoires indiquaient des éléments très précis, comme l'état civil, la religion ou même la position sociale. En somme, ce n'était pas une question d'esthétique, c'était presque une carte d'identité en version textile.</p>
-<p>Deuxième point important : bon nombre des costumes que l'on voit aujourd'hui lors des fêtes ne sont pas aussi anciens qu'ils en ont l'air. Beaucoup ont été réinterprétés au XIXe siècle, à une époque où la Suisse, comme d'autres pays européens, était en train de forger son identité nationale. De la tradition, certes, mais bien réorganisée et mise en scène.</p>
-<p>De nos jours, ces costumes existent toujours, mais dans des contextes très précis : fêtes locales, associations culturelles, défilés. Personne ne s'habille ainsi pour aller travailler, au cas où quelqu'un l'aurait pensé. Et détail intéressant : un costume complet peut coûter plusieurs milliers de francs. Ce n'est pas un souvenir à 50 CHF.</p>
-<p>Au final, cela correspond assez bien au fonctionnement de la Suisse : une véritable diversité, une forte décentralisation, et un rapport à la tradition qui n'est pas nostalgique, mais structuré et, bien souvent, assez pragmatique.</p>
-<p>https://www.espanolesensuiza.ch/</p>
-</div>`
-    },
-
-    "fb-daily-20260430-03-la-loi-koller-se-durcit-cela-ne-te-concerne-pas-mais-ca-va-te-toucher": {
-        title: "La loi Koller se durcit : cela ne te concerne pas... mais ça va te toucher",
-        description: "Le Conseil fédéral a lancé une consultation en vue de réformer la Lex Koller, et l'orientation est claire : davantage de restrictions pour les ressortissants…",
-        keywords: "koller, durcit, cela, concerne, mais, toucher, conseil, fédéral",
-        keywordsLocalized: true,
-        category: "",
-        hub: "",
-        slug: "actualidad-2026-04-30-3-la-loi-koller-se-durcit-cela-ne-te-concerne-pas-mais-ca-va-te-toucher",
-        readingTime: 1,
-        dateUpdated: "30 avril 2026",
-        summary: "Le Conseil fédéral a lancé une consultation en vue de réformer la Lex Koller, et l'orientation est claire : davantage de restrictions pour les…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>Le Conseil fédéral a lancé une consultation en vue de réformer la Lex Koller, et l'orientation est claire : davantage de restrictions pour les ressortissants hors UE et AELE. Il est envisagé que même pour l'achat d'une résidence principale, ils doivent demander une autorisation individuelle, et s'ils quittent la Suisse, ils seraient tenus de vendre dans un délai de deux ans. En outre, on souhaite mettre fin à l'achat de biens immobiliers à des fins purement d'investissement en vue de la location.</p>
-<p>... Voir plus</p>
-<p>www.espanolesensuiza.ch</p>
-</div>`
-    },
-
-    "fb-daily-20260504-01-a-la-suite-dune-publication-je-reviens-sur-un-sujet-delicat-le-hijab": {
         title: "À la suite d'une publication, je reviens sur un sujet délicat… Le hijab",
         description: "Une publication dans notre groupe WhatsApp m'a mis la puce à l'oreille. C'est une chose d'avertir quelqu'un en toute honnêteté que, dans de nombreux secteurs,…",
         keywords: "suite, publication, reviens, sujet, délicat, hijab, notre, groupe",
         keywordsLocalized: true,
         category: "Démarches et permis",
-        hub: "tramites",
-        slug: "actualidad-2026-05-04-1-a-la-suite-dune-publication-je-reviens-sur-un-sujet-delicat-le-hijab",
+        hub: "vivienda",
+        slug: "actualidad-2026-05-04-1-a-raiz-de-una-publicacion-vuelvo-sobre-un-tema-incomodo-el-hidjab",
         readingTime: 1,
         dateUpdated: "4 mai 2026",
+        featuredImage: "media/guides/actualidad-hijab-suiza-debate.jpg",
+        imageAlt: undefined,
         summary: "Une publication dans notre groupe WhatsApp m'a mis la puce à l'oreille. C'est une chose d'avertir quelqu'un en toute honnêteté que, dans de nombreux…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1386,16 +1222,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260504-02-tu-es-arrive-avec-une-idee-et-la-realite-ta-remis-a-ta-place": {
+    "fb-daily-20260504-02-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio": {
         title: "Tu es arrivé avec une idée… et la réalité t'a remis à ta place.",
         description: "Bon, je vais poser la question, parce que ça revient chaque semaine en privé : quelle « rumeur » as-tu crue avant d'arriver en Suisse ?",
         keywords: "arrivé, idée, réalité, remis, place, vais, poser, question",
         keywordsLocalized: true,
         category: "Travail et salaires",
-        hub: "trabajo",
-        slug: "actualidad-2026-05-04-2-tu-es-arrive-avec-une-idee-et-la-realite-ta-remis-a-ta-place",
+        hub: "",
+        slug: "actualidad-2026-05-04-2-se-viniste-con-una-idea-y-la-realidad-te-puso-en-tu-sitio",
         readingTime: 1,
         dateUpdated: "4 mai 2026",
+        featuredImage: "media/guides/actualidad-expectativas-realidad-suiza.jpg",
+        imageAlt: undefined,
         summary: "Bon, je vais poser la question, parce que ça revient chaque semaine en privé : quelle « rumeur » as-tu crue avant d'arriver en Suisse ?",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1408,16 +1246,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260504-03-temu-sous-les-feux-de-la-rampe-en-suisse-et-ce-nest-pas-un-hasard": {
+    "fb-daily-20260504-03-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad": {
         title: "Temu sous les feux de la rampe en Suisse… et ce n'est pas un hasard",
         description: "Depuis des mois, Temu fait un tabac en Europe avec des prix qui, soyons clairs, ne correspondent à aucune logique de marché normale. Et en Suisse, cela…",
         keywords: "temu, sous, feux, rampe, suisse, hasard, depuis, mois",
         keywordsLocalized: true,
         category: "Impôts",
         hub: "impuestos",
-        slug: "actualidad-2026-05-04-3-temu-sous-les-feux-de-la-rampe-en-suisse-et-ce-nest-pas-un-hasard",
+        slug: "actualidad-2026-05-04-3-temu-en-el-punto-de-mira-en-suiza-y-no-es-casualidad",
         readingTime: 2,
         dateUpdated: "4 mai 2026",
+        featuredImage: "media/guides/actualidad-temu-suiza-aduanas.jpg",
+        imageAlt: undefined,
         summary: "Depuis des mois, Temu fait un tabac en Europe avec des prix qui, soyons clairs, ne correspondent à aucune logique de marché normale. Et en Suisse,…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1431,16 +1271,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260504-04-cueillir-des-fraises-a-geneve-une-idee-sympa-jusqua-ce-quon-voie-le-pr": {
+    "fb-daily-20260504-04-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo": {
         title: "Cueillir des fraises à Genève : une idée sympa… jusqu’à ce qu’on voie le prix au kilo",
         description: "Chaque printemps, on voit la même vidéo : des champs verdoyants, des fraises parfaites, des enfants heureux et l'impression d'être dans une pub pour des…",
         keywords: "cueillir, fraises, genève, idée, sympa, jusqu, voie, prix",
         keywordsLocalized: true,
         category: "Vivre en Suisse",
-        hub: "vivir-en-suiza",
-        slug: "actualidad-2026-05-04-4-cueillir-des-fraises-a-geneve-une-idee-sympa-jusqua-ce-quon-voie-le-pr",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-04-4-recolectar-fresas-en-ginebra-plan-bonito-hasta-que-ves-el-precio-por-kilo",
         readingTime: 2,
         dateUpdated: "4 mai 2026",
+        featuredImage: "media/guides/actualidad-fresas-ginebra-recolecta.jpg",
+        imageAlt: undefined,
         summary: "Chaque printemps, on voit la même vidéo : des champs verdoyants, des fraises parfaites, des enfants heureux et l'impression d'être dans une pub pour…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1455,16 +1297,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260504-05-passeport-perime-et-refus-dembarquement-quand-la-compagnie-aerienne-se": {
+    "fb-daily-20260504-05-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca": {
         title: "Passeport périmé et refus d'embarquement : quand la compagnie aérienne se trompe",
         description: "En octobre 2018, à Lyon, la compagnie EasyJet a refusé l'embarquement à une mineure sur un vol à destination de Naples au motif que son passeport était périmé…",
         keywords: "passeport, périmé, refus, embarquement, quand, compagnie, aérienne, trompe",
         keywordsLocalized: true,
         category: "Vivre en Suisse",
-        hub: "vivir-en-suiza",
-        slug: "actualidad-2026-05-04-5-passeport-perime-et-refus-dembarquement-quand-la-compagnie-aerienne-se",
+        hub: "tramites",
+        slug: "actualidad-2026-05-04-5-pasaporte-caducado-y-denegacion-de-embarque-cuando-la-aerolinea-se-equivoca",
         readingTime: 2,
         dateUpdated: "4 mai 2026",
+        featuredImage: "media/guides/actualidad-pasaporte-caducado-embarque.jpg",
+        imageAlt: undefined,
         summary: "En octobre 2018, à Lyon, la compagnie EasyJet a refusé l'embarquement à une mineure sur un vol à destination de Naples au motif que son passeport…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1476,16 +1320,151 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260506-01-ce-que-personne-ne-vous-dit-sur-les-forfaits-a-la-minute-en-suisse": {
+    "fb-daily-20260505-01-lo-que-nadie-te-explica-sobre-heredar-en-suiza": {
+        title: "Ce que personne ne vous dit sur les successions en Suisse",
+        description: "En Suisse, il n'existe pas d'impôt fédéral sur les successions. Il s'agit d'impôts cantonaux, et chaque canton applique ses propres règles. Cela signifie que…",
+        keywords: "personne, vous, successions, suisse, existe, impôt, fédéral, agit",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-05-1-lo-que-nadie-te-explica-sobre-heredar-en-suiza",
+        readingTime: 1,
+        dateUpdated: "5 mai 2026",
+        featuredImage: "media/guides/actualidad-herencia-suiza-impuesto.jpg",
+        imageAlt: undefined,
+        summary: "En Suisse, il n'existe pas d'impôt fédéral sur les successions. Il s'agit d'impôts cantonaux, et chaque canton applique ses propres règles. Cela…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suisse, il n'existe pas d'impôt fédéral sur les successions. Il s'agit d'impôts cantonaux, et chaque canton applique ses propres règles. Cela signifie que si vous avez la chance d'hériter d'un bien ici, la première chose à savoir n'est pas le taux d'imposition, mais dans quel canton résidait le défunt.</p>
+<p>La bonne nouvelle pour la plupart des gens : tous les cantons exonèrent les descendants directs (enfants, petits-enfants) ainsi que les conjoints ou les partenaires enregistrés. En pratique, si vous êtes l'enfant d'une personne décédée en Suisse, vous ne payez dans la plupart des cas aucun droit de succession suisse. Les cantons de Schwyz et d'Obwald vont encore plus loin : ils n'appliquent aucun droit de succession, quel que soit le degré de parenté.</p>
+<p>La situation est différente si vous êtes un frère, un neveu, un concubin non enregistré ou simplement un tiers. Les taux varient considérablement selon le canton et le degré de parenté, et peuvent atteindre jusqu'à 50 % dans les cas extrêmes. Les écarts entre les cantons pour un même type d'héritage peuvent être considérables.</p>
+<p>Un détail que beaucoup de personnes vivant en Suisse ont tendance à oublier : si vous héritez de biens en Espagne, ceux-ci sont soumis à l'impôt sur les successions espagnol, et non au suisse. Et si vous résidiez hors d'Espagne au moment de l'ouverture de la succession, depuis 2018, vous disposez exactement des mêmes droits que les résidents de la communauté autonome où se trouvent les biens. Il vaut la peine de vérifier cela auprès d'un conseiller fiscal, car les différences entre les communautés autonomes peuvent être très importantes.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-02-las-vacaciones-en-suiza-lo-que-dice-la-ley-y-lo-que-depende-de-tu-cont": {
+        title: "Les congés en Suisse : ce que dit la loi et ce qui dépend de ton contrat",
+        description: "En Espagne, ce sont 22 jours ouvrables, ce qui correspond à environ 30 jours civils. En Suisse, le minimum légal est de 4 semaines par an pour les travailleurs…",
+        keywords: "congés, suisse, dépend, contrat, espagne, sont, jours, ouvrables",
+        keywordsLocalized: true,
+        category: "",
+        hub: "recursos",
+        slug: "actualidad-2026-05-05-2-las-vacaciones-en-suiza-lo-que-dice-la-ley-y-lo-que-depende-de-tu-cont",
+        readingTime: 1,
+        dateUpdated: "5 mai 2026",
+        featuredImage: "media/guides/actualidad-vacaciones-suiza-ley.jpg",
+        imageAlt: undefined,
+        summary: "En Espagne, ce sont 22 jours ouvrables, ce qui correspond à environ 30 jours civils. En Suisse, le minimum légal est de 4 semaines par an pour les…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Espagne, ce sont 22 jours ouvrables, ce qui correspond à environ 30 jours civils. En Suisse, le minimum légal est de 4 semaines par an pour les travailleurs adultes, conformément à l'article 329a du Code des obligations (CO). Pour les travailleurs de moins de 20 ans, le minimum est de 5 semaines. Il ne s'agit ni de jours civils ni de jours ouvrables : ce sont des semaines de travail, ce qui, dans la pratique, avec une semaine de 5 jours, équivaut à 20 jours ouvrables pour un adulte.</p>
+<p>La loi prévoit en outre qu'au moins deux semaines doivent être prises d'affilée et que les congés doivent être pris dans l'année en cours dans la mesure du possible. L'employeur fixe les dates en tenant compte des souhaits du salarié, mais il a le dernier mot s'il existe des raisons objectives liées à l'organisation. Ce que la loi interdit clairement, c'est de remplacer les jours de congé par une compensation financière pendant la durée du contrat : les congés ne se paient pas, ils se prennent.</p>
+<p>De nombreuses conventions collectives (CCT) et contrats individuels améliorent ce minimum légal. Il est courant de bénéficier de 5 semaines dans les moyennes et grandes entreprises, et ce en fonction de l'ancienneté. Il vaut la peine de vérifier son contrat et, le cas échéant, la CCT du secteur, car les différences peuvent être importantes.</p>
+<p>Un point que beaucoup ignorent : si vous tombez malade pendant vos vacances et que vous le justifiez par un certificat médical, ces jours d'arrêt ne sont pas décomptés de vos vacances. Vous avez le droit de les récupérer. Il s'agit d'une jurisprudence établie en Suisse, même si, dans la pratique, il est conseillé d'en informer votre employeur sans tarder et de lui fournir les documents nécessaires.</p>
+</div>`
+    },
+
+    "fb-daily-20260505-03-el-secreto-bancario-suizo-y-espana-lo-que-hay-que-saber-antes-de-lleva": {
+        title: "Le secret bancaire suisse et l'Espagne : ce qu'il faut savoir pour éviter les mauvaises surprises",
+        description: "Si quelqu'un vous a dit qu'avoir un compte dans une banque suisse signifiait que le fisc espagnol n'en savait rien, cette information est obsolète depuis…",
+        keywords: "secret, bancaire, suisse, espagne, faut, savoir, éviter, mauvaises",
+        keywordsLocalized: true,
+        category: "",
+        hub: "impuestos",
+        slug: "actualidad-2026-05-05-3-el-secreto-bancario-suizo-y-espana-lo-que-hay-que-saber-antes-de-lleva",
+        readingTime: 1,
+        dateUpdated: "5 mai 2026",
+        featuredImage: "media/guides/actualidad-secreto-bancario-suiza-espana.jpg",
+        imageAlt: undefined,
+        summary: "Si quelqu'un vous a dit qu'avoir un compte dans une banque suisse signifiait que le fisc espagnol n'en savait rien, cette information est obsolète…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Si quelqu'un vous a dit qu'avoir un compte dans une banque suisse signifiait que le fisc espagnol n'en savait rien, cette information est obsolète depuis plusieurs années. Depuis 2017, la Suisse échange automatiquement des données fiscales avec tous les États membres de l'UE, y compris l'Espagne. Cet accord repose sur la norme de l'OCDE relative à l'échange automatique d'informations (AEOI/EAR) et est pleinement contraignant.</p>
+<p>Voici les informations que les banques suisses transmettent chaque année à l'Administration fédérale des contributions (AFC/ESTV), qui les transmet à son tour à l'administration fiscale espagnole : nom complet, adresse, pays de résidence fiscale, numéro d'identification fiscale, solde des comptes et revenus générés (intérêts, dividendes, plus-values). Aucune enquête judiciaire ni demande préalable n'est nécessaire. Ce processus est automatique, annuel et systématique. En 2026, des données concernant plus de 3,4 millions de comptes financiers ont déjà été échangées avec 101 pays.</p>
+<p>En 2026, cette mesure sera étendue. La Suisse est en train d'intégrer les crypto-actifs dans ce système d'échange, dont la mise en œuvre est prévue pour 2027. La liste des pays concernés comprend tous les États membres de l'UE. Ainsi, si vous détenez des bitcoins ou des équivalents sur une plateforme suisse enregistrée, ces actifs seront eux aussi bientôt pris en compte par les autorités fiscales.</p>
+<p>La conséquence pratique est claire : si vous êtes résident fiscal en Espagne, vous êtes tenu de déclarer vos comptes et vos actifs à l'étranger au moyen du formulaire 720 dès lors qu'ils dépassent certains seuils. Un solde non déclaré en Suisse n'est pas caché. Le secret bancaire suisse vis-à-vis des autorités fiscales étrangères a cessé d'exister il y a près d'une décennie, et ceux qui ne se sont pas adaptés à cette réalité se retrouvent face à un problème qui risque de se compliquer avec le temps.</p>
+</div>`
+    },
+
+    "fb-daily-20260430-01-la-noche-de-los-museos-en-ginebra": {
+        title: "La Nuit des musées à Genève",
+        description: "Le samedi 30 mai 2026, à partir de 18 h, la Nuit des musées fait son retour à Genève. Et il ne s'agit pas d'une simple visite tranquille... mais plutôt d'un…",
+        keywords: "nuit, musées, genève, samedi, partir, fait, retour, agit",
+        keywordsLocalized: true,
+        category: "",
+        hub: "cultura-eventos",
+        slug: "actualidad-2026-04-30-1-la-noche-de-los-museos-en-ginebra",
+        readingTime: 1,
+        dateUpdated: "30 avril 2026",
+        featuredImage: "media/guides/actualidad-noche-museos-ginebra.jpg",
+        imageAlt: undefined,
+        summary: "Le samedi 30 mai 2026, à partir de 18 h, la Nuit des musées fait son retour à Genève. Et il ne s'agit pas d'une simple visite tranquille... mais…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Le samedi 30 mai 2026, à partir de 18 h, la Nuit des musées fait son retour à Genève. Et il ne s'agit pas d'une simple visite tranquille... mais plutôt d'un marathon culturel.</p>
+<p>150 activités réparties sur 29 espaces. Expositions, ateliers, escape games, performances, jeux de piste… et bien plus encore.</p>
+<p>Cette année, deux nouveaux lieux viennent s'ajouter à la liste : la Bibliothèque Braille Romande et livre parlé et le Geneva Skateboard Museum. Deux lieux assez différents, mais qui... Voir plus</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260430-02-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato": {
+        title: "Les costumes traditionnels suisses : ni déguisement, ni folklore de pacotille",
+        description: "J'ai lu un article de SwissCommunity sur les costumes traditionnels en Suisse, et je pense qu'il est utile d'apporter quelques précisions, car vu de…",
+        keywords: "costumes, traditionnels, suisses, déguisement, folklore, pacotille, article, swisscommunity",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "cultura-eventos",
+        slug: "actualidad-2026-04-30-2-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato",
+        readingTime: 1,
+        dateUpdated: "30 avril 2026",
+        featuredImage: "media/guides/actualidad-trajes-tradicionales-suizos.jpg",
+        imageAlt: undefined,
+        summary: "J'ai lu un article de SwissCommunity sur les costumes traditionnels en Suisse, et je pense qu'il est utile d'apporter quelques précisions, car vu de…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>J'ai lu un article de SwissCommunity sur les costumes traditionnels en Suisse, et je pense qu'il est utile d'apporter quelques précisions, car vu de l'extérieur, c'est assez difficile à comprendre.</p>
+<p>Tout d'abord, il n'existe pas « le costume suisse ». Il y en a des centaines. Littéralement. Chaque canton, chaque région, parfois chaque village, a le sien. Et ce n'est pas un hasard : les couleurs, les broderies ou les accessoires indiquaient des éléments très précis, comme l'état civil, la religion ou même la position sociale. En somme, ce n'était pas une question d'esthétique, c'était presque une carte d'identité en version textile.</p>
+<p>Deuxième point important : bon nombre des costumes que l'on voit aujourd'hui lors des fêtes ne sont pas aussi anciens qu'ils en ont l'air. Beaucoup ont été réinterprétés au XIXe siècle, à une époque où la Suisse, comme d'autres pays européens, était en train de forger son identité nationale. De la tradition, certes, mais bien réorganisée et mise en scène.</p>
+<p>De nos jours, ces costumes existent toujours, mais dans des contextes très précis : fêtes locales, associations culturelles, défilés. Personne ne s'habille ainsi pour aller travailler, au cas où quelqu'un l'aurait pensé. Et détail intéressant : un costume complet peut coûter plusieurs milliers de francs. Ce n'est pas un souvenir à 50 CHF.</p>
+<p>Au final, cela correspond assez bien au fonctionnement de la Suisse : une véritable diversité, une forte décentralisation, et un rapport à la tradition qui n'est pas nostalgique, mais structuré et, bien souvent, assez pragmatique.</p>
+<p>https://www.espanolesensuiza.ch/</p>
+</div>`
+    },
+
+    "fb-daily-20260430-03-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar": {
+        title: "La loi Koller se durcit : cela ne te concerne pas... mais ça va te toucher",
+        description: "Le Conseil fédéral a lancé une consultation en vue de réformer la Lex Koller, et l'orientation est claire : davantage de restrictions pour les ressortissants…",
+        keywords: "koller, durcit, cela, concerne, mais, toucher, conseil, fédéral",
+        keywordsLocalized: true,
+        category: "",
+        hub: "vivir-en-suiza",
+        slug: "actualidad-2026-04-30-3-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar",
+        readingTime: 1,
+        dateUpdated: "30 avril 2026",
+        featuredImage: "media/guides/actualidad-lex-koller-endurece-suiza.jpg",
+        imageAlt: undefined,
+        summary: "Le Conseil fédéral a lancé une consultation en vue de réformer la Lex Koller, et l'orientation est claire : davantage de restrictions pour les…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Le Conseil fédéral a lancé une consultation en vue de réformer la Lex Koller, et l'orientation est claire : davantage de restrictions pour les ressortissants hors UE et AELE. Il est envisagé que même pour l'achat d'une résidence principale, ils doivent demander une autorisation individuelle, et s'ils quittent la Suisse, ils seraient tenus de vendre dans un délai de deux ans. En outre, on souhaite mettre fin à l'achat de biens immobiliers à des fins purement d'investissement en vue de la location.</p>
+<p>... Voir plus</p>
+<p>www.espanolesensuiza.ch</p>
+</div>`
+    },
+
+    "fb-daily-20260506-01-lo-que-nadie-te-explica-del-contrato-a-llamada-en-suiza": {
         title: "Ce que personne ne vous dit sur les forfaits à la minute en Suisse",
         description: "Le « travail sur appel » est l'un des contrats les plus courants dans l'hôtellerie, le commerce, le nettoyage et les services de soins. L'employeur t'appelle…",
         keywords: "personne, vous, forfaits, minute, suisse, travail, appel, contrats",
         keywordsLocalized: true,
         category: "Travail et salaires",
         hub: "trabajo",
-        slug: "actualidad-2026-05-06-1-ce-que-personne-ne-vous-dit-sur-les-forfaits-a-la-minute-en-suisse",
+        slug: "actualidad-2026-05-06-1-lo-que-nadie-te-explica-del-contrato-a-llamada-en-suiza",
         readingTime: 2,
         dateUpdated: "6 mai 2026",
+        featuredImage: "media/guides/actualidad-contrato-llamada-suiza.jpg",
+        imageAlt: undefined,
         summary: "Le « travail sur appel » est l'un des contrats les plus courants dans l'hôtellerie, le commerce, le nettoyage et les services de soins. L'employeur…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1497,58 +1476,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260506-02-se-debarrasser-de-vieux-meubles-en-suisse-ce-qui-marche-ce-qui-ne-marc": {
-        title: "Se débarrasser de vieux meubles en Suisse : ce qui marche, ce qui ne marche pas, et ce que cela peut coûter",
-        description: "En Suisse, se débarrasser d'un vieux canapé, d'un matelas ou de meubles suite à un déménagement ne se passe pas comme dans d'autres pays. Les laisser dans la…",
-        keywords: "débarrasser, vieux, meubles, suisse, marche, cela, peut, coûter",
-        keywordsLocalized: true,
-        category: "Vivre en Suisse",
-        hub: "vivir-en-suiza",
-        slug: "actualidad-2026-05-06-2-se-debarrasser-de-vieux-meubles-en-suisse-ce-qui-marche-ce-qui-ne-marc",
-        readingTime: 2,
-        dateUpdated: "6 mai 2026",
-        summary: "En Suisse, se débarrasser d'un vieux canapé, d'un matelas ou de meubles suite à un déménagement ne se passe pas comme dans d'autres pays. Les laisser…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>En Suisse, se débarrasser d'un vieux canapé, d'un matelas ou de meubles suite à un déménagement ne se passe pas comme dans d'autres pays. Les laisser dans la rue n'est pas une option : selon le canton et la commune, cela peut constituer une infraction passible d'une amende ou entraîner la facturation des frais de ramassage au résident. La poubelle ménagère n'est pas non plus prévue pour ce type d'objets. Les « objets encombrants » ont leur propre circuit de collecte.</p>
-<p>La solution principale est la déchetterie ou le point de recyclage cantonal. Chaque canton dispose d'un réseau de centres où l'on peut déposer des meubles, des appareils électroménagers, du bois et d'autres objets volumineux. La plupart sont gratuits pour les résidents de la commune ou du canton, mais certaines conditions s'appliquent : il faut s'y rendre pendant les heures d'ouverture, respecter le tri des matériaux et, dans certains cantons, présenter des justificatifs. À Genève, depuis le 1er février 2026, il est obligatoire de présenter un passe ESREC (carte de résident genevois) pour accéder aux points de recyclage cantonaux. Sans cette carte, l'accès est refusé.</p>
-<p>De nombreuses communes organisent également des collectes d'encombrants à domicile une ou deux fois par an. Le calendrier est généralement disponible sur le site web de la commune. Dans certains cas, il faut prendre rendez-vous à l'avance. En dehors de ces dates, il est possible de faire appel à des services de débarras, des entreprises privées qui viennent chercher les objets à domicile moyennant paiement. L'alternative gratuite consiste à les publier sur des plateformes de réutilisation telles que Ricardo, Tutti ou les groupes Facebook locaux : en Suisse, la culture consistant à donner une seconde vie aux objets avant de les jeter est assez bien ancrée et fonctionne bien pour les meubles en bon état.</p>
-<p>Ce qu'il faut retenir : déposer des encombrants dans la rue sans autorisation, dans les parties communes de l'immeuble ou dans les conteneurs à ordures ménagères peut entraîner une amende ou la facturation directe des frais de ramassage à la personne qui les a déposés. Chaque commune a ses propres règles, qui peuvent varier considérablement, même au sein d'un même canton. Avant d'agir, le plus sûr est de consulter le site web de la commune ou d'appeler le service municipal des déchets.</p>
-<p>- ge.ch, encombrants et ferraille à Genève : https://www.ge.ch/comment-trier-ses-dechets-geneve/encombrants-ferraille - geneve.ch, enlèvement d'objets encombrants : https://www.geneve.ch/themes/environnement-urbain-espaces-verts/recyclage-dechets-menagers/objets-encombrants - recyclage-express.ch, déchetteries en Suisse romande : https://recyclage-express.ch/en/tout-savoir-sur-les-dechetteries-en-suisse-romande/</p>
-</div>`
-    },
-
-    "fb-daily-20260506-03-linitiative-du-14-juin-nexpulse-personne-en-situation-reguliere-mais-d": {
-        title: "L'initiative du 14 juin n'expulse personne en situation régulière. Mais dans les groupes, on dit le contraire.",
-        description: "À chaque fois qu'un vote sur l'immigration approche en Suisse, les groupes d'Espagnols sont inondés de messages mêlant des inquiétudes légitimes à des rumeurs…",
-        keywords: "initiative, juin, expulse, personne, situation, régulière, mais, groupes",
-        keywordsLocalized: true,
-        category: "Démarches et permis",
-        hub: "tramites",
-        slug: "actualidad-2026-05-06-3-linitiative-du-14-juin-nexpulse-personne-en-situation-reguliere-mais-d",
-        readingTime: 2,
-        dateUpdated: "6 mai 2026",
-        summary: "À chaque fois qu'un vote sur l'immigration approche en Suisse, les groupes d'Espagnols sont inondés de messages mêlant des inquiétudes légitimes à…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>À chaque fois qu'un vote sur l'immigration approche en Suisse, les groupes d'Espagnols sont inondés de messages mêlant des inquiétudes légitimes à des rumeurs qui n'ont aucun fondement dans le texte soumis au vote. Avec l'initiative « Pas de Suisse à 10 millions ! » du 14 juin, le cycle se répète immanquablement. Il vaut la peine de lire ce que dit le texte et, surtout, ce qu'il ne dit pas.</p>
-<p>L'initiative de l'UDC propose que la population résidante permanente de la Suisse ne dépasse pas les 10 millions d'habitants avant 2050. Si le seuil de 9,5 millions est atteint avant cette date, le Conseil fédéral et le Parlement seraient tenus de prendre des mesures. Les mesures explicitement mentionnées dans le texte concernent principalement l'asile : les personnes bénéficiant d'une admission provisoire ne pourraient plus obtenir de permis d'établissement, et le regroupement familial serait restreint dans certains cas. Le texte comprend en outre une clause de respect du droit international impératif.</p>
-<p>Le texte ne contient aucune clause prévoyant le retrait des permis déjà accordés ni le retour forcé des résidents bénéficiant d'un statut juridique stable. Les titulaires d'un permis B, C ou G, ainsi que les membres de leur famille titulaires de permis dérivés, ne sont pas visés par cette initiative. Affirmer le contraire sans s'appuyer sur le texte est tout simplement faux. Le Conseil fédéral et le Parlement rejettent l'initiative, mais en raison de ses effets potentiels sur les accords bilatéraux avec l'UE et sur l'économie suisse, et non parce qu'elle entraînerait l'expulsion de résidents déjà établis.</p>
-<p>Cette confusion obéit à une logique compréhensible : une initiative qui parle de « contrôler le nombre d'habitants » suscite une inquiétude naturelle, en particulier chez ceux qui ont déjà dû faire face à des renouvellements de permis ou à des démarches migratoires compliquées. Mais voter ou s'exprimer en se laissant guider par la peur plutôt que par le texte n'aide personne. Le texte complet est disponible sur admin.ch. Sa lecture prend dix minutes et vaut mieux que cent messages WhatsApp.</p>
-<p>- admin.ch, site officiel de l'initiative : https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, prise de position du Conseil fédéral : https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, analyse du texte : https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, fiche officielle de l'initiative : https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
-</div>`
-    },
-
-    "fb-daily-20260506-02-se-debarrasser-de-vieux-meubles-en-suisse-ce-qui-fonctionne-ce-qui-ne": {
+    "fb-daily-20260506-02-deshacerse-de-muebles-viejos-en-suiza-lo-que-funciona-lo-que-no-y-lo-q": {
         title: "Se débarrasser de vieux meubles en Suisse : ce qui fonctionne, ce qui ne fonctionne pas et ce que cela peut coûter",
         description: "En Suisse, se débarrasser d'un vieux canapé, d'un matelas ou de meubles suite à un déménagement ne se passe pas comme dans d'autres pays. Les laisser dans la…",
         keywords: "débarrasser, vieux, meubles, suisse, fonctionne, cela, peut, coûter",
         keywordsLocalized: true,
         category: "Vivre en Suisse",
         hub: "vivir-en-suiza",
-        slug: "actualidad-2026-05-06-2-se-debarrasser-de-vieux-meubles-en-suisse-ce-qui-fonctionne-ce-qui-ne",
+        slug: "actualidad-2026-05-06-2-deshacerse-de-muebles-viejos-en-suiza-lo-que-funciona-lo-que-no-y-lo-q",
         readingTime: 2,
         dateUpdated: "6 mai 2026",
+        featuredImage: "media/guides/actualidad-muebles-viejos-suiza-reciclaje.jpg",
+        imageAlt: undefined,
         summary: "En Suisse, se débarrasser d'un vieux canapé, d'un matelas ou de meubles suite à un déménagement ne se passe pas comme dans d'autres pays. Les laisser…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1560,16 +1499,41 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260507-01-en-suisse-le-13e-mois-nest-ni-automatique-ni-garanti-par-la-loi": {
+    "fb-daily-20260506-03-la-iniciativa-del-14-de-junio-no-expulsa-a-nadie-con-permiso-pero-en-l": {
+        title: "L'initiative du 14 juin n'expulse personne en situation régulière. Mais dans les groupes, on dit le contraire.",
+        description: "À chaque fois qu'un vote sur l'immigration approche en Suisse, les groupes d'Espagnols sont inondés de messages mêlant des inquiétudes légitimes à des rumeurs…",
+        keywords: "initiative, juin, expulse, personne, situation, régulière, mais, groupes",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-06-3-la-iniciativa-del-14-de-junio-no-expulsa-a-nadie-con-permiso-pero-en-l",
+        readingTime: 2,
+        dateUpdated: "6 mai 2026",
+        featuredImage: "media/guides/actualidad-iniciativa-junio-permiso-suiza.jpg",
+        imageAlt: undefined,
+        summary: "À chaque fois qu'un vote sur l'immigration approche en Suisse, les groupes d'Espagnols sont inondés de messages mêlant des inquiétudes légitimes à…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>À chaque fois qu'un vote sur l'immigration approche en Suisse, les groupes d'Espagnols sont inondés de messages mêlant des inquiétudes légitimes à des rumeurs qui n'ont aucun fondement dans le texte soumis au vote. Avec l'initiative « Pas de Suisse à 10 millions ! » du 14 juin, le cycle se répète immanquablement. Il vaut la peine de lire ce que dit le texte et, surtout, ce qu'il ne dit pas.</p>
+<p>L'initiative de l'UDC propose que la population résidante permanente de la Suisse ne dépasse pas les 10 millions d'habitants avant 2050. Si le seuil de 9,5 millions est atteint avant cette date, le Conseil fédéral et le Parlement seraient tenus de prendre des mesures. Les mesures explicitement mentionnées dans le texte concernent principalement l'asile : les personnes bénéficiant d'une admission provisoire ne pourraient plus obtenir de permis d'établissement, et le regroupement familial serait restreint dans certains cas. Le texte comprend en outre une clause de respect du droit international impératif.</p>
+<p>Le texte ne contient aucune clause prévoyant le retrait des permis déjà accordés ni le retour forcé des résidents bénéficiant d'un statut juridique stable. Les titulaires d'un permis B, C ou G, ainsi que les membres de leur famille titulaires de permis dérivés, ne sont pas visés par cette initiative. Affirmer le contraire sans s'appuyer sur le texte est tout simplement faux. Le Conseil fédéral et le Parlement rejettent l'initiative, mais en raison de ses effets potentiels sur les accords bilatéraux avec l'UE et sur l'économie suisse, et non parce qu'elle entraînerait l'expulsion de résidents déjà établis.</p>
+<p>Cette confusion obéit à une logique compréhensible : une initiative qui parle de « contrôler le nombre d'habitants » suscite une inquiétude naturelle, en particulier chez ceux qui ont déjà dû faire face à des renouvellements de permis ou à des démarches migratoires compliquées. Mais voter ou s'exprimer en se laissant guider par la peur plutôt que par le texte n'aide personne. Le texte complet est disponible sur admin.ch. Sa lecture prend dix minutes et vaut mieux que cent messages WhatsApp.</p>
+<p>- admin.ch, site officiel de l'initiative : https://www.admin.ch/fr/initiative-durabilite - ejpd.admin.ch, prise de position du Conseil fédéral : https://www.ejpd.admin.ch/fr/le-conseil-federal-rejette-linitiative-populaire-pas-de-suisse-a-10-millions- - rts.ch, analyse du texte : https://www.rts.ch/info/suisse/2026/article/plafonner-la-population-suisse-a-10-millions-un-objectif-simple-une-mise-en-uvre-complexe-29182359.html - bk.admin.ch, fiche officielle de l'initiative : https://www.bk.admin.ch/ch/f/pore/vi/vis555t.html</p>
+</div>`
+    },
+
+    "fb-daily-20260507-01-el-13-salario-en-suiza-no-es-automatico-ni-esta-garantizado-por-ley": {
         title: "En Suisse, le 13e mois n'est ni automatique ni garanti par la loi",
         description: "Quand on arrive en Suisse et qu’on entend parler du treizième salaire, beaucoup le considèrent comme acquis, comme s’il faisait partie intégrante du système,…",
         keywords: "suisse, mois, automatique, garanti, quand, arrive, entend, parler",
         keywordsLocalized: true,
         category: "Travail et salaires",
         hub: "trabajo",
-        slug: "actualidad-2026-05-07-1-en-suisse-le-13e-mois-nest-ni-automatique-ni-garanti-par-la-loi",
+        slug: "actualidad-2026-05-07-1-el-13-salario-en-suiza-no-es-automatico-ni-esta-garantizado-por-ley",
         readingTime: 2,
         dateUpdated: "7 mai 2026",
+        featuredImage: "media/guides/actualidad-13-salario-suiza.jpg",
+        imageAlt: undefined,
         summary: "Quand on arrive en Suisse et qu’on entend parler du treizième salaire, beaucoup le considèrent comme acquis, comme s’il faisait partie intégrante du…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1580,16 +1544,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260507-02-la-buanderie-de-limmeuble-en-suisse-la-piece-dont-personne-ne-vous-par": {
+    "fb-daily-20260507-02-la-buanderia-del-edificio-en-suiza-el-cuarto-que-nadie-te-explica-cuan": {
         title: "La buanderie de l'immeuble en Suisse : la pièce dont personne ne vous parle quand vous signez le bail",
         description: "L'un des premiers chocs culturels quand on loue un appartement en Suisse, ce n'est ni le prix, ni la caution, ni l'état des lieux de trois pages. C'est de…",
         keywords: "buanderie, immeuble, suisse, pièce, dont, personne, vous, parle",
         keywordsLocalized: true,
         category: "Travail et salaires",
         hub: "trabajo",
-        slug: "actualidad-2026-05-07-2-la-buanderie-de-limmeuble-en-suisse-la-piece-dont-personne-ne-vous-par",
+        slug: "actualidad-2026-05-07-2-la-buanderia-del-edificio-en-suiza-el-cuarto-que-nadie-te-explica-cuan",
         readingTime: 2,
         dateUpdated: "7 mai 2026",
+        featuredImage: "media/guides/actualidad-lavanderia-edificio-suiza.jpg",
+        imageAlt: undefined,
         summary: "L'un des premiers chocs culturels quand on loue un appartement en Suisse, ce n'est ni le prix, ni la caution, ni l'état des lieux de trois pages.…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1600,16 +1566,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260507-03-vivre-en-concubinage-en-suisse-ce-que-tu-perdrais-si-ton-partenaire-ve": {
+    "fb-daily-20260507-03-vivir-juntos-sin-casarse-en-suiza-lo-que-perderias-si-tu-pareja-muere": {
         title: "Vivre en concubinage en Suisse : ce que tu perdrais si ton partenaire venait à décéder demain",
         description: "En Suisse, il n'existe ni PACS ni aucune autre figure juridique équivalente qui protège les couples non mariés de la même manière que le mariage. Le…",
         keywords: "vivre, concubinage, suisse, perdrais, partenaire, venait, décéder, demain",
         keywordsLocalized: true,
         category: "Travail et salaires",
         hub: "trabajo",
-        slug: "actualidad-2026-05-07-3-vivre-en-concubinage-en-suisse-ce-que-tu-perdrais-si-ton-partenaire-ve",
+        slug: "actualidad-2026-05-07-3-vivir-juntos-sin-casarse-en-suiza-lo-que-perderias-si-tu-pareja-muere",
         readingTime: 2,
         dateUpdated: "7 mai 2026",
+        featuredImage: "media/guides/actualidad-pareja-hecho-suiza-derechos.jpg",
+        imageAlt: undefined,
         summary: "En Suisse, il n'existe ni PACS ni aucune autre figure juridique équivalente qui protège les couples non mariés de la même manière que le mariage. Le…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1620,16 +1588,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260508-01-divorcer-en-suisse-avec-un-permis-de-sejour-tout-depend-de-la-maniere": {
+    "fb-daily-20260508-01-divorciarse-en-suiza-con-permiso-de-residencia-lo-que-depende-de-como": {
         title: "Divorcer en Suisse avec un permis de séjour : tout dépend de la manière dont vous avez obtenu ce permis",
         description: "Une séparation ou un divorce soulève de nombreuses questions concernant le permis de séjour, et les réponses données dans les groupes ne sont pas toujours…",
         keywords: "divorcer, suisse, permis, séjour, tout, dépend, manière, dont",
         keywordsLocalized: true,
         category: "Démarches et permis",
         hub: "tramites",
-        slug: "actualidad-2026-05-08-1-divorcer-en-suisse-avec-un-permis-de-sejour-tout-depend-de-la-maniere",
+        slug: "actualidad-2026-05-08-1-divorciarse-en-suiza-con-permiso-de-residencia-lo-que-depende-de-como",
         readingTime: 2,
         dateUpdated: "8 mai 2026",
+        featuredImage: "media/guides/actualidad-divorcio-suiza-permiso.jpg",
+        imageAlt: undefined,
         summary: "Une séparation ou un divorce soulève de nombreuses questions concernant le permis de séjour, et les réponses données dans les groupes ne sont pas…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1640,16 +1610,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260508-02-la-caution-locative-en-suisse-trois-mois-bloques-qui-vous-appartiennen": {
+    "fb-daily-20260508-02-la-caucion-del-alquiler-en-suiza-tres-meses-bloqueados-que-son-tuyos-p": {
         title: "La caution locative en Suisse : trois mois bloqués qui vous appartiennent mais sur lesquels vous n'avez aucun contrôle",
         description: "Lorsque vous signez un contrat de location en Suisse, il est courant que le bailleur vous demande une garantie équivalente à deux ou trois mois de loyer. Trois…",
         keywords: "caution, locative, suisse, trois, mois, bloqués, vous, appartiennent",
         keywordsLocalized: true,
         category: "Travail et salaires",
         hub: "trabajo",
-        slug: "actualidad-2026-05-08-2-la-caution-locative-en-suisse-trois-mois-bloques-qui-vous-appartiennen",
+        slug: "actualidad-2026-05-08-2-la-caucion-del-alquiler-en-suiza-tres-meses-bloqueados-que-son-tuyos-p",
         readingTime: 1,
         dateUpdated: "8 mai 2026",
+        featuredImage: "media/guides/actualidad-caucion-alquiler-suiza.jpg",
+        imageAlt: undefined,
         summary: "Lorsque vous signez un contrat de location en Suisse, il est courant que le bailleur vous demande une garantie équivalente à deux ou trois mois de…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1660,16 +1632,18 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260508-03-la-retraite-espagnole-et-la-retraite-suisse-ne-sadditionnent-pas-comme": {
+    "fb-daily-20260508-03-la-pension-de-espana-y-la-de-suiza-no-se-suman-como-crees": {
         title: "La retraite espagnole et la retraite suisse ne s'additionnent pas comme tu le penses",
         description: "Une idée circule beaucoup : si vous travaillez en Suisse après avoir cotisé en Espagne, vous toucherez une pension des deux pays, ce qui revient presque à…",
         keywords: "retraite, espagnole, suisse, additionnent, comme, penses, idée, circule",
         keywordsLocalized: true,
         category: "Démarches et permis",
         hub: "tramites",
-        slug: "actualidad-2026-05-08-3-la-retraite-espagnole-et-la-retraite-suisse-ne-sadditionnent-pas-comme",
+        slug: "actualidad-2026-05-08-3-la-pension-de-espana-y-la-de-suiza-no-se-suman-como-crees",
         readingTime: 2,
         dateUpdated: "8 mai 2026",
+        featuredImage: "media/guides/actualidad-pension-espana-suiza.jpg",
+        imageAlt: undefined,
         summary: "Une idée circule beaucoup : si vous travaillez en Suisse après avoir cotisé en Espagne, vous toucherez une pension des deux pays, ce qui revient…",
         relatedSlugs: [],
         content: `<div class="article-content">
@@ -1678,5 +1652,6 @@ Object.assign(window.siteContent.fr.articles, {
 <p>C'est en matière d'éligibilité que l'accord s'avère utile. Si, en Espagne, il faut avoir cotisé pendant 15 ans pour avoir droit à une pension contributive et que vous n'en avez que 5, l'Espagne peut prendre en compte vos années de cotisation en Suisse pour vérifier que vous atteignez ce seuil minimum. Une fois l'éligibilité confirmée, le calcul se fait uniquement sur la base des années de cotisation effectives en Espagne.</p>
 <p>Ce qui a un impact concret : si vous envisagez de retourner en Espagne à l'approche de la retraite, les dernières années de cotisation en Espagne seront prises en compte dans le calcul de votre base de cotisation espagnole, ce qui peut améliorer considérablement votre pension espagnole. Travailler en Suisse jusqu'au dernier jour avant de prendre votre retraite n'est pas toujours la stratégie la plus avantageuse si vous avez l'intention de vivre en Espagne par la suite. Il vaut mieux faire le calcul à l'avance, et non pas lorsqu'il n'est plus possible de changer quoi que ce soit.</p>
 </div>`
-    }
+    },
+
 });

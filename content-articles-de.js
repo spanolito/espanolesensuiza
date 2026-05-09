@@ -12760,7 +12760,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         readingTime: 3,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/pension-avs-suiza.jpg",
-        imageAlt: "Persona mayor revisando su pension AVS en Suiza",
+        imageAlt: "Ältere Person überprüft ihre AHV-Rente in der Schweiz",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12788,7 +12788,7 @@ Wenn Sie zwischen 55 und 65 Jahre alt sind, ist es jetzt an der Zeit, Ihren indi
         readingTime: 3,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/declaracion-impuesto-fuente-suiza.jpg",
-        imageAlt: "Persona calculando su declaracion de impuestos a la fuente en Suiza",
+        imageAlt: "Person, die ihre Steuererklärung an der Quelle in der Schweiz berechnet",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12816,7 +12816,7 @@ In diesem Punkt sind kantonale Unterschiede relevant. Der eidgenössische Schwel
         readingTime: 3,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/cotizados-espana-jubilacion-suiza.jpg",
-        imageAlt: "Persona revisando sus anos cotizados en Espana para la jubilacion en Suiza",
+        imageAlt: "Person, die ihre Beitragsjahre in Spanien für den Ruhestand in der Schweiz überprüft",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12844,7 +12844,7 @@ Die praktische Empfehlung, insbesondere wenn Sie über 55 Jahre alt sind, ist kl
         readingTime: 2,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/venir-trabajar-suiza-preparacion.jpg",
-        imageAlt: "Persona preparando su mudanza para venir a trabajar en Suiza",
+        imageAlt: "Person, die sich auf einen Umzug zur Arbeit in die Schweiz vorbereitet",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12870,7 +12870,7 @@ Für diejenigen, die bereits hier sind oder den Umzug planen, ist die Botschaft 
         readingTime: 2,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/referendum-suiza-poblacion.jpg",
-        imageAlt: "Urna de votacion en un referendum suizo sobre la limitacion de poblacion",
+        imageAlt: "Wahlurne bei einer Schweizer Volksabstimmung zur Bevölkerungsbegrenzung",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12896,7 +12896,7 @@ Als Ausländer mit Wohnsitz in der Schweiz können Sie an dieser eidgenössische
         readingTime: 2,
         dateUpdated: "2026-04-16",
         featuredImage: "media/guides/lpp-2026-pensiones-invalidez-suiza.jpg",
-        imageAlt: "Persona mayor recibiendo informacion sobre su pension LPP de invalidez en Suiza",
+        imageAlt: "Ältere Person erhält Auskunft über ihre BVG-Invalidenrente in der Schweiz",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12922,7 +12922,7 @@ Dieser Wechselkurs erscheint in keinem offiziellen Brief mit einem einprägsamen
         readingTime: 2,
         dateUpdated: "2026-04-17",
         featuredImage: "media/guides/tardoc-consulta-medica-suiza.jpg",
-        imageAlt: "Medico atendiendo a un paciente en una consulta medica en Suiza",
+        imageAlt: "Arzt betreut einen Patienten in einer medizinischen Sprechstunde in der Schweiz",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12946,7 +12946,7 @@ Für den Patienten dürfte die Änderung nicht zu höheren Rechnungen führen. D
         readingTime: 2,
         dateUpdated: "2026-04-17",
         featuredImage: "media/guides/permiso-c-suiza.jpg",
-        imageAlt: "Tarjeta de permiso de residencia C en Suiza para residentes de larga duracion",
+        imageAlt: "Aufenthaltsbewilligungskarte C in der Schweiz für Langzeitaufenthalter",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12970,7 +12970,7 @@ Um dies zu beantragen, überprüfen die Behörden zusätzlich zu den fünf Jahre
         readingTime: 2,
         dateUpdated: "2026-04-17",
         featuredImage: "media/guides/perder-trabajo-suiza-desempleo.jpg",
-        imageAlt: "Persona desempleada buscando trabajo en Suiza tras perder su empleo",
+        imageAlt: "Arbeitsloser sucht Arbeit in der Schweiz, nachdem er seinen Job verloren hat",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -12992,7 +12992,7 @@ Ein Detail, das nur sehr wenige Menschen kennen: Wenn Sie vor Ihrer Einreise in 
         readingTime: 2,
         dateUpdated: "2026-04-18",
         featuredImage: "media/guides/penalizacion-fiscal-matrimonio-suiza.jpg",
-        imageAlt: "Pareja revisando su declaracion fiscal conjunta en Suiza tras el fin de la penalizacion al matrimonio",
+        imageAlt: "Paar überprüft nach Ende der Heiratsstrafe seine gemeinsame Steuererklärung in der Schweiz",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -13016,7 +13016,7 @@ Was nicht aus den Augen verloren werden sollte, ist das Argument hinter der Refo
         readingTime: 2,
         dateUpdated: "2026-04-18",
         featuredImage: "media/guides/taux-reference-alquiler-suiza.jpg",
-        imageAlt: "Apartamento en alquiler en Suiza con el taux de reference estable al 1,25 por ciento",
+        imageAlt: "Wohnung zu vermieten in der Schweiz mit einer stabilen Referenzsteuer von 1,25 Prozent",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -13040,7 +13040,7 @@ Aus praktischer Sicht haben Sie technisch gesehen das Recht, eine Reduzierung zu
         readingTime: 2,
         dateUpdated: "2026-04-18",
         featuredImage: "media/guides/subvenciones-primas-seguro-medico-suiza.jpg",
-        imageAlt: "Formulario de solicitud de subvencion para las primas del seguro medico en Suiza",
+        imageAlt: "Subventionsantragsformular für Krankenkassenprämien in der Schweiz",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -13062,7 +13062,7 @@ Der erste und einfachste Schritt besteht darin, das Portal des Wohnkantons oder 
         readingTime: 2,
         dateUpdated: "2026-04-19",
         featuredImage: "media/guides/regla-90-dias-suiza.jpg",
-        imageAlt: "Pasaporte con sello de entrada en la frontera suiza y la regla de los 90 dias Schengen",
+        imageAlt: "Reisepass mit Einreisestempel an der Schweizer Grenze und der 90-Tage-Schengen-Regel",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -13088,7 +13088,7 @@ Es gibt noch ein weiteres Element, das langsam in Umlauf kommt und wissenswert i
         readingTime: 2,
         dateUpdated: "2026-04-19",
         featuredImage: "media/guides/encontrar-piso-suiza-2026.jpg",
-        imageAlt: "Persona buscando piso en Suiza en 2026 en un mercado inmobiliario muy competitivo",
+        imageAlt: "Person, die im Jahr 2026 in einem sehr wettbewerbsintensiven Immobilienmarkt eine Wohnung in der Schweiz sucht",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
@@ -13112,7 +13112,7 @@ Was viele Neulinge nicht einkalkulieren, ist die Zeit. Die Suche nach einer geei
         readingTime: 2,
         dateUpdated: "2026-04-19",
         featuredImage: "media/guides/salario-minimo-suiza-cantones.jpg",
-        imageAlt: "Trabajador en Suiza consultando el convenio colectivo sobre el salario minimo por canton",
+        imageAlt: "Arbeitnehmer in der Schweiz konsultiert den Kollektivvertrag zum kantonalen Mindestlohn",
         summary: "Community-Leitfaden basierend auf aktuellen und überprüften Erfahrungen.",
         imageAlt: "",
         content: `<div class="article-content">
