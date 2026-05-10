@@ -1721,5 +1721,71 @@ Object.assign(window.siteContent.de.articles, {
 <p>Die Zahlen sprechen für sich. In den 1980er Jahren verlor die Schweiz pro Jahr 1,4 Arbeitstage durch Streiks pro 1.000 Arbeitnehmer. Deutschland verlor 666. Italien 1.123. Das liegt nicht daran, dass die Schweizer Arbeitnehmer mit ihren Arbeitsbedingungen zufriedener sind. Vielmehr ist das System so ausgelegt, dass Konflikte in Verhandlungen kanalisiert werden, bevor sie auf die Straße getragen werden.</p>
 <p>Was viele Spanier, die hierherkommen, nicht wissen: Wenn in deiner Branche ein Tarifvertrag gilt und du an einem Streik teilnimmst, der sich auf einen Punkt bezieht, der bereits in diesem Vertrag geregelt ist, kann dein Arbeitgeber dich vor Gericht bringen. Wenn die Schweizer Presse daher von einem „Streik“ spricht, handelt es sich technisch gesehen oft um einen Aktionstag oder eine Demonstration, nicht um einen Arbeitsniederlegung im engeren Sinne. Der rechtliche Unterschied ist von Bedeutung.</p>
 </div>`
+    },
+
+    "fb-daily-20260510-01-der-auszug-aus-dem-schweizer-strafregister-wie-man-ihn-beantragt-und-w": {
+        title: "Der Auszug aus dem Schweizer Strafregister: Wie man ihn beantragt und wofür man ihn benötigt",
+        featuredImage: "media/guides/actualidad-el-extracto-del-casier-judiciaire-suizo-como.jpg",
+        imageAlt: "Der Auszug aus dem Schweizer Strafregister: Wie man ihn beantragt und wofür man ihn benötigt",
+        description: "Das Strafregister ist das schweizerische Bundesregister für strafrechtliche Verurteilungen. Es wird in der ganzen Schweiz auf Französisch so genannt,…",
+        keywords: "auszug, schweizer, strafregister, beantragt, wofür, benötigt, schweizerische, bundesregister",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-10-1-der-auszug-aus-dem-schweizer-strafregister-wie-man-ihn-beantragt-und-w",
+        readingTime: 2,
+        dateUpdated: "10 Mai 2026",
+        summary: "Das Strafregister ist das schweizerische Bundesregister für strafrechtliche Verurteilungen. Es wird in der ganzen Schweiz auf Französisch so genannt,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Das Strafregister ist das schweizerische Bundesregister für strafrechtliche Verurteilungen. Es wird in der ganzen Schweiz auf Französisch so genannt, unabhängig davon, in welcher Region du lebst. Wenn jemand dich um einen „l'extrait du casier judiciaire“ bittet, verlangt er damit eine Bescheinigung darüber, dass du hier keine relevanten Verurteilungen hast. Es wird von Arbeitgebern, Gemeinden im Rahmen der Einbürgerung, einigen Vermietern und allen Stellen verwendet, die deine schweizerische Vorstrafenhistorie überprüfen möchten. Es ist nicht das Äquivalent zum Strafregisterauszug, den du in Spanien beantragst: Das ist ein spanisches Dokument und sagt nichts darüber aus, was du in der Schweiz haben könntest.</p>
+<p>Es gibt zwei Arten von Führungszeugnissen. Das „extrait ordinaire“ enthält die schwersten Verurteilungen, die noch nicht aus dem Register gelöscht wurden. Der „extrait spécial“ wird beantragt, wenn man mit Minderjährigen oder schutzbedürftigen Personen arbeitet, beispielsweise als Erzieher, Sporttrainer oder in Kindertagesstätten: Dieser enthält alle für diese Tätigkeit relevanten Verurteilungen, auch wenn sie schon länger zurückliegen. Der Unterschied ist wichtig, da in vielen Berufen im Sozial- oder Bildungsbereich nur der spezielle Auszug akzeptiert wird.</p>
+<p>Das Verfahren wird vollständig online über casier-judiciaire.admin.ch abgewickelt. Sie müssen weder eine Behörde aufsuchen noch Vermittler einschalten. Sie identifizieren sich mit der SwissID oder Ihrer elektronischen Schweizer Identität, oder Sie nutzen das postalische Verfahren, falls Sie über keine digitale Identifikation verfügen. Die Kosten betragen 17 CHF für die Standardversion, und der Auszug trifft innerhalb weniger Tage ein. Die Gültigkeitsdauer des Dokuments ist gesetzlich nicht festgelegt, doch in der Praxis akzeptieren die meisten Arbeitgeber und Behörden es bis zu 3 oder 6 Monate nach dem Ausstellungsdatum.</p>
+<p>Ein Punkt, den nur wenige kennen: Wenn du diesen Auszug im Ausland vorlegen musst, zum Beispiel in Spanien, musst du ihn mit einer Apostille versehen lassen. Die Apostille wird vom Eidgenössischen Justizdepartement ausgestellt und kostet zusätzlich 35 CHF. Ohne sie hat das Dokument außerhalb der Schweiz keine offizielle Gültigkeit. Und wenn du für ein Verfahren in der Schweiz ein spanisches Führungszeugnis benötigst, musst du dieses direkt beim spanischen Justizministerium beantragen, das über ein eigenes Online-Portal verfügt.</p>
+</div>`
+    },
+
+    "fb-daily-20260510-02-die-144-in-der-schweiz-anrufen-die-nummern-die-leben-retten-und-die-re": {
+        title: "Die 144 in der Schweiz anrufen: Die Nummern, die Leben retten – und die Rechnung, mit der viele nicht rechnen",
+        featuredImage: "media/guides/actualidad-llamar-al-144-en-suiza-los-numeros-que-salvan.jpg",
+        imageAlt: "Die 144 in der Schweiz anrufen: Die Nummern, die Leben retten – und die Rechnung, mit der viele nicht rechnen",
+        description: "Das Wichtigste zuerst: 117 ist die Polizei, 118 die Feuerwehr, 144 der Rettungsdienst und 1414 die Luftrettung, die Rega. Diese vier Nummern sind in der ganzen…",
+        keywords: "schweiz, anrufen, nummern, leben, retten, rechnung, viele, nicht",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-10-2-die-144-in-der-schweiz-anrufen-die-nummern-die-leben-retten-und-die-re",
+        readingTime: 2,
+        dateUpdated: "10 Mai 2026",
+        summary: "Das Wichtigste zuerst: 117 ist die Polizei, 118 die Feuerwehr, 144 der Rettungsdienst und 1414 die Luftrettung, die Rega. Diese vier Nummern sind in…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Das Wichtigste zuerst: 117 ist die Polizei, 118 die Feuerwehr, 144 der Rettungsdienst und 1414 die Luftrettung, die Rega. Diese vier Nummern sind in der ganzen Schweiz an 365 Tagen im Jahr und in jeder Sprache erreichbar. Falls der Telefonist dich nicht auf Spanisch bedienen kann, wird er dich mit jemandem verbinden, der dies kann. Sie stehen nicht im Reisepass, sind in keiner Willkommensbroschüre zu finden, und manche suchen sie erst im ungünstigsten Moment. Speichere sie dir jetzt.</p>
+<p>Was viele Menschen nicht wissen, ist, dass ein Anruf unter der Nummer 144 nicht kostenlos ist, zumindest nicht in dem Sinne, wie wir es verstehen. Der Anruf selbst kostet nichts, der Einsatz jedoch schon. Die Grundversicherung nach KVG übernimmt einen Teil der Kosten für den Krankentransport: theoretisch die Hälfte, bis zu maximal 500 CHF pro Jahr für einen regulären Transport oder bis zu 5'000 CHF im Falle einer Rettungsaktion. Das Problem ist, dass ein Ambulanztransport in der Schweiz je nach Kanton und Einsatzdauer leicht zwischen 500 und 1'500 CHF allein für die Fahrt kosten kann. Was die Versicherung nicht übernimmt, musst du aus eigener Tasche bezahlen.</p>
+<p>Der auffälligste Fall ist die Bergrettung. Die Rega entsendet Hubschrauber, wenn es die Situation erfordert, und ein einziger Einsatz kann zwischen 3'000 und 50'000 Franken kosten. Wenn du Mitglied der Rega bist, beträgt der Jahresbeitrag etwa 40 CHF für einen Erwachsenen oder 70 CHF für eine Familie, und die Rettungskosten, die nicht von der Grundversicherung übernommen werden, werden dir direkt erlassen. Wenn du kein Mitglied bist, erhältst du die vollständige Rechnung über den Betrag, den die KVG nicht bezahlt. Das ist eine dieser Sachen, die die Einheimischen in der Schweiz genau wissen, die aber niemand den Neuankömmlingen erklärt.</p>
+<p>Erwähnenswert ist auch der TCS: Sein Assistance-Service deckt bestimmte medizinische Transporte ab und kann die Leistungen ergänzen, die das KVG nicht übernimmt. Er ist nicht mit der Rega vergleichbar und greift nicht immer bei Notfällen in den Bergen, aber bei Verkehrsunfällen oder medizinischen Notfällen unterwegs kann er je nach Vertrag nützlich sein. Auf jeden Fall ist es wichtig zu wissen, dass die Notfalldienste in der Schweiz zwar ausgezeichnet, aber nicht kostenlos sind, und dass es entscheidend ist, genau zu wissen, was Ihre Versicherung abdeckt, bevor Sie sie in Anspruch nehmen müssen.</p>
+</div>`
+    },
+
+    "fb-daily-20260510-03-schwarzarbeit-in-der-schweiz-was-du-wirklich-riskierst-wenn-dir-jemand": {
+        title: "Schwarzarbeit in der Schweiz: Was du wirklich riskierst, wenn dir jemand anbietet, dich bar und ohne Quittung zu bezahlen",
+        featuredImage: "media/guides/actualidad-el-trabajo-en-negro-en-suiza-lo-que-realmente.jpg",
+        imageAlt: "Schwarzarbeit in der Schweiz: Was du wirklich riskierst, wenn dir jemand anbietet, dich bar und ohne Quittung zu bezahlen",
+        description: "Das Argument klingt immer plausibel: Es handelt sich um eine einmalige Sache, es gibt keine Unterlagen, das Geld fließt ungemeldet und niemand wird davon…",
+        keywords: "schwarzarbeit, schweiz, wirklich, riskierst, wenn, jemand, anbietet, dich",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-10-3-schwarzarbeit-in-der-schweiz-was-du-wirklich-riskierst-wenn-dir-jemand",
+        readingTime: 2,
+        dateUpdated: "10 Mai 2026",
+        summary: "Das Argument klingt immer plausibel: Es handelt sich um eine einmalige Sache, es gibt keine Unterlagen, das Geld fließt ungemeldet und niemand wird…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Das Argument klingt immer plausibel: Es handelt sich um eine einmalige Sache, es gibt keine Unterlagen, das Geld fließt ungemeldet und niemand wird davon erfahren. In der Schweiz hat dies einen offiziellen Namen, „travail au noir“, und das Gesetz gegen die Schwarzarbeit von 2005 sieht Konsequenzen vor, die weit über eine Verwaltungsstrafe hinausgehen. Der häufigste Irrtum ist die Annahme, dass nur der Arbeitgeber ein Risiko eingeht. In Wirklichkeit setzt auch der Arbeitnehmer konkrete Dinge aufs Spiel, von denen manche nur schwer wiederherzustellen sind.</p>
+<p>Der erste und unmittelbarste Punkt betrifft die Versicherung. Wenn du in der Schweiz bei der Schwarzarbeit einen Arbeitsunfall erleidest, bist du nicht durch das UVG, die obligatorische Unfallversicherung, abgesichert. Das bedeutet, dass du einen Spitalaufenthalt infolge dieses Unfalls selbst bezahlen musst, da das KVG die Kosten nicht übernimmt. Du hast auch keinen Anspruch auf Arbeitslosenunterstützung, wenn du diesen Job verlierst: Das RAV erkennt nicht angemeldete Beschäftigungen nicht an, und die Wochen, die du schwarz gearbeitet hast, zählen nicht für die Beitragszeiten. Das System macht keine Ausnahmen, auch wenn dir die Situation vorübergehend oder harmlos erscheint.</p>
+<p>Für Ausländer mit Aufenthaltsgenehmigung sind die Folgen schwerwiegender. Eine Verurteilung oder Sanktion wegen Schwarzarbeit oder wegen der Ausübung einer Tätigkeit ohne entsprechende Genehmigung kann sich auf die Verlängerung der Aufenthaltsgenehmigung der Kategorie B auswirken und bei wiederholten Verstößen als nachteiliger Faktor in einem Einbürgerungsverfahren gewertet werden. Dies ist zwar keine automatische oder sofortige Folge, aber es handelt sich um einen Eintrag, der bestehen bleibt. Das Ausländergesetz erlaubt es, Aufenthaltsgenehmigungen nicht zu verlängern, wenn die Person wiederholt gegen die Arbeitsmarktvorschriften verstoßen hat, und Fälle von nicht angemeldeter Arbeit werden registriert.</p>
+<p>Der dritte Aspekt, den fast niemand berücksichtigt, ist die AHV. Jeder Monat nicht angemeldeter Arbeit ist ein Monat ohne Beitragszahlungen. In der Schweiz baut sich die Rente Jahr für Jahr auf, und Beitragslücken verringern die Höhe der Altersrente. Wenn du jahrelang teilweise schwarz gearbeitet hast und mit Lücken in deiner Versicherungshistorie das Rentenalter erreichst, fragt das System nicht nach dem Grund: Es berechnet einfach, was du eingezahlt hast, und zahlt dir diesen Betrag aus. Es gibt keine Möglichkeit, nicht versicherte Jahre nachträglich auszugleichen. Für jemanden, der seit 20 oder 30 Jahren in der Schweiz lebt, kann der Unterschied für den Rest seines Lebens mehrere hundert Franken pro Monat betragen.</p>
+</div>`
     }
 });

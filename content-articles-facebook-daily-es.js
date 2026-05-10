@@ -1716,5 +1716,71 @@ Object.assign(window.siteContent.es.articles, {
 <p>El resultado en cifras lo dice todo. En los anos 80, Suiza perdia 1,4 dias de trabajo por huelga al ano por cada 1.000 asalariados. Alemania perdia 666. Italia, 1.123. No es que los trabajadores suizos esten mas satisfechos con sus condiciones. Es que el sistema esta disenado para canalizar los conflictos hacia la negociacion antes de que lleguen a la calle.</p>
 <p>Lo que muchos espanoles que llegan aqui no anticipan: si tu sector tiene un convenio colectivo y participas en una huelga sobre algo que ese convenio ya regula, tu empleador puede llevarte a juicio. Por eso cuando la prensa suiza habla de una "greve", a menudo se trata tecnicamente de una jornada de accion o de una manifestacion, no de un paro productivo en sentido estricto. La diferencia juridica importa.</p>
 </div>`
+    },
+
+    "fb-daily-20260510-01-el-extracto-del-casier-judiciaire-suizo-como-pedirlo-y-para-que-lo-vas": {
+        title: "El extracto del casier judiciaire suizo: cómo pedirlo y para qué lo vas a necesitar",
+        featuredImage: "media/guides/actualidad-el-extracto-del-casier-judiciaire-suizo-como.jpg",
+        imageAlt: "El extracto del casier judiciaire suizo: cómo pedirlo y para qué lo vas a necesitar",
+        description: "El casier judiciaire es el registro federal suizo de condenas penales. Se llama así en francés en toda Suiza, independientemente de la región donde vivas, y…",
+        keywords: "extracto, casier, judiciaire, suizo, cómo, pedirlo, necesitar, registro",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-10-1-el-extracto-del-casier-judiciaire-suizo-como-pedirlo-y-para-que-lo-vas",
+        readingTime: 2,
+        dateUpdated: "10 mayo 2026",
+        summary: "El casier judiciaire es el registro federal suizo de condenas penales. Se llama así en francés en toda Suiza, independientemente de la región donde…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>El casier judiciaire es el registro federal suizo de condenas penales. Se llama así en francés en toda Suiza, independientemente de la región donde vivas, y cuando alguien te pide "l'extrait du casier judiciaire", está pidiendo una certificación de que no tienes condenas relevantes aquí. Lo usan empleadores, ayuntamientos durante la naturalización, algunos arrendadores y cualquier organismo que quiera verificar tu historial penal suizo. No es el equivalente al certificado de antecedentes penales que pides en España: ese es un documento español y no dice nada de lo que puedas tener en Suiza.</p>
+<p>Hay dos tipos de extracto. El "extrait ordinaire" recoge las condenas más graves que todavía no han sido eliminadas del registro. El "extrait spécial" es el que se pide cuando vas a trabajar con menores o personas vulnerables, como educadores, monitores deportivos o personal de guarderías: este incluye todas las condenas relevantes para ese tipo de función, aunque sean antiguas. La diferencia importa porque en muchos empleos del sector social o educativo, solo sirve el extracto especial.</p>
+<p>El trámite se hace íntegramente en línea desde casier-judiciaire.admin.ch. No hace falta ir a ninguna oficina ni usar intermediarios. Te identificas con SwissID o con tu identidad electrónica suiza, o bien sigues el proceso postal si no tienes identificación digital. El coste es de 17 CHF para la versión ordinaria y el extracto llega en pocos días. La validez del documento no está fijada por ley, pero en la práctica la mayoría de empleadores y administraciones lo aceptan hasta 3 o 6 meses después de la fecha de expedición.</p>
+<p>Un punto que poca gente conoce: si necesitas presentar este extracto en el extranjero, por ejemplo en España, tienes que apostillarlo. La apostilla la tramita el Departamento Federal de Justicia y cuesta 35 CHF adicionales. Sin ella, el documento no tiene validez oficial fuera de Suiza. Y si lo que necesitas es el historial penal español para un trámite en Suiza, ese lo tienes que pedir directamente al Ministerio de Justicia español, que tiene su propio portal de acceso por internet.</p>
+</div>`
+    },
+
+    "fb-daily-20260510-02-llamar-al-144-en-suiza-los-numeros-que-salvan-vidas-y-la-factura-que-m": {
+        title: "Llamar al 144 en Suiza: los números que salvan vidas y la factura que muchos no esperan",
+        featuredImage: "media/guides/actualidad-llamar-al-144-en-suiza-los-numeros-que-salvan.jpg",
+        imageAlt: "Llamar al 144 en Suiza: los números que salvan vidas y la factura que muchos no esperan",
+        description: "Primero lo esencial: 117 es la policía, 118 son los bomberos, 144 es la ambulancia y 1414 es el rescate aéreo, el Rega. Estos cuatro números funcionan en toda…",
+        keywords: "llamar, suiza, números, salvan, vidas, factura, muchos, esperan",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-10-2-llamar-al-144-en-suiza-los-numeros-que-salvan-vidas-y-la-factura-que-m",
+        readingTime: 2,
+        dateUpdated: "10 mayo 2026",
+        summary: "Primero lo esencial: 117 es la policía, 118 son los bomberos, 144 es la ambulancia y 1414 es el rescate aéreo, el Rega. Estos cuatro números…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Primero lo esencial: 117 es la policía, 118 son los bomberos, 144 es la ambulancia y 1414 es el rescate aéreo, el Rega. Estos cuatro números funcionan en toda Suiza los 365 días del año y en cualquier idioma. Si el operador no puede atenderte en español, te conectará con alguien que sí puede. No están en el pasaporte, no vienen en ningún folleto de bienvenida, y hay gente que los busca en el momento más inoportuno. Guárdalos ya.</p>
+<p>Lo que mucha gente no sabe es que llamar al 144 no es gratis en el sentido en que lo entendemos. La llamada en sí no cuesta, pero la intervención sí. El seguro básico LAMal cubre una parte del coste del transporte en ambulancia: en teoría la mitad, hasta un máximo de 500 CHF por año para transporte ordinario, o hasta 5.000 CHF si se trata de una operación de rescate. El problema es que una ambulancia en Suiza puede costarte fácilmente entre 500 y 1.500 CHF solo por el trayecto, según el cantón y el tiempo de intervención. Lo que el seguro no cubre lo pagas de tu bolsillo.</p>
+<p>El caso más llamativo es el del rescate en montaña. El Rega envía helicópteros cuando la situación lo requiere, y una sola operación puede costar entre 3.000 y 50.000 francos. Si eres miembro del Rega, la cuota anual es de unos 40 CHF para un adulto o 70 CHF para una familia, y el coste del rescate que no cubre el seguro básico te lo condona directamente. Si no eres miembro, recibes la factura completa con lo que el LAMal no paga. Es una de esas cosas que en Suiza la gente local sabe perfectamente, pero que nadie explica a quien acaba de llegar.</p>
+<p>Merece también mencionar el TCS: su servicio de asistencia cubre determinados traslados médicos y puede complementar lo que el LAMal no paga. No es lo mismo que el Rega, y no siempre funciona para emergencias de montaña, pero para accidentes de tráfico o situaciones médicas en ruta, tiene utilidad según el contrato que tengas. En cualquier caso, lo que importa retener es que en Suiza los servicios de urgencias son excelentes, pero no son gratuitos, y que conocer bien qué cubre tu seguro antes de necesitarlo marca la diferencia.</p>
+</div>`
+    },
+
+    "fb-daily-20260510-03-el-trabajo-en-negro-en-suiza-lo-que-realmente-arriesgas-cuando-alguien": {
+        title: "El trabajo en negro en Suiza: lo que realmente arriesgas cuando alguien te propone pagar en efectivo sin papeles",
+        featuredImage: "media/guides/actualidad-el-trabajo-en-negro-en-suiza-lo-que-realmente.jpg",
+        imageAlt: "El trabajo en negro en Suiza: lo que realmente arriesgas cuando alguien te propone pagar en efectivo sin papeles",
+        description: "El argumento siempre suena razonable: es algo puntual, no hay papeles, el dinero entra sin declarar y nadie se enterará. En Suiza esto tiene un nombre oficial,…",
+        keywords: "trabajo, negro, suiza, realmente, arriesgas, cuando, alguien, propone",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-10-3-el-trabajo-en-negro-en-suiza-lo-que-realmente-arriesgas-cuando-alguien",
+        readingTime: 2,
+        dateUpdated: "10 mayo 2026",
+        summary: "El argumento siempre suena razonable: es algo puntual, no hay papeles, el dinero entra sin declarar y nadie se enterará. En Suiza esto tiene un…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>El argumento siempre suena razonable: es algo puntual, no hay papeles, el dinero entra sin declarar y nadie se enterará. En Suiza esto tiene un nombre oficial, "travail au noir", y la Ley contra el Trabajo No Declarado de 2005 prevé consecuencias que van mucho más allá de una multa administrativa. El error más habitual es pensar que el riesgo lo tiene solo el empleador. La realidad es que el trabajador también expone cosas concretas, algunas difíciles de recuperar.</p>
+<p>El primero y más inmediato es el seguro. En Suiza, si sufres un accidente laboral mientras trabajas en negro, no estás cubierto por la LAA, el seguro de accidentes obligatorio. Eso significa que una hospitalización derivada de ese accidente la pagas tú, con lo que el LAMal no cubre. Tampoco tienes derecho al paro si te quedas sin ese trabajo: el RAV no reconoce empleos no declarados, y las semanas trabajadas en negro no cuentan para los periodos de cotización. El sistema no hace excepciones porque la situación te pareciera temporal o inofensiva.</p>
+<p>Para los extranjeros con permiso de residencia, las consecuencias se agravan. Una condena o sanción por trabajo no declarado, o por ejercer una actividad sin la autorización correspondiente, puede afectar la renovación del permiso B y en casos reiterados puede tomarse como elemento desfavorable en un proceso de naturalización. No es una consecuencia automática ni instantánea, pero sí es un antecedente que queda. La Ley de Extranjería permite no renovar permisos cuando la persona ha incumplido reiteradamente las normas del mercado de trabajo, y los casos de trabajo sin declarar quedan registrados.</p>
+<p>El tercer aspecto que casi nadie calcula es la AVS. Cada mes de trabajo no declarado es un mes que no cotiza. En Suiza la pensión se construye año a año, y las lagunas en las cotizaciones reducen la renta de jubilación. Si llevas años trabajando parcialmente en negro y llegas a la edad de jubilación con huecos en tu historial, el sistema no te pregunta por qué: simplemente calcula lo que has cotizado y te paga eso. No hay manera de compensar años no cotizados una vez pasados. Para alguien que lleva 20 o 30 años en Suiza, la diferencia puede ser de varios centenares de francos al mes durante el resto de su vida.</p>
+</div>`
     }
 });

@@ -1721,5 +1721,71 @@ Object.assign(window.siteContent.en.articles, {
 <p>The figures speak for themselves. In the 1980s, Switzerland lost 1.4 working days per year to strikes for every 1,000 employees. Germany lost 666. Italy, 1,123. It is not that Swiss workers are more satisfied with their conditions. It is simply that the system is designed to channel disputes into negotiation before they reach the streets.</p>
 <p>What many Spaniards who come here don’t realise is that if your sector has a collective agreement and you take part in a strike over an issue already covered by that agreement, your employer can take you to court. That is why, when the Swiss press refers to a “greve”, it is often technically a day of action or a demonstration, not a work stoppage in the strict sense. The legal distinction matters.</p>
 </div>`
+    },
+
+    "fb-daily-20260510-01-the-swiss-criminal-record-extract-how-to-request-it-and-what-youll-nee": {
+        title: "The Swiss criminal record extract: how to request it and what you’ll need it for",
+        featuredImage: "media/guides/actualidad-el-extracto-del-casier-judiciaire-suizo-como.jpg",
+        imageAlt: "The Swiss criminal record extract: how to request it and what you’ll need it for",
+        description: "The casier judiciaire is the Swiss federal register of criminal convictions. It is known by this French name throughout Switzerland, regardless of the region…",
+        keywords: "swiss, criminal, record, extract, request, what, need, casier",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-10-1-the-swiss-criminal-record-extract-how-to-request-it-and-what-youll-nee",
+        readingTime: 2,
+        dateUpdated: "May 10, 2026",
+        summary: "The casier judiciaire is the Swiss federal register of criminal convictions. It is known by this French name throughout Switzerland, regardless of…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>The casier judiciaire is the Swiss federal register of criminal convictions. It is known by this French name throughout Switzerland, regardless of the region where you live, and when someone asks you for ‘l’extrait du casier judiciaire’, they are asking for a certificate confirming that you have no relevant convictions here. It is used by employers, local authorities during the naturalisation process, some landlords, and any organisation wishing to check your Swiss criminal record. It is not the equivalent of the criminal record certificate you request in Spain: that is a Spanish document and says nothing about any convictions you may have in Switzerland.</p>
+<p>There are two types of extract. The "extrait ordinaire" lists the most serious convictions that have not yet been removed from the register. The "extrait spécial" is the one you need to request if you are going to work with children or vulnerable people, such as teachers, sports coaches or nursery staff: this includes all convictions relevant to that type of role, even if they are old. The difference matters because, for many jobs in the social or educational sector, only the special extract is accepted.</p>
+<p>The process is carried out entirely online via casier-judiciaire.admin.ch. There is no need to visit any office or use intermediaries. You can log in using SwissID or your Swiss electronic identity, or follow the postal procedure if you do not have digital identification. The cost is CHF 17 for the standard version and the extract arrives within a few days. The validity of the document is not set by law, but in practice most employers and public authorities accept it for up to 3 or 6 months after the date of issue.</p>
+<p>Something few people realise: if you need to submit this extract abroad, for example in Spain, you must have it apostilled. The apostille is issued by the Federal Department of Justice and costs an additional CHF 35. Without it, the document has no official validity outside Switzerland. And if you need a Spanish criminal record for a procedure in Switzerland, you must request this directly from the Spanish Ministry of Justice, which has its own online portal.</p>
+</div>`
+    },
+
+    "fb-daily-20260510-02-calling-144-in-switzerland-the-numbers-that-save-lives-and-the-bill-ma": {
+        title: "Calling 144 in Switzerland: the numbers that save lives and the bill many don’t expect",
+        featuredImage: "media/guides/actualidad-llamar-al-144-en-suiza-los-numeros-que-salvan.jpg",
+        imageAlt: "Calling 144 in Switzerland: the numbers that save lives and the bill many don’t expect",
+        description: "First things first: 117 is the police, 118 is the fire brigade, 144 is the ambulance service and 1414 is the air rescue service, Rega. These four numbers…",
+        keywords: "calling, switzerland, numbers, save, lives, bill, many, expect",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-10-2-calling-144-in-switzerland-the-numbers-that-save-lives-and-the-bill-ma",
+        readingTime: 2,
+        dateUpdated: "May 10, 2026",
+        summary: "First things first: 117 is the police, 118 is the fire brigade, 144 is the ambulance service and 1414 is the air rescue service, Rega. These four…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>First things first: 117 is the police, 118 is the fire brigade, 144 is the ambulance service and 1414 is the air rescue service, Rega. These four numbers operate throughout Switzerland 365 days a year and in any language. If the operator cannot assist you in Spanish, they will put you through to someone who can. They aren’t in your passport, they aren’t in any welcome leaflet, and there are people who find themselves looking for them at the most inconvenient moment. Save them now.</p>
+<p>What many people don’t realise is that calling 144 isn’t free in the way we usually understand it. The call itself is free, but the service isn’t. Basic LAMal insurance covers part of the cost of ambulance transport: in theory, half, up to a maximum of CHF 500 per year for standard transport, or up to CHF 5,000 in the case of a rescue operation. The problem is that an ambulance in Switzerland can easily cost between CHF 500 and CHF 1,500 just for the journey, depending on the canton and the duration of the call-out. Whatever the insurance doesn’t cover, you pay out of your own pocket.</p>
+<p>The most striking example is mountain rescue. Rega dispatches helicopters when the situation requires it, and a single operation can cost between 3,000 and 50,000 francs. If you are a Rega member, the annual fee is around CHF 40 for an adult or CHF 70 for a family, and the cost of the rescue not covered by basic insurance is waived directly. If you are not a member, you receive the full bill for what the LAMal does not cover. It is one of those things that locals in Switzerland know perfectly well, but which nobody explains to newcomers.</p>
+<p>It is also worth mentioning the TCS: its assistance service covers certain medical transfers and can supplement what the LAMal does not pay for. It is not the same as Rega, and it does not always cover mountain emergencies, but for road traffic accidents or medical situations whilst travelling, it can be useful depending on the policy you have. In any case, the key point to remember is that in Switzerland, emergency services are excellent, but they are not free, and knowing exactly what your insurance covers before you need it makes all the difference.</p>
+</div>`
+    },
+
+    "fb-daily-20260510-03-undeclared-work-in-switzerland-what-youre-really-risking-when-someone": {
+        title: "Undeclared work in Switzerland: what you’re really risking when someone offers to pay you in cash without providing a receipt",
+        featuredImage: "media/guides/actualidad-el-trabajo-en-negro-en-suiza-lo-que-realmente.jpg",
+        imageAlt: "Undeclared work in Switzerland: what you’re really risking when someone offers to pay you in cash without providing a receipt",
+        description: "The argument always sounds reasonable: it’s a one-off, there’s no paperwork, the money comes in undeclared and no one will find out. In Switzerland, this has…",
+        keywords: "undeclared, work, switzerland, what, really, risking, when, someone",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-10-3-undeclared-work-in-switzerland-what-youre-really-risking-when-someone",
+        readingTime: 2,
+        dateUpdated: "May 10, 2026",
+        summary: "The argument always sounds reasonable: it’s a one-off, there’s no paperwork, the money comes in undeclared and no one will find out. In Switzerland,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>The argument always sounds reasonable: it’s a one-off, there’s no paperwork, the money comes in undeclared and no one will find out. In Switzerland, this has an official name, “travail au noir”, and the 2005 Act on Undeclared Work provides for consequences that go far beyond an administrative fine. The most common mistake is to think that the risk lies solely with the employer. The reality is that the worker also puts specific things at risk, some of which are difficult to recover.</p>
+<p>The first and most immediate issue is insurance. In Switzerland, if you have an accident at work whilst working illegally, you are not covered by the LAA, the compulsory accident insurance scheme. This means that any hospitalisation resulting from that accident is at your own expense, as the LAMal does not cover it. Nor are you entitled to unemployment benefit if you lose that job: the RAV does not recognise undeclared employment, and the weeks worked illegally do not count towards your contribution periods. The system makes no exceptions simply because the situation may seem temporary or harmless to you.</p>
+<p>For foreign nationals with a residence permit, the consequences are more severe. A conviction or penalty for undeclared work, or for carrying out an activity without the necessary authorisation, may affect the renewal of a B permit and, in the case of repeat offences, may be viewed as a negative factor in a naturalisation process. It is not an automatic or immediate consequence, but it does remain on one’s record. The Immigration Act allows for permits not to be renewed where a person has repeatedly breached labour market regulations, and cases of undeclared work are recorded.</p>
+<p>The third factor that almost nobody takes into account is the AVS. Every month of undeclared work is a month for which you haven’t paid contributions. In Switzerland, your pension is built up year by year, and gaps in your contributions reduce your retirement income. If you have been working partly off the books for years and reach retirement age with gaps in your record, the system doesn’t ask why: it simply calculates what you have contributed and pays you that amount. There is no way to make up for missed contribution years once they have passed. For someone who has been in Switzerland for 20 or 30 years, the difference could amount to several hundred francs a month for the rest of their life.</p>
+</div>`
     }
 });

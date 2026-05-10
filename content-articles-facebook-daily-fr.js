@@ -1721,5 +1721,71 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Les chiffres parlent d'eux-mêmes. Dans les années 80, la Suisse perdait 1,4 jour de travail par an en raison des grèves pour 1 000 salariés. L'Allemagne en perdait 666. L'Italie, 1 123. Ce n'est pas que les travailleurs suisses soient plus satisfaits de leurs conditions de travail. C'est simplement que le système est conçu pour canaliser les conflits vers la négociation avant qu'ils n'atteignent la rue.</p>
 <p>Ce que beaucoup d'Espagnols qui arrivent ici ne savent pas : si votre secteur est couvert par une convention collective et que vous participez à une grève portant sur un sujet déjà réglementé par cette convention, votre employeur peut vous poursuivre en justice. C'est pourquoi, lorsque la presse suisse parle d'une « grève », il s'agit souvent, d'un point de vue technique, d'une journée d'action ou d'une manifestation, et non d'un arrêt de travail au sens strict. Cette distinction juridique a son importance.</p>
 </div>`
+    },
+
+    "fb-daily-20260510-01-lextrait-du-casier-judiciaire-suisse-comment-lobtenir-et-a-quoi-cela-s": {
+        title: "L'extrait du casier judiciaire suisse : comment l'obtenir et à quoi cela sert-il ?",
+        featuredImage: "media/guides/actualidad-el-extracto-del-casier-judiciaire-suizo-como.jpg",
+        imageAlt: "L'extrait du casier judiciaire suisse : comment l'obtenir et à quoi cela sert-il ?",
+        description: "Le casier judiciaire est le registre fédéral suisse des condamnations pénales. Il porte ce nom en français dans toute la Suisse, quelle que soit la région où…",
+        keywords: "extrait, casier, judiciaire, suisse, comment, obtenir, quoi, cela",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-10-1-lextrait-du-casier-judiciaire-suisse-comment-lobtenir-et-a-quoi-cela-s",
+        readingTime: 2,
+        dateUpdated: "10 mai 2026",
+        summary: "Le casier judiciaire est le registre fédéral suisse des condamnations pénales. Il porte ce nom en français dans toute la Suisse, quelle que soit la…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Le casier judiciaire est le registre fédéral suisse des condamnations pénales. Il porte ce nom en français dans toute la Suisse, quelle que soit la région où tu vis, et lorsqu’on te demande « l’extrait du casier judiciaire », on te demande une attestation certifiant que tu n’as pas de condamnations pertinentes ici. Il est utilisé par les employeurs, les mairies lors de la naturalisation, certains bailleurs et tout organisme souhaitant vérifier ton casier judiciaire suisse. Ce n'est pas l'équivalent du certificat de casier judiciaire que vous demandez en Espagne : il s'agit d'un document espagnol qui ne mentionne pas les éventuelles condamnations dont vous pourriez faire l'objet en Suisse.</p>
+<p>Il existe deux types d'extrait. L'« extrait ordinaire » recense les condamnations les plus graves qui n'ont pas encore été effacées du casier judiciaire. L'« extrait spécial » est celui qu'il faut demander lorsque l'on travaille avec des mineurs ou des personnes vulnérables, comme les éducateurs, les moniteurs sportifs ou le personnel des crèches : il comprend toutes les condamnations pertinentes pour ce type de fonction, même anciennes. Cette distinction est importante car, pour de nombreux emplois dans le secteur social ou éducatif, seul l'extrait spécial est accepté.</p>
+<p>La procédure se fait entièrement en ligne sur le site casier-judiciaire.admin.ch. Il n'est pas nécessaire de se rendre dans un bureau ni de passer par des intermédiaires. Vous vous identifiez à l'aide de SwissID ou de votre identité électronique suisse, ou vous suivez la procédure par courrier si vous ne disposez pas d'identification numérique. Le coût est de 17 CHF pour la version ordinaire et l'extrait vous parvient en quelques jours. La durée de validité du document n'est pas fixée par la loi, mais dans la pratique, la plupart des employeurs et des administrations l'acceptent jusqu'à 3 ou 6 mois après la date de délivrance.</p>
+<p>Un détail que peu de gens connaissent : si vous devez présenter cet extrait à l'étranger, par exemple en Espagne, vous devez le faire apostiller. L'apostille est délivrée par le Département fédéral de justice et coûte 35 CHF supplémentaires. Sans elle, le document n'a aucune valeur officielle en dehors de la Suisse. Et si vous avez besoin d'un casier judiciaire espagnol pour une démarche en Suisse, vous devez le demander directement au ministère espagnol de la Justice, qui dispose de son propre portail en ligne.</p>
+</div>`
+    },
+
+    "fb-daily-20260510-02-appeler-le-144-en-suisse-les-numeros-qui-sauvent-des-vies-et-la-factur": {
+        title: "Appeler le 144 en Suisse : les numéros qui sauvent des vies et la facture à laquelle beaucoup ne s'attendent pas",
+        featuredImage: "media/guides/actualidad-llamar-al-144-en-suiza-los-numeros-que-salvan.jpg",
+        imageAlt: "Appeler le 144 en Suisse : les numéros qui sauvent des vies et la facture à laquelle beaucoup ne s'attendent pas",
+        description: "Commençons par l'essentiel : le 117 pour la police, le 118 pour les pompiers, le 144 pour l'ambulance et le 1414 pour le sauvetage aérien, le Rega. Ces quatre…",
+        keywords: "appeler, suisse, numéros, sauvent, vies, facture, laquelle, beaucoup",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-10-2-appeler-le-144-en-suisse-les-numeros-qui-sauvent-des-vies-et-la-factur",
+        readingTime: 2,
+        dateUpdated: "10 mai 2026",
+        summary: "Commençons par l'essentiel : le 117 pour la police, le 118 pour les pompiers, le 144 pour l'ambulance et le 1414 pour le sauvetage aérien, le Rega.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Commençons par l'essentiel : le 117 pour la police, le 118 pour les pompiers, le 144 pour l'ambulance et le 1414 pour le sauvetage aérien, le Rega. Ces quatre numéros fonctionnent dans toute la Suisse, 365 jours par an et dans toutes les langues. Si l'opérateur ne peut pas vous répondre en espagnol, il vous mettra en relation avec quelqu'un qui le peut. Ils ne figurent pas sur votre passeport, ne sont mentionnés dans aucune brochure de bienvenue, et certains les recherchent au moment le plus inopportun. Enregistrez-les dès maintenant.</p>
+<p>Ce que beaucoup de gens ignorent, c'est qu'appeler le 144 n'est pas gratuit au sens où on l'entend habituellement. L'appel en lui-même est gratuit, mais l'intervention ne l'est pas. L'assurance de base LAMal couvre une partie des frais de transport en ambulance : en théorie la moitié, jusqu'à un maximum de 500 CHF par an pour un transport ordinaire, ou jusqu'à 5 000 CHF s'il s'agit d'une opération de sauvetage. Le problème, c'est qu'en Suisse, une ambulance peut facilement vous coûter entre 500 et 1 500 CHF rien que pour le trajet, selon le canton et la durée de l'intervention. Ce que l'assurance ne couvre pas, vous le payez de votre poche.</p>
+<p>Le cas le plus frappant est celui du sauvetage en montagne. La Rega envoie des hélicoptères lorsque la situation l'exige, et une seule opération peut coûter entre 3 000 et 50 000 francs. Si vous êtes membre de la Rega, la cotisation annuelle est d’environ 40 CHF pour un adulte ou 70 CHF pour une famille, et le coût du sauvetage non couvert par l’assurance de base vous est directement pris en charge. Si vous n’êtes pas membre, vous recevez la facture complète correspondant à ce que la LAMal ne prend pas en charge. C’est l’une de ces choses que les Suisses connaissent parfaitement, mais que personne n’explique aux nouveaux arrivants.</p>
+<p>Il convient également de mentionner le TCS : son service d'assistance couvre certains transferts médicaux et peut compléter ce que la LAMal ne prend pas en charge. Ce n'est pas la même chose que la Rega, et cela ne fonctionne pas toujours pour les urgences en montagne, mais pour les accidents de la route ou les situations médicales survenant en cours de route, cela peut s'avérer utile selon le contrat que vous avez souscrit. Quoi qu'il en soit, ce qu'il faut retenir, c'est qu'en Suisse, les services d'urgence sont excellents, mais qu'ils ne sont pas gratuits, et que bien connaître ce que couvre votre assurance avant d'en avoir besoin fait toute la différence.</p>
+</div>`
+    },
+
+    "fb-daily-20260510-03-le-travail-au-noir-en-suisse-ce-que-tu-risques-vraiment-quand-quelquun": {
+        title: "Le travail au noir en Suisse : ce que tu risques vraiment quand quelqu'un te propose de te payer en espèces sans justificatif",
+        featuredImage: "media/guides/actualidad-el-trabajo-en-negro-en-suiza-lo-que-realmente.jpg",
+        imageAlt: "Le travail au noir en Suisse : ce que tu risques vraiment quand quelqu'un te propose de te payer en espèces sans justificatif",
+        description: "L'argument semble toujours raisonnable : c'est un cas isolé, il n'y a pas de papiers, l'argent est versé au noir et personne ne s'en rendra compte. En Suisse,…",
+        keywords: "travail, noir, suisse, risques, vraiment, quand, quelqu, propose",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-10-3-le-travail-au-noir-en-suisse-ce-que-tu-risques-vraiment-quand-quelquun",
+        readingTime: 2,
+        dateUpdated: "10 mai 2026",
+        summary: "L'argument semble toujours raisonnable : c'est un cas isolé, il n'y a pas de papiers, l'argent est versé au noir et personne ne s'en rendra compte.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>L'argument semble toujours raisonnable : c'est un cas isolé, il n'y a pas de papiers, l'argent est versé au noir et personne ne s'en rendra compte. En Suisse, cela porte un nom officiel, le « travail au noir », et la loi de 2005 contre le travail non déclaré prévoit des conséquences qui vont bien au-delà d’une simple amende administrative. L’erreur la plus courante est de penser que seul l’employeur court un risque. En réalité, le salarié s’expose lui aussi à des conséquences concrètes, dont certaines sont difficiles à rattraper.</p>
+<p>Le premier aspect, et le plus urgent, concerne l'assurance. En Suisse, si tu es victime d'un accident du travail alors que tu travailles au noir, tu n'es pas couvert par la LAA, l'assurance-accidents obligatoire. Cela signifie que tu devras payer toi-même une hospitalisation résultant de cet accident, ce que la LAMal ne couvre pas. Tu n'as pas non plus droit aux allocations de chômage si tu perds cet emploi : l'ORP ne reconnaît pas les emplois non déclarés, et les semaines travaillées au noir ne comptent pas pour les périodes de cotisation. Le système ne fait aucune exception, même si la situation te semble temporaire ou inoffensive.</p>
+<p>Pour les étrangers titulaires d'un permis de séjour, les conséquences sont plus graves. Une condamnation ou une sanction pour travail non déclaré, ou pour avoir exercé une activité sans l'autorisation requise, peut avoir une incidence sur le renouvellement du permis B et, en cas de récidive, peut être considérée comme un élément défavorable dans le cadre d'une procédure de naturalisation. Il ne s'agit pas d'une conséquence automatique ni immédiate, mais c'est un antécédent qui reste inscrit au dossier. La loi sur les étrangers permet de ne pas renouveler les titres de séjour lorsque la personne a enfreint de manière répétée les règles du marché du travail, et les cas de travail non déclaré sont enregistrés.</p>
+<p>Le troisième aspect que presque personne ne prend en compte, c'est l'AVS. Chaque mois de travail non déclaré est un mois sans cotisation. En Suisse, la pension se construit année après année, et les lacunes dans les cotisations réduisent le montant de la retraite. Si vous travaillez depuis des années en partie au noir et que vous atteignez l'âge de la retraite avec des lacunes dans votre historique, le système ne vous demande pas pourquoi : il calcule simplement ce que vous avez cotisé et vous verse ce montant. Il n'y a aucun moyen de compenser les années non cotisées une fois qu'elles sont passées. Pour quelqu'un qui vit en Suisse depuis 20 ou 30 ans, la différence peut s'élever à plusieurs centaines de francs par mois pour le reste de sa vie.</p>
+</div>`
     }
 });

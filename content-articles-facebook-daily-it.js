@@ -1721,5 +1721,71 @@ Object.assign(window.siteContent.it.articles, {
 <p>I dati parlano da soli. Negli anni '80, la Svizzera perdeva 1,4 giorni lavorativi all'anno per sciopero ogni 1.000 lavoratori. La Germania ne perdeva 666. L'Italia, 1.123. Non è che i lavoratori svizzeri siano più soddisfatti delle loro condizioni. È che il sistema è progettato per incanalare i conflitti verso la negoziazione prima che arrivino in piazza.</p>
 <p>Ciò che molti spagnoli che arrivano qui non sanno è che, se nel proprio settore vige un contratto collettivo e si partecipa a uno sciopero su una questione già disciplinata da tale contratto, il datore di lavoro può citare in giudizio il lavoratore. Ecco perché, quando la stampa svizzera parla di «sciopero», spesso si tratta tecnicamente di una giornata di mobilitazione o di una manifestazione, non di un'astensione dal lavoro in senso stretto. La differenza giuridica è importante.</p>
 </div>`
+    },
+
+    "fb-daily-20260510-01-lestratto-del-casellario-giudiziario-svizzero-come-richiederlo-e-a-cos": {
+        title: "L'estratto del casellario giudiziario svizzero: come richiederlo e a cosa serve",
+        featuredImage: "media/guides/actualidad-el-extracto-del-casier-judiciaire-suizo-como.jpg",
+        imageAlt: "L'estratto del casellario giudiziario svizzero: come richiederlo e a cosa serve",
+        description: "Il casier judiciaire è il casellario giudiziario federale svizzero. Si chiama così in francese in tutta la Svizzera, indipendentemente dalla regione in cui…",
+        keywords: "estratto, casellario, giudiziario, svizzero, come, richiederlo, cosa, serve",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-05-10-1-lestratto-del-casellario-giudiziario-svizzero-come-richiederlo-e-a-cos",
+        readingTime: 2,
+        dateUpdated: "10 maggio 2026",
+        summary: "Il casier judiciaire è il casellario giudiziario federale svizzero. Si chiama così in francese in tutta la Svizzera, indipendentemente dalla regione…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Il casier judiciaire è il casellario giudiziario federale svizzero. Si chiama così in francese in tutta la Svizzera, indipendentemente dalla regione in cui vivi, e quando qualcuno ti chiede «l'extrait du casier judiciaire», sta richiedendo un certificato che attesti che non hai condanne rilevanti in questo Paese. Viene utilizzato dai datori di lavoro, dai comuni in sede di naturalizzazione, da alcuni locatori e da qualsiasi ente che voglia verificare i tuoi precedenti penali in Svizzera. Non è l'equivalente del certificato penale che si richiede in Spagna: quello è un documento spagnolo e non dice nulla di ciò che potresti avere in Svizzera.</p>
+<p>Esistono due tipi di certificato. L’«extrait ordinaire» riporta le condanne più gravi che non sono ancora state cancellate dal casellario giudiziario. L'"extrait spécial" è quello che si richiede quando si lavora con minori o persone vulnerabili, come educatori, istruttori sportivi o personale di asili nido: questo include tutte le condanne rilevanti per quel tipo di mansione, anche se risalgono a molto tempo fa. La differenza è importante perché in molti lavori nel settore sociale o educativo è valido solo l'extrait spécial.</p>
+<p>La procedura si svolge interamente online sul sito casier-judiciaire.admin.ch. Non è necessario recarsi in alcun ufficio né ricorrere a intermediari. È possibile identificarsi tramite SwissID o con l’identità elettronica svizzera; in alternativa, se non si dispone di un’identificazione digitale, è possibile seguire la procedura postale. Il costo è di 17 CHF per la versione ordinaria e l’estratto viene recapitato in pochi giorni. La validità del documento non è stabilita per legge, ma in pratica la maggior parte dei datori di lavoro e delle amministrazioni lo accetta fino a 3 o 6 mesi dopo la data di rilascio.</p>
+<p>Una cosa che pochi sanno: se devi presentare questo estratto all'estero, ad esempio in Spagna, devi far apporre l'apostille. L'apostille viene rilasciata dal Dipartimento federale di giustizia e costa 35 CHF in più. Senza di essa, il documento non ha validità ufficiale al di fuori della Svizzera. E se hai bisogno del casellario giudiziario spagnolo per una pratica in Svizzera, devi richiederlo direttamente al Ministero della Giustizia spagnolo, che dispone di un proprio portale online.</p>
+</div>`
+    },
+
+    "fb-daily-20260510-02-chiamare-il-144-in-svizzera-i-numeri-che-salvano-la-vita-e-il-conto-ch": {
+        title: "Chiamare il 144 in Svizzera: i numeri che salvano la vita e il conto che molti non si aspettano",
+        featuredImage: "media/guides/actualidad-llamar-al-144-en-suiza-los-numeros-que-salvan.jpg",
+        imageAlt: "Chiamare il 144 in Svizzera: i numeri che salvano la vita e il conto che molti non si aspettano",
+        description: "Per cominciare, l’essenziale: il 117 è la polizia, il 118 i vigili del fuoco, il 144 l’ambulanza e il 1414 il soccorso aereo, il Rega. Questi quattro numeri…",
+        keywords: "chiamare, svizzera, numeri, salvano, vita, conto, molti, aspettano",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-10-2-chiamare-il-144-in-svizzera-i-numeri-che-salvano-la-vita-e-il-conto-ch",
+        readingTime: 2,
+        dateUpdated: "10 maggio 2026",
+        summary: "Per cominciare, l’essenziale: il 117 è la polizia, il 118 i vigili del fuoco, il 144 l’ambulanza e il 1414 il soccorso aereo, il Rega. Questi quattro…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Per cominciare, l’essenziale: il 117 è la polizia, il 118 i vigili del fuoco, il 144 l’ambulanza e il 1414 il soccorso aereo, il Rega. Questi quattro numeri funzionano in tutta la Svizzera 365 giorni all’anno e in qualsiasi lingua. Se l’operatore non è in grado di risponderti in spagnolo, ti metterà in contatto con qualcuno che può farlo. Non sono riportati sul passaporto, non compaiono in nessun opuscolo di benvenuto e c'è chi li cerca nel momento più inopportuno. Salvali subito.</p>
+<p>Ciò che molti non sanno è che chiamare il 144 non è gratuito nel senso comune del termine. La chiamata in sé non costa nulla, ma l’intervento sì. L’assicurazione di base LAMal copre una parte dei costi del trasporto in ambulanza: in teoria la metà, fino a un massimo di 500 CHF all’anno per il trasporto ordinario, o fino a 5.000 CHF se si tratta di un’operazione di soccorso. Il problema è che in Svizzera un'ambulanza può costare facilmente tra i 500 e i 1'500 CHF solo per il tragitto, a seconda del cantone e della durata dell'intervento. Quello che l'assicurazione non copre lo paghi di tasca tua.</p>
+<p>Il caso più eclatante è quello del soccorso in montagna. La Rega invia elicotteri quando la situazione lo richiede, e una singola operazione può costare tra i 3.000 e i 50.000 franchi. Se sei socio del Rega, la quota annuale è di circa 40 CHF per un adulto o 70 CHF per una famiglia, e il costo del soccorso non coperto dall'assicurazione di base ti viene direttamente rimborsato. Se non sei socio, ricevi la fattura completa con l'importo non pagato dalla LAMal. È una di quelle cose che in Svizzera la gente del posto conosce perfettamente, ma che nessuno spiega a chi è appena arrivato.</p>
+<p>Vale la pena menzionare anche il TCS: il suo servizio di assistenza copre determinati trasferimenti medici e può integrare ciò che la LAMal non rimborsa. Non è la stessa cosa del Rega e non sempre è disponibile per le emergenze in montagna, ma in caso di incidenti stradali o situazioni mediche durante il viaggio può rivelarsi utile, a seconda del contratto stipulato. In ogni caso, ciò che è importante ricordare è che in Svizzera i servizi di emergenza sono eccellenti, ma non gratuiti, e che conoscere bene cosa copre la propria assicurazione prima di averne bisogno fa la differenza.</p>
+</div>`
+    },
+
+    "fb-daily-20260510-03-il-lavoro-in-nero-in-svizzera-cosa-rischi-davvero-quando-qualcuno-ti-p": {
+        title: "Il lavoro in nero in Svizzera: cosa rischi davvero quando qualcuno ti propone di pagarti in contanti senza ricevuta",
+        featuredImage: "media/guides/actualidad-el-trabajo-en-negro-en-suiza-lo-que-realmente.jpg",
+        imageAlt: "Il lavoro in nero in Svizzera: cosa rischi davvero quando qualcuno ti propone di pagarti in contanti senza ricevuta",
+        description: "L'argomentazione sembra sempre ragionevole: si tratta di una cosa occasionale, non ci sono documenti, i soldi entrano senza essere dichiarati e nessuno se ne…",
+        keywords: "lavoro, nero, svizzera, cosa, rischi, davvero, quando, qualcuno",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-05-10-3-il-lavoro-in-nero-in-svizzera-cosa-rischi-davvero-quando-qualcuno-ti-p",
+        readingTime: 2,
+        dateUpdated: "10 maggio 2026",
+        summary: "L'argomentazione sembra sempre ragionevole: si tratta di una cosa occasionale, non ci sono documenti, i soldi entrano senza essere dichiarati e…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>L'argomentazione sembra sempre ragionevole: si tratta di una cosa occasionale, non ci sono documenti, i soldi entrano senza essere dichiarati e nessuno se ne accorgerà. In Svizzera questo fenomeno ha un nome ufficiale, "travail au noir", e la legge contro il lavoro nero del 2005 prevede conseguenze che vanno ben oltre una semplice multa amministrativa. L'errore più comune è pensare che il rischio sia solo a carico del datore di lavoro. La realtà è che anche il lavoratore si espone a conseguenze concrete, alcune delle quali difficili da recuperare.</p>
+<p>Il primo e più immediato è l'assicurazione. In Svizzera, se subisci un infortunio sul lavoro mentre lavori in nero, non sei coperto dalla LAA, l'assicurazione infortuni obbligatoria. Ciò significa che un ricovero in ospedale derivante da tale incidente lo paghi tu, poiché la LAMal non lo copre. Non hai nemmeno diritto all'indennità di disoccupazione se perdi quel lavoro: l'URC non riconosce i lavori non dichiarati e le settimane lavorate in nero non contano ai fini dei periodi di contribuzione. Il sistema non fa eccezioni, anche se la situazione ti sembra temporanea o innocua.</p>
+<p>Per gli stranieri titolari di permesso di soggiorno, le conseguenze sono più gravi. Una condanna o una sanzione per lavoro sommerso, o per aver svolto un’attività senza la relativa autorizzazione, può influire sul rinnovo del permesso B e, in caso di recidiva, può essere considerata un elemento sfavorevole in un procedimento di naturalizzazione. Non si tratta di una conseguenza automatica né immediata, ma è comunque un precedente che rimane. La Legge sull'Immigrazione consente di non rinnovare i permessi quando la persona ha violato ripetutamente le norme del mercato del lavoro, e i casi di lavoro non dichiarato vengono registrati.</p>
+<p>Il terzo aspetto che quasi nessuno tiene in considerazione è l'AVS. Ogni mese di lavoro non dichiarato è un mese senza contributi. In Svizzera la pensione si accumula anno dopo anno, e le lacune nei contributi riducono la rendita di vecchiaia. Se lavori da anni in parte in nero e raggiungi l'età pensionabile con delle lacune nella tua storia contributiva, il sistema non ti chiede perché: calcola semplicemente quanto hai versato e ti paga quella somma. Non c'è modo di compensare gli anni non contributivi una volta trascorsi. Per chi vive in Svizzera da 20 o 30 anni, la differenza può ammontare a diverse centinaia di franchi al mese per il resto della vita.</p>
+</div>`
     }
 });
