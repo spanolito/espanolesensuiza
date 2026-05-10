@@ -399,7 +399,7 @@ strong, b {
 .main-nav {
     display: flex;
     align-items: center;
-    gap: 1.25rem;
+    gap: 1rem;
     flex: 1 1 auto;
     min-width: 0;
     justify-content: center;
@@ -409,7 +409,7 @@ strong, b {
     display: flex;
     align-items: center;
     list-style: none;
-    gap: 1.25rem;
+    gap: 1rem;
     flex-wrap: nowrap;
     margin: 0;
     padding: 0;
@@ -558,7 +558,7 @@ strong, b {
     border: 1px solid var(--border-light);
     border-radius: var(--radius-sm);
     box-shadow: var(--shadow-md);
-    min-width: 200px;
+    min-width: 220px;
     padding: 0.5rem 0;
     list-style: none;
     z-index: 1000;
