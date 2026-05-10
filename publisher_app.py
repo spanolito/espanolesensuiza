@@ -59,7 +59,7 @@ C = {
     "info":        "#0A84FF",  # bleu système
     "log_text":    "#C7C7CC",  # texte terminal
     "dim":         "#48484A",  # éléments discrets
-    "banner_l":    "#220C35",  # gauche du dégradé banner (violet foncé)
+    "banner_l":    "#071A35",  # gauche du dégradé banner (bleu nuit)
 }
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
@@ -789,8 +789,8 @@ class PublisherApp:
         def _draw(ev=None):
             cv.delete("all")
             w = cv.winfo_width() or (APP_W - SIDEBAR_W)
-            # Dégradé horizontal : violet foncé (gauche) → bg (droite)
-            lr, lg, lb = 0x22, 0x0C, 0x35   # C["banner_l"]
+            # Dégradé horizontal : bleu nuit (gauche) → bg (droite)
+            lr, lg, lb = 0x07, 0x1A, 0x35   # C["banner_l"]
             rr, rg, rb = 0x1C, 0x1C, 0x1E   # C["bg"]
             steps = min(w, 360)
             for i in range(steps):

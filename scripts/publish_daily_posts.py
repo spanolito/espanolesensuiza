@@ -437,11 +437,18 @@ def git_commit_push(site_dir: str, filenames: list, day: date, post_nums: list, 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--date", help="Date YYYY-MM-DD. Défaut : aujourd'hui")
+    parser.add_argument("--date",    help="Date YYYY-MM-DD. Défaut : aujourd'hui")
     parser.add_argument("--dry-run", action="store_true", help="Affiche sans écrire ni pusher")
-    parser.add_argument("--no-push", action="store_true", help="Commit local uniquement, sans git push")
+    parser.add_argument("--push",    action="store_true",
+                        help="Autorise le git push vers origin/main. ABSENT = commit local uniquement.")
+    # --no-push conservé pour rétrocompatibilité (ignoré, le push est opt-in par défaut)
+    parser.add_argument("--no-push", action="store_true", help=argparse.SUPPRESS)
     parser.add_argument("--exclude", help="Numéros d'articles à exclure, séparés par virgule. Ex : 2,3")
     args = parser.parse_args()
+
+    # Sécurité : le push n'est jamais implicite — il faut --push explicitement
+    # --no-push est un alias rétrocompat, sans effet (push est opt-in)
+    do_push = args.push  # False par défaut = aucun push sans action volontaire
 
     global DEEPL_API_KEY
     DEEPL_API_KEY = require_env("DEEPL_API_KEY")
@@ -546,9 +553,9 @@ def main() -> None:
         if n > 0:
             langs_ok += 1
 
-    print(f"\n  Git commit {'(sans push)' if args.no_push else '+ push'}...")
+    print(f"\n  Git commit {'+ push' if do_push else '(sans push — utilisez --push pour déployer)'}...")
     post_nums = [p["num"] for p in posts]
-    git_commit_push(SITE_DIR, changed_files, day, post_nums, no_push=args.no_push)
+    git_commit_push(SITE_DIR, changed_files, day, post_nums, no_push=not do_push)
 
     print("\n── Terminé ─────────────────────────────────────────")
     print(f"  {total_inserted} article(s) insérés")
