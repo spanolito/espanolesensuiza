@@ -34,7 +34,8 @@ LOG_PATH    = f"{LOG_DIR}/daily-post.log"
 SITE_DIR    = "/Users/oscarandujar/Projets/espanolesensuiza"
 STATE_FILE  = os.path.expanduser("~/.espanolesensuiza_publisher.json")
 
-APP_W, APP_H = 900, 740
+APP_W, APP_H = 1080, 760
+SIDEBAR_W    = 195          # largeur fixe de la sidebar
 
 # ── Palette — macOS system dark (sobre, lisible) ───────────────────────────────
 
@@ -43,6 +44,7 @@ C = {
     "accent_dk":   "#B02540",
     "accent_glow": "#2A0F18",  # fond hover sombre
     "bg":          "#1C1C1E",  # fond principal
+    "sidebar":     "#111113",  # fond sidebar (plus sombre que bg)
     "surface":     "#2C2C2E",  # surface élevée (cartes)
     "surface2":    "#242426",  # surface secondaire
     "input":       "#3A3A3C",  # champs
@@ -57,6 +59,7 @@ C = {
     "info":        "#0A84FF",  # bleu système
     "log_text":    "#C7C7CC",  # texte terminal
     "dim":         "#48484A",  # éléments discrets
+    "banner_l":    "#220C35",  # gauche du dégradé banner (violet foncé)
 }
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
@@ -211,6 +214,41 @@ def has_pending_commit() -> bool:
         return rc == 0 and bool(out.strip())
     except Exception:
         return False
+
+
+def git_published_dates() -> set:
+    """Retourne l'ensemble des dates (objets date) pour lesquelles un push d'articles
+    existe sur origin/main. Lit les messages de commit 'daily: add multilingual posts YYYY-MM-DD'."""
+    try:
+        rc, out = git("log", "origin/main", "--format=%s",
+                      "--grep=daily: add multilingual posts")
+        if rc != 0 or not out.strip():
+            return set()
+        pattern = re.compile(r"daily: add multilingual posts (\d{4}-\d{2}-\d{2})")
+        dates = set()
+        for line in out.splitlines():
+            m = pattern.search(line)
+            if m:
+                try:
+                    dates.add(date.fromisoformat(m.group(1)))
+                except ValueError:
+                    pass
+        return dates
+    except Exception:
+        return set()
+
+
+def last_git_push_date() -> str:
+    """Date et heure du dernier commit pushé sur origin/main. Format JJ.MM.YYYY HH:MM."""
+    try:
+        rc, out = git("log", "origin/main", "-1", "--format=%ci")
+        if rc == 0 and out.strip():
+            raw = out.strip()[:19]   # "2026-05-09 14:32:07"
+            dt = datetime.strptime(raw, "%Y-%m-%d %H:%M:%S")
+            return dt.strftime("%d.%m.%Y %H:%M")
+    except Exception:
+        pass
+    return ""
 
 
 def line_tag(line: str) -> str:
@@ -415,10 +453,11 @@ class InlineCalendar(tk.Frame):
 
     def __init__(self, parent, callback, initial: date | None = None):
         super().__init__(parent, bg=C["sep"])  # bordure d'1 px
-        self.callback = callback
-        self.selected = initial or date.today()
-        self.vy = self.selected.year
-        self.vm = self.selected.month
+        self.callback        = callback
+        self.selected        = initial or date.today()
+        self.vy              = self.selected.year
+        self.vm              = self.selected.month
+        self.published_dates: set = set()   # jours avec commit pushé
 
         self._inner = tk.Frame(self, bg=C["surface"])
         self._inner.pack(padx=1, pady=1)
@@ -428,6 +467,11 @@ class InlineCalendar(tk.Frame):
     def set_date(self, d: date):
         self.selected = d
         self.vy, self.vm = d.year, d.month
+        self._render()
+
+    def set_published(self, dates: set):
+        """Met à jour les jours publiés et re-rend le mois courant."""
+        self.published_dates = dates
         self._render()
 
     def _build(self):
@@ -495,6 +539,8 @@ class InlineCalendar(tk.Frame):
 
     def _cell(self, r, c, day, d, is_sel, is_today, is_wkend):
         """Rendu d'une cellule via Frame+Label (couleurs garanties sur macOS)."""
+        is_pub = d in self.published_dates
+
         if is_sel:
             outer = tk.Frame(self._grid, bg=C["accent"], padx=3, pady=3)
             outer.grid(row=r, column=c, padx=2, pady=2)
@@ -514,26 +560,38 @@ class InlineCalendar(tk.Frame):
                            width=2, anchor="center", cursor="hand2")
             lbl.pack()
         else:
-            fg = C["accent"] if is_wkend else C["text"]
+            fg = C["success"] if is_pub else (C["accent"] if is_wkend else C["text"])
             outer = tk.Frame(self._grid, bg=C["surface"])
             outer.grid(row=r, column=c, padx=2, pady=2)
             lbl = tk.Label(outer, text=str(day),
                            bg=C["surface"], fg=fg,
-                           font=("Helvetica Neue", 12),
+                           font=("Helvetica Neue", 12, "bold" if is_pub else "normal"),
                            width=2, anchor="center", cursor="hand2")
             lbl.pack()
+
+        # Point vert sous le chiffre pour les jours publiés (sélectionné ou aujourd'hui)
+        dot = None
+        if is_pub and (is_sel or is_today):
+            dot = tk.Frame(outer, bg=C["success"], height=3, width=8)
+            dot.pack(pady=(0, 1))
 
         hover_bg = C["input"]
         restore  = C["accent"] if is_sel else C["surface"]
 
-        def on_enter(_, o=outer):
+        def on_enter(_, o=outer, dot=dot):
             for w in _widgets(o):
                 try: w.config(bg=hover_bg)
                 except Exception: pass
+            if dot:
+                try: dot.config(bg=C["success"])
+                except Exception: pass
 
-        def on_leave(_, o=outer, bg=restore):
+        def on_leave(_, o=outer, bg=restore, dot=dot):
             for w in _widgets(o):
                 try: w.config(bg=bg)
+                except Exception: pass
+            if dot:
+                try: dot.config(bg=C["success"])
                 except Exception: pass
 
         for w in _widgets(outer):
@@ -623,46 +681,146 @@ class PublisherApp:
     # ── UI ────────────────────────────────────────────────────────────────────
 
     def _build_ui(self):
-        self._build_header()
+        # ── Conteneur horizontal racine ───────────────────────────────────────
+        outer = tk.Frame(self.root, bg=C["bg"])
+        outer.pack(fill="both", expand=True)
+
+        # Sidebar (largeur fixe, toute la hauteur)
+        self._sidebar = tk.Frame(outer, bg=C["sidebar"], width=SIDEBAR_W)
+        self._sidebar.pack(side="left", fill="y")
+        self._sidebar.pack_propagate(False)   # empêche la sidebar de rétrécir
+
+        # Zone principale (occupe le reste)
+        self._main = tk.Frame(outer, bg=C["bg"])
+        self._main.pack(side="left", fill="both", expand=True)
+
+        self._build_sidebar()
+        self._build_banner()
         self._hsep()
         self._build_controls()
         self._hsep()
-        self._build_image_section()   # ← nouvelle section images
+        self._build_image_section()
         self._hsep()
         self._build_log()
         self._hsep()
         self._build_statusbar()
         self._hsep()
         self._build_git_bar()
-        # Calendrier overlay (créé une seule fois)
+
+        # Calendrier overlay (toujours sur self.root pour passer au-dessus de tout)
         self._cal_inline = InlineCalendar(self.root,
                                           callback=self._cal_pick)
+        self.root.bind("<Button-1>", self._on_bg_click, add="+")
 
     def _hsep(self):
-        tk.Frame(self.root, bg=C["sep"], height=1).pack(fill="x")
+        tk.Frame(self._main, bg=C["sep"], height=1).pack(fill="x")
 
-    # ── Header ────────────────────────────────────────────────────────────────
+    # ── Sidebar ───────────────────────────────────────────────────────────────
 
-    def _build_header(self):
-        hdr = tk.Frame(self.root, bg=C["surface"], padx=18, pady=11)
-        hdr.pack(fill="x")
+    def _build_sidebar(self):
+        SB  = self._sidebar
+        BG  = C["sidebar"]
+        SEP = C["sep"]
 
-        # Logo
-        AppLogo(hdr, size=38, bg=C["surface"]).pack(side="left", padx=(0, 12))
+        # ── Logo zone ──────────────────────────────────────────────────────
+        top = tk.Frame(SB, bg=BG, padx=18, pady=18)
+        top.pack(fill="x")
+        AppLogo(top, size=32, bg=BG).pack(side="left", padx=(0, 10))
+        lf = tk.Frame(top, bg=BG)
+        lf.pack(side="left")
+        tk.Label(lf, text="Españoles", font=("Helvetica Neue", 12, "bold"),
+                 bg=BG, fg=C["text"]).pack(anchor="w")
+        tk.Label(lf, text="en Suiza", font=("Helvetica Neue", 11),
+                 bg=BG, fg=C["text3"]).pack(anchor="w")
 
-        # Titre
-        tc = tk.Frame(hdr, bg=C["surface"])
-        tc.pack(side="left")
-        tk.Label(tc, text="espanolesensuiza.ch",
-                 font=self.f_head, bg=C["surface"],
-                 fg=C["text"]).pack(anchor="w")
-        tk.Label(tc, text="Publication multilingue automatisée",
-                 font=self.f_sm, bg=C["surface"],
-                 fg=C["text3"]).pack(anchor="w")
+        tk.Frame(SB, bg=SEP, height=1).pack(fill="x")
 
-        # Statut (droite)
-        sf = tk.Frame(hdr, bg=C["surface"])
-        sf.pack(side="right")
+        # ── Navigation ─────────────────────────────────────────────────────
+        nav = tk.Frame(SB, bg=BG, pady=10)
+        nav.pack(fill="x")
+
+        items = [
+            ("▶", "Publication", True),
+            ("⊞", "Images",      False),
+            ("≡", "Journal",     False),
+            ("⤴", "Git",         False),
+        ]
+        for icon, label, active in items:
+            rbg  = C["surface"] if active else BG
+            ifg  = C["accent"]  if active else C["text3"]
+            tfg  = C["text"]    if active else C["text2"]
+            row  = tk.Frame(nav, bg=rbg, padx=18, pady=10)
+            row.pack(fill="x")
+            tk.Label(row, text=icon, font=("Helvetica Neue", 14),
+                     bg=rbg, fg=ifg, width=2, anchor="center").pack(side="left")
+            tk.Label(row, text=label, font=("Helvetica Neue", 13),
+                     bg=rbg, fg=tfg).pack(side="left", padx=(8, 0))
+            # Hover effect pour items inactifs
+            if not active:
+                hbg = C["surface2"]
+                for w in (row,) + tuple(row.winfo_children()):
+                    w.bind("<Enter>", lambda _, r=row, c=row.winfo_children():
+                           [r.config(bg=hbg)] + [x.config(bg=hbg) for x in c])
+                    w.bind("<Leave>", lambda _, r=row, c=row.winfo_children():
+                           [r.config(bg=BG)]  + [x.config(bg=BG)  for x in c])
+
+        # ── Bas : dernier push ──────────────────────────────────────────────
+        tk.Frame(SB, bg=SEP, height=1).pack(side="bottom", fill="x")
+        bot = tk.Frame(SB, bg=BG, padx=18, pady=14)
+        bot.pack(side="bottom", fill="x")
+
+        tk.Label(bot, text="Dernier push", font=("Helvetica Neue", 10),
+                 bg=BG, fg=C["text3"]).pack(anchor="w")
+        self._sidebar_push_lbl = tk.Label(
+            bot, text="–", font=("Helvetica Neue", 12, "bold"),
+            bg=BG, fg=C["info"], anchor="w", wraplength=SIDEBAR_W - 36)
+        self._sidebar_push_lbl.pack(anchor="w", pady=(2, 0))
+
+    # ── Banner principal (gradient canvas) ────────────────────────────────────
+
+    def _build_banner(self):
+        BANNER_H = 92
+
+        cv = tk.Canvas(self._main, height=BANNER_H, highlightthickness=0,
+                       cursor="arrow")
+        cv.pack(fill="x")
+        self._banner_cv = cv
+
+        def _draw(ev=None):
+            cv.delete("all")
+            w = cv.winfo_width() or (APP_W - SIDEBAR_W)
+            # Dégradé horizontal : violet foncé (gauche) → bg (droite)
+            lr, lg, lb = 0x22, 0x0C, 0x35   # C["banner_l"]
+            rr, rg, rb = 0x1C, 0x1C, 0x1E   # C["bg"]
+            steps = min(w, 360)
+            for i in range(steps):
+                t  = i / steps
+                rr2 = int(lr + (rr - lr) * t)
+                gg  = int(lg + (rg - lg) * t)
+                bb  = int(lb + (rb - lb) * t)
+                x0  = i * w // steps
+                x1  = (i + 1) * w // steps + 1
+                cv.create_rectangle(x0, 0, x1, BANNER_H,
+                                    fill=f"#{rr2:02x}{gg:02x}{bb:02x}", outline="")
+            # Barre d'accent gauche (4 px)
+            cv.create_rectangle(0, 0, 4, BANNER_H, fill=C["accent"], outline="")
+            # Titre et sous-titre
+            cv.create_text(22, BANNER_H // 2 - 10,
+                           text="espanolesensuiza.ch",
+                           anchor="w", fill=C["text"],
+                           font=("Helvetica Neue", 17, "bold"))
+            cv.create_text(22, BANNER_H // 2 + 13,
+                           text="Publication multilingue automatisée",
+                           anchor="w", fill=C["text3"],
+                           font=("Helvetica Neue", 12))
+
+        cv.bind("<Configure>", lambda e: _draw(e))
+        self.root.after(60, _draw)
+
+        # Statut (frame flottante, côté droit du banner)
+        sf = tk.Frame(self._main, bg=C["surface"], padx=18, pady=0)
+        sf.place(relx=1.0, y=0, anchor="ne", height=BANNER_H)
+
         self._dot = tk.Label(sf, text="●", font=("Helvetica Neue", 16),
                              fg=C["text3"], bg=C["surface"])
         self._dot.pack(side="left")
@@ -677,7 +835,7 @@ class PublisherApp:
     # ── Contrôles ─────────────────────────────────────────────────────────────
 
     def _build_controls(self):
-        ctrl = tk.Frame(self.root, bg=C["surface"], padx=18, pady=12)
+        ctrl = tk.Frame(self._main, bg=C["surface"], padx=18, pady=12)
         ctrl.pack(fill="x")
 
         # ── Gauche ──
@@ -687,43 +845,34 @@ class PublisherApp:
         # Champ date
         self._date_var   = tk.StringVar()
         self._date_var.trace_add("write", self._on_date_var_change)
-        date_wrap = tk.Frame(left, bg=C["input"], padx=1, pady=1)
+        date_wrap = tk.Frame(left, bg=C["input"], padx=1, pady=1,
+                             cursor="hand2")
         date_wrap.pack(side="left")
+        self._date_wrap = date_wrap   # référence pour positionner le calendrier
         self._date_entry = tk.Entry(
             date_wrap, textvariable=self._date_var,
             width=11, font=self.f_mono, bd=0, relief="flat",
             fg=C["text"], bg=C["input"],
             insertbackground=C["accent"],
             highlightthickness=0,
+            cursor="hand2",
         )
         self._date_entry.pack(padx=8, pady=4)
         self._date_entry.bind("<Return>",   lambda _: self._launch())
         self._date_entry.bind("<FocusIn>",  self._entry_focus_in)
         self._date_entry.bind("<FocusOut>", self._entry_focus_out)
+        # Clic dans le champ → ouvre le calendrier
+        self._date_entry.bind("<Button-1>", lambda _: self.root.after(10, self._show_cal))
+        date_wrap.bind("<Button-1>",        lambda _: self.root.after(10, self._show_cal))
         self._placeholder()
 
         # Bordure focus simulée
         date_wrap.bind("<FocusIn>", lambda _:
                        date_wrap.config(bg=C["accent"]))
 
-        # Bouton calendrier
-        cal_wrap = tk.Frame(left, bg=C["input"],
-                            padx=6, pady=5, cursor="hand2")
-        cal_wrap.pack(side="left", padx=(4, 12))
-        CalIcon(cal_wrap, size=18, bg=C["input"]).pack()
-        for w in (cal_wrap, cal_wrap.winfo_children()[0] if cal_wrap.winfo_children() else cal_wrap):
-            pass
-        cal_wrap.bind("<Button-1>", lambda _: self._toggle_cal())
-        for child in cal_wrap.winfo_children():
-            child.bind("<Button-1>", lambda _: self._toggle_cal())
-        cal_wrap.bind("<Enter>", lambda _: cal_wrap.config(bg=C["dim"]))
-        cal_wrap.bind("<Leave>", lambda _: cal_wrap.config(bg=C["input"]))
-        self._cal_wrap = cal_wrap
-        Tooltip(cal_wrap, "Choisir une date  (clic)")
-
         # Quick pills
         Pill(left, "Aujourd'hui", command=self._set_today,
-             fill=C["accent"], fg="white", h=28).pack(side="left", padx=(0, 5))
+             fill=C["accent"], fg="white", h=28).pack(side="left", padx=(12, 5))
         Pill(left, "Hier", command=self._set_yesterday,
              fill=C["input"], fg=C["text2"], h=28).pack(side="left")
 
@@ -761,7 +910,7 @@ class PublisherApp:
         self._img_current      = None # post dict affiché
 
         # ── En-tête ──
-        hdr = tk.Frame(self.root, bg=C["surface"], padx=18, pady=8)
+        hdr = tk.Frame(self._main, bg=C["surface"], padx=18, pady=8)
         hdr.pack(fill="x")
         tk.Label(hdr, text="Images des articles",
                  font=self.f_sm, bg=C["surface"], fg=C["text3"]).pack(side="left")
@@ -770,7 +919,7 @@ class PublisherApp:
         self._img_hint.pack(side="right")
 
         # ── Corps ──
-        body = tk.Frame(self.root, bg=C["surface2"], padx=18, pady=10)
+        body = tk.Frame(self._main, bg=C["surface2"], padx=18, pady=10)
         body.pack(fill="x")
         self._img_body = body
 
@@ -1033,7 +1182,7 @@ class PublisherApp:
 
     def _build_log(self):
         # En-tête barre
-        bar = tk.Frame(self.root, bg=C["surface2"], padx=16, pady=5)
+        bar = tk.Frame(self._main, bg=C["surface2"], padx=16, pady=5)
         bar.pack(fill="x")
 
         tk.Label(bar, text="Journal d'exécution",
@@ -1052,7 +1201,7 @@ class PublisherApp:
         clr.bind("<Leave>",    lambda _: clr.config(fg=C["text3"]))
 
         # Corps
-        lf = tk.Frame(self.root, bg=C["term"])
+        lf = tk.Frame(self._main, bg=C["term"])
         lf.pack(fill="both", expand=True)
 
         sb = ttk.Scrollbar(lf, orient="vertical")
@@ -1084,16 +1233,22 @@ class PublisherApp:
     # ── Barre de statut bas ───────────────────────────────────────────────────
 
     def _build_statusbar(self):
-        sb = tk.Frame(self.root, bg=C["surface2"], padx=16, pady=7)
+        sb = tk.Frame(self._main, bg=C["surface2"], padx=16, pady=7)
         sb.pack(fill="x")
 
         self._summ_lbl = tk.Label(sb, text="", font=self.f_sm,
                                   bg=C["surface2"], fg=C["text2"])
         self._summ_lbl.pack(side="left")
 
+        # Dernier push git (origine)
+        self._git_push_lbl = tk.Label(sb, text="", font=self.f_sm,
+                                      bg=C["surface2"], fg=C["text3"])
+        self._git_push_lbl.pack(side="right")
+
+        # Dernier lancement app (état interne)
         self._hist_lbl = tk.Label(sb, text="", font=self.f_sm,
                                   bg=C["surface2"], fg=C["text3"])
-        self._hist_lbl.pack(side="right")
+        self._hist_lbl.pack(side="right", padx=(0, 16))
         self._refresh_hist()
 
         # Info log (centre)
@@ -1105,7 +1260,7 @@ class PublisherApp:
     # ── Barre git ──────────────────────────────────────────────────────────────
 
     def _build_git_bar(self):
-        self._git_bar = tk.Frame(self.root, bg=C["surface"],
+        self._git_bar = tk.Frame(self._main, bg=C["surface"],
                                  padx=16, pady=10)
         self._git_bar.pack(fill="x")
 
@@ -1189,6 +1344,7 @@ class PublisherApp:
         self._log.config(state="disabled")
 
     def _refresh_hist(self):
+        """Met à jour le label du dernier lancement (état interne). Thread principal uniquement."""
         h = self._state.get("history", [])
         if h:
             last = h[-1]
@@ -1197,6 +1353,28 @@ class PublisherApp:
             self._hist_lbl.config(
                 text=f"{'✓' if ok else '✗'} {ts}",
                 fg=C["success"] if ok else C["error"])
+
+    def _fetch_git_push_bg(self):
+        """Récupère la date du dernier push en thread, puis met à jour l'UI via after()."""
+        push_date = last_git_push_date()
+        self.root.after(0, lambda: self._apply_git_push_lbl(push_date))
+
+    def _fetch_published_dates_bg(self):
+        """Récupère les jours publiés en thread, met à jour le calendrier via after()."""
+        dates = git_published_dates()
+        self.root.after(0, lambda: self._cal_inline.set_published(dates))
+
+    def _apply_git_push_lbl(self, push_date: str):
+        """Applique la date de push dans la barre de statut et la sidebar (thread principal)."""
+        try:
+            if push_date:
+                self._git_push_lbl.config(text=f"↑ push  {push_date}", fg=C["info"])
+                self._sidebar_push_lbl.config(text=push_date, fg=C["info"])
+            else:
+                self._git_push_lbl.config(text="")
+                self._sidebar_push_lbl.config(text="–", fg=C["text3"])
+        except Exception:
+            pass
 
     def _log_info_str(self) -> str:
         p = Path(LOG_PATH)
@@ -1248,6 +1426,25 @@ class PublisherApp:
 
     # ── Calendrier ────────────────────────────────────────────────────────────
 
+    def _on_bg_click(self, event):
+        """Ferme le calendrier si le clic est en dehors de lui (et pas dans le champ date)."""
+        if not self._cal_visible:
+            return
+        w = event.widget
+        # Le champ date et son wrapper gèrent eux-mêmes l'ouverture/fermeture
+        if w is self._date_entry or w is self._date_wrap:
+            return
+        # Remonter l'arbre widget : si le clic est dans le calendrier, ne pas fermer
+        node = w
+        while node is not None:
+            if node is self._cal_inline:
+                return
+            try:
+                node = node.master
+            except AttributeError:
+                break
+        self._hide_cal()
+
     def _toggle_cal(self):
         if self._cal_visible:
             self._hide_cal()
@@ -1262,12 +1459,14 @@ class PublisherApp:
             except ValueError:
                 pass
         self.root.update_idletasks()
-        wx = self._cal_wrap.winfo_rootx() - self.root.winfo_rootx()
-        wy = self._cal_wrap.winfo_rooty() - self.root.winfo_rooty()
-        bh = self._cal_wrap.winfo_height()
+        # Positionnement sous le champ date (pas sous l'icône)
+        ref = self._date_wrap
+        wx  = ref.winfo_rootx() - self.root.winfo_rootx()
+        wy  = ref.winfo_rooty() - self.root.winfo_rooty()
+        bh  = ref.winfo_height()
         self._cal_inline.update_idletasks()
         cal_w = self._cal_inline.winfo_reqwidth() or 290
-        rw = self.root.winfo_width()
+        rw    = self.root.winfo_width()
         x = min(wx, max(8, rw - cal_w - 10))
         y = wy + bh + 4
         self._cal_inline.place(x=x, y=y)
@@ -1295,6 +1494,10 @@ class PublisherApp:
             self._show_git_bar(True, "Commit local non pushé — choisissez une action.")
         else:
             self._set_status("Prêt", C["text3"], ts=False)
+
+        # Rafraîchir le label du dernier push + jours publiés en arrière-plan
+        threading.Thread(target=self._fetch_git_push_bg, daemon=True).start()
+        threading.Thread(target=self._fetch_published_dates_bg, daemon=True).start()
 
         # Charger les images pour la date du jour par défaut
         today = date.today().strftime("%Y-%m-%d")
@@ -1458,6 +1661,9 @@ class PublisherApp:
         self._state["history"] = h[-10:]
         save_state(self._state)
         self._refresh_hist()
+        # Rafraîchit la date de push et les jours publiés en arrière-plan
+        threading.Thread(target=self._fetch_git_push_bg, daemon=True).start()
+        threading.Thread(target=self._fetch_published_dates_bg, daemon=True).start()
 
         if ok and has_pending_commit():
             _, diff = git("show", "--stat", "HEAD")
