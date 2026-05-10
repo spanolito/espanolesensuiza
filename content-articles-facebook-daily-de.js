@@ -1653,7 +1653,6 @@ Object.assign(window.siteContent.de.articles, {
 <p>Das hat praktische Auswirkungen: Wenn du vorhast, kurz vor dem Ruhestand nach Spanien zurückzukehren, fließen die letzten in Spanien geleisteten Beitragsjahre in die spanische Bemessungsgrundlage ein, was deine spanische Rente erheblich verbessern kann. Bis zum letzten Tag vor dem Ruhestand in der Schweiz zu arbeiten, ist nicht immer die rentabelste Strategie, wenn du danach in Spanien leben möchtest. Es lohnt sich, die Zahlen im Voraus durchzurechnen – und nicht erst dann, wenn es keinen Spielraum mehr gibt, etwas zu ändern.</p>
 </div>`
     },
-,
 
     "fb-daily-20260509-01-die-avs-nummer-die-kennung-die-alles-uber-dich-weiss-ohne-deine-daten": {
         title: "Die AVS-Nummer: Die Kennung, die alles über dich weiß, ohne deine Daten zu enthalten",

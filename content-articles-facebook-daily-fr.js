@@ -1653,7 +1653,6 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Ce qui a un impact concret : si vous envisagez de retourner en Espagne à l'approche de la retraite, les dernières années de cotisation en Espagne seront prises en compte dans le calcul de votre base de cotisation espagnole, ce qui peut améliorer considérablement votre pension espagnole. Travailler en Suisse jusqu'au dernier jour avant de prendre votre retraite n'est pas toujours la stratégie la plus avantageuse si vous avez l'intention de vivre en Espagne par la suite. Il vaut mieux faire le calcul à l'avance, et non pas lorsqu'il n'est plus possible de changer quoi que ce soit.</p>
 </div>`
     },
-,
 
     "fb-daily-20260509-01-le-numero-avs-lidentifiant-qui-sait-tout-de-vous-sans-contenir-aucune": {
         title: "Le numéro AVS : l'identifiant qui sait tout de vous sans contenir aucune de vos données personnelles",

@@ -1653,7 +1653,6 @@ Object.assign(window.siteContent.en.articles, {
 <p>Here’s the practical implication: if you’re thinking of returning to Spain as you approach retirement, the contributions you make in Spain during your final working years will count towards your Spanish pension base, which could significantly boost your Spanish pension. Working in Switzerland right up until the day before you retire isn’t always the most cost-effective strategy if you plan to live in Spain afterwards. It’s worth doing the maths beforehand, not when there’s no longer any scope to change anything.</p>
 </div>`
     },
-,
 
     "fb-daily-20260509-01-the-avs-number-the-identifier-that-knows-everything-about-you-without": {
         title: "The AVS number: the identifier that knows everything about you without containing any of your personal data",

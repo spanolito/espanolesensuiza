@@ -1653,7 +1653,6 @@ Object.assign(window.siteContent.it.articles, {
 <p>Ciò ha un impatto concreto: se stai pensando di tornare in Spagna poco prima del pensionamento, gli ultimi anni di contributi versati in Spagna andranno a far parte della base contributiva spagnola, il che può aumentare notevolmente la tua pensione spagnola. Lavorare in Svizzera fino all’ultimo giorno prima del pensionamento non è sempre la strategia più vantaggiosa se hai intenzione di vivere in Spagna in seguito. Vale la pena fare i conti in anticipo, non quando ormai non c’è più margine per cambiare nulla.</p>
 </div>`
     },
-,
 
     "fb-daily-20260509-01-il-numero-avs-lidentificativo-che-sa-tutto-di-te-senza-contenere-alcun": {
         title: "Il numero AVS: l'identificativo che sa tutto di te senza contenere alcun tuo dato",
