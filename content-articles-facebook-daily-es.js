@@ -1820,5 +1820,24 @@ Object.assign(window.siteContent.es.articles, {
         content: `<div class="article-content">
 <p>https://www.espanolesensuiza.ch/ Llevo tiempo viendo siempre lo mismo en el grupo. Las mismas preguntas, las mismas dudas, las mismas respuestas… y muchas veces, también la misma desinformación. No es culpa de nadie, es simplemente que en Suiza cada tema tiene matices, leyes y diferencias cantonales que no son evidentes a primera vista. Por eso he estado trabajando en esto: https://www.espanolesensuiza.ch/ La idea es muy simple. Centralizar información clara, basada en fuentes oficiales suizas como ch.ch , SEM o BFS, y explicada en español de forma que se entienda de verdad. Sin humo, sin promesas tipo "venir a Suiza y triunfar en dos semanas", y sin copiar y pegar lo primero que aparece en Google. Hay guías sobre permisos, trabajo, seguros, impuestos, coste de vida, fronterizos… y la idea es seguir ampliando poco a poco. También está pensado para que sea práctico, no para leer por curiosidad y ya está, sino para que te sirva cuando realmente lo necesitas. Ahora bien, esto no es un proyecto cerrado. Al contrario. Quiero vuestro feedback real. Si algo no se entiende, si veis errores, si falta información importante, si alguna guía no responde a lo que buscabais… decidlo. Sin filtro. Prefiero una crítica directa ahora que cien personas perdiéndose en un contenido que no ayuda. También me interesa saber cómo lo veis a nivel de uso: si es fácil encontrar la información, si la estructura tiene sentido, si os parece útil o si hay cosas que sobran. La idea no es hacer "otra web más". Es hacer algo que realmente sirva a los que estamos aquí o a los que están pensando venir. Así que si tenéis 5 minutos, echadle un vistazo y dadme caña. Es la única forma de que esto tenga sentido.</p>
 </div>`
+    },
+
+    "fb-daily-20260413-01-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve": {
+        title: "Circular en bicicleta en Suiza parece sencillo… hasta que empiezas a ver las multas.",
+        featuredImage: "media/guides/actualidad-circular-en-bicicleta-en-suiza-parece-sencill.jpg",
+        imageAlt: "Circular en bicicleta en Suiza parece sencillo… hasta que empiezas a ver las multas.",
+        description: "Circular en bicicleta en Suiza parece sencillo… hasta que empiezas a ver las multas. En Suiza la bici no es \"tierra sin ley\". Tiene normas claras, y muchas…",
+        keywords: "circular, bicicleta, suiza, parece, sencillo, hasta, empiezas, multas",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-04-13-1-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve",
+        readingTime: 1,
+        dateUpdated: "13 abril 2026",
+        summary: "Circular en bicicleta en Suiza parece sencillo… hasta que empiezas a ver las multas. En Suiza la bici no es \"tierra sin ley\". Tiene normas claras, y…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Circular en bicicleta en Suiza parece sencillo… hasta que empiezas a ver las multas. En Suiza la bici no es "tierra sin ley". Tiene normas claras, y muchas veces la gente las desconoce hasta que le llega la factura. Para empezar, las bicicletas están consideradas vehículos. Eso significa que tienes que respetar señales, semáforos y prioridades igual que un coche. Saltarse un semáforo en rojo no es una "travesura", es una infracción. Tema carriles bici: si hay carril señalizado, estás obligado a usarlo. No es opcional. Ir por la carretera "porque sí" cuando tienes carril bici al lado puede acabar en multa. Otro clásico: circular por la acera. Solo está permitido si hay señal que lo autorice. Si no, toca calzada o carril bici. Y sí, esto también se sanciona. Luces: obligatorias de noche o con mala visibilidad. Blanca delante, roja detrás. Parece básico, pero cada invierno hay campañas porque mucha gente pasa del tema. Auriculares y móvil: no están prohibidos como tal, pero si afectan a tu capacidad de reacción, te pueden multar. En Suiza el criterio es simple: si pones en riesgo la seguridad, pagas. Alcohol: sí, también aplica. A partir de cierto nivel puedes ser sancionado igual que conduciendo un coche. Aquí no hay barra libre porque "vas en bici". Y ojo con algo que muchos no saben: en caso de accidente, el seguro de responsabilidad civil puede entrar en juego. Si causas daños, puedes acabar pagando bastante más que una multa. Suiza fomenta mucho la bici, pero no es un parque temático. Es un sistema donde todo está regulado. Y cuando digo todo… es todo.</p>
+</div>`
     }
 });
