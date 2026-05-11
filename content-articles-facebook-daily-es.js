@@ -1782,5 +1782,43 @@ Object.assign(window.siteContent.es.articles, {
 <p>Para los extranjeros con permiso de residencia, las consecuencias se agravan. Una condena o sanción por trabajo no declarado, o por ejercer una actividad sin la autorización correspondiente, puede afectar la renovación del permiso B y en casos reiterados puede tomarse como elemento desfavorable en un proceso de naturalización. No es una consecuencia automática ni instantánea, pero sí es un antecedente que queda. La Ley de Extranjería permite no renovar permisos cuando la persona ha incumplido reiteradamente las normas del mercado de trabajo, y los casos de trabajo sin declarar quedan registrados.</p>
 <p>El tercer aspecto que casi nadie calcula es la AVS. Cada mes de trabajo no declarado es un mes que no cotiza. En Suiza la pensión se construye año a año, y las lagunas en las cotizaciones reducen la renta de jubilación. Si llevas años trabajando parcialmente en negro y llegas a la edad de jubilación con huecos en tu historial, el sistema no te pregunta por qué: simplemente calcula lo que has cotizado y te paga eso. No hay manera de compensar años no cotizados una vez pasados. Para alguien que lleva 20 o 30 años en Suiza, la diferencia puede ser de varios centenares de francos al mes durante el resto de su vida.</p>
 </div>`
+    },
+
+    "fb-daily-20260415-01-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe": {
+        title: "Devolver compras en Suiza: lo que sí y lo que no existe",
+        featuredImage: "media/guides/actualidad-devolver-compras-en-suiza-lo-que-si-y-lo-que.jpg",
+        imageAlt: "Devolver compras en Suiza: lo que sí y lo que no existe",
+        description: "Devolver compras en Suiza: lo que sí y lo que no existe En Suiza no existe un derecho general a devolver una compra. Así de claro. No es como en otros países…",
+        keywords: "devolver, compras, suiza, existe, derecho, general, compra, claro",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-04-15-1-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe",
+        readingTime: 3,
+        dateUpdated: "15 abril 2026",
+        summary: "Devolver compras en Suiza: lo que sí y lo que no existe En Suiza no existe un derecho general a devolver una compra. Así de claro. No es como en…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Devolver compras en Suiza: lo que sí y lo que no existe En Suiza no existe un derecho general a devolver una compra. Así de claro. No es como en otros países donde puedes cambiar de opinión y devolver un producto dentro de un plazo fijo. Aquí, si compras algo por tu cuenta, en tienda o incluso online, no tienes automáticamente derecho a devolverlo porque ya no lo quieres. La base legal es bastante clara. El derecho de desistimiento solo existe en situaciones muy concretas previstas en el Código de las Obligaciones, en particular el art. 40a CO y siguientes. Y no tiene nada que ver con el arrepentimiento, sino con la protección frente a la presión comercial. Ese derecho de 14 días se aplica únicamente cuando te han ido a buscar para venderte algo. Por ejemplo, ventas a domicilio, en la calle o en eventos promocionales donde no habías pedido nada. También se aplica a contratos cerrados por teléfono, cuando aceptas una oferta durante una llamada. En ambos casos, el contrato debe superar los 100 CHF. Si se cumplen esas condiciones, puedes anular el contrato en un plazo de 14 días sin penalización. Pero ese plazo empieza desde el momento en que aceptas la oferta, no cuando recibes el producto o el servicio. Y además, el proveedor debe haberte informado correctamente de ese derecho. Si no lo hace, la situación cambia. Fuera de estos casos, no hay derecho legal a devolver nada por simple cambio de opinión. Si entras en una tienda, compras un producto y luego te arrepientes, dependes únicamente de la política comercial del comercio. Lo mismo ocurre con compras online hechas por iniciativa propia. Si aceptan devoluciones, es porque quieren, no porque estén obligados. Esto genera bastante confusión, porque muchas tiendas en Suiza sí aceptan devoluciones. Pero hay que entenderlo bien: no es un derecho, es un gesto comercial. Cada empresa fija sus reglas. Plazo, reembolso en dinero o en vale, producto sin usar, embalaje intacto, etc. En el caso de seguros o servicios, el principio es el mismo. El derecho de revocación de 14 días también puede aplicarse, pero solo si el contrato se ha concluido bajo presión comercial. Es decir, si te lo venden por teléfono o en la calle sin que lo hayas solicitado previamente. En la práctica, esto significa que muchos contratos de seguros no entran en este marco. Porque normalmente eres tú quien pide la oferta o quien inicia el proceso. En ese caso, ya no hay derecho automático de desistimiento y se aplican únicamente las condiciones del contrato que hayas firmado. Ejemplo claro. Te llaman y aceptas cambiar de seguro en ese momento. Sí tienes 14 días para echarte atrás. Pero si eres tú quien contacta con la aseguradora y firma después, no tienes ese derecho por defecto. Lo mismo con un gimnasio, internet o cualquier otro servicio. En Suiza la lógica es simple: la ley te protege cuando te presionan para comprar, no cuando decides tú. Por eso aquí más que derecho a devolver, lo que realmente existe es la responsabilidad de leer antes de firmar. Porque una vez que has dicho que sí por tu cuenta, ya no hay vuelta atrás salvo que el contrato lo permita.</p>
+</div>`
+    },
+
+    "fb-daily-20260415-02-httpswwwespanolesensuizach": {
+        title: "https://www.espanolesensuiza.ch/",
+        featuredImage: "media/guides/actualidad-httpswwwespanolesensuizach.jpg",
+        imageAlt: "https://www.espanolesensuiza.ch/",
+        description: "https://www.espanolesensuiza.ch/ Llevo tiempo viendo siempre lo mismo en el grupo. Las mismas preguntas, las mismas dudas, las mismas respuestas… y muchas…",
+        keywords: "https, espanolesensuiza, llevo, tiempo, viendo, siempre, mismo, grupo",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-04-15-2-httpswwwespanolesensuizach",
+        readingTime: 1,
+        dateUpdated: "15 abril 2026",
+        summary: "https://www.espanolesensuiza.ch/ Llevo tiempo viendo siempre lo mismo en el grupo. Las mismas preguntas, las mismas dudas, las mismas respuestas… y…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>https://www.espanolesensuiza.ch/ Llevo tiempo viendo siempre lo mismo en el grupo. Las mismas preguntas, las mismas dudas, las mismas respuestas… y muchas veces, también la misma desinformación. No es culpa de nadie, es simplemente que en Suiza cada tema tiene matices, leyes y diferencias cantonales que no son evidentes a primera vista. Por eso he estado trabajando en esto: https://www.espanolesensuiza.ch/ La idea es muy simple. Centralizar información clara, basada en fuentes oficiales suizas como ch.ch , SEM o BFS, y explicada en español de forma que se entienda de verdad. Sin humo, sin promesas tipo "venir a Suiza y triunfar en dos semanas", y sin copiar y pegar lo primero que aparece en Google. Hay guías sobre permisos, trabajo, seguros, impuestos, coste de vida, fronterizos… y la idea es seguir ampliando poco a poco. También está pensado para que sea práctico, no para leer por curiosidad y ya está, sino para que te sirva cuando realmente lo necesitas. Ahora bien, esto no es un proyecto cerrado. Al contrario. Quiero vuestro feedback real. Si algo no se entiende, si veis errores, si falta información importante, si alguna guía no responde a lo que buscabais… decidlo. Sin filtro. Prefiero una crítica directa ahora que cien personas perdiéndose en un contenido que no ayuda. También me interesa saber cómo lo veis a nivel de uso: si es fácil encontrar la información, si la estructura tiene sentido, si os parece útil o si hay cosas que sobran. La idea no es hacer "otra web más". Es hacer algo que realmente sirva a los que estamos aquí o a los que están pensando venir. Así que si tenéis 5 minutos, echadle un vistazo y dadme caña. Es la única forma de que esto tenga sentido.</p>
+</div>`
     }
 });

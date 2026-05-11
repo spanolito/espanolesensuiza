@@ -1787,5 +1787,43 @@ Object.assign(window.siteContent.en.articles, {
 <p>For foreign nationals with a residence permit, the consequences are more severe. A conviction or penalty for undeclared work, or for carrying out an activity without the necessary authorisation, may affect the renewal of a B permit and, in the case of repeat offences, may be viewed as a negative factor in a naturalisation process. It is not an automatic or immediate consequence, but it does remain on one’s record. The Immigration Act allows for permits not to be renewed where a person has repeatedly breached labour market regulations, and cases of undeclared work are recorded.</p>
 <p>The third factor that almost nobody takes into account is the AVS. Every month of undeclared work is a month for which you haven’t paid contributions. In Switzerland, your pension is built up year by year, and gaps in your contributions reduce your retirement income. If you have been working partly off the books for years and reach retirement age with gaps in your record, the system doesn’t ask why: it simply calculates what you have contributed and pays you that amount. There is no way to make up for missed contribution years once they have passed. For someone who has been in Switzerland for 20 or 30 years, the difference could amount to several hundred francs a month for the rest of their life.</p>
 </div>`
+    },
+
+    "fb-daily-20260415-01-returning-purchases-in-switzerland-what-is-and-isnt-allowed": {
+        title: "Returning purchases in Switzerland: what is and isn’t allowed",
+        featuredImage: "media/guides/actualidad-devolver-compras-en-suiza-lo-que-si-y-lo-que.jpg",
+        imageAlt: "Returning purchases in Switzerland: what is and isn’t allowed",
+        description: "Returning purchases in Switzerland: what is and isn’t allowed In Switzerland, there is no general right to return a purchase. It’s as simple as that. It’s not…",
+        keywords: "returning, purchases, switzerland, what, allowed, there, general, right",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-04-15-1-returning-purchases-in-switzerland-what-is-and-isnt-allowed",
+        readingTime: 3,
+        dateUpdated: "April 15, 2026",
+        summary: "Returning purchases in Switzerland: what is and isn’t allowed In Switzerland, there is no general right to return a purchase. It’s as simple as that.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Returning purchases in Switzerland: what is and isn’t allowed In Switzerland, there is no general right to return a purchase. It’s as simple as that. It’s not like in other countries where you can change your mind and return a product within a set period. Here, if you buy something on your own initiative, in a shop or even online, you don’t automatically have the right to return it simply because you no longer want it. The legal basis is quite clear. The right of withdrawal only applies in very specific situations set out in the Swiss Code of Obligations, in particular Art. 40a CO et seq. And it has nothing to do with simply changing your mind, but rather with protection against commercial pressure. This 14-day right applies only when someone has approached you to sell you something. For example, door-to-door sales, on the street or at promotional events where you hadn’t ordered anything. It also applies to contracts concluded over the phone, when you accept an offer during a call. In both cases, the contract must be worth over CHF 100. If these conditions are met, you can cancel the contract within 14 days without penalty. However, this period begins from the moment you accept the offer, not when you receive the product or service. Furthermore, the supplier must have properly informed you of this right. If they fail to do so, the situation changes. Outside these cases, there is no legal right to return anything simply because you have changed your mind. If you go into a shop, buy a product and then change your mind, you are entirely at the mercy of the shop’s return policy. The same applies to online purchases made of your own accord. If they accept returns, it is because they choose to, not because they are obliged to. This causes quite a bit of confusion, as many shops in Switzerland do accept returns. But it is important to understand this clearly: it is not a right, it is a commercial gesture. Each company sets its own rules: time limit, refund in cash or as a voucher, unused product, intact packaging, etc. In the case of insurance or services, the principle is the same. The 14-day right of withdrawal may also apply, but only if the contract was concluded under commercial pressure. That is, if it is sold to you over the phone or on the street without you having previously requested it. In practice, this means that many insurance contracts do not fall within this framework. Because it is usually you who requests the quote or initiates the process. In that case, there is no longer an automatic right of withdrawal and only the terms of the contract you have signed apply. A clear example: you receive a call and agree to switch insurance providers on the spot. You do have 14 days to change your mind. But if you are the one who contacts the insurer and signs the contract afterwards, you do not have that right by default. The same applies to a gym, internet service or any other service. In Switzerland, the logic is simple: the law protects you when you’re pressured into buying, not when you decide for yourself. That’s why, rather than a right to return, what really exists here is the responsibility to read before signing. Because once you’ve said yes of your own accord, there’s no going back unless the contract allows it.</p>
+</div>`
+    },
+
+    "fb-daily-20260415-02-httpswwwespanolesensuizach": {
+        title: "https://www.espanolesensuiza.ch/",
+        featuredImage: "media/guides/actualidad-httpswwwespanolesensuizach.jpg",
+        imageAlt: "https://www.espanolesensuiza.ch/",
+        description: "https://www.espanolesensuiza.ch/ I’ve been seeing the same thing over and over again in the group for some time now. The same questions, the same doubts, the…",
+        keywords: "https, espanolesensuiza, been, seeing, same, thing, over, again",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-04-15-2-httpswwwespanolesensuizach",
+        readingTime: 2,
+        dateUpdated: "April 15, 2026",
+        summary: "https://www.espanolesensuiza.ch/ I’ve been seeing the same thing over and over again in the group for some time now. The same questions, the same…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>https://www.espanolesensuiza.ch/ I’ve been seeing the same thing over and over again in the group for some time now. The same questions, the same doubts, the same answers… and often, the same misinformation too. It’s nobody’s fault; it’s simply that in Switzerland, every issue has nuances, laws and cantonal differences that aren’t obvious at first glance. That’s why I’ve been working on this: https://www.espanolesensuiza.ch/ The idea is very simple. To centralise clear information, based on official Swiss sources such as ch.ch, SEM or BFS, and explained in Spanish in a way that’s truly understandable. No fluff, no promises like “come to Switzerland and succeed in two weeks”, and no copying and pasting the first thing that pops up on Google. There are guides on permits, work, insurance, taxes, cost of living, cross-border workers… and the idea is to keep expanding it bit by bit. It’s also designed to be practical – not just something to read out of curiosity, but to be useful when you really need it. That said, this isn’t a finished project. Quite the opposite. I want your honest feedback. If something isn’t clear, if you spot mistakes, if important information is missing, or if a guide doesn’t answer what you were looking for… let me know. No holds barred. I’d rather have direct criticism now than have a hundred people getting lost in content that doesn’t help. I’m also keen to hear your thoughts on usability: whether it’s easy to find information, whether the structure makes sense, whether you find it useful, or if there’s anything superfluous. The idea isn’t to create ‘just another website’. It’s to create something that genuinely helps those of us who are here, or those thinking of coming. So if you’ve got five minutes, have a look and give me a piece of your mind. It’s the only way this will make sense.</p>
+</div>`
     }
 });
