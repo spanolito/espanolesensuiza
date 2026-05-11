@@ -1458,15 +1458,24 @@ class PublisherApp:
     # ── Barre git ──────────────────────────────────────────────────────────────
 
     def _build_git_bar(self):
-        # Barre toujours visible en bas de bottom_area — seul le contenu change
+        # Barre toujours visible en bas — boutons toujours présents, état géré via set_enabled
         tk.Frame(self._main, bg=C["sep"], height=1).pack(side="bottom", fill="x")
         self._git_bar = tk.Frame(self._main, bg=C["surface"], padx=16, pady=10)
         self._git_bar.pack(side="bottom", fill="x")
 
-        self._git_lbl = tk.Label(self._git_bar, text="",
+        self._git_lbl = tk.Label(self._git_bar, text="Aucun commit en attente",
                                  font=self.f_ui, bg=C["surface"],
-                                 fg=C["text2"])
+                                 fg=C["text3"])
         self._git_lbl.pack(side="left")
+
+        self._btn_publish = RoundedBtn(
+            self._git_bar, "Publier  (git push)",
+            command=self._do_push,
+            w=175, h=34, r=12,
+            fill=C["success"], fg=C["bg"],
+            font_spec=("Helvetica Neue", 12, "bold"),
+        )
+        self._btn_publish.pack(side="right")
 
         self._btn_cancel_git = RoundedBtn(
             self._git_bar, "Annuler le commit",
@@ -1475,16 +1484,14 @@ class PublisherApp:
             fill=C["error"], fg="white",
             font_spec=("Helvetica Neue", 12, "bold"),
         )
-        self._btn_publish = RoundedBtn(
-            self._git_bar, "Publier  (git push)",
-            command=self._do_push,
-            w=175, h=34, r=12,
-            fill=C["success"], fg=C["bg"],
-            font_spec=("Helvetica Neue", 12, "bold"),
-        )
+        self._btn_cancel_git.pack(side="right", padx=(0, 8))
+
         Tooltip(self._btn_publish,    "git push → déploiement Vercel")
         Tooltip(self._btn_cancel_git, "git reset HEAD~1 (commit défait, fichiers conservés)")
-        # Boutons masqués initialement (pas de commit en attente par défaut)
+
+        # État initial : grisés jusqu'à la vérification de démarrage
+        self._btn_publish.set_enabled(False)
+        self._btn_cancel_git.set_enabled(False)
         self._git_bar_visible = False
 
     # ── Navigation entre sections ─────────────────────────────────────────────
@@ -1732,15 +1739,16 @@ class PublisherApp:
             self._dot_job = None
 
     def _show_git_bar(self, show: bool, msg: str = ""):
-        """Affiche ou masque les boutons d'action git. Le frame reste toujours visible."""
-        self._git_lbl.config(text=msg)
-        if show and not self._git_bar_visible:
-            self._btn_publish.pack(side="right")
-            self._btn_cancel_git.pack(side="right", padx=(0, 8))
+        """Active ou désactive les boutons git. La barre reste toujours visible."""
+        if show:
+            self._git_lbl.config(text=msg, fg=C["text2"])
+            self._btn_publish.set_enabled(True)
+            self._btn_cancel_git.set_enabled(True)
             self._git_bar_visible = True
-        elif not show and self._git_bar_visible:
-            self._btn_publish.pack_forget()
-            self._btn_cancel_git.pack_forget()
+        else:
+            self._git_lbl.config(text="Aucun commit en attente", fg=C["text3"])
+            self._btn_publish.set_enabled(False)
+            self._btn_cancel_git.set_enabled(False)
             self._git_bar_visible = False
 
     def _log_write(self, text: str, tag: str = "txt"):

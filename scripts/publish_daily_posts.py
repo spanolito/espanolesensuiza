@@ -221,9 +221,19 @@ def js_string(text: str) -> str:
 def js_template(text: str) -> str:
     return text.replace("\\", "\\\\").replace("`", "\\`").replace("${", "\\${")
 
-# ── DeepL ─────────────────────────────────────────────────────────────────────
+# ── Traduction — DeepL (primaire) + MyMemory (fallback quota) ─────────────────
 
-_CACHE: dict = {}
+_CACHE:             dict = {}
+_DEEPL_QUOTA_HIT:   bool = False   # True dès qu'un HTTP 456 est reçu
+
+# Correspondances langues pour MyMemory (différentes de DeepL)
+_MYMEMORY_LANGS = {"fr": "fr", "en": "en-GB", "de": "de", "it": "it"}
+
+_HTML_ENTITIES = {
+    "&#x27;": "'", "&#39;": "'", "&quot;": '"',
+    "&amp;": "&", "&lt;": "<", "&gt;": ">",
+    "&x27;": "'", "&x22;": '"',
+}
 
 
 def require_env(name: str) -> str:
@@ -233,18 +243,49 @@ def require_env(name: str) -> str:
     return value
 
 
-def translate_text(text: str, lang: str, retries: int = 3) -> str:
-    if lang == "es" or not text.strip():
-        return text
-    key = (lang, text)
-    if key in _CACHE:
-        return _CACHE[key]
+def _clean_html_entities(text: str) -> str:
+    for ent, rep in _HTML_ENTITIES.items():
+        text = text.replace(ent, rep)
+    return text
+
+
+def check_deepl_quota() -> None:
+    """Interroge /v2/usage et affiche les caracteres restants. Ne bloque pas."""
+    if not DEEPL_API_KEY:
+        return
+    try:
+        req = urllib.request.Request(
+            "https://api-free.deepl.com/v2/usage",
+            headers={"Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}"},
+        )
+        with urllib.request.urlopen(req, timeout=10) as r:
+            data = json.loads(r.read().decode("utf-8"))
+        used  = data.get("character_count", 0)
+        limit = data.get("character_limit", 0)
+        pct   = (used / limit * 100) if limit else 0
+        remaining = limit - used
+        tag = "[WARN]" if pct >= 80 else "[INFO]"
+        print(f"{tag} DeepL quota : {used:,}/{limit:,} chars utilises ({pct:.1f}%) "
+              f"— {remaining:,} restants ce mois")
+        if pct >= 100:
+            global _DEEPL_QUOTA_HIT
+            _DEEPL_QUOTA_HIT = True
+            print("[WARN] Quota DeepL epuise — traductions via MyMemory")
+    except Exception as exc:
+        print(f"[INFO] Impossible de verifier le quota DeepL : {exc}")
+
+
+def _translate_deepl(text: str, lang: str, retries: int = 3) -> str:
+    """Appel DeepL. Leve RuntimeError sur erreur reseau, _DeepLQuotaError si 456."""
+    global _DEEPL_QUOTA_HIT
+    if _DEEPL_QUOTA_HIT:
+        raise _DeepLQuotaError("quota deja atteint ce mois")
     data = urllib.parse.urlencode({
-        "text": text,
-        "source_lang": "ES",
-        "target_lang": DEEPL_TARGETS[lang],
+        "text":               text,
+        "source_lang":        "ES",
+        "target_lang":        DEEPL_TARGETS[lang],
         "preserve_formatting": "1",
-        "tag_handling": "html",
+        "tag_handling":       "html",
     }).encode("utf-8")
     last_error = None
     for attempt in range(1, retries + 1):
@@ -259,19 +300,101 @@ def translate_text(text: str, lang: str, retries: int = 3) -> str:
             )
             with urllib.request.urlopen(req, timeout=45) as r:
                 result = json.loads(r.read().decode("utf-8"))
-            translated = result["translations"][0]["text"]
-            translated = translated.replace("&#x27;", "'").replace("&#39;", "'").replace("&quot;", '"').replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">").replace("&x27;", "'").replace("&x22;", '"')
-            _CACHE[key] = translated
+            translated = _clean_html_entities(result["translations"][0]["text"])
             return translated
+        except urllib.error.HTTPError as exc:
+            if exc.code in (456, 529):
+                # 456 = quota mensuel epuise, 529 = serveur sature (traite comme quota)
+                _DEEPL_QUOTA_HIT = True
+                raise _DeepLQuotaError(f"HTTP {exc.code} — quota DeepL atteint") from exc
+            last_error = exc
+            if attempt < retries:
+                wait = 5 * attempt
+                print(f"  [RETRY] DeepL tentative {attempt}/{retries}, attente {wait}s...")
+                time.sleep(wait)
         except Exception as exc:
             last_error = exc
             if attempt < retries:
                 wait = 5 * attempt
-                print(f"  [RETRY] tentative {attempt}/{retries}, attente {wait}s...")
+                print(f"  [RETRY] DeepL tentative {attempt}/{retries}, attente {wait}s...")
                 time.sleep(wait)
-            else:
-                raise RuntimeError(f"Erreur DeepL vers {lang}: {last_error}") from exc
     raise RuntimeError(f"Erreur DeepL vers {lang}: {last_error}")
+
+
+def _translate_mymemory_chunk(chunk: str, lang: str) -> str:
+    """Traduit un fragment (<= 500 chars) via MyMemory API (gratuit, sans cle)."""
+    target = _MYMEMORY_LANGS.get(lang, lang)
+    params = urllib.parse.urlencode({
+        "q":        chunk,
+        "langpair": f"es|{target}",
+        "de":       "andujar.oscar@gmail.com",   # +quota gratuit (10 000 mots/jour)
+    })
+    url = f"https://api.mymemory.translated.net/get?{params}"
+    req = urllib.request.Request(url, headers={"User-Agent": "espanolesensuiza/1.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        data = json.loads(r.read().decode("utf-8"))
+    status = data.get("responseStatus", 0)
+    if status == 200:
+        return data["responseData"]["translatedText"]
+    raise RuntimeError(f"MyMemory status {status}: {data.get('responseDetails', '')}")
+
+
+def _translate_mymemory(text: str, lang: str) -> str:
+    """Traduit via MyMemory en decoupant les textes longs en phrases (<= 500 chars)."""
+    if len(text) <= 500:
+        return _translate_mymemory_chunk(text, lang)
+    # Decoupage par phrases pour respecter la limite de 500 chars par requete
+    sentences = re.split(r"(?<=[.!?])\s+", text)
+    parts, buf = [], ""
+    for sent in sentences:
+        if len(buf) + len(sent) + 1 <= 490:
+            buf = (buf + " " + sent).strip()
+        else:
+            if buf:
+                parts.append(_translate_mymemory_chunk(buf, lang))
+                time.sleep(0.4)   # eviter le rate-limit MyMemory
+            buf = sent[:490]
+    if buf:
+        parts.append(_translate_mymemory_chunk(buf, lang))
+    return " ".join(parts)
+
+
+class _DeepLQuotaError(Exception):
+    """Quota mensuel DeepL atteint — basculement sur MyMemory."""
+
+
+def translate_text(text: str, lang: str, retries: int = 3) -> str:
+    """Traduit *text* vers *lang*. Priorite : DeepL → MyMemory → texte ES original."""
+    if lang == "es" or not text.strip():
+        return text
+    key = (lang, text)
+    if key in _CACHE:
+        return _CACHE[key]
+
+    # 1. DeepL (moteur principal)
+    deepl_skip = False
+    if not _DEEPL_QUOTA_HIT:
+        try:
+            translated = _translate_deepl(text, lang, retries)
+            _CACHE[key] = translated
+            return translated
+        except _DeepLQuotaError as exc:
+            print(f"  [WARN] {exc} — basculement MyMemory pour '{lang}'")
+            deepl_skip = True
+        # autres RuntimeError (reseau, etc.) remontees normalement
+
+    # 2. MyMemory (fallback quota)
+    if _DEEPL_QUOTA_HIT or deepl_skip:
+        try:
+            translated = _translate_mymemory(text, lang)
+            _CACHE[key] = translated
+            return translated
+        except Exception as exc:
+            print(f"  [WARN] MyMemory echec pour '{lang}': {exc} — texte ES conserve")
+
+    # 3. Dernier recours : texte original espagnol
+    _CACHE[key] = text
+    return text
 
 
 def translate_post(post: dict, lang: str) -> dict:
@@ -452,6 +575,9 @@ def main() -> None:
 
     global DEEPL_API_KEY
     DEEPL_API_KEY = require_env("DEEPL_API_KEY")
+
+    # Vérification quota DeepL avant de commencer (non bloquant)
+    check_deepl_quota()
 
     if args.date:
         try:
