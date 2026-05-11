@@ -3171,7 +3171,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                                     ${renderArticleHeroHTML(articlePageData, routeKey)}
                                     
-                                    ${articlePageData.facebookUrl ? `
+                                    ${articlePageData.facebookUrl && isArchivedFacebookPlaceholder(articlePageData) ? `
                                     <div style="margin: 1.5rem 0;">
                                         <a href="${resolveFacebookUrl(articlePageData)}" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #1877F2; border-color: #1877F2; color: white;">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">

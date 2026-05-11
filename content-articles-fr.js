@@ -363,24 +363,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-021-cliquer-pour-la-vid-o-el-jet-d-eau-de-ginebra-un-espect-culo-de-fuerza-y-belleza": {
-        title: "Cliquez pour la vidéo : Le Jet d’Eau de Genève : un spectacle de force et de beauté",
-        description: "Cliquez pour la vidéo : Le Jet d’Eau de Genève : un spectacle de force et de beauté",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-021-cliquer-pour-la-vid-o-el-jet-d-eau-de-ginebra-un-espect-culo-de-fuerza-y-belleza",
-        readingTime: 2,
-        dateUpdated: "juin 05, 2024 10:11:09 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Jet%20Eau",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-022-la-democracia-directa-de-suiza-se-anima-con-la-pr-xima-votaci-n-del-9-de-junio-una-ocasi-n-ideal-para-involucrarse-en-el-proceso-pol-tico-del-pa-s": {
         title: "La démocratie directe suisse est encouragée par les prochaines élections du 9 juin, une occasion idéale pour s'impliquer dans le processus politique du pays. ",
         description: "La démocratie directe suisse est encouragée par les prochaines élections du 9 juin, une occasion idéale pour s'impliquer dans le processus politique du pays. ",
@@ -704,24 +686,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-040-cliquer-pour-la-vid-o-bonito-gesto-hacia-carolina-y-espa-a-bonito-gesto-hacia-carolina-y-espa-a": {
-        title: "Cliquez sur la vidéo : Beau geste envers la Caroline et l'Espagne ! Beau geste envers la Caroline et l'Espagne !",
-        description: "Cliquez sur la vidéo : Beau geste envers la Caroline et l'Espagne ! Beau geste envers la Caroline et l'Espagne !",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-040-cliquer-pour-la-vid-o-bonito-gesto-hacia-carolina-y-espa-a-bonito-gesto-hacia-carolina-y-espa-a",
-        readingTime: 2,
-        dateUpdated: "août 06, 2024 12:48:49 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Bonito%20gesto",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-041-las-13-aplicaciones-m-s-importantes-en-suiza": {
         title: "Les 13 applications les plus importantes de Suisse",
         description: "Les 13 applications les plus importantes de Suisse",
@@ -841,24 +805,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "août 18, 2024 8:55:02 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Suiza%20las%20deducciones%20una%20n%C3%B3mina",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-048-cliquer-pour-la-vid-o-el-final-de-los-fuegos-de-las-fiestas-en-ge-el-final-de-los-fuegos-de-las-fiestas-en-ge": {
-        title: "Cliquez sur la vidéo : La fin des incendies de vacances chez GE ! La fin des feux de vacances chez GE ! ",
-        description: "Cliquez sur la vidéo : La fin des incendies de vacances chez GE ! La fin des feux de vacances chez GE ! ",
-        keywords: "vivir, suiza",
-        category: "Culture et Événements",
-        hub: "cultura-eventos",
-        slug: "fb-048-cliquer-pour-la-vid-o-el-final-de-los-fuegos-de-las-fiestas-en-ge-el-final-de-los-fuegos-de-las-fiestas-en-ge",
-        readingTime: 2,
-        dateUpdated: "août 18, 2024 1:27:40 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20final%20los",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -1075,24 +1021,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "sep 06, 2024 6:40:01 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Suiza%20los%20precios%20del%20tren",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-061-cliquer-pour-la-vid-o-que-opinan-que-opinan": {
-        title: "Cliquez sur la vidéo : Qu'en pensez-vous ?! Qu'en penses-tu?! ",
-        description: "Cliquez sur la vidéo : Qu'en pensez-vous ?! Qu'en penses-tu?! ",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-061-cliquer-pour-la-vid-o-que-opinan-que-opinan",
-        readingTime: 2,
-        dateUpdated: "sep 07, 2024 12:12:41 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Que%20opinan",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -1603,24 +1531,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-090-cliquer-pour-la-vid-o": {
-        title: "Cliquez pour la vidéo :",
-        description: "Cliquez pour la vidéo :",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-090-cliquer-pour-la-vid-o",
-        readingTime: 2,
-        dateUpdated: "oct 20, 2024 10:35:33 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-091-querido-miembros": {
         title: "Chers membres,",
         description: "Chers membres,",
@@ -1855,24 +1765,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-104-cliquer-pour-la-vid-o-el-aeropuerto-de-buochs-donde-los-aviones-y-coches-comparten-la-carretera": {
-        title: "Cliquez sur la vidéo : L'aéroport de Buochs, où avions et voitures partagent la route ! ",
-        description: "Cliquez sur la vidéo : L'aéroport de Buochs, où avions et voitures partagent la route ! ",
-        keywords: "tramites, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-104-cliquer-pour-la-vid-o-el-aeropuerto-de-buochs-donde-los-aviones-y-coches-comparten-la-carretera",
-        readingTime: 2,
-        dateUpdated: "nov 07, 2024 3:27:20 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20aeropuerto%20Buochs",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-105-la-dif-cil-b-squeda-de-vivienda-en-la-frontera-suiza-para-los-trabajadores-franceses": {
         title: "La difficile recherche de logement à la frontière suisse pour les travailleurs français",
         description: "La difficile recherche de logement à la frontière suisse pour les travailleurs français",
@@ -1963,24 +1855,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-110-cliquer-pour-la-vid-o-del-27-de-octubre-al-7-de-enero-ginebra-se-transforma-en-un-espect-culo-de-arte-y-tecnolog-a-con-colloque-wright-o-geneva-l": {
-        title: "Cliquez pour la vidéo :Du 27 octobre au 7 janvier, Genève se transforme en spectacle d'art et de technologie avec le « colloque Wright » ou « Genève L",
-        description: "Cliquez pour la vidéo :Du 27 octobre au 7 janvier, Genève se transforme en spectacle d'art et de technologie avec le « colloque Wright » ou « Genève L",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-110-cliquer-pour-la-vid-o-del-27-de-octubre-al-7-de-enero-ginebra-se-transforma-en-un-espect-culo-de-arte-y-tecnolog-a-con-colloque-wright-o-geneva-l",
-        readingTime: 2,
-        dateUpdated: "nov 16, 2024 1:34:23 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Del%20octubre",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-111-la-coupe-de-no-l-2024-m-s-que-un-chapuz-n-una-fiesta-congelada": {
         title: "La Coupe de Noël 2024 : Plus qu'une trempette, une fête glacée !",
         description: "La Coupe de Noël 2024 : Plus qu'une trempette, une fête glacée !",
@@ -2010,24 +1884,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "nov 18, 2024 8:38:38 pm",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Impuesto%20autom%C3%B3vil%20Ginebra%20justicia%20ambiental",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-113-cliquer-pour-la-vid-o-peak-walk-3000-una-experiencia-que-te-dejar-sin-aliento-literal-y-figurativamente": {
-        title: "Cliquez sur la vidéo :Peak Walk 3000 : une expérience à couper le souffle (au propre comme au figuré)",
-        description: "Cliquez sur la vidéo :Peak Walk 3000 : une expérience à couper le souffle (au propre comme au figuré)",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-113-cliquer-pour-la-vid-o-peak-walk-3000-una-experiencia-que-te-dejar-sin-aliento-literal-y-figurativamente",
-        readingTime: 2,
-        dateUpdated: "nov 19, 2024 7:40:52 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Peak%20Walk",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -2100,24 +1956,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "nov 24, 2024 8:28:48 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Ra%C3%ADces%20coraz%C3%B3n%20alas%20Suiza",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-118-cliquer-pour-la-vid-o-son-pocos-los-que-dicen-la-dura-realidad-de-emigrar-a-suiza-sacrificios-esfuerzos-y-trabaj-que-no-te-enga-en-son-pocos-l": {
-        title: "Cliquez pour la vidéo : Rares sont ceux qui racontent la dure réalité d'émigrer en Suisse... Des sacrifices, des efforts et du travail ! Ne les laissez pas vous tromper. Il y en a peu",
-        description: "Cliquez pour la vidéo : Rares sont ceux qui racontent la dure réalité d'émigrer en Suisse... Des sacrifices, des efforts et du travail ! Ne les laissez pas vous tromper. Il y en a peu",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-118-cliquer-pour-la-vid-o-son-pocos-los-que-dicen-la-dura-realidad-de-emigrar-a-suiza-sacrificios-esfuerzos-y-trabaj-que-no-te-enga-en-son-pocos-l",
-        readingTime: 2,
-        dateUpdated: "nov 24, 2024 8:41:15 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Son%20pocos",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -2352,24 +2190,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "juin 12, 2025 8:15:02 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cuenta%20bancaria%20Suiza%20pero%20que",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-132-cliquer-pour-la-vid-o": {
-        title: "Cliquez pour la vidéo :",
-        description: "Cliquez pour la vidéo :",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-132-cliquer-pour-la-vid-o",
-        readingTime: 2,
-        dateUpdated: "juin 14, 2025 8:38:51 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -3385,24 +3205,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-189-cliquer-pour-la-vid-o": {
-        title: "Cliquez pour la vidéo :",
-        description: "Cliquez pour la vidéo :",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-189-cliquer-pour-la-vid-o",
-        readingTime: 2,
-        dateUpdated: "août 25, 2025 7:45:08 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-190-suiza-y-espa-a-frente-a-frente-sin-rodeos": {
         title: "La Suisse et l’Espagne face à face, sans détour",
         description: "La Suisse et l’Espagne face à face, sans détour",
@@ -3709,24 +3511,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-207-cliquer-pour-la-vid-o-en-mi-lista-de-to-do-it-en-mi-lista-de-to-do-it": {
-        title: "Cliquez sur la vidéo :Sur ma liste \"à faire\" Sur ma liste \"à faire\"",
-        description: "Cliquez sur la vidéo :Sur ma liste \"à faire\" Sur ma liste \"à faire\"",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-207-cliquer-pour-la-vid-o-en-mi-lista-de-to-do-it-en-mi-lista-de-to-do-it",
-        readingTime: 2,
-        dateUpdated: "sep 09, 2025 1:38:03 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20lista%20lista",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-208-el-famoso-13-salario-para-jubilados-en-suiza": {
         title: "Le fameux « 13e salaire » pour les retraités en Suisse",
         description: "Le fameux « 13e salaire » pour les retraités en Suisse",
@@ -3792,24 +3576,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "sep 11, 2025 7:01:16 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Impuestos%20Suiza%20d%C3%B3nde%20paga%20menos",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-212-cliquer-pour-la-vid-o-bon-je-ne-genevois-bon-je-ne-genevois": {
-        title: "Cliquez sur la vidéo : Bon Jeûne Genevois ! Bon Jeûne Genevois ! ",
-        description: "Cliquez sur la vidéo : Bon Jeûne Genevois ! Bon Jeûne Genevois ! ",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-212-cliquer-pour-la-vid-o-bon-je-ne-genevois-bon-je-ne-genevois",
-        readingTime: 2,
-        dateUpdated: "sep 11, 2025 1:46:40 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Bon%20Genevois",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -3954,24 +3720,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "sep 15, 2025 8:26:17 pm",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Suiza%20plantea%20acuerdo%20defensa%20con",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-221-cliquer-pour-la-vid-o-no-soy-el-del-video": {
-        title: "Cliquez sur la vidéo : JE NE SUIS PAS CELUI DE LA VIDÉO ! ",
-        description: "Cliquez sur la vidéo : JE NE SUIS PAS CELUI DE LA VIDÉO ! ",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-221-cliquer-pour-la-vid-o-no-soy-el-del-video",
-        readingTime: 2,
-        dateUpdated: "sep 15, 2025 9:52:36 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20SOY%20DEL",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -4177,24 +3925,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-233-cliquer-pour-la-vid-o-noticias-de-antoni-no-soy-yo": {
-        title: "Cliquez pour la vidéo : Les nouvelles d'Antoni ! (CE N'EST PAS MOI)",
-        description: "Cliquez pour la vidéo : Les nouvelles d'Antoni ! (CE N'EST PAS MOI)",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-233-cliquer-pour-la-vid-o-noticias-de-antoni-no-soy-yo",
-        readingTime: 2,
-        dateUpdated: "sep 21, 2025 8:14:59 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Noticias%20Antoni",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-234-ginebra-los-cursos-de-franc-s-gratuitos-para-migrantes-baten-r-cords": {
         title: "Genève : des cours de français gratuits pour les migrants battent des records",
         description: "Genève : des cours de français gratuits pour les migrants battent des records",
@@ -4206,24 +3936,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "sep 21, 2025 8:30:11 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Ginebra%20los%20cursos%20franc%C3%A9s%20gratuitos",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-235-cliquer-pour-la-vid-o-como-no-enamorase-como-no-enamorase": {
-        title: "Cliquez sur la vidéo : Comment ne pas tomber amoureux ! Comment ne pas tomber amoureux ! ",
-        description: "Cliquez sur la vidéo : Comment ne pas tomber amoureux ! Comment ne pas tomber amoureux ! ",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-235-cliquer-pour-la-vid-o-como-no-enamorase-como-no-enamorase",
-        readingTime: 2,
-        dateUpdated: "sep 21, 2025 12:30:02 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Como%20enamorase",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -4339,24 +4051,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-242-cliquer-pour-la-vid-o-en-suiza-los-telef-ricos-no-son-solo-un-medio-de-transporte-son-parte-de-la-vida-diaria-y-un-s-mbolo-de-las-monta-as-conecta": {
-        title: "Cliquez sur la vidéo : En Suisse, les téléphériques ne sont pas seulement un moyen de transport, ils font partie de la vie quotidienne et sont un symbole de la montagne. Se connecter",
-        description: "Cliquez sur la vidéo : En Suisse, les téléphériques ne sont pas seulement un moyen de transport, ils font partie de la vie quotidienne et sont un symbole de la montagne. Se connecter",
-        keywords: "vivir, suiza",
-        category: "Vivre en Suisse",
-        hub: "vivir-en-suiza",
-        slug: "fb-242-cliquer-pour-la-vid-o-en-suiza-los-telef-ricos-no-son-solo-un-medio-de-transporte-son-parte-de-la-vida-diaria-y-un-s-mbolo-de-las-monta-as-conecta",
-        readingTime: 2,
-        dateUpdated: "sep 24, 2025 5:15:02 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Suiza%20los",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-243-solo-comparto": {
         title: "Je partage juste...",
         description: "Je partage juste...",
@@ -4404,24 +4098,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "sep 25, 2025 6:54:36 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Alocaciones%20familiares%20Suiza%20Kinderzulage",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-246-cliquer-pour-la-vid-o-uno-de-los-nicos-de-tiktok-que-dice-las-verdades-como-son-uno-de-los-nicos-de-tiktok-que-dice-las-verdades-como-son": {
-        title: "Cliquez sur la vidéo : Une des seules sur Tiktok qui dit la vérité telle qu'elle est. L’un des seuls sur TikTok à dire la vérité telle qu’elle est. ",
-        description: "Cliquez sur la vidéo : Une des seules sur Tiktok qui dit la vérité telle qu'elle est. L’un des seuls sur TikTok à dire la vérité telle qu’elle est. ",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-246-cliquer-pour-la-vid-o-uno-de-los-nicos-de-tiktok-que-dice-las-verdades-como-son-uno-de-los-nicos-de-tiktok-que-dice-las-verdades-como-son",
-        readingTime: 2,
-        dateUpdated: "sep 25, 2025 2:11:38 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Uno%20los",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -4735,24 +4411,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-264-cliquer-pour-la-vid-o": {
-        title: "Cliquez pour la vidéo :⚠️ 🇪🇸➡️🇨🇭 ⚠️",
-        description: "Cliquez pour la vidéo :⚠️ 🇪🇸➡️🇨🇭 ⚠️",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-264-cliquer-pour-la-vid-o",
-        readingTime: 2,
-        dateUpdated: "oct 08, 2025 7:23:42 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-265-huelga-en-la-construcci-n-los-alba-iles-de-vaud-friburgo-y-ginebra-dicen-basta": {
         title: "Grève du bâtiment: les maçons de Vaud, Fribourg et Genève disent ça suffit",
         description: "Grève du bâtiment: les maçons de Vaud, Fribourg et Genève disent ça suffit",
@@ -5052,24 +4710,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "oct 21, 2025 8:47:57 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cada%20vez%20m%C3%A1s%20suizos%20hacen",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-282-cliquer-pour-la-vid-o-the-vortex-race": {
-        title: "Cliquez pour la vidéo : La course Vortex",
-        description: "Cliquez pour la vidéo : La course Vortex",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-282-cliquer-pour-la-vid-o-the-vortex-race",
-        readingTime: 2,
-        dateUpdated: "oct 21, 2025 2:02:45 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20The%20Vortex",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -5635,24 +5275,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-314-cliquer-pour-la-vid-o-aviso-importante-la-estafa-del-c-digo-qr-en-las-multas": {
-        title: "Cliquez sur la vidéo :Avis important : l'arnaque au QR code sur les amendes",
-        description: "Cliquez sur la vidéo :Avis important : l'arnaque au QR code sur les amendes",
-        keywords: "vivir, suiza",
-        category: "Alertes et ressources",
-        hub: "recursos",
-        slug: "fb-314-cliquer-pour-la-vid-o-aviso-importante-la-estafa-del-c-digo-qr-en-las-multas",
-        readingTime: 2,
-        dateUpdated: "nov 05, 2025 1:32:57 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Aviso%20importante",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-315-comprar-casa-en-suiza-misi-n-casi-imposible": {
         title: "Acheter une maison en Suisse : une mission (presque) impossible",
         description: "Acheter une maison en Suisse : une mission (presque) impossible",
@@ -5736,24 +5358,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "nov 08, 2025 8:46:51 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Suiza%20votar%C3%A1%20sustituir%20servicio%20militar",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-320-cliquer-pour-la-vid-o-el-yodel-suizo-podr-a-entrar-en-el-patrimonio-mundial-de-la-unesco": {
-        title: "Cliquez sur la vidéo : Le yodel suisse pourrait devenir un site du patrimoine mondial de l'UNESCO",
-        description: "Cliquez sur la vidéo : Le yodel suisse pourrait devenir un site du patrimoine mondial de l'UNESCO",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-320-cliquer-pour-la-vid-o-el-yodel-suizo-podr-a-entrar-en-el-patrimonio-mundial-de-la-unesco",
-        readingTime: 2,
-        dateUpdated: "nov 08, 2025 1:53:41 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20yodel%20suizo",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -6391,24 +5995,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-356-cliquer-pour-la-vid-o-cuidado-con-la-ltima-estafa-en-suiza-ahora-llaman-desde-la-polic-a": {
-        title: "Cliquez sur la vidéo : Attention à la dernière arnaque en Suisse : maintenant ils appellent de « la police »",
-        description: "Cliquez sur la vidéo : Attention à la dernière arnaque en Suisse : maintenant ils appellent de « la police »",
-        keywords: "vivir, suiza",
-        category: "Alertes et ressources",
-        hub: "recursos",
-        slug: "fb-356-cliquer-pour-la-vid-o-cuidado-con-la-ltima-estafa-en-suiza-ahora-llaman-desde-la-polic-a",
-        readingTime: 2,
-        dateUpdated: "nov 29, 2025 7:49:41 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Cuidado%20con",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-357-el-stalking-sera-por-fin-un-delito-penal": {
         title: "Le harcèlement criminel sera « enfin » un délit",
         description: "Le harcèlement criminel sera « enfin » un délit",
@@ -6762,24 +6348,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "déc 17, 2025 8:21:52 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Suiza%20tiene%20presidente%20como%20entendemos",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-377-cliquer-pour-la-vid-o-tire-fesse-o-schlepplift-c-mo-usarlo-bien-para-no-morir-de-verg-enza": {
-        title: "Cliquez sur la vidéo :Tire-fesse ou Schlepplift : comment bien l'utiliser (pour ne pas mourir de honte 🫢)",
-        description: "Cliquez sur la vidéo :Tire-fesse ou Schlepplift : comment bien l'utiliser (pour ne pas mourir de honte 🫢)",
-        keywords: "tramites, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-377-cliquer-pour-la-vid-o-tire-fesse-o-schlepplift-c-mo-usarlo-bien-para-no-morir-de-verg-enza",
-        readingTime: 2,
-        dateUpdated: "déc 17, 2025 7:30:01 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Tire%20fesse",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -7488,24 +7056,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-417-cliquer-pour-la-vid-o-expectativas-vs-realidad-expectativas-vs-realidad": {
-        title: "Cliquez pour la vidéo : Attentes VS Réalité Attentes VS Réalité",
-        description: "Cliquez pour la vidéo : Attentes VS Réalité Attentes VS Réalité",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-417-cliquer-pour-la-vid-o-expectativas-vs-realidad-expectativas-vs-realidad",
-        readingTime: 2,
-        dateUpdated: "jan 04, 2026 5:10:10 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Expectativas%20Realidad",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-418-el-cansancio-que-nadie-quiere-ver-en-suiza": {
         title: "La fatigue que personne ne veut voir en Suisse",
         description: "La fatigue que personne ne veut voir en Suisse",
@@ -7686,24 +7236,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-428-cliquer-pour-la-vid-o-cuando-estoy-estresado-por-trabajar-en-suiza-entonces-recuerdo-para-qui-n-estoy-trabajando-cuando-estoy-estresado-por-traba": {
-        title: "Cliquez sur la vidéo :Quand je suis stressé à l'idée de travailler en Suisse... alors je me souviens pour qui je travaille ! Quand je suis stressé au travail",
-        description: "Cliquez sur la vidéo :Quand je suis stressé à l'idée de travailler en Suisse... alors je me souviens pour qui je travaille ! Quand je suis stressé au travail",
-        keywords: "vivir, suiza",
-        category: "Travail et salaires",
-        hub: "trabajo",
-        slug: "fb-428-cliquer-pour-la-vid-o-cuando-estoy-estresado-por-trabajar-en-suiza-entonces-recuerdo-para-qui-n-estoy-trabajando-cuando-estoy-estresado-por-traba",
-        readingTime: 2,
-        dateUpdated: "jan 07, 2026 7:00:47 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Cuando%20estoy",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-429-el-control-t-cnico-del-coche-en-suiza-lo-que-conviene-saber-antes-de-llevarse-un-susto": {
         title: "Contrôle technique de la voiture en Suisse. Ce qu'il faut savoir avant d'avoir peur",
         description: "Contrôle technique de la voiture en Suisse. Ce qu'il faut savoir avant d'avoir peur",
@@ -7787,24 +7319,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "jan 09, 2026 8:20:22 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=nuevo%20museo%20dedicado%20las%20motos",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-434-cliquer-pour-la-vid-o-atentos-a-esta-estafa-atentos-a-esta-estafa": {
-        title: "Cliquez pour la vidéo :⚠️ ATTENTION À CETTE ARNAQUE ⚠️ ⚠️ ATTENTION À CETTE ARNAQUE ⚠️",
-        description: "Cliquez pour la vidéo :⚠️ ATTENTION À CETTE ARNAQUE ⚠️ ⚠️ ATTENTION À CETTE ARNAQUE ⚠️",
-        keywords: "vivir, suiza",
-        category: "Alertes et ressources",
-        hub: "recursos",
-        slug: "fb-434-cliquer-pour-la-vid-o-atentos-a-esta-estafa-atentos-a-esta-estafa",
-        readingTime: 2,
-        dateUpdated: "jan 09, 2026 11:11:09 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20ATENTOS%20ESTA",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -8003,24 +7517,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "jan 12, 2026 8:20:26 pm",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Bernina%20estudia%20trasladar%20parte%20producci%C3%B3n",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-446-cliquer-pour-la-vid-o-requisitos-para-obtener-el-permiso-de-residencia-requisitos-para-obtener-el-permiso-de-residencia": {
-        title: "Cliquez sur la vidéo : Conditions pour obtenir un titre de séjour. Conditions pour obtenir un permis de séjour. ",
-        description: "Cliquez sur la vidéo : Conditions pour obtenir un titre de séjour. Conditions pour obtenir un permis de séjour. ",
-        keywords: "tramites, suiza",
-        category: "Démarches et permis",
-        hub: "tramites",
-        slug: "fb-446-cliquer-pour-la-vid-o-requisitos-para-obtener-el-permiso-de-residencia-requisitos-para-obtener-el-permiso-de-residencia",
-        readingTime: 2,
-        dateUpdated: "jan 13, 2026 6:53:56 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Requisitos%20para",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -8748,24 +8244,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-487-cliquer-pour-la-vid-o-a-meditar-a-meditar": {
-        title: "Cliquez sur la vidéo : Méditons ! Méditons ! ",
-        description: "Cliquez sur la vidéo : Méditons ! Méditons ! ",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-487-cliquer-pour-la-vid-o-a-meditar-a-meditar",
-        readingTime: 2,
-        dateUpdated: "jan 24, 2026 5:08:40 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20meditar%20meditar",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-488-permisos-en-suiza-qu-se-paga-qui-n-lo-paga": {
         title: "Permis en Suisse : ce que vous payez, qui le paie",
         description: "Permis en Suisse : ce que vous payez, qui le paie",
@@ -8838,24 +8316,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-492-cliquer-pour-la-vid-o-iseltwald-y-el-famoso-pagar-por-la-foto": {
-        title: "Cliquez sur la vidéo : Iseltwald et le fameux « payez pour la photo ». ",
-        description: "Cliquez sur la vidéo : Iseltwald et le fameux « payez pour la photo ». ",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-492-cliquer-pour-la-vid-o-iseltwald-y-el-famoso-pagar-por-la-foto",
-        readingTime: 2,
-        dateUpdated: "jan 26, 2026 1:22:56 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Iseltwald%20famoso",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-493-te-est-n-pagando-bien-las-noches-en-suiza-lo-que-la-ley-dice-y-lo-que-debes-saber": {
         title: "ÊTES-VOUS BIEN PAYÉ POUR VOS NUITS EN SUISSE ? CE QUE DIT LA LOI ET CE QUE VOUS DEVEZ SAVOIR",
         description: "ÊTES-VOUS BIEN PAYÉ POUR VOS NUITS EN SUISSE ? CE QUE DIT LA LOI ET CE QUE VOUS DEVEZ SAVOIR",
@@ -8903,24 +8363,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "jan 27, 2026 1:13:15 pm",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=otra%20subida%20m%C3%A1s",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-496-cliquer-pour-la-vid-o-arrrghhhh-el-alem-n-arrrghhhh-el-alem-n": {
-        title: "Cliquez pour la vidéo :Arrrghhhh... L'Allemand ! 😅 Arrrghhhh... L'Allemand ! 😅",
-        description: "Cliquez pour la vidéo :Arrrghhhh... L'Allemand ! 😅 Arrrghhhh... L'Allemand ! 😅",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-496-cliquer-pour-la-vid-o-arrrghhhh-el-alem-n-arrrghhhh-el-alem-n",
-        readingTime: 2,
-        dateUpdated: "jan 27, 2026 3:55:58 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Arrrghhhh%20Alem%C3%A1n",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -9144,24 +8586,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-509-cliquer-pour-la-vid-o": {
-        title: "Cliquez pour la vidéo :",
-        description: "Cliquez pour la vidéo :",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-509-cliquer-pour-la-vid-o",
-        readingTime: 2,
-        dateUpdated: "fév 01, 2026 10:02:04 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-510-sans-titre": {
         title: "(sans titre)",
         description: "(sans titre)",
@@ -9209,24 +8633,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "fév 01, 2026 10:02:04 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=sans%20titre",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-513-cliquer-pour-la-vid-o-prueba-comunidad-atentos-al-detalle-voy-a-ser-voluntariamente-vago-y-no-voy-a-dar-pistas-adicionales-estas-im-genes-y-el": {
-        title: "Cliquez pour la vidéo : ⚠️Test de la communauté... faites attention aux détails⚠️Je vais être volontairement vague et je ne vais pas donner d'indices supplémentaires. Ces images et le",
-        description: "Cliquez pour la vidéo : ⚠️Test de la communauté... faites attention aux détails⚠️Je vais être volontairement vague et je ne vais pas donner d'indices supplémentaires. Ces images et le",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-513-cliquer-pour-la-vid-o-prueba-comunidad-atentos-al-detalle-voy-a-ser-voluntariamente-vago-y-no-voy-a-dar-pistas-adicionales-estas-im-genes-y-el",
-        readingTime: 2,
-        dateUpdated: "fév 01, 2026 10:02:04 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Prueba%20comunidad",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -9810,24 +9216,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-546-cliquer-pour-la-vid-o-autocontroles-en-los-trenes-suizos-ojo-con-esto": {
-        title: "Cliquez sur la vidéo : Autocontrôles dans les trains suisses. Soyez prudent avec cela. ",
-        description: "Cliquez sur la vidéo : Autocontrôles dans les trains suisses. Soyez prudent avec cela. ",
-        keywords: "vivir, suiza",
-        category: "Vivre en Suisse",
-        hub: "vivir-en-suiza",
-        slug: "fb-546-cliquer-pour-la-vid-o-autocontroles-en-los-trenes-suizos-ojo-con-esto",
-        readingTime: 2,
-        dateUpdated: "fév 17, 2026 8:10:01 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Autocontroles%20los",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-547-la-barrera-de-r-sti": {
         title: "La barrière Rösti. ",
         description: "La barrière Rösti. ",
@@ -9990,24 +9378,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-556-cliquer-pour-la-vid-o-est-ma-ana-vengo-con-un-v-deo-que-espero-escuchen-bien-est-ma-ana-vengo-con-un-v-deo-que-espero-escuchen-bien": {
-        title: "Cliquez sur la vidéo : Ce matin je vous arrive avec une vidéo que j'espère que vous écouterez bien ! Ce matin je vous arrive avec une vidéo que j'espère que vous écouterez bien ! ",
-        description: "Cliquez sur la vidéo : Ce matin je vous arrive avec une vidéo que j'espère que vous écouterez bien ! Ce matin je vous arrive avec une vidéo que j'espère que vous écouterez bien ! ",
-        keywords: "tramites, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-556-cliquer-pour-la-vid-o-est-ma-ana-vengo-con-un-v-deo-que-espero-escuchen-bien-est-ma-ana-vengo-con-un-v-deo-que-espero-escuchen-bien",
-        readingTime: 2,
-        dateUpdated: "mar 03, 2026 8:22:33 am",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Est%C3%A1%20ma%C3%B1ana",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-557-la-entrevista-de-trabajo-y-las-preguntas-para-un-puesto-no-cualificado-en-suiza": {
         title: "L'entretien d'embauche et les questions pour un poste non qualifié en Suisse",
         description: "L'entretien d'embauche et les questions pour un poste non qualifié en Suisse",
@@ -10145,24 +9515,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "mar 07, 2026 9:06:50 am",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=sue%C3%B1o%20suizo%20algunos%20nuevos%20frontaliers",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-565-cliquer-pour-la-vid-o-no-olviden-aprender-frases-importantes-en-suizo-aleman-no-olviden-aprender-frases-importantes-en-suizo-aleman": {
-        title: "Cliquez sur la vidéo : n'oubliez pas d'apprendre des phrases importantes en suisse allemand 😅 n'oubliez pas d'apprendre des phrases importantes en suisse allemand 😅",
-        description: "Cliquez sur la vidéo : n'oubliez pas d'apprendre des phrases importantes en suisse allemand 😅 n'oubliez pas d'apprendre des phrases importantes en suisse allemand 😅",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-565-cliquer-pour-la-vid-o-no-olviden-aprender-frases-importantes-en-suizo-aleman-no-olviden-aprender-frases-importantes-en-suizo-aleman",
-        readingTime: 2,
-        dateUpdated: "mar 07, 2026 4:15:09 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20olviden%20aprender",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">
@@ -10361,24 +9713,6 @@ window.siteContent.fr.articles = {
         dateUpdated: "mar 10, 2026 1:25:02 pm",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=SSR%20sobrevivido%20pero%20ahora%20vienen",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
-    "fb-577-cliquer-pour-la-vid-o-cuando-alguien-intenta-desmontar-el-mito-suizo-pero-no-exactamente-como-esperabas": {
-        title: "Cliquez sur la vidéo : Quand on tente de démanteler le « mythe suisse »… mais pas exactement comme on l’espérait",
-        description: "Cliquez sur la vidéo : Quand on tente de démanteler le « mythe suisse »… mais pas exactement comme on l’espérait",
-        keywords: "vivir, suiza",
-        category: "",
-        hub: "",
-        slug: "fb-577-cliquer-pour-la-vid-o-cuando-alguien-intenta-desmontar-el-mito-suizo-pero-no-exactamente-como-esperabas",
-        readingTime: 2,
-        dateUpdated: "mar 10, 2026 8:25:02 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=Cliquer%20pour%20vid%C3%A9o%20Cuando%20alguien",
         isFbSearch: true,
         content: `<div class="article-content">
   <div class="callout info">

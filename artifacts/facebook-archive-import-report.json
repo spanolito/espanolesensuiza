@@ -3,12 +3,12 @@
   "contentFile": "/Users/oscarandujar/Projets/espanolesensuiza/content-articles.js",
   "stats": {
     "archivePostsParsed": 575,
-    "placeholdersFound": 59,
-    "matchedCandidates": 29,
-    "imported": 0,
+    "archiveArticlesFound": 579,
+    "matchedCandidates": 549,
+    "imported": 520,
     "skipped": 29,
     "unmatched": 30,
-    "touched": 0,
+    "touched": 520,
     "wrote": false
   },
   "skipped": [
@@ -369,5 +369,706 @@
       "normalizedTitle": "archivo de facebook 567"
     }
   ],
-  "imported": []
+  "imported": [
+    {
+      "key": "fb-020-el-viaducto-de-landwasser-una-maravilla-de-la-ingenier-a-ferroviaria-se-alza-majestuosamente-en-medio-de-los-paisajes-alpinos-suizos-con-sus-seis-a",
+      "title": "El Viaducto de Landwasser, una maravilla de la ingeniería ferroviaria, se alza majestuosamente en medio de los paisajes alpinos suizos. Con sus seis arcos elegantes que cruzan el río Landwasser y se adentran directamente en un túnel excavado en la montaña, este puente es un espectáculo impresionante. Un tren rojo brillante serpentea sobre el viaducto, añadiendo un toque de color vibrante a la escena verde. Los campos exuberantes y las empinadas laderas boscosas crean un contraste impactante, ilustrando la perfecta armonía entre la naturaleza y la obra humana. Esta imagen, proveniente de la vista \"FB view of swiss\", captura la esencia de Suiza, donde la tecnología se fusiona con la belleza natural, ofreciendo una fuente de inspiración para los amantes de la arquitectura, la ingeniería, los destinos de viaje en Suiza o los entusiastas del ferrocarril.",
+      "score": 735,
+      "postIndex": 22,
+      "textLength": 212
+    },
+    {
+      "key": "fb-055-sin-duda-sab-is-que-en-suiza-no-solo-envias-un-cv-para-un-puesto-de-trabajo-tiene-que-estar-acompa-ado-con-una-carta-de-motivaci-n-redactar-una-cart",
+      "title": "Consejos para Redactar una Carta de Motivación en Suiza",
+      "score": 735,
+      "postIndex": 86,
+      "textLength": 2030
+    },
+    {
+      "key": "fb-060-en-suiza-los-precios-del-tren-han-comenzado-a-generar-controversia-debido-a-su-elevado-costo-en-comparaci-n-con-el-uso-del-autom-vil-seg-n-un-art-cu",
+      "title": "En Suiza, los precios del tren han comenzado a generar controversia debido a su elevado costo en comparación con el uso del automóvil. Según un artículo reciente de Blick, el llamado \"Monsieur Prix\" (Stefan Meierhans), un defensor del consumidor en Suiza, ha alertado sobre la creciente disparidad entre el precio del transporte ferroviario y el uso del coche. Los usuarios de trenes se enfrentan a tarifas cada vez más altas, lo que ha llevado a muchos a optar por el automóvil, que se considera más económico y conveniente en varios trayectos.",
+      "score": 735,
+      "postIndex": 97,
+      "textLength": 951
+    },
+    {
+      "key": "fb-059-el-je-ne-genevois-es-una-festividad-hist-rica-nica-de-ginebra-celebrada-el-jueves-posterior-al-primer-domingo-de-septiembre-este-d-a-conmemora-eve",
+      "title": "El Jeûne genevois es una festividad histórica única de Ginebra, celebrada el jueves posterior al primer domingo de septiembre. Este día conmemora eventos marcados por la reflexión religiosa y social, aunque su origen ha evolucionado con el tiempo. Desde el siglo XV, los jeûnes en Suiza eran jornadas de penitencia y agradecimiento por diversos acontecimientos graves, como guerras o pestes. En Ginebra, el primer jeûne documentado ocurrió en 1567, tras la represión de los protestantes en Lyon.",
+      "score": 735,
+      "postIndex": 96,
+      "textLength": 669
+    },
+    {
+      "key": "fb-071-mes-amis-espagnols-dirigido-por-adrien-bordone-narra-la-historia-de-sus-amigos-hijos-de-inmigrantes-espa-oles-que-crecieron-en-bienne-suiza-ante",
+      "title": "Mes Amis Espagnols, dirigido por Adrien Bordone, narra la historia de sus amigos, hijos de inmigrantes españoles, que crecieron en Bienne, Suiza, antes de regresar a España en su adolescencia. A través de entrevistas, el documental explora los desafíos de su remigración y su adaptación a una tierra desconocida. Con un enfoque sensible y humorístico, Bordone retrata la amistad, las dificultades migratorias y los deseos de estos hombres, creando un reflejo íntimo de sus vidas.",
+      "score": 735,
+      "postIndex": 114,
+      "textLength": 86
+    },
+    {
+      "key": "fb-029-hoy-quiero-compartir-una-reflexi-n-que-compara-dos-fen-menos-que-aunque-a-primera-vista-parecen-distintos-tienen-puntos-en-com-n-la-b-squeda-de-emp",
+      "title": "Hoy quiero compartir una reflexión que compara dos fenómenos que, aunque a primera vista parecen distintos, tienen puntos en común: la búsqueda de empleo como emigrante y el turismo en una ciudad como Barcelona. Dicha reflexión ha madurado bastante en mi cabeza y admito que he leído mucho, investigado y solo comparto mi punto de vista. No es un tema político y aún menos un debate sino un tema de actualidad.",
+      "score": 735,
+      "postIndex": 44,
+      "textLength": 3253
+    },
+    {
+      "key": "fb-109-del-s-bado-23-de-noviembre-19-00-al-domingo-24-de-noviembre-15-00-la-estaci-n-de-tren-de-ginebra-cornavin-cerrar-por-20-horas-desde-la-noche-ha",
+      "title": "Para detalles específicos sobre los desvíos y horarios, puedes consultar el artículo oficial en la página de SBB.",
+      "score": 735,
+      "postIndex": 153,
+      "textLength": 202
+    },
+    {
+      "key": "fb-110-cliquer-pour-la-vid-o-del-27-de-octubre-al-7-de-enero-ginebra-se-transforma-en-un-espect-culo-de-arte-y-tecnolog-a-con-colloque-wright-o-geneva-l",
+      "title": "Más información y detalles de las ubicaciones disponibles ->",
+      "score": 415,
+      "postIndex": 154,
+      "textLength": 174
+    },
+    {
+      "key": "fb-146-en-suiza-si-algo-no-te-gusta-una-nueva-ley-una-decisi-n-del-parlamento-un-plan-urban-stico-o-como-en-este-caso-la-instalaci-n-masiva-de-aerogene",
+      "title": "En Suiza, si algo no te gusta, una nueva ley, una decisión del Parlamento, un plan urbanístico, o como en este caso, la instalación masiva de aerogeneradore, puedes movilizarte, recoger firmas y forzar un referéndum. En este caso concreto, han recogido más de 220. 000 firmas en plena ola de calor, con la excusa de \"proteger el paisaje\" (que algunos también llaman “protección de intereses inmobiliarios”).",
+      "score": 735,
+      "postIndex": 242,
+      "textLength": 1062
+    },
+    {
+      "key": "fb-033-hola-a-tod-s",
+      "title": "Hoy quiero abordar un tema que ha generado bastante controversia en los últimos días: las tarifas de aparcamiento en Berna. Un reciente informe ha puesto de manifiesto que un aparcamiento en esta ciudad ha estado cobrando a los automovilistas hasta 300 francos por solo 10 minutos de estacionamiento. Esta situación ha desatado un debate sobre la justicia y la transparencia en las tarifas de aparcamiento en Suiza.",
+      "score": 215,
+      "postIndex": 50,
+      "textLength": 3221
+    },
+    {
+      "key": "fb-102-ante-las-recientes-inundaciones-en-valencia-nos-toca-una-vez-m-s-unirnos-y-apoyar-a-nuestros-herman-s-valencian-s-desde-suiza-la-solidaridad-de-nues",
+      "title": "Ante las recientes inundaciones en Valencia, nos toca una vez más unirnos y apoyar a nuestros herman@s valencian@s desde Suiza. La solidaridad de nuestra comunidad es fundamental para quienes están pasando por este difícil momento. Sin embargo, en tiempos como estos también hay quienes intentan aprovecharse de la buena voluntad de los demás.",
+      "score": 735,
+      "postIndex": 146,
+      "textLength": 403
+    },
+    {
+      "key": "fb-034-hoy-tengo-una-noticia-emocionante-y-positiva-para-compartir-con-nuestra-comunidad-en-ginebra-a-partir-de-2025-los-transportes-p-blicos-en-ginebra-se",
+      "title": "Hoy tengo una noticia emocionante y positiva para compartir con nuestra comunidad en Ginebra: a partir de 2025, los transportes públicos en Ginebra serán gratuitos para los jóvenes menores de 25 años. Esta iniciativa, anunciada recientemente, promete tener un impacto significativo en la vida de muchas familias y en la movilidad urbana de nuestra ciudad.",
+      "score": 735,
+      "postIndex": 51,
+      "textLength": 3035
+    },
+    {
+      "key": "fb-011-ginebra-una-ciudad-situada-en-la-frontera-suroeste-de-suiza-a-orillas-del-hermoso-lago-lem-n-es-un-lugar-con-una-rica-historia-y-una-vibrante-vida",
+      "title": "Ginebra, una ciudad situada en la frontera suroeste de Suiza, a orillas del hermoso lago Lemán, es un lugar con una rica historia y una vibrante vida contemporánea. Como ingeniero en física en el CERN y alguien que ha vivido en Ginebra, me gustaría compartir algunos aspectos destacados de esta fascinante ciudad con ustedes.",
+      "score": 223,
+      "postIndex": 12,
+      "textLength": 2936
+    },
+    {
+      "key": "fb-023-la-vignette-autoroute-suiza-es-una-pegatina-que-se-requiere-para-circular-por-las-autopistas-y-semi-autopistas-de-suiza-es-obligatoria-para-todos",
+      "title": "La vignette autoroute suiza es una pegatina que se requiere para circular por las autopistas y semi-autopistas de Suiza. Es obligatoria para todos los vehículos a motor, remolques y motocicletas. La vignette tiene un precio de 40 francos suizos y es válida desde el 1 de diciembre del año anterior hasta el 31 de enero del año siguiente.",
+      "score": 735,
+      "postIndex": 27,
+      "textLength": 979
+    },
+    {
+      "key": "fb-049-hoy-le-toca-a-miles-de-alumnos-regresar-al-cole-el-sistema-educativo-en-suiza-es-diverso-y-est-altamente-descentralizado-lo-que-significa-que-cada",
+      "title": "Hoy le toca a miles de alumnos regresar al cole. El sistema educativo en Suiza es diverso y está altamente descentralizado, lo que significa que cada cantón tiene un control sobre su propio sistema escolar. A pesar de esta diversidad, hay ciertas características comunes que definen la educación en Suiza. Aquí te explico cómo funciona:",
+      "score": 735,
+      "postIndex": 78,
+      "textLength": 5070
+    },
+    {
+      "key": "fb-242-cliquer-pour-la-vid-o-en-suiza-los-telef-ricos-no-son-solo-un-medio-de-transporte-son-parte-de-la-vida-diaria-y-un-s-mbolo-de-las-monta-as-conecta",
+      "title": "En Suiza, los teleféricos no son solo un medio de transporte, son parte de la vida diaria y un símbolo de las montañas. Conectan valles y cumbres, acercan a la gente y ofrecen vistas que dejan sin palabras. Aquí una pequeña muestra en video de estas cabinas que vuelan entre los Alpes suizos.",
+      "score": 415,
+      "postIndex": 581,
+      "textLength": 316
+    },
+    {
+      "key": "fb-051-en-julio-de-2024-la-tasa-de-desempleo-en-suiza-se-mantuvo-en-el-2-3-sin-cambios-respecto-al-mes-anterior-seg-n-los-ltimos-datos-publicados-desgl",
+      "title": "En julio de 2024, la tasa de desempleo en Suiza se mantuvo en el 2. 3%, sin cambios respecto al mes anterior, según los últimos datos publicados. Desglosando estos datos por nacionalidad, el desempleo entre los ciudadanos suizos fue del 1. 6%, mientras que entre los extranjeros alcanzó el 4. 3%.",
+      "score": 735,
+      "postIndex": 82,
+      "textLength": 869
+    },
+    {
+      "key": "fb-043-este-fin-de-semana-no-te-pierdas-el-espect-culo-nico-en-ginebra-el-viernes-16-y-el-s-bado-17-de-agosto-a-las-22h-frente-a-la-playa-de-eaux",
+      "title": "📍 Consejo: Para una mejor vista, te recomendamos que te instales en la playa de Eaux-Vives o en sus alrededores. ¡La entrada es gratuita!",
+      "score": 735,
+      "postIndex": 69,
+      "textLength": 696
+    },
+    {
+      "key": "fb-008-ginebra-es-una-ciudad-vibrante-y-multicultural-conocida-por-su-impresionante-paisaje-natural-y-su-importancia-en-la-diplomacia-internacional-se-podr",
+      "title": "Ginebra es una ciudad vibrante y multicultural, conocida por su impresionante paisaje natural y su importancia en la diplomacia internacional. Se podría describir Ginebra como un lugar de encuentro diverso y acogedor que ofrece una mezcla única de historia, cultura y modernidad.",
+      "score": 735,
+      "postIndex": 7,
+      "textLength": 1658
+    },
+    {
+      "key": "fb-180-anoche-s-bado-16-de-agosto-la-naturaleza-nos-regal-un-espect-culo-brutal-en-sion-valais-durante-una-tormenta-bastante-violenta-el-castillo-de-t",
+      "title": "Anoche, sábado 16 de agosto, la naturaleza nos regaló un espectáculo brutal en Sion (Valais). Durante una tormenta bastante violenta, el castillo de Tourbillon, ese símbolo que vigila la ciudad desde lo alto, fue alcanzado de lleno por un rayo.",
+      "score": 735,
+      "postIndex": 369,
+      "textLength": 498
+    },
+    {
+      "key": "fb-484-no-suelo-hablar-de-pol-tica-y-quien-me-conoce-en-el-grupo-lo-sabe-pero-hay-frases-que-no-se-pueden-dejar-pasar-como-si-nada-sobre-todo-cuando-viene",
+      "title": "Según Donald Trump, sin Estados Unidos “Suiza ya no sería Suiza”. Así, sin anestesia.",
+      "score": 735,
+      "postIndex": 904,
+      "textLength": 1332
+    },
+    {
+      "key": "fb-047-en-suiza-las-deducciones-en-una-n-mina-est-ndar-pueden-variar-seg-n-el-cant-n-el-tipo-de-contrato-y-otros-factores-pero-generalmente-incluyen-vari",
+      "title": "1. Seguro de Vejez y Sobrevivientes (AVS/AHV):",
+      "score": 735,
+      "postIndex": 76,
+      "textLength": 2727
+    },
+    {
+      "key": "fb-005-alquiler-medio-seg-n-el-cant-n-de-un-3-o-3-5-piezas-sin-olvidar-que-en-ginebra-la-cocina-es-considerada-como-una-pieza-es-decir-que-un-3-piezas-en-g",
+      "title": "Alquiler medio según el cantón de un 3 o 3. 5 piezas. Sin olvidar que en Ginebra la cocina es considerada como una pieza. Es decir que un 3 piezas en Ginebra es cocina, salón y un dormitorio.",
+      "score": 735,
+      "postIndex": 1,
+      "textLength": 190
+    },
+    {
+      "key": "fb-313-cada-cierto-tiempo-vuelve-a-pasar-alguien-conf-a-env-a-dinero-por-adelantado-para-que-le-tramiten-el-permiso-de-residencia-o-le-consigan-trabajo",
+      "title": "Cada cierto tiempo vuelve a pasar: alguien confía, envía dinero por adelantado para que le “tramiten el permiso de residencia” o le “consigan trabajo” en Suiza… y acaba estafado.",
+      "score": 735,
+      "postIndex": 690,
+      "textLength": 853
+    },
+    {
+      "key": "fb-007-la-organizaci-n-de-las-naciones-unidas-onu-tiene-vacantes-disponibles-en-ginebra-si-est-s-interesado-en-trabajar-en-un-entorno-internacional-es",
+      "title": "🌐 La Organización de las Naciones Unidas (ONU) 🌐 tiene vacantes disponibles en Ginebra. Si estás interesado en trabajar en un entorno internacional esta es tu oportunidad. Aqui os dejo el enlace :",
+      "score": 735,
+      "postIndex": 3,
+      "textLength": 270
+    },
+    {
+      "key": "fb-360-publicaci-n-an-nimapor-favor-evitad-publicar-como-an-nimo-en-el-grupo-este-espacio-funciona-porque-nos-hablamos-de-frente-nos-ayudamos-entre-pers",
+      "title": "Publicación anónimaPor favor, evitad publicar como “anónimo” en el grupo. Este espacio funciona porque nos hablamos de frente, nos ayudamos entre pers",
+      "score": 183,
+      "postIndex": 760,
+      "textLength": 694
+    },
+    {
+      "key": "fb-490-a-veces-leo-que-quienes-ya-estamos-en-suiza-desaconsejamos-venir-porque-ya-estamos-instalados-como-si-se-tratara-de-proteger-un-privilegio-o-cerrar",
+      "title": "A veces leo que quienes ya estamos en Suiza “desaconsejamos venir” porque ya estamos instalados. Como si se tratara de proteger un privilegio o cerrar la puerta detrás de nosotros.",
+      "score": 215,
+      "postIndex": 911,
+      "textLength": 1008
+    },
+    {
+      "key": "fb-045-imagen-de-la-tormenta-del-jueves-por-la-tarde-sobre-ginebra-a-las-18-20-captada-por-la-c-mara-web-del-telef-rico-del-sal-ve",
+      "title": "Imagen de la tormenta del jueves por la tarde sobre Ginebra a las 18: 20 captada por la cámara web del Teleférico del Salève.",
+      "score": 735,
+      "postIndex": 73,
+      "textLength": 61
+    },
+    {
+      "key": "fb-130-sab-as-que-en-suiza-hay-un-rey-que-conquista-terrenos-por-unos-cientos-de-francos-y-pide-que-le-pongan-su-nombre-a-la-calle",
+      "title": "¿Sabías que en Suiza hay un “rey” que conquista terrenos por unos cientos de francos… y pide que le pongan su nombre a la calle?",
+      "score": 735,
+      "postIndex": 222,
+      "textLength": 2134
+    },
+    {
+      "key": "fb-533-dejo-aqu-un-recordatorio-claro-sobre-los-excesos-de-velocidad-en-suiza-informaci-n-oficial-sin-mitos-sin-dramatismos",
+      "title": "Dejo aquí un recordatorio claro sobre los excesos de velocidad en Suiza. Información oficial. Sin mitos. Sin dramatismos.",
+      "score": 735,
+      "postIndex": 966,
+      "textLength": 1119
+    },
+    {
+      "key": "fb-167-pagas-demasiado-por-el-seguro-m-dico-en-suiza-quiz-no-lo-sepas-pero-podr-as-tener-derecho-a-una-ayuda",
+      "title": "¿Pagas demasiado por el seguro médico en Suiza? Quizá no lo sepas, pero podrías tener derecho a una ayuda",
+      "score": 735,
+      "postIndex": 313,
+      "textLength": 1908
+    },
+    {
+      "key": "fb-278-adi-s-al-demi-tarif-suiza-prueba-my-ride-el-nuevo-sistema-que-podr-a-cambiar-c-mo-viajamos-en-tren",
+      "title": "¿Adiós al demi-tarif? Suiza prueba “My Ride”, el nuevo sistema que podría cambiar cómo viajamos en tren",
+      "score": 735,
+      "postIndex": 643,
+      "textLength": 1888
+    },
+    {
+      "key": "fb-351-las-ilusiones-perdidas-de-la-clase-media-suiza-o-por-qu-muchos-sienten-que-el-bolsillo-tiene-agujeros",
+      "title": "Las ilusiones perdidas de la clase media suiza… o por qué muchos sienten que el bolsillo tiene agujeros",
+      "score": 735,
+      "postIndex": 744,
+      "textLength": 2234
+    },
+    {
+      "key": "fb-458-lo-que-est-pasando-en-ginebra-concretamente-en-plainpalais-merece-que-lo-leamos-con-calma-y-sin-titulares-f-ciles",
+      "title": "Lo que está pasando en Ginebra, concretamente en Plainpalais, merece que lo leamos con calma y sin titulares fáciles.",
+      "score": 735,
+      "postIndex": 878,
+      "textLength": 2765
+    },
+    {
+      "key": "fb-468-neutral-desde-hace-500-a-os-pero-invadiendo-al-vecino-equivocado-tres-veces-sin-darse-cuenta",
+      "title": "Neutral desde hace 500 años… pero invadiendo al vecino equivocado tres veces sin darse cuenta",
+      "score": 735,
+      "postIndex": 888,
+      "textLength": 2287
+    },
+    {
+      "key": "fb-522-qu-cantones-de-suiza-son-m-s-libres-y-por-qu-hay-que-leer-esto-con-calma-ha-salido-estos-d-as-un-ranking-que-est-circulando-bastante-y-que-convi",
+      "title": "Qué cantones de Suiza son “más libres”. Y por qué hay que leer esto con calma.",
+      "score": 735,
+      "postIndex": 954,
+      "textLength": 2294
+    },
+    {
+      "key": "fb-127-el-tratado-de-schengen-ese-que-todos-nombran-pero-pocos-saben-qu-implica-especialmente-en-suiza",
+      "title": "El Tratado de Schengen: ese que todos nombran pero pocos saben qué implica (especialmente en Suiza)",
+      "score": 735,
+      "postIndex": 219,
+      "textLength": 2916
+    },
+    {
+      "key": "fb-137-espa-a-suiza-en-berna-a-por-semis-y-tranquilos-esta-vez-los-besos-van-con-consentimiento",
+      "title": "España - Suiza en Berna: a por semis… y tranquilos, esta vez los besos van con consentimiento",
+      "score": 735,
+      "postIndex": 232,
+      "textLength": 912
+    },
+    {
+      "key": "fb-316-expulsadas-por-no-hablar-alem-n-dos-cocineras-con-16-puntos-gault-millau-pierden-su-trabajo-en-suiza",
+      "title": "Expulsadas por no hablar alemán: dos cocineras con 16 puntos Gault&Millau pierden su trabajo en Suiza",
+      "score": 735,
+      "postIndex": 693,
+      "textLength": 1315
+    },
+    {
+      "key": "fb-361-as-funciona-realmente-el-gobierno-suizo-y-por-qu-aqu-nadie-manda-tanto-como-crees",
+      "title": "Así funciona realmente el Gobierno suizo (y por qué aquí nadie manda tanto como crees)",
+      "score": 735,
+      "postIndex": 761,
+      "textLength": 3279
+    },
+    {
+      "key": "fb-433-un-nuevo-museo-dedicado-a-las-motos-de-competici-n-abre-en-la-regi-n-del-lago-lem-n-y-no-es-un-detalle-menor",
+      "title": "Un nuevo museo dedicado a las motos de competición abre en la región del lago Lemán. Y no es un detalle menor.",
+      "score": 735,
+      "postIndex": 849,
+      "textLength": 1454
+    },
+    {
+      "key": "fb-449-el-avs-en-suiza-c-mo-funciona-de-verdad-y-por-qu-las-tablas-importan-m-s-de-lo-que-crees",
+      "title": "El AVS en Suiza: cómo funciona de verdad y por qué las tablas importan más de lo que crees",
+      "score": 735,
+      "postIndex": 868,
+      "textLength": 4244
+    },
+    {
+      "key": "fb-464-declaraci-n-de-impuestos-en-suiza-qui-n-tiene-que-declarar-cu-ndo-y-por-qu-no-siempre-conviene-hacerlo",
+      "title": "Declaración de impuestos en Suiza: quién tiene que declarar, cuándo y por qué no siempre conviene hacerlo",
+      "score": 735,
+      "postIndex": 884,
+      "textLength": 3463
+    },
+    {
+      "key": "fb-070-requisitos-y-preparaci-n-para-emigrar-a-suiza-como-ciudadano-europeo-el-papel-crucial-del-idioma",
+      "title": "Requisitos y Preparación para Emigrar a Suiza como Ciudadano Europeo: El Papel Crucial del Idioma",
+      "score": 735,
+      "postIndex": 113,
+      "textLength": 2059
+    },
+    {
+      "key": "fb-128-solo-me-queda-confiar-o-por-qu-venir-a-suiza-sin-colch-n-es-una-ruleta-rusa",
+      "title": "“Solo me queda confiar” – o por qué venir a Suiza sin colchón es una ruleta rusa",
+      "score": 735,
+      "postIndex": 220,
+      "textLength": 1537
+    },
+    {
+      "key": "fb-140-cu-l-es-el-salario-m-nimo-en-suiza-en-2025-la-respuesta-corta-depende-del-cant-n-y-del-sector",
+      "title": "¿Cuál es el salario mínimo en Suiza en 2025? La respuesta corta: depende del cantón (y del sector)",
+      "score": 735,
+      "postIndex": 236,
+      "textLength": 3390
+    },
+    {
+      "key": "fb-273-trabajar-como-camionero-o-conductor-de-bus-en-suiza-un-oficio-con-mucho-volante-y-poca-improvisaci-n",
+      "title": "Trabajar como camionero o conductor de bus en Suiza: un oficio con mucho volante y poca improvisación",
+      "score": 735,
+      "postIndex": 635,
+      "textLength": 3821
+    },
+    {
+      "key": "fb-297-vivir-en-una-caja-lo-que-hay-que-saber-sobre-habitaciones-y-micro-studios-en-suiza",
+      "title": "Vivir en una caja: lo que hay que saber sobre habitaciones y micro-studios en Suiza",
+      "score": 735,
+      "postIndex": 665,
+      "textLength": 2431
+    },
+    {
+      "key": "fb-336-subalquilar-una-habitaci-n-en-suiza-lo-que-puedes-hacer-lo-que-no-y-el-ejemplo-que-nadie-explica",
+      "title": "Subalquilar una habitación en Suiza: lo que puedes hacer, lo que no, y el ejemplo que nadie explica",
+      "score": 735,
+      "postIndex": 721,
+      "textLength": 3052
+    },
+    {
+      "key": "fb-465-profesiones-con-obligaci-n-de-anuncio-en-2026-lo-que-dicen-realmente-las-listas-del-ravestas-tablas-est-n-circulando-bastante-as-que-intento-explica",
+      "title": "Estas tablas están circulando bastante así que intento explicarlo en claro.",
+      "score": 735,
+      "postIndex": 885,
+      "textLength": 3016
+    },
+    {
+      "key": "fb-470-existe-alguna-ley-en-suiza-que-obligue-a-separar-a-ni-os-de-sexos-opuestos-por-habitaciones",
+      "title": "¿Existe alguna ley en Suiza que obligue a separar a niños de sexos opuestos por habitaciones?",
+      "score": 735,
+      "postIndex": 890,
+      "textLength": 1968
+    },
+    {
+      "key": "fb-493-te-est-n-pagando-bien-las-noches-en-suiza-lo-que-la-ley-dice-y-lo-que-debes-saber",
+      "title": "¿TE ESTÁN PAGANDO BIEN LAS NOCHES EN SUIZA? LO QUE LA LEY DICE Y LO QUE DEBES SABER",
+      "score": 735,
+      "postIndex": 914,
+      "textLength": 4246
+    },
+    {
+      "key": "fb-501-por-qu-en-suiza-hay-que-declarar-el-oro-en-la-aduana-aunque-sea-solo-un-anillo",
+      "title": "Por qué en Suiza hay que declarar el oro en la aduana. Aunque sea “solo” un anillo.",
+      "score": 735,
+      "postIndex": 925,
+      "textLength": 1609
+    },
+    {
+      "key": "fb-014-nueva-propuesta-exige-que-los-hombres-no-suizos-paguen-un-impuesto-especial-de-defensa",
+      "title": "Nueva Propuesta Exige que los Hombres No Suizos Paguen un Impuesto Especial de Defensa",
+      "score": 735,
+      "postIndex": 15,
+      "textLength": 2615
+    },
+    {
+      "key": "fb-082-atenci-n-viajeros-los-cff-despliegan-la-orquesta-para-evitar-el-atasco-en-la-estaci-n-de-berna",
+      "title": "¡Atención, viajeros! Los CFF despliegan la orquesta para evitar el atasco en la estación de Berna",
+      "score": 735,
+      "postIndex": 125,
+      "textLength": 706
+    },
+    {
+      "key": "fb-113-cliquer-pour-la-vid-o-peak-walk-3000-una-experiencia-que-te-dejar-sin-aliento-literal-y-figurativamente",
+      "title": "Peak Walk 3000: una experiencia que te dejará sin aliento (literal y figurativamente)",
+      "score": 415,
+      "postIndex": 157,
+      "textLength": 1157
+    },
+    {
+      "key": "fb-129-multas-y-fiscalidad-cosas-que-en-suiza-no-se-perdonan-ni-aunque-digas-que-eres-nuevo",
+      "title": "Multas y fiscalidad: cosas que en Suiza no se perdonan (ni aunque digas que eres nuevo)",
+      "score": 735,
+      "postIndex": 221,
+      "textLength": 3439
+    },
+    {
+      "key": "fb-158-el-sentier-des-toblerones-el-paseo-suizo-con-forma-de-chocolate-pero-sin-az-car",
+      "title": "El Sentier des Toblerones: el paseo suizo con forma de chocolate… pero sin azúcar",
+      "score": 735,
+      "postIndex": 283,
+      "textLength": 1942
+    },
+    {
+      "key": "fb-161-pensando-en-montar-tu-empresa-en-suiza-aqu-lo-que-nadie-te-explica-del-todo-claro",
+      "title": "¿Pensando en montar tu empresa en Suiza? Aquí lo que nadie te explica del todo claro",
+      "score": 735,
+      "postIndex": 293,
+      "textLength": 2599
+    },
+    {
+      "key": "fb-170-trump-amenaza-con-aranceles-a-suiza-otra-vez-y-en-berna-se-hacen-los-sorprendidos",
+      "title": "Trump amenaza con aranceles a Suiza (otra vez) y en Berna se hacen los sorprendidos",
+      "score": 735,
+      "postIndex": 323,
+      "textLength": 1718
+    },
+    {
+      "key": "fb-174-abrir-una-cuenta-bancaria-en-suiza-antes-de-llegar-buena-suerte-con-eso",
+      "title": "¿Abrir una cuenta bancaria en Suiza antes de llegar? Buena suerte con eso.",
+      "score": 735,
+      "postIndex": 338,
+      "textLength": 2977
+    },
+    {
+      "key": "fb-249-d-nde-pedir-ayuda-real-en-suiza-este-invierno-por-cantones-y-con-enlaces",
+      "title": "Dónde pedir ayuda real en Suiza este invierno (por cantones y con enlaces)",
+      "score": 735,
+      "postIndex": 593,
+      "textLength": 5930
+    },
+    {
+      "key": "fb-290-birsfelden-y-sus-20-000-multas-por-atajos-el-nuevo-radar-del-siglo-xxi",
+      "title": "Birsfelden y sus 20. 000 multas por “atajos”: el nuevo radar del siglo XXI",
+      "score": 735,
+      "postIndex": 656,
+      "textLength": 1612
+    },
+    {
+      "key": "fb-296-150-a-os-del-tribunal-supremo-federal-de-suiza-el-rbitro-final-de-la-justicia-helv-tica",
+      "title": "150 años del Tribunal Supremo Federal de Suiza: el árbitro final de la justicia helvética",
+      "score": 735,
+      "postIndex": 664,
+      "textLength": 1635
+    },
+    {
+      "key": "fb-328-betty-bossi-la-ama-de-casa-suiza-que-nunca-existi-y-ahora-tiene-pel-cula",
+      "title": "Betty Bossi: la ama de casa suiza que nunca existió (y ahora tiene película)",
+      "score": 735,
+      "postIndex": 711,
+      "textLength": 1926
+    },
+    {
+      "key": "fb-339-muchos-emigrantes-dicen-que-suiza-era-mejor-antes-a-ver-si-nos-entendemos",
+      "title": "Muchos emigrantes dicen que Suiza era mejor antes. . . A ver si nos entendemos!",
+      "score": 735,
+      "postIndex": 726,
+      "textLength": 1973
+    },
+    {
+      "key": "fb-343-saturaci-n-del-empleo-en-las-grandes-ciudades-suizas-lo-que-no-te-cuentan-las-webs",
+      "title": "Saturación del empleo en las grandes ciudades suizas: lo que no te cuentan las webs",
+      "score": 735,
+      "postIndex": 731,
+      "textLength": 951
+    },
+    {
+      "key": "fb-366-china-se-retira-del-cepc-y-curiosamente-eso-da-alas-al-proyecto-fcc-del-cern",
+      "title": "China se retira del CEPC… y, curiosamente, eso da alas al proyecto FCC del CERN",
+      "score": 735,
+      "postIndex": 769,
+      "textLength": 1588
+    },
+    {
+      "key": "fb-390-otra-para-la-lista-de-cosas-que-en-suiza-funcionan-hasta-que-dejan-de-funcionar",
+      "title": "Otra para la lista de cosas que en Suiza funcionan… hasta que dejan de funcionar.",
+      "score": 735,
+      "postIndex": 802,
+      "textLength": 1720
+    },
+    {
+      "key": "fb-394-subalquiler-de-habitaci-n-o-piso-en-suiza-lo-que-conviene-dejar-claro-desde-el-primer-d-a",
+      "title": "Subalquiler de habitación o piso en Suiza: lo que conviene dejar claro desde el primer día",
+      "score": 735,
+      "postIndex": 806,
+      "textLength": 3520
+    },
+    {
+      "key": "fb-395-alguna-vez-un-viaje-de-vuelta-a-casa-te-ha-hecho-valorar-suiza-m-s-de-lo-que-esperabas",
+      "title": "¿Alguna vez un viaje de vuelta a casa te ha hecho valorar Suiza más de lo que esperabas?",
+      "score": 735,
+      "postIndex": 807,
+      "textLength": 644
+    },
+    {
+      "key": "fb-399-vivir-en-suiza-sin-trabajar-lo-que-muchos-no-quieren-o-r-pero-conviene-saber",
+      "title": "Vivir en Suiza sin trabajar: lo que muchos no quieren oír (pero conviene saber)",
+      "score": 735,
+      "postIndex": 811,
+      "textLength": 2171
+    },
+    {
+      "key": "fb-414-crans-montana-y-los-faiseurs-de-secret-tradici-n-suiza-que-muchos-descubren-ahora",
+      "title": "Crans-Montana y los Faiseurs de Secret. Tradición suiza que muchos descubren ahora",
+      "score": 735,
+      "postIndex": 829,
+      "textLength": 2104
+    },
+    {
+      "key": "fb-424-c-mo-funcionan-los-tranv-as-y-autobuses-en-suiza-y-por-qu-aqu-no-conviene-improvisar",
+      "title": "Cómo funcionan los tranvías y autobuses en Suiza y por qué aquí no conviene improvisar",
+      "score": 735,
+      "postIndex": 840,
+      "textLength": 1546
+    },
+    {
+      "key": "fb-429-el-control-t-cnico-del-coche-en-suiza-lo-que-conviene-saber-antes-de-llevarse-un-susto",
+      "title": "El control técnico del coche en Suiza. Lo que conviene saber antes de llevarse un susto",
+      "score": 735,
+      "postIndex": 845,
+      "textLength": 2468
+    },
+    {
+      "key": "fb-478-valais-votar-para-limitar-las-primas-del-seguro-m-dico-y-no-no-es-ciencia-ficci-n",
+      "title": "Valais votará para limitar las primas del seguro médico. Y no, no es ciencia ficción.",
+      "score": 735,
+      "postIndex": 898,
+      "textLength": 1445
+    },
+    {
+      "key": "fb-480-comprar-una-vivienda-en-suiza-posible-caro-y-pensado-para-toda-una-vida",
+      "title": "Comprar una vivienda en Suiza: posible, caro y pensado para toda una vida",
+      "score": 735,
+      "postIndex": 900,
+      "textLength": 3431
+    },
+    {
+      "key": "fb-552-lindt-condenado-en-francia-por-usar-los-campos-el-seos-en-una-publicidad-y-no-no-va-de-chocolate",
+      "title": "Lindt condenado en Francia por usar los Campos Elíseos en una publicidad. Y no, no va de chocolate.",
+      "score": 735,
+      "postIndex": 990,
+      "textLength": 1525
+    },
+    {
+      "key": "fb-555-suiza-y-la-ue-firman-nuevos-acuerdos-bilaterales-lo-que-cambia-y-por-qu-muchos-se-oponen",
+      "title": "Suiza y la UE firman nuevos acuerdos bilaterales. Lo que cambia… y por qué muchos se oponen",
+      "score": 735,
+      "postIndex": 994,
+      "textLength": 3814
+    },
+    {
+      "key": "fb-562-el-franco-suizo-est-m-s-fuerte-que-nunca-y-no-todo-son-buenas-noticias",
+      "title": "El franco suizo está más fuerte que nunca… y no todo son buenas noticias",
+      "score": 735,
+      "postIndex": 1002,
+      "textLength": 2514
+    },
+    {
+      "key": "fb-571-suiza-ese-pa-s-que-no-tiene-capital-aunque-todo-el-mundo-crea-que-s",
+      "title": "Suiza, ese país que no tiene capital (aunque todo el mundo crea que sí)",
+      "score": 735,
+      "postIndex": 1013,
+      "textLength": 1418
+    },
+    {
+      "key": "fb-575-gasolina-en-suiza-cuando-los-frontaliers-vienen-a-repostar-pero-por-poco-tiempo",
+      "title": "Gasolina en Suiza: cuando los frontaliers vienen a repostar… pero por poco tiempo",
+      "score": 735,
+      "postIndex": 1017,
+      "textLength": 1584
+    },
+    {
+      "key": "fb-133-siete-inventos-suizos-que-usamos-sin-saber-que-eran-suizos",
+      "title": "Siete inventos suizos que usamos sin saber que eran suizos",
+      "score": 713,
+      "postIndex": 228,
+      "textLength": 2431
+    },
+    {
+      "key": "fb-147-subid-n-suizo-los-11-674-escalones-que-casi-nadie-se-atreve-a-subir",
+      "title": "Subidón suizo: los 11. 674 escalones que (casi) nadie se atreve a subir",
+      "score": 735,
+      "postIndex": 243,
+      "textLength": 1411
+    },
+    {
+      "key": "fb-149-z-rich-tambi-n-tiene-sus-cosas-y-no-no-todo-son-bancos-ni-relojes-caros",
+      "title": "Zúrich también tiene sus cosas… y no, no todo son bancos ni relojes caros",
+      "score": 735,
+      "postIndex": 249,
+      "textLength": 1745
+    },
+    {
+      "key": "fb-162-jubilarse-en-espa-a-despu-s-de-una-vida-en-suiza-derecho-ganado-o-etiqueta-de-listillo",
+      "title": "Jubilarse en España después de una vida en Suiza: ¿derecho ganado o etiqueta de “listillo”?",
+      "score": 735,
+      "postIndex": 297,
+      "textLength": 2198
+    },
+    {
+      "key": "fb-163-volver-a-espa-a-desde-suiza-la-larga-lista-de-cosas-que-no-puedes-olvidar",
+      "title": "Volver a España desde Suiza: la (larga) lista de cosas que no puedes olvidar",
+      "score": 735,
+      "postIndex": 303,
+      "textLength": 4197
+    },
+    {
+      "key": "fb-173-est-s-en-suiza-el-9-de-agosto-pues-ya-tienes-plan-street-parade-2025-en-z-rich",
+      "title": "¿Estás en Suiza el 9 de agosto? Pues ya tienes plan: Street Parade 2025 en Zúrich.",
+      "score": 735,
+      "postIndex": 335,
+      "textLength": 1186
+    },
+    {
+      "key": "fb-193-impuestos-por-pasaporte-el-experimento-franc-s-y-lo-que-podr-a-significar-para-espa",
+      "title": "¿Impuestos por pasaporte? El experimento francés y lo que podría significar para Espa",
+      "score": 735,
+      "postIndex": 411,
+      "textLength": 1935
+    },
+    {
+      "key": "fb-202-democracia-directa-cuatro-veces-al-a-o-los-suizos-deciden-y-los-extranjeros",
+      "title": "Democracia directa: cuatro veces al año los suizos deciden (y los extranjeros)",
+      "score": 724,
+      "postIndex": 434,
+      "textLength": 1649
+    },
+    {
+      "key": "fb-218-vivir-con-4-500-chf-brutos-al-mes-en-z-rich-o-ginebra-es-posible-ahorrar",
+      "title": "Vivir con 4. 500 CHF brutos al mes en Zúrich o Ginebra: ¿es posible ahorrar?",
+      "score": 735,
+      "postIndex": 470,
+      "textLength": 1557
+    },
+    {
+      "key": "fb-228-suiza-l-der-mundial-en-talento-y-a-n-dicen-que-su-sistema-educativo-es-obsoleto",
+      "title": "Suiza, líder mundial en talento… ¿y aún dicen que su sistema educativo es obsoleto?",
+      "score": 735,
+      "postIndex": 552,
+      "textLength": 1136
+    },
+    {
+      "key": "fb-257-los-derechos-de-las-mujeres-en-suiza-un-camino-tard-o-pero-a-paso-firme",
+      "title": "Los derechos de las mujeres en Suiza: un camino tardío, pero a paso firme",
+      "score": 735,
+      "postIndex": 608,
+      "textLength": 1963
+    },
+    {
+      "key": "fb-268-recordatorio-para-todos-los-que-publican-anuncios-de-alquiler-de-habitaci-n-en-el-grupo-para-mantener-el-orden-y-evitar-malentendidos-las-publicacion",
+      "title": "Para mantener el orden y evitar malentendidos, las publicaciones deben incluir siempre estos tres puntos básicos:",
+      "score": 735,
+      "postIndex": 626,
+      "textLength": 722
+    },
+    {
+      "key": "fb-282-cliquer-pour-la-vid-o-the-vortex-race",
+      "title": "Lausana tiene una carrera que no se parece a ninguna otra: la Vortex Race.",
+      "score": 231,
+      "postIndex": 648,
+      "textLength": 1101
+    },
+    {
+      "key": "fb-283-certificado-m-dico-desde-el-primer-d-a-la-nueva-moda-en-las-empresas-suizas",
+      "title": "Certificado médico desde el primer día: la nueva moda en las empresas suizas",
+      "score": 735,
+      "postIndex": 649,
+      "textLength": 1612
+    },
+    {
+      "key": "fb-298-las-amendes-d-ordre-las-multas-expr-s-que-ves-o-sufrir-s-en-suiza",
+      "title": "Las “amendes d’ordre”: las multas exprés que ves (o sufrirás) en Suiza",
+      "score": 724,
+      "postIndex": 666,
+      "textLength": 2057
+    },
+    {
+      "key": "fb-308-d-as-libres-especiales-en-suiza-boda-nacimiento-mudanza-qu-dice-la-ley",
+      "title": "Días libres especiales en Suiza: boda, nacimiento, mudanza… ¿qué dice la ley?",
+      "score": 735,
+      "postIndex": 680,
+      "textLength": 1984
+    },
+    {
+      "key": "fb-319-suiza-votar-si-sustituir-el-servicio-militar-por-un-servicio-c-vico-para-todos",
+      "title": "Suiza votará si sustituir el servicio militar por un servicio cívico para todos",
+      "score": 724,
+      "postIndex": 697,
+      "textLength": 764
+    },
+    {
+      "key": "fb-340-los-extranjeros-en-suiza-tiles-y-mucho-m-s-de-lo-que-algunos-quieren-admitir",
+      "title": "Los extranjeros en Suiza: útiles… y mucho más de lo que algunos quieren admitir",
+      "score": 735,
+      "postIndex": 727,
+      "textLength": 2433
+    }
+  ]
 }
