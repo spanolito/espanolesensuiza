@@ -1880,8 +1880,8 @@ document.addEventListener("DOMContentLoaded", () => {
                     if (term) {
                         updateSearch();
                     } else {
-                        // If no term, just refresh the homepage feed below
-                        injectHomepageLatestArticles(sortSelect.value || 'recientes');
+                        // If no term, keep the homepage "latest articles" block strictly chronological.
+                        injectHomepageLatestArticles('recientes');
                     }
                 });
             }
@@ -2265,11 +2265,34 @@ document.addEventListener("DOMContentLoaded", () => {
         const hubArticles = Array.from(bySlug.values())
             .sort(getArticleSortComparator('recientes'));
 
+        const featuredHubArticles = Array.from(bySlug.values())
+            .sort((a, b) => {
+                const scoreDiff = scoreGuideCandidateForSort(b) - scoreGuideCandidateForSort(a);
+                if (scoreDiff !== 0) return scoreDiff;
+                const recA = articleRecencyScore(a);
+                const recB = articleRecencyScore(b);
+                if (recB.timestamp !== recA.timestamp) return recB.timestamp - recA.timestamp;
+                if (recB.fbIndex !== recA.fbIndex) return recB.fbIndex - recA.fbIndex;
+                return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
+            })
+            .slice(0, 3);
+
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
         if (hubArticles.length > 0) {
             container.innerHTML = `
-                <div class="featured-grid">
-                    ${hubArticles.map(r => renderCard(r, ui)).join('')}
+                ${featuredHubArticles.length > 0 ? `
+                    <div style="margin-bottom: 2.25rem;">
+                        <h3 style="margin-bottom: 1rem;">${ui['home-title-featured']}</h3>
+                        <div class="featured-grid">
+                            ${featuredHubArticles.map(r => renderCard(r, ui)).join('')}
+                        </div>
+                    </div>
+                ` : ''}
+                <div>
+                    <h3 style="margin-bottom: 1rem;">${ui['home-title-latest'] || ui['sort-recent'] || 'Más recientes'}</h3>
+                    <div class="featured-grid">
+                        ${hubArticles.map(r => renderCard(r, ui)).join('')}
+                    </div>
                 </div>
             `;
         } else {
@@ -3272,7 +3295,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (routeKey === "home") {
                     injectHomepageFeatured();
                     const homeSortSelect = document.getElementById("global-search-sort");
-                    injectHomepageLatestArticles(homeSortSelect ? homeSortSelect.value : "recientes");
+                    injectHomepageLatestArticles("recientes");
                 }
             }
 
