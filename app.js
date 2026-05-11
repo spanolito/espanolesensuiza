@@ -2263,26 +2263,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         const hubArticles = Array.from(bySlug.values())
-            .sort((a, b) => {
-                const getRank = (art) => {
-                    const hasImg = !!art.image || !!art.featuredImage;
-                    const isFb = String(art.id || "").startsWith("fb-") || !!art.facebookUrl;
-                    const rt = Number(art.readingTime) || 0;
-                    const contentLen = art.content ? String(art.content).length : 0;
-                    const isRich = rt >= 5 || contentLen > 3000;
-                    if (!isFb && hasImg && isRich) return 4;
-                    if (!isFb && hasImg) return 3;
-                    if (!isFb) return 2;
-                    return 1;
-                };
-                const rankA = getRank(a);
-                const rankB = getRank(b);
-                if (rankA !== rankB) return rankB - rankA;
-                const richA = (Number(a.readingTime) || 0) * 1000 + (a.content ? String(a.content).length : 0);
-                const richB = (Number(b.readingTime) || 0) * 1000 + (b.content ? String(b.content).length : 0);
-                if (richA !== richB) return richB - richA;
-                return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
-            });
+            .sort(getArticleSortComparator('recientes'));
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
         if (hubArticles.length > 0) {
@@ -3184,6 +3165,10 @@ document.addEventListener("DOMContentLoaded", () => {
                             if (currentIsFb) return aIsFb ? 1 : -1;
                             return aIsFb ? -1 : 1;
                         }
+                        const recA = articleRecencyScore({ id: a, ...langArticles[a] });
+                        const recB = articleRecencyScore({ id: b, ...langArticles[b] });
+                        if (recB.timestamp !== recA.timestamp) return recB.timestamp - recA.timestamp;
+                        if (recB.fbIndex !== recA.fbIndex) return recB.fbIndex - recA.fbIndex;
                         return String(langArticles[a].title || "").localeCompare(String(langArticles[b].title || ""), undefined, { sensitivity: "base" });
                     })
                     .slice(0, 3);
