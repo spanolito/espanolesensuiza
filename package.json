@@ -5,6 +5,7 @@
     "check:i18n-sync": "node check_i18n_sync.js",
     "sync:i18n": "node sync_i18n_from_es.js",
     "audit:hubs": "node tools/audit_hubs.js --write --report artifacts/hub-audit-report.md",
+    "import:facebook-archive-es": "node tools/import_facebook_archive_es.js",
     "import:daily-posts": "node tools/import_daily_posts.js",
     "import:daily-posts:fast": "node tools/import_daily_posts.js --no-translate",
     "import:daily-posts:auto": "node tools/import_daily_posts.js --no-translate --changed-only --report docs/daily-posts-classification.json",

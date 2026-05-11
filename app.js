@@ -2140,6 +2140,34 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
+    function isArchivedFacebookPlaceholder(article) {
+        const content = article && article.content ? String(article.content) : "";
+        return content.includes("Nota del archivo:") && content.length < 400;
+    }
+
+    function withSpanishContentFallback(pageData, routeKey) {
+        if (currentLang === "es" || !pageData || !routeKey) return pageData;
+
+        const esArticles = window.siteContent.es && window.siteContent.es.articles;
+        const esArticle = esArticles && esArticles[routeKey];
+        if (!esArticle) return pageData;
+        if (!isArchivedFacebookPlaceholder(pageData)) return pageData;
+        if (isArchivedFacebookPlaceholder(esArticle)) return pageData;
+
+        return {
+            ...esArticle,
+            ...pageData,
+            content: esArticle.content,
+            summary: esArticle.summary || pageData.summary,
+            readingTime: esArticle.readingTime || pageData.readingTime,
+            featuredImage: esArticle.featuredImage || pageData.featuredImage,
+            supportingImages: Array.isArray(pageData.supportingImages) && pageData.supportingImages.length
+                ? pageData.supportingImages
+                : esArticle.supportingImages,
+            imageAlt: pageData.imageAlt || esArticle.imageAlt,
+        };
+    }
+
     /**
      * Inject Articles into Category Hub Pages
      */
@@ -3046,7 +3074,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
         setTimeout(() => {
             const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
-            const hubForNav = isArticle ? (pageData && pageData.hub) : null;
+            const effectivePageData = isArticle ? withSpanishContentFallback(pageData, routeKey) : pageData;
+            const hubForNav = isArticle ? (effectivePageData && effectivePageData.hub) : null;
 
             if (isArticle) {
                 const langArticles = langData.articles || {};
@@ -3060,9 +3089,10 @@ document.addEventListener("DOMContentLoaded", () => {
                     return null;
                 };
 
-                const explicitRelated = Array.isArray(pageData.relatedSlugs) ? pageData.relatedSlugs : [];
+                const articlePageData = effectivePageData || pageData;
+                const explicitRelated = Array.isArray(articlePageData.relatedSlugs) ? articlePageData.relatedSlugs : [];
                 const explicitRelatedItems = explicitRelated
-                    .filter(s => s && s !== pageData.slug)
+                    .filter(s => s && s !== articlePageData.slug)
                     .map(resolveBySlug)
                     .filter(Boolean)
                     .slice(0, 6);
@@ -3080,7 +3110,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 // Find Related Guides
                 const relatedKeys = Object.keys(langArticles)
-                    .filter(k => k !== routeKey && langArticles[k].hub === pageData.hub)
+                    .filter(k => k !== routeKey && langArticles[k].hub === articlePageData.hub)
                     .sort((a, b) => {
                         const currentIsFb = String(routeKey || "").startsWith("fb-");
                         const aIsFb = String(a).startsWith("fb-");
@@ -3097,28 +3127,28 @@ document.addEventListener("DOMContentLoaded", () => {
                 let relatedHTML = '';
                 if (relatedKeys.length > 0) {
                     relatedHTML = `
-                        <div class="related-articles-footer" style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border-light);">
-                            <h3>${ui['lbl-explore']} ${pageData.category || pageData.hub}</h3>
+                            <div class="related-articles-footer" style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border-light);">
+                            <h3>${ui['lbl-explore']} ${articlePageData.category || articlePageData.hub}</h3>
                             <div class="featured-grid" style="margin-top: 2rem; margin-bottom: 2rem;">
                                 ${relatedKeys.map(k => {
                         const r = langData.articles[k];
                         return renderCard({ ...r, id: k }, ui, { compact: false });
                     }).join('')}
                             </div>
-                            <a href="#/${pageData.hub}" class="btn btn-secondary" style="width: 100%;">${ui['btn-view-all']}</a>
+                            <a href="#/${articlePageData.hub}" class="btn btn-secondary" style="width: 100%;">${ui['btn-view-all']}</a>
                         </div>
                     `;
                 } else {
                     relatedHTML = `
                         <div class="related-articles-footer" style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border-light);">
                             <h3>${ui['lbl-explore-other']}</h3>
-                            <a href="#/${pageData.hub}" class="btn btn-secondary" style="margin-top: 1rem;">${ui['btn-view-section']}</a>
+                            <a href="#/${articlePageData.hub}" class="btn btn-secondary" style="margin-top: 1rem;">${ui['btn-view-section']}</a>
                         </div>
                     `;
                 }
 
                 // Wrap article in editorial components
-                const readingTime = pageData.readingTime || Math.max(1, Math.ceil(pageData.content.split(' ').length / 200));
+                const readingTime = articlePageData.readingTime || Math.max(1, Math.ceil(articlePageData.content.split(' ').length / 200));
                 progressBarContainer.style.display = "block";
                 readingProgressBar.style.width = "0%";
 
@@ -3126,39 +3156,39 @@ document.addEventListener("DOMContentLoaded", () => {
 	                    <div class="article-layout fade-in-up">
 	                        <main>
 	                            <article>
-	                                <div class="article-header">
+                                <div class="article-header">
                                     <nav class="breadcrumbs">
                                         <a href="#/">${ui['nav-inicio']}</a> >
-                                        <a href="#/${pageData.hub || ''}">${pageData.category || ui['lbl-guides']}</a> >
-                                        <span>${stripMarkdown(pageData.title)}</span>
+                                        <a href="#/${articlePageData.hub || ''}">${articlePageData.category || ui['lbl-guides']}</a> >
+                                        <span>${stripMarkdown(articlePageData.title)}</span>
                                     </nav>
-                                    <h1>${stripMarkdown(pageData.title)}</h1>
+                                    <h1>${stripMarkdown(articlePageData.title)}</h1>
 	                                    <div class="article-meta">
 	                                        <span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> ${readingTime} ${ui['lbl-read-time']}</span>
-                                            ${pageData.dateUpdated ? `<span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> ${ui['lbl-updated']} ${getDynamicDate(currentLang)}</span>` : ''}
+                                            ${articlePageData.dateUpdated ? `<span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> ${ui['lbl-updated']} ${getDynamicDate(currentLang)}</span>` : ''}
 	                                    </div>
 	                                </div>
 
-                                    ${renderArticleHeroHTML(pageData, routeKey)}
+                                    ${renderArticleHeroHTML(articlePageData, routeKey)}
                                     
-                                    ${pageData.facebookUrl ? `
+                                    ${articlePageData.facebookUrl ? `
                                     <div style="margin: 1.5rem 0;">
-                                        <a href="${resolveFacebookUrl(pageData)}" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #1877F2; border-color: #1877F2; color: white;">
+                                        <a href="${resolveFacebookUrl(articlePageData)}" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #1877F2; border-color: #1877F2; color: white;">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
                                                 <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.469h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.469h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
                                             </svg>
-                                            ${pageData.isFbSearch ? 'Buscar fragmento en grupo de Facebook' : 'Ver publicación original en Facebook'}
+                                            ${articlePageData.isFbSearch ? 'Buscar fragmento en grupo de Facebook' : 'Ver publicación original en Facebook'}
                                         </a>
                                     </div>` : ''}
 	                                
-	                                ${pageData.summary ? `
+	                                ${articlePageData.summary ? `
 	                                <div class="box-summary">
 	                                    <h4>${ui['lbl-summary']}</h4>
-	                                    <p>${pageData.summary}</p>
+	                                    <p>${articlePageData.summary}</p>
 	                                </div>` : ''}
 
 	                                ${explicitRelatedHTML}
-	                                <div class="article-body">${pageData.content}</div>
+	                                <div class="article-body">${articlePageData.content}</div>
 	                            </article>
 	                            
 	                            ${relatedHTML}
@@ -3168,7 +3198,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             <div class="toc">
                                 <h4>${ui['lbl-nav-sidebar']}</h4>
                                 <ul>
-                                    <li><a href="#/${pageData.hub}">&larr; ${ui['lbl-back']} ${pageData.category || ui['lbl-section']}</a></li>
+                                    <li><a href="#/${articlePageData.hub}">&larr; ${ui['lbl-back']} ${articlePageData.category || ui['lbl-section']}</a></li>
                                     <!-- Extracted dynamically or hardcoded in content -->
                                     <li style="margin-top:1rem; padding-top:1rem; border-top:1px solid var(--border-light);"><a href="#app-container">${ui['lbl-back-top']}</a></li>
                                 </ul>
@@ -3177,7 +3207,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     </div>
 	                `;
 
-                postProcessArticleDOM(appContainer.querySelector("article"), pageData, routeKey);
+                postProcessArticleDOM(appContainer.querySelector("article"), articlePageData, routeKey);
             } else {
                 progressBarContainer.style.display = "none";
                 appContainer.innerHTML = `<div class="fade-in-up">${pageData.content}</div>`;

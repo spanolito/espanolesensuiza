@@ -1,0 +1,373 @@
+{
+  "sourceHtml": "/Users/oscarandujar/Projets/Facebook/facebook-oscarspanolito-12_03_2026-4laUDL4R/your_facebook_activity/groups/group_posts_and_comments.html",
+  "contentFile": "/Users/oscarandujar/Projets/espanolesensuiza/content-articles.js",
+  "stats": {
+    "archivePostsParsed": 575,
+    "placeholdersFound": 59,
+    "matchedCandidates": 29,
+    "imported": 0,
+    "skipped": 29,
+    "unmatched": 30,
+    "touched": 0,
+    "wrote": false
+  },
+  "skipped": [
+    {
+      "key": "fb-246-cliquer-pour-la-vid-o-uno-de-los-nicos-de-tiktok-que-dice-las-verdades-como-son-uno-de-los-nicos-de-tiktok-que-dice-las-verdades-como-son",
+      "reason": "short-text",
+      "score": 153,
+      "textLength": 23
+    },
+    {
+      "key": "fb-556-cliquer-pour-la-vid-o-est-ma-ana-vengo-con-un-v-deo-que-espero-escuchen-bien-est-ma-ana-vengo-con-un-v-deo-que-espero-escuchen-bien",
+      "reason": "short-text",
+      "score": 153,
+      "textLength": 23
+    },
+    {
+      "key": "fb-012-ginebra-en-los-a-os-aqu-se-puede-apreciar-el-puente-del-mont-blanc-ginebra-en-los-a-os-aqu-se-puede-apreciar-el-puente-del-mont-blanc",
+      "reason": "short-text",
+      "score": 255,
+      "textLength": 68
+    },
+    {
+      "key": "fb-120-buenas-busco-un-transportista-de-ginebra-a-barcelona-para-llevar-una-moto-para-finales-de-julio-2025-precio-razonalbe-sin-tener-que-dar-un-ri-on",
+      "reason": "short-text",
+      "score": 223,
+      "textLength": 149
+    },
+    {
+      "key": "fb-428-cliquer-pour-la-vid-o-cuando-estoy-estresado-por-trabajar-en-suiza-entonces-recuerdo-para-qui-n-estoy-trabajando-cuando-estoy-estresado-por-traba",
+      "reason": "short-text",
+      "score": 153,
+      "textLength": 23
+    },
+    {
+      "key": "fb-013-y-aqu-va-zurich-dir-a-que-es-la-ciudad-m-s-grande-y-m-s-desarrollada-de-suiza-y-aqu-va-zurich-dir-a-que-es-la-ciudad-m-s-grande-y-m-s-desarro",
+      "reason": "short-text",
+      "score": 244,
+      "textLength": 82
+    },
+    {
+      "key": "fb-118-cliquer-pour-la-vid-o-son-pocos-los-que-dicen-la-dura-realidad-de-emigrar-a-suiza-sacrificios-esfuerzos-y-trabaj-que-no-te-enga-en-son-pocos-l",
+      "reason": "short-text",
+      "score": 153,
+      "textLength": 23
+    },
+    {
+      "key": "fb-018-berna-un-puente-entre-siglos-uniendo-generaciones-con-su-belleza-atemporal-berna-un-puente-entre-siglos-uniendo-generaciones-con-su-belleza-atemp",
+      "reason": "short-text",
+      "score": 244,
+      "textLength": 77
+    },
+    {
+      "key": "fb-565-cliquer-pour-la-vid-o-no-olviden-aprender-frases-importantes-en-suizo-aleman-no-olviden-aprender-frases-importantes-en-suizo-aleman",
+      "reason": "short-text",
+      "score": 124,
+      "textLength": 85
+    },
+    {
+      "key": "fb-040-cliquer-pour-la-vid-o-bonito-gesto-hacia-carolina-y-espa-a-bonito-gesto-hacia-carolina-y-espa-a",
+      "reason": "short-text",
+      "score": 113,
+      "textLength": 62
+    },
+    {
+      "key": "fb-048-cliquer-pour-la-vid-o-el-final-de-los-fuegos-de-las-fiestas-en-ge-el-final-de-los-fuegos-de-las-fiestas-en-ge",
+      "reason": "short-text",
+      "score": 113,
+      "textLength": 69
+    },
+    {
+      "key": "fb-446-cliquer-pour-la-vid-o-requisitos-para-obtener-el-permiso-de-residencia-requisitos-para-obtener-el-permiso-de-residencia",
+      "reason": "short-text",
+      "score": 113,
+      "textLength": 73
+    },
+    {
+      "key": "fb-165-solo-comparto-anuncio-visto-en-otro-grupo-solo-comparto-anuncio-visto-en-otro-grupo",
+      "reason": "short-text",
+      "score": 211,
+      "textLength": 42
+    },
+    {
+      "key": "fb-227-solo-comparto-contactar-directamente-con-diana-solo-comparto-contactar-directamente-con-diana",
+      "reason": "short-text",
+      "score": 211,
+      "textLength": 49
+    },
+    {
+      "key": "fb-075-solo-comparto-buscan-camarera-60-en-ginebra-solo-comparto-buscan-camarera-60-en-ginebra",
+      "reason": "short-text",
+      "score": 200,
+      "textLength": 48
+    },
+    {
+      "key": "fb-212-cliquer-pour-la-vid-o-bon-je-ne-genevois-bon-je-ne-genevois",
+      "reason": "short-text",
+      "score": 91,
+      "textLength": 44
+    },
+    {
+      "key": "fb-434-cliquer-pour-la-vid-o-atentos-a-esta-estafa-atentos-a-esta-estafa",
+      "reason": "short-text",
+      "score": 91,
+      "textLength": 51
+    },
+    {
+      "key": "fb-083-solo-comparto-contacto-en-el-anuncio-solo-comparto-contacto-en-el-anuncio",
+      "reason": "short-text",
+      "score": 189,
+      "textLength": 38
+    },
+    {
+      "key": "fb-230-solo-comparto-contactar-directamente-con-la-persona-del-anuncio",
+      "reason": "short-text",
+      "score": 713,
+      "textLength": 111
+    },
+    {
+      "key": "fb-031-para-que-quieran-ver-zurich-en-3d-y-durante-su-evolucion",
+      "reason": "short-text",
+      "score": 702,
+      "textLength": 104
+    },
+    {
+      "key": "fb-061-cliquer-pour-la-vid-o-que-opinan-que-opinan",
+      "reason": "short-text",
+      "score": 80,
+      "textLength": 37
+    },
+    {
+      "key": "fb-092-solo-comparto-est-oferta-vista-en-otro-grupo",
+      "reason": "short-text",
+      "score": 702,
+      "textLength": 46
+    },
+    {
+      "key": "fb-235-cliquer-pour-la-vid-o-como-no-enamorase-como-no-enamorase",
+      "reason": "short-text",
+      "score": 80,
+      "textLength": 43
+    },
+    {
+      "key": "fb-417-cliquer-pour-la-vid-o-expectativas-vs-realidad-expectativas-vs-realidad",
+      "reason": "short-text",
+      "score": 80,
+      "textLength": 48
+    },
+    {
+      "key": "fb-496-cliquer-pour-la-vid-o-arrrghhhh-el-alem-n-arrrghhhh-el-alem-n",
+      "reason": "short-text",
+      "score": 80,
+      "textLength": 51
+    },
+    {
+      "key": "fb-233-cliquer-pour-la-vid-o-noticias-de-antoni-no-soy-yo",
+      "reason": "short-text",
+      "score": 91,
+      "textLength": 103
+    },
+    {
+      "key": "fb-207-cliquer-pour-la-vid-o-en-mi-lista-de-to-do-it-en-mi-lista-de-to-do-it",
+      "reason": "short-text",
+      "score": 69,
+      "textLength": 49
+    },
+    {
+      "key": "fb-487-cliquer-pour-la-vid-o-a-meditar-a-meditar",
+      "reason": "short-text",
+      "score": 69,
+      "textLength": 34
+    },
+    {
+      "key": "fb-359-ginebra-anoche-ginebra-anoche",
+      "reason": "short-text",
+      "score": 167,
+      "textLength": 15
+    }
+  ],
+  "unmatched": [
+    {
+      "key": "fb-001-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe",
+      "title": "Devolver compras en Suiza: lo que si y lo que no existe",
+      "dateUpdated": "avr 15, 2026",
+      "normalizedTitle": "devolver compras en suiza: lo que si y lo que no existe"
+    },
+    {
+      "key": "fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe",
+      "title": "\"Permiso de trabajo\" en Suiza: el termino que no existe",
+      "dateUpdated": "avr 11, 2026",
+      "normalizedTitle": "permiso de trabajo en suiza: el termino que no existe"
+    },
+    {
+      "key": "fb-002-circular-en-bicicleta-en-suiza-parece-sencillo",
+      "title": "Circular en bicicleta en Suiza parece sencillo...",
+      "dateUpdated": "avr 13, 2026",
+      "normalizedTitle": "circular en bicicleta en suiza parece sencillo..."
+    },
+    {
+      "key": "fb-003-el-permiso-a-en-suiza-trabajar-si-vivir-no",
+      "title": "El permiso A en Suiza: trabajar si, vivir no",
+      "dateUpdated": "avr 11, 2026",
+      "normalizedTitle": "el permiso a en suiza: trabajar si, vivir no"
+    },
+    {
+      "key": "fb-383-solo-comparto-solo-comparto",
+      "title": "Publicación compartida de Facebook 383",
+      "dateUpdated": "déc 19, 2025 11:05:44 am",
+      "normalizedTitle": "publicacion compartida de facebook 383"
+    },
+    {
+      "key": "fb-407-solo-comparto-solo-comparto",
+      "title": "Publicación compartida de Facebook 407",
+      "dateUpdated": "déc 29, 2025 9:00:05 pm",
+      "normalizedTitle": "publicacion compartida de facebook 407"
+    },
+    {
+      "key": "fb-485-solo-comparto",
+      "title": "Publicación compartida de Facebook 485",
+      "dateUpdated": "jan 24, 2026 11:44:02 am",
+      "normalizedTitle": "publicacion compartida de facebook 485"
+    },
+    {
+      "key": "fb-535-solo-comparto",
+      "title": "Publicación compartida de Facebook 535",
+      "dateUpdated": "fév 10, 2026 10:50:01 am",
+      "normalizedTitle": "publicacion compartida de facebook 535"
+    },
+    {
+      "key": "fb-538-solo-comparto-solo-comparto",
+      "title": "Publicación compartida de Facebook 538",
+      "dateUpdated": "fév 10, 2026 9:30:40 pm",
+      "normalizedTitle": "publicacion compartida de facebook 538"
+    },
+    {
+      "key": "fb-090-cliquer-pour-la-vid-o",
+      "title": "Vídeo de Facebook 090",
+      "dateUpdated": "oct 20, 2024 10:35:33 am",
+      "normalizedTitle": "video de facebook 090"
+    },
+    {
+      "key": "fb-093-sans-titre",
+      "title": "Archivo de Facebook 093",
+      "dateUpdated": "oct 21, 2024 7:20:55 am",
+      "normalizedTitle": "archivo de facebook 093"
+    },
+    {
+      "key": "fb-094-sans-titre",
+      "title": "Archivo de Facebook 094",
+      "dateUpdated": "oct 21, 2024 7:20:55 am",
+      "normalizedTitle": "archivo de facebook 094"
+    },
+    {
+      "key": "fb-132-cliquer-pour-la-vid-o",
+      "title": "Vídeo de Facebook 132",
+      "dateUpdated": "juin 14, 2025 8:38:51 am",
+      "normalizedTitle": "video de facebook 132"
+    },
+    {
+      "key": "fb-189-cliquer-pour-la-vid-o",
+      "title": "Vídeo de Facebook 189",
+      "dateUpdated": "août 25, 2025 7:45:08 pm",
+      "normalizedTitle": "video de facebook 189"
+    },
+    {
+      "key": "fb-238-sans-titre",
+      "title": "Archivo de Facebook 238",
+      "dateUpdated": "sep 23, 2025 3:15:08 pm",
+      "normalizedTitle": "archivo de facebook 238"
+    },
+    {
+      "key": "fb-239-sans-titre",
+      "title": "Archivo de Facebook 239",
+      "dateUpdated": "sep 23, 2025 3:15:08 pm",
+      "normalizedTitle": "archivo de facebook 239"
+    },
+    {
+      "key": "fb-264-cliquer-pour-la-vid-o",
+      "title": "Cliquer pour la vidéo :⚠️    🇪🇸➡️🇨🇭   ⚠️",
+      "dateUpdated": "oct 08, 2025 7:23:42 pm",
+      "normalizedTitle": "cliquer pour la video :⚠️ \uddea \uddf8➡️ \udde8 \udded ⚠️"
+    },
+    {
+      "key": "fb-284-sans-titre",
+      "title": "Archivo de Facebook 284",
+      "dateUpdated": "oct 21, 2025 11:55:13 pm",
+      "normalizedTitle": "archivo de facebook 284"
+    },
+    {
+      "key": "fb-285-sans-titre",
+      "title": "Archivo de Facebook 285",
+      "dateUpdated": "oct 21, 2025 11:55:13 pm",
+      "normalizedTitle": "archivo de facebook 285"
+    },
+    {
+      "key": "fb-462-sans-titre",
+      "title": "Archivo de Facebook 462",
+      "dateUpdated": "jan 18, 2026 8:55:32 am",
+      "normalizedTitle": "archivo de facebook 462"
+    },
+    {
+      "key": "fb-463-sans-titre",
+      "title": "Archivo de Facebook 463",
+      "dateUpdated": "jan 18, 2026 8:55:32 am",
+      "normalizedTitle": "archivo de facebook 463"
+    },
+    {
+      "key": "fb-507-sans-titre",
+      "title": "Archivo de Facebook 507",
+      "dateUpdated": "fév 01, 2026 10:02:04 am",
+      "normalizedTitle": "archivo de facebook 507"
+    },
+    {
+      "key": "fb-508-sans-titre",
+      "title": "Archivo de Facebook 508",
+      "dateUpdated": "fév 01, 2026 10:02:04 am",
+      "normalizedTitle": "archivo de facebook 508"
+    },
+    {
+      "key": "fb-509-cliquer-pour-la-vid-o",
+      "title": "Vídeo de Facebook 509",
+      "dateUpdated": "fév 01, 2026 10:02:04 am",
+      "normalizedTitle": "video de facebook 509"
+    },
+    {
+      "key": "fb-510-sans-titre",
+      "title": "Archivo de Facebook 510",
+      "dateUpdated": "fév 01, 2026 10:02:04 am",
+      "normalizedTitle": "archivo de facebook 510"
+    },
+    {
+      "key": "fb-511-sans-titre",
+      "title": "Archivo de Facebook 511",
+      "dateUpdated": "fév 01, 2026 10:02:04 am",
+      "normalizedTitle": "archivo de facebook 511"
+    },
+    {
+      "key": "fb-512-sans-titre",
+      "title": "Archivo de Facebook 512",
+      "dateUpdated": "fév 01, 2026 10:02:04 am",
+      "normalizedTitle": "archivo de facebook 512"
+    },
+    {
+      "key": "fb-514-sans-titre",
+      "title": "Archivo de Facebook 514",
+      "dateUpdated": "fév 01, 2026 10:02:04 am",
+      "normalizedTitle": "archivo de facebook 514"
+    },
+    {
+      "key": "fb-566-sans-titre",
+      "title": "Archivo de Facebook 566",
+      "dateUpdated": "mar 07, 2026 5:47:50 pm",
+      "normalizedTitle": "archivo de facebook 566"
+    },
+    {
+      "key": "fb-567-sans-titre",
+      "title": "Archivo de Facebook 567",
+      "dateUpdated": "mar 07, 2026 5:47:50 pm",
+      "normalizedTitle": "archivo de facebook 567"
+    }
+  ],
+  "imported": []
+}
