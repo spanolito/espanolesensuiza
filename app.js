@@ -1140,17 +1140,134 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let currentLang = localStorage.getItem("lang") || "es";
 
-    function getDynamicDate(lang) {
-        const now = new Date();
-        const months = {
-            es: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'],
-            en: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
-            fr: ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre'],
-            de: ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'],
-            it: ['Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno', 'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre']
+    function parseArticleDateParts(dateValue) {
+        const raw = String(dateValue || "").trim();
+        if (!raw) return null;
+
+        const isoMatch = raw.match(/^(\d{4})-(\d{2})-(\d{2})(?:[T\s](\d{2}):(\d{2})(?::(\d{2}))?)?$/);
+        if (isoMatch) {
+            return {
+                year: Number(isoMatch[1]),
+                month: Number(isoMatch[2]) - 1,
+                day: Number(isoMatch[3]),
+                hour: Number(isoMatch[4] || 0),
+                minute: Number(isoMatch[5] || 0),
+                second: Number(isoMatch[6] || 0),
+                hasTime: Boolean(isoMatch[4]),
+            };
+        }
+
+        const normalized = raw
+            .toLowerCase()
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .replace(/[.,]/g, " ");
+
+        const monthMap = {
+            ene: 0, enero: 0, jan: 0, january: 0, janvier: 0, januar: 0, gennaio: 0, gen: 0,
+            feb: 1, febrero: 1, february: 1, fevrier: 1, fevr: 1, februar: 1, febbraio: 1,
+            mar: 2, marzo: 2, march: 2, mars: 2, marz: 2, maerz: 2,
+            abr: 3, abril: 3, apr: 3, april: 3, avr: 3, avril: 3,
+            may: 4, mayo: 4, mai: 4, maggio: 4, mag: 4,
+            jun: 5, junio: 5, june: 5, juin: 5, juni: 5, giugno: 5, giu: 5,
+            jul: 6, julio: 6, july: 6, juil: 6, juillet: 6, juli: 6, luglio: 6, lug: 6,
+            ago: 7, agosto: 7, aug: 7, august: 7, aout: 7,
+            sep: 8, sept: 8, septiembre: 8, september: 8, septembre: 8, settembre: 8, set: 8,
+            oct: 9, octubre: 9, october: 9, octobre: 9, oktober: 9, ott: 9, ottobre: 9, okt: 9,
+            nov: 10, noviembre: 10, november: 10, novembre: 10,
+            dec: 11, dic: 11, diciembre: 11, december: 11, decembre: 11, dez: 11, dezember: 11
         };
-        const currentMonths = months[lang] || months['es'];
-        return `${currentMonths[now.getMonth()]} ${now.getFullYear()}`;
+
+        const tokens = normalized.match(/[a-z]+|\d+/g) || [];
+        const numbers = [];
+        let month = -1;
+        let hasAmPm = false;
+        let meridiem = "";
+
+        tokens.forEach(token => {
+            if (/^\d+$/.test(token)) {
+                numbers.push(Number(token));
+                return;
+            }
+            if ((token === "am" || token === "pm") && !hasAmPm) {
+                hasAmPm = true;
+                meridiem = token;
+                return;
+            }
+            if (month === -1 && Object.prototype.hasOwnProperty.call(monthMap, token)) {
+                month = monthMap[token];
+            }
+        });
+
+        let year = 0;
+        let day = 1;
+        let hour = 0;
+        let minute = 0;
+        let second = 0;
+
+        if (/^\d{4}/.test(raw) && numbers.length >= 3) {
+            year = numbers[0];
+            month = month >= 0 ? month : Math.max(0, Math.min(11, numbers[1] - 1));
+            day = numbers[2];
+            hour = Number(numbers[3] || 0);
+            minute = Number(numbers[4] || 0);
+            second = Number(numbers[5] || 0);
+        } else {
+            const yearMatch = normalized.match(/\b(19|20)\d{2}\b/);
+            year = yearMatch ? Number(yearMatch[0]) : 0;
+            if (!year) return null;
+
+            const yearIndex = numbers.lastIndexOf(year);
+            if (yearIndex > 0) {
+                const maybeDay = numbers.slice(0, yearIndex).find(n => n >= 1 && n <= 31);
+                if (maybeDay) day = maybeDay;
+            }
+
+            hour = Number(numbers[yearIndex + 1] || 0);
+            minute = Number(numbers[yearIndex + 2] || 0);
+            second = Number(numbers[yearIndex + 3] || 0);
+        }
+
+        if (hasAmPm) {
+            if (meridiem === "pm" && hour < 12) hour += 12;
+            if (meridiem === "am" && hour === 12) hour = 0;
+        }
+
+        return {
+            year,
+            month: month >= 0 ? month : 0,
+            day,
+            hour,
+            minute,
+            second,
+            hasTime: hour > 0 || minute > 0 || second > 0,
+        };
+    }
+
+    function parseArticleTimestamp(dateValue) {
+        const parts = parseArticleDateParts(dateValue);
+        if (!parts) return 0;
+        return Date.UTC(parts.year, parts.month, parts.day, parts.hour, parts.minute, parts.second);
+    }
+
+    function formatArticleDate(dateValue, lang, opts = {}) {
+        const parts = parseArticleDateParts(dateValue);
+        if (!parts) return String(dateValue || "").trim();
+
+        const localeMap = {
+            es: "es-ES",
+            en: "en-US",
+            fr: "fr-FR",
+            de: "de-DE",
+            it: "it-IT",
+        };
+
+        const formatterOptions = opts.includeTime
+            ? { day: "numeric", month: "long", year: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "UTC" }
+            : { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" };
+
+        const date = new Date(Date.UTC(parts.year, parts.month, parts.day, parts.hour, parts.minute, parts.second));
+        return new Intl.DateTimeFormat(localeMap[lang] || localeMap.es, formatterOptions).format(date);
     }
     document.documentElement.lang = currentLang;
     const SCAM_WARNING_TIMESTAMP_KEY = "fraudWarningLastShown";
@@ -1963,7 +2080,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const slug = r.slug || ('articulo/' + (r.id || ''));
         const img = r.featuredImage ? r.featuredImage + '?v=1776395259' : null;
         const rt = r.readingTime || 0;
-        const date = r.dateUpdated ? getDynamicDate(currentLang) : '';
+        const date = r.dateUpdated ? formatArticleDate(r.dateUpdated, currentLang) : '';
         const summary = r.summary || r.description || '';
         const compact = opts.compact || false;
         const hubLabels = {
@@ -2011,59 +2128,6 @@ document.addEventListener("DOMContentLoaded", () => {
         const ageMs = now - timestamp;
         const twoWeeksMs = 14 * 24 * 60 * 60 * 1000;
         return ageMs >= 0 && ageMs <= twoWeeksMs;
-    }
-
-    function parseArticleTimestamp(dateValue) {
-        const raw = String(dateValue || "").trim();
-        if (!raw) return 0;
-
-        const nativeParsed = Date.parse(raw);
-        if (!Number.isNaN(nativeParsed)) return nativeParsed;
-
-        const normalized = raw
-            .toLowerCase()
-            .normalize("NFD")
-            .replace(/[\u0300-\u036f]/g, "")
-            .replace(/[.,]/g, " ");
-
-        const monthMap = {
-            ene: 0, enero: 0, jan: 0, january: 0, janvier: 0, januar: 0, gennaio: 0, gen: 0,
-            feb: 1, febrero: 1, february: 1, fevrier: 1, fevr: 1, februar: 1, febbraio: 1,
-            mar: 2, marzo: 2, march: 2, mars: 2, marz: 2, maerz: 2,
-            abr: 3, abril: 3, apr: 3, april: 3, avr: 3, avril: 3,
-            may: 4, mayo: 4, mai: 4, maggio: 4, mag: 4,
-            jun: 5, junio: 5, june: 5, juin: 5, juni: 5, giugno: 5, giu: 5,
-            jul: 6, julio: 6, july: 6, juil: 6, juillet: 6, juli: 6, luglio: 6, lug: 6,
-            ago: 7, agosto: 7, aug: 7, august: 7, aout: 7,
-            sep: 8, sept: 8, septiembre: 8, september: 8, septembre: 8, settembre: 8, set: 8,
-            oct: 9, octubre: 9, october: 9, octobre: 9, oktober: 9, ott: 9, ottobre: 9, okt: 9,
-            nov: 10, noviembre: 10, november: 10, novembre: 10,
-            dec: 11, dic: 11, diciembre: 11, december: 11, decembre: 11, dez: 11, dezember: 11
-        };
-
-        const tokens = normalized.match(/[a-z]+|\d+/g) || [];
-        const numbers = [];
-        let month = -1;
-
-        tokens.forEach(token => {
-            if (/^\d+$/.test(token)) {
-                numbers.push(Number(token));
-            } else if (month === -1 && Object.prototype.hasOwnProperty.call(monthMap, token)) {
-                month = monthMap[token];
-            }
-        });
-
-        const year = [...numbers].reverse().find(n => n > 31);
-        if (!year) return 0;
-
-        let day = 1;
-        const yearIndex = numbers.lastIndexOf(year);
-        if (yearIndex > 0) {
-            const maybeDay = numbers.slice(0, yearIndex).find(n => n >= 1 && n <= 31);
-            if (maybeDay) day = maybeDay;
-        }
-
-        return Date.UTC(year, month >= 0 ? month : 0, day);
     }
 
     function articleRecencyScore(article) {
@@ -3165,7 +3229,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                     <h1>${stripMarkdown(articlePageData.title)}</h1>
 	                                    <div class="article-meta">
 	                                        <span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> ${readingTime} ${ui['lbl-read-time']}</span>
-                                            ${articlePageData.dateUpdated ? `<span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> ${ui['lbl-updated']} ${getDynamicDate(currentLang)}</span>` : ''}
+                                            ${articlePageData.dateUpdated ? `<span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> ${ui['lbl-updated']} ${formatArticleDate(articlePageData.dateUpdated, currentLang)}</span>` : ''}
 	                                    </div>
 	                                </div>
 
