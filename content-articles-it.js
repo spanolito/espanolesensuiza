@@ -67,8 +67,8 @@ window.siteContent.it.articles = {
         slug: "fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe",
         readingTime: 2,
         dateUpdated: "avr 11, 2026",
-        summary: "Accedi alla discussione completa cercando il frammento originale nella community Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
+        summary: "Il link Facebook originale non corrisponde a questo articolo nell’archivio attuale. Questa scheda resta in attesa di una ricostruzione corretta.",
+        facebookUrl: "",
         content: `<div class="article-content">
   <div class="callout info">
     <strong>Post storico di Facebook:</strong> A causa del formato originale di esportazione, qui è disponibile solo il titolo o il frammento introduttivo. Usa il pulsante qui sotto per trovare e leggere il thread completo con la relativa discussione nella nostra community Facebook ufficiale.

@@ -2403,20 +2403,26 @@ window.siteContent.es.articles = {
 </div>`
     },
     "fb-003-el-permiso-a-en-suiza-trabajar-si-vivir-no": {
-        title: "El permiso A en Suiza: trabajar si, vivir no",
-        description: "El permiso A en Suiza: trabajar si, vivir no",
+        title: "El permiso A en Suiza: trabajar si, vivir no (y cuando los españoles dijeron basta)",
+        description: "Una mirada al permiso A, al sistema de temporeros y a la huelga de españoles en Murer para entender cómo funcionó la inmigración en Suiza durante décadas.",
         keywords: "tramites, suiza",
         category: "Tramites y Permisos",
         hub: "tramites",
         slug: "fb-003-el-permiso-a-en-suiza-trabajar-si-vivir-no",
-        readingTime: 2,
+        readingTime: 4,
         dateUpdated: "avr 11, 2026",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4393482034205389/",
-        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        summary: "El permiso A permitía trabajar en Suiza sin instalarse de forma estable. Entender ese sistema ayuda a explicar décadas de inmigración precaria y conflictos como la huelga de españoles en Murer.",
         content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
-  </div>
+  <p>He estado revisando el dossier de la Ville de Genève sobre la exposición Saisonniers de 2019, y hay un punto que lo explica todo: el permiso A. Sin entender esto, no se entiende cómo funcionó realmente la inmigración en Suiza durante décadas... ni por qué hubo conflictos como la huelga de españoles en Murer.</p>
+  <p>En 1931 se adopta la primera ley federal sobre la estancia de extranjeros, que entra en vigor en 1934. Ahí nace el permiso A, pensado para temporeros. La regla era simple: podías trabajar en Suiza, pero solo durante 9 meses al año. Después, obligado a salir al menos 3 meses para poder volver. No era un detalle técnico, era la arquitectura del sistema.</p>
+  <p>Durante los años 50, 60 y 70 este modelo se aplica de forma masiva. Llegan miles de españoles, italianos y portugueses. Suiza crece, necesita mano de obra, pero no quiere instalación permanente. Resultado: trabajadores que sostienen sectores enteros, pero sin estabilidad, sin posibilidad de traer a la familia y totalmente dependientes del empleador.</p>
+  <p>Y aquí entra un episodio que no se suele contar mucho: la huelga de trabajadores españoles en la empresa Murer. No fue un caso aislado ni un capricho. Fue la consecuencia directa de ese sistema. Condiciones laborales duras, vida precaria y un marco legal que no dejaba margen. Cuando aprietas así, la gente acaba reaccionando. Y reaccionaron.</p>
+  <p>En los años 70 empiezan a multiplicarse estas tensiones. No solo en Murer, pero ese caso es bastante simbólico. Españoles organizándose, protestando y reclamando condiciones más dignas en un país donde ese tipo de acciones no eran precisamente habituales en trabajadores extranjeros.</p>
+  <p>El sistema empieza a desmoronarse en los años 90, con cambios políticos y presión social. Y en 2002, con la libre circulación de personas entre Suiza y la Unión Europea, el permiso A desaparece definitivamente.</p>
+  <p>Esto no es solo historia. Explica muchas cosas de hoy. La política migratoria suiza actual, tan estructurada y progresiva, viene directamente de este pasado. Primero trabajo, luego estabilidad, y solo después integración. Nada improvisado.</p>
+  <p>Y conviene decirlo sin rodeos: Suiza ha sido muy eficaz económicamente, pero también ha aplicado políticas migratorias muy duras cuando le ha convenido. El permiso A y episodios como la huelga en Murer lo dejan bastante claro.</p>
+  <p>Porque al final, los españoles en Suiza no solo vinieron a trabajar. También hubo momentos en los que dijeron basta. Y eso también forma parte de la historia del país, aunque no siempre se cuente.</p>
 </div>`
     },
     "fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe": {
@@ -2428,8 +2434,8 @@ window.siteContent.es.articles = {
         slug: "fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe",
         readingTime: 2,
         dateUpdated: "avr 11, 2026",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
-        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        facebookUrl: "",
+        summary: "El enlace original de Facebook no corresponde a este artículo en el archivo actual. Se mantiene pendiente de reconstrucción correcta.",
         content: `<div class="article-content">
   <div class="callout info">
     <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
