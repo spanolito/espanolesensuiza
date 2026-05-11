@@ -5455,24 +5455,6 @@ window.siteContent.fr.articles = {
   </div>
 </div>`
     },
-    "fb-326-se-ruega-por-favor-suiza-cuenta-con-26-cantones-cuando-vayan-a-publicar-algo-indiquen-donde-se-ubican-se-autorizan-publicaciones-en-espa-ol-alem": {
-        title: "🙏🏻 S'il vous plaît, s'il vous plaît🙏🏻La Suisse compte 26 cantons. Lorsque vous allez publier quelque chose, indiquez où vous vous trouvez. Les publications sont autorisées en espagnol, allemand",
-        description: "🙏🏻 S'il vous plaît, s'il vous plaît🙏🏻La Suisse compte 26 cantons. Lorsque vous allez publier quelque chose, indiquez où vous vous trouvez. Les publications sont autorisées en espagnol, allemand",
-        keywords: "vivir, suiza",
-        category: "Vivre en Suisse",
-        hub: "vivir-en-suiza",
-        slug: "fb-326-se-ruega-por-favor-suiza-cuenta-con-26-cantones-cuando-vayan-a-publicar-algo-indiquen-donde-se-ubican-se-autorizan-publicaciones-en-espa-ol-alem",
-        readingTime: 2,
-        dateUpdated: "nov 10, 2025 5:58:02 pm",
-        summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=ruega%20por%20favor%20Suiza%20cuenta",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
-</div>`
-    },
     "fb-327-residencia-permanente-para-690-000-europeos-en-suiza": {
         title: "Résidence permanente de 690'000 Européens en Suisse",
         description: "Résidence permanente de 690'000 Européens en Suisse",

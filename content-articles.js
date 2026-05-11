@@ -9664,21 +9664,6 @@ window.siteContent.es.articles = {
 <p>El eterno pulso entre los dos gigantes naranjas suizos tiene nuevo ganador. Según los últimos datos del Nielsen Retail Performance Monitor, Coop ha superado oficialmente a Migros en cuota de mercado en la categoría “Food y Near Food” (alimentación, cosmética y productos domésticos). En 2025, Coop alcanza el 43 % del mercado, frente al 37 % de Migros. Un cambio notable respecto a 2024, cuando ambas estaban más cerca (42 % y 38 % respectivamente). La diferencia ahora es de seis puntos completos. Migros pierde terreno (-0,8 %) mientras Coop sigue ganando (+0,9 %). Y lo curioso es que los demás apenas se mueven: Denner mantiene su 12 %, Volg un 4 % y Manor un 3 %. En resumen: el mercado suizo se concentra cada vez más en dos manos, pero el equilibrio se ha roto. Detrás de este giro hay algo más que cifras. Coop ha apostado fuerte por modernizar sus tiendas, ampliar horarios y reforzar su presencia en Romandía, donde incluso ha renovado tres tiendas solo en Ginebra. Migros, por su parte, ha preferido centrarse en su identidad cooperativa y en bajadas de precios, una estrategia que, según su propia portavoz, ha reducido temporalmente su cuota de mercado. Y mientras tanto, los dos alemanes del tablero, Lidl y Aldi, siguen creciendo fuera del radar de Nielsen. No publican sus cifras, pero las estimaciones apuntan a que juntos rondan ya el 10 % del mercado suizo. Lidl factura más de dos mil millones de francos anuales y Aldi va camino de alcanzar una cifra similar. Su presencia, cada vez más visible en las afueras de las ciudades, está forzando a Coop y Migros a competir también en el terreno de los precios. Así que sí, Coop ha adelantado a Migros. Pero la batalla por la cesta suiza apenas empieza. Y no sería raro que, en la próxima década, la “Suiza de Migros” se convierta poco a poco en la Suiza de Coop... con acento alemán. Fuente: Watson #EspanolesQueRealmenteSeAyudanEnSuiza</p>
 </div>`
     },
-    "fb-326-se-ruega-por-favor-suiza-cuenta-con-26-cantones-cuando-vayan-a-publicar-algo-indiquen-donde-se-ubican-se-autorizan-publicaciones-en-espa-ol-alem": {
-        title: "🙏🏻 se ruega por favor🙏🏻",
-        description: "🙏🏻 se ruega por favor🙏🏻 Suiza cuenta con 26 cantones. Cuando vayan a publicar algo indiquen donde se ubican. Se autorizan publicaciones en español, alemán, francés y italiano. Respecte las normas del grupo!",
-        keywords: "vivir, suiza",
-        category: "Vivir en Suiza",
-        hub: "vivir-en-suiza",
-        slug: "fb-326-se-ruega-por-favor-suiza-cuenta-con-26-cantones-cuando-vayan-a-publicar-algo-indiquen-donde-se-ubican-se-autorizan-publicaciones-en-espa-ol-alem",
-        readingTime: 2,
-        dateUpdated: "nov 10, 2025 5:58:02 pm",
-        facebookUrl: "https://www.facebook.com/dyi/l/?l=ARzeusHHgej4-4TTlMROBDDSbijsgbhRVGXahCA0A5ZpUB2dV3QQ_ObK1hEgdNAhNQJzyGZAm1j5rUl-ljhHBPAjtqKaa7aecCOpxqV7XV_SM8D3Dd6yq5Nxtd-opkDiQYz7X0GuLqUvP_w7JBvGLyfpRgVS4EcouhoNpRbTbkmf2TtwT3Rmr75SYu8kGorjalD9uAU&s=520",
-        summary: "🙏🏻 se ruega por favor🙏🏻 Suiza cuenta con 26 cantones. Cuando vayan a publicar algo indiquen donde se ubican. Se autorizan publicaciones en español, alemán, francés y italiano. Respecte las normas del grupo!",
-        content: `<div class="article-content">
-<p>🙏🏻 se ruega por favor🙏🏻 Suiza cuenta con 26 cantones. Cuando vayan a publicar algo indiquen donde se ubican. Se autorizan publicaciones en español, alemán, francés y italiano. Respecte las normas del grupo!</p>
-</div>`
-    },
     "fb-327-residencia-permanente-para-690-000-europeos-en-suiza": {
         title: "Residencia permanente para 690'000 europeos en Suiza",
         description: "El nuevo acuerdo que Suiza negocia con la Unión Europea podría permitir que hasta 690'000 ciudadanos europeos obtengan un derecho de residencia permanente en el país.",

@@ -5455,24 +5455,6 @@ window.siteContent.en.articles = {
   </div>
 </div>`
     },
-    "fb-326-se-ruega-por-favor-suiza-cuenta-con-26-cantones-cuando-vayan-a-publicar-algo-indiquen-donde-se-ubican-se-autorizan-publicaciones-en-espa-ol-alem": {
-        title: "🙏🏻 Please, please🙏🏻Switzerland has 26 cantons. When you are going to publish something, indicate where you are located. Publications are authorized in Spanish, German",
-        description: "🙏🏻 Please, please🙏🏻Switzerland has 26 cantons. When you are going to publish something, indicate where you are located. Publications are authorized in Spanish, German",
-        keywords: "vivir, suiza",
-        category: "Living in Switzerland",
-        hub: "vivir-en-suiza",
-        slug: "fb-326-se-ruega-por-favor-suiza-cuenta-con-26-cantones-cuando-vayan-a-publicar-algo-indiquen-donde-se-ubican-se-autorizan-publicaciones-en-espa-ol-alem",
-        readingTime: 2,
-        dateUpdated: "nov 10, 2025 5:58:02 pm",
-        summary: "Access the full discussion by searching for the original fragment in the Facebook community.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=ruega%20por%20favor%20Suiza%20cuenta",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Historical Facebook Post:</strong> Due to the original export format, only the title or opening fragment is available here. Use the button below to find and read the full thread with its discussion in our official Facebook community.
-  </div>
-</div>`
-    },
     "fb-327-residencia-permanente-para-690-000-europeos-en-suiza": {
         title: "Permanent residence for 690,000 Europeans in Switzerland",
         description: "Permanent residence for 690,000 Europeans in Switzerland",

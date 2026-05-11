@@ -5455,24 +5455,6 @@ window.siteContent.de.articles = {
   </div>
 </div>`
     },
-    "fb-326-se-ruega-por-favor-suiza-cuenta-con-26-cantones-cuando-vayan-a-publicar-algo-indiquen-donde-se-ubican-se-autorizan-publicaciones-en-espa-ol-alem": {
-        title: "🙏🏻 Bitte, bitte🙏🏻Die Schweiz hat 26 Kantone. Wenn Sie etwas veröffentlichen möchten, geben Sie an, wo Sie sich befinden. Veröffentlichungen sind in Spanisch und Deutsch gestattet",
-        description: "🙏🏻 Bitte, bitte🙏🏻Die Schweiz hat 26 Kantone. Wenn Sie etwas veröffentlichen möchten, geben Sie an, wo Sie sich befinden. Veröffentlichungen sind in Spanisch und Deutsch gestattet",
-        keywords: "vivir, suiza",
-        category: "Leben in der Schweiz",
-        hub: "vivir-en-suiza",
-        slug: "fb-326-se-ruega-por-favor-suiza-cuenta-con-26-cantones-cuando-vayan-a-publicar-algo-indiquen-donde-se-ubican-se-autorizan-publicaciones-en-espa-ol-alem",
-        readingTime: 2,
-        dateUpdated: "nov 10, 2025 5:58:02 pm",
-        summary: "Rufen Sie die vollständige Diskussion auf, indem Sie im Facebook‑Forum nach dem Originalfragment suchen.",
-        facebookUrl: "https://www.facebook.com/groups/1560239407529680/search/?q=ruega%20por%20favor%20Suiza%20cuenta",
-        isFbSearch: true,
-        content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Historischer Facebook-Beitrag:</strong> Aufgrund des ursprünglichen Exportformats ist hier nur der Titel oder der einleitende Ausschnitt verfügbar. Verwenden Sie den Button unten, um den vollständigen Thread mit den Diskussionen in unserer offiziellen Facebook-Community zu finden und zu lesen.
-  </div>
-</div>`
-    },
     "fb-327-residencia-permanente-para-690-000-europeos-en-suiza": {
         title: "Ständiger Wohnsitz für 690.000 Europäer in der Schweiz",
         description: "Ständiger Wohnsitz für 690.000 Europäer in der Schweiz",
