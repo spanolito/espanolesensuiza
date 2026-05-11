@@ -1863,5 +1863,68 @@ Object.assign(window.siteContent.de.articles, {
         content: `<div class="article-content">
 <p>Radfahren in der Schweiz scheint einfach zu sein... bis Sie die Bußgelder sehen. In der Schweiz ist das Fahrrad kein "gesetzloses Land". Sie hat klare Regeln, die die Leute oft nicht kennen, bis sie die Rechnung bekommen. Für den Anfang gelten Fahrräder als Fahrzeuge. Das bedeutet, dass Sie Schilder, Ampeln und Prioritäten wie ein Auto respektieren müssen. Das Überspringen einer roten Ampel ist kein „Unfug“, sondern ein Verstoß. Thema Radwege: Wenn es einen ausgeschilderten Weg gibt, sind Sie verpflichtet, ihn zu benutzen. Es ist nicht optional. Das Fahren auf der Straße "weil ja", wenn Sie einen Radweg neben sich haben, kann zu einer Geldstrafe führen. Ein weiterer Klassiker: Fahren Sie auf dem Bürgersteig. Es ist nur zulässig, wenn ein Zeichen vorhanden ist, das dies autorisiert. Wenn nicht, berühren Sie die Fahrbahn oder den Radweg. Und ja, auch das wird sanktioniert. Lichter: Nachts oder bei schlechter Sicht obligatorisch. Weiß vorne, rot hinten. Es scheint einfach zu sein, aber jeden Winter gibt es Kampagnen, weil viele Leute vom Thema abweichen. Kopfhörer und Handy: Sie sind als solche nicht verboten, aber wenn sie Ihre Reaktionsfähigkeit beeinträchtigen, können Sie mit einer Geldstrafe belegt werden. In der Schweiz ist das Kriterium einfach: Wenn Sie die Sicherheit gefährden, zahlen Sie. Alkohol: Ja, das gilt auch. Ab einem bestimmten Niveau können Sie genauso bestraft werden wie beim Autofahren. Hier gibt es keine offene Bar, weil Sie "Fahrrad fahren". Und Vorsicht vor etwas, was viele nicht wissen: Bei einem Unfall kann die Haftpflichtversicherung ins Spiel kommen. Wenn Sie Schäden verursachen, können Sie am Ende viel mehr als eine Geldstrafe zahlen. Die Schweiz fördert das Radfahren sehr, ist aber kein Themenpark. Es ist ein System, in dem alles geregelt ist. Und wenn ich alles sage... das ist alles.</p>
 </div>`
+    },
+
+    "fb-daily-20260511-01-haftpflichtversicherung-und-bodeninhaltsversicherung-in-der-schweiz-zw": {
+        title: "Haftpflichtversicherung und Bodeninhaltsversicherung in der Schweiz: zwei verschiedene Dinge, die fast immer schlecht gemietet werden",
+        featuredImage: "media/guides/actualidad-el-seguro-rc-y-el-seguro-de-contenido-del-pis.jpg",
+        imageAlt: "Haftpflichtversicherung und Bodeninhaltsversicherung in der Schweiz: zwei verschiedene Dinge, die fast immer schlecht gemietet werden",
+        description: "In der Schweiz gibt es drei Versicherungsschichten, die sich auf einen Mieter auswirken können, und eine Verwechslung kann im am wenigsten erwarteten Moment…",
+        keywords: "haftpflichtversicherung, bodeninhaltsversicherung, schweiz, zwei, verschiedene, dinge, fast, immer",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-11-1-haftpflichtversicherung-und-bodeninhaltsversicherung-in-der-schweiz-zw",
+        readingTime: 1,
+        dateUpdated: "11 Mai 2026",
+        summary: "In der Schweiz gibt es drei Versicherungsschichten, die sich auf einen Mieter auswirken können, und eine Verwechslung kann im am wenigsten erwarteten…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In der Schweiz gibt es drei Versicherungsschichten, die sich auf einen Mieter auswirken können, und eine Verwechslung kann im am wenigsten erwarteten Moment ein wichtiges Loch hinterlassen. Die erste ist die Gebäudeversicherung, die in den meisten Kantonen obligatorisch ist, aber vom Eigentümer und nicht vom Mieter getragen wird. Es deckt die Wände, die Struktur und die festen Elemente der Wohnung ab. Was sich im Boden befindet, Ihr Sofa, Ihr Computer, Ihre Kleidung, gibt es für diese Versicherung nicht.</p>
+<p>Die zweite Schicht ist die Hausratversicherung (assurance ménage oder inventaire du ménage), die Ihre persönlichen Gegenstände vor Feuer, Diebstahl, Wasserschäden oder Naturkatastrophen schützt. Es ist auf nationaler Ebene nicht obligatorisch, aber wenn Ihre Wohnung in Flammen steht oder jemand einbricht und Sie nicht über diese Versicherung verfügen, liegt der Verlust zu hundert Prozent bei Ihnen. Die dritte ist die private Haftpflichtversicherung (responsabilité civile), die Schäden abdeckt, die Sie Dritten zufügen: Sie brechen die Brille eines Nachbarn, verschütten Wasser aus Versehen und verderben den Boden unten oder Ihr Kind schlägt einen Ballon auf etwas Teures. Die Haftpflichtversicherung deckt nicht die Schäden ab, die Sie erleiden, sondern nur die, die Sie verursachen.</p>
+<p>Das übliche Problem ist, dass Versicherungsunternehmen sowohl Ménage als auch RC in einem einzigen Vertrag verkaufen, was den Eindruck erweckt, dass sie dasselbe sind. Das sind sie nicht. Und es gibt einen weiteren häufigen Fehler: Viele Mieter glauben, dass das Gebäude „bereits versichert“ ist und dass sie dadurch geschützt werden. Die Gebäudeabdeckung ist für das Gebäude, nicht für das, was Sie darin aufbewahren. Sie können die beiden Deckungen mit verschiedenen Unternehmen haben, wenn es Ihnen finanziell passt, obwohl das kombinierte Angebot in der Regel einen angemessenen Preis hat. Wichtig ist, dass du verstehst, was jede abdeckt, bevor du sie brauchst.</p>
+</div>`
+    },
+
+    "fb-daily-20260511-02-die-garantie-in-der-schweiz-dauert-gesetzlich-zwei-jahre-aber-die-inan": {
+        title: "Die Garantie in der Schweiz dauert gesetzlich zwei Jahre, aber die Inanspruchnahme hat mehr Anforderungen, als Sie sich vorstellen können",
+        featuredImage: "media/guides/actualidad-la-garantia-en-suiza-dura-dos-anos-por-ley-pe.jpg",
+        imageAlt: "Die Garantie in der Schweiz dauert gesetzlich zwei Jahre, aber die Inanspruchnahme hat mehr Anforderungen, als Sie sich vorstellen können",
+        description: "Das schweizerische Gesetz (Obligationenrecht, Art. 210) legt die Frist für die Reklamation von Mängeln an einem gekauften Produkt auf zwei Jahre fest. Bis…",
+        keywords: "garantie, schweiz, dauert, gesetzlich, zwei, jahre, aber, inanspruchnahme",
+        keywordsLocalized: true,
+        category: "Wohnen",
+        hub: "vivienda",
+        slug: "actualidad-2026-05-11-2-die-garantie-in-der-schweiz-dauert-gesetzlich-zwei-jahre-aber-die-inan",
+        readingTime: 1,
+        dateUpdated: "11 Mai 2026",
+        summary: "Das schweizerische Gesetz (Obligationenrecht, Art. 210) legt die Frist für die Reklamation von Mängeln an einem gekauften Produkt auf zwei Jahre…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Das schweizerische Gesetz (Obligationenrecht, Art. 210) legt die Frist für die Reklamation von Mängeln an einem gekauften Produkt auf zwei Jahre fest. Bis dahin hört sich alles gut an. Das Detail, das alles ändert, ist, dass diese Frist nicht bedeutet, dass Sie zwei Jahre Zeit haben, um zu entscheiden, ob Ihnen das Produkt gefällt oder nicht: Es bedeutet, dass Sie zwei Jahre Zeit haben, um einen versteckten Fehler zu entdecken, der zum Zeitpunkt des Kaufs bestand, und den Verkäufer sofort darüber zu informieren. Wenn du es herausfindest und wochenlang auf die Geltendmachung wartest, kannst du dieses Recht verlieren.</p>
+<p>Der andere Punkt, den viele nicht kennen, ist, dass die gesetzliche Garantie bereits bestehende Mängel abdeckt, keinen normalen Verschleiß oder Probleme, die sich aus der Verwendung ergeben. Wenn ein Gerät kaputt geht, weil Sie es missbraucht haben, hilft Ihnen die Garantie nicht weiter. Darüber hinaus kann der Verkäufer beim Kauf eines gebrauchten Produkts die Gewährleistungsfrist rechtlich auf ein Jahr verkürzen. Was Sie bei Verkäufen zwischen Unternehmen und Verbraucher nicht tun können, ist, diese Frist vollständig zu beseitigen, obwohl Sie dies mit ausdrücklichen Vertragsklauseln versuchen können, die außerhalb der Allgemeinen Geschäftsbedingungen enthalten sind.</p>
+<p>Es ist auch zwischen der gesetzlichen Garantie und der gewerblichen Garantie zu unterscheiden, die von Herstellern oder Geschäften angeboten wird. Letzteres kann großzügiger sein als das Gesetz, aber seine Bedingungen werden vom Verkäufer festgelegt. In der Schweiz gibt es kein automatisches Rückgaberecht, wenn ein Produkt gut funktioniert, Ihnen aber einfach nicht gefällt: Dieses Recht gibt es in keinem Gesetz, es hängt von der Politik des jeweiligen Geschäfts ab. Wer aus Spanien kommt und die beiden Systeme verwechselt, entdeckt dies normalerweise am Rückgabeschalter, mit wenigen Freunden und wenig Handlungsspielraum.</p>
+</div>`
+    },
+
+    "fb-daily-20260511-03-die-schweizer-e-id-weder-staatliche-uberwachung-noch-dringende-behandl": {
+        title: "Die Schweizer E-ID: Weder staatliche Überwachung noch dringende Behandlung, aber es ist ratsam zu verstehen, was es ist, bevor es ankommt",
+        featuredImage: "media/guides/actualidad-el-e-id-suizo-ni-vigilancia-estatal-ni-tramit.jpg",
+        imageAlt: "Die Schweizer E-ID: Weder staatliche Überwachung noch dringende Behandlung, aber es ist ratsam zu verstehen, was es ist, bevor es ankommt",
+        description: "Ab Dezember 2026 wird die Schweiz ihr offizielles elektronisches Identitätssystem einführen. Es heißt E-ID, funktioniert über eine kostenlose App namens swiyu…",
+        keywords: "schweizer, weder, staatliche, überwachung, noch, dringende, behandlung, aber",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-11-3-die-schweizer-e-id-weder-staatliche-uberwachung-noch-dringende-behandl",
+        readingTime: 1,
+        dateUpdated: "11 Mai 2026",
+        summary: "Ab Dezember 2026 wird die Schweiz ihr offizielles elektronisches Identitätssystem einführen. Es heißt E-ID, funktioniert über eine kostenlose App…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Ab Dezember 2026 wird die Schweiz ihr offizielles elektronisches Identitätssystem einführen. Es heißt E-ID, funktioniert über eine kostenlose App namens swiyu Wallet und ermöglicht die Verwendung des Mobiltelefons als gültiges Ausweisdokument in digitalen und persönlichen Kontexten: um das Alter an einer Supermarktkasse zu überprüfen, ein Online-Bankkonto zu eröffnen, Verwaltungsformalitäten zu erledigen oder die Identität während einer Polizeikontrolle nachzuweisen. Das physische Dokument verschwindet nicht. Die E-ID ist eine freiwillige Alternative, kein obligatorischer Ersatz.</p>
+<p>Was in einigen Gruppen bereits im Umlauf ist, ist die Idee, dass es sich um ein zentrales Überwachungs- oder Kontrollsystem handelt. Das technische Design weist in die entgegengesetzte Richtung: Die Daten werden nicht auf einem zentralen Server des Staates gespeichert, sondern auf dem eigenen Telefon des Benutzers. Wenn jemand die E-ID verwendet, kann das Unternehmen oder die Behörde nur die Daten anfordern, die für diesen bestimmten Vorgang unbedingt erforderlich sind, und der Benutzer sieht, was von ihm verlangt wird, und kann dies ablehnen. Es ist das Prinzip der Datenminimierung, das technisch angewendet wird, nicht als einfaches Versprechen auf Papier.</p>
+<p>Für Ausländer hat dies eine direkte Auswirkung: Die E-ID ist nicht nur für Schweizer Staatsangehörige. Wer eine gültige Aufenthaltserlaubnis besitzt, kann diese auch beantragen. Dies vereinfacht Formalitäten wie die Identitätsprüfung für Online-Verträge, die Eröffnung von Konten ohne Umzug in ein Büro oder die Unterzeichnung rechtsgültiger digitaler Dokumente. Das System ist noch nicht verfügbar: Der Start ist für Dezember 2026 geplant. Es bleibt noch Zeit, es gut zu verstehen, bevor alle damit beginnen, es für selbstverständlich zu halten.</p>
+</div>`
     }
 });

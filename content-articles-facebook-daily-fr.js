@@ -1864,5 +1864,68 @@ Object.assign(window.siteContent.fr.articles, {
         content: `<div class="article-content">
 <p>Rouler à vélo en Suisse semble simple... jusqu'à ce que vous commenciez à voir les amendes. En Suisse, le vélo n'est pas une « terre sans loi ». Il a des règles claires, et souvent les gens ne les connaissent pas jusqu'à ce que la facture arrive. Pour commencer, les vélos sont considérés comme des véhicules. Cela signifie que vous devez respecter les panneaux, les feux de circulation et les priorités comme une voiture. Sauter un feu rouge n'est pas une « farce », c'est une infraction. Thème pistes cyclables : s'il y a une voie balisée, vous êtes obligé de l'utiliser. Ce n'est pas facultatif. Aller sur la route « parce que oui » quand vous avez une piste cyclable à côté peut se terminer par une amende. Autre classique : circuler sur le trottoir. Il n'est autorisé que s'il y a un signal qui l'autorise. Sinon, touchez la chaussée ou la piste cyclable. Et oui, cela aussi est sanctionné. Lumières : obligatoires la nuit ou par mauvaise visibilité. Blanc devant, rouge derrière. Cela semble basique, mais chaque hiver, il y a des campagnes parce que beaucoup de gens passent à côté du sujet. Écouteurs et mobile : ils ne sont pas interdits en tant que tels, mais s'ils affectent votre capacité de réaction, ils peuvent vous infliger une amende. En Suisse, le critère est simple : si vous mettez la sécurité en danger, vous payez. Alcool : oui, ça s'applique aussi. À partir d'un certain niveau, vous pouvez être sanctionné comme si vous conduisiez une voiture. Ici, il n'y a pas de bar libre car « vous faites du vélo ». Et attention à quelque chose que beaucoup ne savent pas : en cas d'accident, l'assurance responsabilité civile peut entrer en jeu. Si vous causez des dommages, vous risquez de payer bien plus qu'une amende. La Suisse encourage beaucoup le vélo, mais ce n'est pas un parc à thème. C'est un système où tout est réglementé. Et quand je dis tout... c'est tout.</p>
 </div>`
+    },
+
+    "fb-daily-20260511-01-lassurance-rc-et-lassurance-du-contenu-de-lappartement-en-suisse-deux": {
+        title: "L'assurance RC et l'assurance du contenu de l'appartement en Suisse : deux choses différentes qui sont presque toujours mal contractées",
+        featuredImage: "media/guides/actualidad-el-seguro-rc-y-el-seguro-de-contenido-del-pis.jpg",
+        imageAlt: "L'assurance RC et l'assurance du contenu de l'appartement en Suisse : deux choses différentes qui sont presque toujours mal contractées",
+        description: "En Suisse, il existe trois couches d'assurance qui peuvent affecter un locataire, et les confondre peut laisser un trou important au moment le moins attendu.…",
+        keywords: "assurance, contenu, appartement, suisse, deux, choses, différentes, sont",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-11-1-lassurance-rc-et-lassurance-du-contenu-de-lappartement-en-suisse-deux",
+        readingTime: 2,
+        dateUpdated: "11 mai 2026",
+        summary: "En Suisse, il existe trois couches d'assurance qui peuvent affecter un locataire, et les confondre peut laisser un trou important au moment le moins…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suisse, il existe trois couches d'assurance qui peuvent affecter un locataire, et les confondre peut laisser un trou important au moment le moins attendu. La première est l'assurance du bâtiment, obligatoire dans la plupart des cantons mais à la charge du propriétaire, et non du locataire. Il recouvre les murs, la structure et les éléments fixes du logement. Ce qu'il y a à l'intérieur de l'appartement, votre canapé, votre ordinateur, vos vêtements, n'existe pas pour cette assurance.</p>
+<p>La deuxième couche est l'assurance du contenu du ménage (assurance ménage ou inventaire du ménage), qui couvre vos biens personnels contre l'incendie, le vol, les dégâts des eaux ou les catastrophes naturelles. Ce n'est pas obligatoire au niveau national, mais si votre appartement est en proie aux flammes ou si quelqu'un entre pour vous voler et que vous n'avez pas cette assurance, la perte est à cent pour cent la vôtre. La troisième est la RC privée (responsabilité civile), qui couvre les dommages que vous causez à des tiers : vous cassez les lunettes d'un voisin, vous renversez de l'eau par négligence et l'étage inférieur est endommagé, ou votre enfant frappe un ballon sur quelque chose de cher. La RC ne couvre pas les dommages que vous subissez, seulement ceux que vous causez.</p>
+<p>Le problème habituel est que les compagnies d'assurance vendent les deux, ménage et RC, combinées en un seul contrat, ce qui donne à penser qu'elles sont la même chose. Ils ne le sont pas. Et il y a une autre erreur fréquente : de nombreux locataires pensent que le bâtiment « est déjà assuré » et que cela les protège. La couverture du bâtiment est pour le bâtiment, pas pour ce que vous gardez à l'intérieur. Vous pouvez avoir les deux couvertures avec des sociétés différentes si cela vous convient économiquement, bien que l'offre combinée ait généralement un prix raisonnable. L'important est de comprendre ce que chacun couvre avant d'en avoir besoin.</p>
+</div>`
+    },
+
+    "fb-daily-20260511-02-la-garantie-en-suisse-dure-deux-ans-selon-la-loi-mais-la-reclamer-a-pl": {
+        title: "La garantie en Suisse dure deux ans selon la loi, mais la réclamer a plus d'exigences que vous ne l'imaginez",
+        featuredImage: "media/guides/actualidad-la-garantia-en-suiza-dura-dos-anos-por-ley-pe.jpg",
+        imageAlt: "La garantie en Suisse dure deux ans selon la loi, mais la réclamer a plus d'exigences que vous ne l'imaginez",
+        description: "La loi suisse (Code des Obligations, art. 210) fixe à deux ans le délai pour réclamer des défauts sur un produit acheté. Jusque là, tout sonne bien. Le détail…",
+        keywords: "garantie, suisse, dure, deux, selon, mais, réclamer, plus",
+        keywordsLocalized: true,
+        category: "Logement",
+        hub: "vivienda",
+        slug: "actualidad-2026-05-11-2-la-garantie-en-suisse-dure-deux-ans-selon-la-loi-mais-la-reclamer-a-pl",
+        readingTime: 1,
+        dateUpdated: "11 mai 2026",
+        summary: "La loi suisse (Code des Obligations, art. 210) fixe à deux ans le délai pour réclamer des défauts sur un produit acheté. Jusque là, tout sonne bien.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>La loi suisse (Code des Obligations, art. 210) fixe à deux ans le délai pour réclamer des défauts sur un produit acheté. Jusque là, tout sonne bien. Le détail qui change tout est que ce délai ne signifie pas que vous avez deux ans pour décider si le produit vous plaît ou non : cela signifie que vous avez deux ans pour découvrir un défaut caché qui existait au moment de l'achat et en informer immédiatement le vendeur. Si vous le découvrez et attendez des semaines pour réclamer, vous pouvez perdre ce droit.</p>
+<p>L'autre point que beaucoup ignorent est que la garantie légale couvre les défauts préexistants, pas d'usure normale ou de problèmes liés à l'utilisation. Si un appareil se casse parce que vous l'avez mal utilisé, la garantie ne vous aide pas. De plus, lors de l'achat d'un produit d'occasion, le vendeur peut légalement réduire la période de garantie à un an. Ce que vous ne pouvez pas faire, dans les ventes entre entreprise et consommateur, c'est éliminer ce délai complètement, bien que vous puissiez essayer avec des clauses contractuelles explicites qui figurent en dehors des conditions générales.</p>
+<p>Il faut également faire la distinction entre la garantie légale et la garantie commerciale offerte par les fabricants ou les magasins. Cette dernière peut être plus généreuse que la loi, mais ses conditions sont fixées par le vendeur. En Suisse, il n'existe pas de droit de retour automatique si un produit fonctionne bien mais ne vous plaît tout simplement pas : ce droit n'est inscrit dans aucune loi, cela dépend de la politique de chaque magasin. Ceux qui arrivent d'Espagne en confondant les deux systèmes le découvrent généralement au comptoir des retours, avec le visage de quelques amis et peu de marge de manœuvre.</p>
+</div>`
+    },
+
+    "fb-daily-20260511-03-le-id-suisse-ni-surveillance-etatique-ni-demarche-urgente-mais-il-conv": {
+        title: "L'E-ID suisse : ni surveillance étatique ni démarche urgente, mais il convient de comprendre ce que c'est avant son arrivée",
+        featuredImage: "media/guides/actualidad-el-e-id-suizo-ni-vigilancia-estatal-ni-tramit.jpg",
+        imageAlt: "L'E-ID suisse : ni surveillance étatique ni démarche urgente, mais il convient de comprendre ce que c'est avant son arrivée",
+        description: "À partir de décembre 2026, la Suisse mettra en place son système d'identité électronique officiel. Il s'appellera E-ID, fonctionnera via une application…",
+        keywords: "suisse, surveillance, étatique, démarche, urgente, mais, convient, comprendre",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-11-3-le-id-suisse-ni-surveillance-etatique-ni-demarche-urgente-mais-il-conv",
+        readingTime: 1,
+        dateUpdated: "11 mai 2026",
+        summary: "À partir de décembre 2026, la Suisse mettra en place son système d'identité électronique officiel. Il s'appellera E-ID, fonctionnera via une…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>À partir de décembre 2026, la Suisse mettra en place son système d'identité électronique officiel. Il s'appellera E-ID, fonctionnera via une application gratuite appelée swiyu Wallet et permettra d'utiliser le téléphone portable comme pièce d'identité valide dans des contextes numériques et en face à face : pour vérifier l'âge dans une caisse de supermarché, ouvrir un compte bancaire en ligne, effectuer des démarches administratives ou accréditer l'identité lors d'un contrôle policier. Le document physique ne disparaît pas. L'E-ID est une alternative volontaire, pas une substitution obligatoire.</p>
+<p>Ce qui circule déjà dans certains groupes, c'est l'idée qu'il s'agit d'un système de surveillance ou de contrôle centralisé des données. La conception technique indique le contraire : les données ne sont stockées sur aucun serveur central de l'État, mais sur le téléphone de l'utilisateur. Lorsqu'une personne utilise l'E-ID, l'entreprise ou l'autorité ne peut demander que les données strictement nécessaires à cette procédure spécifique, et l'utilisateur voit ce qui lui est demandé et peut le refuser. C'est le principe de minimisation des données appliqué de manière technique, et non pas comme une simple promesse sur papier.</p>
+<p>Pour les résidents étrangers, cela a une implication directe : l'E-ID n'est pas réservé aux seuls citoyens suisses. Ceux qui ont un permis de séjour valide peuvent également en faire la demande. Cela simplifie les procédures telles que la vérification de l'identité pour les contrats en ligne, l'ouverture de comptes sans se rendre dans un bureau ou la signature de documents numériques légalement valables. Le système n'est pas encore disponible : le lancement est prévu pour décembre 2026. Il reste du temps pour bien le comprendre avant que tout le monde ne commence à le prendre pour acquis.</p>
+</div>`
     }
 });

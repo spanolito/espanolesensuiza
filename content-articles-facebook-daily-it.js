@@ -1825,5 +1825,68 @@ Object.assign(window.siteContent.it.articles, {
         content: `<div class="article-content">
 <p>Andare in bicicletta in Svizzera sembra semplice... fino a quando non inizi a vedere le multe. In Svizzera la bici non è "terra senza legge". Ha regole chiare e molte volte le persone non le conoscono fino a quando non arriva il conto. Per cominciare, le biciclette sono considerate veicoli. Ciò significa che devi rispettare i segnali, i semafori e le priorità proprio come un'auto. Saltare un semaforo rosso non è una “buffonata”, è un'infrazione. Tema piste ciclabili: se c'è una corsia segnalata, sei obbligato a utilizzarla. Non è facoltativo. Andare su strada "perché sì" quando hai una pista ciclabile accanto può finire in multa. Un altro classico: circolare sul marciapiede. È consentito solo se c'è un segnale che lo autorizza. In caso contrario, tocca una carreggiata o una pista ciclabile. E sì, anche questo è sanzionato. Luci: obbligatorie di notte o con scarsa visibilità. Bianco davanti, rosso dietro. Sembra essenziale, ma ogni inverno ci sono campagne perché molte persone passano dall'argomento. Cuffie e cellulare: non sono vietati in quanto tali, ma se influenzano la tua reattività, possono multarti. In Svizzera il criterio è semplice: se metti a rischio la sicurezza, paghi. Alcol: sì, si applica anche. A partire da un certo livello puoi essere sanzionato proprio come se stessi guidando un'auto. Qui non c'è l'open bar perché “vai in bici”. E attenzione a qualcosa che molti non sanno: in caso di incidente, l'assicurazione di responsabilità civile può entrare in gioco. Se si causano danni, si può finire per pagare molto più di una multa. La Svizzera incoraggia molto la bicicletta, ma non è un parco a tema. È un sistema in cui tutto è regolato. E quando dico tutto... è tutto.</p>
 </div>`
+    },
+
+    "fb-daily-20260511-01-lassicurazione-rc-e-lassicurazione-del-contenuto-dellappartamento-in-s": {
+        title: "L'assicurazione RC e l'assicurazione del contenuto dell'appartamento in Svizzera: due cose diverse che vengono quasi sempre contrattate male",
+        featuredImage: "media/guides/actualidad-el-seguro-rc-y-el-seguro-de-contenido-del-pis.jpg",
+        imageAlt: "L'assicurazione RC e l'assicurazione del contenuto dell'appartamento in Svizzera: due cose diverse che vengono quasi sempre contrattate male",
+        description: "In Svizzera ci sono tre livelli di assicurazione che possono colpire un inquilino, e confonderli può lasciare un buco importante nel momento meno atteso. La…",
+        keywords: "assicurazione, contenuto, dell, appartamento, svizzera, cose, diverse, vengono",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-11-1-lassicurazione-rc-e-lassicurazione-del-contenuto-dellappartamento-in-s",
+        readingTime: 1,
+        dateUpdated: "11 maggio 2026",
+        summary: "In Svizzera ci sono tre livelli di assicurazione che possono colpire un inquilino, e confonderli può lasciare un buco importante nel momento meno…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Svizzera ci sono tre livelli di assicurazione che possono colpire un inquilino, e confonderli può lasciare un buco importante nel momento meno atteso. La prima è l'assicurazione dell'edificio, obbligatoria nella maggior parte dei cantoni ma a carico del proprietario, non dell'inquilino. Copre le pareti, la struttura e gli elementi fissi dell'abitazione. Quello che c'è dentro il pavimento, il tuo divano, il tuo computer, i tuoi vestiti, non esiste per quell' assicurazione.</p>
+<p>Il secondo livello è l'assicurazione sui contenuti domestici (assurance ménage o invenire du ménage), che copre i tuoi effetti personali da incendi, furti, danni causati dall'acqua o catastrofi naturali. Non è obbligatorio a livello nazionale, ma se il tuo appartamento è in fiamme o qualcuno viene a rubarti e non hai questa assicurazione, la perdita è tua al cento per cento. La terza è la RC privata (responsabilité civile), che copre i danni che si causano a terzi: si rompono gli occhiali di un vicino, si versa acqua per una disattenzione e si rovina il piano di sotto, o tuo figlio colpisce con una palla qualcosa di costoso. La RC non copre i danni che subisci tu, ma solo quelli che provochi.</p>
+<p>Il problema comune è che le compagnie di assicurazione vendono sia ménage che RC, combinati in un unico contratto, il che fa credere che siano la stessa cosa. Non lo sono. E c'è un altro errore frequente: molti inquilini credono che l'edificio “sia già assicurato” e che questo li protegga. La copertura dell'edificio è per l'edificio, non per ciò che tieni dentro. Puoi avere entrambe le coperture con società diverse se ti conviene economicamente, anche se l'offerta combinata di solito ha un prezzo ragionevole. L'importante è capire cosa copre ciascuna prima di averne bisogno.</p>
+</div>`
+    },
+
+    "fb-daily-20260511-02-la-garanzia-in-svizzera-dura-due-anni-per-legge-ma-richiederla-ha-piu": {
+        title: "La garanzia in Svizzera dura due anni per legge, ma richiederla ha più requisiti di quanto si possa immaginare",
+        featuredImage: "media/guides/actualidad-la-garantia-en-suiza-dura-dos-anos-por-ley-pe.jpg",
+        imageAlt: "La garanzia in Svizzera dura due anni per legge, ma richiederla ha più requisiti di quanto si possa immaginare",
+        description: "La legge svizzera (Codice degli Obblighi, art. 210) fissa a due anni il termine per reclamare difetti su un prodotto acquistato. Fin qui, tutto sembra a posto.…",
+        keywords: "garanzia, svizzera, dura, anni, legge, richiederla, requisiti, quanto",
+        keywordsLocalized: true,
+        category: "Alloggio",
+        hub: "vivienda",
+        slug: "actualidad-2026-05-11-2-la-garanzia-in-svizzera-dura-due-anni-per-legge-ma-richiederla-ha-piu",
+        readingTime: 1,
+        dateUpdated: "11 maggio 2026",
+        summary: "La legge svizzera (Codice degli Obblighi, art. 210) fissa a due anni il termine per reclamare difetti su un prodotto acquistato. Fin qui, tutto…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>La legge svizzera (Codice degli Obblighi, art. 210) fissa a due anni il termine per reclamare difetti su un prodotto acquistato. Fin qui, tutto sembra a posto. Il dettaglio che cambia tutto è che questo termine non significa che hai due anni per decidere se il prodotto ti piace o no: significa che hai due anni per scoprire un difetto nascosto che esisteva al momento dell'acquisto e avvisare immediatamente il venditore. Se lo scopri e aspetti settimane per reclamare, puoi perdere quel diritto.</p>
+<p>L'altro punto che molti ignorano è che la garanzia legale copre difetti preesistenti, non normale usura o problemi derivanti dall'uso. Se un elettrodomestico si rompe perché l'hai usato male, la garanzia non ti aiuta. Inoltre, quando acquisti un prodotto di seconda mano, il venditore può ridurre legalmente il periodo di garanzia a un anno. Quello che non può fare, nelle vendite tra azienda e consumatore, è eliminare completamente tale termine, anche se può tentare con clausole contrattuali esplicite che appaiono al di fuori delle condizioni generali.</p>
+<p>Bisogna anche distinguere tra la garanzia legale e la garanzia commerciale offerta dai produttori o dai negozi. Quest' ultima può essere più generosa della legge, ma le sue condizioni sono stabilite dal venditore. In Svizzera non esiste il diritto automatico di reso se un prodotto funziona bene ma semplicemente non ti piace: quel diritto non è in nessuna legge, dipende dalla politica di ogni negozio. Chi arriva dalla Spagna confondendo i due sistemi di solito lo scopre al banco resi, con la faccia di pochi amici e poco margine di manovra.</p>
+</div>`
+    },
+
+    "fb-daily-20260511-03-le-id-svizzero-ne-sorveglianza-statale-ne-procedura-urgente-ma-convien": {
+        title: "L'E-ID svizzero: né sorveglianza statale né procedura urgente, ma conviene capire di cosa si tratta prima che arrivi",
+        featuredImage: "media/guides/actualidad-el-e-id-suizo-ni-vigilancia-estatal-ni-tramit.jpg",
+        imageAlt: "L'E-ID svizzero: né sorveglianza statale né procedura urgente, ma conviene capire di cosa si tratta prima che arrivi",
+        description: "A partire da dicembre 2026, la Svizzera metterà in atto il suo sistema di identità elettronica ufficiale. Si chiamerà E-ID, funzionerà attraverso…",
+        keywords: "svizzero, sorveglianza, statale, procedura, urgente, conviene, capire, cosa",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-05-11-3-le-id-svizzero-ne-sorveglianza-statale-ne-procedura-urgente-ma-convien",
+        readingTime: 1,
+        dateUpdated: "11 maggio 2026",
+        summary: "A partire da dicembre 2026, la Svizzera metterà in atto il suo sistema di identità elettronica ufficiale. Si chiamerà E-ID, funzionerà attraverso…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>A partire da dicembre 2026, la Svizzera metterà in atto il suo sistema di identità elettronica ufficiale. Si chiamerà E-ID, funzionerà attraverso un'applicazione gratuita chiamata swiyu Wallet e consentirà di utilizzare il cellulare come documento di identità valido in contesti digitali e presenziali: per verificare l'età in una cassa del supermercato, aprire un conto bancario online, fare pratiche amministrative o dimostrare l'identità durante un controllo di polizia. Il documento fisico non scompare. L'E-ID è un'alternativa volontaria, non una sostituzione obbligatoria.</p>
+<p>Ciò che già circola in alcuni gruppi è l'idea che si tratti di un sistema di sorveglianza o di controllo centralizzato dei dati. La progettazione tecnica punta nella direzione opposta: i dati non vengono memorizzati su alcun server centrale dello Stato, ma sul telefono dell'utente stesso. Quando qualcuno utilizza l'E-ID, l'azienda o l'autorità può richiedere solo i dati strettamente necessari per quella specifica procedura e l'utente vede ciò che gli viene richiesto e può rifiutarlo. È il principio di minimizzazione dei dati applicato in modo tecnico, non come semplice promessa cartacea.</p>
+<p>Per i residenti stranieri questo ha un'implicazione diretta: l'E-ID non è solo per i cittadini svizzeri. Anche chi è in possesso di un permesso di soggiorno valido potrà richiederlo. Ciò semplifica le procedure come la verifica dell'identità per i contratti online, l'apertura di account senza recarsi in ufficio o la firma di documenti digitali con validità legale. Il sistema non è ancora disponibile: il lancio è previsto per dicembre 2026. C'è ancora tempo per capirlo bene prima che tutti inizino a darlo per scontato.</p>
+</div>`
     }
 });

@@ -1863,5 +1863,68 @@ Object.assign(window.siteContent.en.articles, {
         content: `<div class="article-content">
 <p>Cycling in Switzerland seems easy… until you start seeing the fines. In Switzerland the bike is not "lawless land". It has clear rules, and many times people do not know them until the bill arrives. For starters, bicycles are considered vehicles. That means you have to respect signals, traffic lights, and priorities just like a car. Skipping a red light is not a “prank,” it's a violation. Bike lanes theme: if there is a signposted lane, you are obliged to use it. It is not optional. Going on the road "just because" when you have a bike lane next to you can end up in a fine. Another classic: driving on the sidewalk. It is only allowed if there is a sign that authorizes it. If not, touch roadway or bike lane. And yes, this is also sanctioned. Lights: mandatory at night or with poor visibility. White in front, red behind. It seems basic, but every winter there are campaigns because a lot of people go over the topic. Headphones and mobile: they are not prohibited as such, but if they affect your ability to react, you can be fined. In Switzerland the criterion is simple: if you put safety at risk, you pay. Alcohol: yes, it also applies. From a certain level you can be sanctioned just like driving a car. There is no open bar here because "you ride a bike". And keep an eye on something that many don't know: in the event of an accident, liability insurance can come into play. If you cause damage, you can end up paying quite a bit more than a fine. Switzerland encourages cycling a lot, but it's not a theme park. It is a system where everything is regulated. And when I say everything… that's it.</p>
 </div>`
+    },
+
+    "fb-daily-20260511-01-rc-insurance-and-floor-content-insurance-in-switzerland-two-different": {
+        title: "RC insurance and floor content insurance in Switzerland: two different things that are almost always badly contracted",
+        featuredImage: "media/guides/actualidad-el-seguro-rc-y-el-seguro-de-contenido-del-pis.jpg",
+        imageAlt: "RC insurance and floor content insurance in Switzerland: two different things that are almost always badly contracted",
+        description: "In Switzerland there are three layers of insurance that can affect a tenant, and confusing them can leave an important hole at the least expected moment. The…",
+        keywords: "insurance, floor, content, switzerland, different, things, almost, always",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-11-1-rc-insurance-and-floor-content-insurance-in-switzerland-two-different",
+        readingTime: 1,
+        dateUpdated: "May 11, 2026",
+        summary: "In Switzerland there are three layers of insurance that can affect a tenant, and confusing them can leave an important hole at the least expected…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In Switzerland there are three layers of insurance that can affect a tenant, and confusing them can leave an important hole at the least expected moment. The first is building insurance, mandatory in most cantons but borne by the landlord, not the tenant. Covers the walls, structure and fixtures of the dwelling. What's inside the floor - your couch, your computer, your clothes - doesn't exist for that insurance.</p>
+<p>The second layer is home content insurance (assurance ménage or inventaire du ménage), which covers your personal belongings against fire, theft, water damage or natural disasters. It is not mandatory at the national level, but if your apartment is in flames or someone steals from you and you do not have this insurance, the loss is yours one hundred percent. The third is the private RC (responsabilité civile), which covers the damages you cause to third parties: you break a neighbor's glasses, you spill water due to carelessness and the floor below is damaged, or your child hits an expensive ball. CR does not cover damages that you suffer, only those that you cause.</p>
+<p>The usual problem is that insurance companies sell both, ménage and RC, combined in a single contract, which leads one to believe that they are the same thing. They are not. And there is another common misconception: many tenants believe that the building is “already insured” and that this protects them. Building coverage is for the building, not what you keep inside. You can have both coverages with different companies if it suits you financially, although the combined offer is usually reasonably priced. The important thing is to understand what each one covers before you need them.</p>
+</div>`
+    },
+
+    "fb-daily-20260511-02-the-warranty-in-switzerland-lasts-two-years-by-law-but-claiming-it-has": {
+        title: "The warranty in Switzerland lasts two years by law, but claiming it has more requirements than you can imagine",
+        featuredImage: "media/guides/actualidad-la-garantia-en-suiza-dura-dos-anos-por-ley-pe.jpg",
+        imageAlt: "The warranty in Switzerland lasts two years by law, but claiming it has more requirements than you can imagine",
+        description: "Swiss law (Code of Obligations, art. 210) sets the deadline for claiming defects in a purchased product at two years. So far, everything sounds good. The thing…",
+        keywords: "warranty, switzerland, lasts, years, claiming, more, requirements, than",
+        keywordsLocalized: true,
+        category: "Housing",
+        hub: "vivienda",
+        slug: "actualidad-2026-05-11-2-the-warranty-in-switzerland-lasts-two-years-by-law-but-claiming-it-has",
+        readingTime: 1,
+        dateUpdated: "May 11, 2026",
+        summary: "Swiss law (Code of Obligations, art. 210) sets the deadline for claiming defects in a purchased product at two years. So far, everything sounds good.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Swiss law (Code of Obligations, art. 210) sets the deadline for claiming defects in a purchased product at two years. So far, everything sounds good. The thing that changes everything is that this deadline does not mean that you have two years to decide whether you like the product or not: it means that you have two years to discover a hidden defect that existed at the time of purchase and notify the seller immediately. If you find out and wait weeks to claim, you may lose that right.</p>
+<p>The other point that many are unaware of is that the legal warranty covers pre-existing defects, not normal wear and tear or problems arising from use. If an appliance breaks because you've misused it, the warranty doesn't help. In addition, when you buy a second-hand product, the seller can legally reduce the warranty period to one year. What you cannot do, in business-to-consumer sales, is eliminate that term altogether, although you can try with explicit contractual clauses that appear outside the general conditions.</p>
+<p>A distinction must also be made between the legal guarantee and the commercial guarantee offered by manufacturers or stores. The latter may be more generous than the law, but its conditions are set by the seller. In Switzerland there is no automatic right of return if a product works well but you simply do not like it: that right is not in any law, it depends on the policy of each store. Those who arrive from Spain confusing the two systems usually discover it at the returns counter, with the face of few friends and little room for manoeuvre.</p>
+</div>`
+    },
+
+    "fb-daily-20260511-03-the-swiss-e-id-neither-state-surveillance-nor-urgent-processing-but-it": {
+        title: "The Swiss E-ID: neither state surveillance nor urgent processing, but it is important to understand what it is before it arrives",
+        featuredImage: "media/guides/actualidad-el-e-id-suizo-ni-vigilancia-estatal-ni-tramit.jpg",
+        imageAlt: "The Swiss E-ID: neither state surveillance nor urgent processing, but it is important to understand what it is before it arrives",
+        description: "Starting in December 2026, Switzerland will launch its official electronic identity system. It will be called E-ID, it will work through a free application…",
+        keywords: "swiss, neither, state, surveillance, urgent, processing, important, understand",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-11-3-the-swiss-e-id-neither-state-surveillance-nor-urgent-processing-but-it",
+        readingTime: 1,
+        dateUpdated: "May 11, 2026",
+        summary: "Starting in December 2026, Switzerland will launch its official electronic identity system. It will be called E-ID, it will work through a free…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Starting in December 2026, Switzerland will launch its official electronic identity system. It will be called E-ID, it will work through a free application called swiyu Wallet and it will allow you to use your mobile phone as a valid identity document in digital and face-to-face contexts: to verify your age at a supermarket checkout, open an online bank account, carry out administrative procedures or prove your identity during a police check. The physical document does not disappear. The E-ID is a voluntary alternative, not a mandatory substitution.</p>
+<p>What is already circulating in some groups is the idea that this is a centralized data surveillance or control system. The technical design points in the opposite direction: the data is not stored on any central server of the State, but on the user's own phone. When someone uses the E-ID, the company or authority can only request the data strictly necessary for that specific procedure, and the user sees what is being requested and can reject it. It is the principle of data minimization applied in a technical way, not as a simple promise on paper.</p>
+<p>For foreign residents this has a direct implication: the E-ID is not just for Swiss citizens. Those with a valid residence permit will also be able to apply. This simplifies procedures such as verifying identity for online contracts, opening accounts without moving to an office or signing digital documents with legal validity. The system is not yet available: the launch is scheduled for December 2026. There is time to understand it well before everyone starts to take it for granted.</p>
+</div>`
     }
 });

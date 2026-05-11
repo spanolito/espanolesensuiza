@@ -1839,5 +1839,68 @@ Object.assign(window.siteContent.es.articles, {
         content: `<div class="article-content">
 <p>Circular en bicicleta en Suiza parece sencillo… hasta que empiezas a ver las multas. En Suiza la bici no es "tierra sin ley". Tiene normas claras, y muchas veces la gente las desconoce hasta que le llega la factura. Para empezar, las bicicletas están consideradas vehículos. Eso significa que tienes que respetar señales, semáforos y prioridades igual que un coche. Saltarse un semáforo en rojo no es una "travesura", es una infracción. Tema carriles bici: si hay carril señalizado, estás obligado a usarlo. No es opcional. Ir por la carretera "porque sí" cuando tienes carril bici al lado puede acabar en multa. Otro clásico: circular por la acera. Solo está permitido si hay señal que lo autorice. Si no, toca calzada o carril bici. Y sí, esto también se sanciona. Luces: obligatorias de noche o con mala visibilidad. Blanca delante, roja detrás. Parece básico, pero cada invierno hay campañas porque mucha gente pasa del tema. Auriculares y móvil: no están prohibidos como tal, pero si afectan a tu capacidad de reacción, te pueden multar. En Suiza el criterio es simple: si pones en riesgo la seguridad, pagas. Alcohol: sí, también aplica. A partir de cierto nivel puedes ser sancionado igual que conduciendo un coche. Aquí no hay barra libre porque "vas en bici". Y ojo con algo que muchos no saben: en caso de accidente, el seguro de responsabilidad civil puede entrar en juego. Si causas daños, puedes acabar pagando bastante más que una multa. Suiza fomenta mucho la bici, pero no es un parque temático. Es un sistema donde todo está regulado. Y cuando digo todo… es todo.</p>
 </div>`
+    },
+
+    "fb-daily-20260511-01-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist": {
+        title: "El seguro RC y el seguro de contenido del piso en Suiza: dos cosas distintas que casi siempre se contratan mal",
+        featuredImage: "media/guides/actualidad-el-seguro-rc-y-el-seguro-de-contenido-del-pis.jpg",
+        imageAlt: "El seguro RC y el seguro de contenido del piso en Suiza: dos cosas distintas que casi siempre se contratan mal",
+        description: "En Suiza hay tres capas de seguros que pueden afectar a un inquilino, y confundirlas puede dejar un agujero importante en el momento menos esperado. La primera…",
+        keywords: "seguro, contenido, piso, suiza, cosas, distintas, casi, siempre",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-11-1-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist",
+        readingTime: 1,
+        dateUpdated: "11 mayo 2026",
+        summary: "En Suiza hay tres capas de seguros que pueden afectar a un inquilino, y confundirlas puede dejar un agujero importante en el momento menos esperado.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En Suiza hay tres capas de seguros que pueden afectar a un inquilino, y confundirlas puede dejar un agujero importante en el momento menos esperado. La primera es el seguro del edificio, obligatorio en la mayoría de cantones pero a cargo del propietario, no del inquilino. Cubre las paredes, la estructura y los elementos fijos de la vivienda. Lo que hay dentro del piso, tu sofá, tu ordenador, tu ropa, no existe para ese seguro.</p>
+<p>La segunda capa es el seguro de contenido del hogar (assurance ménage o inventaire du ménage), que cubre tus pertenencias personales frente a incendio, robo, daños por agua o catástrofes naturales. No es obligatorio a nivel nacional, pero si tu piso es pasto de las llamas o alguien te entra a robar y no tienes este seguro, la pérdida es tuya al cien por cien. La tercera es la RC privada (responsabilité civile), que cubre los daños que tú causas a terceros: rompes las gafas de un vecino, derramas agua por un descuido y se estropea el piso de abajo, o tu hijo le pega un balonazo a algo caro. La RC no cubre los daños que sufres tú, solo los que provocas.</p>
+<p>El problema habitual es que las compañías de seguros venden ambas, ménage y RC, combinadas en un solo contrato, lo que hace creer que son la misma cosa. No lo son. Y hay otro error frecuente: muchos inquilinos creen que el edificio "ya está asegurado" y que eso les protege. La cobertura del edificio es para el edificio, no para lo que guardas dentro. Puedes tener las dos coberturas con compañías distintas si te conviene económicamente, aunque la oferta combinada suele tener un precio razonable. Lo importante es entender qué cubre cada una antes de necesitarlas.</p>
+</div>`
+    },
+
+    "fb-daily-20260511-02-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r": {
+        title: "La garantía en Suiza dura dos años por ley, pero reclamarla tiene más requisitos de los que te imaginas",
+        featuredImage: "media/guides/actualidad-la-garantia-en-suiza-dura-dos-anos-por-ley-pe.jpg",
+        imageAlt: "La garantía en Suiza dura dos años por ley, pero reclamarla tiene más requisitos de los que te imaginas",
+        description: "La ley suiza (Código de las Obligaciones, art. 210) fija en dos años el plazo para reclamar defectos en un producto comprado. Hasta ahí, todo suena bien. El…",
+        keywords: "garantía, suiza, dura, años, reclamarla, tiene, requisitos, imaginas",
+        keywordsLocalized: true,
+        category: "Vivienda",
+        hub: "vivienda",
+        slug: "actualidad-2026-05-11-2-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r",
+        readingTime: 1,
+        dateUpdated: "11 mayo 2026",
+        summary: "La ley suiza (Código de las Obligaciones, art. 210) fija en dos años el plazo para reclamar defectos en un producto comprado. Hasta ahí, todo suena…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>La ley suiza (Código de las Obligaciones, art. 210) fija en dos años el plazo para reclamar defectos en un producto comprado. Hasta ahí, todo suena bien. El detalle que cambia todo es que este plazo no significa que tienes dos años para decidir si el producto te gusta o no: significa que tienes dos años para descubrir un defecto oculto que existía en el momento de la compra y notificárselo al vendedor de forma inmediata. Si lo descubres y esperas semanas para reclamar, puedes perder ese derecho.</p>
+<p>El otro punto que muchos desconocen es que la garantía legal cubre defectos preexistentes, no desgaste normal ni problemas derivados del uso. Si un electrodoméstico se rompe porque lo has usado mal, la garantía no te ayuda. Además, cuando compras un producto de segunda mano, el vendedor puede reducir legalmente el plazo de garantía a un año. Lo que no puede hacer, en ventas entre empresa y consumidor, es eliminar ese plazo por completo, aunque puede intentarlo con cláusulas contractuales explícitas que figuren fuera de las condiciones generales.</p>
+<p>Hay que distinguir también entre la garantía legal y la garantía comercial que ofrecen fabricantes o tiendas. Esta última puede ser más generosa que la ley, pero sus condiciones las fija el vendedor. En Suiza no existe el derecho automático de devolución si un producto funciona bien pero simplemente no te gusta: ese derecho no está en ninguna ley, depende de la política de cada tienda. Quien llega de España confundiendo los dos sistemas suele descubrirlo en el mostrador de devoluciones, con cara de pocos amigos y poco margen de maniobra.</p>
+</div>`
+    },
+
+    "fb-daily-20260511-03-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e": {
+        title: "El E-ID suizo: ni vigilancia estatal ni tramite urgente, pero conviene entender qué es antes de que llegue",
+        featuredImage: "media/guides/actualidad-el-e-id-suizo-ni-vigilancia-estatal-ni-tramit.jpg",
+        imageAlt: "El E-ID suizo: ni vigilancia estatal ni tramite urgente, pero conviene entender qué es antes de que llegue",
+        description: "A partir de diciembre de 2026, Suiza pondrá en marcha su sistema de identidad electrónica oficial. Se llamará E-ID, funcionará a través de una aplicación…",
+        keywords: "suizo, vigilancia, estatal, tramite, urgente, conviene, entender, antes",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-11-3-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e",
+        readingTime: 1,
+        dateUpdated: "11 mayo 2026",
+        summary: "A partir de diciembre de 2026, Suiza pondrá en marcha su sistema de identidad electrónica oficial. Se llamará E-ID, funcionará a través de una…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>A partir de diciembre de 2026, Suiza pondrá en marcha su sistema de identidad electrónica oficial. Se llamará E-ID, funcionará a través de una aplicación gratuita llamada swiyu Wallet y permitirá usar el teléfono móvil como documento de identidad válido en contextos digitales y presenciales: para verificar la edad en una caja de supermercado, abrir una cuenta bancaria en línea, hacer trámites administrativos o acreditar la identidad durante un control policial. El documento físico no desaparece. El E-ID es una alternativa voluntaria, no una sustitución obligatoria.</p>
+<p>Lo que ya circula en algunos grupos es la idea de que se trata de un sistema de vigilancia o de control centralizado de datos. El diseño técnico apunta en sentido contrario: los datos no se almacenan en ningún servidor central del Estado, sino en el propio teléfono del usuario. Cuando alguien usa el E-ID, la empresa o la autoridad solo puede solicitar los datos estrictamente necesarios para ese trámite concreto, y el usuario ve qué se le pide y puede rechazarlo. Es el principio de minimización de datos aplicado de forma técnica, no como simple promesa en papel.</p>
+<p>Para los residentes extranjeros esto tiene una implicación directa: el E-ID no es solo para ciudadanos suizos. Quienes tienen un permiso de residencia válido también podrán solicitarlo. Esto simplifica trámites como verificar la identidad para contratos en línea, abrir cuentas sin desplazarse a una oficina o firmar documentos digitales con validez legal. El sistema aún no está disponible: el lanzamiento está previsto para diciembre de 2026. Queda tiempo para entenderlo bien antes de que todo el mundo empiece a darlo por sentado.</p>
+</div>`
     }
 });
