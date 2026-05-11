@@ -2370,36 +2370,53 @@ window.siteContent.es.articles = {
 
     "fb-001-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe": {
         title: "Devolver compras en Suiza: lo que si y lo que no existe",
-        description: "Devolver compras en Suiza: lo que si y lo que no existe",
-        keywords: "vivir, suiza",
+        featuredImage: "media/guides/actualidad-devolver-compras-en-suiza-lo-que-si-y-lo-que.jpg",
+        imageAlt: "Devolver compras en Suiza: lo que sí y lo que no existe",
+        description: "Devolver compras en Suiza: lo que sí y lo que no existe. En Suiza no existe un derecho general a devolver una compra por simple cambio de opinión.",
+        keywords: "devolver, compras, suiza, derecho, desistimiento, tienda, online, consumidores",
         category: "Vivir en Suiza",
         hub: "vivir-en-suiza",
         slug: "fb-001-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe",
-        readingTime: 2,
-        dateUpdated: "avr 15, 2026",
+        readingTime: 3,
+        dateUpdated: "15 abril 2026",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4396910723862520/",
-        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        summary: "En Suiza no existe un derecho general a devolver compras por arrepentimiento. El desistimiento de 14 días solo aparece en casos concretos de venta bajo presión comercial.",
         content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
-  </div>
+<p>En Suiza no existe un derecho general a devolver una compra. Así de claro. No es como en otros países donde puedes cambiar de opinión y devolver un producto dentro de un plazo fijo. Aquí, si compras algo por tu cuenta, en tienda o incluso online, no tienes automáticamente derecho a devolverlo porque ya no lo quieres.</p>
+<p>La base legal es bastante clara. El derecho de desistimiento solo existe en situaciones muy concretas previstas en el Código de las Obligaciones, en particular el art. 40a CO y siguientes. Y no tiene nada que ver con el arrepentimiento, sino con la protección frente a la presión comercial.</p>
+<p>Ese derecho de 14 días se aplica únicamente cuando te han ido a buscar para venderte algo. Por ejemplo, ventas a domicilio, en la calle o en eventos promocionales donde no habías pedido nada. También se aplica a contratos cerrados por teléfono, cuando aceptas una oferta durante una llamada. En ambos casos, el contrato debe superar los 100 CHF.</p>
+<p>Si se cumplen esas condiciones, puedes anular el contrato en un plazo de 14 días sin penalización. Pero ese plazo empieza desde el momento en que aceptas la oferta, no cuando recibes el producto o el servicio. Y además, el proveedor debe haberte informado correctamente de ese derecho. Si no lo hace, la situación cambia.</p>
+<p>Fuera de estos casos, no hay derecho legal a devolver nada por simple cambio de opinión. Si entras en una tienda, compras un producto y luego te arrepientes, dependes únicamente de la política comercial del comercio. Lo mismo ocurre con compras online hechas por iniciativa propia. Si aceptan devoluciones, es porque quieren, no porque estén obligados.</p>
+<p>Esto genera bastante confusión, porque muchas tiendas en Suiza sí aceptan devoluciones. Pero hay que entenderlo bien: no es un derecho, es un gesto comercial. Cada empresa fija sus reglas. Plazo, reembolso en dinero o en vale, producto sin usar, embalaje intacto, etc.</p>
+<p>En el caso de seguros o servicios, el principio es el mismo. El derecho de revocación de 14 días también puede aplicarse, pero solo si el contrato se ha concluido bajo presión comercial. Es decir, si te lo venden por teléfono o en la calle sin que lo hayas solicitado previamente.</p>
+<p>En la práctica, esto significa que muchos contratos de seguros no entran en este marco. Porque normalmente eres tú quien pide la oferta o quien inicia el proceso. En ese caso, ya no hay derecho automático de desistimiento y se aplican únicamente las condiciones del contrato que hayas firmado.</p>
+<p>Ejemplo claro. Te llaman y aceptas cambiar de seguro en ese momento. Sí tienes 14 días para echarte atrás. Pero si eres tú quien contacta con la aseguradora y firma después, no tienes ese derecho por defecto. Lo mismo con un gimnasio, internet o cualquier otro servicio.</p>
+<p>En Suiza la lógica es simple: la ley te protege cuando te presionan para comprar, no cuando decides tú. Por eso aquí más que derecho a devolver, lo que realmente existe es la responsabilidad de leer antes de firmar. Porque una vez que has dicho que sí por tu cuenta, ya no hay vuelta atrás salvo que el contrato lo permita.</p>
 </div>`
     },
     "fb-002-circular-en-bicicleta-en-suiza-parece-sencillo": {
         title: "Circular en bicicleta en Suiza parece sencillo...",
-        description: "Circular en bicicleta en Suiza parece sencillo...",
-        keywords: "vivir, suiza",
+        featuredImage: "media/guides/actualidad-circular-en-bicicleta-en-suiza-parece-sencill.jpg",
+        imageAlt: "Circular en bicicleta en Suiza parece sencillo hasta que empiezas a ver las multas",
+        description: "Circular en bicicleta en Suiza parece sencillo, pero la bici está sujeta a normas claras y multas cuando no se respetan.",
+        keywords: "bicicleta, suiza, multas, carril bici, semaforos, acera, luces, seguridad vial",
         category: "Vivir en Suiza",
         hub: "vivir-en-suiza",
         slug: "fb-002-circular-en-bicicleta-en-suiza-parece-sencillo",
         readingTime: 2,
-        dateUpdated: "avr 13, 2026",
+        dateUpdated: "13 abril 2026",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4395200604033532/",
-        summary: "Accede al contenido completo discutido por la comunidad en la publicación original de Facebook.",
+        summary: "En Suiza la bicicleta no está fuera de las normas: semáforos, carriles bici, luces, aceras, alcohol y responsabilidad civil pueden acabar en multa o en costes mayores.",
         content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
-  </div>
+<p>En Suiza la bici no es "tierra sin ley". Tiene normas claras, y muchas veces la gente las desconoce hasta que le llega la factura.</p>
+<p>Para empezar, las bicicletas están consideradas vehículos. Eso significa que tienes que respetar señales, semáforos y prioridades igual que un coche. Saltarse un semáforo en rojo no es una travesura, es una infracción.</p>
+<p>Si hay carril bici señalizado, estás obligado a usarlo. No es opcional. Ir por la carretera cuando tienes carril bici al lado puede acabar en multa.</p>
+<p>Otro clásico es circular por la acera. Solo está permitido si hay señal que lo autorice. Si no, toca calzada o carril bici. Y sí, esto también se sanciona.</p>
+<p>Las luces son obligatorias de noche o con mala visibilidad: blanca delante y roja detrás. Parece básico, pero cada invierno hay campañas porque mucha gente pasa del tema.</p>
+<p>Auriculares y móvil no están prohibidos como tal, pero si afectan a tu capacidad de reacción, te pueden multar. En Suiza el criterio es simple: si pones en riesgo la seguridad, pagas.</p>
+<p>El alcohol también aplica. A partir de cierto nivel puedes ser sancionado igual que conduciendo un coche. Aquí no hay barra libre porque vayas en bici.</p>
+<p>Y ojo con algo que muchos no saben: en caso de accidente, el seguro de responsabilidad civil puede entrar en juego. Si causas daños, puedes acabar pagando bastante más que una multa.</p>
+<p>Suiza fomenta mucho la bici, pero no es un parque temático. Es un sistema donde todo está regulado.</p>
 </div>`
     },
     "fb-003-el-permiso-a-en-suiza-trabajar-si-vivir-no": {
