@@ -1386,14 +1386,14 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260430-01-la-noche-de-los-museos-en-ginebra": {
+    "fb-daily-20260430-04-la-noche-de-los-museos-en-ginebra": {
         title: "Die Museumsnacht in Genf",
         description: "Am Samstag, dem 30. Mai 2026, ab 18 Uhr findet in Genf wieder die Museumsnacht statt. Und es handelt sich nicht um einen gewöhnlichen, gemächlichen Rundgang ……",
         keywords: "museumsnacht, genf, samstag, findet, wieder, statt, handelt, sich",
         keywordsLocalized: true,
-        category: "Wohnen",
-        hub: "vivienda",
-        slug: "actualidad-2026-04-30-1-la-noche-de-los-museos-en-ginebra",
+        category: "Kultur und Veranstaltungen",
+        hub: "cultura-eventos",
+        slug: "actualidad-2026-04-30-4-la-noche-de-los-museos-en-ginebra",
         readingTime: 1,
         dateUpdated: "30 April 2026",
         featuredImage: "media/guides/actualidad-noche-museos-ginebra.jpg",
@@ -1408,14 +1408,14 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260430-02-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato": {
+    "fb-daily-20260430-05-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato": {
         title: "Schweizer Trachten: weder Kostüm noch billige Folklore",
         description: "Ich habe einen Artikel von SwissCommunity über die Trachten in der Schweiz gelesen und finde, es ist sinnvoll, ein wenig Hintergrundwissen zu vermitteln, da…",
         keywords: "schweizer, trachten, weder, kostüm, noch, billige, folklore, habe",
         keywordsLocalized: true,
-        category: "Wohnen",
-        hub: "vivienda",
-        slug: "actualidad-2026-04-30-2-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato",
+        category: "Kultur und Veranstaltungen",
+        hub: "cultura-eventos",
+        slug: "actualidad-2026-04-30-5-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato",
         readingTime: 1,
         dateUpdated: "30 April 2026",
         featuredImage: "media/guides/actualidad-trajes-tradicionales-suizos.jpg",
@@ -1432,14 +1432,14 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260430-03-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar": {
+    "fb-daily-20260430-06-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar": {
         title: "Das Lex-Koller-Gesetz wird verschärft: Es betrifft dich zwar nicht direkt … aber es wird dich dennoch betreffen",
         description: "Der Bundesrat hat eine Vernehmlassung zur Reform der Lex Koller eröffnet, und die Richtung ist klar: mehr Einschränkungen für Bürger aus Ländern außerhalb der…",
         keywords: "koller, gesetz, wird, verschärft, betrifft, dich, zwar, nicht",
         keywordsLocalized: true,
         category: "Leben in der Schweiz",
         hub: "vivir-en-suiza",
-        slug: "actualidad-2026-04-30-3-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar",
+        slug: "actualidad-2026-04-30-6-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar",
         readingTime: 1,
         dateUpdated: "30 April 2026",
         featuredImage: "media/guides/actualidad-lex-koller-endurece-suiza.jpg",

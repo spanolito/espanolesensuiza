@@ -1180,10 +1180,12 @@ function applyDecisions(byFile, decisions) {
 function validateOutputs(writes) {
   const errors = [];
   const perKeyHubs = new Map();
+  const duplicateIds = [];
   let totalArticles = 0;
 
   for (const write of writes) {
     const parsed = parseEntries(write.source);
+    const perFileIds = new Map();
     for (const entry of parsed) {
       const article = makeArticle(entry, write.filename);
       totalArticles += 1;
@@ -1209,10 +1211,21 @@ function validateOutputs(writes) {
       }
 
       const id = canonicalArticleId(article);
+      if (!perFileIds.has(id)) {
+        perFileIds.set(id, []);
+      }
+      perFileIds.get(id).push(article.key);
+
       if (!perKeyHubs.has(id)) {
         perKeyHubs.set(id, new Set());
       }
       perKeyHubs.get(id).add(article.hub);
+    }
+
+    for (const [id, keys] of perFileIds.entries()) {
+      if (keys.length > 1) {
+        duplicateIds.push(`${write.filename}:${id} duplicates ${keys.join(", ")}`);
+      }
     }
   }
 
@@ -1225,6 +1238,7 @@ function validateOutputs(writes) {
 
   return {
     errors,
+    duplicateIds,
     totalArticles,
   };
 }
@@ -1263,6 +1277,7 @@ function buildReport({
   lines.push(`- Manual decisions: **${manualCount}**`);
   lines.push(`- Canonical articles intentionally left empty: **${emptyDecisions.length}**`);
   lines.push(`- Validation errors: **${validation.errors.length}**`);
+  lines.push(`- Duplicate canonical ids: **${validation.duplicateIds.length}**`);
   lines.push("");
   lines.push("## Inventory");
   lines.push("");
@@ -1290,11 +1305,21 @@ function buildReport({
     lines.push("- every article has a valid `hub` or an empty pair");
     lines.push("- every non-empty hub has the matching translated `category`");
     lines.push("- the same key resolves to the same hub across languages/files");
+    lines.push("- no file contains duplicate canonical article ids");
   } else {
     lines.push("Validation errors:");
     lines.push("");
     for (const error of validation.errors) {
       lines.push(`- ${error}`);
+    }
+  }
+
+  if (validation.duplicateIds.length) {
+    lines.push("");
+    lines.push("Duplicate canonical ids:");
+    lines.push("");
+    for (const duplicate of validation.duplicateIds) {
+      lines.push(`- ${duplicate}`);
     }
   }
 
@@ -1349,8 +1374,10 @@ function main() {
   console.log(`File-level updates: ${perArticleChanges.length}`);
   console.log(`Report: ${reportPath}`);
 
-  if (validation.errors.length) {
-    console.error(`Validation failed with ${validation.errors.length} error(s).`);
+  if (validation.errors.length || validation.duplicateIds.length) {
+    console.error(
+      `Validation failed with ${validation.errors.length} error(s) and ${validation.duplicateIds.length} duplicate canonical id(s).`
+    );
     process.exitCode = 1;
   }
 }

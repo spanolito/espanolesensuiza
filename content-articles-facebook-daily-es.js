@@ -1381,14 +1381,14 @@ Object.assign(window.siteContent.es.articles, {
 </div>`
     },
 
-    "fb-daily-20260430-01-la-noche-de-los-museos-en-ginebra": {
+    "fb-daily-20260430-04-la-noche-de-los-museos-en-ginebra": {
         title: "La Noche de los Museos en Ginebra",
         description: "El sábado 30 de mayo de 2026, a partir de las 18h, vuelve la Noche de los Museos en Ginebra. Y no es la típica visita tranquila... es más bien un maratón…",
         keywords: "noche, museos, ginebra, sábado, mayo, partir, vuelve, típica",
         keywordsLocalized: true,
-        category: "Vivienda",
-        hub: "vivienda",
-        slug: "actualidad-2026-04-30-1-la-noche-de-los-museos-en-ginebra",
+        category: "Cultura y Eventos",
+        hub: "cultura-eventos",
+        slug: "actualidad-2026-04-30-4-la-noche-de-los-museos-en-ginebra",
         readingTime: 1,
         dateUpdated: "30 abril 2026",
         featuredImage: "media/guides/actualidad-noche-museos-ginebra.jpg",
@@ -1403,14 +1403,14 @@ Object.assign(window.siteContent.es.articles, {
 </div>`
     },
 
-    "fb-daily-20260430-02-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato": {
+    "fb-daily-20260430-05-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato": {
         title: "Los trajes tradicionales suizos: ni disfraz, ni folklore barato",
         description: "He visto un articulo de SwissCommunity sobre los trajes tradicionales en Suiza, y creo que viene bien poner un poco de contexto, porque desde fuera se entiende…",
         keywords: "trajes, tradicionales, suizos, disfraz, folklore, barato, visto, articulo",
         keywordsLocalized: true,
-        category: "Vivienda",
-        hub: "vivienda",
-        slug: "actualidad-2026-04-30-2-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato",
+        category: "Cultura y Eventos",
+        hub: "cultura-eventos",
+        slug: "actualidad-2026-04-30-5-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato",
         readingTime: 1,
         dateUpdated: "30 abril 2026",
         featuredImage: "media/guides/actualidad-trajes-tradicionales-suizos.jpg",
@@ -1427,14 +1427,14 @@ Object.assign(window.siteContent.es.articles, {
 </div>`
     },
 
-    "fb-daily-20260430-03-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar": {
+    "fb-daily-20260430-06-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar": {
         title: "La Lex Koller se endurece: no te afecta... pero sí te va a tocar",
         description: "El Consejo Federal ha abierto una consulta para reformar la Lex Koller, y la dirección es clara: más restricciones para ciudadanos de fuera de la UE y la AELE.…",
         keywords: "koller, endurece, afecta, tocar, consejo, federal, abierto, consulta",
         keywordsLocalized: true,
         category: "Vivir en Suiza",
         hub: "vivir-en-suiza",
-        slug: "actualidad-2026-04-30-3-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar",
+        slug: "actualidad-2026-04-30-6-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar",
         readingTime: 1,
         dateUpdated: "30 abril 2026",
         featuredImage: "media/guides/actualidad-lex-koller-endurece-suiza.jpg",

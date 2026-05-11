@@ -1386,14 +1386,14 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260430-01-la-noche-de-los-museos-en-ginebra": {
+    "fb-daily-20260430-04-la-noche-de-los-museos-en-ginebra": {
         title: "La Nuit des musées à Genève",
         description: "Le samedi 30 mai 2026, à partir de 18 h, la Nuit des musées fait son retour à Genève. Et il ne s'agit pas d'une simple visite tranquille... mais plutôt d'un…",
         keywords: "nuit, musées, genève, samedi, partir, fait, retour, agit",
         keywordsLocalized: true,
-        category: "Logement",
-        hub: "vivienda",
-        slug: "actualidad-2026-04-30-1-la-noche-de-los-museos-en-ginebra",
+        category: "Culture et Événements",
+        hub: "cultura-eventos",
+        slug: "actualidad-2026-04-30-4-la-noche-de-los-museos-en-ginebra",
         readingTime: 1,
         dateUpdated: "30 avril 2026",
         featuredImage: "media/guides/actualidad-noche-museos-ginebra.jpg",
@@ -1408,14 +1408,14 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260430-02-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato": {
+    "fb-daily-20260430-05-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato": {
         title: "Les costumes traditionnels suisses : ni déguisement, ni folklore de pacotille",
         description: "J'ai lu un article de SwissCommunity sur les costumes traditionnels en Suisse, et je pense qu'il est utile d'apporter quelques précisions, car vu de…",
         keywords: "costumes, traditionnels, suisses, déguisement, folklore, pacotille, article, swisscommunity",
         keywordsLocalized: true,
-        category: "Logement",
-        hub: "vivienda",
-        slug: "actualidad-2026-04-30-2-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato",
+        category: "Culture et Événements",
+        hub: "cultura-eventos",
+        slug: "actualidad-2026-04-30-5-los-trajes-tradicionales-suizos-ni-disfraz-ni-folklore-barato",
         readingTime: 1,
         dateUpdated: "30 avril 2026",
         featuredImage: "media/guides/actualidad-trajes-tradicionales-suizos.jpg",
@@ -1432,14 +1432,14 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260430-03-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar": {
+    "fb-daily-20260430-06-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar": {
         title: "La loi Koller se durcit : cela ne te concerne pas... mais ça va te toucher",
         description: "Le Conseil fédéral a lancé une consultation en vue de réformer la Lex Koller, et l'orientation est claire : davantage de restrictions pour les ressortissants…",
         keywords: "koller, durcit, cela, concerne, mais, toucher, conseil, fédéral",
         keywordsLocalized: true,
         category: "Vivre en Suisse",
         hub: "vivir-en-suiza",
-        slug: "actualidad-2026-04-30-3-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar",
+        slug: "actualidad-2026-04-30-6-la-lex-koller-se-endurece-no-te-afecta-pero-si-te-va-a-tocar",
         readingTime: 1,
         dateUpdated: "30 avril 2026",
         featuredImage: "media/guides/actualidad-lex-koller-endurece-suiza.jpg",
@@ -1789,25 +1789,4 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-03-le-travail-au-noir-en-suisse-ce-que-tu-risques-reellement-quand-quelqu": {
-        title: "Le travail au noir en Suisse : ce que tu risques réellement quand quelqu'un te propose de te payer en espèces sans justificatif",
-        featuredImage: "media/guides/actualidad-el-trabajo-en-negro-en-suiza-lo-que-realmente.jpg",
-        imageAlt: "Le travail au noir en Suisse : ce que tu risques réellement quand quelqu'un te propose de te payer en espèces sans justificatif",
-        description: "L'argument semble toujours raisonnable : c'est ponctuel, il n'y a pas de papiers, l'argent est versé au noir et personne ne s'en rendra compte. En Suisse, cela…",
-        keywords: "travail, noir, suisse, risques, réellement, quand, quelqu, propose",
-        keywordsLocalized: true,
-        category: "Travail et salaires",
-        hub: "trabajo",
-        slug: "actualidad-2026-05-10-3-le-travail-au-noir-en-suisse-ce-que-tu-risques-reellement-quand-quelqu",
-        readingTime: 2,
-        dateUpdated: "10 mai 2026",
-        summary: "L'argument semble toujours raisonnable : c'est ponctuel, il n'y a pas de papiers, l'argent est versé au noir et personne ne s'en rendra compte. En…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>L'argument semble toujours raisonnable : c'est ponctuel, il n'y a pas de papiers, l'argent est versé au noir et personne ne s'en rendra compte. En Suisse, cela porte un nom officiel, le « travail au noir », et la loi de 2005 contre le travail non déclaré prévoit des conséquences qui vont bien au-delà d’une simple amende administrative. L’erreur la plus courante est de penser que seul l’employeur court un risque. En réalité, le salarié s’expose lui aussi à des conséquences concrètes, dont certaines sont difficiles à rattraper.</p>
-<p>Le premier aspect, et le plus urgent, concerne l'assurance. En Suisse, si tu es victime d'un accident du travail alors que tu travailles au noir, tu n'es pas couvert par la LAA, l'assurance-accidents obligatoire. Cela signifie que tu devras payer toi-même une hospitalisation résultant de cet accident, ce que la LAMal ne couvre pas. Tu n'as pas non plus droit aux allocations de chômage si tu perds cet emploi : l'ORP ne reconnaît pas les emplois non déclarés, et les semaines travaillées au noir ne comptent pas pour les périodes de cotisation. Le système ne fait aucune exception, même si la situation te semble temporaire ou inoffensive.</p>
-<p>Pour les étrangers titulaires d'un permis de séjour, les conséquences sont plus graves. Une condamnation ou une sanction pour travail non déclaré, ou pour avoir exercé une activité sans l'autorisation requise, peut avoir une incidence sur le renouvellement du permis B et, en cas de récidive, peut être considérée comme un élément défavorable dans le cadre d'une procédure de naturalisation. Il ne s'agit pas d'une conséquence automatique ni immédiate, mais cela constitue un antécédent qui reste inscrit au dossier. La loi sur les étrangers permet de ne pas renouveler les titres de séjour lorsque la personne a enfreint de manière répétée les règles du marché du travail, et les cas de travail non déclaré sont consignés.</p>
-<p>Le troisième aspect que presque personne ne prend en compte, c'est l'AVS. Chaque mois de travail non déclaré est un mois sans cotisation. En Suisse, la retraite se construit année après année, et les lacunes dans les cotisations réduisent le montant de la pension de retraite. Si vous travaillez depuis des années en partie au noir et que vous atteignez l'âge de la retraite avec des lacunes dans votre historique, le système ne vous demande pas pourquoi : il calcule simplement ce que vous avez cotisé et vous verse ce montant. Il n'y a aucun moyen de compenser les années non cotisées une fois qu'elles sont passées. Pour quelqu'un qui vit en Suisse depuis 20 ou 30 ans, la différence peut s'élever à plusieurs centaines de francs par mois pour le reste de sa vie.</p>
-</div>`
-    }
 });
