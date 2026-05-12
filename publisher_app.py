@@ -7,7 +7,7 @@ espanolesensuiza.ch Publisher
 import calendar
 import io
 import json
-import math
+
 import os
 import queue
 import re
@@ -35,32 +35,39 @@ LOG_PATH    = f"{LOG_DIR}/daily-post.log"
 SITE_DIR    = "/Users/oscarandujar/Projets/espanolesensuiza"
 STATE_FILE  = os.path.expanduser("~/.espanolesensuiza_publisher.json")
 
-APP_W, APP_H = 1100, 820
-SIDEBAR_W    = 195          # largeur fixe de la sidebar
+APP_W, APP_H = 1140, 840
+SIDEBAR_W    = 220           # source list — largeur standard macOS
 
-# ── Palette — macOS system dark (sobre, lisible) ───────────────────────────────
+# ── Palette — macOS Sonoma / Sequoia dark mode (couleurs système exactes) ──────
 
 C = {
-    "accent":      "#D93050",  # rouge sobre, pas neon
+    # Fonds — hiérarchie systemBackground
+    "bg":          "#1C1C1E",  # systemBackground
+    "sidebar":     "#252527",  # secondarySystemBackground (sidebar)
+    "surface":     "#2C2C2E",  # tertiarySystemBackground (cartes)
+    "surface2":    "#3A3A3C",  # quaternarySystemBackground
+    "input":       "#3A3A3C",  # controlBackground
+    "term":        "#0D0D0F",  # terminal / log
+    "card":        "#2C2C2E",  # grouped sections
+    # Labels — opacités system approximées
+    "text":        "#FFFFFF",  # label (primary)
+    "text2":       "#98989F",  # secondaryLabel
+    "text3":       "#636366",  # tertiaryLabel
+    "dim":         "#48484A",  # quaternaryLabel / disabled
+    "log_text":    "#C7C7CC",  # monospace log
+    # Séparateurs
+    "sep":         "#38383A",  # opaque separator
+    "sep2":        "#2C2C2E",  # separator subtil
+    # Couleurs système
+    "accent":      "#D93050",  # rouge marque
     "accent_dk":   "#B02540",
-    "accent_glow": "#2A0F18",  # fond hover sombre
-    "bg":          "#1C1C1E",  # fond principal
-    "sidebar":     "#111113",  # fond sidebar (plus sombre que bg)
-    "surface":     "#2C2C2E",  # surface élevée (cartes)
-    "surface2":    "#242426",  # surface secondaire
-    "input":       "#3A3A3C",  # champs
-    "term":        "#131315",  # terminal
-    "text":        "#F2F2F7",  # texte principal
-    "text2":       "#AEAEB2",  # texte secondaire
-    "text3":       "#636366",  # texte discret
-    "sep":         "#38383A",  # séparateurs
-    "success":     "#30D158",  # vert système
-    "error":       "#FF453A",  # rouge système
-    "warn":        "#FF9F0A",  # orange système
-    "info":        "#0A84FF",  # bleu système
-    "log_text":    "#C7C7CC",  # texte terminal
-    "dim":         "#48484A",  # éléments discrets
-    "banner_l":    "#071A35",  # gauche du dégradé banner (bleu nuit)
+    "info":        "#0A84FF",  # systemBlue
+    "success":     "#30D158",  # systemGreen
+    "error":       "#FF453A",  # systemRed
+    "warn":        "#FF9F0A",  # systemOrange
+    # Sélection sidebar
+    "sel_bg":      "#1A3A5C",  # fond item actif (bleu sombre)
+    "sel_fg":      "#FFFFFF",  # texte item actif
 }
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
@@ -266,39 +273,44 @@ def line_tag(line: str) -> str:
     return "txt"
 
 
-# ── Primitives polygon partagées (aucun artefact de jointure) ─────────────────
+# ── Primitives rectangle arrondi (arcs natifs tkinter = anti-aliasé système) ──
 
-def _rounded_rect_poly(canvas: tk.Canvas,
-                       x0: float, y0: float, x1: float, y1: float,
-                       r: float, color: str, n: int = 10) -> None:
-    """Rectangle à coins arrondis de rayon r dessiné comme un polygon — zéro seam."""
+def _rounded_rect_native(canvas: tk.Canvas,
+                         x0: float, y0: float, x1: float, y1: float,
+                         r: float, color: str) -> None:
+    """Rectangle à coins arrondis via arcs tkinter natifs — aucun artefact de jointure.
+    Stratégie : deux rectangles croisés (débordement 1 px) puis 4 arcs en dernier.
+    Les arcs sont dessinés sur les rectangles → covering exact des pixels de jonction."""
     bh, bw = y1 - y0, x1 - x0
     if bh <= 0 or bw <= 0:
         return
     r = min(r, bh / 2.0, bw / 2.0)
-    # Parcours des 4 coins dans l'ordre TR → BR → BL → TL
-    corners = [
-        (x1 - r, y0 + r, -math.pi / 2,  0),
-        (x1 - r, y1 - r,  0,             math.pi / 2),
-        (x0 + r, y1 - r,  math.pi / 2,  math.pi),
-        (x0 + r, y0 + r,  math.pi,      3 * math.pi / 2),
-    ]
-    pts = []
-    for cx, cy, a0, a1 in corners:
-        for i in range(n + 1):
-            a = a0 + (a1 - a0) * i / n
-            pts += [cx + r * math.cos(a), cy + r * math.sin(a)]
-    canvas.create_polygon(pts, fill=color, outline="", smooth=False)
+    d = 2 * r
+    # Corps intérieur (deux rectangles en croix, 1 px de débordement sur les bords d'arc)
+    canvas.create_rectangle(x0 + r - 1, y0,     x1 - r + 1, y1,     fill=color, outline="")
+    canvas.create_rectangle(x0,          y0 + r - 1, x1, y1 - r + 1, fill=color, outline="")
+    # 4 arcs de coin — dessinés en dernier, sur les rectangles
+    canvas.create_arc(x0,     y0,     x0 + d, y0 + d, start=90,  extent=90, fill=color, outline="")
+    canvas.create_arc(x1 - d, y0,     x1,     y0 + d, start=0,   extent=90, fill=color, outline="")
+    canvas.create_arc(x0,     y1 - d, x0 + d, y1,     start=180, extent=90, fill=color, outline="")
+    canvas.create_arc(x1 - d, y1 - d, x1,     y1,     start=270, extent=90, fill=color, outline="")
 
 
+# Alias conservé pour le champ date (rayon = min(w,h)/2 → forme pill)
 def _pill_poly(canvas: tk.Canvas,
                x0: float, y0: float, x1: float, y1: float,
-               color: str, n: int = 18) -> None:
-    """Forme pill complète (rayon = min(w,h)/2). Utilisé pour le champ date."""
+               color: str, n: int = 0) -> None:
     bh, bw = y1 - y0, x1 - x0
     if bh <= 0 or bw <= 0:
         return
-    _rounded_rect_poly(canvas, x0, y0, x1, y1, min(bh, bw) / 2.0, color, n=n)
+    _rounded_rect_native(canvas, x0, y0, x1, y1, min(bh, bw) / 2.0, color)
+
+
+# Shortcut utilisé dans RoundedBtn / Pill
+def _rounded_rect_poly(canvas: tk.Canvas,
+                       x0: float, y0: float, x1: float, y1: float,
+                       r: float, color: str, n: int = 0) -> None:
+    _rounded_rect_native(canvas, x0, y0, x1, y1, r, color)
 
 
 # ── Bouton à coins arrondis — style plat macOS dark ───────────────────────────
@@ -400,6 +412,13 @@ class Pill(tk.Canvas):
         self.create_text(self._bw // 2, self._bh // 2,
                          text=self._text, fill=self._fg,
                          font=self._font, anchor="center")
+
+    def set_active(self, active: bool):
+        """Bascule entre état actif (accent) et inactif (surface2)."""
+        self._fill  = C["accent"]   if active else C["surface2"]
+        self._hover = _darken(C["accent"], 0.82) if active else _darken(C["surface2"], 0.82)
+        self._fg    = "white"       if active else C["text2"]
+        self._paint(self._fill)
 
 
 # ── Logo ──────────────────────────────────────────────────────────────────────
@@ -912,189 +931,255 @@ class PublisherApp:
     def _build_sidebar(self):
         SB  = self._sidebar
         BG  = C["sidebar"]
-        SEP = C["sep"]
 
-        # ── Logo zone ──────────────────────────────────────────────────────
-        top = tk.Frame(SB, bg=BG, padx=14, pady=16)
-        top.pack(fill="x")
-        FlagLogo(top, size=28, bg=BG).pack(side="left", padx=(0, 10))
-        lf = tk.Frame(top, bg=BG)
+        # ── En-tête app ───────────────────────────────────────────────────────
+        hdr = tk.Frame(SB, bg=BG, padx=16, pady=18)
+        hdr.pack(fill="x")
+        FlagLogo(hdr, size=22, bg=BG).pack(side="left", padx=(0, 10))
+        lf = tk.Frame(hdr, bg=BG)
         lf.pack(side="left")
-        tk.Label(lf, text="Españoles", font=("Helvetica Neue", 12, "bold"),
+        tk.Label(lf, text="espanolesensuiza",
+                 font=("Helvetica Neue", 12, "bold"),
                  bg=BG, fg=C["text"]).pack(anchor="w")
-        tk.Label(lf, text="en Suiza", font=("Helvetica Neue", 11),
+        tk.Label(lf, text="Publisher",
+                 font=("Helvetica Neue", 10),
                  bg=BG, fg=C["text3"]).pack(anchor="w")
 
-        tk.Frame(SB, bg=SEP, height=1).pack(fill="x")
+        tk.Frame(SB, bg=C["sep"], height=1).pack(fill="x", padx=0)
 
-        # ── Navigation ─────────────────────────────────────────────────────
-        nav = tk.Frame(SB, bg=BG, pady=10)
-        nav.pack(fill="x")
+        # ── Groupe navigation ─────────────────────────────────────────────────
+        tk.Frame(SB, bg=BG, height=8).pack(fill="x")   # espace top
 
-        nav_labels = ["Publication", "Images", "Journal", "Git"]
+        # Label groupe (style source list macOS)
+        grp = tk.Frame(SB, bg=BG, padx=16, pady=2)
+        grp.pack(fill="x")
+        tk.Label(grp, text="NAVIGATION",
+                 font=("Helvetica Neue", 10, "bold"),
+                 bg=BG, fg=C["text3"]).pack(anchor="w")
+
+        # Items de navigation
+        _ICONS = {
+            "Publication": "▶",
+            "Images":      "⊞",
+            "Journal":     "≡",
+            "Git":         "↑",
+        }
         self._nav_rows = {}
+        for label, glyph in _ICONS.items():
+            row = tk.Frame(SB, bg=BG, cursor="hand2")
+            row.pack(fill="x", padx=8, pady=1)
 
-        for label in nav_labels:
-            row         = tk.Frame(nav, bg=BG, padx=14, pady=9, cursor="hand2")
-            row.pack(fill="x")
-            icon_canvas = MacOSIcon(row, label, size=26, bg=BG)
-            icon_canvas.pack(side="left")
-            text_lbl    = tk.Label(row, text=label, font=("Helvetica Neue", 13),
-                                   bg=BG, fg=C["text2"])
-            text_lbl.pack(side="left", padx=(10, 0))
-            self._nav_rows[label] = (row, icon_canvas, text_lbl)
-            for w in (row, icon_canvas, text_lbl):
+            inner = tk.Frame(row, bg=BG, padx=10, pady=6)
+            inner.pack(fill="x")
+
+            ico = tk.Label(inner, text=glyph,
+                           font=("Helvetica Neue", 12),
+                           bg=BG, fg=C["text3"], width=2, anchor="center")
+            ico.pack(side="left")
+
+            lbl = tk.Label(inner, text=label,
+                           font=("Helvetica Neue", 12),
+                           bg=BG, fg=C["text2"])
+            lbl.pack(side="left", padx=(6, 0))
+
+            self._nav_rows[label] = (row, inner, ico, lbl)
+            for w in (row, inner, ico, lbl):
                 w.bind("<Button-1>", lambda _, l=label: self._switch_section(l))
                 w.bind("<Enter>",    lambda _, l=label: self._nav_hover(l, True))
                 w.bind("<Leave>",    lambda _, l=label: self._nav_hover(l, False))
 
-        # Appliquer l'état actif initial (Publication)
         self._nav_highlight("Publication")
 
-        # ── Bas : dernier push ──────────────────────────────────────────────
-        tk.Frame(SB, bg=SEP, height=1).pack(side="bottom", fill="x")
-        bot = tk.Frame(SB, bg=BG, padx=18, pady=14)
+        # ── Bas : dernier push ────────────────────────────────────────────────
+        tk.Frame(SB, bg=C["sep"], height=1).pack(side="bottom", fill="x")
+        bot = tk.Frame(SB, bg=BG, padx=16, pady=12)
         bot.pack(side="bottom", fill="x")
-
-        tk.Label(bot, text="Dernier push", font=("Helvetica Neue", 10),
+        tk.Label(bot, text="DERNIER PUSH",
+                 font=("Helvetica Neue", 9, "bold"),
                  bg=BG, fg=C["text3"]).pack(anchor="w")
         self._sidebar_push_lbl = tk.Label(
-            bot, text="–", font=("Helvetica Neue", 12, "bold"),
-            bg=BG, fg=C["info"], anchor="w", wraplength=SIDEBAR_W - 36)
-        self._sidebar_push_lbl.pack(anchor="w", pady=(2, 0))
+            bot, text="–",
+            font=("Helvetica Neue", 11),
+            bg=BG, fg=C["info"], anchor="w",
+            wraplength=SIDEBAR_W - 32)
+        self._sidebar_push_lbl.pack(anchor="w", pady=(3, 0))
 
     # ── Banner principal (gradient canvas) ────────────────────────────────────
 
     def _build_banner(self):
-        BANNER_H = 92
+        """Toolbar macOS HIG — fond fenêtre uni, titre + statut, séparateur fin."""
+        TOOLBAR_H = 56
+        BG = C["bg"]
 
-        cv = tk.Canvas(self._main, height=BANNER_H, highlightthickness=0,
-                       cursor="arrow")
-        cv.pack(fill="x")
-        self._banner_cv = cv
+        tb = tk.Frame(self._main, bg=BG, height=TOOLBAR_H)
+        tb.pack(fill="x")
+        tb.pack_propagate(False)
 
-        def _draw(ev=None):
-            cv.delete("all")
-            w = cv.winfo_width() or (APP_W - SIDEBAR_W)
-            # Dégradé horizontal : bleu nuit (gauche) → bg (droite)
-            lr, lg, lb = 0x07, 0x1A, 0x35   # C["banner_l"]
-            rr, rg, rb = 0x1C, 0x1C, 0x1E   # C["bg"]
-            steps = min(w, 360)
-            for i in range(steps):
-                t  = i / steps
-                rr2 = int(lr + (rr - lr) * t)
-                gg  = int(lg + (rg - lg) * t)
-                bb  = int(lb + (rb - lb) * t)
-                x0  = i * w // steps
-                x1  = (i + 1) * w // steps + 1
-                cv.create_rectangle(x0, 0, x1, BANNER_H,
-                                    fill=f"#{rr2:02x}{gg:02x}{bb:02x}", outline="")
-            # Barre d'accent gauche (4 px)
-            cv.create_rectangle(0, 0, 4, BANNER_H, fill=C["accent"], outline="")
-            # Titre et sous-titre
-            cv.create_text(22, BANNER_H // 2 - 10,
-                           text="espanolesensuiza.ch",
-                           anchor="w", fill=C["text"],
-                           font=("Helvetica Neue", 17, "bold"))
-            cv.create_text(22, BANNER_H // 2 + 13,
-                           text="Publication multilingue automatisée",
-                           anchor="w", fill=C["text3"],
-                           font=("Helvetica Neue", 12))
+        # ── Titre (gauche) ──────────────────────────────────────────────────
+        title_f = tk.Frame(tb, bg=BG)
+        title_f.pack(side="left", padx=20, pady=0, fill="y")
 
-        cv.bind("<Configure>", lambda e: _draw(e))
-        self.root.after(60, _draw)
+        tk.Label(title_f, text="espanolesensuiza.ch",
+                 font=("Helvetica Neue", 14, "bold"),
+                 bg=BG, fg=C["text"]).pack(anchor="w", pady=(14, 0))
+        tk.Label(title_f, text="Publication multilingue",
+                 font=("Helvetica Neue", 10),
+                 bg=BG, fg=C["text3"]).pack(anchor="w")
 
-        # Statut (frame flottante, côté droit du banner)
-        sf = tk.Frame(self._main, bg=C["surface"], padx=18, pady=0)
-        sf.place(relx=1.0, y=0, anchor="ne", height=BANNER_H)
+        # ── Indicateur statut (droite) ──────────────────────────────────────
+        sf = tk.Frame(tb, bg=BG, padx=20)
+        sf.pack(side="right", fill="y")
 
-        self._dot = tk.Label(sf, text="●", font=("Helvetica Neue", 16),
-                             fg=C["text3"], bg=C["surface"])
+        # Aligner verticalement au centre
+        sf_inner = tk.Frame(sf, bg=BG)
+        sf_inner.place(relx=0, rely=0.5, anchor="w")
+
+        self._dot = tk.Label(sf_inner, text="●",
+                             font=("Helvetica Neue", 11),
+                             fg=C["text3"], bg=BG)
         self._dot.pack(side="left")
-        self._slbl = tk.Label(sf, text="Prêt",
-                              font=("Helvetica Neue", 13, "bold"),
-                              bg=C["surface"], fg=C["text2"])
+        self._slbl = tk.Label(sf_inner, text="Prêt",
+                              font=("Helvetica Neue", 12, "bold"),
+                              bg=BG, fg=C["text2"])
         self._slbl.pack(side="left", padx=(5, 0))
-        self._sts = tk.Label(sf, text="", font=self.f_sm,
-                             bg=C["surface"], fg=C["text3"])
+        self._sts = tk.Label(sf_inner, text="",
+                             font=("Helvetica Neue", 11),
+                             bg=BG, fg=C["text3"])
         self._sts.pack(side="left", padx=(6, 0))
 
     # ── Contrôles ─────────────────────────────────────────────────────────────
 
     def _build_controls(self):
-        ctrl = tk.Frame(self._main, bg=C["surface"], padx=18, pady=12)
+        """Barre de contrôle — grouped card style Apple HIG."""
+        ctrl = tk.Frame(self._main, bg=C["bg"], padx=16, pady=10)
         ctrl.pack(fill="x")
 
-        # ── Gauche ──
-        left = tk.Frame(ctrl, bg=C["surface"])
+        # ── Carte contrôles ───────────────────────────────────────────────────
+        card = tk.Frame(ctrl, bg=C["surface"])
+        card.pack(fill="x")
+
+        # Coins arrondis via Canvas overlay sur la carte (simple simulation)
+        inner = tk.Frame(card, bg=C["surface"], padx=16, pady=10)
+        inner.pack(fill="x")
+
+        # ── Gauche : date + raccourcis ────────────────────────────────────────
+        left = tk.Frame(inner, bg=C["surface"])
         left.pack(side="left")
 
-        # Champ date avec coins arrondis (Canvas + Entry via create_window)
+        tk.Label(left, text="Date",
+                 font=("Helvetica Neue", 10),
+                 bg=C["surface"], fg=C["text3"]).pack(anchor="w", pady=(0, 3))
+
+        date_row = tk.Frame(left, bg=C["surface"])
+        date_row.pack(anchor="w")
+
+        # Champ date avec coins arrondis
         self._date_var = tk.StringVar()
         self._date_var.trace_add("write", self._on_date_var_change)
 
-        _dc_w, _dc_h = 138, 32
-        date_canvas = tk.Canvas(left, width=_dc_w, height=_dc_h,
-                                highlightthickness=0, bg=C["surface"],
-                                cursor="hand2")
-        date_canvas.pack(side="left")
-        # Fond arrondi normal et focus
-        self._date_wrap = date_canvas   # référence pour positionner le calendrier
+        # ── Date picker — bouton style Apple HIG ──────────────────────────────
+        _dp_w, _dp_h = 192, 32
 
-        def _dc_paint(focused=False):
-            date_canvas.delete("bg_pill", "focus_ring")
-            outline = C["accent"] if focused else C["dim"]
-            _pill_poly(date_canvas, 0, 0, _dc_w, _dc_h, outline)
-            _pill_poly(date_canvas, 1, 1, _dc_w - 1, _dc_h - 1, C["input"])
-
-        _dc_paint()
-
-        self._date_entry = tk.Entry(
-            date_canvas, textvariable=self._date_var,
-            width=10, font=self.f_mono, bd=0, relief="flat",
-            fg=C["text"], bg=C["input"],
-            insertbackground=C["accent"],
-            highlightthickness=0, cursor="hand2",
+        self._date_picker = tk.Canvas(
+            date_row, width=_dp_w, height=_dp_h,
+            highlightthickness=0, bg=C["surface"],
+            cursor="hand2"
         )
-        date_canvas.create_window(_dc_w // 2, _dc_h // 2, window=self._date_entry)
+        self._date_picker.pack(side="left")
+        self._date_wrap = self._date_picker
 
-        self._date_entry.bind("<Return>",   lambda _: self._launch())
-        self._date_entry.bind("<FocusIn>",  lambda e: (_dc_paint(True),  self._entry_focus_in(e)))
-        self._date_entry.bind("<FocusOut>", lambda e: (_dc_paint(False), self._entry_focus_out(e)))
-        # Clic dans le champ → ouvre le calendrier
-        self._date_entry.bind("<Button-1>", lambda _: self.root.after(10, self._show_cal))
-        date_canvas.bind("<Button-1>",      lambda _: self.root.after(10, self._show_cal))
-        self._placeholder()
+        def _repaint_picker(hovered=False):
+            cv = self._date_picker
+            cv.delete("all")
+            # Bordure toujours visible — bleu ciel si calendrier ouvert, gris sinon
+            border_col = C["info"] if getattr(self, "_cal_visible", False) \
+                         else (C["text3"] if hovered else C["dim"])
+            fill_col   = C["surface2"] if hovered else C["input"]
+            _rounded_rect_native(cv, 0, 0, _dp_w, _dp_h, 8, border_col)
+            _rounded_rect_native(cv, 1, 1, _dp_w - 1, _dp_h - 1, 7, fill_col)
 
-        # Quick pills
-        Pill(left, "Aujourd'hui", command=self._set_today,
-             fill=C["accent"], fg="white", h=28).pack(side="left", padx=(12, 5))
-        Pill(left, "Hier", command=self._set_yesterday,
-             fill=C["input"], fg=C["text2"], h=28).pack(side="left")
+            # ── Icône calendrier (14×13) centré verticalement ─────────────
+            ix = 11
+            iy = (_dp_h - 13) // 2
+            # Corps de l'icône (gris clair)
+            cv.create_rectangle(ix,      iy + 3, ix + 13, iy + 13, fill=C["text3"], outline="")
+            # Bandeau en-tête accent
+            cv.create_rectangle(ix,      iy + 3, ix + 13, iy + 6,  fill=C["accent"], outline="")
+            # Oreilles de reliure
+            cv.create_rectangle(ix + 3,  iy,     ix + 5,  iy + 5,  fill=C["text3"], outline="")
+            cv.create_rectangle(ix + 8,  iy,     ix + 10, iy + 5,  fill=C["text3"], outline="")
+            # Grille de jours (3×2 petits carrés, couleur fond)
+            for r_i in range(2):
+                for c_i in range(3):
+                    px = ix + 1 + c_i * 4
+                    py = iy + 7 + r_i * 3
+                    cv.create_rectangle(px, py, px + 2, py + 2, fill=fill_col, outline="")
 
-        # ── Droite ──
-        right = tk.Frame(ctrl, bg=C["surface"])
+            # ── Texte date / placeholder ───────────────────────────────────
+            val = self._date_var.get()
+            if val and re.match(r"^\d{4}-\d{2}-\d{2}$", val):
+                try:
+                    d_obj = datetime.strptime(val, "%Y-%m-%d").date()
+                    label = d_obj.strftime("%d.%m.%Y")
+                    tcol  = C["text"]
+                except Exception:
+                    label = val
+                    tcol  = C["text"]
+            else:
+                label = "Choisir une date..."
+                tcol  = C["text3"]
+            cv.create_text(ix + 19, _dp_h // 2,
+                           text=label, fill=tcol,
+                           font=("Helvetica Neue", 12), anchor="w")
+
+            # ── Chevron ▾ (droite) ─────────────────────────────────────────
+            cv.create_text(_dp_w - 13, _dp_h // 2,
+                           text="▾", fill=C["text3"],
+                           font=("Helvetica Neue", 11), anchor="center")
+
+        self._repaint_picker = _repaint_picker
+        _repaint_picker()
+
+        self._date_picker.bind("<Button-1>", lambda _: self.root.after(10, self._toggle_cal))
+        self._date_picker.bind("<Enter>",    lambda _: _repaint_picker(hovered=True))
+        self._date_picker.bind("<Leave>",    lambda _: _repaint_picker(hovered=False))
+
+        # Raccourcis rapides
+        Pill(date_row, "Aujourd'hui", command=self._set_today,
+             fill=C["accent"], fg="white", h=28).pack(side="left", padx=(10, 4))
+        Pill(date_row, "Hier", command=self._set_yesterday,
+             fill=C["surface2"], fg=C["text2"], h=28).pack(side="left")
+
+        # ── Droite : actions ──────────────────────────────────────────────────
+        right = tk.Frame(inner, bg=C["surface"])
         right.pack(side="right")
 
-        Pill(right, "Logs  ⌘L", command=self._open_logs,
-             fill=C["input"], fg=C["text3"], h=28).pack(side="right", padx=(10, 0))
+        tk.Label(right, text="Actions",
+                 font=("Helvetica Neue", 10),
+                 bg=C["surface"], fg=C["text3"]).pack(anchor="e", pady=(0, 3))
 
-        # Bouton Stop (caché)
-        self._btn_stop = RoundedBtn(right, "■  Arrêter",
+        btn_row = tk.Frame(right, bg=C["surface"])
+        btn_row.pack(anchor="e")
+
+        Pill(btn_row, "Logs  ⌘L", command=self._open_logs,
+             fill=C["surface2"], fg=C["text3"], h=28).pack(side="left", padx=(0, 10))
+
+        # Bouton Stop (caché initialement)
+        self._btn_stop = RoundedBtn(btn_row, "■  Arrêter",
                                     command=self._stop_process,
-                                    w=130, h=34, r=10,
-                                    fill="#CC2244", fg="white",
-                                    font_spec=self.f_btn)
+                                    w=115, h=28, r=8,
+                                    fill=C["error"], fg="white",
+                                    font_spec=("Helvetica Neue", 12, "bold"))
         Tooltip(self._btn_stop, "Interrompre le script (SIGTERM)")
 
-        # Bouton Lancer
-        self._btn_launch = RoundedBtn(right, "▶  Lancer   ⌘R",
+        # Bouton Lancer (action primaire)
+        self._btn_launch = RoundedBtn(btn_row, "▶  Lancer   ⌘R",
                                       command=self._launch,
-                                      w=155, h=34, r=10,
+                                      w=148, h=28, r=8,
                                       fill=C["accent"], fg="white",
-                                      font_spec=self.f_btn)
-        self._btn_launch.pack(side="right")
-        Tooltip(self._btn_launch, "Lancer publish_daily_posts.py --no-push  (⌘R)")
+                                      font_spec=("Helvetica Neue", 12, "bold"))
+        self._btn_launch.pack(side="left")
+        Tooltip(self._btn_launch, "Lancer publish_daily_posts.py  (⌘R)")
 
     # ── Images des articles ───────────────────────────────────────────────────
 
@@ -1106,37 +1191,45 @@ class PublisherApp:
         self._img_current      = None # post dict affiché
 
         # ── En-tête ──
-        hdr = tk.Frame(self._main, bg=C["surface"], padx=18, pady=8)
+        hdr = tk.Frame(self._main, bg=C["bg"], padx=16, pady=6)
         hdr.pack(fill="x")
-        tk.Label(hdr, text="Images des articles",
-                 font=self.f_sm, bg=C["surface"], fg=C["text3"]).pack(side="left")
-        self._img_hint = tk.Label(hdr, text="", font=self.f_sm,
-                                  bg=C["surface"], fg=C["text3"])
+        tk.Label(hdr, text="IMAGES",
+                 font=("Helvetica Neue", 9, "bold"),
+                 bg=C["bg"], fg=C["text3"]).pack(side="left")
+        self._img_hint = tk.Label(hdr, text="",
+                                  font=("Helvetica Neue", 10),
+                                  bg=C["bg"], fg=C["text3"])
         self._img_hint.pack(side="right")
 
-        # ── Corps ──
-        body = tk.Frame(self._main, bg=C["surface2"], padx=18, pady=10)
-        body.pack(fill="x")
+        # ── Corps (grouped card) ──
+        body = tk.Frame(self._main, bg=C["surface"], padx=16, pady=10)
+        body.pack(fill="x", padx=16, pady=(0, 8))
         self._img_body = body
 
-        # Ligne 1 : sélecteur d'article
-        row_sel = tk.Frame(body, bg=C["surface2"])
+        # Ligne 1 : sélecteur d'article — segmented control (aucun dropdown natif)
+        row_sel = tk.Frame(body, bg=C["surface"])
         row_sel.pack(fill="x", pady=(0, 8))
-        tk.Label(row_sel, text="Article :", font=self.f_sm,
-                 bg=C["surface2"], fg=C["text2"]).pack(side="left")
-        self._img_combo_var = tk.StringVar()
-        self._img_combo = ttk.Combobox(row_sel, textvariable=self._img_combo_var,
-                                        state="readonly", width=62,
-                                        font=self.f_sm)
-        self._img_combo.pack(side="left", padx=(8, 0))
-        self._img_combo.bind("<<ComboboxSelected>>", self._on_img_article_selected)
+        tk.Label(row_sel, text="Article",
+                 font=("Helvetica Neue", 11),
+                 bg=C["surface"], fg=C["text2"]).pack(side="left")
+        # Les boutons de sélection sont peuplés dans _refresh_images
+        self._img_sel_frame = tk.Frame(row_sel, bg=C["surface"])
+        self._img_sel_frame.pack(side="left", padx=(10, 0))
+        self._img_sel_pills = []   # list[Pill] — un par article
+        self._img_sel_idx   = 0    # index actif
+        # Titre de l'article sélectionné — affiché à droite des pills
+        self._img_title_lbl = tk.Label(row_sel, text="",
+                                       font=("Helvetica Neue", 12),
+                                       bg=C["surface"], fg=C["text"],
+                                       anchor="w")
+        self._img_title_lbl.pack(side="left", padx=(14, 0), fill="x", expand=True)
 
         # Ligne 2 : slot image (contenu dynamique)
-        self._img_slot_frame = tk.Frame(body, bg=C["surface2"])
+        self._img_slot_frame = tk.Frame(body, bg=C["surface"])
         self._img_slot_frame.pack(fill="x", pady=(0, 8))
 
         # Ligne 3 : cases inclusion
-        self._img_check_frame = tk.Frame(body, bg=C["surface2"])
+        self._img_check_frame = tk.Frame(body, bg=C["surface"])
         self._img_check_frame.pack(fill="x")
 
     def _refresh_images(self, date_str: str):
@@ -1146,7 +1239,10 @@ class PublisherApp:
         self._img_thumbs.clear()
         self._img_current = None
 
-        # Vider slot + cases
+        # Vider sélecteur + slot + cases
+        for w in self._img_sel_frame.winfo_children():
+            w.destroy()
+        self._img_sel_pills.clear()
         for w in self._img_slot_frame.winfo_children():
             w.destroy()
         for w in self._img_check_frame.winfo_children():
@@ -1154,20 +1250,27 @@ class PublisherApp:
 
         posts = _parse_post_titles(date_str)
         if not posts:
-            self._img_combo["values"] = []
-            self._img_combo_var.set("")
+            self._img_title_lbl.config(text="")
             self._img_hint.config(text=f"Aucun fichier posts_{date_str}.md", fg=C["text3"])
             tk.Label(self._img_slot_frame, text="",
                      bg=C["surface2"]).pack()
             return
 
-        self._img_posts = posts
+        self._img_posts   = posts
+        self._img_sel_idx = 0
 
-        # ── Dropdown ──
-        labels = [f"Article {p['num']}  —  {p['title'][:60]}{'…' if len(p['title']) > 60 else ''}"
-                  for p in posts]
-        self._img_combo["values"] = labels
-        self._img_combo.current(0)
+        # ── Sélecteur segmenté — un Pill par article (aucun dropdown natif) ──
+        for i, p in enumerate(posts):
+            pill = Pill(self._img_sel_frame, f"Art. {p['num']}",
+                        command=lambda idx=i: self._select_article(idx),
+                        fill=C["accent"] if i == 0 else C["surface2"],
+                        fg="white"       if i == 0 else C["text2"],
+                        h=28, r=9)
+            pill.pack(side="left", padx=(0, 6))
+            self._img_sel_pills.append(pill)
+
+        # Titre de l'article actif (index 0 par défaut)
+        self._img_title_lbl.config(text=posts[0]["title"])
 
         # ── Cases inclusion ──
         tk.Label(self._img_check_frame, text="Inclure dans le commit :",
@@ -1295,9 +1398,18 @@ class PublisherApp:
             fg=C["success"] if all_ok else C["warn"]
         )
 
-    def _on_img_article_selected(self, _=None):
-        idx = self._img_combo.current()
+    def _select_article(self, idx: int):
+        """Sélectionne l'article idx dans le sélecteur segmenté."""
+        self._img_sel_idx = idx
+        for i, pill in enumerate(self._img_sel_pills):
+            pill.set_active(i == idx)
+        # Afficher le titre de l'article sélectionné
+        if self._img_posts and idx < len(self._img_posts):
+            self._img_title_lbl.config(text=self._img_posts[idx]["title"])
         self._show_img_slot(idx)
+
+    def _on_img_article_selected(self, _=None):
+        self._select_article(self._img_sel_idx)
 
     def _on_img_inclusion_changed(self):
         self._update_img_hint()
@@ -1377,26 +1489,26 @@ class PublisherApp:
     # ── Journal ───────────────────────────────────────────────────────────────
 
     def _build_log(self):
-        # En-tête barre
-        bar = tk.Frame(self._main, bg=C["surface2"], padx=16, pady=5)
+        """Zone log — terminal style, en-tête minimaliste Apple HIG."""
+        # En-tête
+        bar = tk.Frame(self._main, bg=C["bg"], padx=16, pady=5)
         bar.pack(fill="x")
 
         tk.Label(bar, text="Journal d'exécution",
-                 font=self.f_sm, bg=C["surface2"],
-                 fg=C["text3"]).pack(side="left")
+                 font=("Helvetica Neue", 10, "bold"),
+                 bg=C["bg"], fg=C["text3"]).pack(side="left")
 
-        self._prog = ttk.Progressbar(bar, mode="indeterminate", length=160)
-        self._prog.pack(side="left", padx=(14, 0))
+        self._prog = ttk.Progressbar(bar, mode="indeterminate", length=140)
+        self._prog.pack(side="left", padx=(12, 0))
 
-        clr = tk.Label(bar, text="Effacer", font=self.f_sm,
-                       bg=C["surface2"], fg=C["text3"],
-                       cursor="hand2", padx=4)
+        clr = tk.Label(bar, text="Effacer", font=("Helvetica Neue", 10),
+                       bg=C["bg"], fg=C["text3"], cursor="hand2", padx=4)
         clr.pack(side="right")
         clr.bind("<Button-1>", lambda _: self._log_clear())
         clr.bind("<Enter>",    lambda _: clr.config(fg=C["text"]))
         clr.bind("<Leave>",    lambda _: clr.config(fg=C["text3"]))
 
-        # Corps
+        # Corps terminal
         lf = tk.Frame(self._main, bg=C["term"])
         lf.pack(fill="both", expand=True)
 
@@ -1429,67 +1541,67 @@ class PublisherApp:
     # ── Barre de statut bas ───────────────────────────────────────────────────
 
     def _build_statusbar(self):
-        # Séparateur puis statusbar (side=top dans bottom_area)
+        """Barre de statut minimaliste — footnote style Apple HIG."""
         tk.Frame(self._main, bg=C["sep"], height=1).pack(fill="x")
-        sb = tk.Frame(self._main, bg=C["surface2"], padx=16, pady=7)
+        sb = tk.Frame(self._main, bg=C["bg"], padx=16, pady=5)
         sb.pack(fill="x")
 
-        self._summ_lbl = tk.Label(sb, text="", font=self.f_sm,
-                                  bg=C["surface2"], fg=C["text2"])
+        FONT_FOOT = ("Helvetica Neue", 10)
+
+        self._summ_lbl = tk.Label(sb, text="",
+                                  font=FONT_FOOT, bg=C["bg"], fg=C["text2"])
         self._summ_lbl.pack(side="left")
 
-        # Dernier push git (origine)
-        self._git_push_lbl = tk.Label(sb, text="", font=self.f_sm,
-                                      bg=C["surface2"], fg=C["text3"])
+        self._git_push_lbl = tk.Label(sb, text="",
+                                      font=FONT_FOOT, bg=C["bg"], fg=C["text3"])
         self._git_push_lbl.pack(side="right")
 
-        # Dernier lancement app (état interne)
-        self._hist_lbl = tk.Label(sb, text="", font=self.f_sm,
-                                  bg=C["surface2"], fg=C["text3"])
-        self._hist_lbl.pack(side="right", padx=(0, 16))
+        self._hist_lbl = tk.Label(sb, text="",
+                                  font=FONT_FOOT, bg=C["bg"], fg=C["text3"])
+        self._hist_lbl.pack(side="right", padx=(0, 14))
         self._refresh_hist()
 
-        # Info log (centre)
         self._log_info = tk.Label(sb, text=self._log_info_str(),
-                                  font=self.f_sm, bg=C["surface2"],
-                                  fg=C["text3"])
-        self._log_info.pack(side="right", padx=(0, 20))
+                                  font=FONT_FOOT, bg=C["bg"], fg=C["text3"])
+        self._log_info.pack(side="right", padx=(0, 18))
 
     # ── Barre git ──────────────────────────────────────────────────────────────
 
     def _build_git_bar(self):
-        # Barre toujours visible en bas — boutons toujours présents, état géré via set_enabled
+        """Barre d'action git — toujours visible, boutons actifs/grisés selon état."""
         tk.Frame(self._main, bg=C["sep"], height=1).pack(side="bottom", fill="x")
-        self._git_bar = tk.Frame(self._main, bg=C["surface"], padx=16, pady=10)
+        self._git_bar = tk.Frame(self._main, bg=C["surface"], padx=16, pady=9)
         self._git_bar.pack(side="bottom", fill="x")
 
+        # Message statut (gauche)
         self._git_lbl = tk.Label(self._git_bar, text="Aucun commit en attente",
-                                 font=self.f_ui, bg=C["surface"],
-                                 fg=C["text3"])
+                                 font=("Helvetica Neue", 11),
+                                 bg=C["surface"], fg=C["text3"])
         self._git_lbl.pack(side="left")
 
+        # Boutons (droite) — ordre visuel : Annuler | Publier
         self._btn_publish = RoundedBtn(
-            self._git_bar, "Publier  (git push)",
+            self._git_bar, "↑  Publier (git push)",
             command=self._do_push,
-            w=175, h=34, r=12,
+            w=170, h=28, r=8,
             fill=C["success"], fg=C["bg"],
-            font_spec=("Helvetica Neue", 12, "bold"),
+            font_spec=("Helvetica Neue", 11, "bold"),
         )
         self._btn_publish.pack(side="right")
 
         self._btn_cancel_git = RoundedBtn(
-            self._git_bar, "Annuler le commit",
+            self._git_bar, "✕  Annuler le commit",
             command=self._do_cancel,
-            w=175, h=34, r=12,
-            fill=C["error"], fg="white",
-            font_spec=("Helvetica Neue", 12, "bold"),
+            w=165, h=28, r=8,
+            fill=C["surface2"], fg=C["error"],
+            hover=C["input"],
+            font_spec=("Helvetica Neue", 11, "bold"),
         )
         self._btn_cancel_git.pack(side="right", padx=(0, 8))
 
         Tooltip(self._btn_publish,    "git push → déploiement Vercel")
-        Tooltip(self._btn_cancel_git, "git reset HEAD~1 (commit défait, fichiers conservés)")
+        Tooltip(self._btn_cancel_git, "git reset HEAD~1 — fichiers conservés")
 
-        # État initial : grisés jusqu'à la vérification de démarrage
         self._btn_publish.set_enabled(False)
         self._btn_cancel_git.set_enabled(False)
         self._git_bar_visible = False
@@ -1513,25 +1625,28 @@ class PublisherApp:
             self._git_panel_refresh()
 
     def _nav_highlight(self, active_name: str):
-        """Met à jour les couleurs de la barre de navigation selon la section active."""
+        """Met à jour l'état actif/inactif de chaque item de la source list."""
         BG = C["sidebar"]
-        for name, (row, icon_cv, text_lbl) in self._nav_rows.items():
+        for name, (row, inner, ico, lbl) in self._nav_rows.items():
             is_active = name == active_name
-            rbg = C["surface"] if is_active else BG
-            tfg = C["text"]    if is_active else C["text2"]
-            row.config(bg=rbg)
-            icon_cv.config(bg=rbg)      # MacOSIcon — juste le fond extérieur
-            text_lbl.config(bg=rbg, fg=tfg)
+            rbg  = C["sel_bg"] if is_active else BG
+            ifg  = C["sel_fg"] if is_active else C["text3"]
+            tfg  = C["sel_fg"] if is_active else C["text2"]
+            for w in (row, inner):
+                w.config(bg=rbg)
+            ico.config(bg=rbg, fg=ifg)
+            lbl.config(bg=rbg, fg=tfg)
 
     def _nav_hover(self, name: str, entering: bool):
-        """Effet hover sur les onglets non actifs."""
+        """Effet hover subtil sur les items non actifs."""
         if name == self._active_section:
             return
-        row, icon_cv, text_lbl = self._nav_rows[name]
+        row, inner, ico, lbl = self._nav_rows[name]
         bg = C["surface2"] if entering else C["sidebar"]
-        row.config(bg=bg)
-        icon_cv.config(bg=bg)
-        text_lbl.config(bg=bg)
+        for w in (row, inner, ico, lbl):
+            w.config(bg=bg)
+        ico.config(fg=C["text2"] if entering else C["text3"])
+        lbl.config(fg=C["text"]  if entering else C["text2"])
 
     # ── Panneau Images ────────────────────────────────────────────────────────
 
@@ -1569,12 +1684,14 @@ class PublisherApp:
 
     def _build_journal_panel(self, parent):
         """Lecteur du fichier de log daily-post.log."""
-        bar = tk.Frame(parent, bg=C["surface2"], padx=16, pady=6)
+        bar = tk.Frame(parent, bg=C["bg"], padx=16, pady=7)
         bar.pack(fill="x")
         tk.Label(bar, text="Journal — daily-post.log",
-                 font=self.f_sm, bg=C["surface2"], fg=C["text3"]).pack(side="left")
-        rl = tk.Label(bar, text="↺  Rafraîchir", font=self.f_sm,
-                      bg=C["surface2"], fg=C["text3"], cursor="hand2", padx=4)
+                 font=("Helvetica Neue", 11, "bold"),
+                 bg=C["bg"], fg=C["text2"]).pack(side="left")
+        rl = tk.Label(bar, text="↺  Rafraîchir",
+                      font=("Helvetica Neue", 10),
+                      bg=C["bg"], fg=C["text3"], cursor="hand2", padx=4)
         rl.pack(side="right")
         rl.bind("<Button-1>", lambda _: self._journal_reload())
         rl.bind("<Enter>",    lambda _: rl.config(fg=C["text"]))
@@ -1627,12 +1744,14 @@ class PublisherApp:
 
     def _build_git_panel(self, parent):
         """Historique Git et état du dépôt."""
-        bar = tk.Frame(parent, bg=C["surface2"], padx=16, pady=6)
+        bar = tk.Frame(parent, bg=C["bg"], padx=16, pady=7)
         bar.pack(fill="x")
         tk.Label(bar, text="Historique Git — origin/main",
-                 font=self.f_sm, bg=C["surface2"], fg=C["text3"]).pack(side="left")
-        rl = tk.Label(bar, text="↺  Rafraîchir", font=self.f_sm,
-                      bg=C["surface2"], fg=C["text3"], cursor="hand2", padx=4)
+                 font=("Helvetica Neue", 11, "bold"),
+                 bg=C["bg"], fg=C["text2"]).pack(side="left")
+        rl = tk.Label(bar, text="↺  Rafraîchir",
+                      font=("Helvetica Neue", 10),
+                      bg=C["bg"], fg=C["text3"], cursor="hand2", padx=4)
         rl.pack(side="right")
         rl.bind("<Button-1>", lambda _: self._git_panel_refresh())
         rl.bind("<Enter>",    lambda _: rl.config(fg=C["text"]))
@@ -1773,16 +1892,6 @@ class PublisherApp:
                 text=f"{'✓' if ok else '✗'} {ts}",
                 fg=C["success"] if ok else C["error"])
 
-    def _fetch_git_push_bg(self):
-        """Récupère la date du dernier push en thread, puis met à jour l'UI via after()."""
-        push_date = last_git_push_date()
-        self.root.after(0, lambda: self._apply_git_push_lbl(push_date))
-
-    def _fetch_published_dates_bg(self):
-        """Récupère les jours publiés en thread, met à jour le calendrier via after()."""
-        dates = git_published_dates()
-        self.root.after(0, lambda: self._cal_inline.set_published(dates))
-
     def _apply_git_push_lbl(self, push_date: str):
         """Applique la date de push dans la barre de statut et la sidebar (thread principal)."""
         try:
@@ -1803,37 +1912,16 @@ class PublisherApp:
         ts = datetime.fromtimestamp(p.stat().st_mtime).strftime("%d.%m %H:%M")
         return f"{p.name}  {kb} ko  ({ts})"
 
-    # ── Champ date ────────────────────────────────────────────────────────────
-
-    def _placeholder(self):
-        if not self._date_var.get():
-            self._date_entry.config(fg=C["text3"])
-            self._date_entry.delete(0, "end")
-            self._date_entry.insert(0, "YYYY-MM-DD")
-
-    def _entry_focus_in(self, _=None):
-        if self._date_entry.get() == "YYYY-MM-DD":
-            self._date_entry.delete(0, "end")
-            self._date_entry.config(fg=C["text"])
-
-    def _entry_focus_out(self, _=None):
-        val = self._date_entry.get().strip()
-        if not val or val == "YYYY-MM-DD":
-            self._date_var.set("")
-            self._placeholder()
-        else:
-            self._date_entry.config(fg=C["text"])
-
     def _set_today(self):
-        self._date_entry.config(fg=C["text"])
         self._date_var.set(date.today().strftime("%Y-%m-%d"))
 
     def _set_yesterday(self):
-        self._date_entry.config(fg=C["text"])
         self._date_var.set((date.today() - timedelta(days=1)).strftime("%Y-%m-%d"))
 
     def _on_date_var_change(self, *_):
-        """Rafraîchit les slots images dès que la date est valide."""
+        """Rafraîchit le picker et les slots images dès que la date est valide."""
+        if hasattr(self, "_repaint_picker"):
+            self._repaint_picker()
         val = self._date_var.get().strip()
         if re.match(r"^\d{4}-\d{2}-\d{2}$", val):
             # Petit délai pour ne pas rafraîchir à chaque frappe intermédiaire
@@ -1850,8 +1938,8 @@ class PublisherApp:
         if not self._cal_visible:
             return
         w = event.widget
-        # Le champ date et son wrapper gèrent eux-mêmes l'ouverture/fermeture
-        if w is self._date_entry or w is self._date_wrap:
+        # Le picker date gère lui-même l'ouverture/fermeture
+        if w is self._date_wrap:
             return
         # Remonter l'arbre widget : si le clic est dans le calendrier, ne pas fermer
         node = w
@@ -1871,7 +1959,7 @@ class PublisherApp:
             self._show_cal()
 
     def _show_cal(self):
-        raw = self._date_entry.get().strip()
+        raw = self._date_var.get().strip()
         if re.match(r"^\d{4}-\d{2}-\d{2}$", raw):
             try:
                 self._cal_inline.set_date(datetime.strptime(raw, "%Y-%m-%d").date())
@@ -1891,45 +1979,67 @@ class PublisherApp:
         self._cal_inline.place(x=x, y=y)
         self._cal_inline.lift()
         self._cal_visible = True
+        if hasattr(self, "_repaint_picker"):
+            self._repaint_picker()
 
     def _hide_cal(self):
         if self._cal_inline:
             self._cal_inline.place_forget()
         self._cal_visible = False
+        if hasattr(self, "_repaint_picker"):
+            self._repaint_picker()
 
     def _cal_pick(self, d: date):
-        self._date_entry.config(fg=C["text"])
         self._date_var.set(d.strftime("%Y-%m-%d"))
         self._hide_cal()
 
     # ── Démarrage ─────────────────────────────────────────────────────────────
 
     def _startup_check(self):
-        if has_pending_commit():
-            self._log_write("── Commit local non pushé détecté ──────────────────\n", "bold")
-            _, diff = git("show", "--stat", "HEAD")
-            self._log_write(diff + "\n", "info")
-            self._set_status("Commit en attente", C["warn"], ts=False)
-            self._show_git_bar(True, "Commit local non pushé — choisissez une action.")
-        else:
-            self._set_status("Prêt", C["text3"], ts=False)
+        """Initialise l'UI immédiatement — les appels git se font en arrière-plan."""
+        # Afficher l'état "en cours de vérification" sans bloquer l'UI
+        self._set_status("Vérification git...", C["text3"], ts=False)
 
-        # Rafraîchir le label du dernier push + jours publiés en arrière-plan
-        threading.Thread(target=self._fetch_git_push_bg, daemon=True).start()
-        threading.Thread(target=self._fetch_published_dates_bg, daemon=True).start()
-
-        # Charger les images pour la date du jour par défaut
+        # Charger les images pour la date du jour (immédiatement, pas de git)
         today = date.today().strftime("%Y-%m-%d")
-        self._date_var.set(today)   # déclenche le trace → _refresh_images
+        self._date_var.set(today)  # déclenche le trace → _refresh_images
+
+        # Toutes les opérations git en thread — elles ont chacune un timeout de 30 s
+        threading.Thread(target=self._startup_check_bg, daemon=True).start()
+
+    def _startup_check_bg(self):
+        """Vérifications git en arrière-plan — ne bloque jamais le thread principal."""
+        # 1. Commit en attente ?
+        pending = has_pending_commit()
+        if pending:
+            _, diff = git("show", "--stat", "HEAD")
+            self.root.after(0, lambda d=diff: self._startup_apply_pending(d))
+        else:
+            self.root.after(0, lambda: self._set_status("Prêt", C["text3"], ts=False))
+
+        # 2. Label du dernier push
+        push_date = last_git_push_date()
+        self.root.after(0, lambda pd=push_date: self._apply_git_push_lbl(pd))
+
+        # 3. Jours publiés pour le calendrier
+        dates = git_published_dates()
+        self.root.after(0, lambda ds=dates: self._cal_inline.set_published(ds))
+
+    def _startup_apply_pending(self, diff: str):
+        """Applique l'état 'commit local non pushé' dans l'UI (thread principal)."""
+        self._log_write("── Commit local non pushé détecté ──────────────────\n", "bold")
+        self._log_write(diff + "\n", "info")
+        self._set_status("Commit en attente", C["warn"], ts=False)
+        self._show_git_bar(True, "Commit local non pushé — choisissez une action.")
 
     # ── Lancement ─────────────────────────────────────────────────────────────
 
     def _launch(self, _=None):
         if self._busy:
             return
-        raw      = self._date_entry.get().strip()
+        raw      = self._date_var.get().strip()
         date_val = raw if re.match(r"^\d{4}-\d{2}-\d{2}$", raw) else ""
-        if raw and raw != "YYYY-MM-DD" and not date_val:
+        if raw and not date_val:
             messagebox.showerror("Date invalide",
                                  f"Format attendu : YYYY-MM-DD\nReçu : {raw}")
             return
@@ -2080,17 +2190,23 @@ class PublisherApp:
         self._state["history"] = h[-10:]
         save_state(self._state)
         self._refresh_hist()
-        # Rafraîchit la date de push et les jours publiés en arrière-plan
-        threading.Thread(target=self._fetch_git_push_bg, daemon=True).start()
-        threading.Thread(target=self._fetch_published_dates_bg, daemon=True).start()
+        # Rafraîchit push label, jours publiés, et état commit — tout en arrière-plan
+        def _post_run_bg(run_ok=ok):
+            push_date = last_git_push_date()
+            self.root.after(0, lambda pd=push_date: self._apply_git_push_lbl(pd))
+            dates = git_published_dates()
+            self.root.after(0, lambda ds=dates: self._cal_inline.set_published(ds))
+            if run_ok and has_pending_commit():
+                _, diff = git("show", "--stat", "HEAD")
+                self.root.after(0, lambda d=diff: (
+                    self._log_write("\n── Diff du commit local ────────────────────────────\n", "bold"),
+                    self._log_write(d + "\n", "info"),
+                    self._show_git_bar(True, "Commit créé — validez avant de publier.")
+                ))
+            elif run_ok:
+                self.root.after(0, lambda: self._set_status("Aucun changement", C["text3"]))
 
-        if ok and has_pending_commit():
-            _, diff = git("show", "--stat", "HEAD")
-            self._log_write("\n── Diff du commit local ────────────────────────────\n", "bold")
-            self._log_write(diff + "\n", "info")
-            self._show_git_bar(True, "Commit créé — validez avant de publier.")
-        elif ok:
-            self._set_status("Aucun changement", C["text3"])
+        threading.Thread(target=_post_run_bg, daemon=True).start()
 
     # ── Git ───────────────────────────────────────────────────────────────────
 
@@ -2167,6 +2283,13 @@ def main():
         return
 
     def on_close():
+        # Libérer tout grab implicite (tooltip Toplevel, etc.) avant toute action
+        try:
+            grabbed = root.grab_current()
+            if grabbed:
+                grabbed.grab_release()
+        except Exception:
+            pass
         if app._busy and not messagebox.askyesno(
                 "Fermer", "Un script est en cours.\nFermer quand même ?"):
             return
