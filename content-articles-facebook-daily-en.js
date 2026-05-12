@@ -1926,5 +1926,68 @@ Object.assign(window.siteContent.en.articles, {
 <p>What is already circulating in some groups is the idea that this is a centralized data surveillance or control system. The technical design points in the opposite direction: the data is not stored on any central server of the State, but on the user's own phone. When someone uses the E-ID, the company or authority can only request the data strictly necessary for that specific procedure, and the user sees what is being requested and can reject it. It is the principle of data minimization applied in a technical way, not as a simple promise on paper.</p>
 <p>For foreign residents this has a direct implication: the E-ID is not just for Swiss citizens. Those with a valid residence permit will also be able to apply. This simplifies procedures such as verifying identity for online contracts, opening accounts without moving to an office or signing digital documents with legal validity. The system is not yet available: the launch is scheduled for December 2026. There is time to understand it well before everyone starts to take it for granted.</p>
 </div>`
+    },
+
+    "fb-daily-20260512-01-on-june-14-switzerland-votes-on-whether-9-million-is-already-too-many": {
+        title: "On June 14, Switzerland votes on whether 9 million is already too many",
+        featuredImage: "media/guides/actualidad-el-14-de-junio-suiza-vota-si-9-millones-ya-so.jpg",
+        imageAlt: "On June 14, Switzerland votes on whether 9 million is already too many",
+        description: "In exactly one month, on June 14, Swiss citizens vote on the initiative \"Pas de Suisse à 10 millions!\", promoted by the UDC. The text calls on the…",
+        keywords: "june, switzerland, votes, whether, million, already, many, exactly",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-12-1-on-june-14-switzerland-votes-on-whether-9-million-is-already-too-many",
+        readingTime: 2,
+        dateUpdated: "May 12, 2026",
+        summary: "In exactly one month, on June 14, Swiss citizens vote on the initiative \"Pas de Suisse à 10 millions!\", promoted by the UDC. The text calls on the…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In exactly one month, on June 14, Swiss citizens vote on the initiative "Pas de Suisse à 10 millions!", promoted by the UDC. The text calls on the Confederation to adopt measures so that the population does not exceed 10 million inhabitants by 2050, with mandatory restrictions activated from 9.5 million. Switzerland has about 9.1 million residents right now, which means the activation threshold isn't that far off. The first SSR surveys show a technical tie: 47% in favor, 47% against. The Federal Council, all parties except the UDC and UDF, trade unions and economic organisations reject the initiative. Rarely do you see such a broad opposition front. And yet the polls are even.</p>
+<p>What the text of the initiative does not say explicitly, but is implicit in its logic, is that in order to meet the population ceiling, net immigration would have to be drastically reduced. And to do so legally with the EU, Switzerland would have to revise the Agreement on the Free Movement of Persons (ALCP). That agreement is the one that allows European citizens, including Spaniards, to live and work in Switzerland without needing prior authorization. Without it, the right of automatic residence that we take for granted today would disappear. The initiators of the initiative acknowledge that the ALCP would need to be revised. The word “renegotiate” appears in campaign documents with a naturalness that should draw attention.</p>
+<p>The key to this vote, according to analysts, is in the center-right voters, especially the PLR. The left almost unanimously rejects the initiative; the UDC electorate supports it with the same conviction. The result is decided by the undecided of the center. What is hard to ignore is that there are 2.5 million foreigners living in Switzerland, and this vote affects us directly, but we cannot participate in it. Switzerland decides on the future of those who live here without asking them. This is how direct democracy works: very direct, yes, but not for everyone equally.</p>
+</div>`
+    },
+
+    "fb-daily-20260512-02-frontier-workers-and-unemployment-who-pays-will-change-and-the-change": {
+        title: "Frontier workers and unemployment: who pays will change, and the change is not small",
+        featuredImage: "media/guides/actualidad-los-frontaleros-y-el-desempleo-quien-paga-va.jpg",
+        imageAlt: "Frontier workers and unemployment: who pays will change, and the change is not small",
+        description: "Today, if you live in France, Spain or any neighboring country and work in Switzerland with a G permit, and you are unemployed, the country that manages and…",
+        keywords: "frontier, workers, unemployment, pays, will, change, small, today",
+        keywordsLocalized: true,
+        category: "Formalities and Permits",
+        hub: "tramites",
+        slug: "actualidad-2026-05-12-2-frontier-workers-and-unemployment-who-pays-will-change-and-the-change",
+        readingTime: 2,
+        dateUpdated: "May 12, 2026",
+        summary: "Today, if you live in France, Spain or any neighboring country and work in Switzerland with a G permit, and you are unemployed, the country that…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Today, if you live in France, Spain or any neighboring country and work in Switzerland with a G permit, and you are unemployed, the country that manages and pays your unemployment benefits is your country of residence, not Switzerland. This is how the current European regulation on social security coordination works. The official logic is that the State of residence assumes the burden. The paradox is evident: Switzerland collects unemployment insurance contributions from the frontier worker for years, and it is France or Spain that finally pays the benefits if that worker loses his job. That currently generates a surplus of about 300 million francs annually for Swiss unemployment insurance. Not bad at all.</p>
+<p>The reform that is advancing in Brussels wants to change that logic at its root. From its entry into force, anyone who has worked in Switzerland for at least 22 weeks would be entitled to collect unemployment directly in Switzerland, with benefits calculated according to Swiss legislation, which can mean up to two years of coverage based on the Swiss salary. For the frontier worker that can mean considerably higher benefits than he would receive in France. For Switzerland it represents an estimated cost of between 600 and 900 million francs per year. The 21 member states that support the reform have already approved the text in the European Parliament's employment committee. Except for unforeseen circumstances, it will go to a plenary vote in July.</p>
+<p>What should be borne in mind is that this reform is not yet in force, and that its entry into force is linked, among other things, to the new bilateral agreements between Switzerland and the EU, which require the explicit consent of Bern. It's not something that happens tomorrow. But for someone who lives across the border and works here, the coming change has a concrete impact: within a few years, if you lose your job, it could be the Swiss unemployment fund that handles your case, rather than the French Pôle Emploi or the Spanish SEPE. Two very different benefit systems. And then they say that the European bureaucracy is complicated.</p>
+</div>`
+    },
+
+    "fb-daily-20260512-03-the-federal-council-wants-foreigners-who-leave-to-have-to-sell-their-a": {
+        title: "The Federal Council wants foreigners who leave to have to sell their apartment",
+        featuredImage: "media/guides/actualidad-el-consejo-federal-quiere-que-los-extranjeros.jpg",
+        imageAlt: "The Federal Council wants foreigners who leave to have to sell their apartment",
+        description: "The Federal Council has announced that it wants to tighten the conditions under which foreigners can acquire or keep real estate in Switzerland. The most…",
+        keywords: "federal, council, wants, foreigners, leave, have, sell, their",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-12-3-the-federal-council-wants-foreigners-who-leave-to-have-to-sell-their-a",
+        readingTime: 2,
+        dateUpdated: "May 12, 2026",
+        summary: "The Federal Council has announced that it wants to tighten the conditions under which foreigners can acquire or keep real estate in Switzerland. The…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>The Federal Council has announced that it wants to tighten the conditions under which foreigners can acquire or keep real estate in Switzerland. The most concrete measure on the table is the following: if you are a foreigner and you stop residing in Switzerland, you would have a maximum of two years to sell your main home. The stated intention is to prevent properties in the hands of people who no longer live here from remaining off the market, compounding the housing shortage. The Federal Office of Housing (OFL) has already warned that the housing shortage will worsen in 2026, and the political argument that foreigners “hoard” housing has long circulated in the Swiss public debate.</p>
+<p>It is convenient to be precise about who this affects, because the confusion can be great. EU citizens living and working in Switzerland under the Agreement on the Free Movement of Persons (ALCP) do not currently need any special authorisation to purchase their main residence. That right does not change with the announced measures, at least for now. What changes is the regime for those who acquire property without residing in Switzerland, and the market for second homes and holiday properties in tourist areas, which is already subject to cantonal quotas under the Lex Koller. These quotas would be reduced, and sales between non-domiciled foreigners would require express authorization.</p>
+<p>There is a contradiction in all this that is worth underlining. At the same time that a referendum is debating limiting how many foreigners can live in Switzerland, the Federal Council is proposing new restrictions for those who have already lived here and left. It is not easy for them to stay, and it is not easy for them to leave with what they bought. The Swiss real estate market is not just a market: it is a political instrument. And when politics hits the brick in Switzerland, those who end up adjusting their behavior are always the same.</p>
+</div>`
     }
 });

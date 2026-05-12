@@ -1927,5 +1927,68 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Ce qui circule déjà dans certains groupes, c'est l'idée qu'il s'agit d'un système de surveillance ou de contrôle centralisé des données. La conception technique indique le contraire : les données ne sont stockées sur aucun serveur central de l'État, mais sur le téléphone de l'utilisateur. Lorsqu'une personne utilise l'E-ID, l'entreprise ou l'autorité ne peut demander que les données strictement nécessaires à cette procédure spécifique, et l'utilisateur voit ce qui lui est demandé et peut le refuser. C'est le principe de minimisation des données appliqué de manière technique, et non pas comme une simple promesse sur papier.</p>
 <p>Pour les résidents étrangers, cela a une implication directe : l'E-ID n'est pas réservé aux seuls citoyens suisses. Ceux qui ont un permis de séjour valide peuvent également en faire la demande. Cela simplifie les procédures telles que la vérification de l'identité pour les contrats en ligne, l'ouverture de comptes sans se rendre dans un bureau ou la signature de documents numériques légalement valables. Le système n'est pas encore disponible : le lancement est prévu pour décembre 2026. Il reste du temps pour bien le comprendre avant que tout le monde ne commence à le prendre pour acquis.</p>
 </div>`
+    },
+
+    "fb-daily-20260512-01-le-14-juin-la-suisse-vote-si-9-millions-cest-deja-trop": {
+        title: "Le 14 juin, la Suisse vote si 9 millions c'est déjà trop",
+        featuredImage: "media/guides/actualidad-el-14-de-junio-suiza-vota-si-9-millones-ya-so.jpg",
+        imageAlt: "Le 14 juin, la Suisse vote si 9 millions c'est déjà trop",
+        description: "En exactement un mois, le 14 juin, les citoyens suisses votent sur l'initiative « Pas de Suisse à 10 millions ! », portée par l'UDC. Le texte demande que la…",
+        keywords: "juin, suisse, vote, millions, déjà, trop, exactement, mois",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-12-1-le-14-juin-la-suisse-vote-si-9-millions-cest-deja-trop",
+        readingTime: 2,
+        dateUpdated: "12 mai 2026",
+        summary: "En exactement un mois, le 14 juin, les citoyens suisses votent sur l'initiative « Pas de Suisse à 10 millions ! », portée par l'UDC. Le texte demande…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En exactement un mois, le 14 juin, les citoyens suisses votent sur l'initiative « Pas de Suisse à 10 millions ! », portée par l'UDC. Le texte demande que la Confédération prenne des mesures pour que la population ne dépasse pas 10 millions d'habitants d'ici 2050, avec des restrictions obligatoires activées à partir de 9,5 millions. La Suisse compte actuellement environ 9,1 millions d'habitants, ce qui signifie que le seuil d'activation n'est pas si loin. Les premiers sondages SSR montrent une égalité technique : 47% pour, 47% contre. Le Conseil fédéral, tous les partis à l'exception de l'UDC et de l'UDF, les syndicats et les organisations économiques rejettent l'initiative. On voit rarement un front d'opposition aussi large. Et pourtant, les sondages sont identiques.</p>
+<p>Ce que le texte de l'initiative ne dit pas explicitement, mais qui est implicite dans sa logique, c'est que pour respecter le plafond de population, il faudrait réduire drastiquement l'immigration nette. Et pour le faire légalement avec l'UE, la Suisse devrait réviser l'Accord sur la libre circulation des personnes (ALCP). C'est cet accord qui permet aux citoyens européens, y compris les Espagnols, de vivre et de travailler en Suisse sans autorisation préalable. Sans lui, le droit de séjour automatique que nous tenons aujourd'hui pour acquis disparaîtrait. Les promoteurs de l'initiative reconnaissent que l'ALCP devrait être revu. Le mot « renégocier » apparaît dans les documents de campagne avec un naturel qui devrait attirer l'attention.</p>
+<p>La clé de ce vote, selon les analystes, réside dans les électeurs de centre-droit, en particulier du PLR. La gauche rejette l'initiative à la quasi-unanimité ; l'électorat de l'UDC la soutient avec la même conviction. Le résultat est décidé par les indécis du centre. Ce qui est difficile à ignorer, c'est qu'il y a 2,5 millions d'étrangers vivant en Suisse, et ce vote nous affecte directement, mais nous ne pouvons pas y participer. La Suisse décide de l'avenir de ceux qui vivent ici sans leur demander. C'est ainsi que fonctionne la démocratie directe : très directe, oui, mais pas pour tout le monde de la même manière.</p>
+</div>`
+    },
+
+    "fb-daily-20260512-02-les-frontaliers-et-le-chomage-qui-paie-va-changer-et-le-changement-nes": {
+        title: "Les frontaliers et le chômage : qui paie va changer, et le changement n'est pas petit",
+        featuredImage: "media/guides/actualidad-los-frontaleros-y-el-desempleo-quien-paga-va.jpg",
+        imageAlt: "Les frontaliers et le chômage : qui paie va changer, et le changement n'est pas petit",
+        description: "Aujourd'hui, si vous vivez en France, en Espagne ou dans un pays voisin et que vous travaillez en Suisse avec un permis G, et que vous êtes au chômage, le pays…",
+        keywords: "frontaliers, chômage, paie, changer, changement, petit, aujourd, vous",
+        keywordsLocalized: true,
+        category: "Démarches et permis",
+        hub: "tramites",
+        slug: "actualidad-2026-05-12-2-les-frontaliers-et-le-chomage-qui-paie-va-changer-et-le-changement-nes",
+        readingTime: 2,
+        dateUpdated: "12 mai 2026",
+        summary: "Aujourd'hui, si vous vivez en France, en Espagne ou dans un pays voisin et que vous travaillez en Suisse avec un permis G, et que vous êtes au…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Aujourd'hui, si vous vivez en France, en Espagne ou dans un pays voisin et que vous travaillez en Suisse avec un permis G, et que vous êtes au chômage, le pays qui gère et paie vos prestations de chômage est votre pays de résidence, pas la Suisse. C'est ainsi que fonctionne le règlement européen actuel de coordination de la sécurité sociale. La logique officielle est que l'État de résidence assume la charge. Le paradoxe est évident : la Suisse perçoit les cotisations à l'assurance chômage du travailleur frontalier pendant des années, et c'est la France ou l'Espagne qui paie finalement les prestations si ce travailleur perd son emploi. Cela génère actuellement un excédent d'environ 300 millions de francs par an pour l'assurance-chômage suisse. Pas mal du tout.</p>
+<p>La réforme en cours à Bruxelles veut changer cette logique à la racine. Dès son entrée en vigueur, toute personne ayant travaillé en Suisse pendant au moins 22 semaines aurait le droit de percevoir le chômage directement en Suisse, avec des prestations calculées selon la législation suisse, ce qui peut impliquer jusqu'à deux ans de couverture sur la base du salaire suisse. Pour le travailleur frontalier, cela peut signifier des prestations considérablement plus élevées que celles qu'il recevrait en France. Pour la Suisse, cela représente un coût estimé entre 600 et 900 millions de francs par an. Les 21 États membres qui soutiennent la réforme ont déjà approuvé le texte en commission de l'emploi du Parlement européen. Sauf imprévu, il passera au vote en plénière en juillet.</p>
+<p>Ce qu'il convient de garder à l'esprit, c'est que cette réforme n'est pas encore en vigueur, et que son entrée en vigueur est liée, entre autres, aux nouveaux accords bilatéraux entre la Suisse et l'UE, qui nécessitent le consentement explicite de Berne. Ce n'est pas quelque chose qui se passera demain. Mais pour quelqu'un qui vit de l'autre côté de la frontière et travaille ici, le changement qui approche a un impact concret : dans quelques années, si vous perdez votre emploi, ce pourrait être la caisse de chômage suisse qui gérera votre cas, plutôt que le Pôle Emploi français ou le SEPE espagnol. Deux systèmes de prestations très différents. Et puis ils disent que la bureaucratie européenne est compliquée.</p>
+</div>`
+    },
+
+    "fb-daily-20260512-03-le-conseil-federal-veut-que-les-etrangers-qui-partent-doivent-vendre-l": {
+        title: "Le Conseil fédéral veut que les étrangers qui partent doivent vendre leur appartement",
+        featuredImage: "media/guides/actualidad-el-consejo-federal-quiere-que-los-extranjeros.jpg",
+        imageAlt: "Le Conseil fédéral veut que les étrangers qui partent doivent vendre leur appartement",
+        description: "Le Conseil fédéral a annoncé vouloir durcir les conditions dans lesquelles les étrangers peuvent acquérir ou conserver des biens immobiliers en Suisse. La…",
+        keywords: "conseil, fédéral, veut, étrangers, partent, doivent, vendre, leur",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-12-3-le-conseil-federal-veut-que-les-etrangers-qui-partent-doivent-vendre-l",
+        readingTime: 2,
+        dateUpdated: "12 mai 2026",
+        summary: "Le Conseil fédéral a annoncé vouloir durcir les conditions dans lesquelles les étrangers peuvent acquérir ou conserver des biens immobiliers en…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Le Conseil fédéral a annoncé vouloir durcir les conditions dans lesquelles les étrangers peuvent acquérir ou conserver des biens immobiliers en Suisse. La mesure la plus concrète sur la table est la suivante : si vous êtes étranger et que vous cessez de résider en Suisse, vous disposerez d'un maximum de deux ans pour vendre votre logement principal. L'intention déclarée est d'empêcher les propriétés détenues par des personnes qui ne vivent plus ici de rester en dehors du marché, aggravant ainsi la pénurie de logements. L'Office fédéral du logement (OFL) a déjà prévenu que la pénurie immobilière s'aggraverait en 2026, et l'argument politique selon lequel les étrangers « accaparent » le logement circule depuis longtemps dans le débat public suisse.</p>
+<p>Il convient d'être précis sur qui affecte cela, car la confusion peut être grande. Les citoyens de l'UE qui vivent et travaillent en Suisse dans le cadre de l'Accord sur la libre circulation des personnes (ALCP) n'ont actuellement besoin d'aucune autorisation spéciale pour acheter leur résidence principale. Ce droit ne change pas avec les mesures annoncées, du moins pour l'instant. Ce qui change, c'est le régime pour ceux qui acquièrent une propriété sans résider en Suisse, et le marché des résidences secondaires et des propriétés de vacances dans les zones touristiques, qui est déjà soumis à des contingents cantonaux sous la Lex Koller. Ces contingents seraient réduits et les ventes entre étrangers non domiciliés nécessiteraient une autorisation expresse.</p>
+<p>Il y a dans tout cela une contradiction qui mérite d'être soulignée. Alors qu'il est débattu par référendum de limiter le nombre d'étrangers pouvant vivre en Suisse, le Conseil fédéral propose de nouvelles restrictions pour ceux qui ont déjà vécu ici et qui sont partis. Il ne leur est pas facile de rester, et il ne leur est pas non plus facile de partir avec ce qu'ils ont acheté. Le marché immobilier suisse n'est pas seulement un marché : c'est un instrument politique. Et quand la politique touche la brique en Suisse, ceux qui finissent par ajuster leur comportement sont toujours les mêmes.</p>
+</div>`
     }
 });

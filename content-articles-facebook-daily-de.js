@@ -1926,5 +1926,68 @@ Object.assign(window.siteContent.de.articles, {
 <p>Was in einigen Gruppen bereits im Umlauf ist, ist die Idee, dass es sich um ein zentrales Überwachungs- oder Kontrollsystem handelt. Das technische Design weist in die entgegengesetzte Richtung: Die Daten werden nicht auf einem zentralen Server des Staates gespeichert, sondern auf dem eigenen Telefon des Benutzers. Wenn jemand die E-ID verwendet, kann das Unternehmen oder die Behörde nur die Daten anfordern, die für diesen bestimmten Vorgang unbedingt erforderlich sind, und der Benutzer sieht, was von ihm verlangt wird, und kann dies ablehnen. Es ist das Prinzip der Datenminimierung, das technisch angewendet wird, nicht als einfaches Versprechen auf Papier.</p>
 <p>Für Ausländer hat dies eine direkte Auswirkung: Die E-ID ist nicht nur für Schweizer Staatsangehörige. Wer eine gültige Aufenthaltserlaubnis besitzt, kann diese auch beantragen. Dies vereinfacht Formalitäten wie die Identitätsprüfung für Online-Verträge, die Eröffnung von Konten ohne Umzug in ein Büro oder die Unterzeichnung rechtsgültiger digitaler Dokumente. Das System ist noch nicht verfügbar: Der Start ist für Dezember 2026 geplant. Es bleibt noch Zeit, es gut zu verstehen, bevor alle damit beginnen, es für selbstverständlich zu halten.</p>
 </div>`
+    },
+
+    "fb-daily-20260512-01-am-14-juni-stimmt-die-schweiz-ab-ob-9-millionen-bereits-zu-viel-sind": {
+        title: "Am 14. Juni stimmt die Schweiz ab, ob 9 Millionen bereits zu viel sind",
+        featuredImage: "media/guides/actualidad-el-14-de-junio-suiza-vota-si-9-millones-ya-so.jpg",
+        imageAlt: "Am 14. Juni stimmt die Schweiz ab, ob 9 Millionen bereits zu viel sind",
+        description: "In genau einem Monat, am 14. Juni, stimmen die Schweizerinnen und Schweizer über die SVP-Initiative \"Pas de Suisse à 10 millions!\" ab. Der Text fordert den…",
+        keywords: "juni, stimmt, schweiz, millionen, bereits, viel, sind, genau",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-12-1-am-14-juni-stimmt-die-schweiz-ab-ob-9-millionen-bereits-zu-viel-sind",
+        readingTime: 1,
+        dateUpdated: "12 Mai 2026",
+        summary: "In genau einem Monat, am 14. Juni, stimmen die Schweizerinnen und Schweizer über die SVP-Initiative \"Pas de Suisse à 10 millions!\" ab. Der Text…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>In genau einem Monat, am 14. Juni, stimmen die Schweizerinnen und Schweizer über die SVP-Initiative "Pas de Suisse à 10 millions!" ab. Der Text fordert den Bund auf, Maßnahmen zu ergreifen, damit die Bevölkerung bis 2050 10 Millionen Einwohner nicht überschreitet, wobei obligatorische Einschränkungen ab 9,5 Millionen aktiviert werden. Die Schweiz hat derzeit rund 9,1 Millionen Einwohner, was bedeutet, dass die Auslöseschwelle nicht so weit entfernt ist. Die ersten Umfragen der SRG zeigen ein technisches Unentschieden: 47% dafür, 47% dagegen. Der Bundesrat, alle Parteien ausser SVP und UDF, Gewerkschaften und Wirtschaftsverbände lehnen die Initiative ab. Selten sieht man eine so breite Oppositionsfront. Und trotzdem sind die Umfragen gleich.</p>
+<p>Was der Initiativtext nicht explizit sagt, aber in seiner Logik impliziert, ist, dass die Nettozuwanderung drastisch reduziert werden müsste, um die Bevölkerungsobergrenze zu erreichen. Und um dies rechtlich mit der EU zu tun, müsste die Schweiz das Personenfreizügigkeitsabkommen (FZA) überarbeiten. Dieses Abkommen ermöglicht es europäischen Bürgern, einschließlich Spaniern, ohne vorherige Genehmigung in der Schweiz zu leben und zu arbeiten. Ohne ihn würde das automatische Aufenthaltsrecht, das wir heute für selbstverständlich halten, verschwinden. Die Initianten der Initiative erkennen an, dass das FZA überarbeitet werden muss. Das Wort „neu verhandeln“ erscheint in den Kampagnendokumenten mit einer Natürlichkeit, die Aufmerksamkeit erregen sollte.</p>
+<p>Der Schlüssel zu dieser Abstimmung liegt laut Analysten bei den Mitte-Rechts-Wählern, insbesondere der FDP. Die Linke lehnt die Initiative fast einstimmig ab, die SVP-Wähler unterstützen sie mit der gleichen Überzeugung. Das Ergebnis entscheiden die Unentschlossenen des Zentrums. Was schwer zu ignorieren ist, dass 2,5 Millionen Ausländer in der Schweiz leben, und diese Abstimmung betrifft uns direkt, aber wir können nicht daran teilnehmen. Die Schweiz entscheidet über die Zukunft derer, die hier leben, ohne sie zu fragen. So funktioniert direkte Demokratie: sehr direkt, ja, aber nicht für alle gleichermaßen.</p>
+</div>`
+    },
+
+    "fb-daily-20260512-02-grenzganger-und-arbeitslosigkeit-wer-zahlt-wird-sich-andern-und-die-ve": {
+        title: "Grenzgänger und Arbeitslosigkeit: Wer zahlt, wird sich ändern, und die Veränderung ist nicht klein",
+        featuredImage: "media/guides/actualidad-los-frontaleros-y-el-desempleo-quien-paga-va.jpg",
+        imageAlt: "Grenzgänger und Arbeitslosigkeit: Wer zahlt, wird sich ändern, und die Veränderung ist nicht klein",
+        description: "Wenn Sie derzeit in Frankreich, Spanien oder einem benachbarten Land leben und in der Schweiz mit der Erlaubnis G arbeiten und arbeitslos werden, ist das Land,…",
+        keywords: "grenzgänger, arbeitslosigkeit, zahlt, wird, sich, ändern, veränderung, nicht",
+        keywordsLocalized: true,
+        category: "Formalitäten und Bewilligungen",
+        hub: "tramites",
+        slug: "actualidad-2026-05-12-2-grenzganger-und-arbeitslosigkeit-wer-zahlt-wird-sich-andern-und-die-ve",
+        readingTime: 2,
+        dateUpdated: "12 Mai 2026",
+        summary: "Wenn Sie derzeit in Frankreich, Spanien oder einem benachbarten Land leben und in der Schweiz mit der Erlaubnis G arbeiten und arbeitslos werden, ist…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Wenn Sie derzeit in Frankreich, Spanien oder einem benachbarten Land leben und in der Schweiz mit der Erlaubnis G arbeiten und arbeitslos werden, ist das Land, das Ihre Leistungen bei Arbeitslosigkeit verwaltet und zahlt, Ihr Wohnsitzland, nicht die Schweiz. So funktioniert die geltende europäische Verordnung zur Koordinierung der sozialen Sicherheit. Die offizielle Logik ist, dass der Wohnsitzstaat die Last trägt. Das Paradoxe liegt auf der Hand: Die Schweiz erhebt jahrelang Beiträge an die Arbeitslosenversicherung des Grenzgängers, und Frankreich oder Spanien zahlen die Leistungen letztlich, wenn der Grenzgänger seinen Arbeitsplatz verliert. Damit entsteht derzeit ein Überschuss von rund 300 Millionen Franken pro Jahr für die Schweizer Arbeitslosenversicherung. Nicht schlecht.</p>
+<p>Die Reform, die in Brüssel voranschreitet, will diese Logik von Grund auf ändern. Wer seit mindestens 22 Wochen in der Schweiz gearbeitet hat, hat ab Inkrafttreten Anspruch darauf, die Arbeitslosigkeit direkt in der Schweiz zu beziehen, mit Leistungen, die nach schweizerischem Recht berechnet werden, was bis zu zwei Jahren Deckung auf der Grundlage des schweizerischen Lohnes bedeuten kann. Für den Grenzgänger kann dies wesentlich höhere Leistungen bedeuten, als er in Frankreich erhalten würde. Für die Schweiz bedeutet dies geschätzte Kosten zwischen 600 und 900 Millionen Franken pro Jahr. Die 21 Mitgliedstaaten, die die Reform unterstützen, haben den Text bereits im Beschäftigungsausschuss des Europäischen Parlaments gebilligt. Sofern nicht unvorhergesehen, wird es im Juli zur Abstimmung im Plenum kommen.</p>
+<p>Dabei ist zu beachten, dass diese Reform noch nicht in Kraft getreten ist und ihr Inkrafttreten unter anderem an die neuen bilateralen Abkommen zwischen der Schweiz und der EU geknüpft ist, die der ausdrücklichen Zustimmung von Bern bedürfen. Es ist nicht etwas, das morgen passieren wird. Aber für jemanden, der auf der anderen Seite der Grenze lebt und hier arbeitet, hat der bevorstehende Wandel konkrete Auswirkungen: Wenn Sie in ein paar Jahren Ihren Job verlieren, könnte es die Schweizer Arbeitslosenkasse sein, die Ihren Fall bearbeitet, anstatt das französische Pôle Emploi oder das spanische SEPE. Zwei sehr unterschiedliche Leistungssysteme. Und dann sagen sie, dass die europäische Bürokratie kompliziert ist.</p>
+</div>`
+    },
+
+    "fb-daily-20260512-03-bundesrat-will-dass-wegziehende-auslander-ihre-wohnung-verkaufen-musse": {
+        title: "Bundesrat will, dass wegziehende Ausländer ihre Wohnung verkaufen müssen",
+        featuredImage: "media/guides/actualidad-el-consejo-federal-quiere-que-los-extranjeros.jpg",
+        imageAlt: "Bundesrat will, dass wegziehende Ausländer ihre Wohnung verkaufen müssen",
+        description: "Der Bundesrat hat angekündigt, dass er die Bedingungen verschärfen will, unter denen Ausländer in der Schweiz Immobilien erwerben oder behalten dürfen. Die…",
+        keywords: "bundesrat, will, wegziehende, ausländer, ihre, wohnung, verkaufen, müssen",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-12-3-bundesrat-will-dass-wegziehende-auslander-ihre-wohnung-verkaufen-musse",
+        readingTime: 2,
+        dateUpdated: "12 Mai 2026",
+        summary: "Der Bundesrat hat angekündigt, dass er die Bedingungen verschärfen will, unter denen Ausländer in der Schweiz Immobilien erwerben oder behalten…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Der Bundesrat hat angekündigt, dass er die Bedingungen verschärfen will, unter denen Ausländer in der Schweiz Immobilien erwerben oder behalten dürfen. Die konkreteste Maßnahme auf dem Tisch ist folgende: Wenn Sie Ausländer sind und nicht mehr in der Schweiz wohnen, haben Sie maximal zwei Jahre Zeit, um Ihr Hauptwohnsitz zu verkaufen. Die erklärte Absicht besteht darin, zu verhindern, dass Immobilien, die sich in den Händen von Menschen befinden, die hier nicht mehr leben, vom Markt ferngehalten werden, was den Wohnungsmangel verschärft. Das Bundesamt für Wohnungswesen (BWO) hat bereits davor gewarnt, dass sich die Immobilienknappheit bis 2026 verschlechtern wird, und das politische Argument, dass Ausländer Wohnraum "horten", ist in der öffentlichen Debatte in der Schweiz längst im Umlauf.</p>
+<p>Es ist ratsam, genau zu wissen, wer davon betroffen ist, denn die Verwirrung kann groß sein. EU-Bürger, die im Rahmen des Freizügigkeitsabkommens (FZA) in der Schweiz leben und arbeiten, benötigen derzeit keine Sondergenehmigung, um ihren Hauptwohnsitz zu erwerben. Dieses Recht ändert sich mit den angekündigten Maßnahmen zumindest vorerst nicht. Was sich ändert, ist die Regelung für diejenigen, die Eigentum erwerben, ohne in der Schweiz zu wohnen, und der Markt für Zweitwohnungen und Ferienimmobilien in touristischen Gebieten, der bereits unter der Lex Koller kantonalen Kontingenten unterliegt. Diese Kontingente würden reduziert, und der Verkauf zwischen nicht ansässigen Ausländern würde einer ausdrücklichen Genehmigung bedürfen.</p>
+<p>Darin liegt ein Widerspruch, der es wert ist, hervorgehoben zu werden. Während in einem Referendum darüber diskutiert wird, wie viele Ausländer in der Schweiz leben dürfen, schlägt der Bundesrat neue Restriktionen für diejenigen vor, die bereits hier gelebt haben und gegangen sind. Es fällt ihnen nicht leicht, zu bleiben, und es fällt ihnen auch nicht leicht, mit dem, was sie gekauft haben, zu gehen. Der Schweizer Immobilienmarkt ist nicht nur ein Markt - er ist ein politisches Instrument. Und wenn die Politik in der Schweiz den Ziegelstein berührt, sind diejenigen, die am Ende ihr Verhalten anpassen, immer die gleichen.</p>
+</div>`
     }
 });

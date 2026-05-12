@@ -1902,5 +1902,68 @@ Object.assign(window.siteContent.es.articles, {
 <p>Lo que ya circula en algunos grupos es la idea de que se trata de un sistema de vigilancia o de control centralizado de datos. El diseño técnico apunta en sentido contrario: los datos no se almacenan en ningún servidor central del Estado, sino en el propio teléfono del usuario. Cuando alguien usa el E-ID, la empresa o la autoridad solo puede solicitar los datos estrictamente necesarios para ese trámite concreto, y el usuario ve qué se le pide y puede rechazarlo. Es el principio de minimización de datos aplicado de forma técnica, no como simple promesa en papel.</p>
 <p>Para los residentes extranjeros esto tiene una implicación directa: el E-ID no es solo para ciudadanos suizos. Quienes tienen un permiso de residencia válido también podrán solicitarlo. Esto simplifica trámites como verificar la identidad para contratos en línea, abrir cuentas sin desplazarse a una oficina o firmar documentos digitales con validez legal. El sistema aún no está disponible: el lanzamiento está previsto para diciembre de 2026. Queda tiempo para entenderlo bien antes de que todo el mundo empiece a darlo por sentado.</p>
 </div>`
+    },
+
+    "fb-daily-20260512-01-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados": {
+        title: "El 14 de junio Suiza vota si 9 millones ya son demasiados",
+        featuredImage: "media/guides/actualidad-el-14-de-junio-suiza-vota-si-9-millones-ya-so.jpg",
+        imageAlt: "El 14 de junio Suiza vota si 9 millones ya son demasiados",
+        description: "En exactamente un mes, el 14 de junio, los ciudadanos suizos votan sobre la iniciativa \"Pas de Suisse à 10 millions!\", impulsada por la UDC. El texto pide que…",
+        keywords: "junio, suiza, vota, millones, demasiados, exactamente, ciudadanos, suizos",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-12-1-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados",
+        readingTime: 2,
+        dateUpdated: "12 mayo 2026",
+        summary: "En exactamente un mes, el 14 de junio, los ciudadanos suizos votan sobre la iniciativa \"Pas de Suisse à 10 millions!\", impulsada por la UDC. El texto…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>En exactamente un mes, el 14 de junio, los ciudadanos suizos votan sobre la iniciativa "Pas de Suisse à 10 millions!", impulsada por la UDC. El texto pide que la Confederación adopte medidas para que la población no supere los 10 millones de habitantes antes de 2050, con restricciones obligatorias activadas a partir de los 9,5 millones. Suiza tiene ahora mismo unos 9,1 millones de residentes, lo que significa que el umbral de activación no está tan lejos. Los primeros sondajes SSR muestran un empate técnico: 47% a favor, 47% en contra. El Consejo Federal, todos los partidos excepto la UDC y la UDF, los sindicatos y las organizaciones económicas rechazan la iniciativa. Rara vez se ve un frente opositor tan amplio. Y aun así las encuestas están igualadas.</p>
+<p>Lo que el texto de la iniciativa no dice de forma explícita, pero que está implícito en su lógica, es que para cumplir el techo de población habría que reducir drásticamente la inmigración neta. Y para hacerlo de manera legal con la UE, Suiza tendría que revisar el Acuerdo de Libre Circulación de Personas (ALCP). Ese acuerdo es el que permite a los ciudadanos europeos, incluyendo los españoles, vivir y trabajar en Suiza sin necesitar autorización previa. Sin él, el derecho de residencia automático que hoy damos por hecho desaparecería. Los promotores de la iniciativa reconocen que el ALCP tendría que revisarse. La palabra "renegociar" aparece en los documentos de campaña con una naturalidad que debería llamar la atención.</p>
+<p>La clave de esta votación, según los analistas, está en los votantes de centroderecha, especialmente del PLR. La izquierda rechaza la iniciativa de forma casi unánime; el electorado de la UDC la apoya con la misma convicción. El resultado lo deciden los indecisos del centro. Lo que resulta difícil de ignorar es que hay 2,5 millones de extranjeros viviendo en Suiza, y esta votación nos afecta directamente, pero no podemos participar en ella. Suiza decide sobre el futuro de quienes viven aquí sin preguntarles. Así funciona la democracia directa: muy directa, sí, pero no para todos por igual.</p>
+</div>`
+    },
+
+    "fb-daily-20260512-02-los-frontaleros-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no": {
+        title: "Los frontaleros y el desempleo: quién paga va a cambiar, y el cambio no es pequeño",
+        featuredImage: "media/guides/actualidad-los-frontaleros-y-el-desempleo-quien-paga-va.jpg",
+        imageAlt: "Los frontaleros y el desempleo: quién paga va a cambiar, y el cambio no es pequeño",
+        description: "Hoy por hoy, si vives en Francia, en España o en cualquier país vecino y trabajas en Suiza con permiso G, y te quedas sin empleo, el país que gestiona y paga…",
+        keywords: "frontaleros, desempleo, quién, paga, cambiar, cambio, pequeño, vives",
+        keywordsLocalized: true,
+        category: "Tramites y Permisos",
+        hub: "tramites",
+        slug: "actualidad-2026-05-12-2-los-frontaleros-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no",
+        readingTime: 2,
+        dateUpdated: "12 mayo 2026",
+        summary: "Hoy por hoy, si vives en Francia, en España o en cualquier país vecino y trabajas en Suiza con permiso G, y te quedas sin empleo, el país que…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Hoy por hoy, si vives en Francia, en España o en cualquier país vecino y trabajas en Suiza con permiso G, y te quedas sin empleo, el país que gestiona y paga tus prestaciones de desempleo es tu país de residencia, no Suiza. Así funciona el reglamento europeo vigente de coordinación de seguridad social. La lógica oficial es que el Estado de residencia asume la carga. La paradoja es evidente: Suiza cobra las cotizaciones al seguro de desempleo del trabajador frontalero durante años, y es Francia o España quien finalmente paga las prestaciones si ese trabajador pierde el empleo. Eso genera actualmente un superávit de unos 300 millones de francos anuales para el seguro de desempleo suizo. No está nada mal.</p>
+<p>La reforma que avanza en Bruselas quiere cambiar esa lógica de raíz. A partir de su entrada en vigor, quien haya trabajado en Suiza durante al menos 22 semanas tendría derecho a cobrar el desempleo directamente en Suiza, con prestaciones calculadas según la legislación suiza, lo que puede suponer hasta dos años de cobertura basados en el salario suizo. Para el trabajador frontalero eso puede significar prestaciones considerablemente más altas que las que recibiría en Francia. Para Suiza representa un coste estimado de entre 600 y 900 millones de francos anuales. Los 21 estados miembros que apoyan la reforma ya han aprobado el texto en la comisión de empleo del Parlamento Europeo. Salvo imprevisto, pasará a votación plenaria en julio.</p>
+<p>Lo que conviene tener presente es que esta reforma no está aún en vigor, y que su entrada en vigor está vinculada, entre otras cosas, a los nuevos acuerdos bilaterales entre Suiza y la UE, que requieren el consentimiento explícito de Berna. No es algo que ocurra mañana. Pero para alguien que vive al otro lado de la frontera y trabaja aquí, el cambio que se aproxima tiene un impacto concreto: dentro de pocos años, si pierdes el trabajo, podría ser la caja de desempleo suiza quien gestione tu caso, en lugar del Pôle Emploi francés o el SEPE español. Dos sistemas de prestaciones muy distintos. Y luego dicen que la burocracia europea es complicada.</p>
+</div>`
+    },
+
+    "fb-daily-20260512-03-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve": {
+        title: "El Consejo Federal quiere que los extranjeros que se van tengan que vender su piso",
+        featuredImage: "media/guides/actualidad-el-consejo-federal-quiere-que-los-extranjeros.jpg",
+        imageAlt: "El Consejo Federal quiere que los extranjeros que se van tengan que vender su piso",
+        description: "El Consejo Federal ha anunciado que quiere endurecer las condiciones bajo las cuales los extranjeros pueden adquirir o conservar inmuebles en Suiza. La medida…",
+        keywords: "consejo, federal, quiere, extranjeros, tengan, vender, piso, anunciado",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-12-3-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve",
+        readingTime: 2,
+        dateUpdated: "12 mayo 2026",
+        summary: "El Consejo Federal ha anunciado que quiere endurecer las condiciones bajo las cuales los extranjeros pueden adquirir o conservar inmuebles en Suiza.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>El Consejo Federal ha anunciado que quiere endurecer las condiciones bajo las cuales los extranjeros pueden adquirir o conservar inmuebles en Suiza. La medida más concreta sobre la mesa es la siguiente: si eres extranjero y dejas de residir en Suiza, dispondrías de un máximo de dos años para vender tu vivienda principal. La intención declarada es impedir que propiedades en manos de personas que ya no viven aquí permanezcan fuera del mercado, agravando la escasez de vivienda. La Oficina Federal de la Vivienda (OFL) ya ha advertido que la penuria inmobiliaria empeorará en 2026, y el argumento político de que los extranjeros "acaparan" vivienda hace tiempo que circula en el debate público suizo.</p>
+<p>Conviene ser precisos sobre quién afecta esto, porque la confusión puede ser grande. Los ciudadanos de la UE que viven y trabajan en Suiza bajo el Acuerdo de Libre Circulación de Personas (ALCP) no necesitan actualmente ninguna autorización especial para comprar su residencia principal. Ese derecho no cambia con las medidas anunciadas, al menos por ahora. Lo que cambia es el régimen para quienes adquieren propiedad sin residir en Suiza, y el mercado de segunda residencia y propiedades vacacionales en zonas turísticas, que ya está sujeto a contingentes cantonales bajo la Lex Koller. Esos contingentes quedarían reducidos, y las compraventas entre extranjeros no domiciliados pasarían a requerir autorización expresa.</p>
+<p>Hay en todo esto una contradicción que vale la pena subrayar. Al mismo tiempo que se debate en referéndum limitar cuántos extranjeros pueden vivir en Suiza, el Consejo Federal propone nuevas restricciones para quienes ya vivieron aquí y se fueron. No se les facilita quedarse, y tampoco se les pone sencillo marcharse con lo que compraron. El mercado inmobiliario suizo no es solo un mercado: es un instrumento político. Y cuando la política toca el ladrillo en Suiza, los que acaban ajustando su comportamiento son siempre los mismos.</p>
+</div>`
     }
 });

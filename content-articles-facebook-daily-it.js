@@ -1888,5 +1888,68 @@ Object.assign(window.siteContent.it.articles, {
 <p>Ciò che già circola in alcuni gruppi è l'idea che si tratti di un sistema di sorveglianza o di controllo centralizzato dei dati. La progettazione tecnica punta nella direzione opposta: i dati non vengono memorizzati su alcun server centrale dello Stato, ma sul telefono dell'utente stesso. Quando qualcuno utilizza l'E-ID, l'azienda o l'autorità può richiedere solo i dati strettamente necessari per quella specifica procedura e l'utente vede ciò che gli viene richiesto e può rifiutarlo. È il principio di minimizzazione dei dati applicato in modo tecnico, non come semplice promessa cartacea.</p>
 <p>Per i residenti stranieri questo ha un'implicazione diretta: l'E-ID non è solo per i cittadini svizzeri. Anche chi è in possesso di un permesso di soggiorno valido potrà richiederlo. Ciò semplifica le procedure come la verifica dell'identità per i contratti online, l'apertura di account senza recarsi in ufficio o la firma di documenti digitali con validità legale. Il sistema non è ancora disponibile: il lancio è previsto per dicembre 2026. C'è ancora tempo per capirlo bene prima che tutti inizino a darlo per scontato.</p>
 </div>`
+    },
+
+    "fb-daily-20260512-01-il-14-giugno-la-svizzera-vota-se-9-milioni-sono-gia-troppi": {
+        title: "Il 14 giugno la Svizzera vota se 9 milioni sono già troppi",
+        featuredImage: "media/guides/actualidad-el-14-de-junio-suiza-vota-si-9-millones-ya-so.jpg",
+        imageAlt: "Il 14 giugno la Svizzera vota se 9 milioni sono già troppi",
+        description: "Tra esattamente un mese, il 14 giugno, i cittadini svizzeri votano sull'iniziativa “Pas de Suisse à 10 millions!”, promossa dall'UDC. Il testo chiede alla…",
+        keywords: "giugno, svizzera, vota, milioni, troppi, esattamente, mese, cittadini",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-05-12-1-il-14-giugno-la-svizzera-vota-se-9-milioni-sono-gia-troppi",
+        readingTime: 2,
+        dateUpdated: "12 maggio 2026",
+        summary: "Tra esattamente un mese, il 14 giugno, i cittadini svizzeri votano sull'iniziativa “Pas de Suisse à 10 millions!”, promossa dall'UDC. Il testo chiede…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Tra esattamente un mese, il 14 giugno, i cittadini svizzeri votano sull'iniziativa “Pas de Suisse à 10 millions!”, promossa dall'UDC. Il testo chiede alla Confederazione di adottare misure affinché la popolazione non superi i 10 milioni di abitanti entro il 2050, con restrizioni obbligatorie attivate a partire da 9,5 milioni. La Svizzera ha attualmente circa 9,1 milioni di residenti, il che significa che la soglia di attivazione non è così lontana. I primi sondaggi SSR mostrano un pareggio tecnico: 47% a favore, 47% contro. Il Consiglio federale, tutti i partiti ad eccezione dell'UDC e dell'UDF, i sindacati e le organizzazioni economiche respingono l'iniziativa. Raramente si vede un fronte di opposizione così ampio. Eppure i sondaggi sono alla pari.</p>
+<p>Quello che il testo dell'iniziativa non dice esplicitamente, ma che è implicito nella sua logica, è che per soddisfare il tetto della popolazione bisognerebbe ridurre drasticamente l'immigrazione netta. E per farlo legalmente con l'UE, la Svizzera dovrebbe rivedere l'Accordo sulla libera circolazione delle persone (ALCP). Questo accordo è quello che consente ai cittadini europei, compresi gli spagnoli, di vivere e lavorare in Svizzera senza bisogno di previa autorizzazione. Senza di esso, il diritto di soggiorno automatico che oggi diamo per scontato scomparirebbe. I promotori dell'iniziativa riconoscono che l'ALCP dovrebbe essere rivisto. La parola “rinegoziare” appare nei documenti della campagna con una naturalezza che dovrebbe attirare l'attenzione.</p>
+<p>La chiave di questo voto, secondo gli analisti, sta negli elettori di centro-destra, in particolare del PLR. La sinistra respinge l'iniziativa quasi all'unanimità; l'elettorato dell'UDC la sostiene con la stessa convinzione. Il risultato lo decidono gli indecisi del centro. Ciò che è difficile da ignorare è che ci sono 2,5 milioni di stranieri che vivono in Svizzera, e questo voto ci riguarda direttamente, ma non possiamo parteciparvi. La Svizzera decide del futuro di coloro che vivono qui senza chiedere loro. È così che funziona la democrazia diretta: molto diretta, sì, ma non per tutti allo stesso modo.</p>
+</div>`
+    },
+
+    "fb-daily-20260512-02-i-frontalieri-e-la-disoccupazione-chi-paga-cambiera-e-il-cambiamento-n": {
+        title: "I frontalieri e la disoccupazione: chi paga cambierà, e il cambiamento non è piccolo",
+        featuredImage: "media/guides/actualidad-los-frontaleros-y-el-desempleo-quien-paga-va.jpg",
+        imageAlt: "I frontalieri e la disoccupazione: chi paga cambierà, e il cambiamento non è piccolo",
+        description: "Oggi, se vivi in Francia, in Spagna o in qualsiasi paese limitrofo e lavori in Svizzera con permesso G, e rimani senza lavoro, il paese che gestisce e paga le…",
+        keywords: "frontalieri, disoccupazione, paga, cambierà, cambiamento, piccolo, oggi, vivi",
+        keywordsLocalized: true,
+        category: "Pratiche e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-05-12-2-i-frontalieri-e-la-disoccupazione-chi-paga-cambiera-e-il-cambiamento-n",
+        readingTime: 2,
+        dateUpdated: "12 maggio 2026",
+        summary: "Oggi, se vivi in Francia, in Spagna o in qualsiasi paese limitrofo e lavori in Svizzera con permesso G, e rimani senza lavoro, il paese che gestisce…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Oggi, se vivi in Francia, in Spagna o in qualsiasi paese limitrofo e lavori in Svizzera con permesso G, e rimani senza lavoro, il paese che gestisce e paga le tue indennità di disoccupazione è il tuo paese di residenza, non la Svizzera. Ecco come funziona l'attuale regolamento europeo di coordinamento della sicurezza sociale. La logica ufficiale è che lo Stato di residenza assume l'onere. Il paradosso è evidente: la Svizzera riscuote i contributi all'assicurazione contro la disoccupazione del lavoratore frontaliero per anni, ed è la Francia o la Spagna che alla fine paga le prestazioni se quel lavoratore perde il lavoro. Ciò genera attualmente un surplus di circa 300 milioni di franchi all'anno per l'assicurazione contro la disoccupazione svizzera. Niente male.</p>
+<p>La riforma che avanza a Bruxelles vuole cambiare questa logica alla radice. A partire dalla sua entrata in vigore, chiunque abbia lavorato in Svizzera per almeno 22 settimane avrebbe diritto a percepire la disoccupazione direttamente in Svizzera, con prestazioni calcolate secondo la legislazione svizzera, il che può comportare fino a due anni di copertura basati sullo stipendio svizzero. Per il lavoratore frontaliero ciò può significare prestazioni notevolmente superiori a quelle che riceverebbe in Francia. Per la Svizzera rappresenta un costo stimato tra i 600 e i 900 milioni di franchi all'anno. I 21 Stati membri che sostengono la riforma hanno già approvato il testo nella commissione per l'occupazione del Parlamento europeo. Salvo imprevisti, passerà alla votazione plenaria a luglio.</p>
+<p>Ciò che va tenuto presente è che questa riforma non è ancora in vigore e che la sua entrata in vigore è legata, tra le altre cose, ai nuovi accordi bilaterali tra la Svizzera e l'UE, che richiedono il consenso esplicito di Berna. Non è qualcosa che accade domani. Ma per qualcuno che vive dall'altra parte del confine e lavora qui, il cambiamento che si avvicina ha un impatto concreto: tra pochi anni, se perdi il lavoro, potrebbe essere la cassa di disoccupazione svizzera a gestire il tuo caso, invece del Pôle Emploi francese o del SEPE spagnolo. Due sistemi di prestazioni molto diversi. E poi dicono che la burocrazia europea è complicata.</p>
+</div>`
+    },
+
+    "fb-daily-20260512-03-il-consiglio-federale-vuole-che-gli-stranieri-che-se-ne-vanno-debbano": {
+        title: "Il Consiglio federale vuole che gli stranieri che se ne vanno debbano vendere il loro appartamento",
+        featuredImage: "media/guides/actualidad-el-consejo-federal-quiere-que-los-extranjeros.jpg",
+        imageAlt: "Il Consiglio federale vuole che gli stranieri che se ne vanno debbano vendere il loro appartamento",
+        description: "Il Consiglio federale ha annunciato di voler inasprire le condizioni alle quali gli stranieri possono acquistare o conservare immobili in Svizzera. La misura…",
+        keywords: "consiglio, federale, vuole, stranieri, vanno, debbano, vendere, loro",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-12-3-il-consiglio-federale-vuole-che-gli-stranieri-che-se-ne-vanno-debbano",
+        readingTime: 2,
+        dateUpdated: "12 maggio 2026",
+        summary: "Il Consiglio federale ha annunciato di voler inasprire le condizioni alle quali gli stranieri possono acquistare o conservare immobili in Svizzera.…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Il Consiglio federale ha annunciato di voler inasprire le condizioni alle quali gli stranieri possono acquistare o conservare immobili in Svizzera. La misura più concreta sul tavolo è la seguente: se sei straniero e smetti di risiedere in Svizzera, avresti un massimo di due anni per vendere la tua casa principale. L'intenzione dichiarata è di impedire che le proprietà nelle mani di persone che non vivono più qui rimangano fuori dal mercato, aggravando la carenza di alloggi. L'Ufficio federale dell'edilizia abitativa (OFL) ha già avvertito che la penuria immobiliare peggiorerà nel 2026, e l'argomento politico secondo cui gli stranieri "si accaparrano" l'alloggio è da tempo circolato nel dibattito pubblico svizzero.</p>
+<p>Bisogna essere precisi su chi influisce su questo, perché la confusione può essere grande. I cittadini dell'UE che vivono e lavorano in Svizzera ai sensi dell'Accordo sulla libera circolazione delle persone (ALCP) non hanno attualmente bisogno di alcuna autorizzazione speciale per acquistare la loro residenza principale. Tale diritto non cambia con le misure annunciate, almeno per ora. Ciò che cambia è il regime per coloro che acquistano proprietà senza risiedere in Svizzera, e il mercato della seconda residenza e delle case vacanza nelle zone turistiche, che è già soggetto a contingenti cantonali sotto la Lex Koller. Tali contingenti sarebbero ridotti e le vendite tra stranieri non domiciliati richiederebbero un'autorizzazione esplicita.</p>
+<p>C'è in tutto questo una contraddizione che vale la pena sottolineare. Mentre nel referendum si discute di limitare il numero di stranieri che possono vivere in Svizzera, il Consiglio federale propone nuove restrizioni per coloro che hanno già vissuto qui e se ne sono andati. Non è facile per loro rimanere, e non è facile per loro andarsene con ciò che hanno comprato. Il mercato immobiliare svizzero non è solo un mercato: è uno strumento politico. E quando la politica tocca il mattone in Svizzera, quelli che finiscono per regolare il loro comportamento sono sempre gli stessi.</p>
+</div>`
     }
 });
