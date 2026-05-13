@@ -1,12 +1,35 @@
 # Articles publies - Espanoles que realmente se ayudan en Suiza
 
-Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications scrapees jusqu'au 5 mai 2026.
+Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications scrapees jusqu'au 12 mai 2026.
 
-**Total : 669 publications**
+**Total : 699 publications**
+
+**Derniere generation : 13 mai 2026**
 
 ---
 
-**001.** [Devolver compras en Suiza: lo que si y lo que no existe](https://www.facebook.com/groups/1560239407529680/posts/4396910723862520/)  
+**697.** [Tren y bicicleta: la reserva que muchos desconocen]()
+*mai 13, 2026*
+
+**698.** [La paradoja suiza del huevo: más gallinas que personas, y aun así faltan huevos]()
+*mai 13, 2026*
+
+**699.** [La luz baja un 4% en Suiza. Eso son 58 francos al año.]()
+*mai 13, 2026*
+
+
+**001.** [El 14 de junio Suiza vota si 9 millones ya son demasiados]()
+*mai 12, 2026*
+
+**002.** [Los frontaleros y el desempleo: quien paga va a cambiar, y el cambio no es pequeno]()
+*mai 12, 2026*
+
+**003.** [El Consejo Federal quiere que los extranjeros que se van tengan que vender su piso]()
+*mai 12, 2026*
+
+---
+
+**004.** [Devolver compras en Suiza: lo que si y lo que no existe](https://www.facebook.com/groups/1560239407529680/posts/4396910723862520/)  
 *avr 15, 2026*
 
 **002.** [Circular en bicicleta en Suiza parece sencillo...](https://www.facebook.com/groups/1560239407529680/posts/4395200604033532/)  
@@ -2013,3 +2036,84 @@ Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications 
 
 **669.** PFAS en productos cotidianos en Suiza: el problema que nadie ve
 *mai 5, 2026*
+
+**670.** Lo que nadie te explica sobre heredar en Suiza
+*mai 5, 2026*
+
+**671.** Las vacaciones en Suiza: lo que dice la ley y lo que depende de tu contrato
+*mai 5, 2026*
+
+**672.** El secreto bancario suizo y Espana: lo que hay que saber antes de llevarse una sorpresa
+*mai 5, 2026*
+
+**673.** Lo que nadie te explica del contrato a llamada en Suiza
+*mai 6, 2026*
+
+**674.** Deshacerse de muebles viejos en Suiza: lo que funciona, lo que no, y lo que te puede costar
+*mai 6, 2026*
+
+**675.** La iniciativa del 14 de junio no expulsa a nadie con permiso. Pero en los grupos se dice lo contrario.
+*mai 6, 2026*
+
+**676.** El 13° salario en Suiza no es automático ni está garantizado por ley
+*mai 7, 2026*
+
+**677.** La buandería del edificio en Suiza: el cuarto que nadie te explica cuando firmas el contrato
+*mai 7, 2026*
+
+**678.** Vivir juntos sin casarse en Suiza: lo que perderías si tu pareja muere mañana
+*mai 7, 2026*
+
+**679.** Divorciarse en Suiza con permiso de residencia: lo que depende de cómo conseguiste ese permiso
+*mai 8, 2026*
+
+**680.** La caución del alquiler en Suiza: tres meses bloqueados que son tuyos pero que no controlas
+*mai 8, 2026*
+
+**681.** La pensión de España y la de Suiza no se suman como crees
+*mai 8, 2026*
+
+**682.** El 29 de mayo es festivo en toda Suiza, sin excepcion
+*mai 9, 2026*
+
+**683.** Lo que puedes y no puedes hacer en tu terraza o jardin este verano
+*mai 9, 2026*
+
+**684.** Permiso B y libertad laboral: que es verdad y que no
+*mai 9, 2026*
+
+**685.** El numero AVS: el identificador que lo sabe todo de ti sin contener ningun dato tuyo
+*mai 9, 2026*
+
+**686.** Comprar un coche de segunda mano en Suiza: la placa es del dueno, no del coche
+*mai 9, 2026*
+
+**687.** En Suiza se puede hacer huelga. Pero hacerla bien es bastante mas complicado de lo que parece.
+*mai 9, 2026*
+
+**688.** El extracto del casier judiciaire suizo: cómo pedirlo y para qué lo vas a necesitar
+*mai 10, 2026*
+
+**689.** Llamar al 144 en Suiza: los números que salvan vidas y la factura que muchos no esperan
+*mai 10, 2026*
+
+**690.** El trabajo en negro en Suiza: lo que realmente arriesgas cuando alguien te propone pagar en efectivo sin papeles
+*mai 10, 2026*
+
+**691.** El seguro RC y el seguro de contenido del piso en Suiza: dos cosas distintas que casi siempre se contratan mal
+*mai 11, 2026*
+
+**692.** La garantia en Suiza dura dos años por ley, pero reclamarla tiene mas requisitos de los que te imaginas
+*mai 11, 2026*
+
+**693.** El E-ID suizo: ni vigilancia estatal ni tramite urgente, pero conviene entender que es antes de que llegue
+*mai 11, 2026*
+
+**694.** El 14 de junio Suiza vota si 9 millones ya son demasiados
+*mai 12, 2026*
+
+**695.** Los frontaleros y el desempleo: quien paga va a cambiar, y el cambio no es pequeno
+*mai 12, 2026*
+
+**696.** El Consejo Federal quiere que los extranjeros que se van tengan que vender su piso
+*mai 12, 2026*
