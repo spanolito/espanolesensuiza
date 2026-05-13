@@ -2454,7 +2454,7 @@ window.siteContent.es.articles = {
         readingTime: 2,
         dateUpdated: "avr 11, 2026",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
-        featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
+        featuredImage: "media/facebook-archive/fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe.jpg",
         imageAlt: "\"Permiso de trabajo\" en Suiza: el termino que no existe",
         summary: "En Suiza no existe, jurídicamente, un \"permiso de trabajo\" separado. Lo que existe son permisos de residencia como L, B, C o G, y el derecho a trabajar va integrado en ese mismo marco.",
         content: `<div class="article-content">
