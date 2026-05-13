@@ -2132,7 +2132,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const results = [...articles]
             .sort(getArticleSortComparator(sortMode))
             .slice(0, 4);
-        
+
         let sectionTitle = ui['home-title-latest'] || 'Más recientes';
         if (sortMode === 'relevancia') sectionTitle = ui['sort-relevance'] || 'Más relevantes';
         if (sortMode === 'abc') sectionTitle = ui['sort-abc'] || 'Alfabético (A-Z)';
@@ -2173,15 +2173,15 @@ document.addEventListener("DOMContentLoaded", () => {
         const summary = r.summary || r.description || '';
         const compact = opts.compact || false;
         const hubLabels = {
-            tramites:         ui['cat-tramites']        || 'Trámites',
-            trabajo:          ui['cat-trabajo']         || 'Trabajo',
-            vivienda:         ui['cat-vivienda']        || 'Vivienda',
-            'vivir-en-suiza': ui['cat-vivir']           || 'Vivir en Suiza',
-            vivir:            ui['cat-vivir']           || 'Vivir en Suiza',
-            salud:            ui['cat-salud']           || 'Salud',
-            impuestos:        ui['cat-impuestos']       || 'Impuestos',
-            fronterizos:      ui['cat-fronterizos']     || 'Fronterizos',
-            recursos:         ui['nav-recursos']        || 'Recursos',
+            tramites: ui['cat-tramites'] || 'Trámites',
+            trabajo: ui['cat-trabajo'] || 'Trabajo',
+            vivienda: ui['cat-vivienda'] || 'Vivienda',
+            'vivir-en-suiza': ui['cat-vivir'] || 'Vivir en Suiza',
+            vivir: ui['cat-vivir'] || 'Vivir en Suiza',
+            salud: ui['cat-salud'] || 'Salud',
+            impuestos: ui['cat-impuestos'] || 'Impuestos',
+            fronterizos: ui['cat-fronterizos'] || 'Fronterizos',
+            recursos: ui['nav-recursos'] || 'Recursos',
             'cultura-eventos': ui['cat-cultura-eventos'] || 'Cultura y Eventos',
         };
         const badgeLabel = hubLabels[hub] || (r.category || hub);
@@ -2350,7 +2350,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const latestDefaultCount = 6;
         const hubListLabels = {
             es: {
-                showAll: "Ver todos los articulos del hub",
+                showAll: "Ver todos los articulos",
                 showLess: "Mostrar solo los ultimos 6"
             },
             en: {
@@ -2358,15 +2358,15 @@ document.addEventListener("DOMContentLoaded", () => {
                 showLess: "Show only the latest 6"
             },
             fr: {
-                showAll: "Voir tous les articles du hub",
+                showAll: "Voir tous les articles",
                 showLess: "Afficher seulement les 6 derniers"
             },
             de: {
-                showAll: "Alle Artikel des Bereichs anzeigen",
+                showAll: "Alle Artikel anzeigen",
                 showLess: "Nur die letzten 6 anzeigen"
             },
             it: {
-                showAll: "Vedi tutti gli articoli del hub",
+                showAll: "Vedi tutti gli articoli",
                 showLess: "Mostra solo gli ultimi 6"
             }
         };
