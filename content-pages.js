@@ -1035,6 +1035,11 @@ window.siteContent.es.pages = {
                         <p>${copy.postDesc}</p>
                         <a href="${linkSet.post}" target="_blank" rel="noopener noreferrer" class="read-more">${copy.postCta}</a>
                     </div>
+                    <div class="card-hub" style="border-color:#e0e0e0;">
+                        <h3>Comparis ${badgePrivado}</h3>
+                        <p>${copy.comparisDesc}</p>
+                        <a href="https://www.comparis.ch" target="_blank" rel="noopener noreferrer" class="read-more">${copy.comparisCta}</a>
+                    </div>
                 </div>
             </section>
 
