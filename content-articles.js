@@ -2429,7 +2429,7 @@ window.siteContent.es.articles = {
         readingTime: 4,
         dateUpdated: "avr 11, 2026",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4393482034205389/",
-        featuredImage: "media/guides/actualidad-inmigracion-suiza.png",
+        featuredImage: "media/facebook-archive/fb-003-el-permiso-a-en-suiza-trabajar-si-vivir-no.jpg",
         imageAlt: "El permiso A en Suiza: trabajar si, vivir no",
         summary: "El permiso A permitía trabajar en Suiza sin instalarse de forma estable. Entender ese sistema ayuda a explicar décadas de inmigración precaria y conflictos como la huelga de españoles en Murer.",
         content: `<div class="article-content">

@@ -52,7 +52,7 @@ window.siteContent.it.articles = {
         dateUpdated: "avr 11, 2026",
         summary: "Accedi alla discussione completa cercando il frammento originale nella community Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4393482034205389/",
-        featuredImage: "media/guides/actualidad-inmigracion-suiza.png",
+        featuredImage: "media/facebook-archive/fb-003-el-permiso-a-en-suiza-trabajar-si-vivir-no.jpg",
         imageAlt: "Il permesso A in Svizzera: lavorare sì, vivere no",
         content: `<div class="article-content">
   <div class="callout info">

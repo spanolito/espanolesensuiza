@@ -52,7 +52,7 @@ window.siteContent.de.articles = {
         dateUpdated: "avr 11, 2026",
         summary: "Rufen Sie die vollständige Diskussion auf, indem Sie im Facebook‑Forum nach dem Originalfragment suchen.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4393482034205389/",
-        featuredImage: "media/guides/actualidad-inmigracion-suiza.png",
+        featuredImage: "media/facebook-archive/fb-003-el-permiso-a-en-suiza-trabajar-si-vivir-no.jpg",
         imageAlt: "Die Bewilligung A in der Schweiz: arbeiten ja, leben nein",
         content: `<div class="article-content">
   <div class="callout info">
