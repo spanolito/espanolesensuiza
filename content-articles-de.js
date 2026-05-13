@@ -71,7 +71,7 @@ window.siteContent.de.articles = {
         dateUpdated: "avr 11, 2026",
         summary: "In der Schweiz gibt es rechtlich keine separate „Arbeitserlaubnis“. Was es gibt, sind Aufenthaltsbewilligungen wie L, B, C oder G, und das Recht zu arbeiten ist in diesem Rahmen bereits enthalten.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
-        featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
+        featuredImage: "media/facebook-archive/fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe.jpg",
         imageAlt: "„Arbeitserlaubnis“ in der Schweiz: Der Begriff, den es nicht gibt",
         content: `<div class="article-content">
 <p>In der Schweiz sprechen viele von einer „Arbeitserlaubnis“, juristisch ist das jedoch nicht der Begriff, den die Verwaltung verwendet. Es gibt Aufenthaltsbewilligungen wie L, B, C oder G, und je nach Situation umfasst genau diese Bewilligung auch die Berechtigung, eine berufliche Tätigkeit auszuüben.</p>

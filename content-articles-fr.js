@@ -71,7 +71,7 @@ window.siteContent.fr.articles = {
         dateUpdated: "avr 11, 2026",
         summary: "En Suisse, il n’existe pas juridiquement de « permis de travail » séparé. Ce qui existe, ce sont des permis de séjour comme les L, B, C ou G, et le droit de travailler est intégré dans ce même cadre.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
-        featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
+        featuredImage: "media/facebook-archive/fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe.jpg",
         imageAlt: "\"Permis de travail\" en Suisse: le terme qui n'existe pas",
         content: `<div class="article-content">
 <p>En Suisse, beaucoup de gens parlent de « permis de travail », mais juridiquement ce n’est pas le terme utilisé par l’administration. Ce qui existe, ce sont des permis de séjour comme les L, B, C ou G, et selon votre situation ce même permis inclut aussi l’autorisation d’exercer une activité professionnelle.</p>

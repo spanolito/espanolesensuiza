@@ -71,7 +71,7 @@ window.siteContent.it.articles = {
         dateUpdated: "avr 11, 2026",
         summary: "In Svizzera non esiste, dal punto di vista giuridico, un \"permesso di lavoro\" separato. Esistono invece permessi di soggiorno come L, B, C o G, e il diritto di lavorare è integrato in quello stesso quadro.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
-        featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
+        featuredImage: "media/facebook-archive/fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe.jpg",
         imageAlt: "“Permesso di lavoro” in Svizzera: il termine che non esiste",
         content: `<div class="article-content">
 <p>In Svizzera molte persone parlano di “permesso di lavoro”, ma giuridicamente non è questo il termine usato dall’amministrazione. Esistono permessi di soggiorno come L, B, C o G e, a seconda della situazione, quello stesso permesso include anche l’autorizzazione a svolgere un’attività professionale.</p>

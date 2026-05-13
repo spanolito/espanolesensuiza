@@ -440,7 +440,7 @@ window.siteContent.es.articles = {
         slug: "trabajar-antes-permiso-fisico-suiza",
         readingTime: 3,
         dateUpdated: "Marzo 2026",
-        featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
+        featuredImage: "media/facebook-archive/fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe.jpg",
         imageAlt: "Persona trabajando en Suiza en un entorno profesional",
         summary: "Puedes empezar a trabajar desde el primer día tras registrarte en la comuna. El permiso físico puede tardar semanas, pero el comprobante de registro ya tiene validez legal.",
         content: `
