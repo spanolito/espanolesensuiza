@@ -1971,5 +1971,47 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Il convient d'être précis sur qui affecte cela, car la confusion peut être grande. Les citoyens de l'UE qui vivent et travaillent en Suisse dans le cadre de l'Accord sur la libre circulation des personnes (ALCP) n'ont actuellement besoin d'aucune autorisation spéciale pour acheter leur résidence principale. Ce droit ne change pas avec les mesures annoncées, du moins pour l'instant. Ce qui change, c'est le régime pour ceux qui acquièrent une propriété sans résider en Suisse, et le marché des résidences secondaires et des propriétés de vacances dans les zones touristiques, qui est déjà soumis à des contingents cantonaux sous la Lex Koller. Ces contingents seraient réduits et les ventes entre étrangers non domiciliés nécessiteraient une autorisation expresse.</p>
 <p>Il y a dans tout cela une contradiction qui mérite d'être soulignée. Alors qu'il est débattu par référendum de limiter le nombre d'étrangers pouvant vivre en Suisse, le Conseil fédéral propose de nouvelles restrictions pour ceux qui ont déjà vécu ici et qui sont partis. Il ne leur est pas facile de rester, et il ne leur est pas non plus facile de partir avec ce qu'ils ont acheté. Le marché immobilier suisse n'est pas seulement un marché : c'est un instrument politique. Et quand la politique touche la brique en Suisse, ceux qui finissent par ajuster leur comportement sont toujours les mêmes.</p>
 </div>`
+    },
+
+    "fb-daily-20260513-01-train-et-velo-la-reserve-que-beaucoup-ignorent": {
+        title: "Train et vélo : la réserve que beaucoup ignorent",
+        featuredImage: "media/guides/actualidad-tren-y-bicicleta-la-reserva-que-muchos-descon.jpg",
+        imageAlt: "Train et vélo : la réserve que beaucoup ignorent",
+        description: "Depuis cette année, faire du vélo dans les trains suisses n'est plus aussi spontané qu'avant. Dans une grande partie du réseau, y compris les Grisons, la…",
+        keywords: "train, vélo, réserve, beaucoup, ignorent, depuis, cette, année",
+        keywordsLocalized: true,
+        category: "Santé et LAMal",
+        hub: "salud",
+        slug: "actualidad-2026-05-13-1-train-et-velo-la-reserve-que-beaucoup-ignorent",
+        readingTime: 1,
+        dateUpdated: "13 mai 2026",
+        summary: "Depuis cette année, faire du vélo dans les trains suisses n'est plus aussi spontané qu'avant. Dans une grande partie du réseau, y compris les…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Depuis cette année, faire du vélo dans les trains suisses n'est plus aussi spontané qu'avant. Dans une grande partie du réseau, y compris les Grisons, la Suisse centrale, l'Oberland bernois, le Valais et divers services en Romandie, la réservation de place est obligatoire. Ce n'est pas une suggestion. Si vous montez dans le train avec le vélo sans l'avoir confirmé, vous vous exposez à être obligé de descendre à l'arrêt suivant. Le système est implanté depuis un certain temps sur certaines sections et s'est étendu précisément parce que la demande a dépassé la capacité des wagons autorisés.</p>
+<p>La réservation se fait sur l'application CFF lors de l'achat du billet, ou aux guichets des gares. Le prix est symbolique. Ce qui n'est pas symbolique, c'est d'arriver sur le quai convaincu qu'il suffit d'avoir l'abonnement général et de découvrir que votre vélo n'a pas le droit de monter. Ce n'est pas de la théorie : cela se passe tous les week-ends dans les stations de montagne entre mai et octobre, lorsque l'afflux de cyclotouristes multiplie la pression sur les wagons habilités.</p>
+<p>La logique est toujours la même : la Suisse régule. Il n'interdit pas l'utilisation du vélo dans le train, loin de là. Ce qu'il fait, c'est gérer le flux avec des règles claires qui, si vous les connaissez, ne posent aucun problème. Le problème est que beaucoup de gens montent sans réserve depuis des années parce que personne ne les en avait empêchés jusqu'à ce que la norme change. Le système ne pardonne pas les distractions, mais il n'est pas non plus difficile à utiliser une fois que vous savez qu'il existe.</p>
+</div>`
+    },
+
+    "fb-daily-20260513-02-la-lamal-ne-paie-pas-le-dentiste-vous-le-decouvrez-apres-le-premier-re": {
+        title: "La LAMal ne paie pas le dentiste. Vous le découvrez après le premier rendez-vous.",
+        featuredImage: "media/guides/actualidad-la-lamal-no-paga-el-dentista-lo-descubres-des.jpg",
+        imageAlt: "La LAMal ne paie pas le dentiste. Vous le découvrez après le premier rendez-vous.",
+        description: "C'est l'un des premiers chocs concrets en arrivant en Suisse. L'assurance de base obligatoire LAMal ne couvre pas la dentisterie pour adultes, sauf exceptions…",
+        keywords: "lamal, paie, dentiste, vous, découvrez, après, premier, rendez",
+        keywordsLocalized: true,
+        category: "Travail et salaires",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-13-2-la-lamal-ne-paie-pas-le-dentiste-vous-le-decouvrez-apres-le-premier-re",
+        readingTime: 2,
+        dateUpdated: "13 mai 2026",
+        summary: "C'est l'un des premiers chocs concrets en arrivant en Suisse. L'assurance de base obligatoire LAMal ne couvre pas la dentisterie pour adultes, sauf…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>C'est l'un des premiers chocs concrets en arrivant en Suisse. L'assurance de base obligatoire LAMal ne couvre pas la dentisterie pour adultes, sauf exceptions très spécifiques : accidents avec séquelles dentaires, certaines maladies graves qui affectent directement la bouche, et peu d'autres. Une révision de routine avec nettoyage peut coûter entre 150 et 300 francs. Une extraction, plus. Une endodontie avec couronne peut facilement atteindre 1 500 ou 2 000 francs selon le dentiste et le canton, sans plafond légal : les honoraires sont libres. Beaucoup de gens le découvrent lorsque la première facture arrive.</p>
+<p>Pour se couvrir, il existe des assurances complémentaires spécifiques. Les principales caisses (CSS, Swica, Helsana, Sanitas, entre autres) ont des modules dentaires qui coûtent entre 20 et 80 francs par mois en fonction de la couverture et de l'âge de l'assuré. Ce qu'il faut savoir avant d'embaucher : il y a des périodes d'attente allant jusqu'à trois mois avant de pouvoir les utiliser, les remboursements annuels sont généralement limités à 1 000 ou 2 000 francs, et les conditions varient considérablement d'une entreprise à l'autre. Ceux qui attendent d'avoir un problème dentaire pour chercher une assurance arrivent généralement en retard.</p>
+<p>Il existe une alternative que beaucoup de gens en Suisse utilisent sans trop l'annoncer : aller chez le dentiste en France ou en Espagne. Il n'y a pas de problème juridique avec cela. Une couronne en France peut coûter entre 300 et 600 euros. La même couronne en Suisse peut tripler ce prix. Pour ceux qui vivent près de la frontière, le calcul est simple. Pour les enfants, certains cantons ont des services de dentisterie scolaire gratuits ou très subventionnés : Genève et Vaud, par exemple, proposent des examens et des traitements de base gratuits pour les mineurs. Cela vaut la peine de le demander à la commune, car le service varie beaucoup selon les cantons et n'est parfois pas annoncé.</p>
+</div>`
     }
 });

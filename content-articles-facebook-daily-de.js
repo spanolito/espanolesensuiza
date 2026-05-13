@@ -1971,5 +1971,47 @@ Object.assign(window.siteContent.de.articles, {
 <p>Es ist ratsam, genau zu wissen, wer davon betroffen ist, denn die Verwirrung kann groß sein. EU-Bürger, die im Rahmen des Freizügigkeitsabkommens (FZA) in der Schweiz leben und arbeiten, benötigen derzeit keine Sondergenehmigung, um ihren Hauptwohnsitz zu erwerben. Dieses Recht ändert sich mit den angekündigten Maßnahmen zumindest vorerst nicht. Was sich ändert, ist die Regelung für diejenigen, die Eigentum erwerben, ohne in der Schweiz zu wohnen, und der Markt für Zweitwohnungen und Ferienimmobilien in touristischen Gebieten, der bereits unter der Lex Koller kantonalen Kontingenten unterliegt. Diese Kontingente würden reduziert, und der Verkauf zwischen nicht ansässigen Ausländern würde einer ausdrücklichen Genehmigung bedürfen.</p>
 <p>Darin liegt ein Widerspruch, der es wert ist, hervorgehoben zu werden. Während in einem Referendum darüber diskutiert wird, wie viele Ausländer in der Schweiz leben dürfen, schlägt der Bundesrat neue Restriktionen für diejenigen vor, die bereits hier gelebt haben und gegangen sind. Es fällt ihnen nicht leicht, zu bleiben, und es fällt ihnen auch nicht leicht, mit dem, was sie gekauft haben, zu gehen. Der Schweizer Immobilienmarkt ist nicht nur ein Markt - er ist ein politisches Instrument. Und wenn die Politik in der Schweiz den Ziegelstein berührt, sind diejenigen, die am Ende ihr Verhalten anpassen, immer die gleichen.</p>
 </div>`
+    },
+
+    "fb-daily-20260513-01-zug-und-fahrrad-die-reservierung-die-viele-nicht-kennen": {
+        title: "Zug und Fahrrad: die Reservierung, die viele nicht kennen",
+        featuredImage: "media/guides/actualidad-tren-y-bicicleta-la-reserva-que-muchos-descon.jpg",
+        imageAlt: "Zug und Fahrrad: die Reservierung, die viele nicht kennen",
+        description: "Seit diesem Jahr ist das Fahrradfahren in Schweizer Zügen nicht mehr so spontan wie früher. In weiten Teilen des Netzes, darunter Graubünden, Zentralschweiz,…",
+        keywords: "fahrrad, reservierung, viele, nicht, kennen, seit, diesem, jahr",
+        keywordsLocalized: true,
+        category: "Gesundheit und KVG",
+        hub: "salud",
+        slug: "actualidad-2026-05-13-1-zug-und-fahrrad-die-reservierung-die-viele-nicht-kennen",
+        readingTime: 1,
+        dateUpdated: "13 Mai 2026",
+        summary: "Seit diesem Jahr ist das Fahrradfahren in Schweizer Zügen nicht mehr so spontan wie früher. In weiten Teilen des Netzes, darunter Graubünden,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Seit diesem Jahr ist das Fahrradfahren in Schweizer Zügen nicht mehr so spontan wie früher. In weiten Teilen des Netzes, darunter Graubünden, Zentralschweiz, Berner Oberland, Wallis und verschiedene Dienste in der Romandie, ist eine Platzreservierung obligatorisch. Das ist kein Vorschlag. Wenn Sie mit dem Fahrrad in den Zug einsteigen, ohne es bestätigt zu haben, riskieren Sie, an der nächsten Haltestelle aussteigen zu müssen. Das System ist seit einiger Zeit in einigen Abschnitten implementiert und hat sich gerade deshalb ausgedehnt, weil die Nachfrage die Kapazität der zugelassenen Wagen überschritten hat.</p>
+<p>Die Reservierung erfolgt beim Kauf des Tickets in der CFF-App oder an den Schaltern der Bahnhöfe. Der Preis ist symbolisch. Was nicht symbolisch ist, ist das Erreichen des Bahnsteigs in der Überzeugung, dass es ausreicht, das Generalabonnement zu haben und zu entdecken, dass Ihr Fahrrad kein Recht hat, zu klettern. Das ist keine Theorie: Es passiert jedes Wochenende in den Bergstationen zwischen Mai und Oktober, wenn der Zustrom von Radfahrern den Druck auf die aktivierten Wagen vervielfacht.</p>
+<p>Die Logik ist die gleiche wie immer: Die Schweiz reguliert. Es verbietet nicht die Nutzung des Fahrrads im Zug, bei weitem nicht. Was es tut, ist, den Fluss mit klaren Regeln zu verwalten, die, wenn Sie sie kennen, kein Problem darstellen. Das Problem ist, dass viele Menschen seit Jahren ohne Vorbehalt klettern, weil niemand sie daran gehindert hatte, bis sich die Norm änderte. Das System verzeiht keine Ablenkungen, aber es ist auch nicht schwer zu bedienen, sobald Sie wissen, dass es existiert.</p>
+</div>`
+    },
+
+    "fb-daily-20260513-02-das-kvg-zahlt-den-zahnarzt-nicht-das-erfahrst-du-nach-dem-ersten-date": {
+        title: "Das KVG zahlt den Zahnarzt nicht. Das erfährst du nach dem ersten Date.",
+        featuredImage: "media/guides/actualidad-la-lamal-no-paga-el-dentista-lo-descubres-des.jpg",
+        imageAlt: "Das KVG zahlt den Zahnarzt nicht. Das erfährst du nach dem ersten Date.",
+        description: "Es ist einer der ersten konkreten Schocks bei der Ankunft in der Schweiz. Die obligatorische Grundversicherung KVG deckt die Zahnmedizin für Erwachsene nicht…",
+        keywords: "zahlt, zahnarzt, nicht, erfährst, nach, ersten, date, konkreten",
+        keywordsLocalized: true,
+        category: "Arbeit und Löhne",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-13-2-das-kvg-zahlt-den-zahnarzt-nicht-das-erfahrst-du-nach-dem-ersten-date",
+        readingTime: 1,
+        dateUpdated: "13 Mai 2026",
+        summary: "Es ist einer der ersten konkreten Schocks bei der Ankunft in der Schweiz. Die obligatorische Grundversicherung KVG deckt die Zahnmedizin für…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Es ist einer der ersten konkreten Schocks bei der Ankunft in der Schweiz. Die obligatorische Grundversicherung KVG deckt die Zahnmedizin für Erwachsene nicht ab, bis auf ganz spezifische Ausnahmen: Unfälle mit Zahnfolgen, bestimmte schwere Erkrankungen, die den Mund direkt betreffen, und wenig mehr. Eine Routineuntersuchung mit Reinigung kann zwischen 150 und 300 Franken kosten. Eine Extraktion, mehr. Eine Endodontie mit Krone kann je nach Zahnarzt und Kanton problemlos bis zu 1.500 oder 2.000 Franken betragen, ohne gesetzliche Obergrenze - die Gebühren sind frei. Viele Leute entdecken es, wenn die erste Rechnung eintrifft.</p>
+<p>Zur Deckung gibt es spezielle Zusatzversicherungen. Die Hauptkassen (CSS, Swica, Helsana, Sanitas u.a.) verfügen über Dentalmodule, die je nach Deckung und Alter des Versicherten zwischen 20 und 80 Franken pro Monat kosten. Was Sie vor der Einstellung wissen sollten: Es gibt Wartezeiten von bis zu drei Monaten, bevor Sie sie nutzen können, die jährlichen Rückerstattungen sind in der Regel auf 1.000 oder 2.000 Franken begrenzt und die Bedingungen variieren von Unternehmen zu Unternehmen erheblich. Wer auf ein Zahnproblem wartet, um eine Versicherung abzuschließen, kommt in der Regel zu spät.</p>
+<p>Es gibt eine Alternative, die viele Menschen in der Schweiz unangekündigt nutzen: zum Zahnarzt in Frankreich oder Spanien zu gehen. Damit gibt es kein rechtliches Problem. Eine Krone kann in Frankreich zwischen 300 und 600 Euro kosten. Die gleiche Krone in der Schweiz kann diesen Preis verdreifachen. Für diejenigen, die in der Nähe der Grenze leben, ist die Berechnung einfach. Für Kinder gibt es in einigen Kantonen kostenlose oder stark subventionierte schulzahnärztliche Leistungen: Genf und Waadt zum Beispiel bieten kostenlose Vorsorgeuntersuchungen und Basisbehandlungen für Minderjährige an. Es lohnt sich, in der Gemeinde danach zu fragen, da der Service je nach Kanton sehr unterschiedlich ist und manchmal nicht beworben wird.</p>
+</div>`
     }
 });

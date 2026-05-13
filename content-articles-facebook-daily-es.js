@@ -1965,5 +1965,47 @@ Object.assign(window.siteContent.es.articles, {
 <p>Conviene ser precisos sobre quién afecta esto, porque la confusión puede ser grande. Los ciudadanos de la UE que viven y trabajan en Suiza bajo el Acuerdo de Libre Circulación de Personas (ALCP) no necesitan actualmente ninguna autorización especial para comprar su residencia principal. Ese derecho no cambia con las medidas anunciadas, al menos por ahora. Lo que cambia es el régimen para quienes adquieren propiedad sin residir en Suiza, y el mercado de segunda residencia y propiedades vacacionales en zonas turísticas, que ya está sujeto a contingentes cantonales bajo la Lex Koller. Esos contingentes quedarían reducidos, y las compraventas entre extranjeros no domiciliados pasarían a requerir autorización expresa.</p>
 <p>Hay en todo esto una contradicción que vale la pena subrayar. Al mismo tiempo que se debate en referéndum limitar cuántos extranjeros pueden vivir en Suiza, el Consejo Federal propone nuevas restricciones para quienes ya vivieron aquí y se fueron. No se les facilita quedarse, y tampoco se les pone sencillo marcharse con lo que compraron. El mercado inmobiliario suizo no es solo un mercado: es un instrumento político. Y cuando la política toca el ladrillo en Suiza, los que acaban ajustando su comportamiento son siempre los mismos.</p>
 </div>`
+    },
+
+    "fb-daily-20260513-01-tren-y-bicicleta-la-reserva-que-muchos-desconocen": {
+        title: "Tren y bicicleta: la reserva que muchos desconocen",
+        featuredImage: "media/guides/actualidad-tren-y-bicicleta-la-reserva-que-muchos-descon.jpg",
+        imageAlt: "Tren y bicicleta: la reserva que muchos desconocen",
+        description: "Desde este año, llevar la bicicleta en los trenes suizos ya no es tan espontáneo como antes. En buena parte de la red, incluyendo Grisones, Suiza central,…",
+        keywords: "tren, bicicleta, reserva, muchos, desconocen, llevar, trenes, suizos",
+        keywordsLocalized: true,
+        category: "Salud y LAMal",
+        hub: "salud",
+        slug: "actualidad-2026-05-13-1-tren-y-bicicleta-la-reserva-que-muchos-desconocen",
+        readingTime: 1,
+        dateUpdated: "13 mayo 2026",
+        summary: "Desde este año, llevar la bicicleta en los trenes suizos ya no es tan espontáneo como antes. En buena parte de la red, incluyendo Grisones, Suiza…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Desde este año, llevar la bicicleta en los trenes suizos ya no es tan espontáneo como antes. En buena parte de la red, incluyendo Grisones, Suiza central, Oberland bernés, Valais y varios servicios en la Romandia, la reserva de plaza es obligatoria. No es una sugerencia. Si subes al tren con la bici sin haberla confirmado, te expones a que te obliguen a bajar en la siguiente parada. El sistema lleva tiempo implantado en algunos tramos y se ha extendido precisamente porque la demanda ha desbordado la capacidad de los vagones autorizados.</p>
+<p>La reserva se hace en la app de los CFF al comprar el billete, o en los mostradores de las estaciones. El precio es simbólico. Lo que no es simbólico es llegar al andén convencido de que basta con tener el abono general y descubrir que tu bicicleta no tiene derecho a subir. Esto no es teoría: pasa cada fin de semana en las estaciones de montaña entre mayo y octubre, cuando la afluencia de cicloturistas multiplica la presión sobre los vagones habilitados.</p>
+<p>La lógica es la de siempre: Suiza regula. No prohíbe el uso de la bicicleta en el tren, ni mucho menos. Lo que hace es gestionar el flujo con reglas claras que, si las conoces, no suponen ningún problema. El problema es que mucha gente lleva años subiendo sin reserva porque nadie se lo había impedido hasta que cambió la norma. El sistema no perdona despistes, pero tampoco es difícil de usar una vez que sabes que existe.</p>
+</div>`
+    },
+
+    "fb-daily-20260513-02-la-lamal-no-paga-el-dentista-lo-descubres-despues-de-la-primera-cita": {
+        title: "La LAMal no paga el dentista. Lo descubres después de la primera cita.",
+        featuredImage: "media/guides/actualidad-la-lamal-no-paga-el-dentista-lo-descubres-des.jpg",
+        imageAlt: "La LAMal no paga el dentista. Lo descubres después de la primera cita.",
+        description: "Es uno de los primeros choques concretos al llegar a Suiza. El seguro básico obligatorio LAMal no cubre la odontología para adultos, salvo excepciones muy…",
+        keywords: "lamal, paga, dentista, descubres, después, primera, cita, primeros",
+        keywordsLocalized: true,
+        category: "Trabajo y Salarios",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-13-2-la-lamal-no-paga-el-dentista-lo-descubres-despues-de-la-primera-cita",
+        readingTime: 1,
+        dateUpdated: "13 mayo 2026",
+        summary: "Es uno de los primeros choques concretos al llegar a Suiza. El seguro básico obligatorio LAMal no cubre la odontología para adultos, salvo…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Es uno de los primeros choques concretos al llegar a Suiza. El seguro básico obligatorio LAMal no cubre la odontología para adultos, salvo excepciones muy específicas: accidentes con secuelas dentales, ciertas enfermedades graves que afectan la boca de forma directa, y poco más. Una revisión rutinaria con limpieza puede costar entre 150 y 300 francos. Una extracción, más. Una endodoncia con corona puede llegar fácilmente a 1.500 o 2.000 francos según el dentista y el cantón, sin techo legal: los honorarios son libres. Mucha gente lo descubre cuando llega la primera factura.</p>
+<p>Para cubrirse existen seguros complementarios específicos. Las principales cajas (CSS, Swica, Helsana, Sanitas, entre otras) tienen módulos dentales que cuestan entre 20 y 80 francos al mes según la cobertura y la edad del asegurado. Lo que conviene saber antes de contratar: hay periodos de espera de hasta tres meses antes de poder usarlos, los reembolsos anuales suelen estar limitados a 1.000 o 2.000 francos, y las condiciones varían bastante de una compañía a otra. Quien espera a tener un problema dental para buscar un seguro llega habitualmente tarde.</p>
+<p>Hay una alternativa que mucha gente en Suiza usa sin anunciarlo demasiado: ir al dentista en Francia o en España. No hay ningún problema legal con eso. Una corona en Francia puede costar entre 300 y 600 euros. La misma corona en Suiza puede triplicar ese precio. Para quien vive cerca de la frontera, el cálculo es sencillo. Para los niños, algunos cantones tienen servicios de odontología escolar gratuita o muy subvencionada: Ginebra y Vaud, por ejemplo, ofrecen revisiones y tratamientos básicos sin coste para menores. Vale la pena preguntarlo en la commune, porque el servicio varía mucho según el cantón y a veces no se publicita.</p>
+</div>`
     }
 });

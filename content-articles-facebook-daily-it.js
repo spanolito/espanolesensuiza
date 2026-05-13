@@ -1970,5 +1970,47 @@ Object.assign(window.siteContent.it.articles, {
 <p>Bisogna essere precisi su chi influisce su questo, perché la confusione può essere grande. I cittadini dell'UE che vivono e lavorano in Svizzera ai sensi dell'Accordo sulla libera circolazione delle persone (ALCP) non hanno attualmente bisogno di alcuna autorizzazione speciale per acquistare la loro residenza principale. Tale diritto non cambia con le misure annunciate, almeno per ora. Ciò che cambia è il regime per coloro che acquistano proprietà senza risiedere in Svizzera, e il mercato della seconda residenza e delle case vacanza nelle zone turistiche, che è già soggetto a contingenti cantonali sotto la Lex Koller. Tali contingenti sarebbero ridotti e le vendite tra stranieri non domiciliati richiederebbero un'autorizzazione esplicita.</p>
 <p>C'è in tutto questo una contraddizione che vale la pena sottolineare. Mentre nel referendum si discute di limitare il numero di stranieri che possono vivere in Svizzera, il Consiglio federale propone nuove restrizioni per coloro che hanno già vissuto qui e se ne sono andati. Non è facile per loro rimanere, e non è facile per loro andarsene con ciò che hanno comprato. Il mercato immobiliare svizzero non è solo un mercato: è uno strumento politico. E quando la politica tocca il mattone in Svizzera, quelli che finiscono per regolare il loro comportamento sono sempre gli stessi.</p>
 </div>`
+    },
+
+    "fb-daily-20260513-01-treno-e-bicicletta-la-prenotazione-che-molti-non-conoscono": {
+        title: "Treno e bicicletta: la prenotazione che molti non conoscono",
+        featuredImage: "media/guides/actualidad-tren-y-bicicleta-la-reserva-que-muchos-descon.jpg",
+        imageAlt: "Treno e bicicletta: la prenotazione che molti non conoscono",
+        description: "Da quest' anno, portare la bicicletta sui treni svizzeri non è più così spontaneo come una volta. In gran parte della rete, compresi i Grigioni, la Svizzera…",
+        keywords: "treno, bicicletta, prenotazione, molti, conoscono, quest, anno, portare",
+        keywordsLocalized: true,
+        category: "Salute e LAMal",
+        hub: "salud",
+        slug: "actualidad-2026-05-13-1-treno-e-bicicletta-la-prenotazione-che-molti-non-conoscono",
+        readingTime: 1,
+        dateUpdated: "13 maggio 2026",
+        summary: "Da quest' anno, portare la bicicletta sui treni svizzeri non è più così spontaneo come una volta. In gran parte della rete, compresi i Grigioni, la…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Da quest' anno, portare la bicicletta sui treni svizzeri non è più così spontaneo come una volta. In gran parte della rete, compresi i Grigioni, la Svizzera centrale, l'Oberland bernese, il Vallese e vari servizi nella Romandia, la prenotazione del posto è obbligatoria. Non è un suggerimento. Se sali sul treno con la bici senza averla confermata, rischi di essere costretto a scendere alla fermata successiva. Il sistema è stato implementato da tempo in alcune sezioni e si è diffuso proprio perché la domanda ha superato la capacità dei carri autorizzati.</p>
+<p>La prenotazione viene effettuata nell'app dei CFF al momento dell'acquisto del biglietto, o presso gli sportelli delle stazioni. Il prezzo è simbolico. Ciò che non è simbolico è arrivare alla piattaforma convinti che sia sufficiente avere l'abbonamento generale e scoprire che la tua bicicletta non ha il diritto di salire. Questa non è teoria: passa ogni fine settimana nelle stazioni di montagna tra maggio e ottobre, quando l'afflusso di cicloturisti moltiplica la pressione sui vagoni abilitati.</p>
+<p>La logica è quella di sempre: la Svizzera regola. Non vieta l'uso della bicicletta in treno, tutt' altro. Quello che fa è gestire il flusso con regole chiare che, se le conosci, non rappresentano un problema. Il problema è che molte persone stanno salendo senza riserve da anni perché nessuno glielo aveva impedito fino a quando la norma non è cambiata. Il sistema non perdona le distrazioni, ma non è nemmeno difficile da usare una volta che sai che esiste.</p>
+</div>`
+    },
+
+    "fb-daily-20260513-02-la-lamal-non-paga-il-dentista-lo-scopri-dopo-il-primo-appuntamento": {
+        title: "La LAMal non paga il dentista. Lo scopri dopo il primo appuntamento.",
+        featuredImage: "media/guides/actualidad-la-lamal-no-paga-el-dentista-lo-descubres-des.jpg",
+        imageAlt: "La LAMal non paga il dentista. Lo scopri dopo il primo appuntamento.",
+        description: "È uno dei primi scontri concreti all'arrivo in Svizzera. L'assicurazione di base obbligatoria LAMal non copre l'odontoiatria per adulti, salvo eccezioni molto…",
+        keywords: "lamal, paga, dentista, scopri, dopo, primo, appuntamento, primi",
+        keywordsLocalized: true,
+        category: "Lavoro e salari",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-13-2-la-lamal-non-paga-il-dentista-lo-scopri-dopo-il-primo-appuntamento",
+        readingTime: 1,
+        dateUpdated: "13 maggio 2026",
+        summary: "È uno dei primi scontri concreti all'arrivo in Svizzera. L'assicurazione di base obbligatoria LAMal non copre l'odontoiatria per adulti, salvo…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>È uno dei primi scontri concreti all'arrivo in Svizzera. L'assicurazione di base obbligatoria LAMal non copre l'odontoiatria per adulti, salvo eccezioni molto specifiche: incidenti con sequele dentali, alcune gravi malattie che colpiscono direttamente la bocca e poco altro. Un controllo di routine con pulizia può costare tra i 150 e i 300 franchi. Un'estrazione, di più. Un'endodonzia con corona può facilmente arrivare a 1.500 o 2.000 franchi a seconda del dentista e del cantone, senza tetto legale: le tasse sono libere. Molte persone lo scoprono quando arriva la prima fattura.</p>
+<p>Per la copertura sono previste specifiche assicurazioni complementari. Le scatole principali (CSS, Swica, Helsana, Sanitas, tra le altre) hanno moduli dentali che costano tra 20 e 80 franchi al mese a seconda della copertura e dell'età dell'assicurato. Cosa sapere prima di assumere: ci sono periodi di attesa fino a tre mesi prima di poterli utilizzare, i rimborsi annuali sono solitamente limitati a 1.000 o 2.000 franchi e le condizioni variano notevolmente da una compagnia all'altra. Chi aspetta di avere un problema dentale per cercare un'assicurazione di solito arriva in ritardo.</p>
+<p>C'è un'alternativa che molte persone in Svizzera usano senza pubblicizzarlo troppo: andare dal dentista in Francia o in Spagna. Non c'è nessun problema legale a riguardo. Una corona in Francia può costare dai 300 ai 600 euro. La stessa corona in Svizzera può triplicare quel prezzo. Per chi vive vicino al confine, il calcolo è semplice. Per i bambini, alcuni cantoni hanno servizi di odontoiatria scolastica gratuiti o fortemente sovvenzionati: Ginevra e Vaud, ad esempio, offrono revisioni e trattamenti di base gratuiti per i minori. Vale la pena chiederlo in comune, perché il servizio varia molto a seconda del cantone e a volte non viene pubblicizzato.</p>
+</div>`
     }
 });

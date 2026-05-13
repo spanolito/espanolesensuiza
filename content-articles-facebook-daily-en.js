@@ -1971,5 +1971,47 @@ Object.assign(window.siteContent.en.articles, {
 <p>It is convenient to be precise about who this affects, because the confusion can be great. EU citizens living and working in Switzerland under the Agreement on the Free Movement of Persons (ALCP) do not currently need any special authorisation to purchase their main residence. That right does not change with the announced measures, at least for now. What changes is the regime for those who acquire property without residing in Switzerland, and the market for second homes and holiday properties in tourist areas, which is already subject to cantonal quotas under the Lex Koller. These quotas would be reduced, and sales between non-domiciled foreigners would require express authorization.</p>
 <p>There is a contradiction in all this that is worth underlining. At the same time that a referendum is debating limiting how many foreigners can live in Switzerland, the Federal Council is proposing new restrictions for those who have already lived here and left. It is not easy for them to stay, and it is not easy for them to leave with what they bought. The Swiss real estate market is not just a market: it is a political instrument. And when politics hits the brick in Switzerland, those who end up adjusting their behavior are always the same.</p>
 </div>`
+    },
+
+    "fb-daily-20260513-01-train-and-bicycle-the-reservation-that-many-are-unaware-of": {
+        title: "Train and bicycle: the reservation that many are unaware of",
+        featuredImage: "media/guides/actualidad-tren-y-bicicleta-la-reserva-que-muchos-descon.jpg",
+        imageAlt: "Train and bicycle: the reservation that many are unaware of",
+        description: "Starting this year, cycling on Swiss trains is no longer as spontaneous as it used to be. In a good part of the network, including Graubünden, central…",
+        keywords: "train, bicycle, reservation, many, unaware, starting, year, cycling",
+        keywordsLocalized: true,
+        category: "Health and LAMal",
+        hub: "salud",
+        slug: "actualidad-2026-05-13-1-train-and-bicycle-the-reservation-that-many-are-unaware-of",
+        readingTime: 1,
+        dateUpdated: "May 13, 2026",
+        summary: "Starting this year, cycling on Swiss trains is no longer as spontaneous as it used to be. In a good part of the network, including Graubünden,…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>Starting this year, cycling on Swiss trains is no longer as spontaneous as it used to be. In a good part of the network, including Graubünden, central Switzerland, Bernese Oberland, Valais and several services in Romandy, the reservation of a place is mandatory. It's not a suggestion. If you board the train without having confirmed it, you risk being forced to get off at the next stop. The system has been implemented in some sections for some time and has been extended precisely because demand has overflowed the capacity of the authorized wagons.</p>
+<p>The reservation is made in the CFF app when buying the ticket, or at the station counters. The price is symbolic. What is not symbolic is to arrive at the platform convinced that it is enough to have the general pass and discover that your bike has no right to climb. This is not theory: it happens every weekend in the mountain resorts between May and October, when the influx of cyclists multiplies the pressure on the authorized wagons.</p>
+<p>The logic is the same as always: Switzerland regulates. It does not prohibit the use of bicycles on the train, far from it. What it does is manage the flow with clear rules that, if you know them, do not pose any problem. The problem is that many people have been climbing without reserve for years because no one had stopped them until the rule changed. The system does not forgive cluelessness, but it is also not difficult to use once you know it exists.</p>
+</div>`
+    },
+
+    "fb-daily-20260513-02-lamal-does-not-pay-the-dentist-you-find-out-after-the-first-date": {
+        title: "LAMal does not pay the dentist. You find out after the first date.",
+        featuredImage: "media/guides/actualidad-la-lamal-no-paga-el-dentista-lo-descubres-des.jpg",
+        imageAlt: "LAMal does not pay the dentist. You find out after the first date.",
+        description: "It is one of the first concrete shocks when arriving in Switzerland. Mandatory basic LAMal insurance does not cover adult dentistry, with very specific…",
+        keywords: "lamal, does, dentist, find, after, first, date, concrete",
+        keywordsLocalized: true,
+        category: "Work and Salaries",
+        hub: "trabajo",
+        slug: "actualidad-2026-05-13-2-lamal-does-not-pay-the-dentist-you-find-out-after-the-first-date",
+        readingTime: 1,
+        dateUpdated: "May 13, 2026",
+        summary: "It is one of the first concrete shocks when arriving in Switzerland. Mandatory basic LAMal insurance does not cover adult dentistry, with very…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>It is one of the first concrete shocks when arriving in Switzerland. Mandatory basic LAMal insurance does not cover adult dentistry, with very specific exceptions: accidents with dental sequelae, certain serious diseases that directly affect the mouth, and little else. A routine check with cleaning can cost between 150 and 300 francs. One extraction, more. A crowned root canal can easily reach 1,500 or 2,000 francs depending on the dentist and canton, with no legal ceiling - the fees are free. Many people find out when the first bill arrives.</p>
+<p>To be covered there are specific supplementary insurances. The main boxes (CSS, Swica, Helsana, Sanitas, among others) have dental modules that cost between 20 and 80 francs per month depending on the coverage and age of the insured. What you should know before hiring: there are waiting periods of up to three months before you can use them, annual refunds are usually limited to 1,000 or 2,000 francs, and conditions vary considerably from one company to another. Those who wait until they have a dental problem to seek insurance are usually late.</p>
+<p>There is an alternative that many people in Switzerland use without announcing it too much: going to the dentist in France or Spain. There's no legal problem with that. A crown in France can cost between 300 and 600 euros. The same krona in Switzerland can triple that price. For those who live near the border, the calculation is straightforward. For children, some cantons have free or heavily subsidized school dentistry services: Geneva and Vaud, for example, offer basic check-ups and treatments at no cost to minors. It is worth asking in the commune, because the service varies greatly by canton and is sometimes not advertised.</p>
+</div>`
     }
 });
