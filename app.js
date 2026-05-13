@@ -2325,6 +2325,10 @@ document.addEventListener("DOMContentLoaded", () => {
                 return String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
             })
             .slice(0, 3);
+        const featuredIds = new Set(featuredHubArticles.map(article => article.id));
+        const latestHubArticles = hubArticles
+            .filter(article => !featuredIds.has(article.id))
+            .slice(0, 6);
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
         if (hubArticles.length > 0) {
@@ -2340,7 +2344,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <div>
                     <h3 style="margin-bottom: 1rem;">${ui['home-title-latest'] || ui['sort-recent'] || 'Más recientes'}</h3>
                     <div class="featured-grid">
-                        ${hubArticles.map(r => renderCard(r, ui)).join('')}
+                        ${latestHubArticles.map(r => renderCard(r, ui)).join('')}
                     </div>
                 </div>
             `;
