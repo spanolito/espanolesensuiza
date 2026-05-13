@@ -1654,7 +1654,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-01-le-numero-avs-lidentifiant-qui-sait-tout-de-vous-sans-contenir-aucune": {
+    "fb-daily-20260509-01-el-numero-avs-el-identificador-que-lo-sabe-todo-de-ti-sin-contener-nin": {
         title: "Le numéro AVS : l'identifiant qui sait tout de vous sans contenir aucune de vos données personnelles",
         featuredImage: "media/guides/actualidad-el-numero-avs-el-identificador-que-lo-sabe-to.jpg",
         imageAlt: "Le numéro AVS : l'identifiant qui sait tout de vous sans contenir aucune de vos données personnelles",
@@ -1677,7 +1677,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-02-acheter-une-voiture-doccasion-en-suisse-la-plaque-dimmatriculation-app": {
+    "fb-daily-20260509-02-comprar-un-coche-de-segunda-mano-en-suiza-la-placa-es-del-dueno-no-del": {
         title: "Acheter une voiture d'occasion en Suisse : la plaque d'immatriculation appartient au propriétaire, pas à la voiture",
         featuredImage: "media/guides/actualidad-comprar-un-coche-de-segunda-mano-en-suiza-la.jpg",
         imageAlt: "Acheter une voiture d'occasion en Suisse : la plaque d'immatriculation appartient au propriétaire, pas à la voiture",
@@ -1700,7 +1700,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-03-en-suisse-on-a-le-droit-de-faire-greve-mais-bien-mener-une-greve-est-b": {
+    "fb-daily-20260509-03-en-suiza-se-puede-hacer-huelga-pero-hacerla-bien-es-bastante-mas-compl": {
         title: "En Suisse, on a le droit de faire grève. Mais bien mener une grève est bien plus compliqué qu'il n'y paraît.",
         featuredImage: "media/guides/actualidad-en-suiza-se-puede-hacer-huelga-pero-hacerla-b.jpg",
         imageAlt: "En Suisse, on a le droit de faire grève. Mais bien mener une grève est bien plus compliqué qu'il n'y paraît.",
@@ -1723,7 +1723,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-01-lextrait-du-casier-judiciaire-suisse-comment-lobtenir-et-a-quoi-cela-s": {
+    "fb-daily-20260510-01-el-extracto-del-casier-judiciaire-suizo-como-pedirlo-y-para-que-lo-vas": {
         title: "L'extrait du casier judiciaire suisse : comment l'obtenir et à quoi cela sert-il ?",
         featuredImage: "media/guides/actualidad-el-extracto-del-casier-judiciaire-suizo-como.jpg",
         imageAlt: "L'extrait du casier judiciaire suisse : comment l'obtenir et à quoi cela sert-il ?",
@@ -1745,7 +1745,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-02-appeler-le-144-en-suisse-les-numeros-qui-sauvent-des-vies-et-la-factur": {
+    "fb-daily-20260510-02-llamar-al-144-en-suiza-los-numeros-que-salvan-vidas-y-la-factura-que-m": {
         title: "Appeler le 144 en Suisse : les numéros qui sauvent des vies et la facture à laquelle beaucoup ne s'attendent pas",
         featuredImage: "media/guides/actualidad-llamar-al-144-en-suiza-los-numeros-que-salvan.jpg",
         imageAlt: "Appeler le 144 en Suisse : les numéros qui sauvent des vies et la facture à laquelle beaucoup ne s'attendent pas",
@@ -1767,7 +1767,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-03-le-travail-au-noir-en-suisse-ce-que-tu-risques-vraiment-quand-quelquun": {
+    "fb-daily-20260510-03-el-trabajo-en-negro-en-suiza-lo-que-realmente-arriesgas-cuando-alguien": {
         title: "Le travail au noir en Suisse : ce que tu risques vraiment quand quelqu'un te propose de te payer en espèces sans justificatif",
         featuredImage: "media/guides/actualidad-el-trabajo-en-negro-en-suiza-lo-que-realmente.jpg",
         imageAlt: "Le travail au noir en Suisse : ce que tu risques vraiment quand quelqu'un te propose de te payer en espèces sans justificatif",
@@ -1788,26 +1788,7 @@ Object.assign(window.siteContent.fr.articles, {
 <p>Le troisième aspect que presque personne ne prend en compte, c'est l'AVS. Chaque mois de travail non déclaré est un mois sans cotisation. En Suisse, la pension se construit année après année, et les lacunes dans les cotisations réduisent le montant de la retraite. Si vous travaillez depuis des années en partie au noir et que vous atteignez l'âge de la retraite avec des lacunes dans votre historique, le système ne vous demande pas pourquoi : il calcule simplement ce que vous avez cotisé et vous verse ce montant. Il n'y a aucun moyen de compenser les années non cotisées une fois qu'elles sont passées. Pour quelqu'un qui vit en Suisse depuis 20 ou 30 ans, la différence peut s'élever à plusieurs centaines de francs par mois pour le reste de sa vie.</p>
 </div>`
     },
-,
 
-    "fb-daily-20260415-01-retours-dachats-en-suisse-ce-qui-est-possible-et-ce-qui-ne-lest-pas": {
-        title: "Retours d'achats en Suisse : ce qui est possible et ce qui ne l'est pas",
-        featuredImage: "media/guides/actualidad-devolver-compras-en-suiza-lo-que-si-y-lo-que.jpg",
-        imageAlt: "Retours d'achats en Suisse : ce qui est possible et ce qui ne l'est pas",
-        description: "Retour de marchandises en Suisse : ce qui est possible et ce qui ne l'est pas En Suisse, il n'existe pas de droit général de retour. C'est aussi simple que…",
-        keywords: "retours, achats, suisse, possible, retour, marchandises, existe, droit",
-        keywordsLocalized: true,
-        category: "Travail et salaires",
-        hub: "trabajo",
-        slug: "actualidad-2026-04-15-1-retours-dachats-en-suisse-ce-qui-est-possible-et-ce-qui-ne-lest-pas",
-        readingTime: 3,
-        dateUpdated: "15 avril 2026",
-        summary: "Retour de marchandises en Suisse : ce qui est possible et ce qui ne l'est pas En Suisse, il n'existe pas de droit général de retour. C'est aussi…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>Retour de marchandises en Suisse : ce qui est possible et ce qui ne l'est pas En Suisse, il n'existe pas de droit général de retour. C'est aussi simple que cela. Ce n'est pas comme dans d'autres pays où l'on peut changer d'avis et retourner un produit dans un délai déterminé. Ici, si vous achetez quelque chose de votre propre initiative, en magasin ou même en ligne, vous n'avez pas automatiquement le droit de le retourner simplement parce que vous n'en voulez plus. La base juridique est assez claire. Le droit de rétractation n’existe que dans des situations très précises prévues par le Code des obligations, en particulier les art. 40a CO et suivants. Et cela n’a rien à voir avec le simple fait de se raviser, mais avec la protection contre la pression commerciale. Ce droit de 14 jours s’applique uniquement lorsque l’on est venu vous démarcher pour vous vendre quelque chose. Par exemple, lors de ventes à domicile, dans la rue ou lors d’événements promotionnels où vous n’aviez rien demandé. Il s’applique également aux contrats conclus par téléphone, lorsque vous acceptez une offre au cours d’un appel. Dans les deux cas, le montant du contrat doit dépasser 100 CHF. Si ces conditions sont remplies, vous pouvez résilier le contrat dans un délai de 14 jours sans pénalité. Mais ce délai commence à courir à partir du moment où vous acceptez l’offre, et non lorsque vous recevez le produit ou le service. De plus, le fournisseur doit vous avoir correctement informé de ce droit. S’il ne le fait pas, la situation change. En dehors de ces cas, il n’existe aucun droit légal de retourner quoi que ce soit simplement parce que vous avez changé d’avis. Si vous entrez dans un magasin, achetez un produit et que vous vous ravisez ensuite, vous dépendez uniquement de la politique commerciale du magasin. Il en va de même pour les achats en ligne effectués de votre propre initiative. Si les magasins acceptent les retours, c’est parce qu’ils le veulent, pas parce qu’ils y sont obligés. Cela prête à confusion, car de nombreux magasins en Suisse acceptent effectivement les retours. Mais il faut bien comprendre : ce n’est pas un droit, c’est un geste commercial. Chaque entreprise fixe ses propres règles : délai, remboursement en espèces ou sous forme de bon d’achat, produit non utilisé, emballage intact, etc. Dans le cas des assurances ou des services, le principe est le même. Le droit de rétractation de 14 jours peut également s’appliquer, mais uniquement si le contrat a été conclu sous pression commerciale. C’est-à-dire si on vous le vend par téléphone ou dans la rue sans que vous l’ayez demandé au préalable. En pratique, cela signifie que de nombreux contrats d’assurance n’entrent pas dans ce cadre. Car c’est généralement vous qui demandez l’offre ou qui lancez le processus. Dans ce cas, il n’y a plus de droit de rétractation automatique et seules s’appliquent les conditions du contrat que vous avez signé. Exemple clair : on vous appelle et vous acceptez de changer d’assurance sur le champ. Vous disposez alors de 14 jours pour vous rétracter. Mais si c’est vous qui contactez l’assureur et signez ensuite, vous ne bénéficiez pas de ce droit par défaut. Il en va de même pour une salle de sport, un abonnement Internet ou tout autre service. En Suisse, la logique est simple : la loi vous protège lorsque l'on vous met la pression pour acheter, pas lorsque c'est vous qui décidez. C'est pourquoi, ici, plus qu'un droit de rétractation, ce qui existe réellement, c'est la responsabilité de lire avant de signer. Car une fois que vous avez dit oui de votre propre initiative, il n'y a plus de retour en arrière possible, sauf si le contrat le permet.</p>
-</div>`
-    },
 
     "fb-daily-20260415-02-httpswwwespanolesensuizach": {
         title: "https://www.espanolesensuiza.ch/",
@@ -1828,7 +1809,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260415-01-retourner-des-achats-en-suisse-ce-qui-existe-et-ce-qui-nexiste-pas": {
+    "fb-daily-20260415-01-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe": {
         title: "Retourner des achats en Suisse : ce qui existe et ce qui n'existe pas",
         featuredImage: "media/guides/actualidad-devolver-compras-en-suiza-lo-que-si-y-lo-que.jpg",
         imageAlt: "Retourner des achats en Suisse : ce qui existe et ce qui n'existe pas",
@@ -1847,7 +1828,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260413-01-rouler-a-velo-en-suisse-semble-simple-jusqua-ce-que-vous-commenciez-a": {
+    "fb-daily-20260413-01-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve": {
         title: "Rouler à vélo en Suisse semble simple... jusqu'à ce que vous commenciez à voir les amendes.",
         featuredImage: "media/guides/actualidad-circular-en-bicicleta-en-suiza-parece-sencill.jpg",
         imageAlt: "Rouler à vélo en Suisse semble simple... jusqu'à ce que vous commenciez à voir les amendes.",
@@ -1866,7 +1847,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-01-lassurance-rc-et-lassurance-du-contenu-de-lappartement-en-suisse-deux": {
+    "fb-daily-20260511-01-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist": {
         title: "L'assurance RC et l'assurance du contenu de l'appartement en Suisse : deux choses différentes qui sont presque toujours mal contractées",
         featuredImage: "media/guides/actualidad-el-seguro-rc-y-el-seguro-de-contenido-del-pis.jpg",
         imageAlt: "L'assurance RC et l'assurance du contenu de l'appartement en Suisse : deux choses différentes qui sont presque toujours mal contractées",
@@ -1887,7 +1868,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-02-la-garantie-en-suisse-dure-deux-ans-selon-la-loi-mais-la-reclamer-a-pl": {
+    "fb-daily-20260511-02-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r": {
         title: "La garantie en Suisse dure deux ans selon la loi, mais la réclamer a plus d'exigences que vous ne l'imaginez",
         featuredImage: "media/guides/actualidad-la-garantia-en-suiza-dura-dos-anos-por-ley-pe.jpg",
         imageAlt: "La garantie en Suisse dure deux ans selon la loi, mais la réclamer a plus d'exigences que vous ne l'imaginez",
@@ -1908,7 +1889,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-03-le-id-suisse-ni-surveillance-etatique-ni-demarche-urgente-mais-il-conv": {
+    "fb-daily-20260511-03-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e": {
         title: "L'E-ID suisse : ni surveillance étatique ni démarche urgente, mais il convient de comprendre ce que c'est avant son arrivée",
         featuredImage: "media/guides/actualidad-el-e-id-suizo-ni-vigilancia-estatal-ni-tramit.jpg",
         imageAlt: "L'E-ID suisse : ni surveillance étatique ni démarche urgente, mais il convient de comprendre ce que c'est avant son arrivée",
@@ -1929,7 +1910,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-01-le-14-juin-la-suisse-vote-si-9-millions-cest-deja-trop": {
+    "fb-daily-20260512-01-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados": {
         title: "Le 14 juin, la Suisse vote si 9 millions c'est déjà trop",
         featuredImage: "media/guides/actualidad-el-14-de-junio-suiza-vota-si-9-millones-ya-so.jpg",
         imageAlt: "Le 14 juin, la Suisse vote si 9 millions c'est déjà trop",
@@ -1950,7 +1931,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-02-les-frontaliers-et-le-chomage-qui-paie-va-changer-et-le-changement-nes": {
+    "fb-daily-20260512-02-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no": {
         title: "Les frontaliers et le chômage : qui paie va changer, et le changement n'est pas petit",
         featuredImage: "media/guides/actualidad-los-fronterizos-y-el-desempleo-quien-paga-va.jpg",
         imageAlt: "Les frontaliers et le chômage : qui paie va changer, et le changement n'est pas petit",
@@ -1971,7 +1952,7 @@ Object.assign(window.siteContent.fr.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-03-le-conseil-federal-veut-que-les-etrangers-qui-partent-doivent-vendre-l": {
+    "fb-daily-20260512-03-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve": {
         title: "Le Conseil fédéral veut que les étrangers qui partent doivent vendre leur appartement",
         featuredImage: "media/guides/actualidad-el-consejo-federal-quiere-que-los-extranjeros.jpg",
         imageAlt: "Le Conseil fédéral veut que les étrangers qui partent doivent vendre leur appartement",

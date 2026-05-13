@@ -1654,7 +1654,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-01-the-avs-number-the-identifier-that-knows-everything-about-you-without": {
+    "fb-daily-20260509-01-el-numero-avs-el-identificador-que-lo-sabe-todo-de-ti-sin-contener-nin": {
         title: "The AVS number: the identifier that knows everything about you without containing any of your personal data",
         featuredImage: "media/guides/actualidad-el-numero-avs-el-identificador-que-lo-sabe-to.jpg",
         imageAlt: "The AVS number: the identifier that knows everything about you without containing any of your personal data",
@@ -1677,7 +1677,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-02-buying-a-second-hand-car-in-switzerland-the-number-plate-belongs-to-th": {
+    "fb-daily-20260509-02-comprar-un-coche-de-segunda-mano-en-suiza-la-placa-es-del-dueno-no-del": {
         title: "Buying a second-hand car in Switzerland: the number plate belongs to the owner, not the car",
         featuredImage: "media/guides/actualidad-comprar-un-coche-de-segunda-mano-en-suiza-la.jpg",
         imageAlt: "Buying a second-hand car in Switzerland: the number plate belongs to the owner, not the car",
@@ -1700,7 +1700,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-03-in-switzerland-it-is-possible-to-go-on-strike-but-doing-it-properly-is": {
+    "fb-daily-20260509-03-en-suiza-se-puede-hacer-huelga-pero-hacerla-bien-es-bastante-mas-compl": {
         title: "In Switzerland, it is possible to go on strike. But doing it properly is far more complicated than it seems.",
         featuredImage: "media/guides/actualidad-en-suiza-se-puede-hacer-huelga-pero-hacerla-b.jpg",
         imageAlt: "In Switzerland, it is possible to go on strike. But doing it properly is far more complicated than it seems.",
@@ -1723,7 +1723,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-01-the-swiss-criminal-record-extract-how-to-request-it-and-what-youll-nee": {
+    "fb-daily-20260510-01-el-extracto-del-casier-judiciaire-suizo-como-pedirlo-y-para-que-lo-vas": {
         title: "The Swiss criminal record extract: how to request it and what you’ll need it for",
         featuredImage: "media/guides/actualidad-el-extracto-del-casier-judiciaire-suizo-como.jpg",
         imageAlt: "The Swiss criminal record extract: how to request it and what you’ll need it for",
@@ -1745,7 +1745,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-02-calling-144-in-switzerland-the-numbers-that-save-lives-and-the-bill-ma": {
+    "fb-daily-20260510-02-llamar-al-144-en-suiza-los-numeros-que-salvan-vidas-y-la-factura-que-m": {
         title: "Calling 144 in Switzerland: the numbers that save lives and the bill many don’t expect",
         featuredImage: "media/guides/actualidad-llamar-al-144-en-suiza-los-numeros-que-salvan.jpg",
         imageAlt: "Calling 144 in Switzerland: the numbers that save lives and the bill many don’t expect",
@@ -1767,7 +1767,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-03-undeclared-work-in-switzerland-what-youre-really-risking-when-someone": {
+    "fb-daily-20260510-03-el-trabajo-en-negro-en-suiza-lo-que-realmente-arriesgas-cuando-alguien": {
         title: "Undeclared work in Switzerland: what you’re really risking when someone offers to pay you in cash without providing a receipt",
         featuredImage: "media/guides/actualidad-el-trabajo-en-negro-en-suiza-lo-que-realmente.jpg",
         imageAlt: "Undeclared work in Switzerland: what you’re really risking when someone offers to pay you in cash without providing a receipt",
@@ -1789,24 +1789,6 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260415-01-returning-purchases-in-switzerland-what-is-and-isnt-allowed": {
-        title: "Returning purchases in Switzerland: what is and isn’t allowed",
-        featuredImage: "media/guides/actualidad-devolver-compras-en-suiza-lo-que-si-y-lo-que.jpg",
-        imageAlt: "Returning purchases in Switzerland: what is and isn’t allowed",
-        description: "Returning purchases in Switzerland: what is and isn’t allowed In Switzerland, there is no general right to return a purchase. It’s as simple as that. It’s not…",
-        keywords: "returning, purchases, switzerland, what, allowed, there, general, right",
-        keywordsLocalized: true,
-        category: "Work and Salaries",
-        hub: "trabajo",
-        slug: "actualidad-2026-04-15-1-returning-purchases-in-switzerland-what-is-and-isnt-allowed",
-        readingTime: 3,
-        dateUpdated: "April 15, 2026",
-        summary: "Returning purchases in Switzerland: what is and isn’t allowed In Switzerland, there is no general right to return a purchase. It’s as simple as that.…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>Returning purchases in Switzerland: what is and isn’t allowed In Switzerland, there is no general right to return a purchase. It’s as simple as that. It’s not like in other countries where you can change your mind and return a product within a set period. Here, if you buy something on your own initiative, in a shop or even online, you don’t automatically have the right to return it simply because you no longer want it. The legal basis is quite clear. The right of withdrawal only applies in very specific situations set out in the Swiss Code of Obligations, in particular Art. 40a CO et seq. And it has nothing to do with simply changing your mind, but rather with protection against commercial pressure. This 14-day right applies only when someone has approached you to sell you something. For example, door-to-door sales, on the street or at promotional events where you hadn’t ordered anything. It also applies to contracts concluded over the phone, when you accept an offer during a call. In both cases, the contract must be worth over CHF 100. If these conditions are met, you can cancel the contract within 14 days without penalty. However, this period begins from the moment you accept the offer, not when you receive the product or service. Furthermore, the supplier must have properly informed you of this right. If they fail to do so, the situation changes. Outside these cases, there is no legal right to return anything simply because you have changed your mind. If you go into a shop, buy a product and then change your mind, you are entirely at the mercy of the shop’s return policy. The same applies to online purchases made of your own accord. If they accept returns, it is because they choose to, not because they are obliged to. This causes quite a bit of confusion, as many shops in Switzerland do accept returns. But it is important to understand this clearly: it is not a right, it is a commercial gesture. Each company sets its own rules: time limit, refund in cash or as a voucher, unused product, intact packaging, etc. In the case of insurance or services, the principle is the same. The 14-day right of withdrawal may also apply, but only if the contract was concluded under commercial pressure. That is, if it is sold to you over the phone or on the street without you having previously requested it. In practice, this means that many insurance contracts do not fall within this framework. Because it is usually you who requests the quote or initiates the process. In that case, there is no longer an automatic right of withdrawal and only the terms of the contract you have signed apply. A clear example: you receive a call and agree to switch insurance providers on the spot. You do have 14 days to change your mind. But if you are the one who contacts the insurer and signs the contract afterwards, you do not have that right by default. The same applies to a gym, internet service or any other service. In Switzerland, the logic is simple: the law protects you when you’re pressured into buying, not when you decide for yourself. That’s why, rather than a right to return, what really exists here is the responsibility to read before signing. Because once you’ve said yes of your own accord, there’s no going back unless the contract allows it.</p>
-</div>`
-    },
 
     "fb-daily-20260415-02-httpswwwespanolesensuizach": {
         title: "https://www.espanolesensuiza.ch/",
@@ -1827,7 +1809,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260415-01-returning-purchases-in-switzerland-what-does-and-doesnt-exist": {
+    "fb-daily-20260415-01-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe": {
         title: "Returning purchases in Switzerland: what does and doesn't exist",
         featuredImage: "media/guides/actualidad-devolver-compras-en-suiza-lo-que-si-y-lo-que.jpg",
         imageAlt: "Returning purchases in Switzerland: what does and doesn't exist",
@@ -1846,7 +1828,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260413-01-cycling-in-switzerland-seems-easy-until-you-start-seeing-the-fines": {
+    "fb-daily-20260413-01-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve": {
         title: "Cycling in Switzerland seems easy… until you start seeing the fines.",
         featuredImage: "media/guides/actualidad-circular-en-bicicleta-en-suiza-parece-sencill.jpg",
         imageAlt: "Cycling in Switzerland seems easy… until you start seeing the fines.",
@@ -1865,7 +1847,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-01-rc-insurance-and-floor-content-insurance-in-switzerland-two-different": {
+    "fb-daily-20260511-01-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist": {
         title: "RC insurance and floor content insurance in Switzerland: two different things that are almost always badly contracted",
         featuredImage: "media/guides/actualidad-el-seguro-rc-y-el-seguro-de-contenido-del-pis.jpg",
         imageAlt: "RC insurance and floor content insurance in Switzerland: two different things that are almost always badly contracted",
@@ -1886,7 +1868,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-02-the-warranty-in-switzerland-lasts-two-years-by-law-but-claiming-it-has": {
+    "fb-daily-20260511-02-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r": {
         title: "The warranty in Switzerland lasts two years by law, but claiming it has more requirements than you can imagine",
         featuredImage: "media/guides/actualidad-la-garantia-en-suiza-dura-dos-anos-por-ley-pe.jpg",
         imageAlt: "The warranty in Switzerland lasts two years by law, but claiming it has more requirements than you can imagine",
@@ -1907,7 +1889,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-03-the-swiss-e-id-neither-state-surveillance-nor-urgent-processing-but-it": {
+    "fb-daily-20260511-03-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e": {
         title: "The Swiss E-ID: neither state surveillance nor urgent processing, but it is important to understand what it is before it arrives",
         featuredImage: "media/guides/actualidad-el-e-id-suizo-ni-vigilancia-estatal-ni-tramit.jpg",
         imageAlt: "The Swiss E-ID: neither state surveillance nor urgent processing, but it is important to understand what it is before it arrives",
@@ -1928,7 +1910,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-01-on-june-14-switzerland-votes-on-whether-9-million-is-already-too-many": {
+    "fb-daily-20260512-01-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados": {
         title: "On June 14, Switzerland votes on whether 9 million is already too many",
         featuredImage: "media/guides/actualidad-el-14-de-junio-suiza-vota-si-9-millones-ya-so.jpg",
         imageAlt: "On June 14, Switzerland votes on whether 9 million is already too many",
@@ -1949,7 +1931,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-02-frontier-workers-and-unemployment-who-pays-will-change-and-the-change": {
+    "fb-daily-20260512-02-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no": {
         title: "Frontier workers and unemployment: who pays will change, and the change is not small",
         featuredImage: "media/guides/actualidad-los-fronterizos-y-el-desempleo-quien-paga-va.jpg",
         imageAlt: "Frontier workers and unemployment: who pays will change, and the change is not small",
@@ -1970,7 +1952,7 @@ Object.assign(window.siteContent.en.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-03-the-federal-council-wants-foreigners-who-leave-to-have-to-sell-their-a": {
+    "fb-daily-20260512-03-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve": {
         title: "The Federal Council wants foreigners who leave to have to sell their apartment",
         featuredImage: "media/guides/actualidad-el-consejo-federal-quiere-que-los-extranjeros.jpg",
         imageAlt: "The Federal Council wants foreigners who leave to have to sell their apartment",

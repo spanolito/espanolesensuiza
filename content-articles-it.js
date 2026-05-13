@@ -10110,7 +10110,7 @@ window.siteContent.it.articles = {
                     <li>Cerca il sito ufficiale del tuo comune e controlla la sezione "Anmeldung / Contrôle des habitants / Einwohnerkontrolle".</li>
                     <li>Prepara un PDF con i documenti + copie cartacee.</li>
                     <li>Se la tua situazione non è standard (senza contratto, frontaliere, ricongiungimento), chiedi per iscritto l'elenco esatto dei requisiti.</li>
-                    <li>Dopo la registrazione, dai priorità a: <a href="#/assicurazione-sanitaria-svizzera-lamal">assicurazione sanitaria (LAMal)</a> e conto bancario.</li>
+                    <li>Dopo la registrazione, dai priorità a: <a href="#/assicurazione-malattia-svizzera-lamal">assicurazione sanitaria (LAMal)</a> e conto bancario.</li>
                     <li>Per il "primo mese", usa: <a href="#/checklist-tramites-llegada-suiza">Checklist delle pratiche</a>.</li>
                 </ul>
 
@@ -11024,7 +11024,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         keywordsLocalized: true,
         category: "Vivere in Svizzera",
         hub: "vivir-en-suiza",
-        slug: "costo-della-vita-svizzera",
+        slug: "costo-della-vita-in-svizzera-alloggio-cibo-tasse",
         readingTime: 5,
         summary: "Guida alla pianificazione finanziaria per la Svizzera con esempi di budget reali, dai single alle famiglie con bambini. ",
         featuredImage: "media/guides/presupuesto-suiza.png",
@@ -11518,7 +11518,7 @@ L'obiettivo è che, in aggiunta al primo pilastro, mantenete durante la pensione
         readingTime: 10,
         dateUpdated: "Marzo 2026",
         summary: "La Svizzera non è un paese convenzionale. È una Confederazione di 26 cantoni autonomi, 4 lingue ufficiali, democrazia diretta e federalismo che influenza la tua vita quotidiana fin dal primo giorno. ",
-        featuredImage: "media/guides/introduccion-suiza-como-funciona.png",
+        featuredImage: "media/guides/introduccion-suiza-como-funciona.jpg",
         imageAlt: "Persone che si integrano nella comunità svizzera davanti agli edifici pubblici",
         content: `
             <div class="article-content">

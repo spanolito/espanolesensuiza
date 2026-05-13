@@ -11508,7 +11508,7 @@ window.siteContent.en.articles = {
         readingTime: 10,
         dateUpdated: "Marzo 2026",
         summary: "Switzerland is not a conventional country. It is a Confederation of 26 autonomous cantons, 4 official languages, direct democracy and federalism that affects your daily life from day one.",
-        featuredImage: "media/guides/introduccion-suiza-como-funciona.png",
+        featuredImage: "media/guides/introduccion-suiza-como-funciona.jpg",
         imageAlt: "People integrating into the Swiss community in front of public buildings",
         content: `
             <div class="article-content">

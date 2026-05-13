@@ -1654,7 +1654,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-01-die-avs-nummer-die-kennung-die-alles-uber-dich-weiss-ohne-deine-daten": {
+    "fb-daily-20260509-01-el-numero-avs-el-identificador-que-lo-sabe-todo-de-ti-sin-contener-nin": {
         title: "Die AVS-Nummer: Die Kennung, die alles über dich weiß, ohne deine Daten zu enthalten",
         featuredImage: "media/guides/actualidad-el-numero-avs-el-identificador-que-lo-sabe-to.jpg",
         imageAlt: "Die AVS-Nummer: Die Kennung, die alles über dich weiß, ohne deine Daten zu enthalten",
@@ -1677,7 +1677,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-02-ein-gebrauchtwagen-in-der-schweiz-kaufen-das-kennzeichen-gehort-dem-be": {
+    "fb-daily-20260509-02-comprar-un-coche-de-segunda-mano-en-suiza-la-placa-es-del-dueno-no-del": {
         title: "Ein Gebrauchtwagen in der Schweiz kaufen: Das Kennzeichen gehört dem Besitzer, nicht dem Auto",
         featuredImage: "media/guides/actualidad-comprar-un-coche-de-segunda-mano-en-suiza-la.jpg",
         imageAlt: "Ein Gebrauchtwagen in der Schweiz kaufen: Das Kennzeichen gehört dem Besitzer, nicht dem Auto",
@@ -1700,7 +1700,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-03-in-der-schweiz-darf-man-streiken-aber-es-richtig-zu-machen-ist-wesentl": {
+    "fb-daily-20260509-03-en-suiza-se-puede-hacer-huelga-pero-hacerla-bien-es-bastante-mas-compl": {
         title: "In der Schweiz darf man streiken. Aber es richtig zu machen, ist wesentlich komplizierter, als es scheint.",
         featuredImage: "media/guides/actualidad-en-suiza-se-puede-hacer-huelga-pero-hacerla-b.jpg",
         imageAlt: "In der Schweiz darf man streiken. Aber es richtig zu machen, ist wesentlich komplizierter, als es scheint.",
@@ -1723,7 +1723,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-01-der-auszug-aus-dem-schweizer-strafregister-wie-man-ihn-beantragt-und-w": {
+    "fb-daily-20260510-01-el-extracto-del-casier-judiciaire-suizo-como-pedirlo-y-para-que-lo-vas": {
         title: "Der Auszug aus dem Schweizer Strafregister: Wie man ihn beantragt und wofür man ihn benötigt",
         featuredImage: "media/guides/actualidad-el-extracto-del-casier-judiciaire-suizo-como.jpg",
         imageAlt: "Der Auszug aus dem Schweizer Strafregister: Wie man ihn beantragt und wofür man ihn benötigt",
@@ -1745,7 +1745,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-02-die-144-in-der-schweiz-anrufen-die-nummern-die-leben-retten-und-die-re": {
+    "fb-daily-20260510-02-llamar-al-144-en-suiza-los-numeros-que-salvan-vidas-y-la-factura-que-m": {
         title: "Die 144 in der Schweiz anrufen: Die Nummern, die Leben retten – und die Rechnung, mit der viele nicht rechnen",
         featuredImage: "media/guides/actualidad-llamar-al-144-en-suiza-los-numeros-que-salvan.jpg",
         imageAlt: "Die 144 in der Schweiz anrufen: Die Nummern, die Leben retten – und die Rechnung, mit der viele nicht rechnen",
@@ -1767,7 +1767,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-03-schwarzarbeit-in-der-schweiz-was-du-wirklich-riskierst-wenn-dir-jemand": {
+    "fb-daily-20260510-03-el-trabajo-en-negro-en-suiza-lo-que-realmente-arriesgas-cuando-alguien": {
         title: "Schwarzarbeit in der Schweiz: Was du wirklich riskierst, wenn dir jemand anbietet, dich bar und ohne Quittung zu bezahlen",
         featuredImage: "media/guides/actualidad-el-trabajo-en-negro-en-suiza-lo-que-realmente.jpg",
         imageAlt: "Schwarzarbeit in der Schweiz: Was du wirklich riskierst, wenn dir jemand anbietet, dich bar und ohne Quittung zu bezahlen",
@@ -1789,24 +1789,6 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260415-01-ruckgabe-von-einkaufen-in-der-schweiz-was-moglich-ist-und-was-nicht": {
-        title: "Rückgabe von Einkäufen in der Schweiz: Was möglich ist und was nicht",
-        featuredImage: "media/guides/actualidad-devolver-compras-en-suiza-lo-que-si-y-lo-que.jpg",
-        imageAlt: "Rückgabe von Einkäufen in der Schweiz: Was möglich ist und was nicht",
-        description: "Rückgabe von Einkäufen in der Schweiz: Was möglich ist und was nicht In der Schweiz gibt es kein allgemeines Rückgaberecht. So einfach ist das. Es ist nicht…",
-        keywords: "rückgabe, einkäufen, schweiz, möglich, nicht, gibt, kein, allgemeines",
-        keywordsLocalized: true,
-        category: "Arbeit und Löhne",
-        hub: "trabajo",
-        slug: "actualidad-2026-04-15-1-ruckgabe-von-einkaufen-in-der-schweiz-was-moglich-ist-und-was-nicht",
-        readingTime: 3,
-        dateUpdated: "15 April 2026",
-        summary: "Rückgabe von Einkäufen in der Schweiz: Was möglich ist und was nicht In der Schweiz gibt es kein allgemeines Rückgaberecht. So einfach ist das. Es…",
-        relatedSlugs: [],
-        content: `<div class="article-content">
-<p>Rückgabe von Einkäufen in der Schweiz: Was möglich ist und was nicht In der Schweiz gibt es kein allgemeines Rückgaberecht. So einfach ist das. Es ist nicht wie in anderen Ländern, wo man seine Meinung ändern und ein Produkt innerhalb einer bestimmten Frist zurückgeben kann. Wenn man hier auf eigene Initiative etwas kauft – sei es im Laden oder sogar online –, hat man nicht automatisch das Recht, es zurückzugeben, nur weil man es nicht mehr will. Die Rechtsgrundlage ist ziemlich eindeutig. Ein Widerrufsrecht besteht nur in ganz bestimmten, im Obligationenrecht vorgesehenen Fällen, insbesondere in Art. 40a OR ff. Und es hat nichts mit Reue zu tun, sondern mit dem Schutz vor Verkaufsdruck. Dieses 14-tägige Recht gilt nur, wenn man dich aufgesucht hat, um dir etwas zu verkaufen. Zum Beispiel bei Haustürgeschäften, auf der Strasse oder bei Werbeveranstaltungen, bei denen du nichts bestellt hast. Es gilt auch für telefonisch abgeschlossene Verträge, wenn du während eines Anrufs ein Angebot annimmst. In beiden Fällen muss der Vertragswert über 100 CHF liegen. Sind diese Bedingungen erfüllt, kannst du den Vertrag innerhalb von 14 Tagen ohne Strafzahlung widerrufen. Diese Frist beginnt jedoch ab dem Zeitpunkt, an dem du das Angebot annimmst, nicht erst, wenn du die Ware oder Dienstleistung erhältst. Ausserdem muss der Anbieter dich ordnungsgemäss über dieses Recht informiert haben. Tut er dies nicht, ändert sich die Situation. Ausserhalb dieser Fälle besteht kein gesetzliches Recht, etwas nur wegen eines einfachen Sinneswandels zurückzugeben. Wenn du ein Geschäft betrittst, ein Produkt kaufst und es dir dann anders überlegst, bist du allein von den Geschäftsbedingungen des Händlers abhängig. Das Gleiche gilt für Online-Käufe, die du aus eigener Initiative getätigt hast. Wenn Rückgaben akzeptiert werden, dann weil der Händler es will, nicht weil er dazu verpflichtet ist. Das sorgt für ziemliche Verwirrung, da viele Geschäfte in der Schweiz Rückgaben akzeptieren. Aber man muss das richtig verstehen: Es ist kein Recht, sondern eine Geste des Händlers. Jedes Unternehmen legt seine eigenen Regeln fest: Frist, Rückerstattung in bar oder als Gutschein, unbenutztes Produkt, intakte Verpackung usw. Bei Versicherungen oder Dienstleistungen gilt das gleiche Prinzip. Das 14-tägige Widerrufsrecht kann ebenfalls gelten, jedoch nur, wenn der Vertrag unter kommerziellem Druck abgeschlossen wurde. Das heisst, wenn er dir am Telefon oder auf der Strasse verkauft wird, ohne dass du ihn zuvor angefordert hast. In der Praxis bedeutet dies, dass viele Versicherungsverträge nicht unter diese Regelung fallen. Denn normalerweise bist du es, der das Angebot anfordert oder den Prozess initiiert. In diesem Fall besteht kein automatisches Widerrufsrecht mehr und es gelten ausschliesslich die Bedingungen des von dir unterzeichneten Vertrags. Ein anschauliches Beispiel: Du wirst angerufen und stimmst sofort einem Versicherungswechsel zu. Dann hast du 14 Tage Zeit, um davon zurückzutreten. Wenn du jedoch selbst die Versicherung kontaktierst und später unterschreibst, hast du dieses Recht standardmässig nicht. Das Gleiche gilt für ein Fitnessstudio, Internet oder jede andere Dienstleistung. In der Schweiz ist die Logik einfach: Das Gesetz schützt dich, wenn du zum Kauf gedrängt wirst, nicht aber, wenn du dich selbst entscheidest. Deshalb gibt es hier weniger ein Rückgaberecht als vielmehr die Pflicht, vor der Unterzeichnung zu lesen. Denn sobald du aus eigenem Antrieb zugestimmt hast, gibt es kein Zurück mehr, es sei denn, der Vertrag lässt dies zu.</p>
-</div>`
-    },
 
     "fb-daily-20260415-02-httpswwwespanolesensuizach": {
         title: "https://www.espanolesensuiza.ch/",
@@ -1827,7 +1809,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260415-01-einkaufe-in-der-schweiz-zuruckgeben-was-es-gibt-und-was-nicht": {
+    "fb-daily-20260415-01-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe": {
         title: "Einkäufe in der Schweiz zurückgeben: Was es gibt und was nicht",
         featuredImage: "media/guides/actualidad-devolver-compras-en-suiza-lo-que-si-y-lo-que.jpg",
         imageAlt: "Einkäufe in der Schweiz zurückgeben: Was es gibt und was nicht",
@@ -1846,7 +1828,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260413-01-radfahren-in-der-schweiz-scheint-einfach-zu-sein-bis-sie-die-bussgelde": {
+    "fb-daily-20260413-01-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve": {
         title: "Radfahren in der Schweiz scheint einfach zu sein... bis Sie die Bußgelder sehen.",
         featuredImage: "media/guides/actualidad-circular-en-bicicleta-en-suiza-parece-sencill.jpg",
         imageAlt: "Radfahren in der Schweiz scheint einfach zu sein... bis Sie die Bußgelder sehen.",
@@ -1865,7 +1847,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-01-haftpflichtversicherung-und-bodeninhaltsversicherung-in-der-schweiz-zw": {
+    "fb-daily-20260511-01-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist": {
         title: "Haftpflichtversicherung und Bodeninhaltsversicherung in der Schweiz: zwei verschiedene Dinge, die fast immer schlecht gemietet werden",
         featuredImage: "media/guides/actualidad-el-seguro-rc-y-el-seguro-de-contenido-del-pis.jpg",
         imageAlt: "Haftpflichtversicherung und Bodeninhaltsversicherung in der Schweiz: zwei verschiedene Dinge, die fast immer schlecht gemietet werden",
@@ -1886,7 +1868,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-02-die-garantie-in-der-schweiz-dauert-gesetzlich-zwei-jahre-aber-die-inan": {
+    "fb-daily-20260511-02-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r": {
         title: "Die Garantie in der Schweiz dauert gesetzlich zwei Jahre, aber die Inanspruchnahme hat mehr Anforderungen, als Sie sich vorstellen können",
         featuredImage: "media/guides/actualidad-la-garantia-en-suiza-dura-dos-anos-por-ley-pe.jpg",
         imageAlt: "Die Garantie in der Schweiz dauert gesetzlich zwei Jahre, aber die Inanspruchnahme hat mehr Anforderungen, als Sie sich vorstellen können",
@@ -1907,7 +1889,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-03-die-schweizer-e-id-weder-staatliche-uberwachung-noch-dringende-behandl": {
+    "fb-daily-20260511-03-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e": {
         title: "Die Schweizer E-ID: Weder staatliche Überwachung noch dringende Behandlung, aber es ist ratsam zu verstehen, was es ist, bevor es ankommt",
         featuredImage: "media/guides/actualidad-el-e-id-suizo-ni-vigilancia-estatal-ni-tramit.jpg",
         imageAlt: "Die Schweizer E-ID: Weder staatliche Überwachung noch dringende Behandlung, aber es ist ratsam zu verstehen, was es ist, bevor es ankommt",
@@ -1928,7 +1910,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-01-am-14-juni-stimmt-die-schweiz-ab-ob-9-millionen-bereits-zu-viel-sind": {
+    "fb-daily-20260512-01-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados": {
         title: "Am 14. Juni stimmt die Schweiz ab, ob 9 Millionen bereits zu viel sind",
         featuredImage: "media/guides/actualidad-el-14-de-junio-suiza-vota-si-9-millones-ya-so.jpg",
         imageAlt: "Am 14. Juni stimmt die Schweiz ab, ob 9 Millionen bereits zu viel sind",
@@ -1949,7 +1931,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-02-grenzganger-und-arbeitslosigkeit-wer-zahlt-wird-sich-andern-und-die-ve": {
+    "fb-daily-20260512-02-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no": {
         title: "Grenzgänger und Arbeitslosigkeit: Wer zahlt, wird sich ändern, und die Veränderung ist nicht klein",
         featuredImage: "media/guides/actualidad-los-fronterizos-y-el-desempleo-quien-paga-va.jpg",
         imageAlt: "Grenzgänger und Arbeitslosigkeit: Wer zahlt, wird sich ändern, und die Veränderung ist nicht klein",
@@ -1970,7 +1952,7 @@ Object.assign(window.siteContent.de.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-03-bundesrat-will-dass-wegziehende-auslander-ihre-wohnung-verkaufen-musse": {
+    "fb-daily-20260512-03-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve": {
         title: "Bundesrat will, dass wegziehende Ausländer ihre Wohnung verkaufen müssen",
         featuredImage: "media/guides/actualidad-el-consejo-federal-quiere-que-los-extranjeros.jpg",
         imageAlt: "Bundesrat will, dass wegziehende Ausländer ihre Wohnung verkaufen müssen",

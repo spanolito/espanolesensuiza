@@ -10416,7 +10416,7 @@ window.siteContent.fr.articles = {
                     <li>Calculez votre "pire cas annuel" : prime + franchise + quote-part, pour décider intelligemment.</li>
                     <li>Si vous allez souscrire des complémentaires (dentaire, etc.), il est généralement plus facile de le faire quand vous êtes en bonne santé et avant tout diagnostic.</li>
                     <li>Si votre budget est serré, vérifiez le sujet de la <strong>réduction des primes</strong> de votre canton (subside).</li>
-                    <li>Connectez ce guide avec <a href="#/franchise-et-quote-part-suisse">franchise/quote-part</a> et le <a href="#/budget-suisse">coût de la vie</a>.</li>
+                    <li>Connectez ce guide avec <a href="#/franchise-et-quote-part-suisse">franchise/quote-part</a> et le <a href="#/cout-de-la-vie-en-suisse-logement-nourriture-impots">coût de la vie</a>.</li>
                 </ul>
 
                 <h2>Sources officielles</h2>
@@ -11518,7 +11518,7 @@ Les <p>_<em>frontaliers</em> sont des personnes qui résident de manière perman
         readingTime: 10,
         dateUpdated: "Marzo 2026",
         summary: "La Suisse n'est pas un pays conventionnel. C'est une Confédération de 26 cantons autonomes, 4 langues officielles, une démocratie directe et un fédéralisme qui affecte votre vie quotidienne dès le premier jour. ",
-        featuredImage: "media/guides/introduccion-suiza-como-funciona.png",
+        featuredImage: "media/guides/introduccion-suiza-como-funciona.jpg",
         imageAlt: "Personnes s'intégrant dans la communauté suisse devant les bâtiments publics",
         content: `
             <div class="article-content">

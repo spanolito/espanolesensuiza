@@ -990,3 +990,17 @@ Object.assign(window.siteContent.fr.articles, {
 	        </div>`
     }
 });
+
+(function () {
+    const esArticles = (window.siteContent.es && window.siteContent.es.articles) || {};
+    const articles = window.siteContent.fr.articles || {};
+    Object.keys(articles).forEach((key) => {
+        if (!/^fb-\d+/i.test(key) || !esArticles[key]) return;
+        if (!articles[key].featuredImage && esArticles[key].featuredImage) {
+            articles[key].featuredImage = esArticles[key].featuredImage;
+        }
+        if (!articles[key].imageAlt && esArticles[key].imageAlt) {
+            articles[key].imageAlt = esArticles[key].imageAlt;
+        }
+    });
+})();

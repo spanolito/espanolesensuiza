@@ -11522,7 +11522,7 @@ Ziel ist es, dass Sie zusätzlich zur ersten Säule auch im Ruhestand einen Lebe
         readingTime: 10,
         dateUpdated: "Marzo 2026",
         summary: "Die Schweiz ist kein konventionelles Land. Es ist eine Konföderation aus 26 autonomen Kantonen, 4 Amtssprachen, direkter Demokratie und Föderalismus, die Ihr tägliches Leben vom ersten Tag an beeinflusst. ",
-        featuredImage: "media/guides/introduccion-suiza-como-funciona.png",
+        featuredImage: "media/guides/introduccion-suiza-como-funciona.jpg",
         imageAlt: "Menschen, die sich vor öffentlichen Gebäuden in die Schweizer Gemeinschaft integrieren",
         content: `
             <div class="article-content">

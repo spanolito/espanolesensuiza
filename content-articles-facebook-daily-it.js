@@ -1654,7 +1654,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-01-il-numero-avs-lidentificativo-che-sa-tutto-di-te-senza-contenere-alcun": {
+    "fb-daily-20260509-01-el-numero-avs-el-identificador-que-lo-sabe-todo-de-ti-sin-contener-nin": {
         title: "Il numero AVS: l'identificativo che sa tutto di te senza contenere alcun tuo dato",
         featuredImage: "media/guides/actualidad-el-numero-avs-el-identificador-que-lo-sabe-to.jpg",
         imageAlt: "Il numero AVS: l'identificativo che sa tutto di te senza contenere alcun tuo dato",
@@ -1677,7 +1677,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-02-acquistare-unauto-usata-in-svizzera-la-targa-appartiene-al-proprietari": {
+    "fb-daily-20260509-02-comprar-un-coche-de-segunda-mano-en-suiza-la-placa-es-del-dueno-no-del": {
         title: "Acquistare un'auto usata in Svizzera: la targa appartiene al proprietario, non all'auto",
         featuredImage: "media/guides/actualidad-comprar-un-coche-de-segunda-mano-en-suiza-la.jpg",
         imageAlt: "Acquistare un'auto usata in Svizzera: la targa appartiene al proprietario, non all'auto",
@@ -1700,7 +1700,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260509-03-in-svizzera-e-possibile-scioperare-ma-farlo-nel-modo-giusto-e-molto-pi": {
+    "fb-daily-20260509-03-en-suiza-se-puede-hacer-huelga-pero-hacerla-bien-es-bastante-mas-compl": {
         title: "In Svizzera è possibile scioperare. Ma farlo nel modo giusto è molto più complicato di quanto sembri.",
         featuredImage: "media/guides/actualidad-en-suiza-se-puede-hacer-huelga-pero-hacerla-b.jpg",
         imageAlt: "In Svizzera è possibile scioperare. Ma farlo nel modo giusto è molto più complicato di quanto sembri.",
@@ -1723,7 +1723,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-01-lestratto-del-casellario-giudiziario-svizzero-come-richiederlo-e-a-cos": {
+    "fb-daily-20260510-01-el-extracto-del-casier-judiciaire-suizo-como-pedirlo-y-para-que-lo-vas": {
         title: "L'estratto del casellario giudiziario svizzero: come richiederlo e a cosa serve",
         featuredImage: "media/guides/actualidad-el-extracto-del-casier-judiciaire-suizo-como.jpg",
         imageAlt: "L'estratto del casellario giudiziario svizzero: come richiederlo e a cosa serve",
@@ -1745,7 +1745,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-02-chiamare-il-144-in-svizzera-i-numeri-che-salvano-la-vita-e-il-conto-ch": {
+    "fb-daily-20260510-02-llamar-al-144-en-suiza-los-numeros-que-salvan-vidas-y-la-factura-que-m": {
         title: "Chiamare il 144 in Svizzera: i numeri che salvano la vita e il conto che molti non si aspettano",
         featuredImage: "media/guides/actualidad-llamar-al-144-en-suiza-los-numeros-que-salvan.jpg",
         imageAlt: "Chiamare il 144 in Svizzera: i numeri che salvano la vita e il conto che molti non si aspettano",
@@ -1767,7 +1767,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260510-03-il-lavoro-in-nero-in-svizzera-cosa-rischi-davvero-quando-qualcuno-ti-p": {
+    "fb-daily-20260510-03-el-trabajo-en-negro-en-suiza-lo-que-realmente-arriesgas-cuando-alguien": {
         title: "Il lavoro in nero in Svizzera: cosa rischi davvero quando qualcuno ti propone di pagarti in contanti senza ricevuta",
         featuredImage: "media/guides/actualidad-el-trabajo-en-negro-en-suiza-lo-que-realmente.jpg",
         imageAlt: "Il lavoro in nero in Svizzera: cosa rischi davvero quando qualcuno ti propone di pagarti in contanti senza ricevuta",
@@ -1789,7 +1789,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260415-01-restituire-gli-acquisti-in-svizzera-cosa-ce-e-cosa-non-ce": {
+    "fb-daily-20260415-01-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe": {
         title: "Restituire gli acquisti in Svizzera: cosa c'è e cosa non c'è",
         featuredImage: "media/guides/actualidad-devolver-compras-en-suiza-lo-que-si-y-lo-que.jpg",
         imageAlt: "Restituire gli acquisti in Svizzera: cosa c'è e cosa non c'è",
@@ -1808,7 +1808,26 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260413-01-andare-in-bicicletta-in-svizzera-sembra-semplice-fino-a-quando-non-ini": {
+    "fb-daily-20260415-02-httpswwwespanolesensuizach": {
+        title: "https://www.espanolesensuiza.ch/",
+        featuredImage: "media/guides/actualidad-httpswwwespanolesensuizach.jpg",
+        imageAlt: "https://www.espanolesensuiza.ch/",
+        description: "https://www.espanolesensuiza.ch/ Da tempo vedo sempre la stessa cosa nel gruppo. Le stesse domande, gli stessi dubbi, le stesse risposte… e molto spesso anche la stessa disinformazione…",
+        keywords: "https, espanolesensuiza, tempo, gruppo, domande, dubbi, risposte, disinformazione",
+        keywordsLocalized: true,
+        category: "Procedure e permessi",
+        hub: "tramites",
+        slug: "actualidad-2026-04-15-2-httpswwwespanolesensuizach",
+        readingTime: 2,
+        dateUpdated: "15 aprile 2026",
+        summary: "https://www.espanolesensuiza.ch/ Da tempo vedo sempre la stessa cosa nel gruppo. Le stesse domande, gli stessi dubbi, le stesse risposte… e molto spesso anche…",
+        relatedSlugs: [],
+        content: `<div class="article-content">
+<p>https://www.espanolesensuiza.ch/ Da tempo vedo sempre la stessa cosa nel gruppo. Le stesse domande, gli stessi dubbi, le stesse risposte... e molto spesso anche la stessa disinformazione. Non e colpa di nessuno: semplicemente in Svizzera ogni tema ha sfumature, basi legali e differenze cantonali che a prima vista non sono affatto evidenti. Ed e proprio per questo che ho lavorato a questo progetto: https://www.espanolesensuiza.ch/ L'idea e molto semplice. Centralizzare informazioni chiare, basate su fonti ufficiali svizzere come ch.ch, SEM o BFS, e spiegarle in spagnolo in modo davvero comprensibile. Niente fumo, niente promesse del tipo "vieni in Svizzera e in due settimane ti sistemi", e niente copia-incolla della prima cosa trovata su Google. Ci sono guide su permessi, lavoro, assicurazioni, imposte, costo della vita, frontalieri... e l'idea e continuare ad ampliarle poco a poco. Il sito e pensato anche per essere pratico: non qualcosa da leggere per curiosita e basta, ma qualcosa che ti serva quando ne hai davvero bisogno. Detto questo, non e un progetto chiuso. Al contrario. Voglio un feedback reale. Se qualcosa non si capisce, se vedete errori, se manca un'informazione importante, se una guida non risponde a cio che stavate cercando... ditemelo. Senza filtri. Preferisco una critica diretta adesso piuttosto che cento persone che si perdono in contenuti che non aiutano. Mi interessa anche capire come lo vedete a livello di utilizzo: se le informazioni si trovano facilmente, se la struttura ha senso, se vi sembra utile oppure se c'e qualcosa di superfluo. L'idea non e creare "un altro sito in piu". L'idea e fare qualcosa che serva davvero a chi e gia qui o a chi sta pensando di venire. Quindi, se avete 5 minuti, dateci un'occhiata e massacratelo pure. E l'unico modo per far si che tutto questo abbia davvero senso.</p>
+</div>`
+    },
+
+    "fb-daily-20260413-01-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve": {
         title: "Andare in bicicletta in Svizzera sembra semplice... fino a quando non inizi a vedere le multe.",
         featuredImage: "media/guides/actualidad-circular-en-bicicleta-en-suiza-parece-sencill.jpg",
         imageAlt: "Andare in bicicletta in Svizzera sembra semplice... fino a quando non inizi a vedere le multe.",
@@ -1827,7 +1846,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-01-lassicurazione-rc-e-lassicurazione-del-contenuto-dellappartamento-in-s": {
+    "fb-daily-20260511-01-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist": {
         title: "L'assicurazione RC e l'assicurazione del contenuto dell'appartamento in Svizzera: due cose diverse che vengono quasi sempre contrattate male",
         featuredImage: "media/guides/actualidad-el-seguro-rc-y-el-seguro-de-contenido-del-pis.jpg",
         imageAlt: "L'assicurazione RC e l'assicurazione del contenuto dell'appartamento in Svizzera: due cose diverse che vengono quasi sempre contrattate male",
@@ -1848,7 +1867,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-02-la-garanzia-in-svizzera-dura-due-anni-per-legge-ma-richiederla-ha-piu": {
+    "fb-daily-20260511-02-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r": {
         title: "La garanzia in Svizzera dura due anni per legge, ma richiederla ha più requisiti di quanto si possa immaginare",
         featuredImage: "media/guides/actualidad-la-garantia-en-suiza-dura-dos-anos-por-ley-pe.jpg",
         imageAlt: "La garanzia in Svizzera dura due anni per legge, ma richiederla ha più requisiti di quanto si possa immaginare",
@@ -1869,7 +1888,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260511-03-le-id-svizzero-ne-sorveglianza-statale-ne-procedura-urgente-ma-convien": {
+    "fb-daily-20260511-03-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e": {
         title: "L'E-ID svizzero: né sorveglianza statale né procedura urgente, ma conviene capire di cosa si tratta prima che arrivi",
         featuredImage: "media/guides/actualidad-el-e-id-suizo-ni-vigilancia-estatal-ni-tramit.jpg",
         imageAlt: "L'E-ID svizzero: né sorveglianza statale né procedura urgente, ma conviene capire di cosa si tratta prima che arrivi",
@@ -1890,7 +1909,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-01-il-14-giugno-la-svizzera-vota-se-9-milioni-sono-gia-troppi": {
+    "fb-daily-20260512-01-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados": {
         title: "Il 14 giugno la Svizzera vota se 9 milioni sono già troppi",
         featuredImage: "media/guides/actualidad-el-14-de-junio-suiza-vota-si-9-millones-ya-so.jpg",
         imageAlt: "Il 14 giugno la Svizzera vota se 9 milioni sono già troppi",
@@ -1911,7 +1930,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-02-i-frontalieri-e-la-disoccupazione-chi-paga-cambiera-e-il-cambiamento-n": {
+    "fb-daily-20260512-02-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no": {
         title: "I frontalieri e la disoccupazione: chi paga cambierà, e il cambiamento non è piccolo",
         featuredImage: "media/guides/actualidad-los-fronterizos-y-el-desempleo-quien-paga-va.jpg",
         imageAlt: "I frontalieri e la disoccupazione: chi paga cambierà, e il cambiamento non è piccolo",
@@ -1932,7 +1951,7 @@ Object.assign(window.siteContent.it.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-03-il-consiglio-federale-vuole-che-gli-stranieri-che-se-ne-vanno-debbano": {
+    "fb-daily-20260512-03-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve": {
         title: "Il Consiglio federale vuole che gli stranieri che se ne vanno debbano vendere il loro appartamento",
         featuredImage: "media/guides/actualidad-el-consejo-federal-quiere-que-los-extranjeros.jpg",
         imageAlt: "Il Consiglio federale vuole che gli stranieri che se ne vanno debbano vendere il loro appartamento",

@@ -1,0 +1,1822 @@
+{
+  "generatedAt": "2026-05-13T02:16:32.984Z",
+  "articlesMissing": [],
+  "duplicateArticles": [],
+  "imageIssues": [],
+  "brokenLinks": [],
+  "multilingualInconsistencies": [
+    {
+      "lang": "en",
+      "key": "articulo-permisos",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-mudarse-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-tramites-llegada",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-trabajar-sin-permiso-fisico",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-reagrupacion-familiar",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-rav-paro",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-subalquiler",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-jubilacion",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-vivir-sin-trabajar",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-ai-invalidez",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-vacunas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-danza-patos",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-introduccion-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-cantones",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-lenguas",
+      "field": "content",
+      "expected": "target language content",
+      "actual": "Spanish fragments detected"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-lenguas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-consulados",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "articulo-consulados",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-alquilar-en-suiza-evitar-estafas",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-alquilar-en-suiza-evitar-estafas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-consejos-vida-diaria-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-costo-de-vida-suiza",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-costo-de-vida-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-democracia-directa-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-fraudes-inmigrantes-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-normas-locales-ginebra",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-permisos-suiza-actualizacion",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-seguro-medico-lamal-elegir",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-seguro-medico-lamal-elegir",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-sistema-politico-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-trabajar-en-suiza-guia",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-trabajar-en-suiza-guia",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260420-01-la-campana-de-la-renta-espanola-2025-afecta-a-mas-residentes-en-suiza-de-lo-que-",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260420-01-la-campana-de-la-renta-espanola-2025-afecta-a-mas-residentes-en-suiza-de-lo-que-",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260420-01-la-campana-de-la-renta-espanola-2025-afecta-a-mas-residentes-en-suiza-de-lo-que-",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260420-02-suiza-negocio-con-trump-y-bajo-los-aranceles-al-15-pero-el-dano-ya-estaba-hecho",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260420-02-suiza-negocio-con-trump-y-bajo-los-aranceles-al-15-pero-el-dano-ya-estaba-hecho",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260420-02-suiza-negocio-con-trump-y-bajo-los-aranceles-al-15-pero-el-dano-ya-estaba-hecho",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260420-03-la-declaracion-de-impuestos-en-suiza-quien-esta-obligado-cuando-y-como-pedir-mas",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260420-03-la-declaracion-de-impuestos-en-suiza-quien-esta-obligado-cuando-y-como-pedir-mas",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260420-03-la-declaracion-de-impuestos-en-suiza-quien-esta-obligado-cuando-y-como-pedir-mas",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260422-01-el-referendum-del-14-de-junio-lo-que-dicen-las-encuestas-y-lo-que-deberias-hacer",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260422-01-el-referendum-del-14-de-junio-lo-que-dicen-las-encuestas-y-lo-que-deberias-hacer",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260422-01-el-referendum-del-14-de-junio-lo-que-dicen-las-encuestas-y-lo-que-deberias-hacer",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260422-02-la-nacionalidad-suiza-lo-que-hay-que-saber-antes-de-pedirla-y-la-trampa-que-nadi",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260422-02-la-nacionalidad-suiza-lo-que-hay-que-saber-antes-de-pedirla-y-la-trampa-que-nadi",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260422-02-la-nacionalidad-suiza-lo-que-hay-que-saber-antes-de-pedirla-y-la-trampa-que-nadi",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260422-03-suiza-cambia-las-normas-cuando-el-titular-de-la-prensa-espanola-da-mas-miedo-que",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260422-03-suiza-cambia-las-normas-cuando-el-titular-de-la-prensa-espanola-da-mas-miedo-que",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260422-03-suiza-cambia-las-normas-cuando-el-titular-de-la-prensa-espanola-da-mas-miedo-que",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260423-01-la-franquicia-del-seguro-medico-va-a-subir-lo-que-cambia-y-lo-que-no",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260423-01-la-franquicia-del-seguro-medico-va-a-subir-lo-que-cambia-y-lo-que-no",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260423-01-la-franquicia-del-seguro-medico-va-a-subir-lo-que-cambia-y-lo-que-no",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260423-02-el-carnet-de-conducir-espanol-en-suiza-valido-al-llegar-pero-con-fecha-de-caduci",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260423-02-el-carnet-de-conducir-espanol-en-suiza-valido-al-llegar-pero-con-fecha-de-caduci",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260423-02-el-carnet-de-conducir-espanol-en-suiza-valido-al-llegar-pero-con-fecha-de-caduci",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260423-03-hacerse-autonomo-en-suiza-siendo-extranjero-mas-pasos-de-los-que-parece",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260423-03-hacerse-autonomo-en-suiza-siendo-extranjero-mas-pasos-de-los-que-parece",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260423-03-hacerse-autonomo-en-suiza-siendo-extranjero-mas-pasos-de-los-que-parece",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260424-01-el-kurzarbeit-cuando-la-economia-frena-el-seguro-cubre-parte-de-tu-sueldo",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260424-01-el-kurzarbeit-cuando-la-economia-frena-el-seguro-cubre-parte-de-tu-sueldo",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260424-01-el-kurzarbeit-cuando-la-economia-frena-el-seguro-cubre-parte-de-tu-sueldo",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260424-02-la-cuenta-bancaria-en-suiza-lo-que-nadie-te-explica-bien-cuando-llegas",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260424-02-la-cuenta-bancaria-en-suiza-lo-que-nadie-te-explica-bien-cuando-llegas",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260424-02-la-cuenta-bancaria-en-suiza-lo-que-nadie-te-explica-bien-cuando-llegas",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260424-03-los-festivos-en-suiza-dependen-del-canton-donde-trabajas-no-de-donde-vives",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260424-03-los-festivos-en-suiza-dependen-del-canton-donde-trabajas-no-de-donde-vives",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260424-03-los-festivos-en-suiza-dependen-del-canton-donde-trabajas-no-de-donde-vives",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260425-01-la-nueva-asignacion-de-guarderia-en-suiza-lo-que-cambia-para-familias-trabajador",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260425-01-la-nueva-asignacion-de-guarderia-en-suiza-lo-que-cambia-para-familias-trabajador",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260425-01-la-nueva-asignacion-de-guarderia-en-suiza-lo-que-cambia-para-familias-trabajador",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260425-02-el-mercado-laboral-suizo-en-2026-que-sectores-contratan-y-cuales-estan-ajustando",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260425-02-el-mercado-laboral-suizo-en-2026-que-sectores-contratan-y-cuales-estan-ajustando",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260425-02-el-mercado-laboral-suizo-en-2026-que-sectores-contratan-y-cuales-estan-ajustando",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260425-03-el-convenio-de-doble-imposicion-espana-suiza-por-que-importa-y-cuando-te-afecta",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260425-03-el-convenio-de-doble-imposicion-espana-suiza-por-que-importa-y-cuando-te-afecta",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260425-03-el-convenio-de-doble-imposicion-espana-suiza-por-que-importa-y-cuando-te-afecta",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-01-la-e-id-suiza-el-dni-digital-que-tambien-pueden-pedir-los-que-vivimos-aqui-con-p",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-01-la-e-id-suiza-el-dni-digital-que-tambien-pueden-pedir-los-que-vivimos-aqui-con-p",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-01-la-e-id-suiza-el-dni-digital-que-tambien-pueden-pedir-los-que-vivimos-aqui-con-p",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-02-el-ees-ya-funciona-en-toda-europa-lo-que-implica-si-tienes-familia-que-viene-de-",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-02-el-ees-ya-funciona-en-toda-europa-lo-que-implica-si-tienes-familia-que-viene-de-",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-02-el-ees-ya-funciona-en-toda-europa-lo-que-implica-si-tienes-familia-que-viene-de-",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-03-comprar-piso-en-suiza-siendo-espanol-lo-que-depende-de-tu-permiso-y-lo-que-no",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-03-comprar-piso-en-suiza-siendo-espanol-lo-que-depende-de-tu-permiso-y-lo-que-no",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-03-comprar-piso-en-suiza-siendo-espanol-lo-que-depende-de-tu-permiso-y-lo-que-no",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-04-empadronarse-en-suiza-el-primer-tramite-que-muchos-dejan-para-despues",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-04-empadronarse-en-suiza-el-primer-tramite-que-muchos-dejan-para-despues",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-04-empadronarse-en-suiza-el-primer-tramite-que-muchos-dejan-para-despues",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-05-el-salario-minimo-en-suiza-que-cantones-lo-fijan-y-que-pasa-en-los-que-no",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-05-el-salario-minimo-en-suiza-que-cantones-lo-fijan-y-que-pasa-en-los-que-no",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-05-el-salario-minimo-en-suiza-que-cantones-lo-fijan-y-que-pasa-en-los-que-no",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-06-rc-y-seguro-del-hogar-en-suiza-dos-seguros-distintos-que-van-juntos-pero-no-son-",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-06-rc-y-seguro-del-hogar-en-suiza-dos-seguros-distintos-que-van-juntos-pero-no-son-",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-06-rc-y-seguro-del-hogar-en-suiza-dos-seguros-distintos-que-van-juntos-pero-no-son-",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-07-el-teletrabajo-desde-espana-siendo-residente-en-suiza-las-reglas-que-ya-son-defi",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-07-el-teletrabajo-desde-espana-siendo-residente-en-suiza-las-reglas-que-ya-son-defi",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-07-el-teletrabajo-desde-espana-siendo-residente-en-suiza-las-reglas-que-ya-son-defi",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-08-la-jubilacion-de-las-mujeres-en-suiza-lo-que-cambia-en-2026-con-la-reforma-avs-2",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-08-la-jubilacion-de-las-mujeres-en-suiza-lo-que-cambia-en-2026-con-la-reforma-avs-2",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-08-la-jubilacion-de-las-mujeres-en-suiza-lo-que-cambia-en-2026-con-la-reforma-avs-2",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-09-las-multas-en-suiza-el-sistema-por-el-que-una-infraccion-de-trafico-puede-costar",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-09-las-multas-en-suiza-el-sistema-por-el-que-una-infraccion-de-trafico-puede-costar",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260426-09-las-multas-en-suiza-el-sistema-por-el-que-una-infraccion-de-trafico-puede-costar",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260427-01-el-acuerdo-pnr-suiza-ue-tus-datos-de-vuelo-ya-no-son-solo-tuyos",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260427-01-el-acuerdo-pnr-suiza-ue-tus-datos-de-vuelo-ya-no-son-solo-tuyos",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260427-01-el-acuerdo-pnr-suiza-ue-tus-datos-de-vuelo-ya-no-son-solo-tuyos",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260427-02-alquilar-en-suiza-en-2026-cuando-el-mercado-decide-que-no-eres-prioridad",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260427-02-alquilar-en-suiza-en-2026-cuando-el-mercado-decide-que-no-eres-prioridad",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260427-02-alquilar-en-suiza-en-2026-cuando-el-mercado-decide-que-no-eres-prioridad",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260427-03-el-seguro-de-accidentes-en-suiza-el-que-tienes-sin-saberlo-y-que-no-es-el-seguro",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260427-03-el-seguro-de-accidentes-en-suiza-el-que-tienes-sin-saberlo-y-que-no-es-el-seguro",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260427-03-el-seguro-de-accidentes-en-suiza-el-que-tienes-sin-saberlo-y-que-no-es-el-seguro",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260428-01-la-obligacion-del-empleador-que-pocos-conocen-el-stellenmeldepflicht-en-2026",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260428-01-la-obligacion-del-empleador-que-pocos-conocen-el-stellenmeldepflicht-en-2026",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260428-01-la-obligacion-del-empleador-que-pocos-conocen-el-stellenmeldepflicht-en-2026",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260428-02-el-1-de-mayo-en-suiza-festivo-en-algunos-cantones-dia-de-mudanzas-en-casi-todos",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260428-02-el-1-de-mayo-en-suiza-festivo-en-algunos-cantones-dia-de-mudanzas-en-casi-todos",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260428-02-el-1-de-mayo-en-suiza-festivo-en-algunos-cantones-dia-de-mudanzas-en-casi-todos",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260428-03-teletrabajo-desde-francia-para-empresa-suiza-las-nuevas-reglas-que-entraron-en-v",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260428-03-teletrabajo-desde-francia-para-empresa-suiza-las-nuevas-reglas-que-entraron-en-v",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260428-03-teletrabajo-desde-francia-para-empresa-suiza-las-nuevas-reglas-que-entraron-en-v",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260429-01-la-lex-koller-endurecida-lo-que-propone-el-gobierno-suizo-y-por-que-los-espanole",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260429-01-la-lex-koller-endurecida-lo-que-propone-el-gobierno-suizo-y-por-que-los-espanole",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260429-01-la-lex-koller-endurecida-lo-que-propone-el-gobierno-suizo-y-por-que-los-espanole",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260429-02-el-impuesto-a-la-fuente-la-correccion-que-muy-pocos-solicitan-y-que-puede-devolv",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260429-02-el-impuesto-a-la-fuente-la-correccion-que-muy-pocos-solicitan-y-que-puede-devolv",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260429-02-el-impuesto-a-la-fuente-la-correccion-que-muy-pocos-solicitan-y-que-puede-devolv",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260429-03-el-psicologo-cubierto-por-el-seguro-medico-basico-como-funciona-y-por-que-tanta-",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260429-03-el-psicologo-cubierto-por-el-seguro-medico-basico-como-funciona-y-por-que-tanta-",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260429-03-el-psicologo-cubierto-por-el-seguro-medico-basico-como-funciona-y-por-que-tanta-",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260501-01-el-referendum-del-14-de-junio-lo-que-realmente-esta-en-juego-para-los-espanoles-",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260501-01-el-referendum-del-14-de-junio-lo-que-realmente-esta-en-juego-para-los-espanoles-",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260501-01-el-referendum-del-14-de-junio-lo-que-realmente-esta-en-juego-para-los-espanoles-",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260501-02-el-acoso-es-ahora-delito-independiente-en-suiza-lo-que-cambia-con-el-nuevo-artic",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260501-02-el-acoso-es-ahora-delito-independiente-en-suiza-lo-que-cambia-con-el-nuevo-artic",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260501-02-el-acoso-es-ahora-delito-independiente-en-suiza-lo-que-cambia-con-el-nuevo-artic",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260501-03-las-deducciones-fiscales-del-pilar-3a-en-2026-el-limite-sube-y-todavia-hay-tiemp",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260501-03-las-deducciones-fiscales-del-pilar-3a-en-2026-el-limite-sube-y-todavia-hay-tiemp",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260501-03-las-deducciones-fiscales-del-pilar-3a-en-2026-el-limite-sube-y-todavia-hay-tiemp",
+      "field": "summary",
+      "expected": "localized summary",
+      "actual": "identical to Spanish summary"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260502-01-el-seguro-de-accidentes-en-suiza-no-cubre-todo-lo-que-te-pasa-en-el-tr",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "2 mayo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260502-02-tener-un-perro-en-suiza-cuesta-mas-de-lo-que-parece",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "2 mayo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260502-03-trabajar-a-tiempo-parcial-en-suiza-no-es-solo-cobrar-la-mitad",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "2 mayo 2026"
+    },
+    {
+      "lang": "en",
+      "key": "fb-daily-20260415-02-httpswwwespanolesensuizach",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-permisos",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-mudarse-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-tramites-llegada",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-trabajar-sin-permiso-fisico",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-reagrupacion-familiar",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-impuestos",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-rav-paro",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-rav-paro",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-subalquiler",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-jubilacion",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-vivir-sin-trabajar",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-ai-invalidez",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-vacunas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-danza-patos",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-introduccion-suiza",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-introduccion-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-cantones",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-cantones",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-lenguas",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-lenguas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "articulo-consulados",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-368-la-m-re-royaume",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-alquilar-en-suiza-evitar-estafas",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-alquilar-en-suiza-evitar-estafas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-consejos-vida-diaria-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-costo-de-vida-suiza",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-costo-de-vida-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-democracia-directa-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-fraudes-inmigrantes-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-normas-locales-ginebra",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-permisos-suiza-actualizacion",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-seguro-medico-lamal-elegir",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-seguro-medico-lamal-elegir",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-sistema-politico-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-trabajar-en-suiza-guia",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-trabajar-en-suiza-guia",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "fr",
+      "key": "fb-daily-20260415-02-httpswwwespanolesensuizach",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-permisos",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-mudarse-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-tramites-llegada",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-trabajar-sin-permiso-fisico",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-reagrupacion-familiar",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-impuestos",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-rav-paro",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-rav-paro",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-subalquiler",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-jubilacion",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-vivir-sin-trabajar",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-ai-invalidez",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-vacunas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-danza-patos",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-introduccion-suiza",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-introduccion-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-cantones",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-cantones",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-lenguas",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-lenguas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "articulo-consulados",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "fb-alquilar-en-suiza-evitar-estafas",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "de",
+      "key": "fb-alquilar-en-suiza-evitar-estafas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "fb-consejos-vida-diaria-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "fb-costo-de-vida-suiza",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "de",
+      "key": "fb-costo-de-vida-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "fb-democracia-directa-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "fb-fraudes-inmigrantes-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "fb-normas-locales-ginebra",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "fb-permisos-suiza-actualizacion",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "fb-seguro-medico-lamal-elegir",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "de",
+      "key": "fb-seguro-medico-lamal-elegir",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "fb-sistema-politico-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "fb-trabajar-en-suiza-guia",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "de",
+      "key": "fb-trabajar-en-suiza-guia",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "de",
+      "key": "fb-daily-20260415-02-httpswwwespanolesensuizach",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-permisos",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-mudarse-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-tramites-llegada",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-trabajar-sin-permiso-fisico",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-reagrupacion-familiar",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-impuestos",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-rav-paro",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-rav-paro",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-subalquiler",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-jubilacion",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-vivir-sin-trabajar",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-ai-invalidez",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-vacunas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-danza-patos",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-introduccion-suiza",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-introduccion-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-cantones",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-cantones",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-lenguas",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-lenguas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-consulados",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "it",
+      "key": "articulo-consulados",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "fb-368-la-m-re-royaume",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    },
+    {
+      "lang": "it",
+      "key": "fb-alquilar-en-suiza-evitar-estafas",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "it",
+      "key": "fb-alquilar-en-suiza-evitar-estafas",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "fb-consejos-vida-diaria-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "fb-costo-de-vida-suiza",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "it",
+      "key": "fb-costo-de-vida-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "fb-democracia-directa-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "fb-fraudes-inmigrantes-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "fb-normas-locales-ginebra",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "fb-permisos-suiza-actualizacion",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "fb-seguro-medico-lamal-elegir",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "it",
+      "key": "fb-seguro-medico-lamal-elegir",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "fb-sistema-politico-suiza",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "fb-trabajar-en-suiza-guia",
+      "field": "content",
+      "expected": "translated content",
+      "actual": "identical to Spanish source"
+    },
+    {
+      "lang": "it",
+      "key": "fb-trabajar-en-suiza-guia",
+      "field": "dateUpdated",
+      "expected": "localized date",
+      "actual": "Marzo 2026"
+    },
+    {
+      "lang": "it",
+      "key": "fb-daily-20260415-02-httpswwwespanolesensuizach",
+      "field": "title",
+      "expected": "localized title",
+      "actual": "identical to Spanish title"
+    }
+  ],
+  "actionsSuggested": [],
+  "indexIssues": [],
+  "mediaUnused": [
+    "media/facebook-archive/fb-513-cliquer-pour-la-vid-o-prueba-comunidad-atentos-al-detalle-voy-a-ser-voluntariamente-vago-y-no-voy-a-dar-pistas-adicionales-estas-im-genes-y-el.jpg",
+    "media/guides/Fiscalite-travailleurs-detaches-suisse.jpg",
+    "media/guides/actualidad-el-29-de-mayo-es-festivo-en-toda-suiza-sin-ex.jpg",
+    "media/guides/actualidad-lo-que-puedes-y-no-puedes-hacer-en-tu-terraza.jpg",
+    "media/guides/actualidad-permiso-b-y-libertad-laboral-que-es-verdad-y.jpg",
+    "media/guides/cantones-suiza.jpg",
+    "media/guides/comunidad.jpg",
+    "media/guides/consulados-espanoles-suiza.jpg",
+    "media/guides/diplomas.jpg",
+    "media/guides/impuestos-generales-suiza.jpg",
+    "media/guides/integracion-suiza.png",
+    "media/guides/tramites-hub.png",
+    "media/template/costo-de-vida-suiza-presupuesto.jpg",
+    "media/template/costo-de-vida-suiza.jpg"
+  ],
+  "summary": {
+    "spanishArticles": 690,
+    "missingArticles": 0,
+    "duplicateArticles": 0,
+    "imageIssues": 0,
+    "brokenLinks": 0,
+    "multilingualInconsistencies": 255,
+    "indexIssues": 0,
+    "unusedMediaFiles": 14
+  }
+}
