@@ -67,12 +67,14 @@ window.siteContent.fr.articles = {
         slug: "fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe",
         readingTime: 2,
         dateUpdated: "avr 11, 2026",
-        summary: "Le lien Facebook d’origine ne correspond pas à cet article dans l’archive actuelle. Cette fiche reste en attente d’une reconstruction correcte.",
-        facebookUrl: "",
+        summary: "En Suisse, il n’existe pas juridiquement de « permis de travail » séparé. Ce qui existe, ce sont des permis de séjour comme les L, B, C ou G, et le droit de travailler est intégré dans ce même cadre.",
+        facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
         content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
-  </div>
+<p>En Suisse, beaucoup de gens parlent de « permis de travail », mais juridiquement ce n’est pas le terme utilisé par l’administration. Ce qui existe, ce sont des permis de séjour comme les L, B, C ou G, et selon votre situation ce même permis inclut aussi l’autorisation d’exercer une activité professionnelle.</p>
+<p>Ce n’est pas seulement une question de vocabulaire. C’est aussi l’origine de nombreuses confusions. Certaines personnes cherchent un document séparé, comme s’il fallait d’abord obtenir une « licence de travail » puis régler ensuite la résidence. En pratique, pour les citoyens UE/AELE, le parcours normal consiste à avoir un motif clair de séjour, à s’inscrire dans la commune puis à laisser le dossier suivre son cours auprès de l’autorité cantonale.</p>
+<p>C’est pour cela que le permis G n’est pas un « permis de travail » au sens classique, mais un permis pour frontaliers qui vivent hors de Suisse et travaillent en Suisse. Il en va de même pour les permis L, B ou C: ce sont des titres de séjour avec des effets sur le droit au travail, pas un document indépendant prévu uniquement pour autoriser un emploi.</p>
+<p>Pour les ressortissants d’États tiers, le système est plus strict et exige généralement des autorisations préalables, mais la logique de fond ne change pas: le droit de travailler est lié au statut de séjour et à la décision administrative correspondante, pas à un document séparé portant ce nom.</p>
+<p>L’idée essentielle est donc la suivante: en Suisse, il ne suffit pas de demander « comment obtenir un permis de travail ? ». La vraie question est plutôt de savoir quel type de permis de séjour correspond à votre situation, quelles sont les exigences du canton et à quel moment vous pouvez commencer à travailler légalement.</p>
 </div>`
     },
     "fb-005-alquiler-medio-seg-n-el-cant-n-de-un-3-o-3-5-piezas-sin-olvidar-que-en-ginebra-la-cocina-es-considerada-como-una-pieza-es-decir-que-un-3-piezas-en-g": {

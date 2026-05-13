@@ -67,12 +67,14 @@ window.siteContent.en.articles = {
         slug: "fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe",
         readingTime: 2,
         dateUpdated: "avr 11, 2026",
-        summary: "The original Facebook link does not match this article in the current archive. This entry remains pending correct reconstruction.",
-        facebookUrl: "",
+        summary: "In Switzerland there is no separate legal \"work permit\" as such. What exists are residence permits such as L, B, C or G, and the right to work is built into that same framework.",
+        facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
         content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Historical Facebook Post:</strong> Due to the original export format, only the title or opening fragment is available here. Use the button below to find and read the full thread with its discussion in our official Facebook community.
-  </div>
+<p>In Switzerland, many people talk about a “work permit”, but legally that is not the term used by the authorities. What exists are residence permits such as L, B, C or G, and depending on your situation that same permit also includes the authorization to carry out professional activity.</p>
+<p>This is not just a wording issue. It is the source of a lot of confusion. Some people look for a separate document, as if they first had to obtain a “work licence” and only then deal with residence status. In practice, for EU/EFTA citizens the normal process is to have a clear basis for staying, register with the commune, and let the file move through the cantonal authority.</p>
+<p>That is why permit G is not a “work permit” in the classic sense, but a permit for frontier workers who live outside Switzerland and work inside it. The same applies to L, B or C permits: they are residence titles with employment effects, not an independent paper created only to authorize a job.</p>
+<p>For third-country nationals the system is stricter and usually requires prior authorizations, but the underlying logic does not change: the right to work is tied to residence status and the relevant administrative decision, not to a separate document with that name.</p>
+<p>The key idea is this: in Switzerland it is not very useful to ask only “how do I get a work permit?”. The real question is which type of residence permit fits your case, what requirements your canton applies, and at what point you can start working legally.</p>
 </div>`
     },
     "fb-005-alquiler-medio-seg-n-el-cant-n-de-un-3-o-3-5-piezas-sin-olvidar-que-en-ginebra-la-cocina-es-considerada-como-una-pieza-es-decir-que-un-3-piezas-en-g": {

@@ -1905,6 +1905,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // ── Helper: article card with image, hub badge, meta ──────
     const UNTITLED_RE = /^\s*\(?(untitled|sans[\s-]titre|ohne\s+titel|senza\s+titolo|sin\s+t[ií]tulo)\)?\s*$/i;
+    const SCROLL_RESTORE_HASHES = new Set(["#/articulos"]);
+    let scrollStateFrame = null;
 
     function hasValidTitle(article) {
         const t = String(article && article.title || '').trim();
@@ -1918,6 +1920,17 @@ document.addEventListener("DOMContentLoaded", () => {
             .replace(/\*([^*]*)\*/g, '$1')
             .replace(/`([^`]*)`/g, '$1')
             .replace(/\s{2,}/g, ' ')
+            .trim();
+    }
+
+    function normalizeArticleFingerprintText(value) {
+        return String(value || '')
+            .normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, '')
+            .toLowerCase()
+            .replace(/&nbsp;/g, ' ')
+            .replace(/[^a-z0-9]+/g, ' ')
+            .replace(/\s+/g, ' ')
             .trim();
     }
 
@@ -1963,6 +1976,17 @@ document.addEventListener("DOMContentLoaded", () => {
         return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
     }
 
+    function buildHighConfidenceDuplicateKey(article) {
+        if (!article || !hasValidTitle(article)) return '';
+
+        const normalizedTitle = normalizeArticleFingerprintText(article.title);
+        const normalizedImage = String(article.featuredImage || '').trim().toLowerCase();
+        const normalizedDate = normalizeArticleFingerprintText(article.dateUpdated);
+
+        if (!normalizedTitle || !normalizedImage || !normalizedDate) return '';
+        return `${normalizedTitle}||${normalizedImage}||${normalizedDate}`;
+    }
+
     function getCanonicalArticlesForLang(langArticles) {
         const allRaw = Object.keys(langArticles || {})
             .map(key => ({ id: key, ...langArticles[key] }))
@@ -1977,7 +2001,52 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         }
 
-        return Array.from(bySlug.values());
+        const byEditorialFingerprint = new Map();
+        for (const article of bySlug.values()) {
+            const duplicateKey = buildHighConfidenceDuplicateKey(article);
+            const mapKey = duplicateKey ? `dup:${duplicateKey}` : `slug:${article.slug || article.id}`;
+            const prev = byEditorialFingerprint.get(mapKey);
+            if (!prev || scoreGuideCandidateForSort(article) > scoreGuideCandidateForSort(prev)) {
+                byEditorialFingerprint.set(mapKey, article);
+            }
+        }
+
+        return Array.from(byEditorialFingerprint.values());
+    }
+
+    function rememberCurrentRouteScroll() {
+        if (typeof history.replaceState !== 'function') return;
+
+        const currentHash = window.location.hash || '#/';
+        if (!SCROLL_RESTORE_HASHES.has(currentHash)) return;
+
+        const nextState = {
+            ...(history.state || {}),
+            __esScrollRoute: currentHash,
+            __esScrollY: window.scrollY || window.pageYOffset || 0
+        };
+
+        history.replaceState(nextState, '', window.location.href);
+    }
+
+    function scheduleCurrentRouteScrollSave() {
+        if (scrollStateFrame) return;
+        scrollStateFrame = window.requestAnimationFrame(() => {
+            scrollStateFrame = null;
+            rememberCurrentRouteScroll();
+        });
+    }
+
+    function getRouteScrollTarget(routeKey, isArticle) {
+        const currentHash = window.location.hash || '#/';
+        if (isArticle || routeKey !== 'articulos') return 0;
+        if (!SCROLL_RESTORE_HASHES.has(currentHash)) return 0;
+
+        const state = history.state || {};
+        if (state.__esScrollRoute !== currentHash) return 0;
+
+        const scrollY = Number(state.__esScrollY);
+        return Number.isFinite(scrollY) && scrollY > 0 ? scrollY : 0;
     }
 
     function getHomeSearchFrequentTerms(lang) {
@@ -2240,32 +2309,12 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!container) return;
 
         const langData = window.siteContent[currentLang].articles;
-
-        const scoreGuideCandidate = (article) => {
-            const isFb = String(article && article.id ? article.id : "").startsWith("fb-");
-            const readingTime = Number(article && article.readingTime ? article.readingTime : 0) || 0;
-            const contentLen = article && article.content ? String(article.content).length : 0;
-            return (readingTime * 1000000) + contentLen - (isFb ? 500000 : 0);
-        };
-
-        // Find all articles that belong to this hub
-        const hubArticlesRaw = Object.keys(langData)
-            .filter(key => langData[key].hub === hubKey)
-            .map(key => ({ id: key, ...langData[key] }))
-            .filter(a => a && a.slug && hasValidTitle(a));
-
-        // Deduplicate by slug (some pipelines may generate duplicates). Keep the most complete candidate.
-        const bySlug = new Map();
-        for (const a of hubArticlesRaw) {
-            const key = a.slug || a.id;
-            const prev = bySlug.get(key);
-            if (!prev || scoreGuideCandidate(a) > scoreGuideCandidate(prev)) bySlug.set(key, a);
-        }
-
-        const hubArticles = Array.from(bySlug.values())
+        const hubArticles = getCanonicalArticlesForLang(langData)
+            .filter(article => article.hub === hubKey)
             .sort(getArticleSortComparator('recientes'));
 
-        const featuredHubArticles = Array.from(bySlug.values())
+        const featuredHubArticles = hubArticles
+            .slice()
             .sort((a, b) => {
                 const scoreDiff = scoreGuideCandidateForSort(b) - scoreGuideCandidateForSort(a);
                 if (scoreDiff !== 0) return scoreDiff;
@@ -2311,17 +2360,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const langData = window.siteContent[currentLang].articles;
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
-
-        const allRaw = Object.keys(langData).map(key => ({ id: key, ...langData[key] })).filter(a => a && a.slug && hasValidTitle(a));
-
-        const bySlug = new Map();
-        for (const a of allRaw) {
-            const key = a.slug || a.id;
-            const prev = bySlug.get(key);
-            if (!prev || scoreGuideCandidateForSort(a) > scoreGuideCandidateForSort(prev)) bySlug.set(key, a);
-        }
-
-        const baseArticles = Array.from(bySlug.values());
+        const baseArticles = getCanonicalArticlesForLang(langData);
 
         function update() {
             const term = searchInput ? searchInput.value.toLowerCase().trim() : "";
@@ -2379,31 +2418,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!langArticles) return;
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
-
-        const allRaw = Object.keys(langArticles)
-            .map(key => ({ id: key, ...langArticles[key] }))
-            .filter(article => article && article.slug);
-
-        const bySlug = new Map();
-        for (const article of allRaw) {
-            const mapKey = article.slug || article.id;
-            const prev = bySlug.get(mapKey);
-            if (!prev) {
-                bySlug.set(mapKey, article);
-                continue;
-            }
-
-            const currentRecency = articleRecencyScore(article);
-            const prevRecency = articleRecencyScore(prev);
-            const currentRank = currentRecency.timestamp * 100000 + currentRecency.fbIndex;
-            const prevRank = prevRecency.timestamp * 100000 + prevRecency.fbIndex;
-
-            if (currentRank > prevRank || (currentRank === prevRank && scoreGuideCandidateForSort(article) > scoreGuideCandidateForSort(prev))) {
-                bySlug.set(mapKey, article);
-            }
-        }
-
-        const latest = Array.from(bySlug.values())
+        const latest = getCanonicalArticlesForLang(langArticles)
             .sort(getArticleSortComparator(sortMode))
             .slice(0, 4);
 
@@ -3136,6 +3151,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const langData = window.siteContent[currentLang];
         const { routeKey, pageData, isArticle } = resolveRoute(path);
+        const scrollTargetY = getRouteScrollTarget(routeKey, isArticle);
 
         // Apply transition effects
         appContainer.classList.add("page-transitioning");
@@ -3373,14 +3389,18 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             appContainer.classList.remove("page-transitioning");
-            window.scrollTo(0, 0);
-            window.requestAnimationFrame(maybeShowScamWarning);
+            window.scrollTo(0, scrollTargetY);
+            window.requestAnimationFrame(() => {
+                window.scrollTo(0, scrollTargetY);
+                maybeShowScamWarning();
+            });
 
         }, 200); // match CSS transiton time
     }
 
     // Event Listeners for Routing
     window.addEventListener("hashchange", renderRoute);
+    window.addEventListener("scroll", scheduleCurrentRouteScrollSave, { passive: true });
 
     // FUTURE SEO: Listen to popstate when migrating to clean URLs (History API)
     // window.addEventListener("popstate", renderRoute);

@@ -1805,7 +1805,7 @@ Object.assign(window.siteContent.es.articles, {
 
     "fb-daily-20260415-02-httpswwwespanolesensuizach": {
         title: "https://www.espanolesensuiza.ch/",
-        featuredImage: "media/guides/actualidad-httpswwwespanolesensuizach.jpg",
+        featuredImage: "media/banner.jpg",
         imageAlt: "https://www.espanolesensuiza.ch/",
         description: "https://www.espanolesensuiza.ch/ Llevo tiempo viendo siempre lo mismo en el grupo. Las mismas preguntas, las mismas dudas, las mismas respuestas… y muchas…",
         keywords: "https, espanolesensuiza, llevo, tiempo, viendo, siempre, mismo, grupo",

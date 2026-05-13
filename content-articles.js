@@ -2451,12 +2451,14 @@ window.siteContent.es.articles = {
         slug: "fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe",
         readingTime: 2,
         dateUpdated: "avr 11, 2026",
-        facebookUrl: "",
-        summary: "El enlace original de Facebook no corresponde a este artículo en el archivo actual. Se mantiene pendiente de reconstrucción correcta.",
+        facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
+        summary: "En Suiza no existe, jurídicamente, un \"permiso de trabajo\" separado. Lo que existe son permisos de residencia como L, B, C o G, y el derecho a trabajar va integrado en ese mismo marco.",
         content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Nota del archivo:</strong> Este artículo pertenece al histórico y ha sido importado de la comunidad de Facebook.
-  </div>
+<p>En Suiza mucha gente habla de “permiso de trabajo”, pero jurídicamente ese término no es el que usa la administración. Lo que existe son permisos de residencia como el L, B, C o G, y según tu situación ese mismo permiso incluye también la autorización para ejercer una actividad profesional.</p>
+<p>No es solo una cuestión de vocabulario. De ahí vienen muchas confusiones. Hay personas que buscan un documento separado, como si primero hubiera que conseguir una “licencia de trabajo” y después arreglar la residencia. En la práctica, para ciudadanos UE/AELC el proceso normal pasa por tener una razón clara de estancia, registrarse en la comuna y dejar que el expediente siga su curso ante la autoridad cantonal.</p>
+<p>Por eso el permiso G no es “un permiso de trabajo” en el sentido clásico, sino un permiso para fronterizos que viven fuera de Suiza y trabajan dentro. Lo mismo ocurre con los permisos L, B o C: son títulos de residencia con efectos laborales, no un papel independiente pensado solo para autorizar un empleo.</p>
+<p>Para nacionales de terceros Estados el sistema es más estricto y normalmente exige autorizaciones previas, pero la lógica de fondo no cambia: el derecho a trabajar está ligado al estatuto de residencia y a la decisión administrativa correspondiente, no a un documento separado con ese nombre.</p>
+<p>La idea importante es esta: en Suiza no conviene preguntar solo “¿cómo saco el permiso de trabajo?”. La pregunta correcta suele ser qué tipo de permiso de residencia corresponde a tu caso, qué requisitos pide el cantón y en qué momento puedes empezar a trabajar legalmente.</p>
 </div>`
     },
     "fb-005-alquiler-medio-seg-n-el-cant-n-de-un-3-o-3-5-piezas-sin-olvidar-que-en-ginebra-la-cocina-es-considerada-como-una-pieza-es-decir-que-un-3-piezas-en-g": {

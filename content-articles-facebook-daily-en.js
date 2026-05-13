@@ -1792,7 +1792,7 @@ Object.assign(window.siteContent.en.articles, {
 
     "fb-daily-20260415-02-httpswwwespanolesensuizach": {
         title: "https://www.espanolesensuiza.ch/",
-        featuredImage: "media/guides/actualidad-httpswwwespanolesensuizach.jpg",
+        featuredImage: "media/banner.jpg",
         imageAlt: "https://www.espanolesensuiza.ch/",
         description: "https://www.espanolesensuiza.ch/ I’ve been seeing the same thing over and over again in the group for some time now. The same questions, the same doubts, the…",
         keywords: "https, espanolesensuiza, been, seeing, same, thing, over, again",

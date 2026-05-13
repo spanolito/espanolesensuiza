@@ -1792,7 +1792,7 @@ Object.assign(window.siteContent.de.articles, {
 
     "fb-daily-20260415-02-httpswwwespanolesensuizach": {
         title: "https://www.espanolesensuiza.ch/",
-        featuredImage: "media/guides/actualidad-httpswwwespanolesensuizach.jpg",
+        featuredImage: "media/banner.jpg",
         imageAlt: "https://www.espanolesensuiza.ch/",
         description: "https://www.espanolesensuiza.ch/ Seit einiger Zeit sehe ich in der Gruppe immer wieder dasselbe. Die gleichen Fragen, die gleichen Zweifel, die gleichen…",
         keywords: "https, espanolesensuiza, seit, einiger, zeit, sehe, gruppe, immer",

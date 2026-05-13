@@ -1792,7 +1792,7 @@ Object.assign(window.siteContent.fr.articles, {
 
     "fb-daily-20260415-02-httpswwwespanolesensuizach": {
         title: "https://www.espanolesensuiza.ch/",
-        featuredImage: "media/guides/actualidad-httpswwwespanolesensuizach.jpg",
+        featuredImage: "media/banner.jpg",
         imageAlt: "https://www.espanolesensuiza.ch/",
         description: "https://www.espanolesensuiza.ch/ Cela fait un moment que je constate toujours la même chose dans le groupe. Les mêmes questions, les mêmes doutes, les mêmes…",
         keywords: "https, espanolesensuiza, cela, fait, moment, constate, toujours, même",

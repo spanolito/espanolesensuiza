@@ -79,17 +79,6 @@
     },
     {
       "lang": "fr",
-      "key": "articulo-lamal",
-      "canonicalId": "articulo-lamal",
-      "slug": "assurance-maladie-suisse-lamal",
-      "title": "Assurance maladie en Suisse (LAMal): comment ca marche",
-      "issue": "broken_internal_link",
-      "href": "#/budget-suisse",
-      "route": "budget-suisse",
-      "fallbackExistsInSpanish": false
-    },
-    {
-      "lang": "fr",
       "key": "articulo-impuestos",
       "canonicalId": "articulo-impuestos",
       "slug": "impots-en-suisse",
@@ -1774,17 +1763,6 @@
       "slug": "registrarsi-svizzera-comune",
       "title": "Come registrarsi all'arrivo in Svizzera (Controllo Abitanti)",
       "issue": "broken_internal_link",
-      "href": "#/assicurazione-sanitaria-svizzera-lamal",
-      "route": "assicurazione-sanitaria-svizzera-lamal",
-      "fallbackExistsInSpanish": false
-    },
-    {
-      "lang": "it",
-      "key": "articulo-registro",
-      "canonicalId": "articulo-registro",
-      "slug": "registrarsi-svizzera-comune",
-      "title": "Come registrarsi all'arrivo in Svizzera (Controllo Abitanti)",
-      "issue": "broken_internal_link",
       "href": "#/checklist-tramites-llegada-suiza",
       "route": "checklist-tramites-llegada-suiza",
       "fallbackExistsInSpanish": true
@@ -3189,6 +3167,87 @@
       "issue": "bundle_not_loaded_in_404"
     },
     {
+      "lang": "es",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260415-01",
+      "key": "fb-daily-20260415-01-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe",
+      "slug": "actualidad-2026-04-15-1-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe",
+      "title": "Devolver compras en Suiza: lo que si y lo que no existe",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "es",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260415-02",
+      "key": "fb-daily-20260415-02-httpswwwespanolesensuizach",
+      "slug": "actualidad-2026-04-15-2-httpswwwespanolesensuizach",
+      "title": "https://www.espanolesensuiza.ch/",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "es",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260413-01",
+      "key": "fb-daily-20260413-01-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve",
+      "slug": "actualidad-2026-04-13-1-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve",
+      "title": "Circular en bicicleta en Suiza parece sencillo... hasta que empiezas a ver las multas.",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "es",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-01",
+      "key": "fb-daily-20260511-01-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist",
+      "slug": "actualidad-2026-05-11-1-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist",
+      "title": "El seguro RC y el seguro de contenido del piso en Suiza: dos cosas distintas que casi siempre se contratan mal",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "es",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-02",
+      "key": "fb-daily-20260511-02-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r",
+      "slug": "actualidad-2026-05-11-2-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r",
+      "title": "La garantia en Suiza dura dos anos por ley, pero reclamarla tiene mas requisitos de los que te imaginas",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "es",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-03",
+      "key": "fb-daily-20260511-03-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e",
+      "slug": "actualidad-2026-05-11-3-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e",
+      "title": "El E-ID suizo: ni vigilancia estatal ni tramite urgente, pero conviene entender que es antes de que llegue",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "es",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-01",
+      "key": "fb-daily-20260512-01-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados",
+      "slug": "actualidad-2026-05-12-1-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados",
+      "title": "El 14 de junio Suiza vota si 9 millones ya son demasiados",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "es",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-02",
+      "key": "fb-daily-20260512-02-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no",
+      "slug": "actualidad-2026-05-12-2-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no",
+      "title": "Los fronterizos y el desempleo: quien paga va a cambiar, y el cambio no es pequeno",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "es",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-03",
+      "key": "fb-daily-20260512-03-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve",
+      "slug": "actualidad-2026-05-12-3-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve",
+      "title": "El Consejo Federal quiere que los extranjeros que se van tengan que vender su piso",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
       "lang": "fr",
       "runtime": "404",
       "canonicalId": "fb-alquilar-en-suiza-evitar-estafas",
@@ -3948,7 +4007,7 @@
       "lang": "fr",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-01",
-      "key": "fb-daily-20260509-01-le-numero-avs-lidentifiant-qui-sait-tout-de-vous-sans-contenir-aucune",
+      "key": "fb-daily-20260509-01-el-numero-avs-el-identificador-que-lo-sabe-todo-de-ti-sin-contener-nin",
       "slug": "actualidad-2026-05-09-1-le-numero-avs-lidentifiant-qui-sait-tout-de-vous-sans-contenir-aucune",
       "title": "Le numero AVS : l'identifiant qui sait tout de vous sans contenir aucune de vos donnees personnelles",
       "issue": "bundle_not_loaded_in_404"
@@ -3957,7 +4016,7 @@
       "lang": "fr",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-02",
-      "key": "fb-daily-20260509-02-acheter-une-voiture-doccasion-en-suisse-la-plaque-dimmatriculation-app",
+      "key": "fb-daily-20260509-02-comprar-un-coche-de-segunda-mano-en-suiza-la-placa-es-del-dueno-no-del",
       "slug": "actualidad-2026-05-09-2-acheter-une-voiture-doccasion-en-suisse-la-plaque-dimmatriculation-app",
       "title": "Acheter une voiture d'occasion en Suisse : la plaque d'immatriculation appartient au proprietaire, pas a la voiture",
       "issue": "bundle_not_loaded_in_404"
@@ -3966,7 +4025,7 @@
       "lang": "fr",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-03",
-      "key": "fb-daily-20260509-03-en-suisse-on-a-le-droit-de-faire-greve-mais-bien-mener-une-greve-est-b",
+      "key": "fb-daily-20260509-03-en-suiza-se-puede-hacer-huelga-pero-hacerla-bien-es-bastante-mas-compl",
       "slug": "actualidad-2026-05-09-3-en-suisse-on-a-le-droit-de-faire-greve-mais-bien-mener-une-greve-est-b",
       "title": "En Suisse, on a le droit de faire greve. Mais bien mener une greve est bien plus complique qu'il n'y parait.",
       "issue": "bundle_not_loaded_in_404"
@@ -3975,7 +4034,7 @@
       "lang": "fr",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-01",
-      "key": "fb-daily-20260510-01-lextrait-du-casier-judiciaire-suisse-comment-lobtenir-et-a-quoi-cela-s",
+      "key": "fb-daily-20260510-01-el-extracto-del-casier-judiciaire-suizo-como-pedirlo-y-para-que-lo-vas",
       "slug": "actualidad-2026-05-10-1-lextrait-du-casier-judiciaire-suisse-comment-lobtenir-et-a-quoi-cela-s",
       "title": "L'extrait du casier judiciaire suisse : comment l'obtenir et a quoi cela sert-il ?",
       "issue": "bundle_not_loaded_in_404"
@@ -3984,7 +4043,7 @@
       "lang": "fr",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-02",
-      "key": "fb-daily-20260510-02-appeler-le-144-en-suisse-les-numeros-qui-sauvent-des-vies-et-la-factur",
+      "key": "fb-daily-20260510-02-llamar-al-144-en-suiza-los-numeros-que-salvan-vidas-y-la-factura-que-m",
       "slug": "actualidad-2026-05-10-2-appeler-le-144-en-suisse-les-numeros-qui-sauvent-des-vies-et-la-factur",
       "title": "Appeler le 144 en Suisse : les numeros qui sauvent des vies et la facture a laquelle beaucoup ne s'attendent pas",
       "issue": "bundle_not_loaded_in_404"
@@ -3993,9 +4052,90 @@
       "lang": "fr",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-03",
-      "key": "fb-daily-20260510-03-le-travail-au-noir-en-suisse-ce-que-tu-risques-vraiment-quand-quelquun",
+      "key": "fb-daily-20260510-03-el-trabajo-en-negro-en-suiza-lo-que-realmente-arriesgas-cuando-alguien",
       "slug": "actualidad-2026-05-10-3-le-travail-au-noir-en-suisse-ce-que-tu-risques-vraiment-quand-quelquun",
       "title": "Le travail au noir en Suisse : ce que tu risques vraiment quand quelqu'un te propose de te payer en especes sans justificatif",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "fr",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260415-02",
+      "key": "fb-daily-20260415-02-httpswwwespanolesensuizach",
+      "slug": "actualidad-2026-04-15-2-httpswwwespanolesensuizach",
+      "title": "https://www.espanolesensuiza.ch/",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "fr",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260415-01",
+      "key": "fb-daily-20260415-01-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe",
+      "slug": "actualidad-2026-04-15-1-retourner-des-achats-en-suisse-ce-qui-existe-et-ce-qui-nexiste-pas",
+      "title": "Retourner des achats en Suisse: ce qui existe et ce qui n'existe pas",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "fr",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260413-01",
+      "key": "fb-daily-20260413-01-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve",
+      "slug": "actualidad-2026-04-13-1-rouler-a-velo-en-suisse-semble-simple-jusqua-ce-que-vous-commenciez-a",
+      "title": "Rouler a velo en Suisse semble simple... jusqu'a ce que vous commenciez a voir les amendes.",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "fr",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-01",
+      "key": "fb-daily-20260511-01-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist",
+      "slug": "actualidad-2026-05-11-1-lassurance-rc-et-lassurance-du-contenu-de-lappartement-en-suisse-deux",
+      "title": "L'assurance RC et l'assurance du contenu de l'appartement en Suisse: deux choses differentes qui sont presque toujours mal contractees",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "fr",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-02",
+      "key": "fb-daily-20260511-02-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r",
+      "slug": "actualidad-2026-05-11-2-la-garantie-en-suisse-dure-deux-ans-selon-la-loi-mais-la-reclamer-a-pl",
+      "title": "La garantie en Suisse dure deux ans selon la loi, mais la reclamer a plus d'exigences que vous ne l'imaginez",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "fr",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-03",
+      "key": "fb-daily-20260511-03-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e",
+      "slug": "actualidad-2026-05-11-3-le-id-suisse-ni-surveillance-etatique-ni-demarche-urgente-mais-il-conv",
+      "title": "L'E-ID suisse: ni surveillance etatique ni demarche urgente, mais il convient de comprendre ce que c'est avant son arrivee",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "fr",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-01",
+      "key": "fb-daily-20260512-01-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados",
+      "slug": "actualidad-2026-05-12-1-le-14-juin-la-suisse-vote-si-9-millions-cest-deja-trop",
+      "title": "Le 14 juin, la Suisse vote si 9 millions c'est deja trop",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "fr",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-02",
+      "key": "fb-daily-20260512-02-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no",
+      "slug": "actualidad-2026-05-12-2-les-frontaliers-et-le-chomage-qui-paie-va-changer-et-le-changement-nes",
+      "title": "Les frontaliers et le chomage: qui paie va changer, et le changement n'est pas petit",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "fr",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-03",
+      "key": "fb-daily-20260512-03-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve",
+      "slug": "actualidad-2026-05-12-3-le-conseil-federal-veut-que-les-etrangers-qui-partent-doivent-vendre-l",
+      "title": "Le Conseil federal veut que les etrangers qui partent doivent vendre leur appartement",
       "issue": "bundle_not_loaded_in_404"
     },
     {
@@ -4758,7 +4898,7 @@
       "lang": "en",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-01",
-      "key": "fb-daily-20260509-01-the-avs-number-the-identifier-that-knows-everything-about-you-without",
+      "key": "fb-daily-20260509-01-el-numero-avs-el-identificador-que-lo-sabe-todo-de-ti-sin-contener-nin",
       "slug": "actualidad-2026-05-09-1-the-avs-number-the-identifier-that-knows-everything-about-you-without",
       "title": "The AVS number: the identifier that knows everything about you without containing any of your personal data",
       "issue": "bundle_not_loaded_in_404"
@@ -4767,7 +4907,7 @@
       "lang": "en",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-02",
-      "key": "fb-daily-20260509-02-buying-a-second-hand-car-in-switzerland-the-number-plate-belongs-to-th",
+      "key": "fb-daily-20260509-02-comprar-un-coche-de-segunda-mano-en-suiza-la-placa-es-del-dueno-no-del",
       "slug": "actualidad-2026-05-09-2-buying-a-second-hand-car-in-switzerland-the-number-plate-belongs-to-th",
       "title": "Buying a second-hand car in Switzerland: the number plate belongs to the owner, not the car",
       "issue": "bundle_not_loaded_in_404"
@@ -4776,7 +4916,7 @@
       "lang": "en",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-03",
-      "key": "fb-daily-20260509-03-in-switzerland-it-is-possible-to-go-on-strike-but-doing-it-properly-is",
+      "key": "fb-daily-20260509-03-en-suiza-se-puede-hacer-huelga-pero-hacerla-bien-es-bastante-mas-compl",
       "slug": "actualidad-2026-05-09-3-in-switzerland-it-is-possible-to-go-on-strike-but-doing-it-properly-is",
       "title": "In Switzerland, it is possible to go on strike. But doing it properly is far more complicated than it seems.",
       "issue": "bundle_not_loaded_in_404"
@@ -4785,7 +4925,7 @@
       "lang": "en",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-01",
-      "key": "fb-daily-20260510-01-the-swiss-criminal-record-extract-how-to-request-it-and-what-youll-nee",
+      "key": "fb-daily-20260510-01-el-extracto-del-casier-judiciaire-suizo-como-pedirlo-y-para-que-lo-vas",
       "slug": "actualidad-2026-05-10-1-the-swiss-criminal-record-extract-how-to-request-it-and-what-youll-nee",
       "title": "The Swiss criminal record extract: how to request it and what you'll need it for",
       "issue": "bundle_not_loaded_in_404"
@@ -4794,7 +4934,7 @@
       "lang": "en",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-02",
-      "key": "fb-daily-20260510-02-calling-144-in-switzerland-the-numbers-that-save-lives-and-the-bill-ma",
+      "key": "fb-daily-20260510-02-llamar-al-144-en-suiza-los-numeros-que-salvan-vidas-y-la-factura-que-m",
       "slug": "actualidad-2026-05-10-2-calling-144-in-switzerland-the-numbers-that-save-lives-and-the-bill-ma",
       "title": "Calling 144 in Switzerland: the numbers that save lives and the bill many don't expect",
       "issue": "bundle_not_loaded_in_404"
@@ -4803,9 +4943,90 @@
       "lang": "en",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-03",
-      "key": "fb-daily-20260510-03-undeclared-work-in-switzerland-what-youre-really-risking-when-someone",
+      "key": "fb-daily-20260510-03-el-trabajo-en-negro-en-suiza-lo-que-realmente-arriesgas-cuando-alguien",
       "slug": "actualidad-2026-05-10-3-undeclared-work-in-switzerland-what-youre-really-risking-when-someone",
       "title": "Undeclared work in Switzerland: what you're really risking when someone offers to pay you in cash without providing a receipt",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "en",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260415-02",
+      "key": "fb-daily-20260415-02-httpswwwespanolesensuizach",
+      "slug": "actualidad-2026-04-15-2-httpswwwespanolesensuizach",
+      "title": "https://www.espanolesensuiza.ch/",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "en",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260415-01",
+      "key": "fb-daily-20260415-01-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe",
+      "slug": "actualidad-2026-04-15-1-returning-purchases-in-switzerland-what-does-and-doesnt-exist",
+      "title": "Returning purchases in Switzerland: what does and doesn't exist",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "en",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260413-01",
+      "key": "fb-daily-20260413-01-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve",
+      "slug": "actualidad-2026-04-13-1-cycling-in-switzerland-seems-easy-until-you-start-seeing-the-fines",
+      "title": "Cycling in Switzerland seems easy... until you start seeing the fines.",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "en",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-01",
+      "key": "fb-daily-20260511-01-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist",
+      "slug": "actualidad-2026-05-11-1-rc-insurance-and-floor-content-insurance-in-switzerland-two-different",
+      "title": "RC insurance and floor content insurance in Switzerland: two different things that are almost always badly contracted",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "en",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-02",
+      "key": "fb-daily-20260511-02-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r",
+      "slug": "actualidad-2026-05-11-2-the-warranty-in-switzerland-lasts-two-years-by-law-but-claiming-it-has",
+      "title": "The warranty in Switzerland lasts two years by law, but claiming it has more requirements than you can imagine",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "en",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-03",
+      "key": "fb-daily-20260511-03-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e",
+      "slug": "actualidad-2026-05-11-3-the-swiss-e-id-neither-state-surveillance-nor-urgent-processing-but-it",
+      "title": "The Swiss E-ID: neither state surveillance nor urgent processing, but it is important to understand what it is before it arrives",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "en",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-01",
+      "key": "fb-daily-20260512-01-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados",
+      "slug": "actualidad-2026-05-12-1-on-june-14-switzerland-votes-on-whether-9-million-is-already-too-many",
+      "title": "On June 14, Switzerland votes on whether 9 million is already too many",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "en",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-02",
+      "key": "fb-daily-20260512-02-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no",
+      "slug": "actualidad-2026-05-12-2-frontier-workers-and-unemployment-who-pays-will-change-and-the-change",
+      "title": "Frontier workers and unemployment: who pays will change, and the change is not small",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "en",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-03",
+      "key": "fb-daily-20260512-03-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve",
+      "slug": "actualidad-2026-05-12-3-the-federal-council-wants-foreigners-who-leave-to-have-to-sell-their-a",
+      "title": "The Federal Council wants foreigners who leave to have to sell their apartment",
       "issue": "bundle_not_loaded_in_404"
     },
     {
@@ -5568,7 +5789,7 @@
       "lang": "de",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-01",
-      "key": "fb-daily-20260509-01-die-avs-nummer-die-kennung-die-alles-uber-dich-weiss-ohne-deine-daten",
+      "key": "fb-daily-20260509-01-el-numero-avs-el-identificador-que-lo-sabe-todo-de-ti-sin-contener-nin",
       "slug": "actualidad-2026-05-09-1-die-avs-nummer-die-kennung-die-alles-uber-dich-weiss-ohne-deine-daten",
       "title": "Die AVS-Nummer: Die Kennung, die alles uber dich wei, ohne deine Daten zu enthalten",
       "issue": "bundle_not_loaded_in_404"
@@ -5577,7 +5798,7 @@
       "lang": "de",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-02",
-      "key": "fb-daily-20260509-02-ein-gebrauchtwagen-in-der-schweiz-kaufen-das-kennzeichen-gehort-dem-be",
+      "key": "fb-daily-20260509-02-comprar-un-coche-de-segunda-mano-en-suiza-la-placa-es-del-dueno-no-del",
       "slug": "actualidad-2026-05-09-2-ein-gebrauchtwagen-in-der-schweiz-kaufen-das-kennzeichen-gehort-dem-be",
       "title": "Ein Gebrauchtwagen in der Schweiz kaufen: Das Kennzeichen gehort dem Besitzer, nicht dem Auto",
       "issue": "bundle_not_loaded_in_404"
@@ -5586,7 +5807,7 @@
       "lang": "de",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-03",
-      "key": "fb-daily-20260509-03-in-der-schweiz-darf-man-streiken-aber-es-richtig-zu-machen-ist-wesentl",
+      "key": "fb-daily-20260509-03-en-suiza-se-puede-hacer-huelga-pero-hacerla-bien-es-bastante-mas-compl",
       "slug": "actualidad-2026-05-09-3-in-der-schweiz-darf-man-streiken-aber-es-richtig-zu-machen-ist-wesentl",
       "title": "In der Schweiz darf man streiken. Aber es richtig zu machen, ist wesentlich komplizierter, als es scheint.",
       "issue": "bundle_not_loaded_in_404"
@@ -5595,7 +5816,7 @@
       "lang": "de",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-01",
-      "key": "fb-daily-20260510-01-der-auszug-aus-dem-schweizer-strafregister-wie-man-ihn-beantragt-und-w",
+      "key": "fb-daily-20260510-01-el-extracto-del-casier-judiciaire-suizo-como-pedirlo-y-para-que-lo-vas",
       "slug": "actualidad-2026-05-10-1-der-auszug-aus-dem-schweizer-strafregister-wie-man-ihn-beantragt-und-w",
       "title": "Der Auszug aus dem Schweizer Strafregister: Wie man ihn beantragt und wofur man ihn benotigt",
       "issue": "bundle_not_loaded_in_404"
@@ -5604,7 +5825,7 @@
       "lang": "de",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-02",
-      "key": "fb-daily-20260510-02-die-144-in-der-schweiz-anrufen-die-nummern-die-leben-retten-und-die-re",
+      "key": "fb-daily-20260510-02-llamar-al-144-en-suiza-los-numeros-que-salvan-vidas-y-la-factura-que-m",
       "slug": "actualidad-2026-05-10-2-die-144-in-der-schweiz-anrufen-die-nummern-die-leben-retten-und-die-re",
       "title": "Die 144 in der Schweiz anrufen: Die Nummern, die Leben retten - und die Rechnung, mit der viele nicht rechnen",
       "issue": "bundle_not_loaded_in_404"
@@ -5613,19 +5834,91 @@
       "lang": "de",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-03",
-      "key": "fb-daily-20260510-03-schwarzarbeit-in-der-schweiz-was-du-wirklich-riskierst-wenn-dir-jemand",
+      "key": "fb-daily-20260510-03-el-trabajo-en-negro-en-suiza-lo-que-realmente-arriesgas-cuando-alguien",
       "slug": "actualidad-2026-05-10-3-schwarzarbeit-in-der-schweiz-was-du-wirklich-riskierst-wenn-dir-jemand",
       "title": "Schwarzarbeit in der Schweiz: Was du wirklich riskierst, wenn dir jemand anbietet, dich bar und ohne Quittung zu bezahlen",
       "issue": "bundle_not_loaded_in_404"
     },
     {
-      "lang": "it",
-      "runtime": "index",
-      "canonicalId": "fb-alquilar-en-suiza-evitar-estafas",
-      "key": "fb-alquilar-en-suiza-evitar-estafas",
-      "slug": "affittare-in-svizzera-evitare-truffe",
-      "title": "Affittare in Svizzera: passaggi, pratica, caparra e come evitare truffe",
-      "issue": "bundle_not_loaded_in_index"
+      "lang": "de",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260415-02",
+      "key": "fb-daily-20260415-02-httpswwwespanolesensuizach",
+      "slug": "actualidad-2026-04-15-2-httpswwwespanolesensuizach",
+      "title": "https://www.espanolesensuiza.ch/",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "de",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260415-01",
+      "key": "fb-daily-20260415-01-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe",
+      "slug": "actualidad-2026-04-15-1-einkaufe-in-der-schweiz-zuruckgeben-was-es-gibt-und-was-nicht",
+      "title": "Einkaufe in der Schweiz zuruckgeben: Was es gibt und was nicht",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "de",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260413-01",
+      "key": "fb-daily-20260413-01-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve",
+      "slug": "actualidad-2026-04-13-1-radfahren-in-der-schweiz-scheint-einfach-zu-sein-bis-sie-die-bussgelde",
+      "title": "Radfahren in der Schweiz scheint einfach zu sein... bis Sie die Bugelder sehen.",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "de",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-01",
+      "key": "fb-daily-20260511-01-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist",
+      "slug": "actualidad-2026-05-11-1-haftpflichtversicherung-und-bodeninhaltsversicherung-in-der-schweiz-zw",
+      "title": "Haftpflichtversicherung und Bodeninhaltsversicherung in der Schweiz: zwei verschiedene Dinge, die fast immer schlecht gemietet werden",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "de",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-02",
+      "key": "fb-daily-20260511-02-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r",
+      "slug": "actualidad-2026-05-11-2-die-garantie-in-der-schweiz-dauert-gesetzlich-zwei-jahre-aber-die-inan",
+      "title": "Die Garantie in der Schweiz dauert gesetzlich zwei Jahre, aber die Inanspruchnahme hat mehr Anforderungen, als Sie sich vorstellen konnen",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "de",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-03",
+      "key": "fb-daily-20260511-03-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e",
+      "slug": "actualidad-2026-05-11-3-die-schweizer-e-id-weder-staatliche-uberwachung-noch-dringende-behandl",
+      "title": "Die Schweizer E-ID: Weder staatliche Uberwachung noch dringende Behandlung, aber es ist ratsam zu verstehen, was es ist, bevor es ankommt",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "de",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-01",
+      "key": "fb-daily-20260512-01-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados",
+      "slug": "actualidad-2026-05-12-1-am-14-juni-stimmt-die-schweiz-ab-ob-9-millionen-bereits-zu-viel-sind",
+      "title": "Am 14. Juni stimmt die Schweiz ab, ob 9 Millionen bereits zu viel sind",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "de",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-02",
+      "key": "fb-daily-20260512-02-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no",
+      "slug": "actualidad-2026-05-12-2-grenzganger-und-arbeitslosigkeit-wer-zahlt-wird-sich-andern-und-die-ve",
+      "title": "Grenzganger und Arbeitslosigkeit: Wer zahlt, wird sich andern, und die Veranderung ist nicht klein",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "de",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-03",
+      "key": "fb-daily-20260512-03-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve",
+      "slug": "actualidad-2026-05-12-3-bundesrat-will-dass-wegziehende-auslander-ihre-wohnung-verkaufen-musse",
+      "title": "Bundesrat will, dass wegziehende Auslander ihre Wohnung verkaufen mussen",
+      "issue": "bundle_not_loaded_in_404"
     },
     {
       "lang": "it",
@@ -5638,30 +5931,12 @@
     },
     {
       "lang": "it",
-      "runtime": "index",
-      "canonicalId": "fb-consejos-vida-diaria-suiza",
-      "key": "fb-consejos-vida-diaria-suiza",
-      "slug": "consigli-vita-quotidiana-svizzera",
-      "title": "Vita quotidiana in Svizzera: 25 consigli pratici per i nuovi arrivati",
-      "issue": "bundle_not_loaded_in_index"
-    },
-    {
-      "lang": "it",
       "runtime": "404",
       "canonicalId": "fb-consejos-vida-diaria-suiza",
       "key": "fb-consejos-vida-diaria-suiza",
       "slug": "consigli-vita-quotidiana-svizzera",
       "title": "Vita quotidiana in Svizzera: 25 consigli pratici per i nuovi arrivati",
       "issue": "bundle_not_loaded_in_404"
-    },
-    {
-      "lang": "it",
-      "runtime": "index",
-      "canonicalId": "fb-costo-de-vida-suiza",
-      "key": "fb-costo-de-vida-suiza",
-      "slug": "costo-della-vita-svizzera",
-      "title": "Costo della vita in Svizzera",
-      "issue": "bundle_not_loaded_in_index"
     },
     {
       "lang": "it",
@@ -5674,30 +5949,12 @@
     },
     {
       "lang": "it",
-      "runtime": "index",
-      "canonicalId": "fb-democracia-directa-suiza",
-      "key": "fb-democracia-directa-suiza",
-      "slug": "democrazia-diretta-svizzera",
-      "title": "La democrazia diretta in Svizzera: referendum, iniziativa e voto",
-      "issue": "bundle_not_loaded_in_index"
-    },
-    {
-      "lang": "it",
       "runtime": "404",
       "canonicalId": "fb-democracia-directa-suiza",
       "key": "fb-democracia-directa-suiza",
       "slug": "democrazia-diretta-svizzera",
       "title": "La democrazia diretta in Svizzera: referendum, iniziativa e voto",
       "issue": "bundle_not_loaded_in_404"
-    },
-    {
-      "lang": "it",
-      "runtime": "index",
-      "canonicalId": "fb-fraudes-inmigrantes-suiza",
-      "key": "fb-fraudes-inmigrantes-suiza",
-      "slug": "truffe-espatriati-svizzera-allerta",
-      "title": "Le frodi piu comuni contro gli immigrati in Svizzera: segnali e come tutelarsi",
-      "issue": "bundle_not_loaded_in_index"
     },
     {
       "lang": "it",
@@ -5710,30 +5967,12 @@
     },
     {
       "lang": "it",
-      "runtime": "index",
-      "canonicalId": "fb-normas-locales-ginebra",
-      "key": "fb-normas-locales-ginebra",
-      "slug": "regole-convivenza-svizzera",
-      "title": "Regole di convivenza in Svizzera: rumore, rifiuti, parcheggi e regole comuni",
-      "issue": "bundle_not_loaded_in_index"
-    },
-    {
-      "lang": "it",
       "runtime": "404",
       "canonicalId": "fb-normas-locales-ginebra",
       "key": "fb-normas-locales-ginebra",
       "slug": "regole-convivenza-svizzera",
       "title": "Regole di convivenza in Svizzera: rumore, rifiuti, parcheggi e regole comuni",
       "issue": "bundle_not_loaded_in_404"
-    },
-    {
-      "lang": "it",
-      "runtime": "index",
-      "canonicalId": "fb-permisos-suiza-actualizacion",
-      "key": "fb-permisos-suiza-actualizacion",
-      "slug": "permessi-svizzera-guida",
-      "title": "Permessi in Svizzera (L, B, C): checklist, errori tipici e casi reali",
-      "issue": "bundle_not_loaded_in_index"
     },
     {
       "lang": "it",
@@ -5746,15 +5985,6 @@
     },
     {
       "lang": "it",
-      "runtime": "index",
-      "canonicalId": "fb-seguro-medico-lamal-elegir",
-      "key": "fb-seguro-medico-lamal-elegir",
-      "slug": "scegliere-assicurazione-malattia-svizzera",
-      "title": "Come scegliere l'assicurazione sanitaria (LAMal) in Svizzera: modello, franchigia e premio",
-      "issue": "bundle_not_loaded_in_index"
-    },
-    {
-      "lang": "it",
       "runtime": "404",
       "canonicalId": "fb-seguro-medico-lamal-elegir",
       "key": "fb-seguro-medico-lamal-elegir",
@@ -5764,30 +5994,12 @@
     },
     {
       "lang": "it",
-      "runtime": "index",
-      "canonicalId": "fb-sistema-politico-suiza",
-      "key": "fb-sistema-politico-suiza",
-      "slug": "sistema-politico-svizzera",
-      "title": "Come funziona il sistema politico svizzero: Confederazione, cantoni e comuni",
-      "issue": "bundle_not_loaded_in_index"
-    },
-    {
-      "lang": "it",
       "runtime": "404",
       "canonicalId": "fb-sistema-politico-suiza",
       "key": "fb-sistema-politico-suiza",
       "slug": "sistema-politico-svizzera",
       "title": "Come funziona il sistema politico svizzero: Confederazione, cantoni e comuni",
       "issue": "bundle_not_loaded_in_404"
-    },
-    {
-      "lang": "it",
-      "runtime": "index",
-      "canonicalId": "fb-trabajar-en-suiza-guia",
-      "key": "fb-trabajar-en-suiza-guia",
-      "slug": "lavorare-in-svizzera-guida",
-      "title": "Lavorare in Svizzera: come cercare lavoro, negoziare e partire bene",
-      "issue": "bundle_not_loaded_in_index"
     },
     {
       "lang": "it",
@@ -6468,7 +6680,7 @@
       "lang": "it",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-01",
-      "key": "fb-daily-20260509-01-il-numero-avs-lidentificativo-che-sa-tutto-di-te-senza-contenere-alcun",
+      "key": "fb-daily-20260509-01-el-numero-avs-el-identificador-que-lo-sabe-todo-de-ti-sin-contener-nin",
       "slug": "actualidad-2026-05-09-1-il-numero-avs-lidentificativo-che-sa-tutto-di-te-senza-contenere-alcun",
       "title": "Il numero AVS: l'identificativo che sa tutto di te senza contenere alcun tuo dato",
       "issue": "bundle_not_loaded_in_404"
@@ -6477,7 +6689,7 @@
       "lang": "it",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-02",
-      "key": "fb-daily-20260509-02-acquistare-unauto-usata-in-svizzera-la-targa-appartiene-al-proprietari",
+      "key": "fb-daily-20260509-02-comprar-un-coche-de-segunda-mano-en-suiza-la-placa-es-del-dueno-no-del",
       "slug": "actualidad-2026-05-09-2-acquistare-unauto-usata-in-svizzera-la-targa-appartiene-al-proprietari",
       "title": "Acquistare un'auto usata in Svizzera: la targa appartiene al proprietario, non all'auto",
       "issue": "bundle_not_loaded_in_404"
@@ -6486,7 +6698,7 @@
       "lang": "it",
       "runtime": "404",
       "canonicalId": "fb-daily-20260509-03",
-      "key": "fb-daily-20260509-03-in-svizzera-e-possibile-scioperare-ma-farlo-nel-modo-giusto-e-molto-pi",
+      "key": "fb-daily-20260509-03-en-suiza-se-puede-hacer-huelga-pero-hacerla-bien-es-bastante-mas-compl",
       "slug": "actualidad-2026-05-09-3-in-svizzera-e-possibile-scioperare-ma-farlo-nel-modo-giusto-e-molto-pi",
       "title": "In Svizzera e possibile scioperare. Ma farlo nel modo giusto e molto piu complicato di quanto sembri.",
       "issue": "bundle_not_loaded_in_404"
@@ -6495,7 +6707,7 @@
       "lang": "it",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-01",
-      "key": "fb-daily-20260510-01-lestratto-del-casellario-giudiziario-svizzero-come-richiederlo-e-a-cos",
+      "key": "fb-daily-20260510-01-el-extracto-del-casier-judiciaire-suizo-como-pedirlo-y-para-que-lo-vas",
       "slug": "actualidad-2026-05-10-1-lestratto-del-casellario-giudiziario-svizzero-come-richiederlo-e-a-cos",
       "title": "L'estratto del casellario giudiziario svizzero: come richiederlo e a cosa serve",
       "issue": "bundle_not_loaded_in_404"
@@ -6504,7 +6716,7 @@
       "lang": "it",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-02",
-      "key": "fb-daily-20260510-02-chiamare-il-144-in-svizzera-i-numeri-che-salvano-la-vita-e-il-conto-ch",
+      "key": "fb-daily-20260510-02-llamar-al-144-en-suiza-los-numeros-que-salvan-vidas-y-la-factura-que-m",
       "slug": "actualidad-2026-05-10-2-chiamare-il-144-in-svizzera-i-numeri-che-salvano-la-vita-e-il-conto-ch",
       "title": "Chiamare il 144 in Svizzera: i numeri che salvano la vita e il conto che molti non si aspettano",
       "issue": "bundle_not_loaded_in_404"
@@ -6513,20 +6725,92 @@
       "lang": "it",
       "runtime": "404",
       "canonicalId": "fb-daily-20260510-03",
-      "key": "fb-daily-20260510-03-il-lavoro-in-nero-in-svizzera-cosa-rischi-davvero-quando-qualcuno-ti-p",
+      "key": "fb-daily-20260510-03-el-trabajo-en-negro-en-suiza-lo-que-realmente-arriesgas-cuando-alguien",
       "slug": "actualidad-2026-05-10-3-il-lavoro-in-nero-in-svizzera-cosa-rischi-davvero-quando-qualcuno-ti-p",
       "title": "Il lavoro in nero in Svizzera: cosa rischi davvero quando qualcuno ti propone di pagarti in contanti senza ricevuta",
       "issue": "bundle_not_loaded_in_404"
-    }
-  ],
-  "duplicateSlugs": [
+    },
     {
       "lang": "it",
-      "slug": "costo-della-vita-svizzera",
-      "canonicalIds": [
-        "articulo-costo-vida",
-        "fb-costo-de-vida-suiza"
-      ]
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260415-01",
+      "key": "fb-daily-20260415-01-devolver-compras-en-suiza-lo-que-si-y-lo-que-no-existe",
+      "slug": "actualidad-2026-04-15-1-restituire-gli-acquisti-in-svizzera-cosa-ce-e-cosa-non-ce",
+      "title": "Restituire gli acquisti in Svizzera: cosa c'e e cosa non c'e",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "it",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260415-02",
+      "key": "fb-daily-20260415-02-httpswwwespanolesensuizach",
+      "slug": "actualidad-2026-04-15-2-httpswwwespanolesensuizach",
+      "title": "https://www.espanolesensuiza.ch/",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "it",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260413-01",
+      "key": "fb-daily-20260413-01-circular-en-bicicleta-en-suiza-parece-sencillo-hasta-que-empiezas-a-ve",
+      "slug": "actualidad-2026-04-13-1-andare-in-bicicletta-in-svizzera-sembra-semplice-fino-a-quando-non-ini",
+      "title": "Andare in bicicletta in Svizzera sembra semplice... fino a quando non inizi a vedere le multe.",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "it",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-01",
+      "key": "fb-daily-20260511-01-el-seguro-rc-y-el-seguro-de-contenido-del-piso-en-suiza-dos-cosas-dist",
+      "slug": "actualidad-2026-05-11-1-lassicurazione-rc-e-lassicurazione-del-contenuto-dellappartamento-in-s",
+      "title": "L'assicurazione RC e l'assicurazione del contenuto dell'appartamento in Svizzera: due cose diverse che vengono quasi sempre contrattate male",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "it",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-02",
+      "key": "fb-daily-20260511-02-la-garantia-en-suiza-dura-dos-anos-por-ley-pero-reclamarla-tiene-mas-r",
+      "slug": "actualidad-2026-05-11-2-la-garanzia-in-svizzera-dura-due-anni-per-legge-ma-richiederla-ha-piu",
+      "title": "La garanzia in Svizzera dura due anni per legge, ma richiederla ha piu requisiti di quanto si possa immaginare",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "it",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260511-03",
+      "key": "fb-daily-20260511-03-el-e-id-suizo-ni-vigilancia-estatal-ni-tramite-urgente-pero-conviene-e",
+      "slug": "actualidad-2026-05-11-3-le-id-svizzero-ne-sorveglianza-statale-ne-procedura-urgente-ma-convien",
+      "title": "L'E-ID svizzero: ne sorveglianza statale ne procedura urgente, ma conviene capire di cosa si tratta prima che arrivi",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "it",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-01",
+      "key": "fb-daily-20260512-01-el-14-de-junio-suiza-vota-si-9-millones-ya-son-demasiados",
+      "slug": "actualidad-2026-05-12-1-il-14-giugno-la-svizzera-vota-se-9-milioni-sono-gia-troppi",
+      "title": "Il 14 giugno la Svizzera vota se 9 milioni sono gia troppi",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "it",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-02",
+      "key": "fb-daily-20260512-02-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no",
+      "slug": "actualidad-2026-05-12-2-i-frontalieri-e-la-disoccupazione-chi-paga-cambiera-e-il-cambiamento-n",
+      "title": "I frontalieri e la disoccupazione: chi paga cambiera, e il cambiamento non e piccolo",
+      "issue": "bundle_not_loaded_in_404"
+    },
+    {
+      "lang": "it",
+      "runtime": "404",
+      "canonicalId": "fb-daily-20260512-03",
+      "key": "fb-daily-20260512-03-el-consejo-federal-quiere-que-los-extranjeros-que-se-van-tengan-que-ve",
+      "slug": "actualidad-2026-05-12-3-il-consiglio-federale-vuole-che-gli-stranieri-che-se-ne-vanno-debbano",
+      "title": "Il Consiglio federale vuole che gli stranieri che se ne vanno debbano vendere il loro appartamento",
+      "issue": "bundle_not_loaded_in_404"
     }
-  ]
+  ],
+  "duplicateSlugs": []
 }

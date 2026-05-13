@@ -1810,7 +1810,7 @@ Object.assign(window.siteContent.it.articles, {
 
     "fb-daily-20260415-02-httpswwwespanolesensuizach": {
         title: "https://www.espanolesensuiza.ch/",
-        featuredImage: "media/guides/actualidad-httpswwwespanolesensuizach.jpg",
+        featuredImage: "media/banner.jpg",
         imageAlt: "https://www.espanolesensuiza.ch/",
         description: "https://www.espanolesensuiza.ch/ Da tempo vedo sempre la stessa cosa nel gruppo. Le stesse domande, gli stessi dubbi, le stesse risposte… e molto spesso anche la stessa disinformazione…",
         keywords: "https, espanolesensuiza, tempo, gruppo, domande, dubbi, risposte, disinformazione",

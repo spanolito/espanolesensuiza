@@ -67,12 +67,14 @@ window.siteContent.de.articles = {
         slug: "fb-004-permiso-de-trabajo-en-suiza-el-termino-que-no-existe",
         readingTime: 2,
         dateUpdated: "avr 11, 2026",
-        summary: "Der ursprüngliche Facebook-Link passt im aktuellen Archiv nicht zu diesem Artikel. Dieser Eintrag wartet auf eine korrekte Rekonstruktion.",
-        facebookUrl: "",
+        summary: "In der Schweiz gibt es rechtlich keine separate „Arbeitserlaubnis“. Was es gibt, sind Aufenthaltsbewilligungen wie L, B, C oder G, und das Recht zu arbeiten ist in diesem Rahmen bereits enthalten.",
+        facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
         content: `<div class="article-content">
-  <div class="callout info">
-    <strong>Historischer Facebook-Beitrag:</strong> Aufgrund des ursprünglichen Exportformats ist hier nur der Titel oder der einleitende Ausschnitt verfügbar. Verwenden Sie den Button unten, um den vollständigen Thread mit den Diskussionen in unserer offiziellen Facebook-Community zu finden und zu lesen.
-  </div>
+<p>In der Schweiz sprechen viele von einer „Arbeitserlaubnis“, juristisch ist das jedoch nicht der Begriff, den die Verwaltung verwendet. Es gibt Aufenthaltsbewilligungen wie L, B, C oder G, und je nach Situation umfasst genau diese Bewilligung auch die Berechtigung, eine berufliche Tätigkeit auszuüben.</p>
+<p>Das ist nicht nur eine Frage des Wortlauts. Gerade daraus entstehen viele Missverständnisse. Manche suchen nach einem separaten Dokument, als müsste man zuerst eine „Arbeitslizenz“ erhalten und sich erst danach um den Aufenthalt kümmern. In der Praxis läuft der normale Weg für EU/EFTA-Bürger so: ein klarer Aufenthaltsgrund, die Anmeldung bei der Gemeinde und anschliessend die Bearbeitung des Dossiers durch die kantonale Behörde.</p>
+<p>Darum ist auch die Bewilligung G keine „Arbeitserlaubnis“ im klassischen Sinn, sondern eine Grenzgängerbewilligung für Personen, die ausserhalb der Schweiz wohnen und in der Schweiz arbeiten. Dasselbe gilt für die Bewilligungen L, B oder C: Es sind Aufenthaltstitel mit arbeitsrechtlicher Wirkung, kein eigenständiges Papier, das nur eine Stelle bewilligt.</p>
+<p>Für Drittstaatsangehörige ist das System strenger und verlangt in der Regel vorgängige Bewilligungen, aber die Grundlogik bleibt gleich: Das Arbeitsrecht hängt am Aufenthaltsstatus und an der entsprechenden behördlichen Entscheidung, nicht an einem separaten Dokument mit diesem Namen.</p>
+<p>Die wichtige Botschaft lautet daher: In der Schweiz reicht die Frage „Wie bekomme ich eine Arbeitserlaubnis?“ nicht aus. Entscheidend ist vielmehr, welche Aufenthaltsbewilligung zu deinem Fall passt, welche Anforderungen dein Kanton stellt und ab welchem Zeitpunkt du legal arbeiten darfst.</p>
 </div>`
     },
     "fb-005-alquiler-medio-seg-n-el-cant-n-de-un-3-o-3-5-piezas-sin-olvidar-que-en-ginebra-la-cocina-es-considerada-como-una-pieza-es-decir-que-un-3-piezas-en-g": {
