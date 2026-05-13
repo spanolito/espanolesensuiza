@@ -809,6 +809,15 @@ window.siteContent.es.pages = {
                 }
             };
             const copy = resourcesCopy[currentLang] || resourcesCopy.es;
+            const resolveArticleHref = (articleKey) => {
+                const preferredLangs = [currentLang, "en", "es"].filter((lang, index, arr) => arr.indexOf(lang) === index);
+                for (const lang of preferredLangs) {
+                    const article = window.siteContent[lang] && window.siteContent[lang].articles && window.siteContent[lang].articles[articleKey];
+                    if (article && article.slug) return `#/${article.slug}`;
+                }
+                return "#/";
+            };
+            const consulatesGuideHref = resolveArticleHref("articulo-consulados");
             const resourcesLinks = {
                 es: {
                     ch: "https://www.ch.ch/es",
@@ -1034,7 +1043,7 @@ window.siteContent.es.pages = {
                 <h2 style="${sectionTitleStyle}">${copy.spainTitle}</h2>
                 <p style="${sectionDescStyle}">
                     ${copy.spainDesc}
-                    <a href="#/consulados-espanoles-suiza" style="color:var(--swiss-red); font-weight:600;">${copy.spainGuide}</a>
+                    <a href="${consulatesGuideHref}" style="color:var(--swiss-red); font-weight:600;">${copy.spainGuide}</a>
                 </p>
                 <div class="topic-hub-grid" style="margin-top: 0;">
                     <div class="card-hub">
