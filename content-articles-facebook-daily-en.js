@@ -1951,7 +1951,7 @@ Object.assign(window.siteContent.en.articles, {
 
     "fb-daily-20260512-02-frontier-workers-and-unemployment-who-pays-will-change-and-the-change": {
         title: "Frontier workers and unemployment: who pays will change, and the change is not small",
-        featuredImage: "media/guides/actualidad-los-frontaleros-y-el-desempleo-quien-paga-va.jpg",
+        featuredImage: "media/guides/actualidad-los-fronterizos-y-el-desempleo-quien-paga-va.jpg",
         imageAlt: "Frontier workers and unemployment: who pays will change, and the change is not small",
         description: "Today, if you live in France, Spain or any neighboring country and work in Switzerland with a G permit, and you are unemployed, the country that manages and…",
         keywords: "frontier, workers, unemployment, pays, will, change, small, today",

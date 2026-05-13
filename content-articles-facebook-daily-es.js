@@ -1925,16 +1925,16 @@ Object.assign(window.siteContent.es.articles, {
 </div>`
     },
 
-    "fb-daily-20260512-02-los-frontaleros-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no": {
-        title: "Los frontaleros y el desempleo: quién paga va a cambiar, y el cambio no es pequeño",
-        featuredImage: "media/guides/actualidad-los-frontaleros-y-el-desempleo-quien-paga-va.jpg",
-        imageAlt: "Los frontaleros y el desempleo: quién paga va a cambiar, y el cambio no es pequeño",
+    "fb-daily-20260512-02-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no": {
+        title: "Los fronterizos y el desempleo: quién paga va a cambiar, y el cambio no es pequeño",
+        featuredImage: "media/guides/actualidad-los-fronterizos-y-el-desempleo-quien-paga-va.jpg",
+        imageAlt: "Los fronterizos y el desempleo: quién paga va a cambiar, y el cambio no es pequeño",
         description: "Hoy por hoy, si vives en Francia, en España o en cualquier país vecino y trabajas en Suiza con permiso G, y te quedas sin empleo, el país que gestiona y paga…",
-        keywords: "frontaleros, desempleo, quién, paga, cambiar, cambio, pequeño, vives",
+        keywords: "fronterizos, desempleo, quién, paga, cambiar, cambio, pequeño, vives",
         keywordsLocalized: true,
         category: "Tramites y Permisos",
         hub: "tramites",
-        slug: "actualidad-2026-05-12-2-los-frontaleros-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no",
+        slug: "actualidad-2026-05-12-2-los-fronterizos-y-el-desempleo-quien-paga-va-a-cambiar-y-el-cambio-no",
         readingTime: 2,
         dateUpdated: "12 mayo 2026",
         summary: "Hoy por hoy, si vives en Francia, en España o en cualquier país vecino y trabajas en Suiza con permiso G, y te quedas sin empleo, el país que…",

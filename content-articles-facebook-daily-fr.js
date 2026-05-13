@@ -1952,7 +1952,7 @@ Object.assign(window.siteContent.fr.articles, {
 
     "fb-daily-20260512-02-les-frontaliers-et-le-chomage-qui-paie-va-changer-et-le-changement-nes": {
         title: "Les frontaliers et le chômage : qui paie va changer, et le changement n'est pas petit",
-        featuredImage: "media/guides/actualidad-los-frontaleros-y-el-desempleo-quien-paga-va.jpg",
+        featuredImage: "media/guides/actualidad-los-fronterizos-y-el-desempleo-quien-paga-va.jpg",
         imageAlt: "Les frontaliers et le chômage : qui paie va changer, et le changement n'est pas petit",
         description: "Aujourd'hui, si vous vivez en France, en Espagne ou dans un pays voisin et que vous travaillez en Suisse avec un permis G, et que vous êtes au chômage, le pays…",
         keywords: "frontaliers, chômage, paie, changer, changement, petit, aujourd, vous",

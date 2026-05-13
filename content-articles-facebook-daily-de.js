@@ -1951,7 +1951,7 @@ Object.assign(window.siteContent.de.articles, {
 
     "fb-daily-20260512-02-grenzganger-und-arbeitslosigkeit-wer-zahlt-wird-sich-andern-und-die-ve": {
         title: "Grenzgänger und Arbeitslosigkeit: Wer zahlt, wird sich ändern, und die Veränderung ist nicht klein",
-        featuredImage: "media/guides/actualidad-los-frontaleros-y-el-desempleo-quien-paga-va.jpg",
+        featuredImage: "media/guides/actualidad-los-fronterizos-y-el-desempleo-quien-paga-va.jpg",
         imageAlt: "Grenzgänger und Arbeitslosigkeit: Wer zahlt, wird sich ändern, und die Veränderung ist nicht klein",
         description: "Wenn Sie derzeit in Frankreich, Spanien oder einem benachbarten Land leben und in der Schweiz mit der Erlaubnis G arbeiten und arbeitslos werden, ist das Land,…",
         keywords: "grenzgänger, arbeitslosigkeit, zahlt, wird, sich, ändern, veränderung, nicht",

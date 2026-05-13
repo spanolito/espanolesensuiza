@@ -1913,7 +1913,7 @@ Object.assign(window.siteContent.it.articles, {
 
     "fb-daily-20260512-02-i-frontalieri-e-la-disoccupazione-chi-paga-cambiera-e-il-cambiamento-n": {
         title: "I frontalieri e la disoccupazione: chi paga cambierà, e il cambiamento non è piccolo",
-        featuredImage: "media/guides/actualidad-los-frontaleros-y-el-desempleo-quien-paga-va.jpg",
+        featuredImage: "media/guides/actualidad-los-fronterizos-y-el-desempleo-quien-paga-va.jpg",
         imageAlt: "I frontalieri e la disoccupazione: chi paga cambierà, e il cambiamento non è piccolo",
         description: "Oggi, se vivi in Francia, in Spagna o in qualsiasi paese limitrofo e lavori in Svizzera con permesso G, e rimani senza lavoro, il paese che gestisce e paga le…",
         keywords: "frontalieri, disoccupazione, paga, cambierà, cambiamento, piccolo, oggi, vivi",

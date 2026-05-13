@@ -30,7 +30,7 @@ Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications 
 **001.** [El 14 de junio Suiza vota si 9 millones ya son demasiados]()
 *mai 12, 2026*
 
-**002.** [Los frontaleros y el desempleo: quien paga va a cambiar, y el cambio no es pequeno]()
+**002.** [Los fronterizos y el desempleo: quien paga va a cambiar, y el cambio no es pequeno]()
 *mai 12, 2026*
 
 **003.** [El Consejo Federal quiere que los extranjeros que se van tengan que vender su piso]()
@@ -2121,7 +2121,7 @@ Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications 
 **694.** El 14 de junio Suiza vota si 9 millones ya son demasiados
 *mai 12, 2026*
 
-**695.** Los frontaleros y el desempleo: quien paga va a cambiar, y el cambio no es pequeno
+**695.** Los fronterizos y el desempleo: quien paga va a cambiar, y el cambio no es pequeno
 *mai 12, 2026*
 
 **696.** El Consejo Federal quiere que los extranjeros que se van tengan que vender su piso
