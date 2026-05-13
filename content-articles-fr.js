@@ -52,6 +52,8 @@ window.siteContent.fr.articles = {
         dateUpdated: "avr 11, 2026",
         summary: "Accédez au fil complet en recherchant le fragment original dans la communauté Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4393482034205389/",
+        featuredImage: "media/guides/actualidad-inmigracion-suiza.png",
+        imageAlt: "Le permis A en Suisse : travailler oui, vivre non",
         content: `<div class="article-content">
   <div class="callout info">
     <strong>Publication Facebook historique :</strong> En raison du format d’export d’origine, seul le titre ou le fragment d’introduction est disponible ici. Utilisez le bouton ci-dessous pour retrouver et lire le fil complet avec ses échanges dans notre communauté Facebook officielle.
@@ -69,6 +71,8 @@ window.siteContent.fr.articles = {
         dateUpdated: "avr 11, 2026",
         summary: "En Suisse, il n’existe pas juridiquement de « permis de travail » séparé. Ce qui existe, ce sont des permis de séjour comme les L, B, C ou G, et le droit de travailler est intégré dans ce même cadre.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
+        featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
+        imageAlt: "\"Permis de travail\" en Suisse: le terme qui n'existe pas",
         content: `<div class="article-content">
 <p>En Suisse, beaucoup de gens parlent de « permis de travail », mais juridiquement ce n’est pas le terme utilisé par l’administration. Ce qui existe, ce sont des permis de séjour comme les L, B, C ou G, et selon votre situation ce même permis inclut aussi l’autorisation d’exercer une activité professionnelle.</p>
 <p>Ce n’est pas seulement une question de vocabulaire. C’est aussi l’origine de nombreuses confusions. Certaines personnes cherchent un document séparé, comme s’il fallait d’abord obtenir une « licence de travail » puis régler ensuite la résidence. En pratique, pour les citoyens UE/AELE, le parcours normal consiste à avoir un motif clair de séjour, à s’inscrire dans la commune puis à laisser le dossier suivre son cours auprès de l’autorité cantonale.</p>

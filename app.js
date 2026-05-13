@@ -1906,6 +1906,12 @@ document.addEventListener("DOMContentLoaded", () => {
     // ── Helper: article card with image, hub badge, meta ──────
     const UNTITLED_RE = /^\s*\(?(untitled|sans[\s-]titre|ohne\s+titel|senza\s+titolo|sin\s+t[ií]tulo)\)?\s*$/i;
     const SCROLL_RESTORE_HASHES = new Set(["#/articulos"]);
+    const DUPLICATE_TITLE_STOPWORDS = new Set([
+        'a', 'al', 'and', 'au', 'aux', 'ce', 'ces', 'con', 'dans', 'de', 'del', 'der', 'des', 'die',
+        'el', 'en', 'et', 'for', 'gli', 'i', 'il', 'in', 'la', 'las', 'le', 'les', 'lo', 'los',
+        'mais', 'mit', 'nel', 'nella', 'o', 'or', 'par', 'para', 'per', 'por', 'que', 'si', 'su',
+        'sur', 'the', 'to', 'un', 'una', 'und', 'y'
+    ]);
     let scrollStateFrame = null;
 
     function hasValidTitle(article) {
@@ -1979,12 +1985,16 @@ document.addEventListener("DOMContentLoaded", () => {
     function buildHighConfidenceDuplicateKey(article) {
         if (!article || !hasValidTitle(article)) return '';
 
-        const normalizedTitle = normalizeArticleFingerprintText(article.title);
         const normalizedImage = String(article.featuredImage || '').trim().toLowerCase();
         const normalizedDate = normalizeArticleFingerprintText(article.dateUpdated);
+        const titleStem = normalizeArticleFingerprintText(article.title)
+            .split(' ')
+            .filter(token => token && token.length > 2 && !DUPLICATE_TITLE_STOPWORDS.has(token))
+            .slice(0, 5)
+            .join(' ');
 
-        if (!normalizedTitle || !normalizedImage || !normalizedDate) return '';
-        return `${normalizedTitle}||${normalizedImage}||${normalizedDate}`;
+        if (!normalizedImage || !normalizedDate || titleStem.split(' ').filter(Boolean).length < 4) return '';
+        return `${titleStem}||${normalizedImage}||${normalizedDate}`;
     }
 
     function getCanonicalArticlesForLang(langArticles) {

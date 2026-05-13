@@ -52,6 +52,8 @@ window.siteContent.en.articles = {
         dateUpdated: "avr 11, 2026",
         summary: "Access the full discussion by searching for the original fragment in the Facebook community.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4393482034205389/",
+        featuredImage: "media/guides/actualidad-inmigracion-suiza.png",
+        imageAlt: "The permit A in Switzerland: work yes, live no",
         content: `<div class="article-content">
   <div class="callout info">
     <strong>Historical Facebook Post:</strong> Due to the original export format, only the title or opening fragment is available here. Use the button below to find and read the full thread with its discussion in our official Facebook community.
@@ -69,6 +71,8 @@ window.siteContent.en.articles = {
         dateUpdated: "avr 11, 2026",
         summary: "In Switzerland there is no separate legal \"work permit\" as such. What exists are residence permits such as L, B, C or G, and the right to work is built into that same framework.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
+        featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
+        imageAlt: "\"Work permit\" in Switzerland: the term that does not exist",
         content: `<div class="article-content">
 <p>In Switzerland, many people talk about a “work permit”, but legally that is not the term used by the authorities. What exists are residence permits such as L, B, C or G, and depending on your situation that same permit also includes the authorization to carry out professional activity.</p>
 <p>This is not just a wording issue. It is the source of a lot of confusion. Some people look for a separate document, as if they first had to obtain a “work licence” and only then deal with residence status. In practice, for EU/EFTA citizens the normal process is to have a clear basis for staying, register with the commune, and let the file move through the cantonal authority.</p>

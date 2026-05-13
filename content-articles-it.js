@@ -52,6 +52,8 @@ window.siteContent.it.articles = {
         dateUpdated: "avr 11, 2026",
         summary: "Accedi alla discussione completa cercando il frammento originale nella community Facebook.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4393482034205389/",
+        featuredImage: "media/guides/actualidad-inmigracion-suiza.png",
+        imageAlt: "Il permesso A in Svizzera: lavorare sì, vivere no",
         content: `<div class="article-content">
   <div class="callout info">
     <strong>Post storico di Facebook:</strong> A causa del formato originale di esportazione, qui è disponibile solo il titolo o il frammento introduttivo. Usa il pulsante qui sotto per trovare e leggere il thread completo con la relativa discussione nella nostra community Facebook ufficiale.
@@ -69,6 +71,8 @@ window.siteContent.it.articles = {
         dateUpdated: "avr 11, 2026",
         summary: "In Svizzera non esiste, dal punto di vista giuridico, un \"permesso di lavoro\" separato. Esistono invece permessi di soggiorno come L, B, C o G, e il diritto di lavorare è integrato in quello stesso quadro.",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
+        featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
+        imageAlt: "“Permesso di lavoro” in Svizzera: il termine che non esiste",
         content: `<div class="article-content">
 <p>In Svizzera molte persone parlano di “permesso di lavoro”, ma giuridicamente non è questo il termine usato dall’amministrazione. Esistono permessi di soggiorno come L, B, C o G e, a seconda della situazione, quello stesso permesso include anche l’autorizzazione a svolgere un’attività professionale.</p>
 <p>Non è soltanto una questione di parole. È proprio da qui che nascono molte confusioni. Alcune persone cercano un documento separato, come se prima si dovesse ottenere una “licenza di lavoro” e solo dopo sistemare la residenza. In pratica, per i cittadini UE/AELS, il percorso normale è avere un motivo chiaro di soggiorno, registrarsi presso il comune e lasciare che la pratica prosegua presso l’autorità cantonale.</p>

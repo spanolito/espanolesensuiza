@@ -2429,6 +2429,8 @@ window.siteContent.es.articles = {
         readingTime: 4,
         dateUpdated: "avr 11, 2026",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4393482034205389/",
+        featuredImage: "media/guides/actualidad-inmigracion-suiza.png",
+        imageAlt: "El permiso A en Suiza: trabajar si, vivir no",
         summary: "El permiso A permitía trabajar en Suiza sin instalarse de forma estable. Entender ese sistema ayuda a explicar décadas de inmigración precaria y conflictos como la huelga de españoles en Murer.",
         content: `<div class="article-content">
   <p>He estado revisando el dossier de la Ville de Genève sobre la exposición Saisonniers de 2019, y hay un punto que lo explica todo: el permiso A. Sin entender esto, no se entiende cómo funcionó realmente la inmigración en Suiza durante décadas... ni por qué hubo conflictos como la huelga de españoles en Murer.</p>
@@ -2452,6 +2454,8 @@ window.siteContent.es.articles = {
         readingTime: 2,
         dateUpdated: "avr 11, 2026",
         facebookUrl: "https://www.facebook.com/groups/1560239407529680/posts/4394023047484621/",
+        featuredImage: "media/guides/trabajar-antes-permiso-fisico-suiza.jpg",
+        imageAlt: "\"Permiso de trabajo\" en Suiza: el termino que no existe",
         summary: "En Suiza no existe, jurídicamente, un \"permiso de trabajo\" separado. Lo que existe son permisos de residencia como L, B, C o G, y el derecho a trabajar va integrado en ese mismo marco.",
         content: `<div class="article-content">
 <p>En Suiza mucha gente habla de “permiso de trabajo”, pero jurídicamente ese término no es el que usa la administración. Lo que existe son permisos de residencia como el L, B, C o G, y según tu situación ese mismo permiso incluye también la autorización para ejercer una actividad profesional.</p>
