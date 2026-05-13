@@ -1464,7 +1464,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // Back to top visibility
         const backToTop = document.getElementById('back-to-top-btn');
         if (backToTop) {
-            if (window.scrollY > 500) {
+            if (shouldShowBackToTopButton()) {
                 backToTop.classList.add('visible');
             } else {
                 backToTop.classList.remove('visible');
@@ -1493,6 +1493,14 @@ document.addEventListener("DOMContentLoaded", () => {
         const { path } = extractLangFromPath(rawPath);
         const normalizedPath = path || "/";
         return normalizedPath === "/" || normalizedPath === "";
+    }
+
+    function shouldShowBackToTopButton() {
+        const rawPath = getCurrentPath();
+        const { path } = extractLangFromPath(rawPath);
+        const normalizedPath = path || "/";
+        const threshold = normalizedPath === "/articulos" ? 120 : 500;
+        return window.scrollY > threshold;
     }
 
     function scrollHomeToTop() {
@@ -1726,6 +1734,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             });
         }
+
+        backToTop.classList.toggle('visible', shouldShowBackToTopButton());
 
         // Search Logic
         const searchInput = document.getElementById('global-search');
