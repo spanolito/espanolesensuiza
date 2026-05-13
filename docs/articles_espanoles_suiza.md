@@ -1,8 +1,8 @@
 # Articles publies - Espanoles que realmente se ayudan en Suiza
 
-Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications scrapees jusqu'au 12 mai 2026.
+Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications scrapees jusqu'au 13 mai 2026.
 
-**Total : 699 publications**
+**Total : 702 publications**
 
 **Derniere generation : 13 mai 2026**
 
@@ -15,6 +15,15 @@ Document genere depuis l'export Facebook (jusqu'au 11 mars 2026) + publications 
 *mai 13, 2026*
 
 **699.** [La luz baja un 4% en Suiza. Eso son 58 francos al año.]()
+*mai 13, 2026*
+
+**700.** [Mañana es festivo en toda Suiza. Los cuatro días que el país entero para]()
+*mai 13, 2026*
+
+**701.** [El hombre que incendió el autobús en Chiètres había pedido una renta AI durante cuatro años sin conseguirla]()
+*mai 13, 2026*
+
+**702.** [La LAMal no paga el dentista. Lo descubres después de la primera cita.]()
 *mai 13, 2026*
 
 
