@@ -913,7 +913,8 @@ window.siteContent.es.pages = {
                 { href: "https://www.zg.ch", code: "ZG", labels: { es: "Zug", en: "Zug", fr: "Zoug", de: "Zug", it: "Zugo" } },
                 { href: "https://www.zh.ch", code: "ZH", labels: { es: "Zurich", en: "Zurich", fr: "Zurich", de: "Zürich", it: "Zurigo" } }
             ];
-            const linkSet = resourcesLinks[currentLang] || resourcesLinks.es;
+            const externalLinksLang = currentLang === "es" ? "en" : currentLang;
+            const linkSet = resourcesLinks[externalLinksLang] || resourcesLinks.en;
             const formatConsulateDetails = (details) => {
                 const raw = String(details || "");
                 const parts = raw.split(" \u00b7 ").map(s => s.trim()).filter(Boolean);
