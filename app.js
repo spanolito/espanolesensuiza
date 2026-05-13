@@ -2346,12 +2346,46 @@ document.addEventListener("DOMContentLoaded", () => {
             })
             .slice(0, 3);
         const featuredIds = new Set(featuredHubArticles.map(article => article.id));
-        const latestHubArticles = hubArticles
-            .filter(article => !featuredIds.has(article.id))
-            .slice(0, 6);
+        const latestPool = hubArticles.filter(article => !featuredIds.has(article.id));
+        const latestDefaultCount = 6;
+        const hubListLabels = {
+            es: {
+                showAll: "Ver todos los articulos del hub",
+                showLess: "Mostrar solo los ultimos 6"
+            },
+            en: {
+                showAll: "View all hub articles",
+                showLess: "Show only the latest 6"
+            },
+            fr: {
+                showAll: "Voir tous les articles du hub",
+                showLess: "Afficher seulement les 6 derniers"
+            },
+            de: {
+                showAll: "Alle Artikel des Bereichs anzeigen",
+                showLess: "Nur die letzten 6 anzeigen"
+            },
+            it: {
+                showAll: "Vedi tutti gli articoli del hub",
+                showLess: "Mostra solo gli ultimi 6"
+            }
+        };
 
         const ui = window.siteContent.ui[currentLang] || window.siteContent.ui['es'];
-        if (hubArticles.length > 0) {
+        const hubUi = hubListLabels[currentLang] || hubListLabels.es;
+
+        const renderHubSections = (expanded = false) => {
+            const latestHubArticles = expanded ? latestPool : latestPool.slice(0, latestDefaultCount);
+            const toggleHTML = latestPool.length > latestDefaultCount
+                ? `
+                    <div style="margin-top: 1.25rem; text-align: center;">
+                        <button type="button" id="hub-latest-toggle" class="btn btn-secondary">
+                            ${expanded ? hubUi.showLess : hubUi.showAll}
+                        </button>
+                    </div>
+                `
+                : '';
+
             container.innerHTML = `
                 ${featuredHubArticles.length > 0 ? `
                     <div style="margin-bottom: 2.25rem;">
@@ -2366,8 +2400,17 @@ document.addEventListener("DOMContentLoaded", () => {
                     <div class="featured-grid">
                         ${latestHubArticles.map(r => renderCard(r, ui)).join('')}
                     </div>
+                    ${toggleHTML}
                 </div>
             `;
+            const toggleBtn = document.getElementById("hub-latest-toggle");
+            if (toggleBtn) {
+                toggleBtn.addEventListener("click", () => renderHubSections(!expanded));
+            }
+        };
+
+        if (hubArticles.length > 0) {
+            renderHubSections(false);
         } else {
             container.innerHTML = `<p style="color: var(--text-light); margin-top: 2rem;">${ui['lbl-no-articles']}</p>`;
         }
