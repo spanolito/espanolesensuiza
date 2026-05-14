@@ -56,36 +56,136 @@ DEEPL_TARGETS = {
     "it": "IT",
 }
 
-# ── Table hub / categorie ─────────────────────────────────────────────────────
+# ── Table hub / catégorie — système à deux niveaux ────────────────────────────
+#
+# Niveau 1 — mots-clés FORTS : un seul suffit car le terme est décisif
+#   (ex: "lamal" ne peut appartenir qu'à la santé, "quellensteuer" qu'aux impôts)
+# Niveau 2 — mots-clés FAIBLES : scoring par hub, le plus haut score gagne
+#   (évite qu'un seul mot ambigu comme "seguro" ou "accidente" fausse le résultat)
 
-HUB_RULES = [
-    (["permiso", "empadron", "trámite", "tramite", "migración", "migracion",
-      "registro", "naturaliz", "carnet", "conducir", "e-id", "ees"],
-     "tramites"),
-    (["trabajo", "contrato", "salario", "cct", "despido", "paro", "rav",
-      "kurzarbeit", "autónomo", "autonomo", "empleo", "laboral", "nómina",
-      "nomina", "sueldo"],
-     "trabajo"),
-    (["alquiler", "piso", "vivienda", "inquilino", "propietario", "garantía",
-      "garantia", "alquilar", "inmobiliaria", "habitación", "habitacion"],
-     "vivienda"),
-    (["seguro médico", "seguro medico", "lamal", "franquicia", "psicólogo",
-      "psicologo", "dentista", "dental", "diente", "dientes", "accidente",
-      "laa", "uvg", "kvg", "salud", "médico", "medico", "enfermedad",
-      "hospital", "baja", "enfermo", "zusatzversicherung"],
-     "salud"),
-    (["impuesto", "fuente", "3a", "declaración", "declaracion", "fiscal",
-      "irpf", "convenio", "tributar", "hacienda", "aeat", "quellensteuer",
-      "pilar 3", "deducciones"],
-     "impuestos"),
-    (["frontalier", "frontera", "frontalizo", "teletrabajo desde francia"],
-     "fronterizos"),
-    (["referéndum", "referendum", "votación", "votacion", "iniciativa",
-      "política", "politica", "svp", "udc", "consejo federal"],
-     "vivir-en-suiza"),
-]
+# Sigles suisses qui apparaissent tels quels dans les articles en espagnol
+STRONG_HUB_KEYWORDS = {
+    # Santé — sigles officiels suisses invariants
+    "lamal":   "salud",
+    "kvg":     "salud",   # sigle utilisé tel quel dans les textes ES
+    "uvg":     "salud",   # assurance accidents
+    "laa":     "salud",   # idem en français/espagnol
+    # Impôts — terme technique utilisé en espagnol suisse
+    "quellensteuer": "impuestos",  # impôt à la source, terme courant même en ES
+    "pilar 3a":      "impuestos",
+    # Permis — formulations espagnoles spécifiques
+    "permiso b": "tramites",
+    "permiso c": "tramites",
+    "permiso g": "tramites",
+    "permiso l": "tramites",
+    # Frontaliers
+    "frontalizo": "fronterizos",
+    "frontalera": "fronterizos",
+}
+
+HUB_KEYWORDS = {
+    "tramites": [
+        "permiso de residencia", "permiso de trabajo", "empadronamiento",
+        "trámite", "tramite", "migración", "migracion",
+        "registro civil", "naturalización", "naturalizacion",
+        "e-id", "ees", "oficina de extranjería", "oficina de extranjeria",
+        "carnet de conducir suizo", "canje del carnet",
+    ],
+    "salud": [
+        "seguro médico", "seguro medico", "seguro de salud",
+        "franquicia", "prima del seguro", "primas",
+        "psicólogo", "psicologo", "psiquiatra",
+        "dentista", "dental", "diente", "dientes",
+        "enfermedad", "hospital", "médico", "medico",
+        "baja médica", "baja medica", "baja por enfermedad",
+        "médico de cabecera", "medico de cabecera",
+        "cobertura médica", "cobertura medica",
+        "mutua", "seguro complementario", "accidente laboral",
+    ],
+    "trabajo": [
+        "contrato de trabajo", "contrato laboral",
+        "salario", "sueldo", "nómina", "nomina",
+        "cct", "despido", "desempleo", "paro",
+        "rav",  # sigle suisse courant dans les textes ES
+        "autónomo", "autonomo", "trabajo por cuenta propia",
+        "empleo", "laboral", "horas extra", "horas extraordinarias",
+        "convenio colectivo", "sindicato",
+        "vacaciones laborales", "baja laboral",
+        "13.º salario", "decimotercer salario",
+    ],
+    "vivienda": [
+        "alquiler", "arrendamiento", "piso en alquiler",
+        "vivienda", "inquilino", "propietario", "casero",
+        "garantía de alquiler", "garantia de alquiler",
+        "alquilar", "inmobiliaria", "habitación", "habitacion",
+        "depósito de garantía", "deposito de garantia",
+    ],
+    "impuestos": [
+        "impuesto", "impuestos en suiza",
+        "retención en la fuente", "impuesto en la fuente",
+        "declaración de la renta", "declaracion de la renta",
+        "declaración fiscal", "declaracion fiscal",
+        "fiscal", "irpf", "convenio de doble imposición",
+        "tributar", "hacienda", "aeat",
+        "deducción", "deduccion", "desgravación", "desgravacion",
+        "retención fiscal", "retencion fiscal",
+        "pilar 3", "tercer pilar",
+    ],
+    "fronterizos": [
+        "fronterizo", "frontera suiza",
+        "trabajar en suiza desde francia",
+        "trabajar en suiza desde alemania",
+        "trabajar en suiza desde italia",
+        "teletrabajo desde el extranjero",
+        "residente en francia", "residente en alemania",
+    ],
+    "vivir-en-suiza": [
+        "tren en suiza", "sbb", "cff",
+        "bicicleta", "bici en suiza",
+        "autopista suiza", "vigneta", "vignette",
+        "transporte público", "transporte publico",
+        "referéndum", "referendum", "votación suiza", "votacion suiza",
+        "iniciativa popular", "política suiza", "politica suiza",
+        "svp", "udc", "consejo federal suizo",
+        "cantón", "canton", "sistema suizo",
+    ],
+}
 
 DEFAULT_HUB = "vivir-en-suiza"
+
+
+def infer_hub(title: str, content: str) -> str:
+    """Détermine le hub d'un article via un système à deux niveaux.
+
+    1. Mots-clés forts : un seul suffit (termes sans ambiguïté).
+    2. Scoring : chaque hub accumule un point par mot-clé présent.
+       Le hub avec le score le plus élevé gagne. En cas d'égalité
+       ou d'absence de correspondance, on retourne DEFAULT_HUB.
+    """
+    combined = (title + " " + content).lower()
+
+    # ── Niveau 1 : mots-clés forts ────────────────────────────────────────────
+    for kw, hub in STRONG_HUB_KEYWORDS.items():
+        if kw in combined:
+            return hub
+
+    # ── Niveau 2 : scoring ────────────────────────────────────────────────────
+    scores: dict[str, int] = {hub: 0 for hub in HUB_KEYWORDS}
+    for hub, keywords in HUB_KEYWORDS.items():
+        for kw in keywords:
+            if kw in combined:
+                scores[hub] += 1
+
+    best_score = max(scores.values())
+    if best_score == 0:
+        return DEFAULT_HUB
+
+    # En cas d'égalité stricte entre deux hubs, on retourne DEFAULT_HUB
+    # (mieux vaut "vivir-en-suiza" que se tromper de catégorie)
+    winners = [h for h, s in scores.items() if s == best_score]
+    if len(winners) == 1:
+        return winners[0]
+    return DEFAULT_HUB
 
 CATEGORY_BY_HUB = {
     "es": {
