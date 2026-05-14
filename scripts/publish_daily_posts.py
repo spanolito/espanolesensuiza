@@ -63,29 +63,30 @@ DEEPL_TARGETS = {
 # Niveau 2 — mots-clés FAIBLES : scoring par hub, le plus haut score gagne
 #   (évite qu'un seul mot ambigu comme "seguro" ou "accidente" fausse le résultat)
 
-# Sigles et termes suisses décisifs — apparaissent tels quels dans les textes ES
+# Siglas y términos suizos decisivos — aparecen tal cual en textos en español
 STRONG_HUB_KEYWORDS = {
-    # Santé — sigles officiels suisses invariants
-    "lamal":        "salud",
-    "kvg":          "salud",
-    "uvg":          "salud",
-    "laa":          "salud",
-    "suva":         "salud",        # assurance accidents obligatoire
-    "krankenkasse": "salud",        # terme allemand courant même en ES
-    # Impôts — termes techniques invariants en espagnol suisse
-    "quellensteuer": "impuestos",
+    # Salud — siglas oficiales suizas invariantes (usadas en textos ES)
+    "lamal": "salud",
+    "kvg":   "salud",   # sigla del seguro de enfermedad
+    "uvg":   "salud",   # seguro de accidentes
+    "laa":   "salud",   # idem en textos ES/FR
+    "suva":  "salud",   # caja nacional de seguros de accidentes
+    # Impuestos — términos técnicos suizos invariantes en español suizo
+    "quellensteuer": "impuestos",   # impuesto en la fuente, término usual en ES suizo
     "pilar 3a":      "impuestos",
-    # Permis — formulations espagnoles spécifiques à la Suisse
+    # Permisos — formulaciones españolas específicas de Suiza
     "permiso b": "tramites",
     "permiso c": "tramites",
     "permiso l": "tramites",
     "permiso f": "tramites",
-    # Permis G = frontaliers (permis spécifique aux travailleurs transfrontaliers)
+    # Permiso G = fronterizos (permiso exclusivo de trabajadores transfronterizos)
     "permiso g": "fronterizos",
-    # Frontaliers
-    "frontalizo":  "fronterizos",
-    "frontalera":  "fronterizos",
-    "frontalier":  "fronterizos",
+    # Fronterizos — términos en español
+    "fronterizo": "fronterizos",
+    "frontalizo": "fronterizos",
+    "frontalera": "fronterizos",
+    # Salud — término genérico decisivo en contexto suizo
+    "seguro":     "salud",          # en artículos sobre Suiza siempre = seguro médico
 }
 
 HUB_KEYWORDS = {
