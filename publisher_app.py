@@ -2216,9 +2216,33 @@ class PublisherApp:
                 "Pousser vers le dépôt distant ?\n\nCela déclenche le déploiement Vercel."):
             return
         self._set_status("Publication...", C["info"])
-        self._log_write("\n── git push ────────────────────────────────────────\n", "bold")
+        self._log_write("\n── Vérification des images ─────────────────────────\n", "bold")
 
         def worker():
+            # 1. Stager les images présentes dans media/guides/ non encore commitées
+            rc_add, _ = git("add", "media/guides/")
+            rc_st, staged = git("status", "--porcelain", "media/guides/")
+            images_staged = rc_st == 0 and bool(staged.strip())
+
+            if images_staged:
+                # Inclure les images dans le commit existant (amend)
+                self.root.after(0, lambda: self._log_write(
+                    "  [INFO] Images trouvées — ajout au commit...\n", "warn"))
+                rc_am, out_am = git("commit", "--amend", "--no-edit")
+                if rc_am != 0:
+                    self.root.after(0, lambda: self._log_write(
+                        f"  [ERREUR] git commit --amend :\n{out_am}\n", "err"))
+                    self.root.after(0, lambda: self._set_status("Erreur images", C["error"]))
+                    return
+                self.root.after(0, lambda: self._log_write(
+                    "  [OK] Images intégrées au commit.\n", "ok"))
+            else:
+                self.root.after(0, lambda: self._log_write(
+                    "  [INFO] Aucune nouvelle image à stager.\n", "txt"))
+
+            # 2. Push
+            self.root.after(0, lambda: self._log_write(
+                "\n── git push ────────────────────────────────────────\n", "bold"))
             rc, out = git("push", timeout=120)
             self.root.after(0, lambda: self._push_done(rc, out))
 
