@@ -63,91 +63,290 @@ DEEPL_TARGETS = {
 # Niveau 2 — mots-clés FAIBLES : scoring par hub, le plus haut score gagne
 #   (évite qu'un seul mot ambigu comme "seguro" ou "accidente" fausse le résultat)
 
-# Sigles suisses qui apparaissent tels quels dans les articles en espagnol
+# Sigles et termes suisses décisifs — apparaissent tels quels dans les textes ES
 STRONG_HUB_KEYWORDS = {
     # Santé — sigles officiels suisses invariants
-    "lamal":   "salud",
-    "kvg":     "salud",   # sigle utilisé tel quel dans les textes ES
-    "uvg":     "salud",   # assurance accidents
-    "laa":     "salud",   # idem en français/espagnol
-    # Impôts — terme technique utilisé en espagnol suisse
-    "quellensteuer": "impuestos",  # impôt à la source, terme courant même en ES
+    "lamal":        "salud",
+    "kvg":          "salud",
+    "uvg":          "salud",
+    "laa":          "salud",
+    "suva":         "salud",        # assurance accidents obligatoire
+    "krankenkasse": "salud",        # terme allemand courant même en ES
+    # Impôts — termes techniques invariants en espagnol suisse
+    "quellensteuer": "impuestos",
     "pilar 3a":      "impuestos",
-    # Permis — formulations espagnoles spécifiques
+    # Permis — formulations espagnoles spécifiques à la Suisse
     "permiso b": "tramites",
     "permiso c": "tramites",
-    "permiso g": "tramites",
     "permiso l": "tramites",
+    "permiso f": "tramites",
+    # Permis G = frontaliers (permis spécifique aux travailleurs transfrontaliers)
+    "permiso g": "fronterizos",
     # Frontaliers
-    "frontalizo": "fronterizos",
-    "frontalera": "fronterizos",
+    "frontalizo":  "fronterizos",
+    "frontalera":  "fronterizos",
+    "frontalier":  "fronterizos",
 }
 
 HUB_KEYWORDS = {
     "tramites": [
-        "permiso de residencia", "permiso de trabajo", "empadronamiento",
-        "trámite", "tramite", "migración", "migracion",
-        "registro civil", "naturalización", "naturalizacion",
-        "e-id", "ees", "oficina de extranjería", "oficina de extranjeria",
+        # Permis et titres de séjour
+        "permiso de residencia", "permiso de trabajo", "permiso de establecimiento",
+        "renovación de permiso", "renovacion de permiso", "solicitud de permiso",
+        # Procédures administratives
+        "empadronamiento", "trámite", "tramite", "migración", "migracion",
+        "registro civil", "oficina de extranjería", "oficina de extranjeria",
+        "sem", "secretaria de estado para migraciones",
+        # Naturalisation et intégration
+        "naturalización", "naturalizacion", "prueba de integración",
+        "prueba de integracion", "prueba de idioma", "solicitud de nacionalidad",
+        "ciudadanía suiza", "ciudadania suiza",
+        # Regroupement familial
+        "reunificación familiar", "reunificacion familiar",
+        "reagrupación familiar", "reagrupacion familiar",
+        # Asile et protection
+        "asilo", "solicitante de asilo", "refugiado", "protección temporal",
+        "proteccion temporal", "estatuto de refugiado",
+        # Visa et documents
+        "visado", "visado de trabajo", "visado de estudiante",
+        "pasaporte suizo", "documento de identidad",
+        # Reconnaissance de diplômes
+        "homologación de título", "homologacion de titulo",
+        "convalidación de título", "convalidacion de titulo",
+        "reconocimiento de titulaciones",
+        # Permis de conduire
         "carnet de conducir suizo", "canje del carnet",
+        "cambio de carnet de conducir",
+        # Documents numériques suisses
+        "e-id", "ees", "identidad electrónica", "identidad electronica",
     ],
     "salud": [
+        # Assurances et couvertures
         "seguro médico", "seguro medico", "seguro de salud",
-        "franquicia", "prima del seguro", "primas",
-        "psicólogo", "psicologo", "psiquiatra",
-        "dentista", "dental", "diente", "dientes",
-        "enfermedad", "hospital", "médico", "medico",
+        "seguro de accidentes", "seguro complementario",
+        "franquicia", "prima del seguro", "primas", "prima básica", "prima basica",
+        "cobertura médica", "cobertura medica", "reembolso médico", "reembolso medico",
+        "mutua",
+        # Professionnels de santé
+        "médico", "medico", "médico de cabecera", "medico de cabecera",
+        "médico de familia", "medico de familia", "médico generalista",
+        "médico especialista", "especialista", "psicólogo", "psicologo",
+        "psiquiatra", "ginecólogo", "ginecologo", "pediatra",
+        "dentista", "dental", "fisioterapeuta", "fisioterapia",
+        "enfermero", "enfermera",
+        # Soins et traitements
+        "enfermedad", "hospital", "urgencias", "farmacia",
+        "medicamento", "medicamentos", "receta médica", "receta medica",
+        "cita médica", "cita medica", "consulta médica", "consulta medica",
+        "tratamiento", "diagnóstico", "diagnostico", "rehabilitación", "rehabilitacion",
+        "segunda opinión", "segunda opinion", "lista de espera",
+        # Pathologies et santé mentale
+        "diente", "dientes", "salud mental", "burnout",
+        "depresión", "depresion", "ansiedad", "estrés laboral", "estres laboral",
+        # Arrêts maladie et incapacité
         "baja médica", "baja medica", "baja por enfermedad",
-        "médico de cabecera", "medico de cabecera",
-        "cobertura médica", "cobertura medica",
-        "mutua", "seguro complementario", "accidente laboral",
+        "incapacidad laboral", "incapacidad temporal",
+        "accidente laboral", "enfermedad profesional",
+        # Maternité
+        "embarazo", "parto", "maternidad",
     ],
     "trabajo": [
+        # Contrats et relations de travail
         "contrato de trabajo", "contrato laboral",
+        "trabajo indefinido", "trabajo temporal", "trabajo fijo",
+        "período de prueba", "periodo de prueba",
+        "empleador", "trabajador",
+        # Rémunération
         "salario", "sueldo", "nómina", "nomina",
-        "cct", "despido", "desempleo", "paro",
-        "rav",  # sigle suisse courant dans les textes ES
-        "autónomo", "autonomo", "trabajo por cuenta propia",
-        "empleo", "laboral", "horas extra", "horas extraordinarias",
-        "convenio colectivo", "sindicato",
-        "vacaciones laborales", "baja laboral",
+        "salario mínimo", "salario minimo", "salario neto", "salario bruto",
         "13.º salario", "decimotercer salario",
+        "horas extra", "horas extraordinarias",
+        # Fin de contrat
+        "despido", "carta de despido", "despido improcedente",
+        "finiquito", "liquidación", "liquidacion",
+        "indemnización", "indemnizacion", "preaviso de despido",
+        # Chômage et aide à l'emploi
+        "desempleo", "paro", "rav", "seco",
+        "subsidio de desempleo", "prestación por desempleo", "prestacion por desempleo",
+        "búsqueda de empleo", "busqueda de empleo",
+        "bolsa de trabajo", "agencia de empleo",
+        "empresa de trabajo temporal",
+        # Recherche d'emploi
+        "currículum", "curriculum", "entrevista de trabajo",
+        # Travail indépendant
+        "autónomo", "autonomo", "trabajo por cuenta propia",
+        # Conventions et syndicats
+        "cct", "convenio colectivo", "sindicato", "conciliación laboral",
+        "conciliacion laboral",
+        # Congés et temps de travail
+        "vacaciones laborales", "jornada laboral", "jornada reducida",
+        "trabajo a tiempo parcial", "trabajo desde casa", "teletrabajo",
+        # Congés parentaux
+        "permiso de maternidad", "permiso de paternidad",
+        "baja de maternidad", "baja de paternidad", "baja laboral",
+        # Frais professionnels
+        "gastos de desplazamiento", "plus de transporte",
+        # Retraite et cotisations
+        "avs", "ahv", "lpp", "pensión", "pension",
+        "cotización", "cotizacion",
+        # Formation professionnelle
+        "formación profesional", "formacion profesional",
+        "aprendizaje", "formación continua", "formacion continua",
+        # Divers
+        "empleo", "laboral",
     ],
     "vivienda": [
+        # Bail et location
         "alquiler", "arrendamiento", "piso en alquiler",
-        "vivienda", "inquilino", "propietario", "casero",
+        "contrato de alquiler", "rescisión del contrato", "rescision del contrato",
+        "preaviso de salida", "regulación del alquiler", "regulacion del alquiler",
+        "precio del alquiler", "mercado inmobiliario",
+        # Parties au bail
+        "inquilino", "propietario", "casero",
+        "subarrendamiento", "subarrendar",
+        # Garanties et dépôts
         "garantía de alquiler", "garantia de alquiler",
-        "alquilar", "inmobiliaria", "habitación", "habitacion",
-        "depósito de garantía", "deposito de garantia",
+        "depósito de garantía", "deposito de garantia", "fianza",
+        # Types de logement
+        "vivienda", "apartamento", "estudio",
+        "piso compartido", "compañero de piso", "companero de piso",
+        "habitación", "habitacion", "alojamiento", "residencia",
+        # Procédures et litiges
+        "alquilar", "inmobiliaria", "comisión inmobiliaria", "comision inmobiliaria",
+        "desahucio", "queja al casero", "mediación en alquiler",
+        "mediacion en alquiler", "daños en el piso", "danos en el piso",
+        "inventario del piso",
+        # Charges et services
+        "gastos comunes", "calefacción", "calefaccion",
+        # Achat immobilier
+        "hipoteca", "comprar piso", "comprar vivienda",
+        "copropiedad", "administrador de fincas",
+        # Aides au logement
+        "subvención al alquiler", "subvencion al alquiler", "ayuda al alquiler",
     ],
     "impuestos": [
-        "impuesto", "impuestos en suiza",
-        "retención en la fuente", "impuesto en la fuente",
+        # Impôts principaux
+        "impuesto", "impuestos en suiza", "impuesto sobre la renta",
+        "impuesto cantonal", "impuesto municipal", "impuesto federal",
+        "impuesto de fortuna", "impuesto sobre el patrimonio",
+        # Impôt à la source
+        "retención en la fuente", "retencion en la fuente",
+        "impuesto en la fuente", "retención fiscal", "retencion fiscal",
+        # Déclaration d'impôts
         "declaración de la renta", "declaracion de la renta",
         "declaración fiscal", "declaracion fiscal",
-        "fiscal", "irpf", "convenio de doble imposición",
-        "tributar", "hacienda", "aeat",
+        "declaración de impuestos", "declaracion de impuestos",
+        "formulario fiscal",
+        # Concepts fiscaux
+        "fiscal", "tributar", "carga fiscal", "tipo impositivo",
+        "ingreso imponible", "base imponible", "tramo impositivo",
         "deducción", "deduccion", "desgravación", "desgravacion",
-        "retención fiscal", "retencion fiscal",
+        "deducción fiscal", "deduccion fiscal",
+        "exención fiscal", "exencion fiscal", "exento de impuestos",
+        "deducción por hijos", "deduccion por hijos",
+        "deducción por transporte", "deduccion por transporte",
+        # Résidence fiscale
+        "residente fiscal", "domicilio fiscal",
+        "cambio de residencia fiscal", "canton de imposición",
+        "canton de imposicion",
+        # Relations avec les administrations
+        "hacienda", "aeat", "administración tributaria",
+        "administracion tributaria",
+        "irpf", "convenio de doble imposición", "doble imposicion",
+        # Certificats et documents
+        "certificado fiscal", "certificado de retenciones",
+        "deuda fiscal", "atrasos fiscales",
+        # Piliers et prévoyance
         "pilar 3", "tercer pilar",
     ],
     "fronterizos": [
-        "fronterizo", "frontera suiza",
+        # Statut et définitions
+        "fronterizo", "frontera suiza", "trabajo transfronterizo",
+        "trabajar en suiza viviendo en el extranjero",
+        # Par pays de résidence
         "trabajar en suiza desde francia",
         "trabajar en suiza desde alemania",
         "trabajar en suiza desde italia",
-        "teletrabajo desde el extranjero",
-        "residente en francia", "residente en alemania",
+        "vivir en francia trabajar en suiza",
+        "vivir en alemania trabajar en suiza",
+        "vivir en italia trabajar en suiza",
+        "residente en francia", "residente en alemania", "residente en italia",
+        # Frontières spécifiques
+        "frontera franco-suiza", "frontera italo-suiza", "frontera germano-suiza",
+        "zona fronteriza", "autorización fronteriza",
+        # Régime de retour
+        "retorno diario", "retorno semanal",
+        # Accord de libre circulation
+        "acuerdo de libre circulación", "acuerdo de libre circulacion",
+        "libre circulación de personas", "libre circulacion de personas",
+        # Fiscalité frontalière
+        "impuesto fronterizo", "convenio tributario fronterizo",
+        "imputación fiscal fronterizo", "imputacion fiscal fronterizo",
+        # Cotisations et prestations
+        "cotización en suiza", "cotizacion en suiza",
+        "prestaciones en país de residencia",
+        # Teletravail transfrontalier
+        "teletrabajo desde el extranjero", "teletrabajo transfronterizo",
+        # Assurance maladie frontaliers
+        "lamal para fronterizos", "seguro médico fronterizo",
+        "seguro medico fronterizo", "kvg para fronterizos",
+        # Chômage frontaliers
+        "desempleo fronterizo", "convenio frontaliero",
     ],
     "vivir-en-suiza": [
+        # Vie quotidienne et adaptation
+        "vida en suiza", "vivir en suiza", "adaptarse a suiza",
+        "cultura suiza", "costumbres suizas",
+        "integración en suiza", "integracion en suiza",
+        # Régions linguistiques
+        "suiza alemana", "suiza francesa", "suiza italiana",
+        # Coût de la vie
+        "coste de vida", "precio de vida", "coste de vida en suiza",
+        "poder adquisitivo", "cara suiza", "precio de la vida",
+        # Transports
         "tren en suiza", "sbb", "cff",
-        "bicicleta", "bici en suiza",
-        "autopista suiza", "vigneta", "vignette",
+        "bicicleta", "bicicleta eléctrica", "bicicleta electrica",
+        "bici en suiza", "autopista suiza", "vigneta", "vignette",
         "transporte público", "transporte publico",
+        "abono de transporte", "transporte en suiza",
+        # Circulation
+        "conducir en suiza", "reglas de tráfico", "reglas de trafico",
+        "multa de tráfico", "multa de trafico", "parking en suiza",
+        # Politique et démocratie directe
         "referéndum", "referendum", "votación suiza", "votacion suiza",
         "iniciativa popular", "política suiza", "politica suiza",
-        "svp", "udc", "consejo federal suizo",
-        "cantón", "canton", "sistema suizo",
+        "svp", "udc", "consejo federal suizo", "consejero federal",
+        "departamento federal", "parlamento suizo",
+        # Organisation territoriale
+        "cantón", "canton", "sistema suizo", "municipio suizo",
+        "comunidad suiza",
+        # Retraite
+        "jubilación en suiza", "jubilacion en suiza",
+        "jubilarse en suiza", "pensión de jubilación",
+        "pension de jubilacion", "avs tercera edad",
+        # Éducation
+        "escuela suiza", "sistema educativo", "guardería", "guarderia",
+        "jardín de infancia", "jardin de infancia",
+        "universidad suiza", "educación en suiza", "educacion en suiza",
+        # Langue
+        "aprender alemán", "aprender aleman",
+        "aprender francés", "aprender frances", "aprender italiano",
+        "idioma en suiza", "curso de idiomas",
+        # Consommation et alimentation
+        "supermercados en suiza", "migros", "coop",
+        "precio alimentos", "precio de los alimentos",
+        # Environnement et règles
+        "reciclar en suiza", "basura en suiza", "reglas de basura",
+        # Fêtes et culture
+        "fiesta nacional suiza", "1 de agosto", "día nacional suizo",
+        "dia nacional suizo",
+        # Services financiers
+        "banco en suiza", "cuenta bancaria en suiza",
+        # Assurances non-santé
+        "seguro de hogar", "seguro de responsabilidad civil", "rc personal",
+        # Prestations sociales
+        "prestaciones sociales", "beneficios sociales", "ayudas estatales",
+        "subsidios sociales", "seguridad social suiza",
     ],
 }
 
@@ -257,14 +456,6 @@ def slugify(text: str, max_len: int = 70) -> str:
     t = re.sub(r"[\s]+", "-", t.strip())
     t = re.sub(r"-+", "-", t)
     return t[:max_len].rstrip("-") or "article"
-
-
-def infer_hub(title: str, content: str) -> str:
-    combined = (title + " " + content).lower()
-    for keywords, hub in HUB_RULES:
-        if any(kw in combined for kw in keywords):
-            return hub
-    return DEFAULT_HUB
 
 
 def reading_time(text: str) -> int:
